@@ -3,7 +3,7 @@
  <title>Your Title - tilt</title>
  <link href="http://example.com/tags/tilt/index.xml" rel="self"/>
  <link href="http://example.com/tag/tilt.html"/>
- <updated>2018-11-08T12:04:22-02:00</updated>
+ <updated>2018-11-08T12:20:25-02:00</updated>
  <id>http://example.com/tag/tilt.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Amazônia</title>
-   <link href="http://example.com/2005/09/19/amazonia.html"/>
+   <link href="http://example.com/2005/09/19/amazonia/"/>
    <updated>2005-09-19T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/19/amazonia</id>
    <content type="html">&lt;p&gt;O Amazônia é um jogo do tipo adventure, onde o principal objetivo é escapar da selva amazônica após um acidente aéreo. O jogador inicia a partida junto aos destroços do avião e vai agindo de acordo com a situação que se apresentar, sempre tendo como parâmetro de atitude uma situação real.&lt;/p&gt;
@@ -26,7 +26,7 @@
  
  <entry>
    <title>Aeroporto 83</title>
-   <link href="http://example.com/2005/09/19/aeroporto-83.html"/>
+   <link href="http://example.com/2005/09/19/aeroporto-83/"/>
    <updated>2005-09-19T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/19/aeroporto-83</id>
    <content type="html">&lt;p&gt;A primeira versão deste jogo foi publicada na edição &lt;b&gt;22&lt;/b&gt; da revista &lt;b&gt;Micro Sistemas&lt;/b&gt;, lá pelo ano de &lt;b&gt;1983&lt;/b&gt; - daí o número 83 no nome do dito cujo. Foi o primeiro jogo brasileiro, totalmente escrito em linguagem de máquina (o popular &lt;b&gt;assembly&lt;/b&gt;) publicado em uma revista de circulação nacional. Nem precisa dizer que foi um estrondoso sucesso editorial na época.&lt;/p&gt;
@@ -39,7 +39,7 @@
  
  <entry>
    <title>Promoção de lançamento do jogosdaqui</title>
-   <link href="http://example.com/2005/09/17/promocao-de-lancamento-do-jogosdaqui.html"/>
+   <link href="http://example.com/2005/09/17/promocao-de-lancamento-do-jogosdaqui/"/>
    <updated>2005-09-17T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/17/promocao-de-lancamento-do-jogosdaqui</id>
    <content type="html">&lt;font size=&quot;4&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Um m&amp;ecirc;s de jogos daqui!&lt;/span&gt;&lt;/font&gt;

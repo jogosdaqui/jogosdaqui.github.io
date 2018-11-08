@@ -3,7 +3,7 @@
  <title>Your Title - continuum</title>
  <link href="http://example.com/tags/continuum/index.xml" rel="self"/>
  <link href="http://example.com/tag/continuum.html"/>
- <updated>2018-11-08T12:04:22-02:00</updated>
+ <updated>2018-11-08T12:20:25-02:00</updated>
  <id>http://example.com/tag/continuum.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Outlive</title>
-   <link href="http://example.com/2005/09/17/outlive.html"/>
+   <link href="http://example.com/2005/09/17/outlive/"/>
    <updated>2005-09-17T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/17/outlive</id>
    <content type="html">&lt;p&gt;Outlive é um jogo de estratégia em tempo real, no qual o jogador deve gerenciar sua base e construir tropas para atacar seus adversários. O jogo possui uma avançada Inteligência Artificial, permitindo que uma pessoa possa disputar partidas contra até 7 exércitos controlados pelo computador. Em Outlive também é possível jogar contra outras pessoas, através de cabo serial, modem, rede local e internet.&lt;/p&gt;

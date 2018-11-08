@@ -3,7 +3,7 @@
  <title>Your Title - promoção</title>
  <link href="http://example.com/tags/promocao/index.xml" rel="self"/>
  <link href="http://example.com/tag/promoção.html"/>
- <updated>2018-11-08T12:04:22-02:00</updated>
+ <updated>2018-11-08T12:20:25-02:00</updated>
  <id>http://example.com/tag/promoção.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Promoção de lançamento do jogosdaqui</title>
-   <link href="http://example.com/2005/09/17/promocao-de-lancamento-do-jogosdaqui.html"/>
+   <link href="http://example.com/2005/09/17/promocao-de-lancamento-do-jogosdaqui/"/>
    <updated>2005-09-17T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/17/promocao-de-lancamento-do-jogosdaqui</id>
    <content type="html">&lt;font size=&quot;4&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Um m&amp;ecirc;s de jogos daqui!&lt;/span&gt;&lt;/font&gt;
