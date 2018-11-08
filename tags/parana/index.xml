@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - parana</title>
+ <link href="http://example.com/tags/parana/index.xml" rel="self"/>
+ <link href="http://example.com/tag/parana.html"/>
+ <updated>2018-11-08T12:04:22-02:00</updated>
+ <id>http://example.com/tag/parana.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Outlive</title>
+   <link href="http://example.com/2005/09/17/outlive.html"/>
+   <updated>2005-09-17T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/17/outlive</id>
+   <content type="html">&lt;p&gt;Outlive é um jogo de estratégia em tempo real, no qual o jogador deve gerenciar sua base e construir tropas para atacar seus adversários. O jogo possui uma avançada Inteligência Artificial, permitindo que uma pessoa possa disputar partidas contra até 7 exércitos controlados pelo computador. Em Outlive também é possível jogar contra outras pessoas, através de cabo serial, modem, rede local e internet.&lt;/p&gt;
+
+&lt;p&gt;As partidas realizadas através da rede local e internet suportam até 16 pessoas num mesmo jogo. As partidas disputadas pela internet utilizam o Continuum Game Server (CGS), um serviço de jogos oferecido gratuitamente pela Continuum, onde é possível encontrar outras pessoas para conversar e jogar Outlive, através de uma interface totalmente integrada ao jogo.Outlive foi o primeiro jogo da empresa Continuum de Curitiba.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>
