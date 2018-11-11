@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - puzzle</title>
+ <link href="http://example.com/tags/puzzle/index.xml" rel="self"/>
+ <link href="http://example.com/tag/puzzle.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/puzzle.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>ReOrd</title>
+   <link href="http://example.com/2015/08/26/reord/"/>
+   <updated>2015-08-26T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/26/reord</id>
+   <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
+
+&lt;p&gt;Trazer esse gameplay simples de um brinquedo de infância para as telas mobile é a proposta do game ReOrd.&lt;/p&gt;
+
+&lt;h2 id=&quot;reord&quot;&gt;ReOrd&lt;/h2&gt;
+&lt;p&gt;O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o projeto utilizando XNA para Windows Phone 7, passou pelo open source &lt;a href=&quot;https://github.com/mono/MonoGame&quot; target=&quot;_blank&quot;&gt;MonoGame&lt;/a&gt;
+ para Windows Phone 8 e acabou refazendo todo o game utilizando a Unity3D. Mesmo com todos os desafios enfrentados durante a produção de ReOrd, Raphael pretende continuar desenvolvendo games de forma independente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Esse será apenas ‘O primeiro de muitos’ nas stores (comenta Raphael)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Com imagens dos cenários pintadas a mão por um artista ucraniano, o game funciona muito bem para quem gosta de quebra-cabeças. Sendo que os números do jogo original foram substituídos pelas imagens, o que por si só já aumenta a dificuldade do game, além disso você pode escolher entre 3 modos diferentes de jogo, cada um deles aumentando o número de quadrados do mosaico que compõe a imagem: 3x3, 4x4 e 5x5.&lt;/p&gt;
+
+&lt;p&gt;Existem 9 fases/imagens diferentes que são desbloqueadas conforme o jogador avança no game.&lt;/p&gt;
+
+&lt;p&gt;Uma pena o jogo não contar com trilha sonora, ajudaria na experiência.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;ReOrd é um game gratuito e está disponível para &lt;a href=&quot;http://windowsphone.com/s?appid=79bf8d67-8391-484e-a160-5f87c678c9a0&quot; target=&quot;_blank&quot;&gt;Windows Phone&lt;/a&gt;
+ e &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.raphael.reord&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
+. Existe a possibilidade de uma versão para iOS no futuro, mas nada certo ainda.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Esquadrão Patada</title>
+   <link href="http://example.com/2013/03/18/esquadrao-patada/"/>
+   <updated>2013-03-18T00:00:00-03:00</updated>
+   <id>http://example.com/2013/03/18/esquadrao-patada</id>
+   <content type="html">&lt;p&gt;A desenvolvedora mato-grossense &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;
+ já esteve no jogosdaqui em 2012 com seu puzzle para iOS, o game à época era &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-01-01_2012-01-31.html#2012_01-05_08_05_01-154784552-0&quot;&gt;Zigball&lt;/a&gt;
+. Agora é a vez de outro jogo para os aparelhos da Apple, esse também um puzzle: &lt;a href=&quot;http://www.pankekagames.com.br/esquadrao/&quot; target=&quot;_blank&quot;&gt;Esquadrão Patada&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Nesse novo game a missão é ajudar alguns simpáticos animais a chegarem ao seu destino dentro de quatro diferentes edificações. Cada edificação possui diversas fases, totalizando 40 fases ao todo.&lt;/p&gt;
+
+&lt;p&gt;Apesar dos gráficos cartoons e uma jogabilidade simples, que deve agradar o público juvenil, o jogo ainda é diversão para os apreciadores de um bom quebra-cabeça.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/VMJoVbZx0Y8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Esquadrão Patada é compatível com iPhone, iPod e iPad, e está &lt;a href=&quot;https://itunes.apple.com/br/app/esquadrao-patada-puzzles-divertidos/id521571988?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;gratuito na App Store&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Novidades no Gametrack</title>
+   <link href="http://example.com/2006/01/26/novidades-no-gametrack/"/>
+   <updated>2006-01-26T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/26/novidades-no-gametrack</id>
+   <content type="html">&lt;p&gt;Dois novos jogos foram colocados no ar no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Na parte de jogos multiplayer temos uma versão beta do famoso jogo de tabuleiro Imagem&amp;amp;Ação. Nos jogos singleplayer a novidade fica por conta do quebra-cabeça Sudoku.&lt;/p&gt;
+
+&lt;p&gt;Em breve a Devworks Game Technology deve colocar no ar uma versão beta do jogo Rummikub, um dos mais populares jogos de tabuleiro em todo mundo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Metablocks</title>
+   <link href="http://example.com/2006/01/06/metablocks/"/>
+   <updated>2006-01-06T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/06/metablocks</id>
+   <content type="html">&lt;p&gt;Divirta-se testanto sua coordenação e seu raciocínio lógico com esse jogo simples e eletrizante. Baseado no clássico “Tetris”, traz consigo várias e interessantes inovações.&lt;/p&gt;
+
+&lt;p&gt;Metablocks é um jogo do gênero “puzzle”, onde o jogador manipula blocos (peças) coloridos em uma plataforma bidimensional de 16 por 16 posições, em dois modos de jogo: Modo Aventura e Modo Lógico.&lt;/p&gt;
+
+&lt;p&gt;Baseado no original Tetris, criado em 1985, por Alexey Pazhitnov no centro de Ciência da Computação da Moscow Academy, Metablocks é igualmente desafiador e competitivo trazendo consigo várias inovações, que fazem dele um jogo original.&lt;/p&gt;
+
+&lt;p&gt;O jogo se divide em dois modos: Aventura e Lógico. O Modo Aventura explora a velocidade de raciocínio e coordenação do jogador, levando-o a uma disputa frenética entre os vários acontecimentos simultâneos. O Modo Lógico é um quebra-cabeça, permitindo ao jogador pensar calmamente na resolução única para a situação apresentada.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bears & Bees</title>
+   <link href="http://example.com/2005/12/17/bears-bees/"/>
+   <updated>2005-12-17T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/17/bears-bees</id>
+   <content type="html">&lt;p&gt;Bears &amp;amp; Bees da &lt;a href=&quot;http://www.devworks.com.br/&quot; target=&quot;_blank&quot;&gt;DevWorks &lt;/a&gt;
+éum jogo estilo quebra-cabeça onde o jogador precisa alimentar um urso feroz e faminto com mel, muito mel.&lt;/p&gt;
+
+&lt;p&gt;Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 3 favos de mel em forma de triângulo, toda vez que isso acontece o pote de mel do urso recebe mais mel.&lt;/p&gt;
+
+&lt;p&gt;O jogador também pode fazer combos o que faz com que o pote de mel chegue no nível esperado mais rápido.&lt;/p&gt;
+
+&lt;p&gt;O jogo possui dois modos: Arcade Mode e Puzzle Mode. No arcade mode o que vale é a velocidade, nunca deixando o urso com fome. No puzzle mode, o importante é fazer as melhores jogadas para passar ao próximo nível.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Winguel</title>
+   <link href="http://example.com/2005/12/07/previa-de-winguel/"/>
+   <updated>2005-12-07T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/07/previa-de-winguel</id>
+   <content type="html">&lt;p&gt;Winguel é um simpático alienígena que, ao passear por Marte, encontra uma sonda terráquea e resolve devolvê-la aos humanos na terra.&lt;/p&gt;
+
+&lt;p&gt;Ao chegar em órbita terrestre, a nave de Winguel é atacada pela WUC (World UFO Control).&lt;/p&gt;
+
+&lt;p&gt;A missão do jogo é encontrar os pedaços da nave explodida.&lt;/p&gt;
+
+&lt;p&gt;Winguel é divido em 5 tipos de jogos diferentes, cada um com várias fases.
+Em cada um dos tipos de jogos você terá que localizar uma parte da sua nave.
+Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt;/p&gt;
+&lt;h2 id=&quot;o-castelo&quot;&gt;O Castelo&lt;/h2&gt;
+
+&lt;p&gt;Um labirinto com visão superior. Winguel pode utilizar seu jetpack para voar sobre alguns obstáculos e precisa evitar os raios e os guardas da WUC.&lt;/p&gt;
+&lt;h2 id=&quot;a-pirâmide&quot;&gt;A Pirâmide&lt;/h2&gt;
+
+&lt;p&gt;Essa fase surpreende pela inusitada jogabilidade, apesar de ser um labirinto como no jogo “O Castelo”, o jogador não controla diretamente Winguel, mas a inclinação do tabuleiro do labirinto e assim Winguel movimenta-se conforme a inclinação.&lt;/p&gt;
+&lt;h2 id=&quot;a-lagoa&quot;&gt;A Lagoa&lt;/h2&gt;
+
+&lt;p&gt;Winguel vai procurar mais uma parte de sua nave, agora embaixo d’água. Nade com cuidado, pois o barco dos agentes da WUC passa lançando minas e torpedos, mas não vá pra muito fundo na lagoa, pois lá estão as plantas carnivoras prontas para apreciar uma carne alienígena.&lt;/p&gt;
+&lt;h2 id=&quot;o-cemitério&quot;&gt;O Cemitério&lt;/h2&gt;
+
+&lt;p&gt;Aqui a visão é lateral e Winguel tem novas habilidades, como: dar grandes pulos e golpes de karate. Destrua os agentes da WUC e utilize seu jetpack para ultrapassar os maiores obstáculos.&lt;/p&gt;
+&lt;h2 id=&quot;extras&quot;&gt;Extras&lt;/h2&gt;
+
+&lt;p&gt;Wallpapers, Colorir, Recortar e Blocos. Apenas Blocos estava disponível no demo. Blocos é um puzzle no estilo Tetris, onde o jogador deve eliminar os blocos de mesma cor. As bombas podem ajudar, destruindo todos os blocos da mesma cor. Enquanto você se esforça no quebra-cabeça, Winguel faz altas piruetas e canta (ou fala) de forma engraçada.&lt;/p&gt;
+
+&lt;p&gt;Um jogo casual, com um personagem carismático e uma variedade de jogabilidades. Gráficos muito bem elaborados, no melhor estilo “cartoon”. Som que combina com o enredo. Com tudo isso, Winguel promete ser mais um sucesso da Espaço Informática.&lt;/p&gt;
+
+&lt;p&gt;Baixe o demo do jogo &lt;a href=&quot;http://www.hades2.com/winguel/windemo.zip&quot;&gt;aqui&lt;/a&gt;
+ (65 MB).&lt;/p&gt;
+
+&lt;p&gt;Visite o site oficial: &lt;a href=&quot;http://www.winguel.com&quot; target=&quot;_blank&quot;&gt;www.winguel.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Fique com mais imagens de Winguel:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Quer saber mais sobre Winguel? Acompanhe o jogosdaqui!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Casseta & Planeta - Quebra-Cabeça</title>
+   <link href="http://example.com/2005/11/07/casseta-planeta-quebra-cabeca/"/>
+   <updated>2005-11-07T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/07/casseta-planeta-quebra-cabeca</id>
+   <content type="html">&lt;p&gt;Casseta &amp;amp; Planeta - Quebra-Cabeça é mais uma dos &lt;a href=&quot;http://www.casseta.com.br/&quot; target=&quot;_blank&quot;&gt;Cassetas&lt;/a&gt;
+! O tempo corre rápido e você tem que competir contra o relógio para ganhar mais e mais pontos usando as figuras carimbadas da TV para montar um quebra cabeças. Você pode formar a imagem usando um tempo progressivo ou optar por testar suas habilidades em um desafio! Nele encontra o nível mais difícil do jogo e terá um minuto para unir as peças embaralhadas.&lt;/p&gt;
+
+&lt;h2 id=&quot;características&quot;&gt;Características&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Escolha entre três níveis de jogos (Fácil, Médio e Difícil)&lt;/li&gt;
+  &lt;li&gt;Teste suas habilidades com a opção DESAFIO em um tempo regressivo do game&lt;/li&gt;
+  &lt;li&gt;Escolha as imagens que quer montar&lt;/li&gt;
+  &lt;li&gt;Você tem cinco dicas para visualizar no meio do game a figura escolhida para montar.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sudoku</title>
+   <link href="http://example.com/2005/10/25/sudoku/"/>
+   <updated>2005-10-25T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/25/sudoku</id>
+   <content type="html">&lt;p&gt;Sudoku, ou Su-doku, é simples, divertido e um amigável quebra-cabeça japonês. Sudoku usa números, mas matemática não é necessária, e por isso ele é tão popular. Tudo que você precisa fazer é aprender as regras e começar a jogar.&lt;/p&gt;
+
+&lt;p&gt;Sudoku estimula a mente e a lógica que existe em cada um de nós. Pessoas que jogam Sudoku, melhoram a memória, limpam a mente, muitas vezes previnem doenças do cérebro, como por exemplo Alzheimer.&lt;/p&gt;
+
+&lt;p&gt;Existem cientistas e pesquisadores que recomendam jogar Sudoku diariamente.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Super Popcorn Machine</title>
+   <link href="http://example.com/2005/09/23/super-popcorn-machine/"/>
+   <updated>2005-09-23T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/23/super-popcorn-machine</id>
+   <content type="html">&lt;p&gt;Você é capaz de estourar as pipocas de dois recipientes que estão em uma balança e mantê-los equilibrados ao mesmo tempo? Este é o grande desafio deste novo jogo de puzzle da Nology!&lt;/p&gt;
+
+&lt;p&gt;Muita diversão está esperando você nestes três incríveis modos de jogo. Tente encarar o ritmo divertido e veloz do modo Action e teste sua inteligência nos modos Puzzle e Strategy!&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Características e Benefícios:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Super Popcorn Machine é uma ótima opção de diversão para toda a família.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mais de 100 fases desafiantes além das fases especiais de bônus&lt;/li&gt;
+  &lt;li&gt;Três modos de jogo!&lt;/li&gt;
+  &lt;li&gt;Ranking mundial pela internet com as melhores pontuações&lt;/li&gt;
+  &lt;li&gt;Gráficos coloridos em tela cheia&lt;/li&gt;
+  &lt;li&gt;7 incríveis power ups!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+</feed>

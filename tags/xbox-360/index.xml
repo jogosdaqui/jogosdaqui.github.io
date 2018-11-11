@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - xbox-360</title>
+ <link href="http://example.com/tags/xbox-360/index.xml" rel="self"/>
+ <link href="http://example.com/tag/xbox-360.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/xbox-360.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Lançada a demo de TurboLink</title>
+   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink/"/>
+   <updated>2015-04-23T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
+   <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a title=&quot;Prévia de TurboLink&quot; href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;
+, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot; target=&quot;_blank&quot;&gt;demo pública&lt;/a&gt;
+ do game que está em votação no &lt;a title=&quot;TurboLink no Square Enix Collective&quot; href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Os jogadores poderão testar a demo com um torneio de 6 pistas, 4 carros, suporte ao controle do Xbox 360 e a implementação inicial da inteligência artificial do game.&lt;/p&gt;
+
+&lt;p&gt;Está esperando o que? Corre lá, teste o jogo e dê seu feedback aos desenvolvedores da Division Five.&lt;/p&gt;
+
+&lt;p&gt;A demo está disponível para Windows, Mac OSX e Linux: &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot; target=&quot;_blank&quot;&gt;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

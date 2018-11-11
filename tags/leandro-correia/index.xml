@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - leandro-correia</title>
+ <link href="http://example.com/tags/leandro-correia/index.xml" rel="self"/>
+ <link href="http://example.com/tag/leandro-correia.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/leandro-correia.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Começam as venda do Smart Panda</title>
+   <link href="http://example.com/2005/11/15/comecam-as-venda-do-smart-panda/"/>
+   <updated>2005-11-15T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/15/comecam-as-venda-do-smart-panda</id>
+   <content type="html">&lt;p&gt;Nesta terça-feira, 15 de novembro, foi posto a venda o jogo educacional &lt;a href=&quot;/2005/09/30/smart-panda/&quot;&gt;Smart Panda&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;O jogo usa elementos de ação para ensinar operações matemáticas básicas de uma maneira muito divertida.Smart Panda pode ser comprado diretamente pela internet.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Skooter</title>
+   <link href="http://example.com/2005/11/05/skooter/"/>
+   <updated>2005-11-05T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/05/skooter</id>
+   <content type="html">&lt;p&gt;Ele é o remake de um antigo jogo para os computadores de 8 bits da linha MSX. Este remake foi feito da maneira mais fiel possível ao original, com uma pequena modificação nos gráficos. O objetivo deste jogo é simples: controle seu robô Skooter e pegue os quatro ítens da pista para completar cada um dos dezesseis níveis que compõem o jogo. Um super quebra-cabeças.&lt;/p&gt;
+
+&lt;p&gt;Para jogar Skooter, use as setas e espaço (também suporta joysticks). Espaço destrói blocos verdes. Blocos vermelhos não podem ser destruídos. Blocos com setas movem-se sozinhos. Blocos com diamantes podem ser empurrados. Setas azuis empurram ítens (somente quando não estão bloqueadas).&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jet Boarder</title>
+   <link href="http://example.com/2005/10/21/jet-boarder/"/>
+   <updated>2005-10-21T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/21/jet-boarder</id>
+   <content type="html">&lt;p&gt;Este é Jet Boarder, um jogo de corrida com uma característica interessante: ele utiliza apenas uma única tecla para os controles.&lt;/p&gt;
+
+&lt;p&gt;Foi criado para a One Switch Competition, uma competição para jogos de uma tecla da Retroremakes e One Switch UK. A idéia é tornar jogos mais acessíveis para deficientes físicos (o que não quer dizer que Jet Boarder seja fácil).&lt;/p&gt;
+
+&lt;p&gt;Pressione espaço para ir para a direita. Solte para ir para a esquerda. Durante os menus, pressione espaço para mudar de opção e mantenha pressionado para escolher. Termine a pista no menor tempo possível e tome cuidado para que a sua energia não acabe quando colidir com os obstáculos!&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Características&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Uma única tecla (ou o botão do mouse ou joystick).&lt;/li&gt;
+	&lt;li&gt;Acessível para deficientes físicos.&lt;/li&gt;
+	&lt;li&gt;Oito fases em quatro pistas diferentes.&lt;/li&gt;
+	&lt;li&gt;Figuras escalonadas em tempo real.&lt;/li&gt;
+	&lt;li&gt;Desafio extremo!&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Smart Panda</title>
+   <link href="http://example.com/2005/09/30/smart-panda/"/>
+   <updated>2005-09-30T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/30/smart-panda</id>
+   <content type="html">&lt;p&gt;Conheça Smart Panda, um jogo diferente de tudo o que você já viu. Controle um simpático urso panda e tente resolver um a um todos os problemas matemáticos que surgem no alto da tela. Fácil? Não…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2005/09/LeandroCorreia_SmartPanda_2.jpg&quot;&gt;
+&lt;/a&gt;
+ &lt;a href=&quot;/wp-content/uploads/2005/09/LeandroCorreia_SmartPanda_3.jpg&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Em Smart Panda, existem diversos inimigos que farão de tudo para atrapalhar você. Caranguejos, escorpiões, gatos, macacos, bolas de praia, corvos e até nuvens carregadas de eletricidade estão à espreita para atrasar o pobre panda. Acabando o tempo (representado por uma barra verde à esquerda da tela, é GAME OVER).&lt;/p&gt;
+
+&lt;p&gt;Um jogo que mescla a clássica ação de plataformas com raciocínio matemático. Divertido para crianças (e até adultos) e altamente educacional.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

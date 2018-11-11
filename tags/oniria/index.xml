@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - oniria</title>
+ <link href="http://example.com/tags/oniria/index.xml" rel="self"/>
+ <link href="http://example.com/tag/oniria.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/oniria.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Dois jogos brasileiros no TOP 20 da Alemanha</title>
+   <link href="http://example.com/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha/"/>
+   <updated>2005-11-18T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha</id>
+   <content type="html">&lt;p&gt;Seguindo a trajetória de outros jogos brasileiros lançados na Alemanha, Der Pferderennstall, da &lt;a href=&quot;http://www.espacoinf.com&quot; target=&quot;_blank&quot;&gt;Espaço Informática&lt;/a&gt;
+ e Die Pferdebande da&lt;a href=&quot;http://www.oniria.com.br/&quot; target=&quot;_blank&quot;&gt; Oniria Entertainment&lt;/a&gt;
+, continuam no TOP 20 da Alemanha.&lt;/p&gt;
+
+&lt;p&gt;Der Pferderennstall há mais de 9 meses não sai do TOP 20 e agora se encontra no 15º lugar e Die Pferdebande, que já esteve no TOP 10, agora emplaca na 18ª posição. Die Pferdebande está no TOP 20 há 10 meses.&lt;/p&gt;
+
+&lt;p&gt;Die Ponyrancher, da Preloud e Jessy - Ein Zirkuspferd in Not da Bitcrafters são dois jogos brasileiros que já estiveram no TOP 20.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mais jogos para Europa em 2006</title>
+   <link href="http://example.com/2005/11/14/mais-jogos-para-europa-em-2006/"/>
+   <updated>2005-11-14T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/14/mais-jogos-para-europa-em-2006</id>
+   <content type="html">&lt;p&gt;Conforme Joachim F. Meyer, da empresa alemã Caipirinha Games, o ano de 2006 promete ser ainda melhor que 2005 para as empresas brasileiras que desenvolvem jogos para a Europa. A expectativa é que se tenha entre 6 a 10 jogos brasileiros lançados, através da Caipirinha Games, no continente europeu.&lt;/p&gt;
+
+&lt;p&gt;A Caipirinha Games financia, co-produz e distribui apenas jogos de empresas brasileiras. Entre essas empresas estão Espaço Informática, Oniria Entertainment, Preloud, Ignis Games e Continuum.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Impacto Alpha</title>
+   <link href="http://example.com/2005/10/01/impacto-alpha/"/>
+   <updated>2005-10-01T00:00:00-03:00</updated>
+   <id>http://example.com/2005/10/01/impacto-alpha</id>
+   <content type="html">&lt;p&gt;Primeiro jogo desenvolvido pela Oniria Entertainment, em 2001.
+Foi publicado no Brasil pela Cia do Software e na Alemanha, Áustria e Suíça pela BHV Software.&lt;/p&gt;
+
+&lt;p&gt;Impacto Alpha é um jogo de tiro espacial no estilo clássico dos anos 80, mas com uma produção condizente com os dias de hoje, voltado para o público casual.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2005/10/Oniria_ImpactoAlpha-2.jpg&quot;&gt;
+&lt;/a&gt;
+ &lt;a href=&quot;/wp-content/uploads/2005/10/Oniria_ImpactoAlpha-3.jpg&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;No jogo o planeta Terra, em 2014, foi invadido por uma armada alienígena no evento que ficou conhecido como “Impacto Alpha”. Grande parte da humanidade foi exterminada, e os sobreviventes foram escravizados pelos invasores.&lt;/p&gt;
+
+&lt;p&gt;No ano de 3693, um grupo humano de resistência à invasão alien consegue construir clandestinamente uma poderosa espaçonave capaz de viajar no tempo até a data da invasão, com o objetivo de salvar a Terra de seu terrível destino. No jogo você é o piloto desta nave. Em suas mãos, repousa todo o futuro da humanidade.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

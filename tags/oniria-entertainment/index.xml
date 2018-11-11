@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - oniria-entertainment</title>
+ <link href="http://example.com/tags/oniria-entertainment/index.xml" rel="self"/>
+ <link href="http://example.com/tag/oniria-entertainment.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/oniria-entertainment.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Dois jogos brasileiros no TOP 20 da Alemanha</title>
+   <link href="http://example.com/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha/"/>
+   <updated>2005-11-18T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha</id>
+   <content type="html">&lt;p&gt;Seguindo a trajetória de outros jogos brasileiros lançados na Alemanha, Der Pferderennstall, da &lt;a href=&quot;http://www.espacoinf.com&quot; target=&quot;_blank&quot;&gt;Espaço Informática&lt;/a&gt;
+ e Die Pferdebande da&lt;a href=&quot;http://www.oniria.com.br/&quot; target=&quot;_blank&quot;&gt; Oniria Entertainment&lt;/a&gt;
+, continuam no TOP 20 da Alemanha.&lt;/p&gt;
+
+&lt;p&gt;Der Pferderennstall há mais de 9 meses não sai do TOP 20 e agora se encontra no 15º lugar e Die Pferdebande, que já esteve no TOP 10, agora emplaca na 18ª posição. Die Pferdebande está no TOP 20 há 10 meses.&lt;/p&gt;
+
+&lt;p&gt;Die Ponyrancher, da Preloud e Jessy - Ein Zirkuspferd in Not da Bitcrafters são dois jogos brasileiros que já estiveram no TOP 20.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Die Pferdebande</title>
+   <link href="http://example.com/2005/09/22/die-pferdebande/"/>
+   <updated>2005-09-22T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/22/die-pferdebande</id>
+   <content type="html">&lt;p&gt;Die Pferdebande, baseado na série de livros homónima de Karin Müller.&lt;/p&gt;
+
+&lt;p&gt;No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistério envolvendo uma amazona e sua égua branca, feridas por um misterioso malfeitor. Os principais supeitos são dois motoqueiros poluidores do meio ambiente, mas seriam eles os culpados? Sem ser baseado em nenhum livro específico, Die Pferdebande é uma aventura nova, mas com o mesmo estilo que faz da série um sucesso.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/XtfPujHtU3s &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>

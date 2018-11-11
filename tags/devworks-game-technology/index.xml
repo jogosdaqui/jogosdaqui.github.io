@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - devworks-game-technology</title>
+ <link href="http://example.com/tags/devworks-game-technology/index.xml" rel="self"/>
+ <link href="http://example.com/tag/devworks-game-technology.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/devworks-game-technology.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Entrevista: Tiago Moraes da Ovni Studios (parte 1)</title>
+   <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1/"/>
+   <updated>2011-02-09T00:00:00-02:00</updated>
+   <id>http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
+   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olaboração para o jogosdaqui.&lt;/span&gt;&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;estúdio-fundado-há-pouco-mais-de-um-ano-mas-já-com-projetos-de-empresas-como-fiat-e-editora-abril-esta-é-a-ovni-studios-sediada-em-são-paulo-fomos-atrás-do-cabeça-da-companhia-tiago-moraes-para-saber-mais-sobre-a-indústria-e-o-mercado-nacional-e-internacional-além-das-perspectivas-para-o-futuro-na-primeira-parte-um-apanhado-sobre-o-começo-dele-no-desenvolvimento-de-jogos-a-dura-realidade-do-brasil-e-até-uns-pitacos-na-gameloft&quot;&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/h4&gt;
+
+&lt;h2 id=&quot;fale-um-pouco-de-você-e-do-seu-trabalho-na-ovni&quot;&gt;Fale um pouco de você e do seu trabalho na Ovni&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Eu sou o Tiago Moraes, trabalho na indústria de jogos aqui do Brasil há mais de 10 anos. A primeira empresa onde eu trabalhei e que mexia com algo relacionado a desenvolvimento foi a Brasoft , que começou como uma distribuidora de jogos de outras empresas do exterior e depois começou a fazer o trabalho de publicação também. No início nós fazíamos mais um trabalho de localização dos jogos (incluindo todos da Lucas Arts). Era uma das principais empresas que mexiam com jogos, não no desenvolvimento, mas com uma representação grande no brasi&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;pra-situar-a-galera-a-brasoft-tinha-alguma-coisa-a-ver-com-as-lojas-brasoftware-que-existiam-nos-shoppings-nos-anos-90&quot;&gt;Pra situar a galera: a Brasoft tinha alguma coisa a ver com as lojas Brasoftware que existiam nos shoppings nos anos 90?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Não, não é a mesma empresa. A Brasoft realmente fazia o trabalho de distribuição, mas tinha desenvolvimento e nós mexíamos dentro do jogo. Depois passei por outras distribuidoras e publicadoras, e foi quando começou o desenvolvimento mais forte aqui no Brasil, com alguns jogos que representavam algumas marcas, como novelas e coisas do tipo, e foi o começo do advergame também. Depois trabalhei numa empresa chamada Devworks, aí comecei a abrir minhas proprias empresas: fui sócio da Insolita, e depois fui sócio-fundador da Ovni Studios, que foi fundada há aproximadamente um ano.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;muita-gente-daqui-do-brasil-sonha-em-trabalhar-na-indústria-quais-dificuldades-você-enfrentou-falta-gente-para-trabalhar-ou-rola-muita-burocracia&quot;&gt;Muita gente daqui do Brasil sonha em trabalhar na indústria. Quais dificuldades você enfrentou? Falta gente para trabalhar, ou rola muita burocracia…&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Tudo atrapalha, a gente sempre tem de remar contra a maré aqui no nosso país. O que eu tenho mais dificuldade em todas as empresas por onde eu passei é que a indústria de jogos não paga o que o funcionário merece&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;você-crê-que-agora-que-os-jogos-sociais-e-de-browser-são-mais-acessíveis-esse-pode-ser-o-caminho-pra-indústria-aqui-ser-mais-bem-vista-ou-é-mais-uma-onda-que-vem-e-depois-vai-voltar-tudo-ao-normal&quot;&gt;Você crê que agora que os jogos sociais e de browser são mais acessíveis, esse pode ser o caminho pra indústria aqui ser mais bem vista, ou é mais uma onda que vem e depois vai voltar tudo ao normal?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Essa é a grande oportunidade que a gente esperava. O filtro de qualificação  para você adquirir os kits e ser desenvolvedor credenciado sempre foi muito grande, aí a Apple Store veio para mudar tudo e quebrar essa barreira. O Facebook também se consolidou como uma plataforma bem viável e que já tem um mercado bem consolidado para quem quiser se aventurar. Esses modelos de negócio nos colocaram de igual pra igual com as empresas lá de fora, então só depende da gente e do nosso talento para criar coisas interessantes e rentáveis.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;vocês-fizeram-jogos-para-ios-apple-estão-trabalhando-com-facebook-também&quot;&gt;Vocês fizeram jogos para iOS (Apple). Estão trabalhando com Facebook também?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Sim, nosso foco são os jogos casuais independente da plataforma. A gente tem de minimizar nosso esforço para estar em mais plataformas possiveis.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://player.vimeo.com/video/17389408 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;a href=&quot;/2010/12/27/dodgeball-safari/&quot;&gt;Dodgeball Safari&lt;/a&gt;
+, game para iPod/iPhone&lt;/center&gt;
+
+&lt;h2 id=&quot;ao-mesmo-tempo-que-é-mais-acessível-desenvolver-para-ios-e-facebook-a-concorrência-deve-ser-muito-grande-também-vocês-fazem-um-trabalho-no-marketing-para-encontrar-o-caminho-de-distribuir-o-jogo&quot;&gt;Ao mesmo tempo que é mais acessível desenvolver para iOS e Facebook, a concorrência deve ser muito grande também. Vocês fazem um trabalho no marketing para encontrar o caminho de distribuir o jogo?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Com esses modelo de distribuição digital, agora você pode fazer sua publicação. Você mesmo cria uma conta nessas lojas digitais e coloca seu jogo lá, com critério bem menor que uma publisher tradicional pede. Como essas lojas não tem muitos critérios, ficaram cheias de jogos. Assim, por mais que não haja publisher, o trabalho dele voltou a ser importante… é preciso desse selo de qualidade do publisher para as pessoas baixarem de olho fechado.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;vocês-já-fizeram-advergames-do-uno-do-tang-e-da-revista-placar-já-pensaram-no-caminho-inverso-de-ir-atrás-e-licenciar-uma-marca-conhecida-e-atingir-uma-audiência-maior&quot;&gt;Vocês já fizeram advergames do Uno, do Tang e da revista Placar. Já pensaram no caminho inverso, de ir atrás e licenciar uma marca conhecida e atingir uma audiência maior?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Tentamos com algumas marcas bem aceitas no mercado nacional e internacional, mas dificilmente a conta fecha nesse modelo de negócio. Antes, a quantia que estava com o desenvolvedor era bem menor do que geralmente é trabalhado hoje: pela Apple você realmente fica com uma quantia grande de cada cópia vendida, mas no micropagamento se ganha pela quantidade em vez da qualidade, é realmente muito complicado de fazer a conta fechar.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fiat Uno Color Race: um dos games desenvolvidos pela Ovni Studios para iPod/iPhone[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;a-gente-vê-a-gameloft-fazendo-cópia-de-muita-coisa&quot;&gt;A gente vê a Gameloft fazendo cópia de muita coisa…&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: É, a Gameloft é realmente um caso excepcional. Eles realmente copiam todo game design, trocam a skin, vendem milhões e mesmo assim são cópias bem interessantes, são jogos &quot;triple A&quot; de mobile.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quem-faz-a-coisa-séria-fica-decepcionado-com-isso&quot;&gt;Quem faz a coisa séria fica decepcionado com isso?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Sim, todos os feedbacks que os brasileiros recebem das publicadores internacionais é sempre o mesmo: que o brasileiro quer sempre fazer algo revolucionário, não em complexidade, mas em querer uma mecânica nova, que ninguém viu antes. Mas se pensar como um negócio, às vezes é melhor pegar vários elementos de jogos que fizeram sucesso para ter um retorno mínimo garantido.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Novidades no Gametrack</title>
+   <link href="http://example.com/2006/01/26/novidades-no-gametrack/"/>
+   <updated>2006-01-26T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/26/novidades-no-gametrack</id>
+   <content type="html">&lt;p&gt;Dois novos jogos foram colocados no ar no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Na parte de jogos multiplayer temos uma versão beta do famoso jogo de tabuleiro Imagem&amp;amp;Ação. Nos jogos singleplayer a novidade fica por conta do quebra-cabeça Sudoku.&lt;/p&gt;
+
+&lt;p&gt;Em breve a Devworks Game Technology deve colocar no ar uma versão beta do jogo Rummikub, um dos mais populares jogos de tabuleiro em todo mundo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Embaixadinha</title>
+   <link href="http://example.com/2006/01/26/embaixadinha/"/>
+   <updated>2006-01-26T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/26/embaixadinha</id>
+   <content type="html">&lt;p&gt;Mostre toda a sua habilidade nas &lt;a href=&quot;http://www.devworks.com.br/celular/br/embaixadinha.htm&quot; target=&quot;_blank&quot;&gt;embaixadinhas&lt;/a&gt;
+!&lt;/p&gt;
+
+&lt;p&gt;Você terá apenas um minuto para dar seu show. São 11 tipos de movimentos para você impressionar o público. O movimento realizado depende da posição em que está a bola quando você chuta. Tente não deixar a bola cair!&lt;/p&gt;
+
+&lt;p&gt;Quanto mais toques seguidos você conseguir, maior será sua pontuação. Você poderá ganhar bônus se fizer algumas seqüências especiais.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vôlei de Praia</title>
+   <link href="http://example.com/2005/12/26/volei-de-praia/"/>
+   <updated>2005-12-26T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/26/volei-de-praia</id>
+   <content type="html">&lt;p&gt;Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+. Vôlei de Praia faz o maior sucesso entre os jogadores do portal.&lt;/p&gt;
+
+&lt;p&gt;O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas diferenças: existe apenas um jogador de cada lado da rede e a bola pode quicar no lado adversário. A cada toque no solo, a barra de energia do jogador diminui, assim quanto mais “venenosa” for a sua jogada pior será para o seu adversário retornar a bola.&lt;/p&gt;
+
+&lt;p&gt;Os jogadores podem dar saltos gigantescos, super cortadas e usar as paredes da tela para rebater a bola.&lt;/p&gt;
+
+&lt;p&gt;Os gráficos possuem um ar de desenho animado e algumas telas mostram tribais que combinam muito bem com o clima do jogo. O som é suave e está no lugar certo: não distrai o jogador do principal, que é a jogabilidade e a diversão fácil.&lt;/p&gt;
+
+&lt;p&gt;O jogo conta com 6 fases com dificuldade crescente. Perdendo apenas uma partida, perde-se o jogo, e isto acaba tornando a tarefa de chegar ao fim, muito difícil.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bears & Bees</title>
+   <link href="http://example.com/2005/12/17/bears-bees/"/>
+   <updated>2005-12-17T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/17/bears-bees</id>
+   <content type="html">&lt;p&gt;Bears &amp;amp; Bees da &lt;a href=&quot;http://www.devworks.com.br/&quot; target=&quot;_blank&quot;&gt;DevWorks &lt;/a&gt;
+éum jogo estilo quebra-cabeça onde o jogador precisa alimentar um urso feroz e faminto com mel, muito mel.&lt;/p&gt;
+
+&lt;p&gt;Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 3 favos de mel em forma de triângulo, toda vez que isso acontece o pote de mel do urso recebe mais mel.&lt;/p&gt;
+
+&lt;p&gt;O jogador também pode fazer combos o que faz com que o pote de mel chegue no nível esperado mais rápido.&lt;/p&gt;
+
+&lt;p&gt;O jogo possui dois modos: Arcade Mode e Puzzle Mode. No arcade mode o que vale é a velocidade, nunca deixando o urso com fome. No puzzle mode, o importante é fazer as melhores jogadas para passar ao próximo nível.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Zôo</title>
+   <link href="http://example.com/2005/12/09/zoo/"/>
+   <updated>2005-12-09T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/09/zoo</id>
+   <content type="html">&lt;p&gt;Precisa-se de um zelador! Nós do zoológico &lt;a href=&quot;http://www.devworks.com.br/celular/br/zoo.htm&quot; target=&quot;_blank&quot;&gt;Zôo&lt;/a&gt;
+ estamos procurando um novo zelador para alimentar nossos animais.&lt;/p&gt;
+
+&lt;h2 id=&quot;sua-missão-como-zelador-do-zôo&quot;&gt;Sua missão como zelador do Zôo&lt;/h2&gt;
+&lt;p&gt;Se aceitar o emprego, sua principal missão será entregar a comida dos animais em suas jaulas, não deixando nenhum deles adoecer ou morrer de fome.&lt;/p&gt;
+
+&lt;p&gt;Você deverá percorrer o zoológico empurrando seu carrinho de comida e entregando a comida na jaula de cada animal. O candidato deve gostar de desafios crescentes, pois estamos sempre comprando novos animais. Lembre-se, um animal bem alimentado é um animal feliz!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entrevista: Gametrack</title>
+   <link href="http://example.com/2005/11/14/entrevista-gametrack/"/>
+   <updated>2005-11-14T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/14/entrevista-gametrack</id>
+   <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;O Gametrack é um portal produzido e mantido pela desenvolvedora brasileira Devworks Game Technology. Possui conteúdo exclusivo, como por exemplo a versão online do famoso WAR, jogo de tabuleiro da Grow que já fazia muito sucesso na sua forma convencional e que vem mantendo esse sucesso na forma online.&lt;/p&gt;
+
+&lt;p&gt;O portal também possui outros jogos, esses jogos só podem ser encontrados no portal e são desenvolvidos pela própria Devworks.&lt;/p&gt;
+
+&lt;p&gt;O site jogosdaqui entrevistou Marcelo Carvalho (um dos fundadores da Devworks) sobre o portal.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-surgiu-a-idéia-de-desenvolver-o-gametrack&quot;&gt;Como surgiu a idéia de desenvolver o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Temos essa idéia há mais de 3 anos. Mas estávamos aguardando o momento certo para lançá-la. Os números de usuários de banda larga estão cada vez mais significativos e sentimos que era o momento certo. A idéia surgiu do seguinte fato. Os ‘core gamers’ tem várias opções online incluindo servidores de jogos famosos como Counter Strike ou Battlefield. Os jogadores casuais que acessam por internet discada também tem inúmeras opções de sites que oferecem grande quantidade de jogos simples. Mas os jogadores casuais que possuem banda larga, tem todos os recursos para jogar jogos melhores, mas acabavam não sendo atendidos adequadamente por nenhum dos 2 grupos anteriores. O Gametrack foi criado para esse público. Um público de mais de 5 milhões de pessoas. Normalmente composto por jogadores com idades que variam dos 20 aos 45 anos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quais-são-os-maiores-atrativos-do-gametrack-para-o-jogador-de-banda-larga&quot;&gt;Quais são os maiores atrativos do Gametrack para o jogador de banda larga?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: No Gametrack, esqueça os joguinhos de sempre que você encontra em qualquer site. Nosso foco é em conteúdo exclusivo, muitas vezes inédito. Também vamos procurar explorar cada vez mais os recursos disponíveis para os jogadores produzindo jogos 3D, jogos com mais recursos visuais/sonoros e jogos em tempo real (em contraste com os tradicionais jogos baseados em turnos)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;hoje-o-gametrack-possui-2-jogos-multiplayer-war-e-super-trunfo-ambos-versões-online-de-jogos-de-sucesso-da-grow-os-jogadores-podem-esperar-mais-jogos-convencionais-sendo-portados-para-o-gametrack&quot;&gt;Hoje o Gametrack possui 2 jogos multiplayer: WAR e Super Trunfo, ambos versões online de jogos de sucesso da Grow. Os jogadores podem esperar mais jogos convencionais sendo ‘portados’ para o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sem dúvida. Tem mais 2 jogos famosos na fila: Imagem&amp;amp;Ação e Rummikub (um dos jogos mais vendidos do mundo). O Imagem&amp;amp;Ação é um desses jogos que o jogador só vai conseguir jogar adequadamente se possuir banda larga, pois enquanto um está desenhando, os outros estão tentando adivinhar a resposta. Do Rummikub, ainda não posso dar muitos detalhes, mas no ano quem vem terá o &quot;World Rummikub Champioship&quot; na Holanda (Evento realizado a cada 3 anos) e as chances são grandes de a seletiva brasileira ser realizada no Gametrack.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Super Trunfo: mais um jogo famoso “portado” para o Gametrack[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;além-dos-jogos-multiplayer-o-portal-também-conta-com-6-jogos-singleplayer-vôlei-de-praia-pato-possante-pebolim-3d-xadrez-reversi-e-jogo-de-cintura-o-que-o-jogador-pode-esperar-de-cada-um-desses-jogos&quot;&gt;Além dos jogos multiplayer, o portal também conta com 6 jogos singleplayer: Vôlei de Praia, Pato Possante, Pebolim 3D, Xadrez, Reversi e Jogo de Cintura. O que o jogador pode esperar de cada um desses jogos?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: São jogos divertidos. E o pessoal tem jogado principalmente o Vôlei de praia e o Xadrez (que tem uma Inteligência Artificial bastante desafiadora). Pretendemos colocar mais 4 jogos single-player no ar até o final do ano, incluindo o jogo de Dominó. A tendência é produzir jogos mais complexos no futuro, mas o foco inicial dessa complexidade é nos jogos multiplayer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+&amp;gt; Os jogos singleplayer do Gametrack&lt;/center&gt;
+
+&lt;h2 id=&quot;quais-os-jogos-de-maior-sucesso-entre-os-jogadores-do-gametrack&quot;&gt;Quais os jogos de maior sucesso entre os jogadores do Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sem dúvida, é o jogo de WAR. Foram criadas até comunidades do Orkut para quem joga WAR no Gametrack. São mais de 7 que temos notícias. Uma delas, a &quot;Eu jogo war no Gametrack&quot;, tem mais de 150 membros.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;WAR: o jogo de maior sucesso no Gametrack[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;um-campeonato-de-war-online-seria-bem-divertido-o-gametrack-promove-alguma-forma-de-campeonatos-entre-os-jogadores-do-portal&quot;&gt;Um campeonato de WAR online seria bem divertido, o Gametrack promove alguma forma de campeonatos entre os jogadores do portal?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Ainda não estamos promovendo, mas pretendemos realizar campeonatos no futuro. Mesmo não sendo organizado por nós, já há um campeonato em vias de começar. Uma comunidade do Orkut está organizando um grande campeonato de WAR que vai começar no dia 19/11. É a comunidade &quot;Campeonato de WAR no Gametrack&quot; que tem limite de 128 participantes. Não estamos participando da organização, mas ficamos muito felizes que os jogadores estejam se organizando.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;como-o-jogador-tem-acesso-aos-jogos-do-gametrack-quais-são-as-formas-de-pagamento&quot;&gt;Como o jogador tem acesso aos jogos do Gametrack? Quais são as formas de pagamento?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: São basicamente 2 formas: o &quot;Entrada Livre&quot; e o &quot;Gametrack VIP&quot;. O primeiro é através do telefone. O jogador disca um número local e deixa o telefone fora do gancho enquanto joga, pagando apenas a ligação local. Para quem vai jogar mais de 5 horas por mês, o ideal é o &quot;Gametrack VIP&quot; que funciona com uma assinatura e tem planos de valores diferentes, mas o mais utilizado é a assinatura trimestral onde o jogador paga R$9,90/mês. Optamos por esses modelos, pois assim podemos oferecer um serviço muito superior a outros sites. E continuar produzindo jogos de qualidade, enquanto o jogador paga menos que uma entrada de cinema e se diverte por um muito mais tempo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;a-devworks-está-desenvolvendo-novos-jogos-para-o-gametrack&quot;&gt;A Devworks está desenvolvendo novos jogos para o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sim, nos próximos 3 meses, colocaremos mais 4 jogos single-player no ar e mais 2 jogos multiplayer. No que vem, traremos MUITAS surpresas boas para os assinantes do portal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Primeiras imagens de Gods of The Virtual Boards</title>
+   <link href="http://example.com/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/"/>
+   <updated>2005-10-22T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards</id>
+   <content type="html">&lt;p&gt;Um jogo baseado nas previsões de Nostradamus, este é Gods of The Virtual Boards.
+O jogo está sendo desenvolvido pela Devworks Technology e tem previsão de lançamento para novembro de 2006.&lt;/p&gt;
+
+&lt;p&gt;O jogador deverá enfrentar Hazard, Gloria, Zulu, Piatã, Volutia, Oden e Uxy em tabuleiros virtuais espalhados pelo mundo. Destaque para Piatã, o Deus responsável pela arte e estratégia das guerras. O seu tabuleiro se encontra no meio da floresta amazônica e aguarda o jogador para uma luta de centauros.&lt;/p&gt;
+
+&lt;p&gt;O trailer do jogo, que pode ser baixado &lt;a href=&quot;http://www.devworks.com.br/pc/gods.wmv&quot;&gt;aqui&lt;/a&gt;
+&lt;a href=&quot;http://www.devworks.com.br/pc/gods.wmv&quot;&gt;,&lt;/a&gt;
+ já demonstra a alta qualidade gráfica que podemos esperar quando Gods of The Virtual Boards for lançado.&lt;/p&gt;
+
+&lt;p&gt;Fique com as imagens do jogo em desenvolvimento:&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>

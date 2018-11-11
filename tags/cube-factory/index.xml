@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - cube-factory</title>
+ <link href="http://example.com/tags/cube-factory/index.xml" rel="self"/>
+ <link href="http://example.com/tag/cube-factory.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/cube-factory.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>C-Bot</title>
+   <link href="http://example.com/2013/03/21/c-bot/"/>
+   <updated>2013-03-21T00:00:00-03:00</updated>
+   <id>http://example.com/2013/03/21/c-bot</id>
+   <content type="html">&lt;p&gt;No puzzle C-Bot da &lt;a href=&quot;http://www.cubefactory.com.br/&quot; target=&quot;_blank&quot;&gt;Cube Factory&lt;/a&gt;
+ o jogador controla um robô que pode basicamente andar para trás e para frente. Para realizar outros movimentos, como pular, atirar, correr e inverter a gravidade (isso mesmo &quot;Inverter a gravidade&quot;) será preciso coletar cubos de energia espalhados pelo laboratório onde o robô foi criado e onde ele acabou de acordar sem saber muito bem o que está acontecendo.&lt;/p&gt;
+
+&lt;p&gt;Para realizar qualquer coisa que não seja apenas caminhar, ou seja, para completar os quebra-cabeças de cada fase você terá que entender qual a sequência certa de cubo a ser utilizada.&lt;/p&gt;
+
+&lt;p&gt;A Cube Factory conseguiu criar um action puzzle fantástico que consegue inovar e ainda ser desafiador e divertido. Os gráficos e sons do game são muito bem elaborados e são perfeitos para serem jogados nas telas touch de iOS e Android.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+O game possui mais de 40 fases, com dificuldade gradativa, que vão introduzindo o gameplay de forma inteligente ao jogador.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/wYXI842x_GU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;C-Bot está disponível para &lt;a href=&quot;https://itunes.apple.com/br/app/c-bot-puzzle/id601810317&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
+ e &lt;a href=&quot;https://play.google.com/store/apps/details?id=cubefactory.cbot&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
+.
+Um &quot;must-have&quot;!&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

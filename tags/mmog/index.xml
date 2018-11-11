@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - mmog</title>
+ <link href="http://example.com/tags/mmog/index.xml" rel="self"/>
+ <link href="http://example.com/tag/mmog.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/mmog.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>FutSim</title>
+   <link href="http://example.com/2005/10/13/futsim/"/>
+   <updated>2005-10-13T00:00:00-03:00</updated>
+   <id>http://example.com/2005/10/13/futsim</id>
+   <content type="html">&lt;p&gt;O FutSim é um jogo online onde o usuário assume o papel de um técnico de um clube de futebol. Único jogo do gênero no mundo onde os usuários podem ver as suas partidas ao vivo, também é o primeiro jogo com milhares de jogadores simultâneos (massively multiplayer online game) 100% brasileiro.&lt;/p&gt;
+
+&lt;p&gt;O FutSim é um serviço que, desde a sua entrada no ar em abril de 2003, vem revolucionando a forma como entretenimento online é feito no Brasil através do seu foco na formação de comunidades virtuais e na qualidade de atendimento aos seus usuários.&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Taikodom</title>
+   <link href="http://example.com/2005/09/21/taikodom/"/>
+   <updated>2005-09-21T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/21/taikodom</id>
+   <content type="html">&lt;p&gt;Taikodom é um Massively Multiplayer Online Game (MMO) baseado no universo desenvolvido pela Hoplon e o escritor de ficção científica Gerson Lodi-Ribeiro.&lt;/p&gt;
+
+&lt;p&gt;É um game de ação em escala real, onde os jogadores terão a liberdade para pilotar naves, se organizar em corporações, enfim viver. Viver em um mundo novo onde viagens entre estações espaciais, imortalidade, construção de habitats artificiais e colônias humanas nas órbitas e superfícies de planetas e asteróides são coisas rotineiras. Sua conduta e relação social determinam o que você vai ser. Pirata, patrulheiro, explorador, minerador, repórter, transportador, caçador de recompensas… Os recursos são infinitos e há uma vasta galáxia a explorar, com milhares de jogadores competindo e cooperando entre si. Seus objetivos podem ser tão simples como vagar pelo espaço, ou até construir mega-corporações espaciais.&lt;/p&gt;
+
+&lt;p&gt;No Taikodom, o personagem e o jogador se misturam e ninguém é por definição superior a ninguém. O desafio é constante. Fazer os melhores negócios, ser um bom piloto e ter sucesso só depende de você e de sua rede de amizades.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - wii</title>
+ <link href="http://example.com/tags/wii/index.xml" rel="self"/>
+ <link href="http://example.com/tag/wii.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/wii.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Crowdfunding de 99Vidas o jogo</title>
+   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo/"/>
+   <updated>2015-07-31T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
+   <content type="html">&lt;p&gt;O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat’em up, grandes clássicos e referências para qualquer game do gênero.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://99vidas.com.br/jogo&quot; target=&quot;_blank&quot;&gt;99Vidas o jogo&lt;/a&gt;
+ é uma parceria entre a gamedev brasileira QUByte Interactive e o podcast 99Vidas visando a criação de um novo IP baseado no universo do programa.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O estilo clássico de beat’em up, pixel art com vozes masterizadas é algo que da QUByte sempre quis fazer e com esta parceria finalmente a empresa terá sua oportunidade de fazer algo neste estilo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A QUByte e a equipe do 99vidas montaram uma equipe que trabalhou os últimos 5 meses na produção da demo do jogo, assim os jogadores poderão ter uma boa ideia do game antes de ajudar no crownfunding.&lt;/p&gt;
+
+&lt;p&gt;Na demo jogável, que está disponível para &lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt;Mac e Windows&lt;/a&gt;
+ podemos conferir uma fase inteira do jogo, podendo selecionar entres os personagens do Jurandir Filho e do Izzy Nobre. O game com seu estilo pixel art é um beat’em up em todo seu gameplay e está muito legal, com direito a soco, chutes e especiais de encher a tela. As frases e vozes dos membros do podcast 99Vidas estão ali e dão um toque bem original ao game, vide ao famoso “Go” dos jogos do gênero, que no 99Vidas o jogo virou “Bora”.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt;campanha de financiamento&lt;/a&gt;
+ coletivo iniciada hoje no Catarse tem como objetivo adicionar mais personagens, fases e elementos ao jogo e leva-lo ao PC e Mac. Ainda existem metas na campanha que, se atingidas, ajudarão a levar o game para PS4, Xbox One, Wii U e 3DS.&lt;/p&gt;
+
+&lt;h2 id=&quot;trailer-de-99vidas-o-jogo&quot;&gt;Trailer de 99Vidas o jogo&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/jLgl-KoZwmo &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Gostou da demo? É fã de beat’em up? Então colabore na campanha &lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt;https://www.catarse.me/pt/99vidas&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entrevista: Fernando Paulo, criador de Treeker</title>
+   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/"/>
+   <updated>2015-05-19T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
+   <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot; target=&quot;_blank&quot;&gt;Blusoft Studios&lt;/a&gt;
+, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;
+. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
+
+&lt;h2 id=&quot;para-contextualizar-o-leitor-conte-um-pouco-da-tua-história-no-gamedev&quot;&gt;Para contextualizar o leitor, conte um pouco da tua história no gamedev?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: Eu me formei em Design de Jogos em 2012, e depois disso fiz alguns trabalhos freelance, principalmente com modelagem 3D. Treeker foi meu primeiro jogo comercial, então basicamente esse jogo foi meu primeiro passo como desenvolvedor de jogos comercialmente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;e-a-ideia-do-enredo-e-gameplay-do-treeker-como-surgiu&quot;&gt;E a ideia do enredo e gameplay do Treeker, como surgiu?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: É difícil saber de onde exatamente surgiu o enredo. Primeiro eu pensei na mecânica principal do jogo (que seria o uso dos óculos pra poder ver objetos que não poderiam ser vistos de outra forma), e conforme eu desenvolvia, os detalhes do enredo foram surgindo. Eu quis fazer algo que inicialmente parecesse fantasia, mas que por trás disso tudo tivesse conceitos relacionados ao universo em geral.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Treeker: Os Óculos Perdidos, game criado por Fernando Paulo[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;que-engine-e-tecnologias-utilizaste-no-desenvolvimento-do-game&quot;&gt;Que engine e tecnologias utilizaste no desenvolvimento do game?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: Usei a engine Unity 3D, Photoshop pras texturas e interface, Soundbooth pra editar os efeitos sonoros e Maya pra modelagem 3D (conceito). Devido às licenças do Maya, usei também Daz3D pra criar os modelos finais a serem exportados pro jogo&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;o-game-foi-lançado-para-pc-windows-existe-algum-plano-para-outras-plataformas&quot;&gt;O game foi lançado para PC (Windows), existe algum plano para outras plataformas?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: Eu tenho interesse, principalmente no Wii U e PS4, porém depende da possibilidade de conseguir um devkit e as licenças. Estou entrando em contato com as fabricantes e vou aguardar algum tipo de resposta. Apesar do meu interesse, acredito que não será algo tão fácil de conseguir no momento, então espero pelo menos poder lançar o meu próximo jogo nos consoles também.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;o-game-esteve-em-campanha-no-steam-greenlight-e-foi-aprovado-pela-comunidade-a-campanha-no-greenlight-foi-como-você-esperava&quot;&gt;O game esteve em campanha no Steam Greenlight e foi aprovado pela comunidade. A campanha no Greenlight foi como você esperava?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: Eu esperava que fosse demorar um pouco mais pra ser aprovado. Assim que o jogo apareceu no Greenlight a votação começou bastante forte, porque ele estava nas primeiras páginas. Depois dos primeiros dias novos jogos vão entrando e o jogo vai perdendo rapidamente visibilidade, fazendo com que a velocidade dos votos caia drasticamente. Eu continuei divulgando o jogo em vários grupos e enviando emails, porém foi quando o jogo participou do indieroyale que as votações dispararam novamente e o jogo recebeu o sinal verde&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;vamos-falar-um-pouco-mais-sobre-o-mundo-de-treeker-o-que-o-jogador-pode-esperar-durante-a-jornada&quot;&gt;Vamos falar um pouco mais sobre o mundo de Treeker, o que o jogador pode esperar durante a jornada?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: Pode esperar um pouco de desafio e algumas mecânicas diferentes e que podem parecer até estranhas, como os elementos de plataforma em primeira pessoa. O enredo é mais misterioso, o jogador deve explorar o local em busca de detalhes e prestar bastante atenção, caso queira entender o que realmente está acontecendo em relação à história. No geral o jogo não força o jogador a seguir a história, e tem certa liberdade, sem ser algo totalmente linear.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Treeker e seu visual 3D estiloso[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;o-game-tem-um-visual-3d-bem-peculiar-e-estiloso-quais-foram-tuas-inspirações-durante-o-desenvolvimento-da-arte-do-game&quot;&gt;O game tem um visual 3D bem peculiar e estiloso. Quais foram tuas inspirações durante o desenvolvimento da arte do game?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: Eu decidi usar esse visual em junho do ano passado, e naquela época não existiam muitos jogos ou artes nesse estilo. Acredito que o pouco que existia como referência me influenciou, que é um estilo com polígonos bem aparentes. Eu fiz uns modelos e gostei do resultado. Iria facilitar também o desenvolvimento, então segui nesse estilo. Nos últimos meses esse estilo se tornou bastante popular entre os desenvolvedores indie, mas não era algo que eu havia previsto na época&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;recentemente-treeker-tornou-se-o-primeiro-game-brasileiro-a-figurar-como-melhor-jogo-do-big-festival-além-de-também-aparecer-como-candidato-nas-categorias-melhor-arte-e-revelação-brasil-você-esperava-tamanho-sucesso&quot;&gt;Recentemente Treeker tornou-se o primeiro game brasileiro a figurar como &quot;Melhor jogo&quot; do BIG Festival, além de também aparecer como candidato nas categorias &quot;Melhor arte&quot; e &quot;Revelação Brasil&quot;. Você esperava tamanho sucesso?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: Eu esperava que talvez o Treeker fosse finalista na categoria Melhor Arte, pois o visual foi algo que trabalhei em cima pra deixar agradável. Mesmo assim, devido à concorrência, eu tinha em mente que talvez o jogo não fosse finalista em nenhuma categoria. Um dia antes da divulgação pública dos finalistas recebi email sendo informado de que o jogo era finalista na categoria Melhor Jogo. Porém eu não tinha percebido que é o primeiro jogo brasileiro a participar desta categoria. Fui descobrir isso apenas no dia seguinte quando saíram as notícias, junto com outro email informando que o jogo é finalista também nas categorias Melhor Arte e Revelação Brasil, então fiquei bastante surpreso e feliz.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;para-finalizarmos-qual-será-o-próximo-projeto-da-blubox-soft&quot;&gt;Para finalizarmos, qual será o próximo projeto da Blubox Soft?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Fernando Paulo: Bom, não posso dizer muitos detalhes no momento, pois ainda não foi anunciado, mas se tudo correr de acordo com o planejado, será um jogo de aventura em terceira pessoa com mais foco no enredo. Eu decidi também lançar um conteúdo adicional pro Treeker, gratuitamente pra quem já tem o jogo, e se chamará Treeker: Fragmento da Lente. Esse modo será como um capítulo adicional, usando algumas mecânicas do Treeker, e irá revelar mais detalhes da história. Também pretendo disponibilizar uma demo gratuita baseada nesse modo. Ainda não tenho data pra lançar esse conteúdo, mas provavelmente será nas próximas semanas. Além disso também continuo avaliando feedback dos jogadores do Treeker e fazendo melhorias ao jogo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;trailer-de-treeker-os-óculos-perdidos&quot;&gt;Trailer de Treeker: Os Óculos Perdidos&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/FC1vKNFBQWI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O jogosdaqui agradece ao Fernando pela entrevista e deseja sucesso a ele. Esperamos que outros games tão criativos e bonitos como Treeker surjam da Blubox Soft.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Revelado novo game da QUByte Interactive: Recruits</title>
+   <link href="http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/"/>
+   <updated>2015-05-05T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
+   <content type="html">&lt;p&gt;Semana passada &lt;a href=&quot;/2015/04/30/qubyte-interactive-produzindo-novo-game/&quot;&gt;anunciamos&lt;/a&gt;
+ que a gamedev brasileira QUByte Interactive estava produzindo um novo game  de estratégia com muitos elementos de ação, inspirado em clássicos top-down shooter, como Cannon Fodder do SNES.&lt;/p&gt;
+
+&lt;p&gt;Hoje a QUbyte revelou oficialmente o jogo, trata-se de &lt;a href=&quot;http://www.recruitsgame.com/&quot; target=&quot;_blank&quot;&gt;Recruits - Make Heroes. Make History&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Um game com um grande apelo gráfico, onde o jogador, na pele de um comandante, deve utilizar estratégias de combate para levar seu esquadrão a vitória em diversas missões, como resgatar um membro da equipe e levá-lo a uma área segura.&lt;/p&gt;
+
+&lt;p&gt;A versão para PCs já está &lt;a href=&quot;http://store.steampowered.com/app/246880&quot; target=&quot;_blank&quot;&gt;disponível na Steam&lt;/a&gt;
+ em early access. Segundo Marivaldo Cabral, engenheiro de software e CEO da QUByte, a arrecadação durante esse fase será utilizada para o aperfeiçoamento do game que também deve chegar nas plataformas PS3, Xbox One e Nintendo Wii U.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Em todas elas, a qualidade gráfica continuará sendo um diferencial”, diz Cabral. A empresa também revelou que o game utiliza a famosa engine gráfica Unreal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Outro fato interessante sobre o game é que ele é o resultado de uma parceria da empresa brasileira com a australiana Commotion Games, que  começou a desenvolver o jogo. A QUByte será a responsável por finalizar e lançar o game. Atualmente a equipe da QUByte trabalha em novas missões, a melhoria do sistema multiplayer e mecânicas de jogabilidade.&lt;/p&gt;
+
+&lt;h2 id=&quot;confira-o-trailer-oficial-de-recruits&quot;&gt;Confira o trailer oficial de Recruits&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/pNcZhrWItSM &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Nossa expectativa com o game é alta, pois pelas screenshots e trailer disponíveis, tanto gráficos e gameplays parecem ser arrasadores e realmente nos lembraram os clássicos games top-down shooter que tanto gostávamos. Em breve teremos uma análise completa de Recruits no jogosdaqui.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>QUByte Interactive produzindo novo game</title>
+   <link href="http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game/"/>
+   <updated>2015-04-30T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game</id>
+   <content type="html">&lt;p&gt;A paulista QUByte Interactive, conhecida pelo jogo &lt;a href=&quot;/2014/06/18/splitplay-apresenta-htr-high-tech-racing/&quot; title=&quot;Splitplay apresenta: HTR+ High Tech Racing+&quot;&gt;HTR+&lt;/a&gt;
+, anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U.&lt;/p&gt;
+
+&lt;p&gt;Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou apenas um hotsite para acompanhar a contagem até o dia da revelação: &lt;a href=&quot;http://www.qubyteinteractive.com/games/newgame/&quot; target=&quot;_blank&quot;&gt;http://www.qubyteinteractive.com/games/newgame/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;exclusivo&quot;&gt;Exclusivo&lt;/h2&gt;
+&lt;p&gt;O jogosdaqui conseguiu apurar que será um game de estratégia com bastante elementos de ação, além disso será uma homenagem a jogos clássicos top-down shooter, como Cannon Fodder do SNES.&lt;/p&gt;
+
+&lt;p&gt;Cannon Fodder para SNES[/caption]&lt;/p&gt;
+
+&lt;p&gt;O jeito será esperar até o dia do anúncio oficial da QUByte e assim poderemos matar a curiosidade sobre o novo game deles.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #3</title>
+   <link href="http://example.com/2015/04/26/checkpoint-3/"/>
+   <updated>2015-04-26T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/26/checkpoint-3</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/21/museu-do-videogame-itinerante&quot;&gt;Evento do Museu do Videogame Itinerante, onde os jogadores podem conhecer e jogar clássicos das décadas de 70, 80, 90 e 2000&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://store.steampowered.com/app/320820&quot;&gt;A equipe da Swordtales lembrando que o game Toren já pode ser adicionado a lista de desejos no Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/22/entrevista-claudio-lin&quot;&gt;Entrevistamos Claudio Lins, gamedev brasileiro do game Super Doomed’n Damned que sairá para Xbox One, Wii U e PC&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.criticalgamer.co.uk/2015/04/21/toren-hands-on&quot;&gt;Review do game brasileiro Toren pelo site Critical Gamer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/23/lancado-a-demo-de-turbolink&quot;&gt;Lançada a demo pública do game brasileiro TurboLink&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/24/cobertura-do-evento-powerup-2&quot;&gt;O jogosdaqui esteve no PowerUp da ADJogosRS, veja o que rolou no evento&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/24/trailer-de-lancamento-de-chroma-squad&quot;&gt;A Behold Studios libera um divertido trailer de lançamento do Chroma Squad&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entrevista: Claudio Lins</title>
+   <link href="http://example.com/2015/04/22/entrevista-claudio-lins/"/>
+   <updated>2015-04-22T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
+   <content type="html">&lt;h4 id=&quot;o-jogosdaqui-entrevistou-o-gamedev-brasileiro-claudio-lins-desenvolvedor-do-game-doomedn-damned-e-que-agora-está-trabalhando-no-seu-novo-jogo-o-super-doomedn-damned-que-será-lançado-xbox-one-wii-u-e-pc&quot;&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/h4&gt;
+
+&lt;p&gt;[sc:Interview_item question=”Fale um pouco da tua trajetória, como chegaste ao gamedev?” interviewee=”Claudio” answer=”Eu estou trabalhando com games já há alguns anos, desde 99. E durante esse tempo trabalhei em cerca de 30 jogos pra diferentes plataformas. Tive uma empresa no Brasil com 3 outros sócios de 2002 a 2009 chamada Preloud Studios e trabalhei em outras empresas no Brasil como a Musigames e a Playlore, como também em empresas na Europa.&lt;/p&gt;
+
+&lt;p&gt;Há um pouco mais de um ano abri a Arc-gen games aqui em Helsinki na Finlandia. Basicamente é uma empresa de um homem só. Ano passado terminei o Doomed’n Damned pra PC e Mac, feito na Construct 2, e esse ano estou fazendo o Super Doomed’n Damned para Steam, Wii U e Xbox One com uma empresa parceira de Barcelona chamada Dolores Entertainment.&lt;/p&gt;
+
+&lt;p&gt;Quando você aplica para consoles, eles olham o projeto e as pessoas envolvidas. O portfólio prévio dos membros é tao importante quanto o jogo proposto. Se eles aprovarem e gostarem do seu jogo, você está apto para desenvolver para o console. Tanto a Nintendo quanto a Microsoft tiveram processos bem parecidos e foi super tranquilo trabalhar com os dois.”]&lt;/p&gt;
+
+&lt;p&gt;Riding Ground, game desenvolvido pela Preloud[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;como-surgiu-a-ideia-do-desenvolvimento-do-primeiro-doomedn-damned&quot;&gt;Como surgiu a ideia do desenvolvimento do primeiro Doomed’n Damned?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Durante todo o tempo que trabalhei com games, nunca tive a oportunidade de fazer alguma coisa como os jogos que jogava quando era criança. Sempre gostei muito de jogos de ação na época do Super Nintendo e Mega Drive, eu ia sempre a fliperamas e tal, mas o tempo passou e não fiz nada parecido com os jogos que curtia. Dai como dessa vez eu tinha total controle do desenvolvimento, tentei fazer algo nessa linha action platformer bem inspirado nos jogos que tanto jogava&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;sabemos-que-desenvolver-um-game-é-um-grande-desafio-principalmente-por-exigir-diversas-habilidades-diferentes-como-foi-a-experiência-de-desenvolver-o-game-totalmente-sozinho&quot;&gt;Sabemos que desenvolver um game é um grande desafio, principalmente por exigir diversas habilidades diferentes, como foi a experiência de desenvolver o game totalmente sozinho?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Foi desgastante, mas muito legal. Claro que p D’n D é um jogo pequeno com o escopo bem controlado. É um jogo nicho, bem focado e sem grandes pretensões. Acho que funcionou bem por causa disso. Era algo que eu sabia mais ou menos o que estava fazendo e o que não sabia não chegava a ser grave o suficiente para ser um impedimento. Nada que pesquisar um pouco não resolvesse&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Doomed’n Damned[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;quais-tecnologias-e-ferramentas-foram-utilizadas-no-desenvolvimento&quot;&gt;Quais tecnologias e ferramentas foram utilizadas no desenvolvimento?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: No D’n D eu usei Construct 2, uma engine baseada em HTML 5 que é muito boa para jogos pequenos e prototipagens para PC ou Mac. Toda a arte do jogo é originalmente em vetor e exportado para o jogo em png. As animações foram feitas no Spine. Todas ferramentas baratas e de fácil acesso. Já o S D’n D roda na Unity 3D, e por isso deu pra melhorar bastante o visual do jogo&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;como-foi-a-vendagem-do-jogo-atingiu-as-expectativas&quot;&gt;Como foi a vendagem do jogo? Atingiu as expectativas?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Eu não tinha nenhuma expectativa real de quanto o jogo poderia vender de verdade. É muito difícil ter uma ideia sólida de quanto se espera das vendas de um jogo indie, desconhecido, sem grana pra marketing e fora do Steam. No geral estou satisfeito com as vendas na Humble Store, Desura e dos bundles. Mais importante que a grana, que não foi lá essas coisas, foi alcance e a repercursão que o jogo gerou. Eu acredito que sem o jogo original seria bem mais complicado convencer a Microsoft ou a Nintendo de fazer as versões console. No geral os números de D’n D foram bem bons para um jogo com tão pouco recurso&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/IS8NycNSyts &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;agora-falando-do-super-doomedn-damned-qual-é-o-enredo-do-jogo&quot;&gt;Agora falando do Super Doomed’n Damned. Qual é o enredo do jogo?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Basicamente o mesmo do D’n D. O enredo também foi inspirado nas histórias super simples, e até meio bregas, dos jogos dessa época. Mas vamos lá! Uma criatura do mal voltou das trevas para dominar o reino. Para acabar com esse cara, você deve coletar as Ancient Stones, que são pedras mágicas, passar por dungeons, enfrentar hordas de inimigos, bosses gigantescos e tudo mais de bom que um action platformer 16 bit tem a oferecer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;olhando-o-jogo-me-lembra-muito-dos-jogos-que-joguei-no-tempo-do-master-system-desde-mônica-no-castelo-do-dragão-até-ghoulsn-ghosts-quais-foram-as-tuas-inspirações-para-ele&quot;&gt;Olhando o jogo me lembra muito dos jogos que joguei no tempo do Master System, desde Mônica no Castelo do Dragão até Ghouls’n Ghosts. Quais foram as tuas inspirações para ele?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Muita coisa de 8 e 16 bit com certeza. Jogos de NES, Master, SNES, Mega, PC Engine e Arcade dessa época. A série Ghouls’n Ghost e os Castlevanias clássicos (CV 1 ao Dracula X do SNES e PCE) foram com certeza a inspiração principal, mas eu diria que tem também um bocado de outras coisas&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;nota-se-que-o-estilo-da-arte-do-jogo-é-bem-diferente-arrisco-me-a-dizer-até-que-é-único-conte-nos-mais-sobre-a-sua-carreira-como-artista-e-o-como-se-deu-o-desenvolvimento-desse-estilo-de-arte&quot;&gt;Nota-se que o estilo da arte do jogo é bem diferente, arrisco-me a dizer até que é único. Conte-nos mais sobre a sua carreira como artista e o como se deu o desenvolvimento desse estilo de arte.&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Uma coisa legal em trabalhar com jogos menores e mais focados em nicho, é que dá pra experimentar mais, tanto em game design como em visual. Normalmente quando se pensa em jogos indie e/ou retrô, a primeira coisa que vem em mente é pixel art. Eu adoro pixel art, mas eu não sou um bom artista pra trabalhar com pixel art. Outra coisa que pra mim é muito importante, é olhar para uma screenshot e identificar na hora que jogo é aquele. Alguns jogos tem um visual tão único, que simplesmente com uma imagem você consegue identificá-lo, e esse visual muitas vezes passa parte da ideia do jogo. Eu tentei fazer uma arte que fosse simples, facilmente identificável, que tivesse uma unidade visual legal, e que passasse a ideia retrô + cartoon moderno, mas que não necessariamente precisasse ser pixel art&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Super Doomed’n Damned[/caption]&lt;/p&gt;
+
+&lt;p&gt;[sc:Interview_item question=”Quais as diferenças no desenvolvimento com o jogo anterior?” interviewee=”Claudio” answer=”Hoje em dia estou trabalhando com um programador da Dolores. Daniel Navarro, é um cara com bastante experiência em desenvolvimento em consoles, PC e mobile, e isso tem ajudado muito na velocidade do desenvolvimento. No primeiro jogo muitas vezes eu fiquei preso em programação ou levei muito tempo para fazer alguma coisa que um programador de verdade levaria bem menos tempo. Sou formado em Design e sempre trabalhei como Designer ou Producer. Programação é algo que sempre foi meio “side quest” pra mim. Então, ter alguém para trabalhar mais no código me ajudou muito a focar no restante do conteúdo, coisa que no primeiro jogo eu tive que fazer tudo.&lt;/p&gt;
+
+&lt;p&gt;Se falando de tecnologia, a Unity abriu muitas portas. Hoje é possível fazer coisas que eu não teria como fazer no jogo anterior. E hoje o jogo tem que rodar em todas as plataformas, logo os testes levam mais tempo, coisa que eu não precisava me preocupar na primeira versão.”]&lt;/p&gt;
+
+&lt;h2 id=&quot;o-jogo-será-publicado-para-xbox-one-wii-u-e-pc-alguma-probabilidade-de-sair-para-ps4&quot;&gt;O jogo será publicado para Xbox One, Wii U e PC. Alguma probabilidade de sair para PS4?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Eu estou tentando PS4 e PSVita, mas esses processos levam tempo. No momento eu não posso prometer, mas sim, eu gostaria bastante de lançar para plataformas Sony também&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/9opG9wQNLnQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;[sc:Interview_item question=”Para finalizarmos, pela sua experiência, o que você acha da indústria brasileira de desenvolvimento de jogos?” interviewee=”Claudio” answer=”Eu comecei a trabalhar com games como modelador 3D e Animador de uma empresa encubada no ITEP/UFPE (Universidade Federal de Parnambuco) em 99, chamada ArtVooDoo. Naquela época acho que a ArtVooDoo era a única empresa de games do Brasil, ou uma das únicas. Mas de lá pra cá muita coisa mudou. Estamos vivendo uma época de mudanças e eu tenho visto muitos casos de sucesso no Brasil vindo do meio indie. Claro que vimos muitos estúdios grandes internacionais começarem no Brasil, como também vimos eles fecharem, mas teve muita empresa local que conseguiu um espaço bom.&lt;/p&gt;
+
+&lt;p&gt;Eu acredito muito que o meio indie nacional vai continuar mandando bem como tem feito. Foco, sem querer dominar o mundo, projetos pequenos/médios e por ai vai. Acho que quando a ideia é legal e o pessoal empolgado, grana não é mais um problema tao grande para fazer o jogo virar realidade. E a facilidade de publicar o jogo no mercado, assim como o acesso as ferramentas, é muito mais fácil que antigamente.&lt;/p&gt;
+
+&lt;p&gt;Não acho que os jogos nacionais devem tentar se espelhar nos Norte Americanos, nos AAA ou nos Japoneses. Mas sim continuar com essa identidade que eles estão criando de jogos indie com estilo e foco. Posso citar alguns amigos como o pessoal da Joymasher, Behold, entre outros estúdios que estão fazendo muita coisa legal. A ideia não é dominar o mundo com um mega titulo, a ideia é conquistar um espaço e um nicho fiel. É nisso que eu acredito.”]&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Museu do videogame Itinerante</title>
+   <link href="http://example.com/2015/04/21/museu-do-videogame-itinerante/"/>
+   <updated>2015-04-21T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/21/museu-do-videogame-itinerante</id>
+   <content type="html">&lt;p&gt;Reconhecido pelo Ibram (Instituto Brasileiro de Museus), o Museu do Videogame Itinerante é o primeiro museu do gênero do Brasil, onde os jogadores tem a oportunidade de conhecer 42 anos de evolução dos consoles de videogames e jogar os maiores clássicos do entretenimento digital das décadas de 70, 80, 90 e 2000.&lt;/p&gt;
+
+&lt;p&gt;Durante o evento os jogadores poderão conhecer ou reencontrar videogames que fizeram história como o Telejogo Philco-Ford (1977), Atari 2600 (1976), Nintendinho 8 bits (1985), Master System (1986), Mega Drive (1988), Super Nintendo (1990), Nintendo 64 (1996), Game Cube (2001), Sega Dreamcast (1998), Xbox (2001), Playstation 1 (1994), entre outros. Os consoles modernos, como Wii U, Xbox One e PlayStation 4 também estarão presentes.&lt;/p&gt;
+
+&lt;p&gt;Confira abaixo as cidades que já estão confirmadas, os locais e as datas dos eventos.&lt;/p&gt;
+
+&lt;h3 id=&quot;recifepe&quot;&gt;Recife/PE&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;:  Shopping Recife, Rua Pe. Carapuceiro, 777 - Boa Viagem.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;:  11/04 A 26/04
+&lt;br /&gt;&lt;br /&gt;
+    &lt;h3 id=&quot;pelotasrs&quot;&gt;Pelotas/RS&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;: Centro de Eventos Fenadoce, avenida Presidente João Goulart - Fragata&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;:  27/05 A 14/06&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #2</title>
+   <link href="http://example.com/2015/04/13/imagens-da-semana-2/"/>
+   <updated>2015-04-13T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/g1/status/585017153042194432&quot;&gt;O game de plataforma old-school Super Doomed’n Damned, desenvolvido pelo brasileiro Claudio Lins em parceria com uma empresa espanhola, deve ser lançado ainda em 2015 para Xbox One, Wii U e PC&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/CatNigiri/status/585081682451103745&quot;&gt;O gato-mascote-logo da brasileira Cat Nigiri apareceu como um easter egg no jogo em desenvolvimento Chroma Squad da também brasileira Behold Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/04/TorenTheMagician.jpg&quot;&gt;Na terceira imagem ficamos com outra bela arte do game Toren da Swordtales, agora é a vez de The Magician&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/SaeKawaii_xD/status/585863634879909888&quot;&gt;A equipe da Behold Studio lembrando da campanha para promover o lançamento do Chroma Squad no Thunderclap&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/585882344562814978&quot;&gt;A Reiza Studios lança seu game de corrida, o Copa Petrobras de Marcas, no Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/586603400860540928&quot;&gt;A Odin Game Studio liberou novas imagens do game em desenvolvimento Better Later Than Dead. Conheça mais no game no post Novos vídeos de Better late than DEAD e Police Tactics&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BigGreenPillow/status/586688542379810816&quot;&gt;A Big Green Pillow lança um novo update de seu game Porcunipine&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/narolol/status/587000919541342208&quot;&gt;Gabriel Naro, sound designer da Mgaia Studio, liberou uma screenshot do game Tiny Empire que ainda está em desenvolvimento e será lançado para iOS, Android e Windows Phone&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Splitplay apresenta: Bernie Needs Love</title>
+   <link href="http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love/"/>
+   <updated>2014-06-05T00:00:00-03:00</updated>
+   <id>http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love</id>
+   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Protomni Multimedia em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot; target=&quot;_blank&quot;&gt;Bernie Needs Love&lt;/a&gt;
+!.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot; target=&quot;_blank&quot;&gt;Protomni Multimedia&lt;/a&gt;
+, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
+
+&lt;p&gt;Em meados de 2012, tivemos a ideia de criar um jogo de plataforma que fosse simples, muito difícil e que retratasse cenários característicos da nossa cidade com a estética da era dos 4 e 8 bits. O objetivo de todas as fases é guiar Bernie até a namorada e evitar perigos que incluem pombos com disenteria, bueiros explosivos, áreas alagadas, foliões com incontinência urinária, assaltantes, tubulações d’água com vazamentos e assim por diante. Em dezembro desse mesmo ano, disponibilizamos o jogo por um preço promocional e, desde então, estamos acrescentando recursos e conteúdo com base não apenas no plano original, mas também no feedback dos jogadores.&lt;/p&gt;
+
+&lt;p&gt;No que se refere à compatibilidade, já oferecemos versões para Windows e Linux e, possivelmente, vamos nos manter focados nesses sistemas até chegarmos à versão 1.0. Uma vez concluída a fase beta, estudaremos a possibilidade de outras plataformas, mas já podemos adiantar que as mais prováveis são Android e Mac. Há também a possibilidade de versões para Ouya e Wii U, mas são apenas hipóteses por enquanto.&lt;/p&gt;
+
+&lt;p&gt;Além da jogabilidade afiada e viciante (convidamos você a dar uma olhada no vídeo abaixo para ver que não estamos dizendo isso à toa), Bernie Needs Love conta com outro ponto muito forte: a estética verdadeiramente retrô, com gráficos cuidadosamente criados com base nas paletas do C64 e do Amstrad CPC e com uma trilha sonora original, no estilo chiptune, criada com emuladores fiéis dos chips de áudio de outrora.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/t4eDKQ6KHNQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;Estamos no Greenlight&lt;/a&gt;
+ e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;votem&lt;/a&gt;
+, deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
+&lt;div&gt;&lt;br /&gt;
+&lt;div&gt;&lt;br /&gt;
+&amp;gt; Gostou? Quer concorrer a chaves gratuitas do game?
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;Ent&amp;#227;o siga o jogosdaqui no Twitter.&lt;/a&gt;
+&lt;/strong&gt;
+&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entrevista: Tiago Moraes da Ovni Studios (parte 2)</title>
+   <link href="http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2/"/>
+   <updated>2011-02-25T00:00:00-03:00</updated>
+   <id>http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2</id>
+   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olaboração para o jogosdaqui.&lt;/span&gt;&amp;lt;/span&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;sobre-os-jogos-de-vocês-apresente-o-que-vocês-já-fizeram&quot;&gt;Sobre os jogos de vocês, apresente o que vocês já fizeram&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Trabalhamos com advergames também, mas é mais para que a gente possa sobreviver. Como é serviço, ele só entra em produção quando já tem um negócio fechado com o cliente. Temos uma política de só trabalhar com algo que seja importante para filosofia da empresa, pra gente olhar o nosso portfólio no futuro e ver que teve algo interessante. Foram três serviços: o projeto do Tang, que foi para um evento só, em que exploramos bastante os recursos do Wiimote, com sensor de movimento e tal. Tínhamos interesse em colocá-lo no Nintendo Wii, mas não deu certo por causa de todo esse filtro. Foi rodado em um PC mesmo, mas com controle do Wii com Wii Motion Plus. Depois dele veio o Fiat Uno Race, para iPhone, que é um joguinho bem divertido e completo, embora seja um serviço. Tem integração com rede social, achievements… tem bem cara de produto mesmo. Está disponível de graça na App Store. Aí veio o jogo do Copa Placar, para a Editora Abril, um jogo de futebol pra iPhone, iPad e browsers. É bem divertido também, tem um gameplay diferenciado: não é muito parecido com simulador, tem uma jogabilidade mais arcade. Nós exploramos a interface tanto do iPhone como do iPad para simplificar o gameplay, para que os jogadores conseguissem se divertir mais, em vez de oferecer um gameplay adaptado como em FIFA, Winning Eleven ou Real Soccer. Mesmo os jogadores que jogam FIFA e WE se divertiram mais com esse gameplay diferente do que jogando uma versão adaptada destes dois. Sobre o Dodgeball, é nosso primeiro produto e que tanto nos orgulha. Por mais que nós tenhamos publicado outros aplicativos, é frustrante não ter categoria jogos na App Store do Brasil. Hoje já está disponível em todas as seções de games da App Store no mundo inteiro, mas tivemos de trocar a categoria. No fim, esse jogo foi muito mais um laboratório do que um o projeto que a gente esperasse retorno financeiro&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;tem-mais-novidade-vindo-por-ai&quot;&gt;Tem mais novidade vindo por ai?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Sim, estamos quase terminando o port dele (Dodgeball) para iPad, o que serviu principalmente para estabelecer contato com as principais publishers, e já estamos desenvolvendo dois outros projetos. É muito difícil apresentar um projeto pronto para o publicador e ele querer publicar, é preciso que eles acompanhem desde o início para fazerem considerações e o jogo esteja adequado - afinal, é o nome deles que está em jogo. O Dodgeball a gente não publicou por nenhum publisher para que a gente sentisse esse mercado do &quot;self-publishing&quot;, e mesmo com muito esforço nós vimos que não é o melhor caminho. Há muita concorrência, então estamos com esses contatos para que os próximos projetos sejam publicados por eles.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;rolou-a-campus-party-recentemente-e-entre-os-gamers-teve-um-pessoal-que-desenvolvia-também-em-uma-das-palestras-foi-dito-tomem-cuidado-que-vocês-vão-enfrentar-muitas-dificuldades-você-tem-uma-dica-para-quem-está-desenvolvendo-jogo-no-brasil&quot;&gt;Rolou a Campus Party recentemente, e entre os gamers, teve um pessoal que desenvolvia também. Em uma das palestras, foi dito: &quot;tomem cuidado que vocês vão enfrentar muitas dificuldades&quot;. Você tem uma dica para quem está desenvolvendo jogo no Brasil?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: É saber o que quer, isso é o principal. Hoje em dia há muitas empresas, muitas vagas, então é preciso saber o caminho que se deseja trilhar para não pegar o caminho errado. Desde a escolha da ferramenta, pensar com carinho em Facebook, iPhone e Android, e finalizar o projeto, que é o que diz muito sobre a empresa. Poucas pessoas conseguem finalizar, por mais que seja um projeto simples. Finalizar ajuda bastante na hora de encontrar emprego ou falar com um publicador.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;mais-algum-recado&quot;&gt;Mais algum recado?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes:  A iniciativa do portal de vocês é interessante, parece que vai ser um canal muito legal dos jogos desenvolvidos aqui no Brasil. Não existe alguém que dê uma atenção especial pros jogos desenvolvidos aqui, que comece essas iniciativas de falar sobre o desenvolvimento nacional. Nós somos carentes de um canal especializado que fale de jogos feitos aqui, e com isso a gente passa a ter um canal para investir, soltar releases e não só olhar para fora. Essa barreira está caindo e a gente precisa desse canal de imprensa especializada, para que consigamos trabalhar com foco no Brasil.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+</feed>

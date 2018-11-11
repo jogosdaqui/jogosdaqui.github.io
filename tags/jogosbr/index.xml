@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - jogosbr</title>
+ <link href="http://example.com/tags/jogosbr/index.xml" rel="self"/>
+ <link href="http://example.com/tag/jogosbr.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/jogosbr.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Lançado o site da 2ª edição do concurso JogosBr</title>
+   <link href="http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr/"/>
+   <updated>2005-12-18T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr</id>
+   <content type="html">&lt;p&gt;O Ministério da Cultura lançou oficialmente o site da segunda edição do concurso JogosBr.&lt;/p&gt;
+
+&lt;p&gt;Este ano o JogosBr estará dividido em 3 concursos:&lt;/p&gt;
+
+&lt;p&gt;Idéias Originais para Jogos Eletrônicos
+Desenvolvimento de Demos Jogáveis
+Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
+
+&lt;p&gt;Veja maiores detalhes no site &lt;a href=&quot;http://www.jogosbr.org.br&quot; target=&quot;_blank&quot;&gt;www.jogosbr.org.br&lt;/a&gt;
+ .&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Segunda edição do concurso JogosBr</title>
+   <link href="http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr/"/>
+   <updated>2005-11-02T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr</id>
+   <content type="html">&lt;p&gt;Em novembro será lançado o “Segundo Concurso de Idéias Originais E Demos de Jogos Eletrônicos - JogosBr”. O Concurso tem como objetivo estimular o desenvolvimento de jogos eletrônicos (ou games) no mercado nacional.&lt;/p&gt;
+
+&lt;p&gt;Qualquer pessoa física residente no Brasil pode participar, sem limite de idade ou qualquer outro requisito.&lt;/p&gt;
+
+&lt;p&gt;Em sua primeira edição, o Concurso foi um sucesso, contando com mais de 1.000 participações das mais variadas idéias e ao final o Minc premiou 8 projetos para serem desenvolvidos e transformados em Demos jogáveis das idéias vencedoras da primeira etapa do concurso. Posteriormente os demos estarão disponíveis para downloads no portal &lt;a href=&quot;http://www.jogosbr.org.br&quot;&gt;JogosBr&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Interama: empresa criada com recursos do JogosBR</title>
+   <link href="http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr/"/>
+   <updated>2005-10-21T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr</id>
+   <content type="html">&lt;p&gt;Os jogadores brasileiros em breve poderão curtir os jogos de uma nova empresa brasileira, a &lt;span style=&quot;font-weight: bold;&quot;&gt;Interama&lt;/span&gt;, que pretende ser uma inovadora desenvolvedora de jogos 3D. Seu objetivo é lançar jogos diferentes, ousados, que vão além do comum. É explorar novos temas e novas fronteiras.&lt;/p&gt;
+
+&lt;p&gt;A empresa foi formada a partir do patrocínio do Ministério da Cultura, após vencer a etapa final do concurso JogosBR.&lt;/p&gt;
+
+&lt;p&gt;A partir desse incentivo, jovens empreendedores decidiram mudar sua vida e trabalhar com o que sempre sonharam. Com determinação e planejamento, a Interama pretende ser uma produtora de jogos únicos. &lt;a href=&quot;http://www.interama.net&quot;&gt;http://www.interama.net&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

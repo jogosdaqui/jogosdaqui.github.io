@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - souking</title>
+ <link href="http://example.com/tags/souking/index.xml" rel="self"/>
+ <link href="http://example.com/tag/souking.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/souking.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Concurso Souking - Power UP</title>
+   <link href="http://example.com/2015/09/02/concurso-souking-power-up/"/>
+   <updated>2015-09-02T00:00:00-03:00</updated>
+   <id>http://example.com/2015/09/02/concurso-souking-power-up</id>
+   <content type="html">&lt;h2 id=&quot;3ª-power-up&quot;&gt;3ª Power UP&lt;/h2&gt;
+&lt;p&gt;No dia 25 de agosto ocorreu a 3ª edição da Power UP, evento promovido pela Associação de Desenvolvedores de Jogos Digitais do Rio Grande do Sul (ADJOGOS-RS), que tem como objetivo o desenvolvimento dos portfólios dos estudantes de jogos digitais do Rio Grande do Sul através da avaliação de seus projetos pelas empresas associadas, incluindo jogos desenvolvidos tanto para a &amp;gt; Ludum Dare como também jogos próprios.&lt;/p&gt;
+
+&lt;h2 id=&quot;concurso-souking&quot;&gt;Concurso Souking&lt;/h2&gt;
+&lt;p&gt;Para esta edição, a &lt;a href=&quot;http://www.souking.com.br&quot;&gt;Souking&lt;/a&gt;
+ veio com a proposta de lançar o &lt;a href=&quot;http://www.souking.com.br/loja/index.php/power-up&quot; target=&quot;_blank&quot;&gt;Concurso Souking&lt;/a&gt;
+ com os jogos apresentados durante o evento e assim aprimorar o processo de avaliação dos projetos desenvolvidos pelos alunos por meio de uma votação online.&lt;/p&gt;
+
+&lt;p&gt;A Souking, através desse concurso, busca incentivar o desenvolvimento dos jogos acadêmicos e dar oportunidade para que os alunos tenham uma primeira experiência de divulgação de seus jogos em uma plataforma. Isso não só agrega mais valor aos seus projetos, como também estimula a criatividade dos alunos para mostrarem seu potencial de criação e trabalho em equipe, tendo apenas pouco tempo para planejarem isso. Essa é a primeira de muitas iniciativas que a Souking pretende estabelecer conjuntamente com as faculdades de jogos digitais do país para dar mais visibilidade e reconhecimento no desenvolvimento nacional de jogos eletrônicos.&lt;/p&gt;
+
+&lt;h2 id=&quot;ludum-dare-33---você-é-o-monstro&quot;&gt;Ludum Dare 33 - Você é o monstro&lt;/h2&gt;
+&lt;p&gt;Nesta Power Up, ofoco principal para a exposição dos jogos foi o evento &amp;gt; Ludum Dare 33, onde os estudantes tiverem 48h para produzir um jogo com o tema “You are the monster (Você é o monstro)”. A partir disso, surgiram vários jogos divertidos com interpretações diferenciadas, desde você sendo literalmente o monstro do lago Ness fugindo de turistas e suas câmeras, um samurai demoníaco em uma chacina sem fim, para até mesmo um brinquedo lutando através das ruas para impedir um ditador tirano.&lt;/p&gt;
+
+&lt;p&gt;E dentre estes, houveram várias outras interpretações dos estudantes de jogos, como &amp;gt; Monster Eggs, jogo onde você encarna um pequeno monstro aleatório recém saído de um ovo e que já está preparado para lutar contra ondas de heróis e magos utilizando diversos ataques. Além disso, jogos com cara de mobile, como Road to Hell, onde você assume o controle de um carro monstro e seu objetivo é correr infinitamente causando a maior destruição possível, onde nenhum carro pode pará-lo.&lt;/p&gt;
+
+&lt;p&gt;E mesmo com este tema monstruoso, sobrou um cantinho para o amor, como em &amp;gt; Kaiju no Ai, onde você é um monstro terrível, destruindo casas e prédios com suas mordidas e bolas de fogo! Tudo para encontrar seu verdadeiro amor, provando que monstros também amam.&lt;/p&gt;
+
+&lt;p&gt;Voltando para as monstruosidades, tivemos&amp;gt;  Youkai, onde sangue no chão não é problema. Você se torna um samurai matador que com um simples golpe aniquila suas vítimas em um jogo rápido e divertido. Já em Ollie’s Journey, você não é o monstro, você se torna o monstro. Com uma ideia diferente e belos gráficos, você é Ollie e deve percorrer pela mata, liquidando com os terríveis coelhos, cervos e tartarugas que lá habitam. Baixe e finalize o jogo para entender a mensagem dos desenvolvedores. Nada de spoilers aqui!&lt;/p&gt;
+
+&lt;p&gt;Porém nem todos monstros são terríveis, em &amp;gt; Famous Nessie, você está na pele do “Monstro do Lago Ness”, ou melhor, a monstra. Neste jogo, tudo que Nessie queria era poder comer suas frutas em paz, tomar um solzinho e nadar relaxada, mas surgiram os terríveis turistas e você não pode permitir que alguma foto sua seja tirada, ou sua paz chegará ao fim.&lt;/p&gt;
+
+&lt;p&gt;Dentre estes e outros jogos desenvolvidos para a &amp;gt; Ludum Dare 33, também houve espaço para aqueles estudantes que gostariam de trazer seus outros projetos para a exposição, como I Wanna Be the Bean, jogo divertidíssimo onde feijões lutam pela sobrevivência em uma arena multiplayer para até quatro jogadores, onde você deve empurrar seus inimigos para fora da plataforma até ser o último sobrevivente, tornando-se o grande feijão.&lt;/p&gt;
+
+&lt;h2 id=&quot;ajude-a-escolher-os-melhores-jogos&quot;&gt;Ajude a escolher os melhores jogos&lt;/h2&gt;
+&lt;p&gt;O concurso foi ao ar no dia 26 e todos os jogos que foram citados, além de outros, estão disponíveis no site da Souking na área Power UP até essa quarta-feira (02/09). Então, para aqueles que ainda não deram seu voto, há tempo de contribuir com a análise dos projetos, testando os jogos disponibilizados na página e fazendo sua avaliação com base nas categorias abertas para votação. Ao final deste processo, será anunciado no dia 3 de setembro os jogos destaque em cada categoria, assim como o jogo destaque no geral&lt;/p&gt;
+
+&lt;p&gt;Entre na &lt;a href=&quot;http://www.souking.com.br/loja/index.php/power-up&quot; target=&quot;_blank&quot;&gt;página do concurso na Souking&lt;/a&gt;
+ para conferir os jogos e participar do concurso!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Souking, nova loja de games brasileiros</title>
+   <link href="http://example.com/2015/06/30/souking-nova-loja-de-games-brasileiros/"/>
+   <updated>2015-06-30T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/30/souking-nova-loja-de-games-brasileiros</id>
+   <content type="html">&lt;p&gt;Hoje, 30 de junho entrará no ar a &lt;a href=&quot;http://souking.com.br&quot; target=&quot;_blank&quot;&gt;Souking&lt;/a&gt;
+, uma nova loja focada exclusivamente em games brasileiros.&lt;/p&gt;
+
+&lt;h2 id=&quot;souking&quot;&gt;Souking&lt;/h2&gt;
+&lt;p&gt;A Souking é uma startup composta pelos empreendedores Marcela Quintela Trujillo (CEO), Alexandre Palagem (CIO) e Flávio Caldieraro (COO). No início do ano a jovem empresa foi selecionada no Programa Startup RS promovido pelo SEBRAE.&lt;/p&gt;
+
+&lt;p&gt;Segundo a equipe da loja online, um dos diferenciais será a busca de um maior engajamento dos jogadores, utilizando técnicas de gamificação para aumentar a interatividade do site.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O que se quer é garantir um relacionamento próximo com os jogadores brasileiros (afirma a equipe da Souking)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;jogos&quot;&gt;Jogos&lt;/h2&gt;
+&lt;p&gt;Para o lançamento estão confirmados 8 jogos, entre eles o famoso Aritana e A Pena da Harpia e outros com previsão de lançamento para 2015, como: Urban Legends, Colina 1.5, Heroes Rush: Tatics, I’m Awesome, Blade &amp;amp; Bones e Masmorra de Berdolock.&lt;/p&gt;
+
+&lt;p&gt;Além disso outras empresas brasileiras já estão negociando a entrada de seus jogos na nova plataforma. Para as gamedevs que se interessarem, podem entrar em contato com a equipe do site pelo submit@souking.com.br.&lt;/p&gt;
+
+&lt;p&gt;Aritana, um dos games disponíveis no lançamento[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;lançamento&quot;&gt;Lançamento&lt;/h2&gt;
+&lt;p&gt;O site oficial será lançado hoje as 22:00. Os leitores que desejarem ganhar 15% de desconto podem acessar o link &lt;a href=&quot;http://promo.souking.com.br/&quot; target=&quot;_blank&quot;&gt;http://promo.souking.com.br/&lt;/a&gt;
+ e se cadastrarem.&lt;/p&gt;
+
+&lt;p&gt;O jogosdaqui deseja sucesso e vida a longa a Souking!&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

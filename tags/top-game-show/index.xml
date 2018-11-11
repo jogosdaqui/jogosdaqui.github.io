@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - top-game-show</title>
+ <link href="http://example.com/tags/top-game-show/index.xml" rel="self"/>
+ <link href="http://example.com/tag/top-game-show.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/top-game-show.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Top Game Show 2006</title>
+   <link href="http://example.com/2005/12/02/top-game-show-2006/"/>
+   <updated>2005-12-02T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/02/top-game-show-2006</id>
+   <content type="html">&lt;h2 id=&quot;o-que-é&quot;&gt;O que é?&lt;/h2&gt;
+
+&lt;p&gt;A TGS 2006 - Top Game Show - marcará um diferencial no mundo dos negócios de jogos, ampliando o mercado de consumo, fortalecendo as marcas junto ao público-alvo, através de um evento diferenciado, interativo e gerador de negócios. O objetivo é promover a populariedade do mercado de jogos para o grande público do Rio de Janeiro, ativando uma praça potencial das mais promissoras do mercado, numa visionária relação entre tendências, grandes marcas e clientes.&lt;/p&gt;
+
+&lt;h2 id=&quot;concurso&quot;&gt;Concurso&lt;/h2&gt;
+&lt;p&gt;Você pode ajudar a escolher o personagem e slogan do evento. Para isso a TGS organizou o concurso “Personagem e Slogan TGS - Top Game Show”, onde as melhores idéias serão premiadas, veja mais detalhes em &lt;a href=&quot;http://www.topgameshow.com.br/concurso.htm&quot; target=&quot;_blank&quot;&gt;http://www.topgameshow.com.br/concurso.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dados-do-evento&quot;&gt;Dados do evento&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;: Feira Top Game Show - 1a Feira TGS do Rio&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;: 30 de junho a 2 de julho de 2006. 30/06 - sexta-feira: 10h - 21h, 01/07 - sábado: 10h - 22h, 02/07 - domingo: 10h - 20h&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;: RIOCENTRO - Barra da Tijuca - RJ&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Público alvo&lt;/strong&gt;:  Pessoas antenadas com tecnologia e que curtem jogos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Custo&lt;/strong&gt;: .&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mais detalhes&lt;/strong&gt;: &lt;a href=&quot;http://www.topgameshow.com.br&quot;&gt;http://www.topgameshow.com.br&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Evento Top Game Show 2006 no Rio de Janeiro</title>
+   <link href="http://example.com/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro/"/>
+   <updated>2005-12-02T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro</id>
+   <content type="html">&lt;p&gt;Agora os jogadores cariocas tem um motivo para ficar bastante animados. No próximo ano em Niterói ira acontecer o Top Game Show 2006. Evento que promete enfocar para o mercado de jogos eletrônicos, promovendo o envolvimento e a popularidade para o grande público do Rio de Janeiro.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2005/12/02/top-game-show-2006/&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

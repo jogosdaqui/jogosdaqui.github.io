@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - o2-games</title>
+ <link href="http://example.com/tags/o2-games/index.xml" rel="self"/>
+ <link href="http://example.com/tag/o2-games.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/o2-games.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Prorrogada fase Beta de GameGol</title>
+   <link href="http://example.com/2006/05/03/prorrogada-fase-beta-de-gamegol/"/>
+   <updated>2006-05-03T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/03/prorrogada-fase-beta-de-gamegol</id>
+   <content type="html">&lt;p&gt;O² Games prorrogou por mais 40 dias a fase beta do jogo GameGol.&lt;/p&gt;
+
+&lt;p&gt;A empresa pretende realizar todos os testes necessários no jogo durante essa fase e também implementar novas características.&lt;/p&gt;
+
+&lt;p&gt;Para participar do beta de GameGol é preciso ser convidado pela equipe do jogo ou por algum jogador.&lt;/p&gt;
+
+&lt;p&gt;Veja mais detalhes do jogo no &lt;a href=&quot;http://www.gamegol.com.br&quot; target=&quot;_blank&quot;&gt;site oficial&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

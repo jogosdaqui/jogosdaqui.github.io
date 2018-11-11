@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - bad-minions</title>
+ <link href="http://example.com/tags/bad-minions/index.xml" rel="self"/>
+ <link href="http://example.com/tag/bad-minions.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/bad-minions.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Conheça os games selecionados no BIG Starter 2015</title>
+   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter/"/>
+   <updated>2015-06-09T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
+   <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;
+, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.&lt;/p&gt;
+
+&lt;p&gt;Entramos em contato com as equipes de desenvolvimento para sabermos mais sobre os projetos, neste post você poderá conferir alguns trailers e imagens dos selecionados e durante os próximos dias faremos prévias de cada um dos games que estarão no BIG Starter 2015.&lt;/p&gt;
+
+&lt;p&gt;O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: &lt;a href=&quot;/2015/05/26/previa-de-alkimya-da-bad-minions/&quot;&gt;Prévia de Alkimya da Bad Minions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;finalistas-na-categoria-entretenimento&quot;&gt;Finalistas na categoria entretenimento&lt;/h3&gt;
+&lt;h2 id=&quot;alkimya-da-bad-minions&quot;&gt;Alkimya da Bad Minions&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/lWjMGFZAnD8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;dog-duty-da-zanardiliza&quot;&gt;Dog Duty da Zanardi&amp;amp;Liza&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/zjlyo7KR6Ik &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;massive-madness-da-ninja-garage&quot;&gt;Massive Madness da Ninja Garage&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/cvp4NxzGnno &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;my-night-job-da-webcore-games&quot;&gt;My Night Job da WebCore Games&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/gnhnC9tCAWE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;relic-hunters-zero-da-rogue-snail-mark-venturelli&quot;&gt;Relic Hunters Zero da Rogue Snail (Mark Venturelli)&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/UcQtxb2tJ0I &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h3 id=&quot;finalistas-na-categoria-educativo&quot;&gt;Finalistas na categoria educativo&lt;/h3&gt;
+&lt;h2 id=&quot;dengue-over-da-ilusis-interactive&quot;&gt;Dengue Over da Ilusis Interactive&lt;/h2&gt;
+
+&lt;h2 id=&quot;peronio-hologram-da-ovni-studios&quot;&gt;Peronio Hologram da Ovni Studios&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://player.vimeo.com/video/123133018 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;fófuu-de-bruno-tachinardi&quot;&gt;Fófuu de Bruno Tachinardi&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/63cW6SbOL9I &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #8</title>
+   <link href="http://example.com/2015/05/29/checkpoint-8/"/>
+   <updated>2015-05-29T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/29/checkpoint-8</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/updates/25536644&quot;&gt;Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60294397640509849&quot;&gt;A Aquiris Game Studio apresentando seu time de desenvolvimento, agora é a vez do Sound/motion designer Giovane Webster&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2012/10/30/crystal-catcher/#traile&quot;&gt;Conheça um pouco mais do game Crystal Catcher da Crazy Mind Studios com este trailer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia&quot;&gt;Começa hoje O VIII GAMEPAD – Seminário de Games e Tecnologia que contará com apresentação de papers, mostra de jogos, palestras e workshops&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/26/previa-de-alkimya-da-bad-minions&quot;&gt;Nossa prévia do game Alkimya da Bad Minions, com direito a consultoria de Isaac Newton&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticGame/status/603268164554723328&quot;&gt;O game Ballistic da Aquiris tem sua trilha sonora liberada publicamente no SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/BadMinions/posts/866625280057757&quot;&gt;Pessoal da Bad Minions comemorando a seleção do jogo Alkimya entre os 8 games que participarão do BIG Starter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/603650929519415297&quot;&gt;Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/27/fan-arts-de-toren-da-swordtales/&quot;&gt;Veja nossa coletânea de fan arts do game Toren&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/28/carcara-asas-da-justica/&quot;&gt;Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Alkimya da Bad Minions</title>
+   <link href="http://example.com/2015/05/26/previa-de-alkimya-da-bad-minions/"/>
+   <updated>2015-05-26T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/26/previa-de-alkimya-da-bad-minions</id>
+   <content type="html">&lt;p&gt;O físico e matemático Isaac Newton, um dos cientistas mais importantes da história, pensador que definiu as leis que fundamentaram o que chamamos de mecânica clássica e a lei da gravitação universal poderia ser um consultor do próximo jogo da Bad Minions: Alkimya. Por que? Porque, além de matemático e físico, Newton era um grande estudioso e praticante da alquimia, tendo escrito e lido muito sobre o assunto, fato comprovado pelos mais de 150 livros sobre o tema encontrados na biblioteca particular dele após sua morte.&lt;/p&gt;
+
+&lt;h2 id=&quot;alquimia&quot;&gt;Alquimia&lt;/h2&gt;
+
+&lt;p&gt;Não somos alquimistas, mas sabemos ver quando um projeto em desenvolvimento tem tudo para se transmutar em um grande game e foi isso que percebemos ao ver o alpha trailer que a &lt;a href=&quot;http://www.badminions.com/&quot; target=&quot;_blank&quot;&gt;brasiliense Bad Minions &lt;/a&gt;
+liberou, junto com algumas imagens, mostrando como está ficando o seu novo projeto, um jogo de aventura e RPG baseado em títulos como Legend of Zelda, Diablo, Goof Troop e The Witcher. Dentro de um universo em que a base de tudo se resume em mistura, e a &lt;strong&gt;alquimia&lt;/strong&gt; sendo o centro da constituição de todas as coisas, daí o nome do game e a consultoria de Newton.&lt;/p&gt;
+
+&lt;h2 id=&quot;história&quot;&gt;História&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;A história gira em torno de Seth, um rapaz que acorda no meio de um lugar cheio de mistério e perigos e não lembra ao certo do por que está ali. Dotado de poucas lembranças sobre conhecimento de alquimia, terá que sobreviver neste lugar e descobrir exatamente qual a sua função e por que se encontra neste ambiente inóspito. (Felipe Costa da Bad Minions)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Segundo a Bad Minions, &amp;gt; “Alkimya é um jogo de exploração com quebra-cabeças e mecânicas de batalhas estratégicas com monstros que possuem comportamentos próprios. Todas as suas habilidades são baseadas no conhecimento em alquimia que serão adquiridas ao longo da progressão do jogo, utilizando tanto para enfrentar seus inimigos quanto para solucionar os problemas que estarão em seu caminho.”&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;A empresa está negociando o lançamento de Alkimya para consoles, mas por enquanto a plataforma confirmada é o PC.&lt;/p&gt;
+
+&lt;p&gt;Pelas imagens e o trailer, podemos perceber a Bad Minions está trabalhando muito na qualidade do projeto, por essa razão o game tem previsão de lançamento para o final de 2016, mas essa data pode ser estendida caso a equipe de desenvolvimento precise polir mais o jogo.&lt;/p&gt;
+&lt;h2 id=&quot;alpha-trailer-de-alkimya&quot;&gt;Alpha trailer de Alkimya&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/lWjMGFZAnD8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>

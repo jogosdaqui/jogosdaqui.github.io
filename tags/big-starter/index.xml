@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - big-starter</title>
+ <link href="http://example.com/tags/big-starter/index.xml" rel="self"/>
+ <link href="http://example.com/tag/big-starter.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/big-starter.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Prévia de Relic Hunters Zero</title>
+   <link href="http://example.com/2015/07/30/previa-de-relic-hunters-zero/"/>
+   <updated>2015-07-30T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/30/previa-de-relic-hunters-zero</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.roguesnail.com/relic-hunters-zero/&quot; target=&quot;_blank&quot;&gt;Relic Hunters Zero&lt;/a&gt;
+ é o mais novo game da brasileira Rogue Snail. Pra quem não conhece, a Rogue Snail é a marca que o gamedev Mark Venturelli utiliza para seus games. No caso do RHZ, o artista foi Betu Souza, enquanto Venturelli trabalhava na programação e game design do projeto.&lt;/p&gt;
+
+&lt;h2 id=&quot;relic-hunters-zero&quot;&gt;Relic Hunters Zero&lt;/h2&gt;
+&lt;p&gt;Segundo a equipe de desenvolvimento, Relic Hunters Zero é um game de tiro, onde o jogador enfrentará patos espaciais, mas ao contrário da maioria dos jogos do estilo que privilegiam apenas o reflexo, RHZ valoriza a capacidade tática do jogodador, permitindo que o uso de cobertura e tipos de munição ampliem o gameplay clássico.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-relíquia-nascida-numa-jam&quot;&gt;A relíquia nascida numa jam&lt;/h2&gt;
+&lt;p&gt;Cada vez mais tem se tornado comum ver games brasileiros que nasceram em game jams chegarem ao mercado.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;eu e o Betu estávamos participando de uma Jam que deu errado. Eu fiquei doente no meio e tivemos que abandonar. Mas estávamos gostando tanto do jogo que decidimos terminar no outro final de semana. Mas aí veio mais um final de semana, e mais um… hahahah! (comenta Mark Venturelli)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Durante o último ano os dois gamedevs trabalharam em suas horas vagas, somando um total de 3 meses de trabalho. Horas vagas? Sim, pois tanto Mark, quanto Betu Souza fazem parte do time de desenvolvimento do famoso Chroma Squad.&lt;/p&gt;
+
+&lt;p&gt;Recentemente o game foi o vencedor da categoria “Jogo de Entretenimento” do BIG Starter do BIG Festival.&lt;/p&gt;
+
+&lt;p&gt;Além da ação tática, o game também se destaca por sua arte, tendo um estilo visual extremamente colorido e criativo.&lt;/p&gt;
+
+&lt;h2 id=&quot;open-source&quot;&gt;Open source&lt;/h2&gt;
+&lt;p&gt;Outro fato muito legal sobre o game é que a Rogue Snail abriu o código fonte do Relic Hunters Zero,  que está disponível no GitHub: &lt;a href=&quot;https://github.com/mventurelli/relichunterszero&quot; target=&quot;_blank&quot;&gt;https://github.com/mventurelli/relichunterszero&lt;/a&gt;
+. Se você tambem é &lt;a href=&quot;https://github.com/giacomelli&quot; target=&quot;_blank&quot;&gt;programador&lt;/a&gt;
+, vai querer conferir o game “mais de perto” e talvez até contribuir com ele. Para quem se interessou, o Mark Venturelli postou um tutorial mostrando como &lt;a href=&quot;http://www.roguesnail.com/how-to-make-your-own-gun-in-relic-hunters-zero/&quot; target=&quot;_blank&quot;&gt;adicionar uma nova arma ao game&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;O game tem previsão de lançamento para 18 de agosto no &lt;a href=&quot;http://store.steampowered.com/app/382490/&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
+. A primeira plataforma a receber o game será o Windows, todavia Mac e Linux estão nos planos da Rogue Snail, mas ainda sem previsão.&lt;/p&gt;
+
+&lt;h2 id=&quot;trailer-de-relic-hunters-zero&quot;&gt;Trailer de Relic Hunters Zero&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/SI5QTiWWGO4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Fófuuu da Beltri Studio</title>
+   <link href="http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio/"/>
+   <updated>2015-07-22T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
+   <content type="html">&lt;p&gt;Alexander Graham Bell, famoso inventor do telefone, que na verdade comprou o protótipo da invenção do italiano Antonio Meucci, era um especialista em fala, influenciado pelo pai Alexander Melville Bell, que trabalhava com a correção da fala. Em 1872 fundou nos EUA uma escola que utilizava o método de pronuncia desenvolvido por seu pai em suas aulas. No ano seguinte começou a lecionar Fisiologia Vocal na universidade de Boston, nesse mesmo ano iniciou suas pesquisas para  utilizar a eletricidade na transmissão de sons e o resto é história.&lt;/p&gt;
+
+&lt;p&gt;Qual a razão de falar de Bell na introdução de um game? Boas invenções sempre nos ajudaram a superar grandes desafios, assim foi com o telefone e assim será com o&lt;a href=&quot;http://fofuuu.com/&quot; target=&quot;_blank&quot;&gt; game educativo Fófuuu&lt;/a&gt;
+ que, com diversão, ajuda crianças a superarem problemas de fala.&lt;/p&gt;
+
+&lt;h2 id=&quot;fófuuu&quot;&gt;Fófuuu&lt;/h2&gt;
+&lt;p&gt;Fófuuu da brasileira Beltri Studio é um game educacional que utiliza exercícios fonoaudiológicos para auxiliar no tratamentos de problemas de fala. Atualmente o game está com uma campanha de crowdfunding no Startando para auxiliar na finalização do projeto: &lt;a href=&quot;https://www.startando.com.br/fofuuu&quot; target=&quot;_blank&quot;&gt;https://www.startando.com.br/fofuuu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O estúdio composto pelo desenvolvedor Bruno Tachinardi e a artista Trícia Araujo utiliza a consultoria da fonoaudióloga Rejane Aparecida para desenvolver os minigames de Fófuuu.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fófuuu vai ser lançado com 4 minigames focados para o tratamento de problemas da Fenda Labiopalatal, mas que também podem ser usados para outras condições, mas queremos expandir este número para incluir diversos exercícios que auxiliem no tratamento de diversas outras condições. (comenta Tricia Araujo)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;jogando-falando-e-se-divertindo&quot;&gt;Jogando, falando e se divertindo&lt;/h2&gt;
+&lt;p&gt;Na história do game, os jogadores construirão sua própria vila de animais no meio da floresta. Eles poderão usar as moedas do jogo para construir novas casas e recrutar novos animais para sua vila. Para isso, precisarão completar seus exercícios diários em minigames que treinam diferentes habilidades exercitadas pela fonoaudiologia.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Na sua versão de lançamento o game contará com minigames onde foco está na interação via microfone como controle no jogo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ilha do Tesouro&lt;/strong&gt;: crianças assoprarão constantemente para empurrar seu barquinho e chegar primeiro à ilha, é um jogo de resistência.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arca de Noé&lt;/strong&gt;: o jogador também usará o sopro, mas desta vez a variação entre soprar forte e fraco é o que estará controlando a posição da arca, que está tentando resgatar animais do dilúvio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recife de Corais&lt;/strong&gt;: vai usar as variações entre agudos e graves para guiar os animais até o seu coral durante um mergulho.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ataque Pirata&lt;/strong&gt;: os jogadores irão pronunciar fonemas e palavras para atirar em barcos piratas. Caso errem, os piratas atiram. Caso acertem, o jogador atira nos piratas.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;Na primeira versão estará disponível para PC e tables/smartphones Android, mas a equipe de desenvolvimento tem planos para lançar para Linux, Mac e iOS.&lt;/p&gt;
+
+&lt;p&gt;A previsão de lançamento do game é para janeiro de 2016, sendo que os dois primeiros mingames já estão em closed-beta.&lt;/p&gt;
+
+&lt;p&gt;A equipe também está procurando ONGs e instituições que tratem essas condições para que as crianças tenham acesso ao jogo desde cedo.&lt;/p&gt;
+
+&lt;p&gt;O game foi um dos &lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter/&quot;&gt;8 selecionados&lt;/a&gt;
+ no BIG Starter 2015 do BIG Festival e recebeu o prêmio de Melhor Jogo Educativo.&lt;/p&gt;
+
+&lt;h2 id=&quot;vídeo-de-fófuuu&quot;&gt;Vídeo de Fófuuu&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/63cW6SbOL9I &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Dengue Over da Ilusis Interactive</title>
+   <link href="http://example.com/2015/07/01/previa-de-dengue-over-da-ilusis-interactive/"/>
+   <updated>2015-07-01T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/01/previa-de-dengue-over-da-ilusis-interactive</id>
+   <content type="html">&lt;p&gt;Com um nome de origem egípcia, o famigerado mosquito transmissor da dengue, o Aedes aegypti, também é transmissor da febre amarela urbana e foi por transmitir essa segunda doença que o Brasil adotou rígidas medidas de controle por aproximadamente 3 anos e que culminaram em 1958 no país sendo considerado pela OMS um território livre do vetor, entretanto outras áreas do nosso continente não estavam livres da praga o que acabou levando ao ressurgimento do mosquito no país na década de 60.&lt;/p&gt;
+
+&lt;h2 id=&quot;dengue-over&quot;&gt;Dengue Over&lt;/h2&gt;
+&lt;p&gt;Se há décadas conseguimos, com controle e conscientização, eliminar o vetor da dengue. Por que não conseguiríamos agora? É com a ideia de conscientização que o game educacional Dengue Over da &lt;a href=&quot;http://www.ilusis.com/&quot; target=&quot;_blank&quot;&gt;Ilusis Interactive&lt;/a&gt;
+ acontece.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No game o jogador assume o papel de um garoto ou garota que aprende sobre os riscos e prevenção da Dengue e tem o desafio de alertar toda a sua rua, aprendendo, arrumando, tirando dúvidas de vizinhos e convencendo alguns deles que ainda não percebem os riscos que toda comunidade está correndo. Junto com eles está a agente de saúde da comunidade que ajuda dando dicas durante a jornada.” author = “comenta Leonardo Arantes&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Segundo a equipe de desenvolvimento de Dengue Over, durante a jornada contra a dengue o jogador passa por todas as casas da rua e cada uma é baseada em diferentes tipos de minigames. Alguns deles são estilo Seek &amp;amp; Find, Simulação, Bate papo com os vizinhos no formato de trivias, Quebra cabeças na montagem de cartazes, Match 3 sobre focos e sintomas da Dengue e até um jogo de plataforma onde você é o mosquito procurando focos de água parada para depositar seus ovos. Além de abordar todo conteúdo sobre a dengue, o mosquito e prevenção o jogo ainda vem com um conjunto de atividades externas e de sala de aula para que o aprendizado seja espalhado para os pais, vizinhos e comunidade.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;O game que será voltado para escolas ainda não tem uma data de lançamento e deve sair para para PCs e mobile.&lt;/p&gt;
+
+&lt;p&gt;O game foi um dos &lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter/&quot;&gt;8 selecionados&lt;/a&gt;
+ no BIG Starter 2015 do BIG Festival.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Dog Duty da Zanardi & Liza</title>
+   <link href="http://example.com/2015/06/20/previa-de-dog-duty-da-zanardi-liza/"/>
+   <updated>2015-06-20T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/20/previa-de-dog-duty-da-zanardi-liza</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Seu propósito: defender a liberdade humana contra a Organização Cobra, um impiedoso grupo terrorista determinado a dominar o mundo&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Assim começava o desenho animado de um dos brinquedos mais famosos e populares do mundo, que já foram conhecidos aqui no Brasil como Falcon, depois Comandos em Ação e agora G.I. Joe, dependendo de qual é a sua geração você os conheceu de forma diferente, talvez não apenas na forma de bonecos, pois eles fizeram parte da cultura pop de várias décadas, de maneira mais vigorosa durante os anos 80/90, contando com revistas em quadrinhos, a divertida série animada que passou na TV aberta por quase uma década e mais recentemente com filmes.&lt;/p&gt;
+&lt;h2 id=&quot;dog-duty&quot;&gt;Dog Duty&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/dogdutygame&quot; target=&quot;_blank&quot;&gt;Dog Duty&lt;/a&gt;
+ é um game da brasiliense &lt;a href=&quot;http://zanardiliza.com/&quot; target=&quot;_blank&quot;&gt;Zanardi &amp;amp; Liza&lt;/a&gt;
+ que se inspira na clássica brincadeira de bonecos ou action-figures.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Inicialmente, a inspiração veio dos Comandos em Ação, mas, como fatalmente ocorriam nas brincadeiras, sempre entrava um He-man, uma Tartaruga Ninja no meio das brincadeiras, para engrossar os exércitos de plástico. Uma verdadeira ‘Toy Story’. (comenta Leonardo Zimbres)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O game começou a ser desenvolvido há apenas um ano pela equipe composta por Leonardo Zimbres, responsável pelo programação e game design, Txai Viegas, compositor da trilha sonora de 16 bits, Hugo Vaz, trabalhando na arte, no design de interfaces e nos modelos low polys e Leonardo Martins, atuando também na arte e na modelagem dos personagens.&lt;/p&gt;
+
+&lt;h2 id=&quot;história&quot;&gt;História&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Dog Duty ocorre no futuro pós-apocalíptico, em uma ilha governada por um exército rude e brutal. O jogador reunirá um esquadrão de 4 membros, cada um com características peculiares, rumo a pontos estratégicos, cuja ordem de ataque definirá o futuro da ilha.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Segundo a equipe de desenvolvimento, o jogo segue a perigosa fórmula de misturar tática com ação, onde o jogador não controla o personagem para desviar de balas como em games totalmente de ação como os da série Contra, mas também não tem o ritmo comum em jogos de tática baseados em turno.&lt;/p&gt;
+
+&lt;p&gt;No vídeo abaixo podemos ver porque os desenvolvedores estão usando o termo “arcade-squad-combat” para definir o estilo do game.&lt;/p&gt;
+&lt;h2 id=&quot;vídeo-de-dog-duty&quot;&gt;Vídeo de Dog Duty&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/zjlyo7KR6Ik &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;h2 id=&quot;personsagens&quot;&gt;Personsagens&lt;/h2&gt;
+&lt;p&gt;Durante a evolução o jogador terá acesso a vários personagens para compor seu esquadrão, onde cada fase vencida destravará um novo membro.&lt;/p&gt;
+
+&lt;p&gt;Na imagem abaixo podemos conhecer quatro deles: Madness, o especialista em explosivos, Doc Kilmer, o médico do esquadrão, Rebecca, a sniper e Romeo, o serviço pesado.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;Dog Duty tem previsão de lançamento para o final de 2015, sendo o PS Vita a primeira plataforma a ser contemplada, mas a equipe de desenvolvimento ainda pretende lançar versões para PC e consoles.&lt;/p&gt;
+
+&lt;p&gt;O game foi um dos &lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter/&quot;&gt;8 selecionados&lt;/a&gt;
+ no BIG Starter 2015 do BIG Festival.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Peronio Pop-Up Book da Ovni Studios</title>
+   <link href="http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios/"/>
+   <updated>2015-06-17T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
+   <content type="html">&lt;p&gt;A primeira evidência histórica de livros pop-up remonta para o ano 1240 quando o monge beneditino Matthew Paris criou tal artefato para ajudar outros monges a calcular os dias santos. Nos séculos seguintes livros pop-up foram utilizados por adultos para ilustrar teorias, ensinar anatomia, fazer predições astronômicas e criar códigos secretos. Somente no século 18 surgiram os primeiros livros pop-up com sua finalidade mais famosa nos dias atuais: divertir e ensinar crianças.&lt;/p&gt;
+
+&lt;p&gt;Séculos depois graças as tecnologias atuais e as sempre infinitas capacidade e criatividade humana, os livros pop-up podem evoluir a um novo patamar e é nesse estágio que conhecemos Peronio Pop-up Book da Ovni Studios.&lt;/p&gt;
+
+&lt;h2 id=&quot;peronio-pop-up-book&quot;&gt;Peronio Pop-Up Book&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.peronio.com/&quot; target=&quot;_blank&quot;&gt;Peronio Pop-Up Book&lt;/a&gt;
+ é uma parceria entre Tiago Moraes da Ovni Studios e Renato Klieger Creative Productions.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Diferente de outros jogos ou livros de pop-up interativos, Peronio possui uma proposta muito criativa e inovadora de usabilidade. Oferece jogabilidade holográfica combinando tecnologias de realidade virtual e aumentada em uma única e imersiva experiência.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;o-que-você-quer-ser-quando-crescer&quot;&gt;O que você quer ser quando crescer?&lt;/h2&gt;
+&lt;p&gt;A história do jogo é baseada na clássica pergunta que é feita a toda criança: “O que você quer ser quando crescer?”, onde o personagem Peronio pode responder, ser dentista, mas não apenas para cuidar dos dentes das pessoas, mas sim, para cuidar dos dentes do dragão, pois dragões possuem muitos dentes. Ser mecânico, não para consertar carros, mas sim para transformar o carro de seu pai em uma nave espacial.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;É esta magia que tornam as crianças tão especiais e nesse aspecto a tecnologia atual ajuda muito. (comenta a equipe de desenvolvimento)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;O game pode ser utilizado tanto com realidade aumentada quanto com realidade virtual, ou ainda, combinando as duas. Além disso ele funciona com qualquer óculos de realidade virtual de baixo custo como o Google Cardboard.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;O game está atualmente em closed beta e será lançado para iOS e Android no final de junho. O jogo deve seguir o modelo gratuito onde será possível comprar novos capítulos.&lt;/p&gt;
+
+&lt;p&gt;Steam, PS4, Nintendo 3DS e Playstation Vita também são plataformas na mira dos desenvolvedores de Peronio.&lt;/p&gt;
+
+&lt;p&gt;O game foi um dos &lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter/&quot;&gt;8 selecionados&lt;/a&gt;
+ no BIG Starter 2015 do BIG Festival.&lt;/p&gt;
+&lt;h2 id=&quot;teaser-de-peronio&quot;&gt;Teaser de Peronio&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://player.vimeo.com/video/123133018 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Massive Madness da Ninja Garage Studio</title>
+   <link href="http://example.com/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/"/>
+   <updated>2015-06-16T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio</id>
+   <content type="html">&lt;p&gt;ToeJam &amp;amp; Earl, game lançado em 1991 para o saudoso Mega-Drive, trazia dois personagens extraterrestres do planeta Funkotron, que colidem com a Terra e tem como missão buscar as partes de sua nave pelas 25 fases do game. Na época o jogo conquistou muitos fãs por sua originalidade, jogabilidade, estilo e trilha sonora funk composta por John Baker. A maior prova de seu sucesso é a recente &lt;a href=&quot;https://www.kickstarter.com/projects/1578116861/toejam-and-earl-back-in-the-groove/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarte&lt;/a&gt;
+r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produção do novo game.&lt;/p&gt;
+
+&lt;h2 id=&quot;massive-madness&quot;&gt;Massive Madness&lt;/h2&gt;
+&lt;p&gt;Por que falar de um game de 1991 para apresentar um que está em desenvolvimento agora? Primeiro, porque qualquer game que tenha como inspiração clássicos como ToeJam &amp;amp; Earl merece atenção. Segundo que, assim como o game dos anos 90 foi desenvolvido por dois gamedevs, Greg Johnson e Mark Voorsanger, &lt;a href=&quot;http://ninjagarage.com/massivemadness&quot; target=&quot;_blank&quot;&gt;Massive Madness &lt;/a&gt;
+ também está sendo desenvolvido apenas por dois gamedevs, Dinart Filho e Rafaella do Ninja Garage Studio.&lt;/p&gt;
+
+&lt;p&gt;Certa vez Isaac Newton teria dito “Se cheguei até aqui foi porque me apoiei no ombro dos gigantes”, essa é uma das razões que referências e inspirações são tão importantes na ciência e em tantas outras áreas, e não seria diferente no gamedev, pois, segundo a equipe de desenvolvimento outras inspirações do game vão desde o grotesco Two Crude Dudes, passando por Golden Axe e o primeiro Zelda do NES até chegar a The Binding of Isaac.&lt;/p&gt;
+
+&lt;h2 id=&quot;história&quot;&gt;História&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Um dos negócios dos nossos personagens é um salão de beleza e eles compraram uma incrível cadeira de salão de beleza com 1001 utilidades, super rara, que aparentemente nem está mais disponível (o país em que foi fabricada não existe mais). Alguém sabota a máquina e ela explode. Mandando pedaços para todos os lados da cidade (cada fase do jogo). Cada pedaço deu habilidades sobrenaturais a quem os possui (os bosses das fases). Os personagens descobrem quem sabotou a máquina e um produtor de TV decidiu fazer um reality show cobrindo a aventura (The Revenge Show). (comenta a equipe da Ninja Garage Studio)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Shooting com elementos de beat’em up e de roguelike fazem a mistura que compõem o gameplay do game.&lt;/p&gt;
+
+&lt;p&gt;As fases, desde a montagem das salas quanto dos objetos, inimigos, itens e armadilhas são geradas aleatoriamente, ou seja, o jogador enfrenta um desafio totalmente novo a cada jogada.&lt;/p&gt;
+
+&lt;p&gt;Existe uma grande variedade de armas para enfrentar os inimigos, além delas também existem veículos e powerups que podem ser vestidos.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;O jogo que está em desenvolvimento há apenas 7 meses tem previsão de lançamento para o primeiro semestre de 2016, saindo inicialmente para Windows e Mac, mas a equipe de desenvolvimento não descarta a possibilidade do game sair para consoles.&lt;/p&gt;
+
+&lt;p&gt;O game foi um dos &lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter/&quot;&gt;8 selecionados&lt;/a&gt;
+ no BIG Starter 2015 do BIG Festival.&lt;/p&gt;
+&lt;h2 id=&quot;teaser-de-massive-madness&quot;&gt;Teaser de Massive Madness&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/y8U9VdUcRns &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;Boas lembranças de Zombies Ate My Neighbors para Mega-Drive e SNES ao ver o vídeo acima.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #9</title>
+   <link href="http://example.com/2015/06/11/checkpoint-9/"/>
+   <updated>2015-06-11T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/11/checkpoint-9</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar&quot;&gt;Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60576651912178892&quot;&gt;A Aquiris Game Studio dando sequência na sua apresentação de equipe, conheça o Analista de Qualidade Matheus @ttfreire&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/odingamestudio/posts/90690340604019&quot;&gt;Pessoal da Odin Game Studio celebrando a seleção de dois de seus games entre os 20 selecionados para área BIG Booth do BIG Festival 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura&quot;&gt;Entrevistamos Renato Degiovani sobre a abertura do club TILT&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=86666335006650&quot;&gt;O game TEGRA da Contra Labs recebe o prêmio de melhor jogo pelo voto popular no XI Seminário SJEEC&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://gizmodo.uol.com.br/angry-birds-realidade-virtual&quot;&gt;Matéria no Gizmodo Brasil sobre o Angry Birds VR produzido pela gaúcha IMGNATION Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/05/playthrough-chroma-squad-tactical-rpg-002&quot;&gt;O parceiro Insert Coins no segundo episódio do Playthrough Chroma Squad – Tactical RPG&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/60693170622291148&quot;&gt;Artigo na PC Guru sobre Chroma Squad da Behold Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter&quot;&gt;Selecionados imagens e vídeos dos 8 games selecionados no BIG Starter 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60795388221659136&quot;&gt;Conheça o game designer de Horizon Chase: Felipe Dal Molin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;11&quot;&gt;#11&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60836996199262617&quot;&gt;A Mgaia Studio mostrando a página do game Tiny Empire lançado para Windows Phone e Android (iOS em breve)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;12&quot;&gt;#12&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/10/previa-de-my-night-job-da-webcore-games&quot;&gt;Prévia de My Night Job da Webcore Games&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;13&quot;&gt;#13&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/TreekerGame/status/60899988728015667&quot;&gt;Site do game Treeker: Os Óculos Perdidos da Blubox Soft no ar&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de My Night Job da Webcore Games</title>
+   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games/"/>
+   <updated>2015-06-10T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
+   <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
+
+&lt;p&gt;Se quando você viu esses filmes ficou com vontade de pegar a serra elétrica, sua boomstick (a arma de cano-serrado), entrar numa casa mal-assombrada, detonar os demônios e salvar o dia no melhor estilo insano do herói Ash Williams, então o game que a Webcore Games está desenvolvendo matará sua vontade.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-night-job&quot;&gt;My Night Job&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.mynightjobgame.com/&quot; target=&quot;_blank&quot;&gt;My Night Job &lt;/a&gt;
+é uma parceria entre a paulistana Webcore Games, o game designer Philip  Mangione e o artista Bruno Speranzoni.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O game é uma homenagem aos filmes clássicos de horror dos anos 80. Pessoas desesperadas, um ambiente fechado, uma ameaça aterrorizante, um herói que se sobressai e uma dose de humor. As referências são filmes como Phantasm, Evil Dead, A Hora do Pesadelo, A Coisa e Madrugada dos Mortos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My Night Job teve seu desenvolvimento iniciado após o edital de produção de jogos do SPCine de 2014, mas já era um projeto pensado por mais de 5 anos por seus criadores.&lt;/p&gt;
+
+&lt;h2 id=&quot;part-time-hero&quot;&gt;Part-time hero&lt;/h2&gt;
+&lt;p&gt;Na história do game, o jogador estará na pele do endividado Reggie que resolve fazer bico de Auxiliar de Resgate Noturno, isso mesmo, para pagar suas dívidas. Na primeira noite de trabalho, como é de praxe, os veteranos resolvem deixar todo o trabalho para o novato, deixando Reggie sozinho num casarão para dar conta do recado.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;O gameplay de My Night Job é no melhor estilo beat ‘em up de arcades da década de 90, como The Simpsons Arcade Game e Teenage Mutant Ninja Turtles (ou o jogo das Tartarugas Ninjas, para quem viveu aquela época), mas claro, com todo aquele clima dos filmes citados. Também podemos perceber alguns elementos do divertidíssimo Metal Slug.&lt;/p&gt;
+
+&lt;p&gt;Como é possível ver no vídeo abaixo que mostra a mansão onde o jogador foi abondado pelos veteranos, o jogador enfrentará hordas de monstros enquanto tenta guiar as pessoas até o helicóptero de resgate. Além dos punhos, o jogador poderá utilizar diversos objetos do cenário e armas para derrotar os monstrengos.&lt;/p&gt;
+&lt;h2 id=&quot;vídeo-de-gameplay-de-my-night-job&quot;&gt;Vídeo de gameplay de My Night Job&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/It3pWgvrwn0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;arte&quot;&gt;Arte&lt;/h2&gt;
+&lt;p&gt;É claro que o melhor estilo visual para um game que faz homenagem a filmes dos anos 80 seria o pixel art e o game traz animações quadro a quadro como nos arcades dos anos 90, sem escala ou rotação, e cada cômodo traz referências dos filmes que inspiraram o game.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;Deve ser lançado exclusivamente para o PS4 no primeiro trimestre de 2016 e com a possibilidade de Xbox One e Steam serem brindados com versões alternativas no futuro.&lt;/p&gt;
+
+&lt;p&gt;O game foi um dos &lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter/&quot;&gt;8 selecionados&lt;/a&gt;
+ no BIG Starter 2015 do BIG Festival.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Groovy!&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Conheça os games selecionados no BIG Starter 2015</title>
+   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter/"/>
+   <updated>2015-06-09T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
+   <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;
+, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.&lt;/p&gt;
+
+&lt;p&gt;Entramos em contato com as equipes de desenvolvimento para sabermos mais sobre os projetos, neste post você poderá conferir alguns trailers e imagens dos selecionados e durante os próximos dias faremos prévias de cada um dos games que estarão no BIG Starter 2015.&lt;/p&gt;
+
+&lt;p&gt;O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: &lt;a href=&quot;/2015/05/26/previa-de-alkimya-da-bad-minions/&quot;&gt;Prévia de Alkimya da Bad Minions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;finalistas-na-categoria-entretenimento&quot;&gt;Finalistas na categoria entretenimento&lt;/h3&gt;
+&lt;h2 id=&quot;alkimya-da-bad-minions&quot;&gt;Alkimya da Bad Minions&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/lWjMGFZAnD8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;dog-duty-da-zanardiliza&quot;&gt;Dog Duty da Zanardi&amp;amp;Liza&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/zjlyo7KR6Ik &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;massive-madness-da-ninja-garage&quot;&gt;Massive Madness da Ninja Garage&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/cvp4NxzGnno &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;my-night-job-da-webcore-games&quot;&gt;My Night Job da WebCore Games&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/gnhnC9tCAWE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;relic-hunters-zero-da-rogue-snail-mark-venturelli&quot;&gt;Relic Hunters Zero da Rogue Snail (Mark Venturelli)&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/UcQtxb2tJ0I &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h3 id=&quot;finalistas-na-categoria-educativo&quot;&gt;Finalistas na categoria educativo&lt;/h3&gt;
+&lt;h2 id=&quot;dengue-over-da-ilusis-interactive&quot;&gt;Dengue Over da Ilusis Interactive&lt;/h2&gt;
+
+&lt;h2 id=&quot;peronio-hologram-da-ovni-studios&quot;&gt;Peronio Hologram da Ovni Studios&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://player.vimeo.com/video/123133018 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;fófuu-de-bruno-tachinardi&quot;&gt;Fófuu de Bruno Tachinardi&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/63cW6SbOL9I &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #8</title>
+   <link href="http://example.com/2015/05/29/checkpoint-8/"/>
+   <updated>2015-05-29T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/29/checkpoint-8</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/updates/25536644&quot;&gt;Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60294397640509849&quot;&gt;A Aquiris Game Studio apresentando seu time de desenvolvimento, agora é a vez do Sound/motion designer Giovane Webster&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2012/10/30/crystal-catcher/#traile&quot;&gt;Conheça um pouco mais do game Crystal Catcher da Crazy Mind Studios com este trailer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia&quot;&gt;Começa hoje O VIII GAMEPAD – Seminário de Games e Tecnologia que contará com apresentação de papers, mostra de jogos, palestras e workshops&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/26/previa-de-alkimya-da-bad-minions&quot;&gt;Nossa prévia do game Alkimya da Bad Minions, com direito a consultoria de Isaac Newton&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticGame/status/603268164554723328&quot;&gt;O game Ballistic da Aquiris tem sua trilha sonora liberada publicamente no SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/BadMinions/posts/866625280057757&quot;&gt;Pessoal da Bad Minions comemorando a seleção do jogo Alkimya entre os 8 games que participarão do BIG Starter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/603650929519415297&quot;&gt;Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/27/fan-arts-de-toren-da-swordtales/&quot;&gt;Veja nossa coletânea de fan arts do game Toren&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/28/carcara-asas-da-justica/&quot;&gt;Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #7</title>
+   <link href="http://example.com/2015/05/18/imagens-da-semana-7/"/>
+   <updated>2015-05-18T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/18/imagens-da-semana-7</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/59886620722427494&quot;&gt;A JoyMasher avisando que Odallus também sairá em português”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/danielmerkel/status/59891839313210163&quot;&gt;O gamedev Daniel Merkel lembrando sobre três indie games brasileiros de destaque: Toren da Swordtales, Starlit Adventures da Rockhead Games e Chroma Squad da Behold Studios”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=93049786700898&quot;&gt;Pessoal da QUByte Interactive liberando o wallpaper The War Begun de seu novo game no Steam Recruits”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/59941354985795174&quot;&gt;Ninja Garage Studio mostrando uma bela screenshot de seu game em desenvolvimento Massive Madness”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/59958632437975449&quot;&gt;Nova screenshot da versão beta do game Shiny da Garage 227 para o BIG Starter do BIG Festival 2015”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/59921254864329932&quot;&gt;Demo e votação no Greenlight do game Mustache in Hell da Iduna Game Studio”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/starlitadv/status/59959765052310323&quot;&gt;Os personagens Bo e Kikki utilizando o traje de neve no recém lançado game da Rockhead: Starlit Adventures”&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>BIG Festival 2015 </title>
+   <link href="http://example.com/2015/03/27/big-festival-2015/"/>
+   <updated>2015-03-27T00:00:00-03:00</updated>
+   <id>http://example.com/2015/03/27/big-festival-2015</id>
+   <content type="html">&lt;p&gt;O BIG que chega na sua 3º edição em 2015 é o primeiro e único festival de jogos independentes da América Latina. A cada edição expõe os melhores jogos independentes daquele ano de desenvolvedores do mundo inteiro.&lt;/p&gt;
+
+&lt;p&gt;Todos os jogos finalistas estarão disponíveis para serem jogados durante o festival. Alguns deles também estarão disponíveis online.&lt;/p&gt;
+
+&lt;p&gt;Confira os finalistas das edições &lt;a href=&quot;http://www.bigfestival.com.br/jogos/listar/1/finalistas/2012&quot;&gt;2012&lt;/a&gt;
+ e &lt;a href=&quot;http://www.bigfestival.com.br/jogos/listar/1/finalistas/2014&quot;&gt;2014&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Datas e local:&lt;/strong&gt;
+Para os desenvolvedores:
+Inscrições dos jogos: até o dia 24/04/15.
+Inscrições para o BIG Starter: até 15/05/15.&lt;/p&gt;
+
+&lt;p&gt;Para os jogadores:
+O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo.&lt;/p&gt;
+
+&lt;p&gt;Mais informações no site oficial do evento: &lt;a href=&quot;http://www.bigfestival.com.br/&quot;&gt;http://www.bigfestival.com.br&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

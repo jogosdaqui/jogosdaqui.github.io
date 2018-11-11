@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - qubyte-interactive</title>
+ <link href="http://example.com/tags/qubyte-interactive/index.xml" rel="self"/>
+ <link href="http://example.com/tag/qubyte-interactive.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/qubyte-interactive.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Games brasileiros em crowdfunding</title>
+   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding/"/>
+   <updated>2015-08-29T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
+   <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
+Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Confira:&lt;/p&gt;
+
+&lt;h2 id=&quot;magic-master&quot;&gt;Magic Master&lt;/h2&gt;
+&lt;p&gt;A campanha do game que mistura elementos de tower defense e de beat’em up combinados com uma estética sombria está em suas últimas horas.&lt;/p&gt;
+
+&lt;p&gt;Acesse o Kickante e ajude a mineira Mopix Games na produção deste belo game: &lt;a href=&quot;http://www.kickante.com.br/campanhas/magic-master&quot; target=&quot;_blank&quot;&gt;http://www.kickante.com.br/campanhas/magic-master&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/2DLQ_jA9rm8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;tiny-little-bastards&quot;&gt;Tiny Little Bastards&lt;/h2&gt;
+&lt;p&gt;O game da carioca Overlord Game Studio está em campanha no Indiegogo. Tiny Little Bastards é um jogo 2D que utiliza elementos de games de plataforma e action-RPG para apresentar Ivarr, o viking que o jogador controlará na busca pelas suas cervejas roubadas.&lt;/p&gt;
+
+&lt;p&gt;Com uma linda arte totalmente desenhada a mão e jogabilidade macia, o game promete: &lt;a href=&quot;https://www.indiegogo.com/projects/tiny-little-bastards&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/tiny-little-bastards&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/6_AXtKHAJPg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;99vidas-o-jogo&quot;&gt;99Vidas o jogo&lt;/h2&gt;
+&lt;p&gt;99Vidas o jogo é uma parceria entre a gamedev brasileira QUByte Interactive e o podcast 99Vidas visando a criação de um novo IP baseado no universo do programa.&lt;/p&gt;
+
+&lt;p&gt;Se você gosta de games do estilo beat’em up ou é fã da galera do 99Vidas, então entre no Catarse e faça sua contribuição:&lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt; https://www.catarse.me/pt/99vidas&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/jLgl-KoZwmo &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;racketboy&quot;&gt;RacketBoy&lt;/h2&gt;
+&lt;p&gt;O studio indie Double Dash está em campanha com seu game RacketBoy que mistura o estilo de Arkanoid com o gênero shoot’em up e um garoto com uma raquete que pode rebater os tiros.&lt;/p&gt;
+
+&lt;p&gt;Com uma jogabilidade inusitada, RacketBoy está no Indiegogo:
+&lt;a href=&quot;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/dZ4nRLOoVI4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Conhece mais alguma game brasileiro que está atualmente em campanha de crowdfunding? Entre em &lt;a href=&quot;/contato&quot;&gt;contato conosco&lt;/a&gt;
+ para atualizarmos o post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Crowdfunding de 99Vidas o jogo</title>
+   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo/"/>
+   <updated>2015-07-31T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
+   <content type="html">&lt;p&gt;O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat’em up, grandes clássicos e referências para qualquer game do gênero.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://99vidas.com.br/jogo&quot; target=&quot;_blank&quot;&gt;99Vidas o jogo&lt;/a&gt;
+ é uma parceria entre a gamedev brasileira QUByte Interactive e o podcast 99Vidas visando a criação de um novo IP baseado no universo do programa.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O estilo clássico de beat’em up, pixel art com vozes masterizadas é algo que da QUByte sempre quis fazer e com esta parceria finalmente a empresa terá sua oportunidade de fazer algo neste estilo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A QUByte e a equipe do 99vidas montaram uma equipe que trabalhou os últimos 5 meses na produção da demo do jogo, assim os jogadores poderão ter uma boa ideia do game antes de ajudar no crownfunding.&lt;/p&gt;
+
+&lt;p&gt;Na demo jogável, que está disponível para &lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt;Mac e Windows&lt;/a&gt;
+ podemos conferir uma fase inteira do jogo, podendo selecionar entres os personagens do Jurandir Filho e do Izzy Nobre. O game com seu estilo pixel art é um beat’em up em todo seu gameplay e está muito legal, com direito a soco, chutes e especiais de encher a tela. As frases e vozes dos membros do podcast 99Vidas estão ali e dão um toque bem original ao game, vide ao famoso “Go” dos jogos do gênero, que no 99Vidas o jogo virou “Bora”.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt;campanha de financiamento&lt;/a&gt;
+ coletivo iniciada hoje no Catarse tem como objetivo adicionar mais personagens, fases e elementos ao jogo e leva-lo ao PC e Mac. Ainda existem metas na campanha que, se atingidas, ajudarão a levar o game para PS4, Xbox One, Wii U e 3DS.&lt;/p&gt;
+
+&lt;h2 id=&quot;trailer-de-99vidas-o-jogo&quot;&gt;Trailer de 99Vidas o jogo&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/jLgl-KoZwmo &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Gostou da demo? É fã de beat’em up? Então colabore na campanha &lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt;https://www.catarse.me/pt/99vidas&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #12</title>
+   <link href="http://example.com/2015/06/22/imagens-da-semana-12/"/>
+   <updated>2015-06-22T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/22/imagens-da-semana-12</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticGame/status/60909733429161984&quot;&gt;A Aquiris Game Studio convocando os jogadores de Ballistic para contribuir na classe The Vanguard”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=96067241732486&quot;&gt;O game HTR+ da QuByte Interactive vendido em caixinha na Alemanha”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/danielmerkel/status/61088221620224819&quot;&gt;A equipe da SouthBox trabalhando na UI do game Super Volley”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4”&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/4AjlVtGzGB&quot;&gt;O BIG Festival lembrando que o lançamento do game Full Metal Wars da brasileira Prosperity Games acontecerá durante o evento no dia 01/07&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5”&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/61228920312104960&quot;&gt;Screenshot da pista de Brighton Beach do game de corrida Horizon Chase&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #7</title>
+   <link href="http://example.com/2015/05/18/imagens-da-semana-7/"/>
+   <updated>2015-05-18T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/18/imagens-da-semana-7</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/59886620722427494&quot;&gt;A JoyMasher avisando que Odallus também sairá em português”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/danielmerkel/status/59891839313210163&quot;&gt;O gamedev Daniel Merkel lembrando sobre três indie games brasileiros de destaque: Toren da Swordtales, Starlit Adventures da Rockhead Games e Chroma Squad da Behold Studios”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=93049786700898&quot;&gt;Pessoal da QUByte Interactive liberando o wallpaper The War Begun de seu novo game no Steam Recruits”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/59941354985795174&quot;&gt;Ninja Garage Studio mostrando uma bela screenshot de seu game em desenvolvimento Massive Madness”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/59958632437975449&quot;&gt;Nova screenshot da versão beta do game Shiny da Garage 227 para o BIG Starter do BIG Festival 2015”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/59921254864329932&quot;&gt;Demo e votação no Greenlight do game Mustache in Hell da Iduna Game Studio”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/starlitadv/status/59959765052310323&quot;&gt;Os personagens Bo e Kikki utilizando o traje de neve no recém lançado game da Rockhead: Starlit Adventures”&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #5</title>
+   <link href="http://example.com/2015/05/09/checkpoint-5/"/>
+   <updated>2015-05-09T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/09/checkpoint-5</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ICONGames/status/59452353241723289&quot;&gt;A Icon Games comemorando a marca de 180.000 downloads de seu game Escape from Alcatraz&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/03/toren-ganha-trailer-de-lancamento/&quot;&gt;A Swordtales produziu uma bela versão em português do trailer de lançamento de Toren&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/05/turbolink-aprovado-no-steam-greenlight/&quot;&gt;TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma Greenlight&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XjL9OSKNpu&quot;&gt;O famoso YouTuber Zangado conferindo o game Toren da SwordTales&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/&quot;&gt;A brasileira QUByte Interactive fecha parceria com a Australiana Commotion Games e revela o game Recruits - Make heroes. Make History&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/59594042026743398&quot;&gt;Diversos gamedevs brasileiros marcaram presença no evento da Unreal Engine, como o pessoal da Garage 227&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins/&quot;&gt;O jogosdaqui fechou parceria com o canal do YouTube Insert Coins e dessa parceria surgiu a coluna Insert Coins no jogosdaqui. O primeiro vídeo da parceria é um gameplay do game brasileiro Gryphon Knight Epic&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.humblebundle.com/store/p/chromasquad_storefron&quot;&gt;Chroma Squad chega na Humble Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/07/splitplay-um-ano-em-numeros/&quot;&gt;A Splitplay, loja de game indies brasileiros, completa 1 ano de vida&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.us.playstation.com/2015/05/07/toren-ventures-onto-ps4-may-12t&quot;&gt;Artigo no Playstation blog sobre o Toren&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;11&quot;&gt;#11&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/07/fan-arts-de-chroma-squad/&quot;&gt;O jogosdaqui selecionou algumas fan arts do game Chroma Squad&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;12&quot;&gt;#12&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.metacritic.com/game/pc/chroma-squad&quot;&gt;No momento deste artigo, Chroma Squad pontuava 77 no metascore e 9.2 no user score do Metacritic. E você já deu seu voto?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;13&quot;&gt;#13&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/08/distorcoes-ganha-novos-videos/&quot;&gt;O game Distorções ganha novos vídeos demonstrando alguns elementos de seu gameplay&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ganhadores da promoção do game Recruits</title>
+   <link href="http://example.com/2015/05/08/ganhadores-da-promocao-do-game-recruits/"/>
+   <updated>2015-05-08T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/08/ganhadores-da-promocao-do-game-recruits</id>
+   <content type="html">&lt;p&gt;Os participantes sorteados que seguiram todas as regras da  &lt;a href=&quot;/2015/05/05/promocao-do-game-recruits-make-heroes-make-history/&quot;&gt;promoção do game Recruits - Make Heroes. Make History.&lt;/a&gt;
+ da QUByte Interactive e ganharam as Steam keys do jogo foram:&lt;/p&gt;
+
+&lt;h2 id=&quot;os-ganhadores&quot;&gt;Os ganhadores&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;https://twitter.com/cgasparetto/status/596025666430173185&quot; target=&quot;_blank&quot;&gt;Carlos Gasparetto&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://twitter.com/DunaGames/status/595915295895715841&quot; target=&quot;_blank&quot;&gt;Adriano de Regino&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://twitter.com/eduardobursa/status/596357909103128576&quot; target=&quot;_blank&quot;&gt;Eduardo Pereira da Silva&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;As Steam keys serão enviadas via DM (Direct Message) pelo Twitter do jogosdaqui.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;confira-o-trailer-oficial-de-recruits---make-heroes-make-history&quot;&gt;Confira o trailer oficial de Recruits - Make Heroes. Make History.&lt;/h2&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/pNcZhrWItSM &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Bom jogo e boa diversão.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Revelado novo game da QUByte Interactive: Recruits</title>
+   <link href="http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/"/>
+   <updated>2015-05-05T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
+   <content type="html">&lt;p&gt;Semana passada &lt;a href=&quot;/2015/04/30/qubyte-interactive-produzindo-novo-game/&quot;&gt;anunciamos&lt;/a&gt;
+ que a gamedev brasileira QUByte Interactive estava produzindo um novo game  de estratégia com muitos elementos de ação, inspirado em clássicos top-down shooter, como Cannon Fodder do SNES.&lt;/p&gt;
+
+&lt;p&gt;Hoje a QUbyte revelou oficialmente o jogo, trata-se de &lt;a href=&quot;http://www.recruitsgame.com/&quot; target=&quot;_blank&quot;&gt;Recruits - Make Heroes. Make History&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Um game com um grande apelo gráfico, onde o jogador, na pele de um comandante, deve utilizar estratégias de combate para levar seu esquadrão a vitória em diversas missões, como resgatar um membro da equipe e levá-lo a uma área segura.&lt;/p&gt;
+
+&lt;p&gt;A versão para PCs já está &lt;a href=&quot;http://store.steampowered.com/app/246880&quot; target=&quot;_blank&quot;&gt;disponível na Steam&lt;/a&gt;
+ em early access. Segundo Marivaldo Cabral, engenheiro de software e CEO da QUByte, a arrecadação durante esse fase será utilizada para o aperfeiçoamento do game que também deve chegar nas plataformas PS3, Xbox One e Nintendo Wii U.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Em todas elas, a qualidade gráfica continuará sendo um diferencial”, diz Cabral. A empresa também revelou que o game utiliza a famosa engine gráfica Unreal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Outro fato interessante sobre o game é que ele é o resultado de uma parceria da empresa brasileira com a australiana Commotion Games, que  começou a desenvolver o jogo. A QUByte será a responsável por finalizar e lançar o game. Atualmente a equipe da QUByte trabalha em novas missões, a melhoria do sistema multiplayer e mecânicas de jogabilidade.&lt;/p&gt;
+
+&lt;h2 id=&quot;confira-o-trailer-oficial-de-recruits&quot;&gt;Confira o trailer oficial de Recruits&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/pNcZhrWItSM &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Nossa expectativa com o game é alta, pois pelas screenshots e trailer disponíveis, tanto gráficos e gameplays parecem ser arrasadores e realmente nos lembraram os clássicos games top-down shooter que tanto gostávamos. Em breve teremos uma análise completa de Recruits no jogosdaqui.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Promoção do game Recruits - Make Heroes. Make History.</title>
+   <link href="http://example.com/2015/05/05/promocao-do-game-recruits-make-heroes-make-history/"/>
+   <updated>2015-05-05T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/05/promocao-do-game-recruits-make-heroes-make-history</id>
+   <content type="html">&lt;p&gt;A QUByte Interactive nos enviou 3 Steam keys do seu &lt;a href=&quot;/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/&quot;&gt;novo game Recruits - Make Heroes. Make History.&lt;/a&gt;
+ para sortearmos entre nossos leitores.&lt;/p&gt;
+
+&lt;h2 id=&quot;para-participar-da-promoção-siga-os-passos-abaixo&quot;&gt;Para participar da promoção, siga os passos abaixo:&lt;/h2&gt;
+&lt;ol&gt;
+	&lt;li&gt;Os prêmios deste sorteio serão 3 Steam keys para o game Recruits - Make Heroes. Make History. da QUByte Interactive. Os ganhadores serão os 3 primeiros colocados na lista gerada aleatoriamente pelo random.org;&lt;/li&gt;
+	&lt;li&gt;Para concorrer, siga o &lt;a href=&quot;http://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;@jogosdaqui&lt;/a&gt;
+, deixe um comentário neste post e poste a frase abaixo no Twitter:
+&lt;a style=&quot;color:black&quot; target=&quot;_new&quot; href=&quot;https://twitter.com/home?status=Quero concorrer a 3 Steam keys do game brasileiro Recruits - Make Heroes. Make History. da QUByte no @jogosdaqui: /2015/05/05/promocao-do-game-recruits-make-heroes-make-history&quot;&gt;&lt;blockquote&gt;Quero concorrer a 3 Steam keys do game brasileiro Recruits - Make Heroes. Make History. da QUByte no @jogosdaqui: /2015/05/05/promocao-do-game-recruits-make-heroes-make-history&lt;/blockquote&gt;&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;Concorrerão todas as pessoas que seguirem todos os procedimentos descritos acima, até as 18:00 horas (horário de Brasília) do dia 08/05/2015 (sexta-feira).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;confira-o-trailer-oficial-de-recruits---make-heroes-make-history&quot;&gt;Confira o trailer oficial de Recruits - Make Heroes. Make History.&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/pNcZhrWItSM &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Bom game e boa sorte a todos!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #4</title>
+   <link href="http://example.com/2015/05/02/checkpoint-4/"/>
+   <updated>2015-05-02T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/02/checkpoint-4</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://gamereporter.uol.com.br/mundo-canibal-apocalipse-steam&quot;&gt;O game Mundo Canibal Apocalipse chega no Steam Greenlight. Jogo e voto obrigatórios para quem gosta do humor dos irmãos Piologo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/27/previa-de-starlit-adventures/&quot;&gt;Starlit Adventures, game brasileiro de aventura-plataforma com gráficos fantásticos, será lançado no próximo mês&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.marketingegames.com.br/better-late-than-dead-odin-ps4&quot;&gt;Artigo no site Marketing &amp;amp; Games sobre o jogo para PS4 Better later than DEAD da Odin Game Studio &lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/28/phoenix-force/&quot;&gt;Veja nossa análise do shoot ‘em up Phoenix Force da Awoker Games&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=d1ikkA5S0j&quot;&gt;Preview do game Gryphon Knight Epic feito pela galera do Insert Coins com a participação do Joe Junior, um dos desenvolvedores do game&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/28/infografico-quantos-games-brasileiros-voce-ja-jogou/&quot;&gt;Infográfico resultado da nossa enquente ‘Quantos games brasileiros você já jogou?’&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.brasilgameshow.com.br/sou-visitante/feira/noticias/230-participante-pelo-segundo-ano-consecutivo-garage-227-studios-fala-sobre-suas-expectativas-para-a-bgs-201&quot;&gt;Artigo no site do evento Brasil Game Show sobre as expectativas da gamedev brasileira Garage 227 quanto a edição 2015 do evento&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/29/emerge-americas-tera-a-participacao-da-cupcake/&quot;&gt;A gamedev gaúcha Cupcake Sweet Entertainment estará no mega-evento eMerge Americas&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/29/labindie-divulga-jogo-indie-milford-heaven/&quot;&gt;Na estréia da coluna do Labindie no jogosdaqui conheça o game indie Milford Heaven&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/30/chroma-squad-no-steam-o-dia-chegou/&quot;&gt;Chroma Squad no Steam, o dia chegou &lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;11&quot;&gt;#11&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://revistagalileu.globo.com/blogs/Press-Continue/noticia/2015/04/o-processo-por-tras-da-criacao-de-um-jogo-indie-historia-arte-3d-e-render-parte-3-de-3.html&quot;&gt;Garage 227 novamente, agora no blog Press Continue da revista Galileu, falando um pouco sobre o processo por trás da criação de um jogo Indie&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;12&quot;&gt;#12&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/30/qubyte-interactive-produzindo-novo-game/&quot;&gt;QUByte Interactive produzindo novo game&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;13&quot;&gt;#13&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UQHYWH5kPrU&quot;&gt;O famoso youtuber Zangado jogando Aritana e a Pena de Harpia e Chroma Squad&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;14&quot;&gt;#14&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/01/brazil-gets-unreal/&quot;&gt;Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal &lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>QUByte Interactive produzindo novo game</title>
+   <link href="http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game/"/>
+   <updated>2015-04-30T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game</id>
+   <content type="html">&lt;p&gt;A paulista QUByte Interactive, conhecida pelo jogo &lt;a href=&quot;/2014/06/18/splitplay-apresenta-htr-high-tech-racing/&quot; title=&quot;Splitplay apresenta: HTR+ High Tech Racing+&quot;&gt;HTR+&lt;/a&gt;
+, anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U.&lt;/p&gt;
+
+&lt;p&gt;Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou apenas um hotsite para acompanhar a contagem até o dia da revelação: &lt;a href=&quot;http://www.qubyteinteractive.com/games/newgame/&quot; target=&quot;_blank&quot;&gt;http://www.qubyteinteractive.com/games/newgame/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;exclusivo&quot;&gt;Exclusivo&lt;/h2&gt;
+&lt;p&gt;O jogosdaqui conseguiu apurar que será um game de estratégia com bastante elementos de ação, além disso será uma homenagem a jogos clássicos top-down shooter, como Cannon Fodder do SNES.&lt;/p&gt;
+
+&lt;p&gt;Cannon Fodder para SNES[/caption]&lt;/p&gt;
+
+&lt;p&gt;O jeito será esperar até o dia do anúncio oficial da QUByte e assim poderemos matar a curiosidade sobre o novo game deles.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #4</title>
+   <link href="http://example.com/2015/04/27/imagens-da-semana-4/"/>
+   <updated>2015-04-27T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/27/imagens-da-semana-4</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/59095331509502361&quot;&gt;A Behold Studios filmando o trailer de lançamento de Chroma Squad”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/59089309334548480&quot;&gt;Mais imagens da produção do novo game da Mgaia Studio: Tiny Empire”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=91937158478828&quot;&gt;A QUbyte Interactive lembrando do primeiro modelo de 3D, criado em 2008 numa aula de pós graduação em programação e produção de jogos, esse modelo deu origem a QUByte e ao game HTR”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.chromasquad.com&quot;&gt;Novas screenshots de Chroma Squad liberadas no site oficial do game”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/vortexstudios/status/59135126197232435&quot;&gt;A Vortex Game Studios preparando para lançar seu novo game: Space Lander, um simulador de voo 2D old-school”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/59210253502608179&quot;&gt;O game em desenvolvimento Shiny, da Garage 227, recebendo novos assets através da engine Unreal da Epic Games”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/TurboLinkGame/status/59243901766218547&quot;&gt;TurboLink da Division Five chega no Steam Greenlight”&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Axis Game Day</title>
+   <link href="http://example.com/2015/04/17/axis-game-day/"/>
+   <updated>2015-04-17T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/17/axis-game-day</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.axis.art.br&quot; target=&quot;_blank&quot;&gt;AXIS-Gnomon School of Visual Effects&lt;/a&gt;
+ realizará amanhã, dia 18/04/15, o AXIS Game Day.&lt;/p&gt;
+
+&lt;p&gt;O evento tem início com uma aula aberta do curso &lt;a href=&quot;http://axis.art.br/character-creation-games/&quot; target=&quot;_blank&quot;&gt;Character Creation for Games&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Às 15 horas começam as palestras com profissionais da indústria gamedev da Odin Game Studio, Garage 227 Studios, Microsoft, Unity, IGDA São Paulo, Digi Ten, Pxldj e a QUByte Interactive.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;:  AXIS School of Visual Effects.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;:  18/04/15 a partir das 13hrs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mais informações em: &lt;a href=&quot;http://www.axis.art.br/eventos/&quot; target=&quot;_blank&quot;&gt;http://www.axis.art.br/eventos/&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Novo vídeo de play test de HTR+</title>
+   <link href="http://example.com/2015/03/19/novo-video-de-play-test-de-htr/"/>
+   <updated>2015-03-19T00:00:00-03:00</updated>
+   <id>http://example.com/2015/03/19/novo-video-de-play-test-de-htr</id>
+   <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://www.qubyteinteractive.com&quot;&gt;Qubyte Interactive&lt;/a&gt;
+ enviou ao jogosdaqui um novo vídeo de play test do seu game de autorama rodando no portátil da Nintendo.&lt;/p&gt;
+
+&lt;p&gt;Confira o vídeo mostrando o editor de pistas:&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/jZm1FGCTV1k &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Para quem ainda não conhece o game, veja o vídeo da versão para PC:&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/Vei3oklO53Q &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Splitplay apresenta: HTR+ High Tech Racing+</title>
+   <link href="http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing/"/>
+   <updated>2014-06-18T00:00:00-03:00</updated>
+   <id>http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing</id>
+   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por QUByte Interactive em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;font color=&quot;#0000ee&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://www.splitplay.com/pt/games/htr-high-tech-racing&quot; target=&quot;_blank&quot;&gt;HTR+ High Tech Racing&lt;/a&gt;
+&lt;/span&gt;&lt;/font&gt;.&lt;/p&gt;
+
+&lt;p&gt;HTR + é um simulador fiel de corridas de autorama com física realista onde habilidade, treino, estratégia para ajustar o carro e técnica são a chave para vencer os oponentes em pistas recheadas de obstáculos de desafios.&lt;/p&gt;
+
+&lt;p&gt;Corra em 3 diferentes níveis de dificuldade em 20 pistas incríveis.
+Configure seu carro em mais de 200 combinações possíveis de pneus, rodas, chassis e motores.&lt;/p&gt;
+
+&lt;p&gt;Construa as pistas mais incríveis com o editor de pistas e compartilhe com outros jogadores! Você também pode participar do concurso da melhor pista da semana! Se sua pista for a mais votada pelos jogares, você leva um prêmio em moedas do jogo para comprar e configurar seu carros dos sonhos!&lt;/p&gt;
+
+&lt;p&gt;Mais de 100.000 pistas disponíveis para download, todas construídas pelos próprios jogadores!
+Envie seus recordes em cada pista e tente ser o melhor no ranking online!&lt;/p&gt;
+&lt;div&gt;&lt;br /&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/9fc9cBhEUU4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;div&gt;&lt;br /&gt;
+&amp;gt; Gostou? Quer concorrer a chaves gratuitas do game?
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;Ent&amp;#227;o siga o jogosdaqui no Twitter.&lt;/a&gt;
+&lt;/strong&gt;
+&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+</feed>

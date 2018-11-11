@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - bring</title>
+ <link href="http://example.com/tags/bring/index.xml" rel="self"/>
+ <link href="http://example.com/tag/bring.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/bring.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>BRING #4 - Mostra Brasiliense de Indie Games</title>
+   <link href="http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games/"/>
+   <updated>2015-04-07T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games</id>
+   <content type="html">&lt;p&gt;A BRING, Mostra Brasiliense de Indie Games chega na sua quarta edição que será realizada na Indie House da Behold Studios, Otus Game Studio e BadMinions, estúdios que resolveram compartilhar um espaço comum de trabalho.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Para os jogadores:&lt;/strong&gt;
+Não é necessário nenhum tipo de inscrição, basta chegar no evento e jogar os games.
+Mais informações na &lt;a href=&quot;https://www.facebook.com/events/868778179835714&quot;&gt;página do Facebook do evento&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Para os desenvolvedores:&lt;/strong&gt;
+Prazo para inscrição dos jogos é 08 de abril. Podem ser inscritos jogos em alpha, beta, demo, final, golden, lançado, velho, em qualquer plataforma, tabuleiro ou digital.&lt;/p&gt;
+
+&lt;p&gt;Inscreva seu jogo no &lt;a href=&quot;https://docs.google.com/forms/d/1jole945C7RcuAHaK2qTqvqOj8RiPk0iEDvQvOcUxBjU/viewform?c=0&amp;amp;w=1&quot;&gt;formulário de inscrição&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quando&lt;/strong&gt;: Sábado, 11 de abril, às 19h
+&lt;strong&gt;Onde&lt;/strong&gt;: Indie House, Qi 12, Conjunto 04, Casa 02, Lago Norte - Brasília
+&lt;strong&gt;Quanto&lt;/strong&gt;: entrada franca.&lt;/p&gt;
+
+&lt;p&gt;Confira abaixo um vídeo da última edição do BRING:&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/sSXZh6kUnsk &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>

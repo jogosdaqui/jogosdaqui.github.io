@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - roko-loko</title>
+ <link href="http://example.com/tags/roko-loko/index.xml" rel="self"/>
+ <link href="http://example.com/tag/roko-loko.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/roko-loko.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Roko-Loko no castelo do Ratozinger</title>
+   <link href="http://example.com/2005/09/27/roko-loko-no-castelo-do-ratozinger/"/>
+   <updated>2005-09-27T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/27/roko-loko-no-castelo-do-ratozinger</id>
+   <content type="html">&lt;p&gt;Os personagens Roko-Loko e Adrina-Lina foram criados há quase dez anos pelo cartunista Marcio Baraldi, para a revista Rock Brigade, e depois de lançados dois livros de sucesso, chegou a hora dos personagens ganharem um game para PC. Ele se chama “Roko-Loko no castelo do Ratozinger” e é o primeiro game brasileiro de um personagem mais adulto a ser vendido nas lojas, antes dele só existiam de personagens infantis como Turma da Mônica e Menino Maluquinho. Esse projeto pioneiro surgiu da parceria entre o cartunista Baraldi e a SGuerra Design, empresa de design de São Paulo, responsável pelo site do cartunista, e pilotada pelo designer Sidney Guerra, um fã incurável de heavy-metal e ex-músico.&lt;/p&gt;
+
+&lt;p&gt;O jogo é dividido em três fases e sua história é a seguinte: Roko-Loko tem que entrar no Vaticão, castelo do cruel Ratozinger, uma ratazana religiosa ultraconservadora que odeia o rock e o sexo e que aprisionou a bela Adrina-Lina e outros roqueiros famosos como Eddie (o mascote do Iron Maiden), Rob Halford, Ozzy Osbourne, Gene Simmons, entre outros. Para libertá-los, Roko tem que enfrentar muitas ameaças como aranhas, morcegos, caveiras, crocodilos, lava vulcânica e bolas de fogo, retirar as guitarras presas em bigornas e por fim travar o confronto final com Ratozinger, jogando-o aos crocodilos e libertando Adrina-Lina.&lt;/p&gt;
+
+&lt;p&gt;Todo o cenário é muito colorido e dinâmico e remonta imediatamente ao clima das histórias em quadrinhos do personagem, publicadas mensalmente há quase dez anos na revista roqueira Rock Brigade, a mais antiga e famosa publicação do gênero na América Latina.&lt;/p&gt;
+
+&lt;p&gt;O game está sendo vendido nas lojas de quadrinhos e de CDs de Rock em sua versão completa com caixinha e capa impressa, mas também disponibilizamos para download no site da Rock Brigade, tudo para que ele se popularize ao máximo e alcance o maior número possível de pessoas.&lt;/p&gt;
+
+&lt;p&gt;Lançado oficialmente dia 20/08/2005 , este é o primeiro game rock’n’roll do Brasil!!! Prepare os teclados do computador, o game do Roko-Loko chegou para arrasar!&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

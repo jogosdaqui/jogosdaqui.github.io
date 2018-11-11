@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - open-source</title>
+ <link href="http://example.com/tags/open-source/index.xml" rel="self"/>
+ <link href="http://example.com/tag/open-source.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/open-source.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Projeto experimental de Software Livre da TILT online</title>
+   <link href="http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online/"/>
+   <updated>2005-10-17T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online</id>
+   <content type="html">&lt;p&gt;Há muito tempo temos debatido o uso dos mecanismos do software livre em jogos comerciais. Algumas pessoas não aceitam a possibilidade deste mecanismo funcionar no caso específico de jogos. Outras simplesmente acreditam que, se funciona para o Linux, funciona para tudo mais (cura até unha encravada).&lt;/p&gt;
+
+&lt;p&gt;A verdade é que, funcionando ou não funcionando, ninguém até hoje teve paciência ou coragem para testar de verdade esse sistema, ou seja, expor o fonte de um núcleo de programa de forma a permitir que ele evolua em regime aberto, cooperativo, sem custos de licenciamento e ainda assim permitindo variações comerciais (onde qualquer pessoa possa ganhar o seu sustento).&lt;/p&gt;
+
+&lt;p&gt;Um dos pilares desse novo conceito de software livre se apoia na necessidade que muitos sistemas tem, e em especial os Sistemas Operacionais, de um suporte e atendimento particularizado, aos usuários. Assim, o software seria gratuito e as pessoas poderiam então cobrar pelos “serviços” agregados. Isso de certa forma é incompatível com os jogos de computador, porque os jogos não geram a necessidade de serviços extras.&lt;/p&gt;
+
+&lt;p&gt;Então onde estaria o gancho para o lado comercial?&lt;/p&gt;
+
+&lt;p&gt;Passou desapercebido, tanto dos que defendem o SL em jogos, quanto os que o condenam, que um mesmo núcleo de programação pode gerar inúmeros modelos diferentes de jogos. Se por um breve instante o leitor parar de lamber os dedos imaginando que vai compilar gratuitamente um novo port do Half Life 2 e imaginar o quanto ele pode se beneficiar do conhecimento e aprendizado envolvido nessa equação, então talvez ele entenda que o SL nos jogos não permite HL2 grátis, mas coisas muito maiores e mais proveitosas.&lt;/p&gt;
+
+&lt;p&gt;Isso só vai acontecer se realmente as pessoas que acreditam na filosofia do SL aplicada aos jogos se dispuserem a participar desse desenvolvimento. E os que não acreditam, ainda assim arriscar um contato mais intimo, para afinal avaliar se tudo não passa mesmo de uma grande ilusão.&lt;/p&gt;
+
+&lt;p&gt;Seja como for, nós da TILT decididamente não sabemos a resposta. Mas estamos dispostos a ir buscá-la onde ela realmente está, ou seja, não numa teoria comportamental revolucionária, mas numa experimentação de fato.&lt;/p&gt;
+
+&lt;p&gt;Fica aqui então o convite para conhecer o ZIPsource: uma experiência concreta em jogos comerciais SL feita aqui mesmo, no Brasil.&lt;/p&gt;
+
+&lt;p&gt;Visite &lt;a href=&quot;http://www.tilt.net/zipsource&quot;&gt;http://www.tilt.net/zipsource&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Workshop de Jogos Digitais na Educação</title>
+   <link href="http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao/"/>
+   <updated>2005-09-30T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
+   <content type="html">&lt;p&gt;O Workshop de Jogos Digitais na Educação trata-se de um evento que irá ocorrer paralelamente ao XVI Simpósio Brasileiro de Informática na Educação (SBIE 2005) e abordará as questões interdisciplinares envolvidas nos jogos digitais no âmbito educacional como ferramenta de ensino-aprendizagem, desde a Educação Infantil aos programas de pós-graduação.&lt;/p&gt;
+
+&lt;p&gt;Na atualidade ampliou-se a discussão referentes as potencialidades mercadológicas e pedagógicas dos jogos digitais. Os aprendizes do século XXI estão integrados com uma realidade pós-industrial, com novos valores evivenciando o ciberespaço. Diante desta realidade torna-se necessário repensar as metodologias de ensino-aprendizagem adotadas nos ambientes acadêmicos da Educação Infantil até aos programas de pós-graduação. Neste contexto os jogos digitais recebem destaque pelo fato de serem considerados excelentes ferramentas motivadoras que poderão ser adotadas como uma metodologia de ensino-aprendizagem. Desde os primórdios da Informática na Educação que os jogos educativos estão em pauta, entretanto tal ferramenta precisa ser revisada através de uma abordagem contemporânea e transdisciplinar que adequa-se a este aprendiz do século XXI, resgatando o sentido original dos jogos que trata-se da ludicidade, do prazer, tornando-se menos didatizantes e conteudistas e tornando-os verdadeiros artefatos culturais potencializadores de Inclusão Digital. É importante destacar que entende-se como jogo qualquer software interativo, imersivo e lúdico (é fundamental que seja divertido) com objetivos pedagógicos explícitos ou implícitos.&lt;/p&gt;
+
+&lt;p&gt;Assim, o objetivo principal deste workshop é ampliar o debate teórico-prático através de um enfoque transdisciplinar questões referentes ao projeto, implementação, avaliação e adoção de jogos digitais com fins educativos explícitos ou implícitos no processo de ensino-aprendizagem. Desta forma ampliando os potenciais dos ditos jogos comerciais como forma de ensino-aprendizagem semelhante as demais obras audiovisuais. Além disso, o workshop procura atender os seguintes &lt;span style=&quot;font-weight: bold;&quot;&gt;objetivos secundários: &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Criar uma comunidade de pesquisadores que estejam interessados em discutir as potencialidades dos jogos computadorizados no âmbito escolar, da Educação Infantil aos programas de Pós-graduação;&lt;/li&gt;
+	&lt;li&gt;Oportunizar um espaço de troca de experiências entre desenvolvedores, educadores e demais profissionais que utilizam/projetam/desenvolvem jogos para serem utilizados como apoio ao processo de ensino-aprendizagem;&lt;/li&gt;
+	&lt;li&gt;Apresentar estudos de casos que demonstram experiências na utilização dos jogos digitais em diferentes plataformas (computadores, celulares, handhelds, TV, consoles) e com diferentes fins educativos ou clínico considerando as intervenções psicopedagógicas referentes aos déficits de aprendizagem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;tópicos-de-interesses-não-exclusivos&quot;&gt;Tópicos de Interesses (Não exclusivos)&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Aspectos Sociológicos, Psicológicos e Filosóficos dos Jogos Digitais na Educação;&lt;/li&gt;
+	&lt;li&gt;Projeto de Jogos Digitais de Apoio ao Processo de Ensino-Aprendizagem;&lt;/li&gt;
+	&lt;li&gt;Tecnologias de Desenvolvimento de Jogos Digitais;&lt;/li&gt;
+	&lt;li&gt;Avaliação do Processo de Ensino-Aprendizagem através dos Jogos Digitais;&lt;/li&gt;
+	&lt;li&gt;Inclusão Digital através dos Jogos Computadorizados;&lt;/li&gt;
+	&lt;li&gt;Jogos Livres - Relação do Software Livre como Promotor da Inclusão Digital;&lt;/li&gt;
+	&lt;li&gt;Experiências do Uso dos Jogos Digitais no Processo de Ensino-Aprendizagem;&lt;/li&gt;
+	&lt;li&gt;Experiências do Uso dos Jogos Digitais como Abordagem Clínica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mais informações no &lt;a href=&quot;http://www.dcc.ufjf.br/sbie2005/work4.php&quot;&gt;site do evento.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Outgun</title>
+   <link href="http://example.com/2005/09/28/outgun/"/>
+   <updated>2005-09-28T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/28/outgun</id>
+   <content type="html">&lt;p&gt;Outgun é um jogo multijogador simples de captura de bandeira com gráficos 2D para ser jogado em uma rede. Até 32 jogadores são suportados em uma partida com 16 jogadores em cada um dos dois times. Após iniciar o jogo, basta usar o menu para localizar servidores onde é possível jogar on-line.&lt;/p&gt;
+
+&lt;p&gt;O conceito de Outgun é visto freqüentemente: Os jogadores são divididos em duas equipes cujo o objetivo é pegar a bandeira inimiga e a trazer para a sua própria bandeira. A equipe com a maioria de capturas da bandeira ganha a partida.&lt;/p&gt;
+
+&lt;p&gt;Os jogadores podem encontrar vários ítens na arena de jogo que aumentam o poder do jogador, como ítens de aumento de velocidade, saúde, energia, armas, escudos e invisibilidade.&lt;/p&gt;
+
+&lt;p&gt;Outgun favorece a cooperação mais do que a maioria de jogos em times: o “minimapa” mostra ao jogador o que cada jogador de seu time está vendo.&lt;/p&gt;
+
+&lt;p&gt;Os mapas de Outgun são muito simples: consistem em salas retangulares com paredes de várias formas, e novos mapas podem ser feitos com um editor de texto. O visual do Outgun pode ser customizado através da instalação de temas gráficos. Portanto, se você não gostar do visual
+“verde” convencional, escolha um tema diferente através do menu de configuração do jogo, ou faça o download de um novo tema da rede, ou faça o seu próprio tema gráfico! Os sons do jogo também são customizáveis através de temas sonoros.&lt;/p&gt;
+
+&lt;p&gt;Outgun suporta múltiplas línguas - atualmente o pacote oficial inclui o português, o inglês e o finlandês.&lt;/p&gt;
+
+&lt;p&gt;Outgun é um jogo completamente livre (licença GPL).&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - concurso</title>
+ <link href="http://example.com/tags/concurso/index.xml" rel="self"/>
+ <link href="http://example.com/tag/concurso.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/concurso.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Concurso Souking - Power UP</title>
+   <link href="http://example.com/2015/09/02/concurso-souking-power-up/"/>
+   <updated>2015-09-02T00:00:00-03:00</updated>
+   <id>http://example.com/2015/09/02/concurso-souking-power-up</id>
+   <content type="html">&lt;h2 id=&quot;3ª-power-up&quot;&gt;3ª Power UP&lt;/h2&gt;
+&lt;p&gt;No dia 25 de agosto ocorreu a 3ª edição da Power UP, evento promovido pela Associação de Desenvolvedores de Jogos Digitais do Rio Grande do Sul (ADJOGOS-RS), que tem como objetivo o desenvolvimento dos portfólios dos estudantes de jogos digitais do Rio Grande do Sul através da avaliação de seus projetos pelas empresas associadas, incluindo jogos desenvolvidos tanto para a &amp;gt; Ludum Dare como também jogos próprios.&lt;/p&gt;
+
+&lt;h2 id=&quot;concurso-souking&quot;&gt;Concurso Souking&lt;/h2&gt;
+&lt;p&gt;Para esta edição, a &lt;a href=&quot;http://www.souking.com.br&quot;&gt;Souking&lt;/a&gt;
+ veio com a proposta de lançar o &lt;a href=&quot;http://www.souking.com.br/loja/index.php/power-up&quot; target=&quot;_blank&quot;&gt;Concurso Souking&lt;/a&gt;
+ com os jogos apresentados durante o evento e assim aprimorar o processo de avaliação dos projetos desenvolvidos pelos alunos por meio de uma votação online.&lt;/p&gt;
+
+&lt;p&gt;A Souking, através desse concurso, busca incentivar o desenvolvimento dos jogos acadêmicos e dar oportunidade para que os alunos tenham uma primeira experiência de divulgação de seus jogos em uma plataforma. Isso não só agrega mais valor aos seus projetos, como também estimula a criatividade dos alunos para mostrarem seu potencial de criação e trabalho em equipe, tendo apenas pouco tempo para planejarem isso. Essa é a primeira de muitas iniciativas que a Souking pretende estabelecer conjuntamente com as faculdades de jogos digitais do país para dar mais visibilidade e reconhecimento no desenvolvimento nacional de jogos eletrônicos.&lt;/p&gt;
+
+&lt;h2 id=&quot;ludum-dare-33---você-é-o-monstro&quot;&gt;Ludum Dare 33 - Você é o monstro&lt;/h2&gt;
+&lt;p&gt;Nesta Power Up, ofoco principal para a exposição dos jogos foi o evento &amp;gt; Ludum Dare 33, onde os estudantes tiverem 48h para produzir um jogo com o tema “You are the monster (Você é o monstro)”. A partir disso, surgiram vários jogos divertidos com interpretações diferenciadas, desde você sendo literalmente o monstro do lago Ness fugindo de turistas e suas câmeras, um samurai demoníaco em uma chacina sem fim, para até mesmo um brinquedo lutando através das ruas para impedir um ditador tirano.&lt;/p&gt;
+
+&lt;p&gt;E dentre estes, houveram várias outras interpretações dos estudantes de jogos, como &amp;gt; Monster Eggs, jogo onde você encarna um pequeno monstro aleatório recém saído de um ovo e que já está preparado para lutar contra ondas de heróis e magos utilizando diversos ataques. Além disso, jogos com cara de mobile, como Road to Hell, onde você assume o controle de um carro monstro e seu objetivo é correr infinitamente causando a maior destruição possível, onde nenhum carro pode pará-lo.&lt;/p&gt;
+
+&lt;p&gt;E mesmo com este tema monstruoso, sobrou um cantinho para o amor, como em &amp;gt; Kaiju no Ai, onde você é um monstro terrível, destruindo casas e prédios com suas mordidas e bolas de fogo! Tudo para encontrar seu verdadeiro amor, provando que monstros também amam.&lt;/p&gt;
+
+&lt;p&gt;Voltando para as monstruosidades, tivemos&amp;gt;  Youkai, onde sangue no chão não é problema. Você se torna um samurai matador que com um simples golpe aniquila suas vítimas em um jogo rápido e divertido. Já em Ollie’s Journey, você não é o monstro, você se torna o monstro. Com uma ideia diferente e belos gráficos, você é Ollie e deve percorrer pela mata, liquidando com os terríveis coelhos, cervos e tartarugas que lá habitam. Baixe e finalize o jogo para entender a mensagem dos desenvolvedores. Nada de spoilers aqui!&lt;/p&gt;
+
+&lt;p&gt;Porém nem todos monstros são terríveis, em &amp;gt; Famous Nessie, você está na pele do “Monstro do Lago Ness”, ou melhor, a monstra. Neste jogo, tudo que Nessie queria era poder comer suas frutas em paz, tomar um solzinho e nadar relaxada, mas surgiram os terríveis turistas e você não pode permitir que alguma foto sua seja tirada, ou sua paz chegará ao fim.&lt;/p&gt;
+
+&lt;p&gt;Dentre estes e outros jogos desenvolvidos para a &amp;gt; Ludum Dare 33, também houve espaço para aqueles estudantes que gostariam de trazer seus outros projetos para a exposição, como I Wanna Be the Bean, jogo divertidíssimo onde feijões lutam pela sobrevivência em uma arena multiplayer para até quatro jogadores, onde você deve empurrar seus inimigos para fora da plataforma até ser o último sobrevivente, tornando-se o grande feijão.&lt;/p&gt;
+
+&lt;h2 id=&quot;ajude-a-escolher-os-melhores-jogos&quot;&gt;Ajude a escolher os melhores jogos&lt;/h2&gt;
+&lt;p&gt;O concurso foi ao ar no dia 26 e todos os jogos que foram citados, além de outros, estão disponíveis no site da Souking na área Power UP até essa quarta-feira (02/09). Então, para aqueles que ainda não deram seu voto, há tempo de contribuir com a análise dos projetos, testando os jogos disponibilizados na página e fazendo sua avaliação com base nas categorias abertas para votação. Ao final deste processo, será anunciado no dia 3 de setembro os jogos destaque em cada categoria, assim como o jogo destaque no geral&lt;/p&gt;
+
+&lt;p&gt;Entre na &lt;a href=&quot;http://www.souking.com.br/loja/index.php/power-up&quot; target=&quot;_blank&quot;&gt;página do concurso na Souking&lt;/a&gt;
+ para conferir os jogos e participar do concurso!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>1º Minas Games Festival</title>
+   <link href="http://example.com/2015/06/12/1o-minas-games-festival/"/>
+   <updated>2015-06-12T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/12/1o-minas-games-festival</id>
+   <content type="html">&lt;p&gt;Em junho, durante quatro dias acontecerá em Belo Horizonte o 1º Minas Games Festival, evento que contará com várias atrações, como palestras, game jam, exposição de indie games, concurso de cosplay e oficinas.&lt;/p&gt;
+
+&lt;p&gt;O evento é totalmente gratuito e promete colocar Minas no mapa dos grandes eventos nacionais da área.&lt;/p&gt;
+
+&lt;h2 id=&quot;as-palestras-do-1º-minas-games-festival&quot;&gt;As palestras do 1º Minas Games Festival&lt;/h2&gt;
+&lt;h2 id=&quot;1806---quinta-feira&quot;&gt;18/06 - Quinta-feira&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;19h - Uma aventura indie com Alessandro Martinello diretor criativo da Swordtales
+
+ Toren, game da Swordtales[/caption]
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;1906---sexta-feira&quot;&gt;19/06 - Sexta-feira&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;13h - A proteção dos games como propriedade intelectual com Rafael Neumayr&lt;/li&gt;
+	&lt;li&gt;14h - O fomento público à produção de games com Thiago Álvares Feital&lt;/li&gt;
+	&lt;li&gt;15h - Técnicas não convencionais de abordagem ao CG 3D com Filipe Soares Dilly&lt;/li&gt;
+	&lt;li&gt;16h - Pare De Não Fazer Jogos! com Marcos Venturelli, gamedev de games como Dungeonland, Chroma Squad e Relic Hunters Zero.
+
+ Chroma Squad, game da Behold Studios[/caption]
+&lt;/li&gt;
+	&lt;li&gt;18h - Achievement Unlocked! com Ronaldo Gazel Pereira fundador da Gaz Games e Meatballs.&lt;/li&gt;
+	&lt;li&gt;19h - Jogando o errado de forma certa: Explorações do glitch e do bug na jogabilidade com Luís Felipe Garrocho da Ilusis Interactive&lt;/li&gt;
+	&lt;li&gt;20h - Krinkletástico! Trajetória do estúdio mineiro Ilusis e o desenvolvimento de games no Brasil com Leonardo Henrique Muniz Arantes da Ilusis Interactive
+
+ Krinkle Krusher, game da Ilusis Interactive[/caption]
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;as-oficinas-do-1º-minas-games-festival&quot;&gt;As oficinas do 1º Minas Games Festival&lt;/h2&gt;
+&lt;h2 id=&quot;1906---quinta-feira&quot;&gt;19/06 - Quinta-feira&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;13h e 16h - Modelagem digital 3D básica com Daniel Pinheiro Lima e Tiago Gonçalves&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2006---sexta-feira&quot;&gt;20/06 - Sexta-feira&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;13h e 16h - Realidade aumentada com Marcos Arrais e Helbert Gomes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2106---sábado&quot;&gt;21/06 - Sábado&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;13h - Construindo um personagem funcional com Edvaldo Reinaldo Vieira e Artur Pedroso da Costa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dados-do-evento&quot;&gt;Dados do evento&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;: 1º Minas Games Festival&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;: entre os dias 18 e 21 de junho&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;: Belo Horizonte&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Público alvo&lt;/strong&gt;: público em geral, gamers e gamedevs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Custo&lt;/strong&gt;: gratuito&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mais detalhes&lt;/strong&gt;: &lt;a href=&quot;https://minasgamesfest.wordpress.com/&quot;&gt;https://minasgamesfest.wordpress.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Carcará - Asas da Justiça</title>
+   <link href="http://example.com/2015/05/28/carcara-asas-da-justica/"/>
+   <updated>2015-05-28T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/28/carcara-asas-da-justica</id>
+   <content type="html">&lt;p&gt;Quem já assistiu os famosos filmes de tribunal, clássicos do cinema como O Cliente, Tempo de Matar e Julgamento em Nuremberg, provavelmente se imaginou sendo o advogado protagonista do filme, lutando com a lógica e a verdade num caso que, por quase todos os pontos de vista, parece perdido, mas que com audácia e inteligência incomum acaba sendo vencido.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay-da-justiça&quot;&gt;Gameplay da justiça&lt;/h2&gt;
+&lt;p&gt;É nesse tema que o recém lançado &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.SupernovaIndieGames.Carcara&quot; target=&quot;_blank&quot;&gt;game para Android&lt;/a&gt;
+, &lt;a href=&quot;http://supernova-indiegames.com/games/carcara-br/&quot; target=&quot;_blank&quot;&gt;Carcará - Asas da Justiça&lt;/a&gt;
+ da Supernova Indie Games baseia seu gameplay. No game você estará na pele do advogado Fábio Carcará que terá que defender a causa de seus clientes em processos de direito do consumidor.&lt;/p&gt;
+
+&lt;p&gt;Pode parecer complexo, mas o game tem uma boa maneira de ensinar seu elementos diretamente pela conversa que o protagonista faz com os personagens.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O jogo conta a história de um advogado que tem que investigar casos repletos de mistério e provar os direitos de seus clientes em tribunal. (Se você pensou em Phoenix Wright, acertou em cheio! Ele foi a nossa maior inspiração para este jogo). (afirma Renan Rodrigues da Supernova Indie Games)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Senso de humor é um ponto marcante, tanto pelas conversas onde podemos ver os pensamentos do protagonista e todo o processo mental que ele faz ao se comunicar com outros personagens, quanto pelo nome dos envolvidos.&lt;/p&gt;
+
+&lt;h2 id=&quot;jogando-e-aprendendo&quot;&gt;Jogando e aprendendo&lt;/h2&gt;
+&lt;p&gt;Carcará - Asas da Justiça tem toda uma pegada de educação cidadã, tanto é que você vai acabar aprendendo um pouco sobre o direito do consumidor ao jogá-lo. Dentro do game vem uma cartilha com o código do direito do consumidor resumido e que deve ser utilizado durante os casos que Carcará trabalha. Aprendemos muito sobre direito do consumidor durante a aventura, para quem está com um tipo de problema desses, jogar o game pode ser uma aula divertida e ainda ajudar a tirar algumas dúvidas e mitos da cabeça.&lt;/p&gt;
+
+&lt;p&gt;O jogo foi um dos 25 selecionados na categoria jogos pelo Concurso INOVApps de 2014.&lt;/p&gt;
+
+&lt;h2 id=&quot;trailer-de-carcará---asas-da-justiça&quot;&gt;Trailer de Carcará - Asas da Justiça&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/yXiEJZxAKZA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Um must-have para aspirantes a advogado e para qualquer cidadão que quer conhecer melhor seus direitos como consumidor de uma forma divertida.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Manifesto Games vence concurso nacional</title>
+   <link href="http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional/"/>
+   <updated>2015-03-30T00:00:00-03:00</updated>
+   <id>http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional</id>
+   <content type="html">&lt;p&gt;A brasileira Manifesto Games, que possui escritórios em Recife e São Paulo, foi a grande vencedora do &lt;a href=&quot;http://www.jogosfinanceiros.sebrae.com.br/jogos_empreendedores/index.jsf&quot;&gt;Prêmio de Desenvolvimento de Jogos de Educação Financeira&lt;/a&gt;
+ do SEBRAE.&lt;/p&gt;
+
+&lt;p&gt;Um total de 223 jogos concorriam aos R$ 380 mil em prêmios que foram distribuídos para 5 selecionados sendo 3 do RS, 2 do GO e 1 do PE.&lt;/p&gt;
+
+&lt;p&gt;Os jogos foram analisados e classificados por uma banca de especialistas, entre eles estavam Febraban, Bacen, BNDES e Abragames.&lt;/p&gt;
+
+&lt;p&gt;A Manifesto ficou com o primeiro lugar com o game Mercadinho do Seu Biu, que você pode conferir no vídeo abaixo:&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/NURCSv_xCoc &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Splitplay apresenta: HTR+ High Tech Racing+</title>
+   <link href="http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing/"/>
+   <updated>2014-06-18T00:00:00-03:00</updated>
+   <id>http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing</id>
+   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por QUByte Interactive em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;font color=&quot;#0000ee&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;http://www.splitplay.com/pt/games/htr-high-tech-racing&quot; target=&quot;_blank&quot;&gt;HTR+ High Tech Racing&lt;/a&gt;
+&lt;/span&gt;&lt;/font&gt;.&lt;/p&gt;
+
+&lt;p&gt;HTR + é um simulador fiel de corridas de autorama com física realista onde habilidade, treino, estratégia para ajustar o carro e técnica são a chave para vencer os oponentes em pistas recheadas de obstáculos de desafios.&lt;/p&gt;
+
+&lt;p&gt;Corra em 3 diferentes níveis de dificuldade em 20 pistas incríveis.
+Configure seu carro em mais de 200 combinações possíveis de pneus, rodas, chassis e motores.&lt;/p&gt;
+
+&lt;p&gt;Construa as pistas mais incríveis com o editor de pistas e compartilhe com outros jogadores! Você também pode participar do concurso da melhor pista da semana! Se sua pista for a mais votada pelos jogares, você leva um prêmio em moedas do jogo para comprar e configurar seu carros dos sonhos!&lt;/p&gt;
+
+&lt;p&gt;Mais de 100.000 pistas disponíveis para download, todas construídas pelos próprios jogadores!
+Envie seus recordes em cada pista e tente ser o melhor no ranking online!&lt;/p&gt;
+&lt;div&gt;&lt;br /&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/9fc9cBhEUU4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;div&gt;&lt;br /&gt;
+&amp;gt; Gostou? Quer concorrer a chaves gratuitas do game?
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;Ent&amp;#227;o siga o jogosdaqui no Twitter.&lt;/a&gt;
+&lt;/strong&gt;
+&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nhom</title>
+   <link href="http://example.com/2014/04/25/nhom/"/>
+   <updated>2014-04-25T00:00:00-03:00</updated>
+   <id>http://example.com/2014/04/25/nhom</id>
+   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Natália Couto em colaboração para o jogosdaqui.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Nhom, da brasileira Sliding Lemon Story, é um jogo casual para a plataforma Android.
+O jogo possui personagens fofinhos e engraçados, mas com um senso de humor um pouco diferente.&lt;/p&gt;
+
+&lt;p&gt;Nhom é um extraterrestre que está passeando pelo universo com seus pais, quando de repente, seus pais sofrem um ataque e Nhom acaba perdido em um planeta desconhecido.
+Sozinho, o protagonista acaba encontrando alguns habitantes desse planeta, mas esses habitantes são diferentes, são feitos de comida! 
+Para que Nhom possa crescer e encontrar seus pais, ele deve se alimentar dos habitantes deste planeta desconhecido.&lt;/p&gt;
+
+&lt;p&gt;No jogo, você deve ajudar Nhom a se alimentar, verificando na placa dos habitantes qual deles ele está com vontade de comer, e então tocar em cima do habitante. Mas tome cuidado, quando os habitantes começam a brilhar, diferentes coisas podem acontecer: os habitantes podem trocar de lugar, se transformar em power ups ou itens que podem atrapalhar!&lt;/p&gt;
+
+&lt;p&gt;Quanto mais habitantes você tocar sem errar, maior combo e pontos receberá!&lt;/p&gt;
+
+&lt;p&gt;Existem 4 Estágios diferentes e em cada um deles Nhom estará em um estado mais evoluído, assim como os habitantes do planeta.&lt;/p&gt;
+
+&lt;p&gt;Pode ser jogado em modo história ou em arcade, possuindo um ranking para motivar a disputa entre você e seus amigos!&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/njgNjM8oqEc &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;O jogo foi submetido ao concurso de games no Computer on The Beach de 2014, e recebeu o 3º lugar!
+Gostou? Então baixe Nhom diretamente do &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.SlidingLemonStory.NhomFreeHD&quot; target=&quot;_blank&quot;&gt;Google Play&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>V de Vinagre</title>
+   <link href="http://example.com/2013/06/17/v-de-vinagre/"/>
+   <updated>2013-06-17T00:00:00-03:00</updated>
+   <id>http://example.com/2013/06/17/v-de-vinagre</id>
+   <content type="html">&lt;p&gt;A Flux Game Studio, vencedora no final de 2012 do concurso de Criação de Game de Educação Financeira da SBGames e Banco do Brasil, está antenada com que acontece no país, pois acaba de lançar o game &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot; target=&quot;_blank&quot;&gt;V de Vinagre&lt;/a&gt;
+ que ironiza a violência ocorrida nos últimos manifestos no RJ e SP.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Um roteiro no qual o manifestante precisa fugir da polícia por portar potes de vinagre em sua mochila poderia muito bem ser de um game 100% de ficção&quot;, afirma Paulo Luis Santos, Diretor de Criação da Flux e um dos desenvolvedores do projeto.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No game o jogador controla um manifestante mascarado, que deve fugir da polícia disposta a prendê-lo por porte de vinagre. Quanto mais vinagre ele recolhe, mais policiais se juntam para tentar alcançá-lo. A jogabilidade é simples - são apenas duas teclas para jogar.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/6IYUbNcFSnw &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;O game foi desenvolvido no formato Game Jam, uma mini-maratona de 18 horas de trabalho.&amp;gt;  “Optamos por fazer tudo muito rapidamente por dois motivos: primeiramente, nos propusemos este desafio de fazer um jogo em pouco tempo; e, depois, porque o assunto é urgente e não poderíamos investir muito tempo em polimentos - valia mais a pena lançar de uma vez do que perder o timing”, detalha Juliano Gomes, Programador Líder do game.&lt;/p&gt;
+
+&lt;p&gt;Jogue diretamente no Facebook: &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot; target=&quot;_blank&quot;&gt;V de Vinagre&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Os fatos do ano</title>
+   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2/"/>
+   <updated>2010-12-31T00:00:00-02:00</updated>
+   <id>http://example.com/2010/12/31/os-fatos-do-ano-2</id>
+   <content type="html">&lt;p&gt;Perguntamos aos nossos leitores: &lt;strong&gt;&amp;gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?&quot;&lt;/strong&gt;.
+As respostas foram variadas, confira:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jogo Justo&lt;/strong&gt;
+&lt;strong&gt;
+Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. 
+Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem.
+&lt;a href=&quot;http://www.jogojusto.com.br/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jogos.uol.com.br/ultnot/multi/2010/07/14/ult530u7924.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Projeto visa reduzir imposto de games de 80% para 15%&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eventos de games&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Neste ano tivemos diversos eventos sobre games no país, entre eles destaca-se o Brasil Game Show, que bateu recordes de público.
+A edição de 2011 está agendada para outubro e deve dobrar de tamanho e receber até 40 mil visitantes.
+&lt;a href=&quot;http://www.brasilgameshow.com.br/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jogos.uol.com.br/ultnot/multi/2010/11/21/ult530u8707.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Com &quot;Mortal Kombat&quot; e jogos de dança, Brasil Game Show movimenta RJ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mudança de estratégia para o Zeebo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Neste ano o Zeebo mudou seu foco: entretenimento para toda a família, acesso a internet através de sua rede 3G, novo teclado e parcerias com Disney e Maurício de Souza Produções.
+&lt;a href=&quot;http://www.zeebo.com.br/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jogos.uol.com.br/playstation3/ultnot/2010/09/01/ult530u8154.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Com nova filosofia, Zeebo ganha acesso à internet, jogos da Disney e Turma da Mônica&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jogos para iPhone/iPod/iPad&lt;/strong&gt;
+&lt;strong&gt;
+Durante o ano foi possível apreciar diversos lançamentos de games brasileiros para as plataformas da Apple, como:
+&lt;a href=&quot;http://www.mylumaki.com/&quot; target=&quot;_blank&quot;&gt;Lumaki&lt;/a&gt;
+, &lt;a href=&quot;http://ovnistudios.com/dodgeballsafari&quot; target=&quot;_blank&quot;&gt;Dodgeball Safari&lt;/a&gt;
+, &lt;a href=&quot;http://www.thegravediggergame.com/&quot; target=&quot;_blank&quot;&gt;The Gravedigger&lt;/a&gt;
+ e &lt;a href=&quot;http://www.julesunboxingtheworld.com/&quot; target=&quot;_blank&quot;&gt;Jules Unboxing the World&lt;/a&gt;
+.
+&lt;a href=&quot;http://jogos.uol.com.br/album/jogos_brasileiros_iphone_album.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Jogos brasileiros para iPhone&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Freekscape: Escape From Hell&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Além de ter sido mencionado como um dos games brasileiros mais jogados, Freekscape também entrou na lista de fatos do ano, pois foi o primeiro, e até o momento o único, game brasileiro para PSP.
+&lt;a href=&quot;http://www.freekscape.com/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PS3 lançado oficialmente no Brasil&lt;/strong&gt;
+&lt;strong&gt;
+Depois de anos de vida, o PS3 é lançado oficialmente pela Sony no Brasil.
+&lt;a href=&quot;http://jogos.uol.com.br/playstation3/ultnot/2010/08/11/ult4100u1790.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Por R$ 1.999, Sony Style começa a vender PS3 no Brasil&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Double Jump&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Desenvolvedores brasileiros de games, que atuam na indústria, falando sobre games, produção e mercado.
+Além do blog, existe o podcast, onde discutem mais profundamente assuntos relacionados a indústria.
+&lt;a href=&quot;http://www.doublejump.com.br&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Novos estúdios&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Novos estúdios surgiram por todos os cantos do país e estão produzindo e lançando games para diversas plataformas.
+&lt;a href=&quot;http://goo.gl/PymUK&quot; target=&quot;_blank&quot;&gt;Mapa com as empresas brasileiras de desenvolvimento de jogos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;e-Games&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Concurso realizado pelo Senac para incentivar a criação de games no Brasil. A segunda edição do concurso obteve ótimos resultados, tendo como vencedor o game Talbot’s Odyssey do estúdio &lt;a href=&quot;http://studiominiboss.blogspot.com/2010/11/talbots-odyssey-wins-senac-e-games-2010.html&quot; target=&quot;_blank&quot;&gt;MiniBoss&lt;/a&gt;
+.
+&lt;a href=&quot;http://www3.sp.senac.br/hotsites/gd2/egames/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jogos.uol.com.br/ultnot/multi/2010/10/21/ult530u8485.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Senac abre concurso para premiar novos talentos em produção de jogos no Brasil&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.doublejump.com.br/archives/1838&quot; target=&quot;_blank&quot;&gt;DoubleJump - E-Games 2010&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Investida da Blizzard no Brasil&lt;/strong&gt;
+&lt;strong&gt;
+A Blizzard abriu um escritório no país e começou suas operações com o lançamento de StarCraft II dublado em português. O game foi lançado com um evento para a imprensa e gamers.
+&lt;a href=&quot;http://jogos.uol.com.br/pc/ultnot/2010/04/12/ult182u8357.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Blizzard prepara lançamento de &quot;StarCraft II&quot; no Brasil&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saída dos estúdios de desenvolvimento da Ubisoft do Brasil&lt;/strong&gt;
+Em 2008 a Ubisoft inaugurou seu primeiro estúdio de desenvolvimento de jogos no Brasil, porém em 2010 fechou todos os estúdios de desenvolvimento no Brasil, focando apenas na parte comercial.
+2008: &lt;a href=&quot;http://jogos.uol.com.br/reportagens/ultnot/2008/06/24/ult2240u128.jhtm&quot;&gt;UOL Jogos - Ubisoft inaugura estúdio de produção de jogos no Brasil&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2010: &lt;a href=&quot;http://jogos.uol.com.br/ultnot/multi/2010/09/30/ult530u8344.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Ubisoft fechará estúdios no Brasil até fim do ano e foca em distribuição e varejo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;StairLabs&lt;/p&gt;
+
+&lt;p&gt;O StairLabs promete dar uma ajuda para que criadores de games independentes consigam produzir e publicar seus games e transformá-los em produto.
+&lt;a href=&quot;http://www.stairslabs.com.br&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Esses foram os fatos de 2010, segundo nossos leitores, para a indústria de desenvolvimento de jogos brasileira. Um grande ano, sem dúvida, mas que ficará pequeno quando 2011 estiver terminando.
+Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>PalmSoft lança três jogos em janeiro</title>
+   <link href="http://example.com/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro/"/>
+   <updated>2006-01-16T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro</id>
+   <content type="html">&lt;p&gt;A PalmSoft Tecnologia, empresa catarinense que desenvolve jogos para celular, está com três novidades. A primeira delas &lt;a href=&quot;/2005/10/13/shadows-of-malquidious/&quot;&gt;Shadows of Malquidious&lt;/a&gt;
+, RPG que ficou entre os 20 melhores jogos em um concurso da Sony Ericsson, e que começa a ser comercializado no Brasil. Nele, o jogador é envolvido em um ambiente de guerra, onde enfrenta um exército de mortos-vivos que tomou sua cidade natal e raptou todos os habitantes.&lt;/p&gt;
+
+&lt;p&gt;O segundo jogo é &lt;a href=&quot;/2005/12/16/war-of-malquidious/&quot;&gt;War of Malquidious&lt;/a&gt;
+, um RGP tático que desafia o jogador a restaurar a paz e a reconstruir um reino destruido por Malquidious, deus dos demônios, e seu exército. E, pra completar, &lt;a href=&quot;/2005/12/21/palmsoft-drag-racer/&quot;&gt;PalmSoft Drag Racer&lt;/a&gt;
+, um jogo de velocidade, que oferece oito modelos diferentes de carros, que podem ser turbinados, de acordo com o desempenho do jogador.&lt;/p&gt;
+
+&lt;p&gt;Os jogos são publicados pela MDEV e começam a ser comercializados essa semana pela Claro e pela Brasil Telecom GSM, através dos sites das operadoras ou pelo celular. Mais informações e demos dos jogos podem ser conferidas em &lt;a href=&quot;http://www.palmsoft.com.br&quot; target=&quot;_blank&quot;&gt;www.palmsoft.com.br&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Fique esperto, em breve War of Malquidious e PalmSoft Drag Racer serão listados no jogosdaqui.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lançado o site da 2ª edição do concurso JogosBr</title>
+   <link href="http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr/"/>
+   <updated>2005-12-18T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr</id>
+   <content type="html">&lt;p&gt;O Ministério da Cultura lançou oficialmente o site da segunda edição do concurso JogosBr.&lt;/p&gt;
+
+&lt;p&gt;Este ano o JogosBr estará dividido em 3 concursos:&lt;/p&gt;
+
+&lt;p&gt;Idéias Originais para Jogos Eletrônicos
+Desenvolvimento de Demos Jogáveis
+Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
+
+&lt;p&gt;Veja maiores detalhes no site &lt;a href=&quot;http://www.jogosbr.org.br&quot; target=&quot;_blank&quot;&gt;www.jogosbr.org.br&lt;/a&gt;
+ .&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Top Game Show 2006</title>
+   <link href="http://example.com/2005/12/02/top-game-show-2006/"/>
+   <updated>2005-12-02T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/02/top-game-show-2006</id>
+   <content type="html">&lt;h2 id=&quot;o-que-é&quot;&gt;O que é?&lt;/h2&gt;
+
+&lt;p&gt;A TGS 2006 - Top Game Show - marcará um diferencial no mundo dos negócios de jogos, ampliando o mercado de consumo, fortalecendo as marcas junto ao público-alvo, através de um evento diferenciado, interativo e gerador de negócios. O objetivo é promover a populariedade do mercado de jogos para o grande público do Rio de Janeiro, ativando uma praça potencial das mais promissoras do mercado, numa visionária relação entre tendências, grandes marcas e clientes.&lt;/p&gt;
+
+&lt;h2 id=&quot;concurso&quot;&gt;Concurso&lt;/h2&gt;
+&lt;p&gt;Você pode ajudar a escolher o personagem e slogan do evento. Para isso a TGS organizou o concurso “Personagem e Slogan TGS - Top Game Show”, onde as melhores idéias serão premiadas, veja mais detalhes em &lt;a href=&quot;http://www.topgameshow.com.br/concurso.htm&quot; target=&quot;_blank&quot;&gt;http://www.topgameshow.com.br/concurso.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dados-do-evento&quot;&gt;Dados do evento&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;: Feira Top Game Show - 1a Feira TGS do Rio&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;: 30 de junho a 2 de julho de 2006. 30/06 - sexta-feira: 10h - 21h, 01/07 - sábado: 10h - 22h, 02/07 - domingo: 10h - 20h&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;: RIOCENTRO - Barra da Tijuca - RJ&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Público alvo&lt;/strong&gt;:  Pessoas antenadas com tecnologia e que curtem jogos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Custo&lt;/strong&gt;: .&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mais detalhes&lt;/strong&gt;: &lt;a href=&quot;http://www.topgameshow.com.br&quot;&gt;http://www.topgameshow.com.br&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Segunda edição do concurso JogosBr</title>
+   <link href="http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr/"/>
+   <updated>2005-11-02T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr</id>
+   <content type="html">&lt;p&gt;Em novembro será lançado o “Segundo Concurso de Idéias Originais E Demos de Jogos Eletrônicos - JogosBr”. O Concurso tem como objetivo estimular o desenvolvimento de jogos eletrônicos (ou games) no mercado nacional.&lt;/p&gt;
+
+&lt;p&gt;Qualquer pessoa física residente no Brasil pode participar, sem limite de idade ou qualquer outro requisito.&lt;/p&gt;
+
+&lt;p&gt;Em sua primeira edição, o Concurso foi um sucesso, contando com mais de 1.000 participações das mais variadas idéias e ao final o Minc premiou 8 projetos para serem desenvolvidos e transformados em Demos jogáveis das idéias vencedoras da primeira etapa do concurso. Posteriormente os demos estarão disponíveis para downloads no portal &lt;a href=&quot;http://www.jogosbr.org.br&quot;&gt;JogosBr&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Interama: empresa criada com recursos do JogosBR</title>
+   <link href="http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr/"/>
+   <updated>2005-10-21T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr</id>
+   <content type="html">&lt;p&gt;Os jogadores brasileiros em breve poderão curtir os jogos de uma nova empresa brasileira, a &lt;span style=&quot;font-weight: bold;&quot;&gt;Interama&lt;/span&gt;, que pretende ser uma inovadora desenvolvedora de jogos 3D. Seu objetivo é lançar jogos diferentes, ousados, que vão além do comum. É explorar novos temas e novas fronteiras.&lt;/p&gt;
+
+&lt;p&gt;A empresa foi formada a partir do patrocínio do Ministério da Cultura, após vencer a etapa final do concurso JogosBR.&lt;/p&gt;
+
+&lt;p&gt;A partir desse incentivo, jovens empreendedores decidiram mudar sua vida e trabalhar com o que sempre sonharam. Com determinação e planejamento, a Interama pretende ser uma produtora de jogos únicos. &lt;a href=&quot;http://www.interama.net&quot;&gt;http://www.interama.net&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Come-Come</title>
+   <link href="http://example.com/2005/10/20/come-come/"/>
+   <updated>2005-10-20T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/20/come-come</id>
+   <content type="html">&lt;p&gt;O Come-Come é simples, mas agradável. Lembra velhos bons jogos do tempo do DOS. O jogador comanda um urso que anda pelo tabuleiro comendo coisas que encontra. Quando devora tudo, progride para uma fase mais difícil.&lt;/p&gt;
+
+&lt;p&gt;Para isso, tem de enfrentar abelhas assassinas e outros perigos. O mais legal é que o jogo traz um editor de fases. Assim, cada um pode criar sua própria versão dele.&lt;/p&gt;
+
+&lt;p&gt;Come-come participou do Concurso INFO de Shareware em 2002 e ficou em 3º lugar, vale a pena conferir.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - gamecraft</title>
+ <link href="http://example.com/tags/gamecraft/index.xml" rel="self"/>
+ <link href="http://example.com/tag/gamecraft.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/gamecraft.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>GameCraft 2011</title>
+   <link href="http://example.com/2011/05/23/gamecraft-2011/"/>
+   <updated>2011-05-23T00:00:00-03:00</updated>
+   <id>http://example.com/2011/05/23/gamecraft-2011</id>
+   <content type="html">&lt;p&gt;Nos dias 16 e 17 de junho acontecerá no Rio de Janeiro o GameCraft 2011, evento focado no desenvolvimento de jogos eletrônicos.&lt;/p&gt;
+
+&lt;p&gt;O GameCraft contará com diversos palestrantes, entre os já confirmados estão:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Carlos Bordeu - Fundador do estúdio chileno ACE Team&lt;br /&gt;* Cristiano Moura - Engenheiro de som e produtor musical&lt;br /&gt;* Fernando Ribeiro - Desenvolvedor dos jogos para iPhone &quot;Shaolin Training&quot; e &quot;Shaolin Brasil&quot;&lt;br /&gt;* Guilherme Xavier - CEO e diretor de arte e design da produtora Donsoft Entertainment&lt;br /&gt;* Antonio Marcelo - Fundador do estúdio Riachuelo Games
+Outros palestrantes devem ser confirmados nas próximas semanas.
+Além das palestras, no segundo dia de evento acontecerá uma amostra de jogos independentes. Para inscrever seu game entre nesse link &lt;a href=&quot;http://bit.ly/mostragamecraft&quot; target=&quot;_blank&quot;&gt;http://bit.ly/mostragamecraft&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As inscrições para participar de todo o evento podem ser feitas por R$ 25 até 1º de junho ou R$ 35 após essa data.
+Mais informações na página oficial &lt;a href=&quot;http://devoidgames.com/gamecraft/&quot; target=&quot;_blank&quot;&gt;http://devoidgames.com/gamecraft/&lt;/a&gt;
+ ou pelo twitter &lt;a href=&quot;http://twitter.com/#!/gamecraftrio&quot; target=&quot;_blank&quot;&gt;@gamecraftrio&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

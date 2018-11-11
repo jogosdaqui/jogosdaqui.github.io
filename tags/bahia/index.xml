@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - bahia</title>
+ <link href="http://example.com/tags/bahia/index.xml" rel="self"/>
+ <link href="http://example.com/tag/bahia.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/bahia.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Evento em Salvador</title>
+   <link href="http://example.com/2005/10/03/evento-em-salvador/"/>
+   <updated>2005-10-03T00:00:00-03:00</updated>
+   <id>http://example.com/2005/10/03/evento-em-salvador</id>
+   <content type="html">&lt;p&gt;Os games hoje se constituem em uma nova mídia que atrai e desperta o interesse e desejo da geração denominada Screenagers, mas também é visto pela comunidade e pela mídia de forma maniqueísta e apocalíptica.&lt;/p&gt;
+
+&lt;p&gt;Atualmente a discussão em torno dos jogos eletrônicos vem crescendo de forma significativa no cenário acadêmico brasileiro, agregando pesquisadores de diferentes instituições que investigam este fenômeno na sociedade contemporânea, indicando contribuições para o desenvolvimento de narrativas interativas e intertextuais, bem como a contribuição dos games na aprendizagem.&lt;/p&gt;
+
+&lt;p&gt;Portanto, a realização deste seminário irá se constituir em um marco nesta área na medida em que propõem trazer estes pesquisadores para estabelecer uma grande teia de discussões que poderão subsidiar novas maneiras de se compreender os jogos eletrônicos.&lt;/p&gt;
+&lt;h2 id=&quot;objetivos&quot;&gt;Objetivos&lt;/h2&gt;
+
+&lt;p&gt;Criar um fórum de debates entre os pesquisadores que vem discutindo e analisando a presença dos games na sociedade contemporânea e suas repercussões nas áreas de educação, comunicação e informática. Socializar as pesquisas que vem sendo desenvolvidas no Brasil em torno dos jogos eletrônicos.&lt;/p&gt;
+
+&lt;h2 id=&quot;local-do-evento&quot;&gt;Local do Evento&lt;/h2&gt;
+&lt;p&gt;Auditório Jurandir Costa – UNEB – Departamento de Educação – Campus I
+Rua Silveira Martins no. 2555 – Cabula – Salvador – Bahia&lt;/p&gt;
+
+&lt;p&gt;Período: 10 e 11/10/05&lt;/p&gt;
+
+&lt;p&gt;Para maiores informações visite: &lt;a href=&quot;http://www.comunidadesvirtuais.pro.br/seminariog.htm&quot;&gt;www.comunidadesvirtuais.pro.br/seminariog.htm&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

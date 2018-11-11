@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - double-dash</title>
+ <link href="http://example.com/tags/double-dash/index.xml" rel="self"/>
+ <link href="http://example.com/tag/double-dash.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/double-dash.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Imagens da semana #13</title>
+   <link href="http://example.com/2015/09/14/imagens-da-semana-13/"/>
+   <updated>2015-09-14T00:00:00-03:00</updated>
+   <id>http://example.com/2015/09/14/imagens-da-semana-13</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/betuiau/status/640987759080030208&quot;&gt;O artista Betu Souza apresentando a NPC do novo modo endless do game Relic Hunters Zero&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/saint11/status/641026578399502336&quot;&gt;O artista e programador Pedro Medeiros mostra um pouco da arte do game canadense Skytorn, onde ele e a brasileira Amora B. fazem parte da equipe de desenvolvimento&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BlackRvrStudios/status/64125266263846092&quot;&gt;A Black River Studios de Manaus com uma screenshot de seu game que será anunciado no próximo dia 21”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/64142784923321958&quot;&gt;JoyMasher comentando sobre a Blood Armor para os corajosos que enfrentarem o modo Veteran no game Odallus”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/641719892643815424&quot;&gt;A Mgaia Studio com seus os elfos da floresta, se preparando para um novo update de seu game Tiny Empire&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/_double_dash/status/642055362334605312&quot;&gt;RacketBoy da Double Dash mostrando um dos seus movimentos&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/64218689308660121&quot;&gt;A Iduna Game Studio revela o redesign feito no cenário do game Mustach In Hell”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticBr/status/64245930808565760&quot;&gt;Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aquiris anunciou que a versão F2P será fechada”&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Games brasileiros em crowdfunding</title>
+   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding/"/>
+   <updated>2015-08-29T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
+   <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
+Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Confira:&lt;/p&gt;
+
+&lt;h2 id=&quot;magic-master&quot;&gt;Magic Master&lt;/h2&gt;
+&lt;p&gt;A campanha do game que mistura elementos de tower defense e de beat’em up combinados com uma estética sombria está em suas últimas horas.&lt;/p&gt;
+
+&lt;p&gt;Acesse o Kickante e ajude a mineira Mopix Games na produção deste belo game: &lt;a href=&quot;http://www.kickante.com.br/campanhas/magic-master&quot; target=&quot;_blank&quot;&gt;http://www.kickante.com.br/campanhas/magic-master&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/2DLQ_jA9rm8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;tiny-little-bastards&quot;&gt;Tiny Little Bastards&lt;/h2&gt;
+&lt;p&gt;O game da carioca Overlord Game Studio está em campanha no Indiegogo. Tiny Little Bastards é um jogo 2D que utiliza elementos de games de plataforma e action-RPG para apresentar Ivarr, o viking que o jogador controlará na busca pelas suas cervejas roubadas.&lt;/p&gt;
+
+&lt;p&gt;Com uma linda arte totalmente desenhada a mão e jogabilidade macia, o game promete: &lt;a href=&quot;https://www.indiegogo.com/projects/tiny-little-bastards&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/tiny-little-bastards&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/6_AXtKHAJPg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;99vidas-o-jogo&quot;&gt;99Vidas o jogo&lt;/h2&gt;
+&lt;p&gt;99Vidas o jogo é uma parceria entre a gamedev brasileira QUByte Interactive e o podcast 99Vidas visando a criação de um novo IP baseado no universo do programa.&lt;/p&gt;
+
+&lt;p&gt;Se você gosta de games do estilo beat’em up ou é fã da galera do 99Vidas, então entre no Catarse e faça sua contribuição:&lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt; https://www.catarse.me/pt/99vidas&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/jLgl-KoZwmo &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;racketboy&quot;&gt;RacketBoy&lt;/h2&gt;
+&lt;p&gt;O studio indie Double Dash está em campanha com seu game RacketBoy que mistura o estilo de Arkanoid com o gênero shoot’em up e um garoto com uma raquete que pode rebater os tiros.&lt;/p&gt;
+
+&lt;p&gt;Com uma jogabilidade inusitada, RacketBoy está no Indiegogo:
+&lt;a href=&quot;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/dZ4nRLOoVI4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Conhece mais alguma game brasileiro que está atualmente em campanha de crowdfunding? Entre em &lt;a href=&quot;/contato&quot;&gt;contato conosco&lt;/a&gt;
+ para atualizarmos o post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RacketBoy da Double Dash Studios</title>
+   <link href="http://example.com/2015/08/20/racketboy-da-double-dash-studios/"/>
+   <updated>2015-08-20T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/20/racketboy-da-double-dash-studios</id>
+   <content type="html">&lt;p&gt;Lembra de Breakout de 1972, clássico game que deu origem ao estilo de games de quebrar blocos, seguido por outros clássicos como Arkanoid de 1986?&lt;/p&gt;
+
+&lt;p&gt;O que talvez você não saiba é que o game de 72 para o Atari 2600 foi desenvolvido por Steve Wozniak com uma ajuda de Steve Jobs, isso mesmo, os fundadores da Apple.&lt;/p&gt;
+
+&lt;h2 id=&quot;racketboy&quot;&gt;RacketBoy&lt;/h2&gt;
+&lt;p&gt;Agora imagine misturar o estilo do game criado por Woz e Jobs com o gênero shoot’em up e um garoto com uma raquete que pode rebater os tiros? Foi com essa salada de gêneros que a carioca &lt;a href=&quot;http://doubledashstudios.com/&quot; target=&quot;_blank&quot;&gt;Double Dash Studios&lt;/a&gt;
+ deu origem ao seu game &lt;a href=&quot;http://racketboygame.com&quot; target=&quot;_blank&quot;&gt;RacketBoy&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;RacketBoy é um jogo sobre um garoto que tenta salvar a galáxia de criaturas com um poder destrutivo que só se equipara à sua fofura. Se esquivando das infinitas balas em seu caminho, RacketBoy voa com sua leal raquete e seu cachecol ao vento e rebate os tiros de volta aos inimigos. (comenta a equipe de desenvolvimento)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Na &lt;a href=&quot;http://gamejolt.com/games/racketboy/80383&quot; target=&quot;_blank&quot;&gt;demo&lt;/a&gt;
+ é possível apreciar um pouco do gameplay do game e sua mistura de estilos que funciona muito bem trazendo novos elementos tanto para os breaking games como para os shoot’em up. O início é mais leve para o jogador se adaptar aos controles e aos mecanismos, mas não demora muito para o game virar um bullet hell pra tenista nenhum botar defeito!&lt;/p&gt;
+
+&lt;h2 id=&quot;campanha-de-crowdfunding&quot;&gt;Campanha de crowdfunding&lt;/h2&gt;
+&lt;p&gt;A Double Dash é um studio indie, composto por 5 gamedevs, que recentemente iniciou uma campanha de crowdfunding no Indiegogo para ajudar no desenvolvimento do game: &lt;a href=&quot;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Entre os objetivos da campanha que pretende arrecadar US$ 35.0000 estão a criação de 6 mundos para o game e 30 tipos de inimigos, além da geração procedural de ondas de inimigos o que permitirá ter um modo endless.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;A equipe planeja lançar o game para Windows, Mac e Linux, com possibilidade de chegar também aos dispositivos mobile, dependendo do sucesso da campanha de crowdfunding.&lt;/p&gt;
+
+&lt;p&gt;O jogo deve ser lançado pelos meados de 2016;&lt;/p&gt;
+
+&lt;h2 id=&quot;trailer-de-racketboy&quot;&gt;Trailer de RacketBoy&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/dZ4nRLOoVI4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>

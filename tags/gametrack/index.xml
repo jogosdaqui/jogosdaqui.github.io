@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - gametrack</title>
+ <link href="http://example.com/tags/gametrack/index.xml" rel="self"/>
+ <link href="http://example.com/tag/gametrack.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/gametrack.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Novidades no Gametrack</title>
+   <link href="http://example.com/2006/01/26/novidades-no-gametrack/"/>
+   <updated>2006-01-26T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/26/novidades-no-gametrack</id>
+   <content type="html">&lt;p&gt;Dois novos jogos foram colocados no ar no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Na parte de jogos multiplayer temos uma versão beta do famoso jogo de tabuleiro Imagem&amp;amp;Ação. Nos jogos singleplayer a novidade fica por conta do quebra-cabeça Sudoku.&lt;/p&gt;
+
+&lt;p&gt;Em breve a Devworks Game Technology deve colocar no ar uma versão beta do jogo Rummikub, um dos mais populares jogos de tabuleiro em todo mundo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vôlei de Praia</title>
+   <link href="http://example.com/2005/12/26/volei-de-praia/"/>
+   <updated>2005-12-26T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/26/volei-de-praia</id>
+   <content type="html">&lt;p&gt;Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+. Vôlei de Praia faz o maior sucesso entre os jogadores do portal.&lt;/p&gt;
+
+&lt;p&gt;O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas diferenças: existe apenas um jogador de cada lado da rede e a bola pode quicar no lado adversário. A cada toque no solo, a barra de energia do jogador diminui, assim quanto mais “venenosa” for a sua jogada pior será para o seu adversário retornar a bola.&lt;/p&gt;
+
+&lt;p&gt;Os jogadores podem dar saltos gigantescos, super cortadas e usar as paredes da tela para rebater a bola.&lt;/p&gt;
+
+&lt;p&gt;Os gráficos possuem um ar de desenho animado e algumas telas mostram tribais que combinam muito bem com o clima do jogo. O som é suave e está no lugar certo: não distrai o jogador do principal, que é a jogabilidade e a diversão fácil.&lt;/p&gt;
+
+&lt;p&gt;O jogo conta com 6 fases com dificuldade crescente. Perdendo apenas uma partida, perde-se o jogo, e isto acaba tornando a tarefa de chegar ao fim, muito difícil.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Enquete no Gametrack</title>
+   <link href="http://example.com/2005/12/19/enquete-no-gametrack/"/>
+   <updated>2005-12-19T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/19/enquete-no-gametrack</id>
+   <content type="html">&lt;p&gt;“Qual jogo 3D multiplayer você gostaria de ver no Gametrack?” está é a enquete no ar no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.
+Você pode escolher uma entre quatro opções: ping pong, taco, boliche e jogo do canhão.&lt;/p&gt;
+
+&lt;p&gt;Conheça mais sobre o Gametrack na &lt;a href=&quot;/2005/11/14/entrevista-gametrack/&quot;&gt;entrevista&lt;/a&gt;
+ feita pelo jogosdaqui.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NewsAbragames - Dezembro/2005</title>
+   <link href="http://example.com/2005/12/07/newsabragames-dezembro2005/"/>
+   <updated>2005-12-07T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/07/newsabragames-dezembro2005</id>
+   <content type="html">&lt;p&gt;Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) acaba de divulgar a edição deste mês da sua newsletter.&lt;/p&gt;
+
+&lt;p&gt;Nesta edição são tratados vários assuntos, como: O portal Gametrack e a EGS, além disso há também a enquete sobre publicidade e jogos, &lt;a href=&quot;http://www.abragames.org/newsletter/enquete/?enquete=12&quot; target=&quot;_blank&quot;&gt;acesse e vote você também&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Para quem ainda não é cadastrado, a newsletter pode ser acessada diretamente pelo link &lt;a href=&quot;http://www.abragames.org/newsletter&quot; target=&quot;_blank&quot;&gt;http://www.abragames.org/newsletter&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>WAR</title>
+   <link href="http://example.com/2005/11/28/war/"/>
+   <updated>2005-11-28T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/28/war</id>
+   <content type="html">&lt;p&gt;WAR, o famoso jogo de tabuleiro onde a estratégia decidia o rumo das jogadas, agora pode ser jogado online.
+Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando e conquistando os territórios inimigos.&lt;/p&gt;
+
+&lt;p&gt;Enquanto o jogador aguarda para entrar em um jogo, pode conversar com os outros jogadores no chat existente na tela de seleção da sala de jogo. Quando o jogo inicia, apenas os jogadores da sala podem conversar através do chat da sala, enquanto manipulam suas tropas.&lt;/p&gt;
+
+&lt;p&gt;Os jogadores podem disputar partidas simples ou até campeonatos. Existem campeonatos de WAR organizados pela própria comunidade de jogadores.&lt;/p&gt;
+
+&lt;p&gt;Apenas você pode mudar o rumo desta guerra, mostre sua capacidade estratégica: defenda o seu território e conquiste todos os continentes.&lt;/p&gt;
+
+&lt;h2 id=&quot;gametrack&quot;&gt;Gametrack&lt;/h2&gt;
+&lt;p&gt;WAR é mais um jogo exclusivo do portal Gametrack - &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;www.gametrack.com.br&lt;/a&gt;
+.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gametrack ganha mais 2 jogos</title>
+   <link href="http://example.com/2005/11/22/gametrack-ganha-mais-2-jogos/"/>
+   <updated>2005-11-22T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/22/gametrack-ganha-mais-2-jogos</id>
+   <content type="html">&lt;p&gt;O portal &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;Gametrack&lt;/a&gt;
+ acaba de ganhar mais dois novos jogos singleplayer: Dominó e Conecta 4.&lt;/p&gt;
+
+&lt;p&gt;Os jogos estão disponíveis para os jogadores cadastrados no Gametrack e podem ser acessados diretamente pelo portal (&lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;www.gametrack.com.br&lt;/a&gt;
+).&lt;/p&gt;
+
+&lt;p&gt;Em breve, você poderá ler sobre os dois jogos no jogosdaqui.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pato Possante</title>
+   <link href="http://example.com/2005/11/19/pato-possante/"/>
+   <updated>2005-11-19T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/19/pato-possante</id>
+   <content type="html">&lt;p&gt;Pato Possante é um jogo de corrida diferente. Você percebe isso logo no início, pois o personagem do jogo é um pato no controle de um singelo kart.&lt;/p&gt;
+
+&lt;p&gt;Não há adversários na pista, o desafio está em fazer o melhor tempo e pegar as espigas de milho espalhadas pela pista, mas cuidado, nem toda espiga de milho é boa pra você, evite as espigas estragadas, pois elas fazem você perder pontos. Quanto mais espigas pegar, mais pontos você ganha.&lt;/p&gt;
+
+&lt;p&gt;Tente figurar no rank dos maiores pontuadores do Pato Possante, uma corrida muito doida.&lt;/p&gt;
+
+&lt;p&gt;Pato Possante é mais um jogo exclusivo do portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entrevista: Gametrack</title>
+   <link href="http://example.com/2005/11/14/entrevista-gametrack/"/>
+   <updated>2005-11-14T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/14/entrevista-gametrack</id>
+   <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;O Gametrack é um portal produzido e mantido pela desenvolvedora brasileira Devworks Game Technology. Possui conteúdo exclusivo, como por exemplo a versão online do famoso WAR, jogo de tabuleiro da Grow que já fazia muito sucesso na sua forma convencional e que vem mantendo esse sucesso na forma online.&lt;/p&gt;
+
+&lt;p&gt;O portal também possui outros jogos, esses jogos só podem ser encontrados no portal e são desenvolvidos pela própria Devworks.&lt;/p&gt;
+
+&lt;p&gt;O site jogosdaqui entrevistou Marcelo Carvalho (um dos fundadores da Devworks) sobre o portal.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-surgiu-a-idéia-de-desenvolver-o-gametrack&quot;&gt;Como surgiu a idéia de desenvolver o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Temos essa idéia há mais de 3 anos. Mas estávamos aguardando o momento certo para lançá-la. Os números de usuários de banda larga estão cada vez mais significativos e sentimos que era o momento certo. A idéia surgiu do seguinte fato. Os ‘core gamers’ tem várias opções online incluindo servidores de jogos famosos como Counter Strike ou Battlefield. Os jogadores casuais que acessam por internet discada também tem inúmeras opções de sites que oferecem grande quantidade de jogos simples. Mas os jogadores casuais que possuem banda larga, tem todos os recursos para jogar jogos melhores, mas acabavam não sendo atendidos adequadamente por nenhum dos 2 grupos anteriores. O Gametrack foi criado para esse público. Um público de mais de 5 milhões de pessoas. Normalmente composto por jogadores com idades que variam dos 20 aos 45 anos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quais-são-os-maiores-atrativos-do-gametrack-para-o-jogador-de-banda-larga&quot;&gt;Quais são os maiores atrativos do Gametrack para o jogador de banda larga?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: No Gametrack, esqueça os joguinhos de sempre que você encontra em qualquer site. Nosso foco é em conteúdo exclusivo, muitas vezes inédito. Também vamos procurar explorar cada vez mais os recursos disponíveis para os jogadores produzindo jogos 3D, jogos com mais recursos visuais/sonoros e jogos em tempo real (em contraste com os tradicionais jogos baseados em turnos)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;hoje-o-gametrack-possui-2-jogos-multiplayer-war-e-super-trunfo-ambos-versões-online-de-jogos-de-sucesso-da-grow-os-jogadores-podem-esperar-mais-jogos-convencionais-sendo-portados-para-o-gametrack&quot;&gt;Hoje o Gametrack possui 2 jogos multiplayer: WAR e Super Trunfo, ambos versões online de jogos de sucesso da Grow. Os jogadores podem esperar mais jogos convencionais sendo ‘portados’ para o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sem dúvida. Tem mais 2 jogos famosos na fila: Imagem&amp;amp;Ação e Rummikub (um dos jogos mais vendidos do mundo). O Imagem&amp;amp;Ação é um desses jogos que o jogador só vai conseguir jogar adequadamente se possuir banda larga, pois enquanto um está desenhando, os outros estão tentando adivinhar a resposta. Do Rummikub, ainda não posso dar muitos detalhes, mas no ano quem vem terá o &quot;World Rummikub Champioship&quot; na Holanda (Evento realizado a cada 3 anos) e as chances são grandes de a seletiva brasileira ser realizada no Gametrack.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Super Trunfo: mais um jogo famoso “portado” para o Gametrack[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;além-dos-jogos-multiplayer-o-portal-também-conta-com-6-jogos-singleplayer-vôlei-de-praia-pato-possante-pebolim-3d-xadrez-reversi-e-jogo-de-cintura-o-que-o-jogador-pode-esperar-de-cada-um-desses-jogos&quot;&gt;Além dos jogos multiplayer, o portal também conta com 6 jogos singleplayer: Vôlei de Praia, Pato Possante, Pebolim 3D, Xadrez, Reversi e Jogo de Cintura. O que o jogador pode esperar de cada um desses jogos?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: São jogos divertidos. E o pessoal tem jogado principalmente o Vôlei de praia e o Xadrez (que tem uma Inteligência Artificial bastante desafiadora). Pretendemos colocar mais 4 jogos single-player no ar até o final do ano, incluindo o jogo de Dominó. A tendência é produzir jogos mais complexos no futuro, mas o foco inicial dessa complexidade é nos jogos multiplayer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+&amp;gt; Os jogos singleplayer do Gametrack&lt;/center&gt;
+
+&lt;h2 id=&quot;quais-os-jogos-de-maior-sucesso-entre-os-jogadores-do-gametrack&quot;&gt;Quais os jogos de maior sucesso entre os jogadores do Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sem dúvida, é o jogo de WAR. Foram criadas até comunidades do Orkut para quem joga WAR no Gametrack. São mais de 7 que temos notícias. Uma delas, a &quot;Eu jogo war no Gametrack&quot;, tem mais de 150 membros.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;WAR: o jogo de maior sucesso no Gametrack[/caption]&lt;/p&gt;
+
+&lt;h2 id=&quot;um-campeonato-de-war-online-seria-bem-divertido-o-gametrack-promove-alguma-forma-de-campeonatos-entre-os-jogadores-do-portal&quot;&gt;Um campeonato de WAR online seria bem divertido, o Gametrack promove alguma forma de campeonatos entre os jogadores do portal?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Ainda não estamos promovendo, mas pretendemos realizar campeonatos no futuro. Mesmo não sendo organizado por nós, já há um campeonato em vias de começar. Uma comunidade do Orkut está organizando um grande campeonato de WAR que vai começar no dia 19/11. É a comunidade &quot;Campeonato de WAR no Gametrack&quot; que tem limite de 128 participantes. Não estamos participando da organização, mas ficamos muito felizes que os jogadores estejam se organizando.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;como-o-jogador-tem-acesso-aos-jogos-do-gametrack-quais-são-as-formas-de-pagamento&quot;&gt;Como o jogador tem acesso aos jogos do Gametrack? Quais são as formas de pagamento?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: São basicamente 2 formas: o &quot;Entrada Livre&quot; e o &quot;Gametrack VIP&quot;. O primeiro é através do telefone. O jogador disca um número local e deixa o telefone fora do gancho enquanto joga, pagando apenas a ligação local. Para quem vai jogar mais de 5 horas por mês, o ideal é o &quot;Gametrack VIP&quot; que funciona com uma assinatura e tem planos de valores diferentes, mas o mais utilizado é a assinatura trimestral onde o jogador paga R$9,90/mês. Optamos por esses modelos, pois assim podemos oferecer um serviço muito superior a outros sites. E continuar produzindo jogos de qualidade, enquanto o jogador paga menos que uma entrada de cinema e se diverte por um muito mais tempo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;a-devworks-está-desenvolvendo-novos-jogos-para-o-gametrack&quot;&gt;A Devworks está desenvolvendo novos jogos para o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sim, nos próximos 3 meses, colocaremos mais 4 jogos single-player no ar e mais 2 jogos multiplayer. No que vem, traremos MUITAS surpresas boas para os assinantes do portal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pebolim 3D</title>
+   <link href="http://example.com/2005/11/13/pebolim-3d/"/>
+   <updated>2005-11-13T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/13/pebolim-3d</id>
+   <content type="html">&lt;p&gt;Pebolim 3D traz toda a diversão do jogo real de pebolim e ainda mais.&lt;/p&gt;
+
+&lt;p&gt;Graças aos gráficos 3D você pode selecionar a melhor câmera para as partidas: visão lateral (igual a visão do jogo real), visão superior e visão seguindo a bola.&lt;/p&gt;
+
+&lt;p&gt;Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os jogadores e execute os passes e chutes a gol.&lt;/p&gt;
+
+&lt;p&gt;O jogador sempre joga como a seleção brasileira e pode escolher entre 6 seleções adversárias: Turquia, Bélgica, China, Inglaterra, Costa Rica e Alemanha.&lt;/p&gt;
+
+&lt;p&gt;Pebolim 3D pode ser jogado a qualquer momento pelos usuários cadastrados no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;O jogo também conta com um ranking dos melhores jogadores, mais um motivo pra você curtir o Pebolim 3D.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>GameTrack - Portal de jogos online</title>
+   <link href="http://example.com/2005/09/26/gametrack-portal-de-jogos-online/"/>
+   <updated>2005-09-26T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/26/gametrack-portal-de-jogos-online</id>
+   <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;GameTrack&lt;/a&gt;
+ é um portal de jogos voltado para os jogadores de banda larga. Além do diferencial no conceito, o objetivo do site é possuir conteúdo diferenciado como jogos de marca e jogos 3D multiplayer, sempre na linha do web casual.O site conta atualmente com 2 jogos multiplayer: o War e o Supertrunfo, ambos da Grow, e mais alguns jogos single-player. Os primeiros fazem parte do conteúdo premium que é de acesso restrito. Os outros, só precisa estar cadastrado para jogar.A novidade é forma de pagamento. Sem cadastro, sem boleto, sem cartão de crédito, sem compromisso, sem burocracia. Ao entrar no jogo, você visualiza um número de telefone e um código de ativação. Disca para o telefone, disca o código e pronto: pode começar a jogar! O custo é muito baixo, o usuário paga apenas o custo de uma ligação local, ou seja, joga várias partidas e gasta apenas alguns centavos. &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;www.gametrack.com.br&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

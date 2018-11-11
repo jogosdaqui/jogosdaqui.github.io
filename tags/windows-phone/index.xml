@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - windows-phone</title>
+ <link href="http://example.com/tags/windows-phone/index.xml" rel="self"/>
+ <link href="http://example.com/tag/windows-phone.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/windows-phone.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Max Quiz</title>
+   <link href="http://example.com/2015/10/16/max-quiz/"/>
+   <updated>2015-10-16T00:00:00-03:00</updated>
+   <id>http://example.com/2015/10/16/max-quiz</id>
+   <content type="html">&lt;p&gt;O casal de desenvolvedores independentes Glauber e Camila, que mesmo antes de se conhecerem já eram apaixonados por games, juntaram suas paixões e formaram a Maxlab Studios de São Paulo, empresa criadora do game &lt;a href=&quot;http://www.maxquiz.com/&quot; target=&quot;_blank&quot;&gt;Max Quiz&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;h2 id=&quot;max-quiz&quot;&gt;Max Quiz&lt;/h2&gt;
+&lt;p&gt;Um jogo de quiz, já pensou em Show do Milhão? Sim, para nós brasileiros o famoso programa de Silvio Santos será sempre uma grande referência, mas Max Quiz vai além dos games convencionais de quiz, pois simula um ambiente de um programa de TV, com palco, apresentador e jogadores em 3D.&lt;/p&gt;
+
+&lt;p&gt;As categorias de perguntas são: Conhecimento Geral, Ciência, Cultura Geek, Cinema &amp;amp; TV e Esporte.&lt;/p&gt;
+
+&lt;p&gt;O game permite que sejam realizadas partidas com amigos e os campeonatos são disputados em forma de “playoffs”, para aumentar a competição existe um ranking semanal dos jogadores que obtiveram melhores pontuações.&lt;/p&gt;
+
+&lt;h2 id=&quot;crowdsourcing&quot;&gt;Crowdsourcing&lt;/h2&gt;
+&lt;p&gt;Com fortes características de crowdsourcing, o jogo possui um banco colaborativo de questões. A comunidade pode sugerir, avaliar e traduzir questões, além disso existe um robô que atualiza periodicamente a ferramenta colaborativa com temas da Wikipédia.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;Atualmente o jogo está disponível para &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.orderbyfun.maxquiz&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
+, mas a dupla de desenvolvedores está trabalhando nas versões para iPhone/iPad, Windows Phone e Windows 10.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/wYROqgqa5Gg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rock Life</title>
+   <link href="http://example.com/2015/09/09/rock-life/"/>
+   <updated>2015-09-09T00:00:00-03:00</updated>
+   <id>http://example.com/2015/09/09/rock-life</id>
+   <content type="html">&lt;p&gt;Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis?&lt;/p&gt;
+
+&lt;p&gt;Ser o guitarrista virtuoso de uma grande banda de rock já foi o sonho de muita gente.&lt;/p&gt;
+
+&lt;h2 id=&quot;rock-life&quot;&gt;Rock Life&lt;/h2&gt;
+
+&lt;p&gt;E com Rock Life da &lt;a href=&quot;http://zeeppo.com&quot; target=&quot;_blank&quot;&gt;Zeeppo Games&lt;/a&gt;
+, o sonho pode se tornar realidade. O jogo da gamedev porto-alegrense traz o gameplay de games consagrados como Guitar Hero e Rock Band para as telas touch de celulares e tablets.&lt;/p&gt;
+
+&lt;p&gt;No game o jogador poderá criar sua própria banda e escolher a guitarra dentre as dezenas disponíveis.&lt;/p&gt;
+
+&lt;p&gt;Uma das coisas mais legais do game é a possibilidade de jogar online e colocar sua banda contra outros jogadores.&lt;/p&gt;
+
+&lt;p&gt;Com gráficos 3D caprichados e diversos avatares a disposição, como Bob Marley, Axl Rose, James Hetfield e Mick Jagger, Rock Life deve agradar quem curte games de música.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;Rock Life é um game gratuito com in-app purchases que já atingiu mais de 3 milhões de downloads no mundo inteiro.&lt;/p&gt;
+
+&lt;p&gt;Está disponível para:
+iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quot;_blank&quot;&gt;https://itunes.apple.com/app/id707892944&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Android: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.Zeeppo.RockLife&quot; target=&quot;_blank&quot;&gt;https://play.google.com/store/apps/details?id=com.Zeeppo.RockLife&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Windows Phone: &lt;a href=&quot;http://windowsphone.com/s?appid=caa78cc2-a540-4156-9865-b6e2b5c3aefc&quot; target=&quot;_blank&quot;&gt;http://windowsphone.com/s?appid=caa78cc2-a540-4156-9865-b6e2b5c3aefc&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ReOrd</title>
+   <link href="http://example.com/2015/08/26/reord/"/>
+   <updated>2015-08-26T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/26/reord</id>
+   <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
+
+&lt;p&gt;Trazer esse gameplay simples de um brinquedo de infância para as telas mobile é a proposta do game ReOrd.&lt;/p&gt;
+
+&lt;h2 id=&quot;reord&quot;&gt;ReOrd&lt;/h2&gt;
+&lt;p&gt;O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o projeto utilizando XNA para Windows Phone 7, passou pelo open source &lt;a href=&quot;https://github.com/mono/MonoGame&quot; target=&quot;_blank&quot;&gt;MonoGame&lt;/a&gt;
+ para Windows Phone 8 e acabou refazendo todo o game utilizando a Unity3D. Mesmo com todos os desafios enfrentados durante a produção de ReOrd, Raphael pretende continuar desenvolvendo games de forma independente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Esse será apenas ‘O primeiro de muitos’ nas stores (comenta Raphael)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Com imagens dos cenários pintadas a mão por um artista ucraniano, o game funciona muito bem para quem gosta de quebra-cabeças. Sendo que os números do jogo original foram substituídos pelas imagens, o que por si só já aumenta a dificuldade do game, além disso você pode escolher entre 3 modos diferentes de jogo, cada um deles aumentando o número de quadrados do mosaico que compõe a imagem: 3x3, 4x4 e 5x5.&lt;/p&gt;
+
+&lt;p&gt;Existem 9 fases/imagens diferentes que são desbloqueadas conforme o jogador avança no game.&lt;/p&gt;
+
+&lt;p&gt;Uma pena o jogo não contar com trilha sonora, ajudaria na experiência.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;ReOrd é um game gratuito e está disponível para &lt;a href=&quot;http://windowsphone.com/s?appid=79bf8d67-8391-484e-a160-5f87c678c9a0&quot; target=&quot;_blank&quot;&gt;Windows Phone&lt;/a&gt;
+ e &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.raphael.reord&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
+. Existe a possibilidade de uma versão para iOS no futuro, mas nada certo ainda.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #9</title>
+   <link href="http://example.com/2015/06/11/checkpoint-9/"/>
+   <updated>2015-06-11T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/11/checkpoint-9</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar&quot;&gt;Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60576651912178892&quot;&gt;A Aquiris Game Studio dando sequência na sua apresentação de equipe, conheça o Analista de Qualidade Matheus @ttfreire&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/odingamestudio/posts/90690340604019&quot;&gt;Pessoal da Odin Game Studio celebrando a seleção de dois de seus games entre os 20 selecionados para área BIG Booth do BIG Festival 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura&quot;&gt;Entrevistamos Renato Degiovani sobre a abertura do club TILT&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=86666335006650&quot;&gt;O game TEGRA da Contra Labs recebe o prêmio de melhor jogo pelo voto popular no XI Seminário SJEEC&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://gizmodo.uol.com.br/angry-birds-realidade-virtual&quot;&gt;Matéria no Gizmodo Brasil sobre o Angry Birds VR produzido pela gaúcha IMGNATION Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/05/playthrough-chroma-squad-tactical-rpg-002&quot;&gt;O parceiro Insert Coins no segundo episódio do Playthrough Chroma Squad – Tactical RPG&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/60693170622291148&quot;&gt;Artigo na PC Guru sobre Chroma Squad da Behold Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter&quot;&gt;Selecionados imagens e vídeos dos 8 games selecionados no BIG Starter 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60795388221659136&quot;&gt;Conheça o game designer de Horizon Chase: Felipe Dal Molin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;11&quot;&gt;#11&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60836996199262617&quot;&gt;A Mgaia Studio mostrando a página do game Tiny Empire lançado para Windows Phone e Android (iOS em breve)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;12&quot;&gt;#12&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/10/previa-de-my-night-job-da-webcore-games&quot;&gt;Prévia de My Night Job da Webcore Games&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;13&quot;&gt;#13&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/TreekerGame/status/60899988728015667&quot;&gt;Site do game Treeker: Os Óculos Perdidos da Blubox Soft no ar&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Phoenix Force</title>
+   <link href="http://example.com/2015/04/28/phoenix-force/"/>
+   <updated>2015-04-28T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/28/phoenix-force</id>
+   <content type="html">&lt;p&gt;Shoot ‘em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão final. Imaginou? Esse é o Phoenix Force da gaúcha Awoker Games que denomina o jogo como o primeiro Fantasy Boss Shooter Game.&lt;/p&gt;
+
+&lt;p&gt;Na história do game o jogador iniciará como a fênix de Fogo, chamada Fury que foi a primeira a renascer numa Terra primordial onde terá que enfrentar monstros e tentar resgatar as outras fênix: Cryo de Gelo, Tupã de Trovão, Gaia da Terra e Gast de Fantasma.&lt;/p&gt;
+
+&lt;p&gt;Possui um total de 100 fases distribuídas entre 4 mundos diferentes, cada uma delas possuindo o chefão, sendo muitas vezes um chefe já enfrentado anteriormente, mas mais inteligente e poderoso. Em algumas fases o jogador terá que enfrentar mais de um chefão ao mesmo tempo, nessas horas o game ganha o direito de ser chamado de um verdadeiro bullet hell, mas ao vencer o primeiro desses desafios não fique achando que você é invencível, pois a partir do segundo mundo será bullet hell até o fim. Para ajudar a enfrentar o desafio crescente que cada fase apresenta, a fênix ganha experiência no fim de cada fase, tornando-se mais resistente e mais veloz, fora isso ainda existem as outras fênix que são libertadas durante o percurso e podem ser utilizadas nas batalhas.&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+
+&lt;p&gt;A trilha sonora, estilo medieval, combina bem com a estética e dá um tom interessante ao game, já que você controla uma grande fênix e não uma nave high-tech.&lt;/p&gt;
+
+&lt;p&gt;Phoenix Force é um shmup realmente desafiador, equilibrado na sua evolução, mas possuindo fases onde o jogador terá que jogar várias vezes até conseguir vencer, ainda mais que a morte acontece ao ser atingido apenas uma vez. Além disso, como em todo bom jogo do estilo, o jogador terá que ser um perito em atirar, mas mais ainda em desviar dos disparos do inimigo, chegando ao ponto de muitas vezes duvidar de ter conseguindo tal proeza.&lt;/p&gt;
+
+&lt;p&gt;Por sua originalidade, desafio e qualidade técnica, Phoenix Force é um deleite para quem aprecia shoot ‘em up e um must-have para os fãs do gênero.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/ldhdq3oUiB8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;[sc:Review_rating pro1=”Gráficos criativos que fogem do padrão high-tech do gênero.” pro2=”Desafio crescente, o jogo começa leve até se tornar um bullet hell.” pro3=”Controles precisos, inclusive na versão mobile, onde é um desafio fazer shoot ‘em up palatáveis. “ con1=”Faltou uma tela antes da primeira aparição de cada chefão, mostrando seu nome e talvez sua história. Isso ajudaria na projeção do jogador, na imersão e também na hora de comentar com um amigo, pois falar ‘viu, eu derrotei o chefão com cara de caveira, asa de águia, roupa vermelha e lampião na mão’, complica muito a comunicação ;)” ]&lt;/p&gt;
+
+&lt;p&gt;O jogo multiplataforma está disponível para &lt;a href=&quot;https://itunes.apple.com/us/app/id904743508?mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
+, Android, &lt;a href=&quot;http://www.windowsphone.com/s?appid=90b9eae4-8f5d-453f-81c9-eb815dfab189&quot; target=&quot;_blank&quot;&gt;Windows Phone&lt;/a&gt;
+, &lt;a href=&quot;http://www.splitplay.com/pt/games/phoenix-force&quot; target=&quot;_blank&quot;&gt;SplitPlay&lt;/a&gt;
+ e &lt;a href=&quot;http://store.steampowered.com/app/332480&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tank Invaders atinge mais de 300 mil downloads</title>
+   <link href="http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads/"/>
+   <updated>2015-04-15T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
+   <content type="html">&lt;p&gt;Como diria o General Rogers: “Temos novidades do campo de batalha, soldado!”.&lt;/p&gt;
+
+&lt;p&gt;Na semana passada falamos de &lt;a href=&quot;/2015/04/08/tank-invaders&quot;&gt;Tank Invaders&lt;/a&gt;
+ da Mgaia Studio e parece que o game vem agradando os donos de dispositivos móveis, pois ele atingiu a marca de mais de 300.000 downloads desde seu lançamento.&lt;/p&gt;
+
+&lt;p&gt;A Mgaia tentou uma estratégia diferente de lançamento, iniciando o primeiro lançamento pelo Windows Phone e percebeu que ainda existe uma carência de jogos de qualidade naquela app store. Os dados abaixo demonstram que os usuários do OS da Microsoft realmente gostaram do jogo.&lt;/p&gt;
+
+&lt;p&gt;Downloads do game até o momento:&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #2</title>
+   <link href="http://example.com/2015/04/13/imagens-da-semana-2/"/>
+   <updated>2015-04-13T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/g1/status/585017153042194432&quot;&gt;O game de plataforma old-school Super Doomed’n Damned, desenvolvido pelo brasileiro Claudio Lins em parceria com uma empresa espanhola, deve ser lançado ainda em 2015 para Xbox One, Wii U e PC&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/CatNigiri/status/585081682451103745&quot;&gt;O gato-mascote-logo da brasileira Cat Nigiri apareceu como um easter egg no jogo em desenvolvimento Chroma Squad da também brasileira Behold Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/04/TorenTheMagician.jpg&quot;&gt;Na terceira imagem ficamos com outra bela arte do game Toren da Swordtales, agora é a vez de The Magician&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/SaeKawaii_xD/status/585863634879909888&quot;&gt;A equipe da Behold Studio lembrando da campanha para promover o lançamento do Chroma Squad no Thunderclap&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/585882344562814978&quot;&gt;A Reiza Studios lança seu game de corrida, o Copa Petrobras de Marcas, no Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/586603400860540928&quot;&gt;A Odin Game Studio liberou novas imagens do game em desenvolvimento Better Later Than Dead. Conheça mais no game no post Novos vídeos de Better late than DEAD e Police Tactics&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BigGreenPillow/status/586688542379810816&quot;&gt;A Big Green Pillow lança um novo update de seu game Porcunipine&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/narolol/status/587000919541342208&quot;&gt;Gabriel Naro, sound designer da Mgaia Studio, liberou uma screenshot do game Tiny Empire que ainda está em desenvolvimento e será lançado para iOS, Android e Windows Phone&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tank Invaders</title>
+   <link href="http://example.com/2015/04/08/tank-invaders/"/>
+   <updated>2015-04-08T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/08/tank-invaders</id>
+   <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;
+, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt;
+ e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt;
+ você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.&lt;/p&gt;
+
+&lt;p&gt;A melhor definição o estilo do game Tank Invaders da Mgaia Studio é o que a própria empresa dá: o único FPS shoot’em up.  A visão do jogo, como pode ser visto nas imagens e vídeo abaixo é no  estilo de clássicos shoot’em up, entretanto você não vê a sua “nave”, pois a visão é primeira pessoa, então chegamos a definição de estilo dado pelo Mgaia.&lt;/p&gt;
+
+&lt;p&gt;A jogabilidade de Tank Invaders funciona muito bem para a tela touch, pois é necessária muita agilidade para disparar nos diversos inimigos existentes no campo de visão, além de evitar acertar veículos de aliados e combinar power-ups para destruir tudo que está na tela.&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+
+&lt;p&gt;A Mgaia foi virtuosa na produção do game, desde os gráficos 3D que combinam muito bem com a ação, como a parte sonora que, além dos efeitos e da trilha, ainda possui personagens com vozes reais, como o General Rogers e a Tenente Miranda, dando aquele ar de filmes de ação dos anos 80/90. Em certas horas é como se estivéssemos num filme do Rambo.&lt;/p&gt;
+
+&lt;p&gt;O sistema de upgrades permite utilizar novas armas conforme o jogador avança pelo jogo e que ajudam naqueles momentos de sufoco. Todos os upgrades podem ser comprados com pontos adquiridos durante as batalhas, mesmo assim ainda existe a possibilidade de comprar esses mesmos pontos via in-app purchase.&lt;/p&gt;
+
+&lt;p&gt;Além das fases normais, ainda existem fases especiais que são liberadas através de um mecanismo de sorteio entre, modo de jogo, cenário, objetivo e premiação.&lt;/p&gt;
+
+&lt;p&gt;Em 2013 ganhou 3 prêmios na SBGames : Game Design (Mobile), Melhor Visual (Mobile) e Melhor Jogo Mobile.&lt;/p&gt;
+
+&lt;p&gt;Por todas suas qualidades técnicas e pela diversão que proporciona, Tank Invaders deveria figurar fácil nas lista de mais baixados das app stores onde está disponível.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/HO7L192oCqI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Gostou do game, então aproveite e baixe-o gratuitamente: &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;
+, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt;
+ e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Master of Words</title>
+   <link href="http://example.com/2013/05/20/master-of-words/"/>
+   <updated>2013-05-20T00:00:00-03:00</updated>
+   <id>http://example.com/2013/05/20/master-of-words</id>
+   <content type="html">&lt;p&gt;Deveria ter feito esse post sobre o &lt;a href=&quot;http://masterofwords.net/&quot; target=&quot;_blank&quot;&gt;Master of Words&lt;/a&gt;
+, da gaúcha &lt;a href=&quot;http://www.rockheadgames.com/&quot; target=&quot;_blank&quot;&gt;Rockhead Games&lt;/a&gt;
+, na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)&lt;/p&gt;
+
+&lt;p&gt;O game é basicamente um caça-palavras com uma pequena combinação da mecânica de Tetris. Difícil dizer a razão de um game tão simples ter me cativado tanto. Talvez a resposta esteja na pergunta: a genialidade está na simplicidade.&lt;/p&gt;
+
+&lt;p&gt;Você recebe uma grade de letras e precisa montar alguma palavra com ela, quanto maior a palavra mais pontos ganha, além disso as letras que possuem uma estrela dão mais pontos e se você ainda fizer uma palavra utilizando uma linha ou coluna completa, mais pontos também.&lt;/p&gt;
+
+&lt;p&gt;O jogo conta com power-ups, como embaralhador, estrelas cadentes, salve a bandeja e descongelar tudo.
+Um pequeno easter egg: tente escrever um &quot;palavrão&quot; e veja o som que faz ;)&lt;/p&gt;
+
+&lt;p&gt;Master of Words é simples e muito bem acabado. Uma das coisas mais legais é que você sempre joga online contra diversas pessoas ao redor do mundo que estão na mesma sala e no final consegue ver em que posição ficou na rodada. Os rankings de todos os jogadores podem ser acompanhados também pelo site do game: &lt;a href=&quot;http://masterofwords.net/rankings/&quot; target=&quot;_blank&quot;&gt;http://masterofwords.net/rankings/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Com todas as qualidades que tem e com seu grande fator de competição, graças ao multiplayer, Master of Words tem todo o potencial para ser um hit… talvez o próximo &quot;DrawSomething&quot;… o tempo dirá!&lt;/p&gt;
+
+&lt;p&gt;Master of Words está disponível gratuitamente para &lt;a href=&quot;https://itunes.apple.com/us/app/master-of-words/id580299053?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
+ e &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rockhead.master_of_words&amp;amp;hl=en&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
+.
+A Rockhead promente para breve uma versão Windows Phone.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

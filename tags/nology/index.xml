@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - nology</title>
+ <link href="http://example.com/tags/nology/index.xml" rel="self"/>
+ <link href="http://example.com/tag/nology.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/nology.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
+   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou/"/>
+   <updated>2010-12-13T00:00:00-02:00</updated>
+   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
+
+&lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
+&lt;h3 id=&quot;dentre-os-games-mais-citados-estão&quot;&gt;Dentre os games mais citados, estão:&lt;/h3&gt;
+
+&lt;h2 id=&quot;taikodom-da-hoplon-infotainment&quot;&gt;Taikodom da Hoplon Infotainment&lt;/h2&gt;
+&lt;p&gt;Provavelmente o maior game (em tempo de desenvolvimento e orçamento) já produzido no Brasil.&lt;/p&gt;
+
+&lt;h2 id=&quot;outlive-dacontinuum-entertainment&quot;&gt;Outlive da Continuum Entertainment&lt;/h2&gt;
+&lt;p&gt;A empresa não existe mais e o game já tem 10 anos, mesmo assim continua vivo na memória dos jogadores brasilieros.&lt;/p&gt;
+
+&lt;h2 id=&quot;freekscape-escape-from-hell-da-kidguru-studios&quot;&gt;Freekscape: Escape from Hell da Kidguru Studios&lt;/h2&gt;
+&lt;p&gt;O primeiro game brasileiro lançado na PSN cativou os jogadores com seu herói carismático e level design inteligente. Se você tem um PSP ou um PS3 (mini) esse é um game obrigatório.&lt;/p&gt;
+
+&lt;h2 id=&quot;erinia-da-ignis-games&quot;&gt;Erinia da Ignis Games&lt;/h2&gt;
+&lt;p&gt;O primeiro MMORPG brasileiro continua vivo graças a comunidade de jogadores que ainda mantém servidores do jogo.&lt;/p&gt;
+
+&lt;h2 id=&quot;jules-unboxing-the-world-da-sulistas&quot;&gt;Jules: Unboxing the World da Sulistas&lt;/h2&gt;
+&lt;p&gt;Com um personagem tão original e extrema qualidade técnica, Jules faz bonito no iPad (deve ganhar uma versão para iPhone).&lt;/p&gt;
+
+&lt;h3 id=&quot;as-empresas-com-mais-jogos-citados-foram&quot;&gt;As empresas com mais jogos citados foram&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.aquiris.com.br/pt/home/&quot; target=&quot;_blank&quot;&gt;Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.insolitastudios.com/pt/default.asp&quot; target=&quot;_blank&quot;&gt;Insolita Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.jynxplayware.com.br/&quot; target=&quot;_blank&quot;&gt;Jynx Playware&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Southlogic&quot; target=&quot;_blank&quot;&gt;Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.greenlandstudios.com/&quot; target=&quot;_blank&quot;&gt;Green Land Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.invent4.com/index-p.htm&quot; target=&quot;_blank&quot;&gt;Invent4&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.kidgurustudios.com/&quot; target=&quot;_blank&quot;&gt;KidGuru Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.webcoregames.com.br/&quot; target=&quot;_blank&quot;&gt;Webcore Games&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abaixo-a-lista-completa-dos-jogos-citados-começando-pelos-mais-votados&quot;&gt;Abaixo a lista completa dos jogos citados, começando pelos mais votados:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;ol&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.taikodom.com.br/&quot; target=&quot;_blank&quot;&gt;Taikodom da Hoplon Infotainment&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.continuum.com.br/&quot; target=&quot;_blank&quot;&gt;Outilive da Continnum Entertainment&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.freekscape.com/&quot; target=&quot;_blank&quot;&gt;Freekscape: Escape from Hell da KidGuru Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://erinia.com.br/&quot; target=&quot;_blank&quot;&gt;Erinia da Ignis da Games&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.julesunboxingtheworld.com/&quot; target=&quot;_blank&quot;&gt;Jules: Ungoxing the World da Sulistas&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.perceptum.com/indexp.htm&quot; target=&quot;_blank&quot;&gt;Incidente em Varginha da Perceptum&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Guimo&quot; target=&quot;_blank&quot;&gt;Guimo da Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.atari.com/games/deer_hunter_tournament&quot; target=&quot;_blank&quot;&gt;Deer Hunter Tournament da Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.ovnistudios.com/pt/colorrace&quot; target=&quot;_blank&quot;&gt;Fiat Uno Color Race da Ovni Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://dueltoys.com/&quot; target=&quot;_blank&quot;&gt;Duel Toys 2 de Diefox&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://capoeiralegends.com.br/&quot; target=&quot;_blank&quot;&gt;Capoeira Legends da Donsoft Entertainment&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.botzin.net&quot; target=&quot;_blank&quot;&gt;Botzin da Green Land Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.cavedays.net/&quot; target=&quot;_blank&quot;&gt;Cavedays da Insolita Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.invent4.com/razor2/index-p.htm&quot; target=&quot;_blank&quot;&gt;Razor2: Hidden Skies da Invent4&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/FutSim&quot; target=&quot;_blank&quot;&gt;FutSim da Jynx Playware&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.mylumaki.com/&quot; target=&quot;_blank&quot;&gt;Lumaki da KidGuru Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Deer_Hunter_2005&quot; target=&quot;_blank&quot;&gt;Deer Hunter 2005 da Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.baixaki.com.br/download/tensao-abaixo-de-zero.htm&quot; target=&quot;_blank&quot;&gt;Tensão abaixo de zero de André César Medeiros e Glauber Kotaki Rodrigues&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.cartoonnetwork.com/games/generatorrex/abysusarena/&quot; target=&quot;_blank&quot;&gt;Generator Rex - Abysus Arena da Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.aquiris.com.br/pt/games/detalhes/index.php?id=36&quot; target=&quot;_blank&quot;&gt;Desafio Pequim da Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.aquiris.com.br/pt/games/detalhes/index.php?id=2&quot; target=&quot;_blank&quot;&gt;Super Volei Brasil 1 da Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.aquiris.com.br/pt/games/detalhes/index.php?id=1&quot; target=&quot;_blank&quot;&gt;Super Volei Brasil 2 da Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.attackpinball.net/&quot; target=&quot;_blank&quot;&gt;Undead Attac da Attack Pinball Team&lt;/a&gt;
+&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.brasfoot.com/&quot; target=&quot;_blank&quot;&gt;Brasfoot da Brasfoot.com&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://bulletsofarevolver.blogspot.com/&quot; target=&quot;_blank&quot;&gt;Balas de um revolver de Diefox&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.domino-box.com/br/&quot; target=&quot;_blank&quot;&gt;Domino Box da Domino Box&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.espacoinf.com/hade.html&quot; target=&quot;_blank&quot;&gt;Hades 2 da Espaço Informática&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.flickgol.com/&quot; target=&quot;_blank&quot;&gt;FlickGol da FingerTips&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.graffitientertainment.com/index.php/games/hightechracing&quot; target=&quot;_blank&quot;&gt;HTR : High Tech Racing da Graffiti Entertainment&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Vampiromania&quot; target=&quot;_blank&quot;&gt;Vampiromania da Green Land Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://store.steampowered.com/app/33680/&quot; target=&quot;_blank&quot;&gt;Eversion de Guilherme S. Tows&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.icongames.com.br/fruzzle-pt.htm&quot; target=&quot;_blank&quot;&gt;Fruzzle da Icon Games&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.ilhadoempreendedor.com.br/&quot; target=&quot;_blank&quot;&gt;Ilha do Empreendedor da Insolita Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.ludopark.com.br/&quot; target=&quot;_blank&quot;&gt;Ludo Park da Insolita Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;Ottomax da Insolita Studios&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.invent4.com/rats/&quot;&gt;Bad Rats - The Rat's Revenge da Invent4&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://maisdiversao.fanta.com.br/figurinhas/#/-jogo&quot; target=&quot;_blank&quot;&gt;Fanta Crew da Jynx Playware&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.notdoppler.com/kokimi.php&quot; target=&quot;_blank&quot;&gt;Kokimi da Jynx Playware&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;Restaurant Manager da Jynx Playware&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.livetouch.com.br/Templates/portfolio_RiR.html&quot; target=&quot;_blank&quot;&gt;Run in Rio da Livetouch&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://studiominiboss.blogspot.com/&quot; target=&quot;_blank&quot;&gt;Talbot's Odissey da MiniBoss&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.mothergaia.com.br/portugues/cityrain.php&quot; target=&quot;_blank&quot;&gt;City Rain da Mother Gaia Studio&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.musigames.com/imusic-puzzle.html&quot; target=&quot;_blank&quot;&gt;iMusic Puzzle da MusiGames&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://sites.google.com/site/nologygames/koko-arena&quot; target=&quot;_blank&quot;&gt;Koko Arena da Nology&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.ovnistudios.com/pt/placarcup&quot; target=&quot;_blank&quot;&gt;Copa Placar da Ovni Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Deer_Hunter_2004&quot; target=&quot;_blank&quot;&gt;Deer Hunter 2004 da Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Mônica_no_Castelo_do_Dragão &quot; target=&quot;_blank&quot;&gt;Monica no castelo do Dragão da Tec Toy&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.thevelopers.webs.com/&quot; target=&quot;_blank&quot;&gt;Freakin' Color da The Velopers&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.indiepubgames.com/game/Painting_Rage&quot; target=&quot;_blank&quot;&gt;Painting Rage de Vinícius Canaã Medeiros Ruela e Luca Mattos Möller&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.webcore.com.br/portfolio/detalhes.php/surfinia&quot; target=&quot;_blank&quot;&gt;Surfini da Webcore&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://lasthopegame.wordpress.com/&quot; target=&quot;_blank&quot;&gt;Last Hope da Yellow Jam&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.webcoregames.com.br/case/gamefutebol_redeglobo.html&quot; target=&quot;_blank&quot;&gt;Game Futebol da Webcore&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.edesiopereira.com.br/jogos/lemonworld.htm &quot; target=&quot;_blank&quot;&gt;Lemon World de Alonso, Edésio P. Souza e Levi&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pretendemos realizar um post para a maioria dos jogos citados, de tempos em tempos você poderá conferí-los aqui, no jogosdaqui.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chip$ será lançado no Brasil</title>
+   <link href="http://example.com/2005/11/17/chip-sera-lancado-no-brasil/"/>
+   <updated>2005-11-17T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/17/chip-sera-lancado-no-brasil</id>
+   <content type="html">&lt;p&gt;O jogo &lt;a href=&quot;/2005/11/16/chip/&quot;&gt;Chip$&lt;/a&gt;
+ será lançado em breve no Brasil, informa Alexandre Perucia, co-fundador da Nology Software.&lt;/p&gt;
+
+&lt;p&gt;Enquanto Chip$ não é lançado por aqui, diverta-se com o jogo na versão lançada no exterior.&lt;/p&gt;
+
+&lt;p&gt;Chip$ pode ser acessado pelo Real One Arcade e como todos os jogos vendidos no Real, você tem o direito de testar durante 1 hora, antes de comprar o jogo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chip$</title>
+   <link href="http://example.com/2005/11/16/chip/"/>
+   <updated>2005-11-16T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/16/chip</id>
+   <content type="html">&lt;p&gt;Com duas opções de jogo, Chip$ oferece horas de pura diversão, combinando a emoção dos jogos de cassino com temas originais, repletos de gráficos vibrantes, som de primeira e desafios que exigem concentração e destreza.&lt;/p&gt;
+
+&lt;p&gt;Chip$ é diversão garantida para toda a família e o fácil acesso também é um grande convite para todos que apreciam jogos: junte quatro fichas da mesma cor e tente sua sorte na máquina de caça níqueis!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IN Games 2005/2</title>
+   <link href="http://example.com/2005/11/11/in-games-20052/"/>
+   <updated>2005-11-11T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/11/in-games-20052</id>
+   <content type="html">&lt;p&gt;O que você acha de sair da frente da sua tv, largar o controle do seu videogame, mudar de lado e vir conhecer o que rola por trás da criação de jogos eletrônicos e entender como são produzidos? Que tal conhecer as perspectivas de mercado e as possibilidades de se tornar um profissional do entretenimento digital?&lt;/p&gt;
+
+&lt;p&gt;Então… no próximo dia 17 de novembro, nocâmpus da Unisinos (São Leopoldo - RS) acontece o IN Games. Um evento que vai te colocar em contato com profissionais da área, professores e alunos do curso de Desenvolvimento de Jogos e Entretenimento Digital da Unisinos e demais convidados.&lt;/p&gt;
+
+&lt;h2 id=&quot;confira-a-programação&quot;&gt;Confira a programação:&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;9:00 Jogos na Academia&lt;/span&gt;
+Prof. Dr. Christian Hofsetz, coordenador do Curso Superior de
+Tecnologia em Desenvolvimento de Jogos e Entretenimento Digital.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;9:30 Novas Tecnologias para Jogos&lt;/span&gt;
+Prof. Maurício Bammann Gehling, professor do curso de jogos.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;10:15-10:30 Intervalo&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;10:30 Análise Técnica do Processo de Desenvolvimento de Jogos&lt;/span&gt;
+Roberto Ribeiro Castro Menezes, co-fundador e diretor de tecnologia
+da Zupple Games (atual) e também da Nology Softwares (até 2004)&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;11:15 Evolução e Perspectiva em Hardware Gráfico&lt;/span&gt;
+Dr. Rui Bastos, NVIDIA Corporation.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;12:15-13:40 Intervalo para Almoço&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;13:40 Apresentação do Curso de Jogos&lt;/span&gt;
+Prof. Dr. Christian Hofsetz, coordenador do Curso Superior de
+Tecnologia em Desenvolvimento de Jogos e Entretenimento Digital.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;14:00 Ferramentas para Desenvolvimento de Jogos 3D&lt;/span&gt;
+Prof. Dr . Esteban Walter Gonzalez Clua, coordenador do curso de
+jogos 3D da PUC-Rio.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;15:15-15:30 Intervalo&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;15:30 Jogos Online: Fundamentos e Desafios&lt;/span&gt;
+Prof. Dr. Marinho Barcellos, professor da computação na UNISINOS.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;16:15 Jogos Livres: Mito ou Realidade?&lt;/span&gt;
+Prof. M.Sc. João Bittencourt, professor do curso de jogos e Diretor
+Administrativo e Tecnológico da Ludens Artis.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;17:00 Encerramento e Festival de Jogos e Vídeos&lt;/span&gt;
+Encerrarmento e apresentação de jogos e vídeos produzidos por
+alunos e professores da UNISINOS.&lt;/p&gt;
+
+&lt;p&gt;O evento é aberto e gratuito e acontece no Auditório Sérgio Concli Gomes - Bloco 6I.&lt;/p&gt;
+
+&lt;p&gt;Não perca essa oportunidade. Contamos com sua presença.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.unisinos.br/graduacao_tecnologica/jogos/index.php?option=com_content&amp;amp;task=view&amp;amp;id=45&amp;amp;Itemid=138&amp;amp;menu_ativo=active_menu_sub&amp;amp;marcador=138&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;IN Games - O mundo dos games ao alcance da sua criação.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Informações:
+&lt;/span&gt;
+Linha Direta Unisinos - Fone/fax: (51) 3591.1122 - ramal: 1775
+e-mail: jogos@unisinos.br&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Super Popcorn Machine</title>
+   <link href="http://example.com/2005/09/23/super-popcorn-machine/"/>
+   <updated>2005-09-23T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/23/super-popcorn-machine</id>
+   <content type="html">&lt;p&gt;Você é capaz de estourar as pipocas de dois recipientes que estão em uma balança e mantê-los equilibrados ao mesmo tempo? Este é o grande desafio deste novo jogo de puzzle da Nology!&lt;/p&gt;
+
+&lt;p&gt;Muita diversão está esperando você nestes três incríveis modos de jogo. Tente encarar o ritmo divertido e veloz do modo Action e teste sua inteligência nos modos Puzzle e Strategy!&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Características e Benefícios:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Super Popcorn Machine é uma ótima opção de diversão para toda a família.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mais de 100 fases desafiantes além das fases especiais de bônus&lt;/li&gt;
+  &lt;li&gt;Três modos de jogo!&lt;/li&gt;
+  &lt;li&gt;Ranking mundial pela internet com as melhores pontuações&lt;/li&gt;
+  &lt;li&gt;Gráficos coloridos em tela cheia&lt;/li&gt;
+  &lt;li&gt;7 incríveis power ups!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Koko Arena</title>
+   <link href="http://example.com/2005/09/23/koko-arena/"/>
+   <updated>2005-09-23T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/23/koko-arena</id>
+   <content type="html">&lt;p&gt;Bem vindo ao mundo dos Kokos! Conheça esses seres cativantes, representantes de 16 países. Kokos são pequenas criaturas que não têm braços e, apesar de serem pequenos, eles têm grande capacidade de impulsão e adoram praticar esportes. No Koko Arena, você poderá disputar partidas de Kokoball, um esporte parecido com vôlei, onde só é permitido utilizar a cabeça.&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+
+&lt;p&gt;Existe também um campeonato, onde você terá que vencer todos os Kokos para ganhar o tão sonhado troféu KokoCup. O caminho não será fácil, pois nas partidas de Koko Arena são repletas de emoção e muita tensão. Muitos desafios estão por vir, como uma bola que explode, óleo na quadra e outros truques e trapaças que podem atrapalhar o seu caminho rumo ao título.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Características:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Jogabilidade Inovadora;
+Simplicidade: jogue apenas com o mouse!
+Dois tipos de jogo: Partida Simples ou Campeonato (Koko Cup);
+Campeonato com 15 partidas emocionantes;
+Partidas extremamente disputadas e tensas;
+Existem power ups que podem facilitar ou dificultar sua jogada, tornando a partida muito desafiadora e engraçada;
+16 Personagens cativantes e engraçados, representando diversos países;
+Visual atraente e divertido;
+Gráficos em tela cheia;
+7 arenas diferentes onde acontecem as disputas de Kokoball;
+Permite dois jogadores simultâneos! Desafie um amigo para uma partida eletrizante!
+Partidas com 3 Sets de 7 pontos.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JoKenPo</title>
+   <link href="http://example.com/2005/09/23/jokenpo/"/>
+   <updated>2005-09-23T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/23/jokenpo</id>
+   <content type="html">&lt;p&gt;Quem não conhece a famosa brincadeira pedra-papel-tesoura? Pois a Nology mais uma vez inovou e criou o JoKenPo, baseado no conceito desta brincadeira.
+Você será um dos personagens da trinca e seu objetivo é caçar todos os demais personagens que estão andando em um labirinto 3D. Se você for uma pedra, elimine as tesouras e fuja dos papéis. Cuidado: seus inimigos são muito espertos e estarão sempre atrás de você. Além disso, os labirintos estão cheios de armadilhas para surpreendê-lo!&lt;/p&gt;
+
+&lt;p&gt;JoKenPo é especialmente desenvolvido para a Diversão Fácil e Instantânea de toda a família!&lt;/p&gt;
+
+&lt;p&gt;Convide seus amigos e divirta-se!&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Características:&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Personagens animados em 3D da Pedra, Papel e Tesoura.
+Incríveis labirintos com gráficos 3D, repleto de desafios e surpresas.
+30 diferentes níveis onde os desafios aumentam progressivamente.
+Simples de jogar: utiliza apenas as teclas de direção do teclado ou joystick (cima, baixo, esquerda, direita).
+Fácil de aprender, porém difícil de superar.
+Três modos de dificuldade: fácil, normal e difícil.
+Visual atraente e divertido.
+Gráficos em tela cheia super coloridos e animados.
+Trilha sonora divertida e envolvente.
+Suporte para jogar com o teclado ou joystick.
+Suporte para salvar e carregar o jogo do ponto onde você parou.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

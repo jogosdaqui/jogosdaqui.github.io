@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - sbt</title>
+ <link href="http://example.com/tags/sbt/index.xml" rel="self"/>
+ <link href="http://example.com/tag/sbt.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/sbt.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Checkpoint #7</title>
+   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <updated>2015-05-22T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/22/checkpoint-7</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/14/demo-reel-da-odin-game-studio/&quot;&gt;Confira o demo reel da Odin Game Studio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/59881149598891622&quot;&gt;A Reiza Studios mostra em vídeo a pista de Kansai do Japão que entrará na próxima atualização de seu game de corrida Stock Car Extreme&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/protomni/status/60009745367793254&quot;&gt;Protomini Multimedia e a nova música Piña Colada para seu retrogame Bernie Needs Love&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games&quot;&gt;A gaúcha Rockhead Games lança Starlit Adventures, mobile game com jogabilidade e gráficos inspirados nos games da Nintendo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic/&quot;&gt;Novo vídeo de gameplay do game Gryphon Knight Epic da Cyber Rhino Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.sbt.com.br/jornalismo/noticias/52912/Mercado-de-videogame-dribla-a-crise-e-segue-em-alta.html#.VV--SFlVik&quot;&gt;Matéria no Jornal do SBT sobre o mercado de games mostra Chroma Squad da Behold Studios, com direito a entrevista com Betu Souza, diretor de arte do game&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao/&quot;&gt;Iniciou na terça-feira o XIII SEJA (Semana de Entretenimento, Jogos e Animação) na PUC de Minas Gerais&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/16/crystal-catcher-ganha-versao-para-android/&quot;&gt;Crystal Catcher da Crazy Mind Studios ganha versão para Android&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://distortions.co/producao/2015/05/13/we-are-still-alive&quot;&gt;Equipe do game Distorções faz um ótimo e sincero post sobre todas os desafios que já enfrentaram&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/20/sky-high-chickens/&quot;&gt;Conheça o game Sky High Chickens da Little Leds&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;11&quot;&gt;#11&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker, Momodorra III, Odallus, Magenta Arcade e Toren são os 5 games brasileiros finalistas do BIG Festival&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;12&quot;&gt;#12&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/18/playthrough-chroma-squad-tactical-rpg-001/&quot;&gt;Galera do Insert Coins relembra a infância jogando o Chroma Squad&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;13&quot;&gt;#13&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/19/previa-de-cannibal-da-gametek/&quot;&gt;Prévia do game Cannibal da indie brasileira GameTek&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;14&quot;&gt;#14&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/&quot;&gt;Entrevistamos Fernando Paulo, criador do game Treeker: Os Óculos Perdidos&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;15&quot;&gt;#15&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/20/novidades-de-horizon-chase/&quot;&gt;Novidades sobre o game Horizon Chase&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;16&quot;&gt;#16&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/raphaelbaldi/status/60036366150969753&quot;&gt;O gamedev Raphael Baldi da Aquiris Game Studio faz um post mostrando a evolução do FPS da empresa, desde seu protótipo com o nome Critical Mass até a atual versão em desenvolvimento Ballistic Overkill&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;17&quot;&gt;#17&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/21/porcunipine-lancado-no-steam/&quot;&gt;O party game Porcunipine da Big Green Pillow é lançado no Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;18&quot;&gt;#18&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual/&quot;&gt;A ThinkBox Games testa realidade virtual com Ocullus Rift e Kinect&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;19&quot;&gt;#19&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/600664689119375360&quot;&gt;O game Better Later than DEAD da Odin Game Studio ganha sua página de early access no Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;20&quot;&gt;#20&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game&quot;&gt;A equipe de desenvolvimento de Ballistic Overkill fala sobre o game e tira dúvidas dos jogadores&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;21&quot;&gt;#21&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/ContraLabs/posts/859373260795515&quot;&gt;Galera da Contra Labs comentando sobre o evento Gamepólitan 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;22&quot;&gt;#22&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=661008807365295&quot;&gt;Renato Degiovani anuncia a versão de Amazônia preparada para os navegadores mobile&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;23&quot;&gt;#23&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/duaikdev/posts/822557824501578&quot;&gt;Duak Entertainment portando o game Aritana para o Xbox One&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Novos jogos da Green Land Studios</title>
+   <link href="http://example.com/2005/12/22/novos-jogos-da-green-land-studios/"/>
+   <updated>2005-12-22T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/22/novos-jogos-da-green-land-studios</id>
+   <content type="html">&lt;p&gt;A Green Land Studios lançou dois novos jogos: Bate-Rebate e Dominó Chinês.&lt;/p&gt;
+
+&lt;p&gt;Os dois jogos são distribuídos pelo SBT através do site &lt;a href=&quot;http://www.sbtdiversao.com.br&quot; target=&quot;_blank&quot;&gt;SBT Diversão&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Você já pode conferir os dois jogos na galeria do jogosdaqui: &lt;a href=&quot;/2005/12/22/bate-rebate/&quot;&gt;Bate-Rebate&lt;/a&gt;
+ e &lt;a href=&quot;/2005/12/22/domino-chines/&quot;&gt;Dominó Chinês&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dominó Chinês</title>
+   <link href="http://example.com/2005/12/22/domino-chines/"/>
+   <updated>2005-12-22T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/22/domino-chines</id>
+   <content type="html">&lt;h2 id=&quot;dominó-chinês&quot;&gt;Dominó Chinês&lt;/h2&gt;
+&lt;p&gt;Difere do dominó clássico, onde o jogador deve colocar em sequência peças que possuem extremidades iguais. No jogo chinês as peças são desempilhadas e são feitas combinações com outras peças para avançar. Quando é feita a combinação correta o par de peças é eliminado.&lt;/p&gt;
+
+&lt;p&gt;O jogador pode utilizar dos recursos 3D do jogo para melhor visualizar as peças no tabuleiro.&lt;/p&gt;
+
+&lt;p&gt;O Dominó Chinês da &lt;a href=&quot;http://www.greenlandstudios.com/&quot; target=&quot;_blank&quot;&gt;Green Land Studio&lt;/a&gt;
+ possui 3 modos de jogo: Jardim, Templo e Lago. Como os outros jogos do SBT Diversão, o game tem um ranking online onde o jogador pode disputar as melhores pontuações com outros jogadores.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bate-Rebate</title>
+   <link href="http://example.com/2005/12/22/bate-rebate/"/>
+   <updated>2005-12-22T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/22/bate-rebate</id>
+   <content type="html">&lt;p&gt;Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D.&lt;/p&gt;
+
+&lt;p&gt;Utilizando das muitas possibilidades que as novas dimensões trazem ao jogo, o estilo Arkanoid ganha um novo fôlego e inúmeras novas combinações para a jogabilidade, um exemplo disto são as fases onde vários blocos estão empilhados, algo impossível em jogos 2D do mesmo estilo.&lt;/p&gt;
+
+&lt;p&gt;Mas gráfico não é tudo e a Green Land Studios sabe muito bem disso, pois criou mais de 50 fases com vários bônus que possibilitam muitos poderes a nave rebatedora, aliás o jogo tem 3 naves rebatedoras diferentes a sua escolha. Os poderes variam de esferas mais lentas até armas para equipar a sua nave para destruir os blocos mais rapidamente.&lt;/p&gt;
+
+&lt;p&gt;Bate-Rebate é diversão garantida para os fãs do estilo Arkanoid.&lt;/p&gt;
+
+&lt;p&gt;Para jogar Bate-Rebate basta acessar o portal &lt;a href=&quot;http://www.sbtdiversao.com.br/Jogos/JogoDetalhar.aspx?IdJogo=7&quot; target=&quot;_blank&quot;&gt;SBT Diversão&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Show do Milhão Júnior</title>
+   <link href="http://example.com/2005/09/28/show-do-milhao-junior/"/>
+   <updated>2005-09-28T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/28/show-do-milhao-junior</id>
+   <content type="html">&lt;p&gt;Todas as emoções do programa de televisão “Show do Milhão” do SBT com Silvio Santos estão neste cd.&lt;/p&gt;
+
+&lt;p&gt;As perguntas são narradas pelo próprio Silvio Santos, e as respostas são ilustradas, permitindo que a criança jogue sozinha ou acompanhada de seus pais.&lt;/p&gt;
+
+&lt;p&gt;Os recursos disponíveis na TV também estão nesse jogo, e o jogador poderá pedir ajuda às cartas, à plateia, aos alunos, ou ainda pular 3 vezes para alcançar a premiação máxima de 1 Milhão de reais (fictícia)…. jogue com seus colegas e desafie Silvio Santos no Show do Milhão Junior!
+Com Certeza você também será um vencedor!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Show do Milhão Colecionador</title>
+   <link href="http://example.com/2005/09/20/show-do-milhao-colecionador/"/>
+   <updated>2005-09-20T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/20/show-do-milhao-colecionador</id>
+   <content type="html">&lt;p&gt;Todas as emoções do programa de televisão &quot;&lt;span style=&quot;font-weight: bold;&quot;&gt;Show do Milhão&lt;/span&gt;&quot; do SBT agora com as 4 edições em um só CD num total de 9000 perguntas. Brinque com &lt;span style=&quot;font-weight: bold;&quot;&gt;Silvio Santos&lt;/span&gt; no jogo mais excitante da TV Brasileira.&lt;/p&gt;
+
+&lt;p&gt;Os recursos disponíveis na TV também estão nesse jogo, e o jogador poderá pedir ajuda às cartas, à platéia, aos universitários, ou ainda pular três perguntas para alcançar a pontuação máxima de R$ 1.000.000,00 (fictícia)…&lt;/p&gt;
+
+&lt;p&gt;Desafie Silvio Santos no Show do Milhão!&lt;/p&gt;
+
+&lt;p&gt;Os prêmios conquistados durante as partidas são fictícios e meramente ilustrativos, não havendo forma real de premiação ou gratificação aos jogadores.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

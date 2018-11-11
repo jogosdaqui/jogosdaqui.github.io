@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - reality-show</title>
+ <link href="http://example.com/tags/reality-show/index.xml" rel="self"/>
+ <link href="http://example.com/tag/reality-show.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/reality-show.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Meu Big Brother</title>
+   <link href="http://example.com/2005/10/18/meu-big-brother/"/>
+   <updated>2005-10-18T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/18/meu-big-brother</id>
+   <content type="html">&lt;p&gt;Meu Big Brother é um jogo baseado no reality show de maior audiência da televisão brasileira: Big Brother Brasil. O jogo interage em tempo real com o programa, podendo ser influenciado pelos eventos da casa. Os jogadores devem escolher um big brother para tomar conta, mantendo-o sempre limpo, bem-humorado, dando presentes ou punindo-o quando eles não estiverem se comportando.&lt;/p&gt;
+
+&lt;p&gt;Se o personagem for deixado de lado, ele abandonará o jogador, que perderá pontos. Como o jogo usa um sistema cliente-servidor, o participante poderá ler notícias, responder quizzes, votar em dia de paredão e atualizar o status do seu personagem.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Big Brother Brasil</title>
+   <link href="http://example.com/2005/09/19/big-brother-brasil/"/>
+   <updated>2005-09-19T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/19/big-brother-brasil</id>
+   <content type="html">&lt;p&gt;O jogo Big Brother Brasil foi baseado no programa de televisão de grande sucesso em vários países do mundo e que também teve um grande sucesso pelas ondas da Rede Globo.&lt;/p&gt;
+
+&lt;p&gt;O jogador pode entrar neste &quot;virtual reality show&quot; como um dos 12 personagens disponíveis, cada um com suas próprias características pessoais.&lt;/p&gt;
+
+&lt;p&gt;O jogo segue as mesmas regras do programa de TV, onde os participantes se relacionam dentro de uma casa, lutando para não serem eliminados pelo público.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Big Brother Brasil 3D On-Line</title>
+   <link href="http://example.com/2005/09/19/big-brother-brasil-3d-on-line/"/>
+   <updated>2005-09-19T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/19/big-brother-brasil-3d-on-line</id>
+   <content type="html">&lt;p&gt;Bem vindo ao BBB OnLine, como no programa de grande audiência em todo Brasil, você vai interagir online, em tempo real, com outros participantes da casa.&lt;/p&gt;
+
+&lt;p&gt;Agora as emoções são reais e ao vivo, você vai poder conhecer melhor os participantes da casa, namorar, fazer complôs, se divertir e participar das provas de escolha do líder da semana.&lt;/p&gt;
+
+&lt;p&gt;Escolha seu personagem e configure suas características pessoais, mude seu humor, companheirismo e carisma.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

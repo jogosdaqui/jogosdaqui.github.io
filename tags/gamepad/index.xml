@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - gamepad</title>
+ <link href="http://example.com/tags/gamepad/index.xml" rel="self"/>
+ <link href="http://example.com/tag/gamepad.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/gamepad.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Checkpoint #8</title>
+   <link href="http://example.com/2015/05/29/checkpoint-8/"/>
+   <updated>2015-05-29T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/29/checkpoint-8</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/updates/25536644&quot;&gt;Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60294397640509849&quot;&gt;A Aquiris Game Studio apresentando seu time de desenvolvimento, agora é a vez do Sound/motion designer Giovane Webster&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2012/10/30/crystal-catcher/#traile&quot;&gt;Conheça um pouco mais do game Crystal Catcher da Crazy Mind Studios com este trailer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia&quot;&gt;Começa hoje O VIII GAMEPAD – Seminário de Games e Tecnologia que contará com apresentação de papers, mostra de jogos, palestras e workshops&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/26/previa-de-alkimya-da-bad-minions&quot;&gt;Nossa prévia do game Alkimya da Bad Minions, com direito a consultoria de Isaac Newton&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticGame/status/603268164554723328&quot;&gt;O game Ballistic da Aquiris tem sua trilha sonora liberada publicamente no SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/BadMinions/posts/866625280057757&quot;&gt;Pessoal da Bad Minions comemorando a seleção do jogo Alkimya entre os 8 games que participarão do BIG Starter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/603650929519415297&quot;&gt;Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/27/fan-arts-de-toren-da-swordtales/&quot;&gt;Veja nossa coletânea de fan arts do game Toren&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/28/carcara-asas-da-justica/&quot;&gt;Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>VIII Gamepad – Seminário de Games e Tecnologia</title>
+   <link href="http://example.com/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia/"/>
+   <updated>2015-05-23T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia</id>
+   <content type="html">&lt;p&gt;O VIII GAMEPAD – Seminário de Games e Tecnologia contará com apresentação de papers, mostra de jogos, palestras e workshops.&lt;/p&gt;
+
+&lt;p&gt;Dentre os palestrantes teremos: Cristiano Silva da Samsung, Tiago Rech e Klos Cunha da Ottus Game Studio falando do game &lt;a href=&quot;/2015/03/25/teaser-de-fragmentorum-alba/&quot;&gt;Fragmentorum Alba&lt;/a&gt;
+, Ronaldo de Azevedo do canal Gato Galáctico e Agustín Cordes falando do desenvolvimento do &lt;a href=&quot;http://www.senscape.net/asylum/&quot; target=&quot;_blank&quot;&gt;game Asylum&lt;/a&gt;
+.&lt;/p&gt;
+&lt;h2 id=&quot;confira-a-programação-completa-do-viii-gamepad&quot;&gt;Confira a programação completa do VIII Gamepad&lt;/h2&gt;
+&lt;h2 id=&quot;2905---sexta-feira&quot;&gt;29/05 - Sexta-feira:&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;9h – Credenciamento&lt;/li&gt;
+	&lt;li&gt;9h30min– Apresentação de papers (Coordenação Luís Carlos Petry - PUC-SP)&lt;/li&gt;
+	&lt;li&gt;12h30min – Almoço&lt;/li&gt;
+	&lt;li&gt;14h – Abertura – Fala institucional e ADJOGOS-RS&lt;/li&gt;
+	&lt;li&gt;14h30min – Mostra de Jogos&lt;/li&gt;
+	&lt;li&gt;17h – Intervalo&lt;/li&gt;
+	&lt;li&gt;18h – Palestra 1 – Cristiano Silva - Samsung&lt;/li&gt;
+	&lt;li&gt;18h40min – Palestra 2 –Tiago Rech e Klos Cunha – Ottus Game Studio – Fragmentorum&lt;/li&gt;
+	&lt;li&gt;19h25min – Palestra 3 – Ronaldo de Azevedo – Gato Galáctico – Cuieo&lt;/li&gt;
+	&lt;li&gt;20h15min – Mesa Redonda – Monsterbed, Epopeia, Grimm e Incubadora Feevale. Mediação: Sandro Manfredini – ABRAGAMES&lt;/li&gt;
+	&lt;li&gt;21h – Palestra 4 – Agustín Cordes – Senscape – Desenvolvimento de Asylum&lt;/li&gt;
+	&lt;li&gt;21h50min – Encerramento / Resultado da Mostra&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;3005---sábado&quot;&gt;30/05 - Sábado:&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;9h – Workshop 1 – Produção de Áudio Dinâmico&lt;/li&gt;
+	&lt;li&gt;10h – Workshop 2 – Otimização de Programação&lt;/li&gt;
+	&lt;li&gt;11h – Workshop 3 – Substance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;dados-do-evento&quot;&gt;Dados do evento&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;: VIII Gamepad&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;: 29/05/15 das 9h às 22h e 30/05/15 das 9h às 12h&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;: Auditório do Prédio Azul - Câmpus II da Feevale (Rio Grande do Sul)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Público alvo&lt;/strong&gt;: Acadêmicos do Curso de Jogos Digitais e áreas relacionadas (TI, Design, Artes Visuais e Comunicação), empresários e pesquisadores em áreas relacionadas com games&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Custo&lt;/strong&gt;: 2 x de R$ 80,00 ou à vista: R$ 160,00&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mais detalhes&lt;/strong&gt;: &lt;a href=&quot;http://www.feevale.br/ensino/cursos-e-eventos/viii-gamepad-seminario-de-games-e-tecnologia&quot;&gt;http://www.feevale.br/ensino/cursos-e-eventos/viii-gamepad-seminario-de-games-e-tecnologia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+</feed>

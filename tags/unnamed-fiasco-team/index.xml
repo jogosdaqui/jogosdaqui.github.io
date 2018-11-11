@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - unnamed-fiasco-team</title>
+ <link href="http://example.com/tags/unnamed-fiasco-team/index.xml" rel="self"/>
+ <link href="http://example.com/tag/unnamed-fiasco-team.html"/>
+ <updated>2018-11-11T20:24:36-02:00</updated>
+ <id>http://example.com/tag/unnamed-fiasco-team.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Prévia de Unnamed Fiasco</title>
+   <link href="http://example.com/2015/07/07/previa-de-unnamed-fiasco/"/>
+   <updated>2015-07-07T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/07/previa-de-unnamed-fiasco</id>
+   <content type="html">&lt;p&gt;No filme Edge of Tomorrow (No Limite do Amanhã) de 2014 baseado na série de light novels All You Need Is Kill de Hiroshi Sakurazaka, o personagem de Tom Cruise, além de correr quase todo o filme como já é de praxe dos personagens do ator, também entra em contato com o sangue dos aliens inimigos e ganha a capacidade de controlar o tempo, mas de uma forma bem peculiar, toda vez que morre, acaba revivendo o mesmo dia.&lt;/p&gt;
+
+&lt;p&gt;Agora imagine que ao invés de reviver o mesmo dia, toda vez que você morresse um clone seu seria criado e mimetizaria seu comportamento anterior no campo de batalha? Essa é a premissa do gameplay do game em desenvolvimento &lt;a href=&quot;http://unnamedfiasco.com/&quot; target=&quot;_blank&quot;&gt;Unnamed Fiasco&lt;/a&gt;
+ da Unnamed Fiasco Team de Niterói/RJ.&lt;/p&gt;
+
+&lt;h2 id=&quot;unnamed-fiasco&quot;&gt;Unnamed Fiasco&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;É um jogo multiplayer local para até quatro jogadores onde a principal mecânica é a possibilidade de fazer coop consigo mesmo. Toda vez que um jogador morre, um clone seu é criado repetindo suas ações passadas e o ajudando conforme a partida avança. O que gera disputas caóticas com dezenas de personagens na tela ao mesmo tempo! (afirma Diego Barboza, desenvolvedor do game)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Segundo a equipe de desenvolvimento o jogo utiliza o conceito de “auto cooperação” combinado com o Minute Madness, um modificador que ativa efeitos aleatórios para modificar a partida e assim cria um ambiente caótico e divertido de multiplayer local.&lt;/p&gt;
+
+&lt;h2 id=&quot;trailer-do-anúncio-na-e3&quot;&gt;Trailer do anúncio na E3&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/c72_bKcPe1w &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;O Unnamed Fiasco tem previsão de ser lançado até o fim do ano.
+As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=328101399&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
+ e outras lojas digitais, e o Xbox One através do programa ID@Xbox.&lt;/p&gt;
+
+&lt;h2 id=&quot;trailer-de-unnamed-fiasco&quot;&gt;Trailer de Unnamed Fiasco&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/IyG5rGC_L4w &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>
