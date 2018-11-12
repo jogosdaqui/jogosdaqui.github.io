@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - simpleware-games</title>
+ <link href="http://example.com/tags/simpleware-games/index.xml" rel="self"/>
+ <link href="http://example.com/tag/simpleware-games.html"/>
+ <updated>2018-11-12T21:48:58-02:00</updated>
+ <id>http://example.com/tag/simpleware-games.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Petrakas Malabares</title>
+   <link href="http://example.com/2006/06/28/petrakas-malabares"/>
+   <updated>2006-06-28T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/28/petrakas-malabares</id>
+   <content type="html">&lt;p&gt;Em Petrakas Malabares o jogador se tornará um talentoso malabarista. O objetivo é controlar o personagem e tentar equilibrar o maior número de pedras no menor tempo possível, pois o jogador precisa ser rápido antes que o tempo acabe.&lt;br /&gt;&lt;br /&gt;Praticando malabarismo com um homem das cavernas, a diversão está garantida.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

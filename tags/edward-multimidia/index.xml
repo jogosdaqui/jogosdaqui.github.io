@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - edward-multimidia</title>
+ <link href="http://example.com/tags/edward-multimidia/index.xml" rel="self"/>
+ <link href="http://example.com/tag/edward-multimidia.html"/>
+ <updated>2018-11-12T21:48:58-02:00</updated>
+ <id>http://example.com/tag/edward-multimidia.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Play Gool</title>
+   <link href="http://example.com/2006/08/03/play-gool"/>
+   <updated>2006-08-03T00:00:00-03:00</updated>
+   <id>http://example.com/2006/08/03/play-gool</id>
+   <content type="html">&lt;p&gt;Um jogo de futebol, baseado na formula pênalti, aonde se tem como adversário o goleiro, a cada novo nível o goleiro vai ficando mais rápido e abilidoso, cabe a você tentar acompanhar o ritmo dele e superá-lo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Grand Pri</title>
+   <link href="http://example.com/2006/07/25/grand-pri"/>
+   <updated>2006-07-25T00:00:00-03:00</updated>
+   <id>http://example.com/2006/07/25/grand-pri</id>
+   <content type="html">&lt;p&gt;Grand Prix trata-se de um jogo simples de corrida para celular baseado em tempo e voltas aonde se tem o tempo e número de voltas como fator determinante para se vencer, o mais dificil no jogo é controlar o carro nas curvas por causa da derrapagem e saber acelerar e brecar nos momentos certos para não se perder tempo, existe caixas de britas e peneus para amortecer os impactos das batidas, mas se perde muito tempo qdo isto acontece.&lt;br /&gt;&lt;br /&gt;Além de funcionar para celular, o jogo também possui uma versão gratuita para rodar direto do seu navegador WEB.&lt;br /&gt;&lt;a href=&quot;http://www.edward.art.br/grandpri.html&quot;&gt;http://www.edward.art.br/grandpri.html&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Castle Ghost</title>
+   <link href="http://example.com/2006/03/13/castle-ghost"/>
+   <updated>2006-03-13T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/13/castle-ghost</id>
+   <content type="html">&lt;p&gt;Em Castle Ghost você é um ser mascarado que deve enfrentar diversos desafios através das várias fases do jogo, armado apenas com duas pernas de pau. Como os bons clássicos do estilo plataforma o objetivo de Castle Ghost é chegar ao final de cada fase atravesando muitas plataformas e evitando diversos inimigos.&lt;br /&gt;&lt;br /&gt;O desafio é crescente. Nas primeiras fases, quase não existem inimigos e as plataformas são simples, mas a cada fase avançada, mais inimigos estão no cenário para atrapalhar o herói a chegar ao seu destino. As plataformas tornam-se mais perigosas, com mais fogo e grandes vácuos entre elas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

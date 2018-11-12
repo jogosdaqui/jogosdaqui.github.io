@@ -3,7 +3,7 @@
  <title>Your Title - ios</title>
  <link href="http://example.com/tags/ios/index.xml" rel="self"/>
  <link href="http://example.com/tag/ios.html"/>
- <updated>2018-11-12T18:41:41-02:00</updated>
+ <updated>2018-11-12T21:48:58-02:00</updated>
  <id>http://example.com/tag/ios.html</id>
  <author>
    <name>Author Here</name>
@@ -581,7 +581,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
 
 &lt;p&gt;Para quem curte um endless runner, Crystal Catcher é uma ótima pedida.&lt;/p&gt;
 
-&lt;h2 id=&quot;vídeo-de-crystal-catcher&quot;&gt;Vídeo de Crystal Catcher&lt;/h2&gt;
+&lt;h2 id=&quot;vídeo-de-crystal-catcher&quot;&gt;Vídeo de Crystal Catcher##&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/NwI9T9ooMKE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;

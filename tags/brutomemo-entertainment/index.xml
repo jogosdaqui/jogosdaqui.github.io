@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - brutomemo-entertainment</title>
+ <link href="http://example.com/tags/brutomemo-entertainment/index.xml" rel="self"/>
+ <link href="http://example.com/tag/brutomemo-entertainment.html"/>
+ <updated>2018-11-12T21:48:58-02:00</updated>
+ <id>http://example.com/tag/brutomemo-entertainment.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Druids: Battle of Magic</title>
+   <link href="http://example.com/2006/06/20/druids-battle-of-magic"/>
+   <updated>2006-06-20T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/20/druids-battle-of-magic</id>
+   <content type="html">&lt;p&gt;O objetivo em Druids: Battle of Magic é seguir o rastro do ladrão do livro mágico, para isso quebrando as caixas de madeira e romper campos de força trocando as peças das casas do tabuleiro de modo fazer combinações mágicas de peças na vertical e horizontal. O Jogo conta com mais de 100 fases, cada um com desenho de tabuleiro diferente e ainda um editor de fases para criação de mais fases.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

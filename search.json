@@ -3,7 +3,7 @@
     {
       "title"    : "Mikura Going Home",
       "category" : "",
-      "tags"     : "ios, android, mikura, video",
+      "tags"     : "ios, android, video, quadro-a-quadro",
       "url"      : "/2015/11/11/mikura-going-home",
       "date"     : "2015-11-11 00:00:00 -0200"
     } ,
@@ -27,7 +27,7 @@
     {
       "title"    : "Side Quest da Miris Mind no Greenlight",
       "category" : "",
-      "tags"     : "linux, mac, steam, video, greenlight",
+      "tags"     : "linux, mac, steam, video, greenlight, miris-mind",
       "url"      : "/2015/10/23/side-quest-da-miris-mind-no-greenlight",
       "date"     : "2015-10-23 00:00:00 -0200"
     } ,
@@ -139,7 +139,7 @@
     {
       "title"    : "Games brasileiros em crowdfunding",
       "category" : "",
-      "tags"     : "rpg, video, mopix, overlord, qubyte-interactive, double-dash, crowdfunding",
+      "tags"     : "rpg, video, mopix, overlord-game-studio, qubyte-interactive, double-dash, crowdfunding",
       "url"      : "/2015/08/29/games-brasileiros-em-crowdfunding",
       "date"     : "2015-08-29 00:00:00 -0300"
     } ,
@@ -427,7 +427,7 @@
     {
       "title"    : "Prévia de My Night Job da Webcore Games",
       "category" : "",
-      "tags"     : "steam, webcore, video, ps4, xbox-one, xbox, big-festival, evento, big-starter, preview",
+      "tags"     : "steam, webcore, video, ps4, xbox-one, xbox, big-festival, evento, big-starter, preview, quadro-a-quadro",
       "url"      : "/2015/06/10/previa-de-my-night-job-da-webcore-games",
       "date"     : "2015-06-10 00:00:00 -0300"
     } ,
@@ -1747,7 +1747,7 @@
     {
       "title"    : "Industrial Imperialism",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2011/04/20/industrial-imperialism",
       "date"     : "2011-04-20 00:00:00 -0300"
     } ,
@@ -1995,7 +1995,7 @@
     {
       "title"    : "Plush Poison",
       "category" : "",
-      "tags"     : "imax, games",
+      "tags"     : "imax-games",
       "url"      : "/2007/01/18/plush-poison",
       "date"     : "2007-01-18 00:00:00 -0200"
     } ,
@@ -2003,7 +2003,7 @@
     {
       "title"    : "Menininhas",
       "category" : "",
-      "tags"     : "imax, games",
+      "tags"     : "imax-games",
       "url"      : "/2007/01/17/menininhas",
       "date"     : "2007-01-17 00:00:00 -0200"
     } ,
@@ -2019,7 +2019,7 @@
     {
       "title"    : "Ajude o fazendeiro em Bunny Smash",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2007/01/17/ajude-o-fazendeiro-em-bunny-smash",
       "date"     : "2007-01-17 00:00:00 -0200"
     } ,
@@ -2083,7 +2083,7 @@
     {
       "title"    : "Bunny Smash",
       "category" : "",
-      "tags"     : "palmsoft, tecnologia",
+      "tags"     : "palmsoft-tecnologia",
       "url"      : "/2006/11/10/bunny-smash",
       "date"     : "2006-11-10 00:00:00 -0200"
     } ,
@@ -2115,7 +2115,7 @@
     {
       "title"    : "Jogos da PalmSoft na BrT GSM e Oi",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/09/22/jogos-da-palmsoft-na-brt-gsm-e-oi",
       "date"     : "2006-09-22 00:00:00 -0300"
     } ,
@@ -2155,7 +2155,7 @@
     {
       "title"    : "Thoroughbred Tycoon",
       "category" : "",
-      "tags"     : "espaço, informática",
+      "tags"     : "espaco-informatica",
       "url"      : "/2006/09/12/thoroughbred-tycoon",
       "date"     : "2006-09-12 00:00:00 -0300"
     } ,
@@ -2203,7 +2203,7 @@
     {
       "title"    : "Prévia de A Zombie Nightmare",
       "category" : "",
-      "tags"     : "palmsoft, mobile, preview",
+      "tags"     : "palmsoft-tecnologia, mobile, preview",
       "url"      : "/2006/09/01/previa-de-a-zombie-nightmare",
       "date"     : "2006-09-01 00:00:00 -0300"
     } ,
@@ -2211,7 +2211,7 @@
     {
       "title"    : "A Zombie Nightmare",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/09/01/a-zombie-nightmare",
       "date"     : "2006-09-01 00:00:00 -0300"
     } ,
@@ -2283,7 +2283,7 @@
     {
       "title"    : "Cat Fighters",
       "category" : "",
-      "tags"     : "palmsoft, tecnologia",
+      "tags"     : "palmsoft-tecnologia",
       "url"      : "/2006/08/04/cat-fighters",
       "date"     : "2006-08-04 00:00:00 -0300"
     } ,
@@ -2291,7 +2291,7 @@
     {
       "title"    : "Cat Fighters, novo Lançamento da PalmSoft",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/08/04/cat-fighters-novo-lancamento-da-palmsoft",
       "date"     : "2006-08-04 00:00:00 -0300"
     } ,
@@ -2299,7 +2299,7 @@
     {
       "title"    : "Play Gool",
       "category" : "",
-      "tags"     : "edward, multimídia",
+      "tags"     : "edward-multimidia",
       "url"      : "/2006/08/03/play-gool",
       "date"     : "2006-08-03 00:00:00 -0300"
     } ,
@@ -2355,7 +2355,7 @@
     {
       "title"    : "Grand Pri",
       "category" : "",
-      "tags"     : "edward, multimídia",
+      "tags"     : "edward-multimidia",
       "url"      : "/2006/07/25/grand-pri",
       "date"     : "2006-07-25 00:00:00 -0300"
     } ,
@@ -2403,7 +2403,7 @@
     {
       "title"    : "Gambler Saga",
       "category" : "",
-      "tags"     : "ex, games",
+      "tags"     : "ex-games",
       "url"      : "/2006/07/05/gambler-saga",
       "date"     : "2006-07-05 00:00:00 -0300"
     } ,
@@ -2419,7 +2419,7 @@
     {
       "title"    : "Prévia da nova versão de Drag Racer",
       "category" : "",
-      "tags"     : "palmsoft, mobile, preview",
+      "tags"     : "palmsoft-tecnologia, mobile, preview",
       "url"      : "/2006/06/30/previa-da-nova-versao-de-drag-racer",
       "date"     : "2006-06-30 00:00:00 -0300"
     } ,
@@ -2427,7 +2427,7 @@
     {
       "title"    : "Drag Racer Underground",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/06/30/drag-racer-underground",
       "date"     : "2006-06-30 00:00:00 -0300"
     } ,
@@ -2443,7 +2443,7 @@
     {
       "title"    : "Petrakas Malabares",
       "category" : "",
-      "tags"     : "simpleware, games",
+      "tags"     : "simpleware-games",
       "url"      : "/2006/06/28/petrakas-malabares",
       "date"     : "2006-06-28 00:00:00 -0300"
     } ,
@@ -2451,7 +2451,7 @@
     {
       "title"    : "The Clubber",
       "category" : "",
-      "tags"     : "devworks, game, technology",
+      "tags"     : "devworks-game-technology",
       "url"      : "/2006/06/27/the-clubber",
       "date"     : "2006-06-27 00:00:00 -0300"
     } ,
@@ -2475,7 +2475,7 @@
     {
       "title"    : "Druids: Battle of Magic",
       "category" : "",
-      "tags"     : "brutomemo, entertainment",
+      "tags"     : "brutomemo-entertainment",
       "url"      : "/2006/06/20/druids-battle-of-magic",
       "date"     : "2006-06-20 00:00:00 -0300"
     } ,
@@ -2531,7 +2531,7 @@
     {
       "title"    : "Imagens da produção do RPG Essence",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg",
       "url"      : "/2006/06/07/imagens-da-producao-do-rpg-essence",
       "date"     : "2006-06-07 00:00:00 -0300"
     } ,
@@ -2563,7 +2563,7 @@
     {
       "title"    : "Demos Jogáveis do JogosBR, projetos classificados",
       "category" : "",
-      "tags"     : "palmsoft, mobile, continuum, parana, perceptum, pernambuco, jogosbr, concurso",
+      "tags"     : "palmsoft-tecnologia, mobile, continuum, parana, perceptum, pernambuco, jogosbr, concurso",
       "url"      : "/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados",
       "date"     : "2006-06-04 00:00:00 -0300"
     } ,
@@ -2611,7 +2611,7 @@
     {
       "title"    : "Prévia de Cat Fighters",
       "category" : "",
-      "tags"     : "palmsoft, mobile, preview",
+      "tags"     : "palmsoft-tecnologia, mobile, preview",
       "url"      : "/2006/05/31/previa-de-cat-fighters",
       "date"     : "2006-05-31 00:00:00 -0300"
     } ,
@@ -2619,7 +2619,7 @@
     {
       "title"    : "Mais de War of Malquidious",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/05/30/mais-de-war-of-malquidious",
       "date"     : "2006-05-30 00:00:00 -0300"
     } ,
@@ -2635,7 +2635,7 @@
     {
       "title"    : "Pinogol 3D",
       "category" : "",
-      "tags"     : "devworks-game-technology, gametrack, devworks, game, technology",
+      "tags"     : "devworks-game-technology, gametrack",
       "url"      : "/2006/05/27/pinogol-3d",
       "date"     : "2006-05-27 00:00:00 -0300"
     } ,
@@ -2659,7 +2659,7 @@
     {
       "title"    : "Jogo da Sedução é sucesso de vendas",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas",
       "date"     : "2006-05-26 00:00:00 -0300"
     } ,
@@ -2675,7 +2675,7 @@
     {
       "title"    : "Cat Fighters",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/05/24/cat-fighters",
       "date"     : "2006-05-24 00:00:00 -0300"
     } ,
@@ -2691,7 +2691,7 @@
     {
       "title"    : "PalmSoft coloca a sedução em jogo",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/05/22/palmsoft-coloca-a-seducao-em-jogo",
       "date"     : "2006-05-22 00:00:00 -0300"
     } ,
@@ -2715,7 +2715,7 @@
     {
       "title"    : "Jogo da Sedução",
       "category" : "",
-      "tags"     : "palmsoft, tecnologia",
+      "tags"     : "palmsoft-tecnologia",
       "url"      : "/2006/05/22/jogo-da-seducao",
       "date"     : "2006-05-22 00:00:00 -0300"
     } ,
@@ -2723,7 +2723,7 @@
     {
       "title"    : "Quadro comemorativo &amp;#39;150 jogos daqui&amp;#39;",
       "category" : "",
-      "tags"     : "meantime, reality-show, palmsoft, mobile, continuum, rts, erinia, espaco-informatica, green-land-studios, icon-games, corrida, oniria, nology, lumen-technology, roko-loko, show-do-milhao, hoplon, tilt, leandro-correia, puzzle, esporte, oniria-entertainment, preloud, ttomax, calibre, FPS",
+      "tags"     : "meantime, reality-show, palmsoft-tecnologia, mobile, continuum, rts, erinia, espaco-informatica, green-land-studios, icon-games, corrida, oniria, nology, lumen-technology, roko-loko, show-do-milhao, hoplon, tilt, leandro-correia, puzzle, esporte, oniria-entertainment, preloud, ttomax, calibre, FPS",
       "url"      : "/2006/05/18/quadro-comemorativo-150-jogos-daqui",
       "date"     : "2006-05-18 00:00:00 -0300"
     } ,
@@ -2763,7 +2763,7 @@
     {
       "title"    : "Tupã",
       "category" : "",
-      "tags"     : "lúmen, technology",
+      "tags"     : "lumen-technology",
       "url"      : "/2006/05/16/tupa",
       "date"     : "2006-05-16 00:00:00 -0300"
     } ,
@@ -2891,7 +2891,7 @@
     {
       "title"    : "Imagem&amp;Ação",
       "category" : "",
-      "tags"     : "gametrack, devworks, game, technology",
+      "tags"     : "gametrack, devworks-game-technology",
       "url"      : "/2006/05/07/imagemacao",
       "date"     : "2006-05-07 00:00:00 -0300"
     } ,
@@ -2899,7 +2899,7 @@
     {
       "title"    : "Winguel",
       "category" : "",
-      "tags"     : "espaço, informática",
+      "tags"     : "espaco-informatica",
       "url"      : "/2006/05/06/winguel",
       "date"     : "2006-05-06 00:00:00 -0300"
     } ,
@@ -2939,7 +2939,7 @@
     {
       "title"    : "Arco e Flecha",
       "category" : "",
-      "tags"     : "devworks, game, technology",
+      "tags"     : "devworks-game-technology",
       "url"      : "/2006/04/30/arco-e-flecha",
       "date"     : "2006-04-30 00:00:00 -0300"
     } ,
@@ -2947,7 +2947,7 @@
     {
       "title"    : "Novas imagens do RPG Essence",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg",
       "url"      : "/2006/04/29/novas-imagens-do-rpg-essence",
       "date"     : "2006-04-29 00:00:00 -0300"
     } ,
@@ -2963,7 +2963,7 @@
     {
       "title"    : "Novidades na Palmsoft",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg",
       "url"      : "/2006/04/28/novidades-na-palmsoft",
       "date"     : "2006-04-28 00:00:00 -0300"
     } ,
@@ -2971,7 +2971,7 @@
     {
       "title"    : "Novidades da Palmsoft",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg",
       "url"      : "/2006/04/28/novidades-da-palmsoft",
       "date"     : "2006-04-28 00:00:00 -0300"
     } ,
@@ -3059,7 +3059,7 @@
     {
       "title"    : "Transit Brasil",
       "category" : "",
-      "tags"     : "lúmen, technology",
+      "tags"     : "lumen-technology",
       "url"      : "/2006/04/18/transit-brasil",
       "date"     : "2006-04-18 00:00:00 -0300"
     } ,
@@ -3099,7 +3099,7 @@
     {
       "title"    : "Memory Cube",
       "category" : "",
-      "tags"     : "fourx, development",
+      "tags"     : "fourx-development",
       "url"      : "/2006/04/11/memory-cube",
       "date"     : "2006-04-11 00:00:00 -0300"
     } ,
@@ -3147,7 +3147,7 @@
     {
       "title"    : "Lance Livre",
       "category" : "",
-      "tags"     : "devworks, game, technology",
+      "tags"     : "devworks-game-technology",
       "url"      : "/2006/04/08/lance-livre",
       "date"     : "2006-04-08 00:00:00 -0300"
     } ,
@@ -3203,7 +3203,7 @@
     {
       "title"    : "Entrevista PalmSoft Tecnologia",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg, entrevista",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg, entrevista",
       "url"      : "/2006/03/28/entrevista-palmsoft-tecnologia",
       "date"     : "2006-03-28 00:00:00 -0300"
     } ,
@@ -3267,7 +3267,7 @@
     {
       "title"    : "Piratas e guerreiros da PalmSoft",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/03/24/piratas-e-guerreiros-da-palmsoft",
       "date"     : "2006-03-24 00:00:00 -0300"
     } ,
@@ -3275,7 +3275,7 @@
     {
       "title"    : "Gladiarena",
       "category" : "",
-      "tags"     : "palmsoft, tecnologia",
+      "tags"     : "palmsoft-tecnologia",
       "url"      : "/2006/03/24/gladiarena",
       "date"     : "2006-03-24 00:00:00 -0300"
     } ,
@@ -3283,7 +3283,7 @@
     {
       "title"    : "Fighters of Caribbean",
       "category" : "",
-      "tags"     : "palmsoft, tecnologia",
+      "tags"     : "palmsoft-tecnologia",
       "url"      : "/2006/03/24/fighters-of-caribbean",
       "date"     : "2006-03-24 00:00:00 -0300"
     } ,
@@ -3299,7 +3299,7 @@
     {
       "title"    : "Digibunny",
       "category" : "",
-      "tags"     : "eonsgames, entertainment",
+      "tags"     : "eonsgames-entertainment",
       "url"      : "/2006/03/23/digibunny",
       "date"     : "2006-03-23 00:00:00 -0300"
     } ,
@@ -3315,7 +3315,7 @@
     {
       "title"    : "Fruzzle",
       "category" : "",
-      "tags"     : "icon-games, icon, games",
+      "tags"     : "icon-games",
       "url"      : "/2006/03/22/fruzzle",
       "date"     : "2006-03-22 00:00:00 -0300"
     } ,
@@ -3331,7 +3331,7 @@
     {
       "title"    : "Coquetel",
       "category" : "",
-      "tags"     : "mobile, délirus, entertainment",
+      "tags"     : "mobile, delirus-entertainment",
       "url"      : "/2006/03/22/coquetel",
       "date"     : "2006-03-22 00:00:00 -0300"
     } ,
@@ -3387,7 +3387,7 @@
     {
       "title"    : "Truco",
       "category" : "",
-      "tags"     : "gametrack, devworks, game, technology",
+      "tags"     : "gametrack, devworks-game-technology",
       "url"      : "/2006/03/14/truco",
       "date"     : "2006-03-14 00:00:00 -0300"
     } ,
@@ -3419,7 +3419,7 @@
     {
       "title"    : "Castle Ghost",
       "category" : "",
-      "tags"     : "edward, multimídia",
+      "tags"     : "edward-multimidia",
       "url"      : "/2006/03/13/castle-ghost",
       "date"     : "2006-03-13 00:00:00 -0300"
     } ,
@@ -3427,7 +3427,7 @@
     {
       "title"    : "Aquadum",
       "category" : "",
-      "tags"     : "decadium-studios, decadium, studios",
+      "tags"     : "decadium-studios",
       "url"      : "/2006/03/13/aquadum",
       "date"     : "2006-03-13 00:00:00 -0300"
     } ,
@@ -3475,7 +3475,7 @@
     {
       "title"    : "A Ponte",
       "category" : "",
-      "tags"     : "devworks, game, technology",
+      "tags"     : "devworks-game-technology",
       "url"      : "/2006/03/08/a-ponte",
       "date"     : "2006-03-08 00:00:00 -0300"
     } ,
@@ -3523,7 +3523,7 @@
     {
       "title"    : "Estratégia F1",
       "category" : "",
-      "tags"     : "estratégia, f1",
+      "tags"     : "estrategia-f1",
       "url"      : "/2006/03/05/estrategia-f1",
       "date"     : "2006-03-05 00:00:00 -0300"
     } ,
@@ -3531,7 +3531,7 @@
     {
       "title"    : "PalmSoft, novos jogos em desenvolvimento",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg",
       "url"      : "/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento",
       "date"     : "2006-03-04 00:00:00 -0300"
     } ,
@@ -3539,7 +3539,7 @@
     {
       "title"    : "Conecta 4 - Experience",
       "category" : "",
-      "tags"     : "gametrack, devworks, game, technology",
+      "tags"     : "gametrack, devworks-game-technology",
       "url"      : "/2006/03/04/conecta-4-experience",
       "date"     : "2006-03-04 00:00:00 -0300"
     } ,
@@ -3579,7 +3579,7 @@
     {
       "title"    : "Prévia de Golden West - Bang! Bang!",
       "category" : "",
-      "tags"     : "palmsoft, mobile, preview",
+      "tags"     : "palmsoft-tecnologia, mobile, preview",
       "url"      : "/2006/02/24/previa-de-golden-west-bang-bang",
       "date"     : "2006-02-24 00:00:00 -0300"
     } ,
@@ -3587,7 +3587,7 @@
     {
       "title"    : "Golden West - Bang! Bang!",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/02/24/golden-west-bang-bang",
       "date"     : "2006-02-24 00:00:00 -0300"
     } ,
@@ -3683,7 +3683,7 @@
     {
       "title"    : "Você será um guerreiro",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/02/11/voce-sera-um-guerreiro",
       "date"     : "2006-02-11 00:00:00 -0200"
     } ,
@@ -3707,7 +3707,7 @@
     {
       "title"    : "Pedreiro Polar",
       "category" : "",
-      "tags"     : "devworks, game, technology",
+      "tags"     : "devworks-game-technology",
       "url"      : "/2006/02/07/pedreiro-polar",
       "date"     : "2006-02-07 00:00:00 -0200"
     } ,
@@ -3715,7 +3715,7 @@
     {
       "title"    : "Star Athletes",
       "category" : "",
-      "tags"     : "palmsoft, tecnologia",
+      "tags"     : "palmsoft-tecnologia",
       "url"      : "/2006/02/05/star-athletes",
       "date"     : "2006-02-05 00:00:00 -0200"
     } ,
@@ -3731,7 +3731,7 @@
     {
       "title"    : "MDEV: jogos para celular",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/02/03/mdev-jogos-para-celular",
       "date"     : "2006-02-03 00:00:00 -0200"
     } ,
@@ -3739,7 +3739,7 @@
     {
       "title"    : "Faroeste",
       "category" : "",
-      "tags"     : "devworks, game, technology",
+      "tags"     : "devworks-game-technology",
       "url"      : "/2006/02/03/faroeste",
       "date"     : "2006-02-03 00:00:00 -0200"
     } ,
@@ -3747,7 +3747,7 @@
     {
       "title"    : "Laura&amp;#39;s Tierklinik",
       "category" : "",
-      "tags"     : "caipirinha, games",
+      "tags"     : "caipirinha-games",
       "url"      : "/2006/02/01/lauras-tierklinik",
       "date"     : "2006-02-01 00:00:00 -0200"
     } ,
@@ -3779,7 +3779,7 @@
     {
       "title"    : "Fencer Duel",
       "category" : "",
-      "tags"     : "palmsoft, tecnologia",
+      "tags"     : "palmsoft-tecnologia",
       "url"      : "/2006/01/31/fencer-duel",
       "date"     : "2006-01-31 00:00:00 -0200"
     } ,
@@ -3787,7 +3787,7 @@
     {
       "title"    : "Tank Mission 3",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/01/30/tank-mission-3",
       "date"     : "2006-01-30 00:00:00 -0200"
     } ,
@@ -3803,7 +3803,7 @@
     {
       "title"    : "Continuação de Tank Mission 2",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/01/30/continuacao-de-tank-mission-2",
       "date"     : "2006-01-30 00:00:00 -0200"
     } ,
@@ -3811,7 +3811,7 @@
     {
       "title"    : "Tank Mission 3",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/01/29/tank-mission-3",
       "date"     : "2006-01-29 00:00:00 -0200"
     } ,
@@ -3827,7 +3827,7 @@
     {
       "title"    : "Embaixadinha",
       "category" : "",
-      "tags"     : "devworks, game, technology",
+      "tags"     : "devworks-game-technology",
       "url"      : "/2006/01/26/embaixadinha",
       "date"     : "2006-01-26 00:00:00 -0200"
     } ,
@@ -3843,7 +3843,7 @@
     {
       "title"    : "War of Malquidious e PalmSoft Drag Racer",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/01/24/war-of-malquidious-e-palmsoft-drag-racer",
       "date"     : "2006-01-24 00:00:00 -0200"
     } ,
@@ -3867,7 +3867,7 @@
     {
       "title"    : "War of Malquidious",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg",
       "url"      : "/2006/01/23/war-of-malquidious-2",
       "date"     : "2006-01-23 00:00:00 -0200"
     } ,
@@ -3875,7 +3875,7 @@
     {
       "title"    : "PalmSoft Drag Racer",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/01/23/palmsoft-drag-racer-2",
       "date"     : "2006-01-23 00:00:00 -0200"
     } ,
@@ -3891,7 +3891,7 @@
     {
       "title"    : "Prévia de Fighters of Caribbean da PalmSoft",
       "category" : "",
-      "tags"     : "palmsoft, mobile, preview",
+      "tags"     : "palmsoft-tecnologia, mobile, preview",
       "url"      : "/2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft",
       "date"     : "2006-01-20 00:00:00 -0200"
     } ,
@@ -3899,7 +3899,7 @@
     {
       "title"    : "Tank Mission 2",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2006/01/18/tank-mission-2",
       "date"     : "2006-01-18 00:00:00 -0200"
     } ,
@@ -3915,7 +3915,7 @@
     {
       "title"    : "PalmSoft lança três jogos em janeiro",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg, concurso",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg, concurso",
       "url"      : "/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro",
       "date"     : "2006-01-16 00:00:00 -0200"
     } ,
@@ -4011,7 +4011,7 @@
     {
       "title"    : "PalmSoft Drag Racer",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2005/12/21/palmsoft-drag-racer",
       "date"     : "2005-12-21 00:00:00 -0200"
     } ,
@@ -4027,7 +4027,7 @@
     {
       "title"    : "Red Hood Racing",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2005/12/19/red-hood-racing",
       "date"     : "2005-12-19 00:00:00 -0200"
     } ,
@@ -4067,7 +4067,7 @@
     {
       "title"    : "Prévia de War of Malquidious da PalmSoft",
       "category" : "",
-      "tags"     : "palmsoft, mobile, rpg, preview",
+      "tags"     : "palmsoft-tecnologia, mobile, rpg, preview",
       "url"      : "/2005/12/16/war-of-malquidious",
       "date"     : "2005-12-16 00:00:00 -0200"
     } ,
@@ -4811,7 +4811,7 @@
     {
       "title"    : "Crimson After Dusk",
       "category" : "",
-      "tags"     : "palmsoft, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile",
       "url"      : "/2005/10/13/crimson-after-dusk",
       "date"     : "2005-10-13 00:00:00 -0300"
     } ,
