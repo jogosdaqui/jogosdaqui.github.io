@@ -125,6 +125,23 @@ Foi dessa maneira bem humorada que fomos apresentados a TriboT
     </div>
 
     <div id="main" role="main" class="container">
+      <!-- HTML elements for search -->
+<input type="text" id="search-input" placeholder="Pesquisa...">
+<ul id="results-container"></ul>
+
+<!-- script pointing to jekyll-search.js -->
+<script src="/libs/simple-jekyll-search.min.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      noResultsText: 'Nenhum resultado encontrado'
+    })
+</script>
+
       <style>
   iframe 
   {
@@ -319,7 +336,6 @@ Com controles precisos e gr&#225;ficos 3D competentes, TriboT &#233; a pedida ce
 </article>
 
     </div>
-
 
     <div class="wrapper-footer">
       <div class="container">

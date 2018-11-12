@@ -155,6 +155,23 @@ Trailer de Unnamed Fiasco
     </div>
 
     <div id="main" role="main" class="container">
+      <!-- HTML elements for search -->
+<input type="text" id="search-input" placeholder="Pesquisa...">
+<ul id="results-container"></ul>
+
+<!-- script pointing to jekyll-search.js -->
+<script src="/libs/simple-jekyll-search.min.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      noResultsText: 'Nenhum resultado encontrado'
+    })
+</script>
+
       <style>
   iframe 
   {
@@ -342,7 +359,6 @@ As plataformas que devem receber o game são o PC, através do <a href="http://s
 </article>
 
     </div>
-
 
     <div class="wrapper-footer">
       <div class="container">
