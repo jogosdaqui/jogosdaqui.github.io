@@ -3,7 +3,7 @@
  <title>Your Title - souking</title>
  <link href="http://example.com/tags/souking/index.xml" rel="self"/>
  <link href="http://example.com/tag/souking.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/souking.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Concurso Souking - Power UP</title>
-   <link href="http://example.com/2015/09/02/concurso-souking-power-up/"/>
+   <link href="http://example.com/2015/09/02/concurso-souking-power-up"/>
    <updated>2015-09-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/02/concurso-souking-power-up</id>
    <content type="html">&lt;h2 id=&quot;3ª-power-up&quot;&gt;3ª Power UP&lt;/h2&gt;
@@ -48,7 +48,7 @@
  
  <entry>
    <title>Souking, nova loja de games brasileiros</title>
-   <link href="http://example.com/2015/06/30/souking-nova-loja-de-games-brasileiros/"/>
+   <link href="http://example.com/2015/06/30/souking-nova-loja-de-games-brasileiros"/>
    <updated>2015-06-30T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/30/souking-nova-loja-de-games-brasileiros</id>
    <content type="html">&lt;p&gt;Hoje, 30 de junho entrará no ar a &lt;a href=&quot;http://souking.com.br&quot; target=&quot;_blank&quot;&gt;Souking&lt;/a&gt;

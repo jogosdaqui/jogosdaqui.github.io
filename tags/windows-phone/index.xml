@@ -3,7 +3,7 @@
  <title>Your Title - windows-phone</title>
  <link href="http://example.com/tags/windows-phone/index.xml" rel="self"/>
  <link href="http://example.com/tag/windows-phone.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/windows-phone.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Max Quiz</title>
-   <link href="http://example.com/2015/10/16/max-quiz/"/>
+   <link href="http://example.com/2015/10/16/max-quiz"/>
    <updated>2015-10-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/10/16/max-quiz</id>
    <content type="html">&lt;p&gt;O casal de desenvolvedores independentes Glauber e Camila, que mesmo antes de se conhecerem já eram apaixonados por games, juntaram suas paixões e formaram a Maxlab Studios de São Paulo, empresa criadora do game &lt;a href=&quot;http://www.maxquiz.com/&quot; target=&quot;_blank&quot;&gt;Max Quiz&lt;/a&gt;
@@ -39,7 +39,7 @@
  
  <entry>
    <title>Rock Life</title>
-   <link href="http://example.com/2015/09/09/rock-life/"/>
+   <link href="http://example.com/2015/09/09/rock-life"/>
    <updated>2015-09-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/09/rock-life</id>
    <content type="html">&lt;p&gt;Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis?&lt;/p&gt;
@@ -71,7 +71,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>ReOrd</title>
-   <link href="http://example.com/2015/08/26/reord/"/>
+   <link href="http://example.com/2015/08/26/reord"/>
    <updated>2015-08-26T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/26/reord</id>
    <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
@@ -102,7 +102,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9/"/>
+   <link href="http://example.com/2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -148,7 +148,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Phoenix Force</title>
-   <link href="http://example.com/2015/04/28/phoenix-force/"/>
+   <link href="http://example.com/2015/04/28/phoenix-force"/>
    <updated>2015-04-28T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/28/phoenix-force</id>
    <content type="html">&lt;p&gt;Shoot ‘em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão final. Imaginou? Esse é o Phoenix Force da gaúcha Awoker Games que denomina o jogo como o primeiro Fantasy Boss Shooter Game.&lt;/p&gt;
@@ -181,7 +181,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Tank Invaders atinge mais de 300 mil downloads</title>
-   <link href="http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads/"/>
+   <link href="http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads"/>
    <updated>2015-04-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
    <content type="html">&lt;p&gt;Como diria o General Rogers: “Temos novidades do campo de batalha, soldado!”.&lt;/p&gt;
@@ -198,7 +198,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Imagens da semana #2</title>
-   <link href="http://example.com/2015/04/13/imagens-da-semana-2/"/>
+   <link href="http://example.com/2015/04/13/imagens-da-semana-2"/>
    <updated>2015-04-13T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -230,7 +230,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Tank Invaders</title>
-   <link href="http://example.com/2015/04/08/tank-invaders/"/>
+   <link href="http://example.com/2015/04/08/tank-invaders"/>
    <updated>2015-04-08T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/08/tank-invaders</id>
    <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;
@@ -267,7 +267,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Master of Words</title>
-   <link href="http://example.com/2013/05/20/master-of-words/"/>
+   <link href="http://example.com/2013/05/20/master-of-words"/>
    <updated>2013-05-20T00:00:00-03:00</updated>
    <id>http://example.com/2013/05/20/master-of-words</id>
    <content type="html">&lt;p&gt;Deveria ter feito esse post sobre o &lt;a href=&quot;http://masterofwords.net/&quot; target=&quot;_blank&quot;&gt;Master of Words&lt;/a&gt;

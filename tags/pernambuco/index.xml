@@ -3,7 +3,7 @@
  <title>Your Title - pernambuco</title>
  <link href="http://example.com/tags/pernambuco/index.xml" rel="self"/>
  <link href="http://example.com/tag/pernambuco.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/pernambuco.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis</title>
-   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis/"/>
+   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
    <updated>2015-09-03T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
    <content type="html">&lt;p&gt;Depois de visitar Rio de Janeiro, São Paulo, Recife e Fortaleza, chegou a hora do evento Brazil Gets Unreal, da  Epic Games, acontecer no sul do país.&lt;/p&gt;
@@ -44,7 +44,7 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Prévia de Fófuuu da Beltri Studio</title>
-   <link href="http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio/"/>
+   <link href="http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
    <updated>2015-07-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
    <content type="html">&lt;p&gt;Alexander Graham Bell, famoso inventor do telefone, que na verdade comprou o protótipo da invenção do italiano Antonio Meucci, era um especialista em fala, influenciado pelo pai Alexander Melville Bell, que trabalhava com a correção da fala. Em 1872 fundou nos EUA uma escola que utilizava o método de pronuncia desenvolvido por seu pai em suas aulas. No ano seguinte começou a lecionar Fisiologia Vocal na universidade de Boston, nesse mesmo ano iniciou suas pesquisas para  utilizar a eletricidade na transmissão de sons e o resto é história.&lt;/p&gt;
@@ -94,7 +94,7 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Brazil Gets Unreal</title>
-   <link href="http://example.com/2015/05/01/brazil-gets-unreal/"/>
+   <link href="http://example.com/2015/05/01/brazil-gets-unreal"/>
    <updated>2015-05-01T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/01/brazil-gets-unreal</id>
    <content type="html">&lt;p&gt;A Epic Games realizará em maio o Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal.&lt;/p&gt;
@@ -131,7 +131,7 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Museu do videogame Itinerante</title>
-   <link href="http://example.com/2015/04/21/museu-do-videogame-itinerante/"/>
+   <link href="http://example.com/2015/04/21/museu-do-videogame-itinerante"/>
    <updated>2015-04-21T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/21/museu-do-videogame-itinerante</id>
    <content type="html">&lt;p&gt;Reconhecido pelo Ibram (Instituto Brasileiro de Museus), o Museu do Videogame Itinerante é o primeiro museu do gênero do Brasil, onde os jogadores tem a oportunidade de conhecer 42 anos de evolução dos consoles de videogames e jogar os maiores clássicos do entretenimento digital das décadas de 70, 80, 90 e 2000.&lt;/p&gt;
@@ -155,7 +155,7 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Manifesto Games vence concurso nacional</title>
-   <link href="http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional/"/>
+   <link href="http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional"/>
    <updated>2015-03-30T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional</id>
    <content type="html">&lt;p&gt;A brasileira Manifesto Games, que possui escritórios em Recife e São Paulo, foi a grande vencedora do &lt;a href=&quot;http://www.jogosfinanceiros.sebrae.com.br/jogos_empreendedores/index.jsf&quot;&gt;Prêmio de Desenvolvimento de Jogos de Educação Financeira&lt;/a&gt;

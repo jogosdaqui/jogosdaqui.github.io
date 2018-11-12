@@ -3,7 +3,7 @@
  <title>Your Title - riachuelo-games</title>
  <link href="http://example.com/tags/riachuelo-games/index.xml" rel="self"/>
  <link href="http://example.com/tag/riachuelo-games.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/riachuelo-games.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Joga Brasil</title>
-   <link href="http://example.com/2012/01/13/joga-brasil/"/>
+   <link href="http://example.com/2012/01/13/joga-brasil"/>
    <updated>2012-01-13T00:00:00-02:00</updated>
    <id>http://example.com/2012/01/13/joga-brasil</id>
    <content type="html">&lt;p&gt;Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o &lt;a href=&quot;http://www.jogabrasil.com.br/&quot; target=&quot;_blank&quot;&gt;Joga Brasil&lt;/a&gt;
@@ -83,7 +83,7 @@
  
  <entry>
    <title>GameCraft 2011</title>
-   <link href="http://example.com/2011/05/23/gamecraft-2011/"/>
+   <link href="http://example.com/2011/05/23/gamecraft-2011"/>
    <updated>2011-05-23T00:00:00-03:00</updated>
    <id>http://example.com/2011/05/23/gamecraft-2011</id>
    <content type="html">&lt;p&gt;Nos dias 16 e 17 de junho acontecerá no Rio de Janeiro o GameCraft 2011, evento focado no desenvolvimento de jogos eletrônicos.&lt;/p&gt;

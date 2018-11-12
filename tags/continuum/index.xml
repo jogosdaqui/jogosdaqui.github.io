@@ -3,7 +3,7 @@
  <title>Your Title - continuum</title>
  <link href="http://example.com/tags/continuum/index.xml" rel="self"/>
  <link href="http://example.com/tag/continuum.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/continuum.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou/"/>
+   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
@@ -170,7 +170,7 @@
  
  <entry>
    <title>Mais jogos para Europa em 2006</title>
-   <link href="http://example.com/2005/11/14/mais-jogos-para-europa-em-2006/"/>
+   <link href="http://example.com/2005/11/14/mais-jogos-para-europa-em-2006"/>
    <updated>2005-11-14T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/14/mais-jogos-para-europa-em-2006</id>
    <content type="html">&lt;p&gt;Conforme Joachim F. Meyer, da empresa alemã Caipirinha Games, o ano de 2006 promete ser ainda melhor que 2005 para as empresas brasileiras que desenvolvem jogos para a Europa. A expectativa é que se tenha entre 6 a 10 jogos brasileiros lançados, através da Caipirinha Games, no continente europeu.&lt;/p&gt;
@@ -181,7 +181,7 @@
  
  <entry>
    <title>Othello</title>
-   <link href="http://example.com/2005/10/01/othello/"/>
+   <link href="http://example.com/2005/10/01/othello"/>
    <updated>2005-10-01T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/01/othello</id>
    <content type="html">&lt;p&gt;O Othello é um tradicional jogo de tabuleiro disputado por 2 oponentes, com o objetivo de conquistar o maior número possível de peças.&lt;/p&gt;
@@ -196,7 +196,7 @@
  
  <entry>
    <title>Desafio na Floresta</title>
-   <link href="http://example.com/2005/09/20/desafio-na-floresta/"/>
+   <link href="http://example.com/2005/09/20/desafio-na-floresta"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/20/desafio-na-floresta</id>
    <content type="html">&lt;p&gt;Jogo infantil estilo plataforma, desenvolvido pela Continuum por contratação para uma editora brasileira, onde o jogador enfrenta muitos perigos, percorrendo diversas regiões do Brasil, em 12 fases de muita aventura.&lt;/p&gt;
@@ -206,7 +206,7 @@
  
  <entry>
    <title>Outlive</title>
-   <link href="http://example.com/2005/09/17/outlive/"/>
+   <link href="http://example.com/2005/09/17/outlive"/>
    <updated>2005-09-17T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/17/outlive</id>
    <content type="html">&lt;p&gt;Outlive é um jogo de estratégia em tempo real, no qual o jogador deve gerenciar sua base e construir tropas para atacar seus adversários. O jogo possui uma avançada Inteligência Artificial, permitindo que uma pessoa possa disputar partidas contra até 7 exércitos controlados pelo computador. Em Outlive também é possível jogar contra outras pessoas, através de cabo serial, modem, rede local e internet.&lt;/p&gt;

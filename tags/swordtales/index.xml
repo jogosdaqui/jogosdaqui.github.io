@@ -3,7 +3,7 @@
  <title>Your Title - swordtales</title>
  <link href="http://example.com/tags/swordtales/index.xml" rel="self"/>
  <link href="http://example.com/tag/swordtales.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/swordtales.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Toren: primeiras impressões</title>
-   <link href="http://example.com/2015/07/16/toren-primeiras-impresoes/"/>
+   <link href="http://example.com/2015/07/16/toren-primeiras-impresoes"/>
    <updated>2015-07-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/16/toren-primeiras-impresoes</id>
    <content type="html">&lt;p&gt;No dia do lançamento de Toren publicamos uma &lt;a href=&quot;/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/&quot;&gt;entrevista com Alessandro Martinello&lt;/a&gt;
@@ -39,7 +39,7 @@
  
  <entry>
    <title>1º Minas Games Festival</title>
-   <link href="http://example.com/2015/06/12/1o-minas-games-festival/"/>
+   <link href="http://example.com/2015/06/12/1o-minas-games-festival"/>
    <updated>2015-06-12T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/12/1o-minas-games-festival</id>
    <content type="html">&lt;p&gt;Em junho, durante quatro dias acontecerá em Belo Horizonte o 1º Minas Games Festival, evento que contará com várias atrações, como palestras, game jam, exposição de indie games, concurso de cosplay e oficinas.&lt;/p&gt;
@@ -102,7 +102,7 @@
  
  <entry>
    <title>Checkpoint #8</title>
-   <link href="http://example.com/2015/05/29/checkpoint-8/"/>
+   <link href="http://example.com/2015/05/29/checkpoint-8"/>
    <updated>2015-05-29T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/29/checkpoint-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -139,7 +139,7 @@
  
  <entry>
    <title>Fan arts de Toren da Swordtales</title>
-   <link href="http://example.com/2015/05/27/fan-arts-de-toren-da-swordtales/"/>
+   <link href="http://example.com/2015/05/27/fan-arts-de-toren-da-swordtales"/>
    <updated>2015-05-27T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/27/fan-arts-de-toren-da-swordtales</id>
    <content type="html">&lt;p&gt;Quando os primeiros desenhos rupestres foram feitos na Caverna de Chauvet, na França, nascia a fan art, uma forma de homenagearmos aquilo que admiramos, no caso da caverna a admiração pela natureza, no caso dos desenhos desta página a admiração pelo game Toren da Swordtales que continua sendo um dos games indies do momento e tem agradado muita gente boa que também sabe desenhar muito bem. Confira algumas fan arts do jogo da protagonista Moonchild:&lt;/p&gt;
@@ -162,7 +162,7 @@
  
  <entry>
    <title>Imagens da semana #7</title>
-   <link href="http://example.com/2015/05/18/imagens-da-semana-7/"/>
+   <link href="http://example.com/2015/05/18/imagens-da-semana-7"/>
    <updated>2015-05-18T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/18/imagens-da-semana-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -191,7 +191,7 @@
  
  <entry>
    <title>Games brasileiros finalistas no BIG Festival 2015</title>
-   <link href="http://example.com/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/"/>
+   <link href="http://example.com/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015"/>
    <updated>2015-05-17T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015</id>
    <content type="html">&lt;p&gt;A organização do &lt;a href=&quot;/2015/03/27/big-festival-2015/&quot;&gt;BIG Festival&lt;/a&gt;
@@ -358,7 +358,7 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6/"/>
+   <link href="http://example.com/2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -392,7 +392,7 @@
  
  <entry>
    <title>Entrevista: Alessandro Martinello, diretor criativo de Toren</title>
-   <link href="http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/"/>
+   <link href="http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren"/>
    <updated>2015-05-12T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren</id>
    <content type="html">&lt;p&gt;Depois de anos de espera, o dia chegou: &lt;a href=&quot;http://toren-game.com/&quot; target=&quot;_blank&quot;&gt;Toren da gaúcha Swordtales&lt;/a&gt;
@@ -452,7 +452,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5/"/>
+   <link href="http://example.com/2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -498,7 +498,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Imagens da semana #5</title>
-   <link href="http://example.com/2015/05/04/imagens-da-semana-5/"/>
+   <link href="http://example.com/2015/05/04/imagens-da-semana-5"/>
    <updated>2015-05-04T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/04/imagens-da-semana-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -521,7 +521,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Toren ganha trailer de lançamento</title>
-   <link href="http://example.com/2015/05/03/toren-ganha-trailer-de-lancamento/"/>
+   <link href="http://example.com/2015/05/03/toren-ganha-trailer-de-lancamento"/>
    <updated>2015-05-03T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/03/toren-ganha-trailer-de-lancamento</id>
    <content type="html">&lt;p&gt;A Swordtales está preparando para o próximo dia 12 o lançamento para PS4 e PC de seu &lt;a href=&quot;http://toren-game.com/?lang=pt&quot; target=&quot;_blank&quot;&gt;game Toren&lt;/a&gt;
@@ -542,7 +542,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Checkpoint #3</title>
-   <link href="http://example.com/2015/04/26/checkpoint-3/"/>
+   <link href="http://example.com/2015/04/26/checkpoint-3"/>
    <updated>2015-04-26T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/26/checkpoint-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -570,7 +570,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Cobertura do evento PowerUp #2</title>
-   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2/"/>
+   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2"/>
    <updated>2015-04-24T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/24/cobertura-do-evento-powerup-2</id>
    <content type="html">&lt;p&gt;Quarta-feira na universade Feevale aconteceu a segunda edição do evento &lt;a title=&quot;PowerUp #2&quot; href=&quot;/2015/04/17/powerup-2/&quot;&gt;PowerUp&lt;/a&gt;
@@ -604,7 +604,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Imagens da semana #2</title>
-   <link href="http://example.com/2015/04/13/imagens-da-semana-2/"/>
+   <link href="http://example.com/2015/04/13/imagens-da-semana-2"/>
    <updated>2015-04-13T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -636,7 +636,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Imagens da semana #1</title>
-   <link href="http://example.com/2015/04/06/imagens-da-semana-1/"/>
+   <link href="http://example.com/2015/04/06/imagens-da-semana-1"/>
    <updated>2015-04-06T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/06/imagens-da-semana-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -665,7 +665,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</title>
-   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012/"/>
+   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
    <updated>2013-01-02T00:00:00-02:00</updated>
    <id>http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
    <content type="html">&lt;p&gt;No final de 2012 fizemos uma enquete perguntando &amp;gt; Quais games desenvolvidos no Brasil você jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.

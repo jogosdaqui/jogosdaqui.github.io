@@ -3,7 +3,7 @@
  <title>Your Title - top-game-show</title>
  <link href="http://example.com/tags/top-game-show/index.xml" rel="self"/>
  <link href="http://example.com/tag/top-game-show.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/top-game-show.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Top Game Show 2006</title>
-   <link href="http://example.com/2005/12/02/top-game-show-2006/"/>
+   <link href="http://example.com/2005/12/02/top-game-show-2006"/>
    <updated>2005-12-02T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/02/top-game-show-2006</id>
    <content type="html">&lt;h2 id=&quot;o-que-é&quot;&gt;O que é?&lt;/h2&gt;
@@ -35,7 +35,7 @@
  
  <entry>
    <title>Evento Top Game Show 2006 no Rio de Janeiro</title>
-   <link href="http://example.com/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro/"/>
+   <link href="http://example.com/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro"/>
    <updated>2005-12-02T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro</id>
    <content type="html">&lt;p&gt;Agora os jogadores cariocas tem um motivo para ficar bastante animados. No próximo ano em Niterói ira acontecer o Top Game Show 2006. Evento que promete enfocar para o mercado de jogos eletrônicos, promovendo o envolvimento e a popularidade para o grande público do Rio de Janeiro.&lt;/p&gt;

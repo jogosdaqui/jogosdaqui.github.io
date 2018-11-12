@@ -3,7 +3,7 @@
  <title>Your Title - cube-factory</title>
  <link href="http://example.com/tags/cube-factory/index.xml" rel="self"/>
  <link href="http://example.com/tag/cube-factory.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/cube-factory.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>C-Bot</title>
-   <link href="http://example.com/2013/03/21/c-bot/"/>
+   <link href="http://example.com/2013/03/21/c-bot"/>
    <updated>2013-03-21T00:00:00-03:00</updated>
    <id>http://example.com/2013/03/21/c-bot</id>
    <content type="html">&lt;p&gt;No puzzle C-Bot da &lt;a href=&quot;http://www.cubefactory.com.br/&quot; target=&quot;_blank&quot;&gt;Cube Factory&lt;/a&gt;

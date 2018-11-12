@@ -3,7 +3,7 @@
  <title>Your Title - southlogic-studios</title>
  <link href="http://example.com/tags/southlogic-studios/index.xml" rel="self"/>
  <link href="http://example.com/tag/southlogic-studios.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/southlogic-studios.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Starlit Adventures, novo lançamento da Rockhead Games</title>
-   <link href="http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games/"/>
+   <link href="http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.starlitadventures.com/&quot; target=&quot;_blank&quot;&gt;Starlit Adventures&lt;/a&gt;
@@ -58,7 +58,7 @@
  
  <entry>
    <title>Cobertura do evento PowerUp #2</title>
-   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2/"/>
+   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2"/>
    <updated>2015-04-24T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/24/cobertura-do-evento-powerup-2</id>
    <content type="html">&lt;p&gt;Quarta-feira na universade Feevale aconteceu a segunda edição do evento &lt;a title=&quot;PowerUp #2&quot; href=&quot;/2015/04/17/powerup-2/&quot;&gt;PowerUp&lt;/a&gt;
@@ -92,7 +92,7 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou/"/>
+   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
@@ -251,7 +251,7 @@
  
  <entry>
    <title>Meu Tio Matou um Cara</title>
-   <link href="http://example.com/2005/09/30/meu-tio-matou-um-cara/"/>
+   <link href="http://example.com/2005/09/30/meu-tio-matou-um-cara"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/30/meu-tio-matou-um-cara</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Você abre a porta, rasgando a fita da polícia que marca a cena do crime. Você entra na casa. Atravessando o corredor que leva à cozinha, você percebe que alguém deixou o telefone fora do gancho. Isto poderia ser importante. Você tira uma foto. Você continua pela cozinha, onde o contorno da vítima marcado em giz está claramente visível no chão.&lt;/span&gt;&lt;br style=&quot;font-style: italic;&quot; /&gt;
@@ -262,7 +262,7 @@
  
  <entry>
    <title>Trophy Hunter 2003</title>
-   <link href="http://example.com/2005/09/20/trophy-hunter-2003/"/>
+   <link href="http://example.com/2005/09/20/trophy-hunter-2003"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/20/trophy-hunter-2003</id>
    <content type="html">&lt;p&gt;Southlogic Studios tem orgulho de apresentar Trophy Hunter 2003, um jogo criado com 100% de arte e tecnologia da Southlogic Studios, e publicado pela Infogrames, Inc. - hoje em dia conhecida como Atari, Inc.&lt;/p&gt;
@@ -299,7 +299,7 @@
  
  <entry>
    <title>Guimo</title>
-   <link href="http://example.com/2005/09/20/guimo/"/>
+   <link href="http://example.com/2005/09/20/guimo"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/20/guimo</id>
    <content type="html">&lt;p&gt;Durante o seu primeiro ano de atividade, a Southlogic Studios produziu um jogo de tiro 2D de plataformas chamado Guimo. Ele foi publicado no Brasil e na Europa em 1997.&lt;/p&gt;

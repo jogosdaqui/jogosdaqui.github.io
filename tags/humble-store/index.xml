@@ -3,7 +3,7 @@
  <title>Your Title - humble-store</title>
  <link href="http://example.com/tags/humble-store/index.xml" rel="self"/>
  <link href="http://example.com/tag/humble-store.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/humble-store.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Lançamento de Odallus: The Dark Call</title>
-   <link href="http://example.com/2015/07/15/lancamento-de-odallus-the-dark-call/"/>
+   <link href="http://example.com/2015/07/15/lancamento-de-odallus-the-dark-call"/>
    <updated>2015-07-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/15/lancamento-de-odallus-the-dark-call</id>
    <content type="html">&lt;p&gt;Dos mesmos produtores de Oniken, chega as prateleiras virtuais o mais novo game da gamedev brasileira JoyMasher, &lt;a href=&quot;http://joymasher.com/odalluspreorder/&quot; target=&quot;_blank&quot;&gt;Odallus: The Dark Call&lt;/a&gt;
@@ -35,7 +35,7 @@
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5/"/>
+   <link href="http://example.com/2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -81,7 +81,7 @@
  
  <entry>
    <title>Entrevista: Claudio Lins</title>
-   <link href="http://example.com/2015/04/22/entrevista-claudio-lins/"/>
+   <link href="http://example.com/2015/04/22/entrevista-claudio-lins"/>
    <updated>2015-04-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
    <content type="html">&lt;h4 id=&quot;o-jogosdaqui-entrevistou-o-gamedev-brasileiro-claudio-lins-desenvolvedor-do-game-doomedn-damned-e-que-agora-está-trabalhando-no-seu-novo-jogo-o-super-doomedn-damned-que-será-lançado-xbox-one-wii-u-e-pc&quot;&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/h4&gt;

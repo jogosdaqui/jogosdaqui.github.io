@@ -3,7 +3,7 @@
  <title>Your Title - parana</title>
  <link href="http://example.com/tags/parana/index.xml" rel="self"/>
  <link href="http://example.com/tag/parana.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/parana.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis</title>
-   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis/"/>
+   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
    <updated>2015-09-03T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
    <content type="html">&lt;p&gt;Depois de visitar Rio de Janeiro, São Paulo, Recife e Fortaleza, chegou a hora do evento Brazil Gets Unreal, da  Epic Games, acontecer no sul do país.&lt;/p&gt;
@@ -44,7 +44,7 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Global Game Jam 2011 começa amanhã</title>
-   <link href="http://example.com/2011/01/27/global-game-jam-2011-comeca-amanha/"/>
+   <link href="http://example.com/2011/01/27/global-game-jam-2011-comeca-amanha"/>
    <updated>2011-01-27T00:00:00-02:00</updated>
    <id>http://example.com/2011/01/27/global-game-jam-2011-comeca-amanha</id>
    <content type="html">&lt;p&gt;O Global Game Jam 2011, terceira edição da maratona de desenvolvimento de jogos independentes que ocorre em mais de 40 países, acontecerá este fim de semana (28/01 a 30/01).&lt;/p&gt;
@@ -60,7 +60,7 @@ Um exemplo da magnitude do evento são os dados da edição de 2010, onde mais d
  
  <entry>
    <title>Outlive</title>
-   <link href="http://example.com/2005/09/17/outlive/"/>
+   <link href="http://example.com/2005/09/17/outlive"/>
    <updated>2005-09-17T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/17/outlive</id>
    <content type="html">&lt;p&gt;Outlive é um jogo de estratégia em tempo real, no qual o jogador deve gerenciar sua base e construir tropas para atacar seus adversários. O jogo possui uma avançada Inteligência Artificial, permitindo que uma pessoa possa disputar partidas contra até 7 exércitos controlados pelo computador. Em Outlive também é possível jogar contra outras pessoas, através de cabo serial, modem, rede local e internet.&lt;/p&gt;

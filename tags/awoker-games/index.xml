@@ -3,7 +3,7 @@
  <title>Your Title - awoker-games</title>
  <link href="http://example.com/tags/awoker-games/index.xml" rel="self"/>
  <link href="http://example.com/tag/awoker-games.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/awoker-games.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4/"/>
+   <link href="http://example.com/2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -60,7 +60,7 @@
  
  <entry>
    <title>Phoenix Force</title>
-   <link href="http://example.com/2015/04/28/phoenix-force/"/>
+   <link href="http://example.com/2015/04/28/phoenix-force"/>
    <updated>2015-04-28T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/28/phoenix-force</id>
    <content type="html">&lt;p&gt;Shoot ‘em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão final. Imaginou? Esse é o Phoenix Force da gaúcha Awoker Games que denomina o jogo como o primeiro Fantasy Boss Shooter Game.&lt;/p&gt;

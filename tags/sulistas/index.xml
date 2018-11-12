@@ -3,7 +3,7 @@
  <title>Your Title - sulistas</title>
  <link href="http://example.com/tags/sulistas/index.xml" rel="self"/>
  <link href="http://example.com/tag/sulistas.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/sulistas.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Jules: Unboxing the World</title>
-   <link href="http://example.com/2011/01/21/jules-unboxing-the-world/"/>
+   <link href="http://example.com/2011/01/21/jules-unboxing-the-world"/>
    <updated>2011-01-21T00:00:00-02:00</updated>
    <id>http://example.com/2011/01/21/jules-unboxing-the-world</id>
    <content type="html">&lt;font size=&quot;2&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;
@@ -40,7 +40,7 @@ Não se deixe levar pelo nome estranho: Jules: Unboxing the World é mais divert
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou/"/>
+   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;

@@ -3,7 +3,7 @@
  <title>Your Title - mopix</title>
  <link href="http://example.com/tags/mopix/index.xml" rel="self"/>
  <link href="http://example.com/tag/mopix.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/mopix.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Games brasileiros em crowdfunding</title>
-   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding/"/>
+   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding"/>
    <updated>2015-08-29T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
    <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
@@ -61,7 +61,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Crowdfunding de Magic Master atinge 25% da meta</title>
-   <link href="http://example.com/2015/07/16/crowdfunding-de-magic-master-atinge-25-da-meta/"/>
+   <link href="http://example.com/2015/07/16/crowdfunding-de-magic-master-atinge-25-da-meta"/>
    <updated>2015-07-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/16/crowdfunding-de-magic-master-atinge-25-da-meta</id>
    <content type="html">&lt;p&gt;Há alguns dias falamos do início da campanha de &lt;a href=&quot;/2015/07/06/crowdfunding-de-magic-master/&quot;&gt;crowdfunding do game Master Magic&lt;/a&gt;
@@ -81,7 +81,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Crowdfunding de Magic Master</title>
-   <link href="http://example.com/2015/07/06/crowdfunding-de-magic-master/"/>
+   <link href="http://example.com/2015/07/06/crowdfunding-de-magic-master"/>
    <updated>2015-07-06T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/06/crowdfunding-de-magic-master</id>
    <content type="html">&lt;p&gt;A mineira &lt;a href=&quot;http://www.mopix.com.br&quot; target=&quot;_blank&quot;&gt;Mopix Games&lt;/a&gt;

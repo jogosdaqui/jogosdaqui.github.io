@@ -3,7 +3,7 @@
  <title>Your Title - reality-show</title>
  <link href="http://example.com/tags/reality-show/index.xml" rel="self"/>
  <link href="http://example.com/tag/reality-show.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/reality-show.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Meu Big Brother</title>
-   <link href="http://example.com/2005/10/18/meu-big-brother/"/>
+   <link href="http://example.com/2005/10/18/meu-big-brother"/>
    <updated>2005-10-18T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/18/meu-big-brother</id>
    <content type="html">&lt;p&gt;Meu Big Brother é um jogo baseado no reality show de maior audiência da televisão brasileira: Big Brother Brasil. O jogo interage em tempo real com o programa, podendo ser influenciado pelos eventos da casa. Os jogadores devem escolher um big brother para tomar conta, mantendo-o sempre limpo, bem-humorado, dando presentes ou punindo-o quando eles não estiverem se comportando.&lt;/p&gt;
@@ -23,7 +23,7 @@
  
  <entry>
    <title>Big Brother Brasil</title>
-   <link href="http://example.com/2005/09/19/big-brother-brasil/"/>
+   <link href="http://example.com/2005/09/19/big-brother-brasil"/>
    <updated>2005-09-19T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/19/big-brother-brasil</id>
    <content type="html">&lt;p&gt;O jogo Big Brother Brasil foi baseado no programa de televisão de grande sucesso em vários países do mundo e que também teve um grande sucesso pelas ondas da Rede Globo.&lt;/p&gt;
@@ -37,7 +37,7 @@
  
  <entry>
    <title>Big Brother Brasil 3D On-Line</title>
-   <link href="http://example.com/2005/09/19/big-brother-brasil-3d-on-line/"/>
+   <link href="http://example.com/2005/09/19/big-brother-brasil-3d-on-line"/>
    <updated>2005-09-19T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/19/big-brother-brasil-3d-on-line</id>
    <content type="html">&lt;p&gt;Bem vindo ao BBB OnLine, como no programa de grande audiência em todo Brasil, você vai interagir online, em tempo real, com outros participantes da casa.&lt;/p&gt;

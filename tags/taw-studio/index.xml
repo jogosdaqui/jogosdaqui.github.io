@@ -3,7 +3,7 @@
  <title>Your Title - taw-studio</title>
  <link href="http://example.com/tags/taw-studio/index.xml" rel="self"/>
  <link href="http://example.com/tag/taw-studio.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/taw-studio.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #1</title>
-   <link href="http://example.com/2015/04/16/checkpoint-1/"/>
+   <link href="http://example.com/2015/04/16/checkpoint-1"/>
    <updated>2015-04-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/16/checkpoint-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -36,7 +36,7 @@
  
  <entry>
    <title>SPJam 2015</title>
-   <link href="http://example.com/2015/03/24/spjam-2015/"/>
+   <link href="http://example.com/2015/03/24/spjam-2015"/>
    <updated>2015-03-24T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/24/spjam-2015</id>
    <content type="html">&lt;p&gt;Em 2015 a SPJam completa 5 anos reunindo desenvolvedores de jogos, tanto entusiastas como profissionais, para desenvolverem um jogo inédito dentro do período de 48 horas.&lt;/p&gt;
@@ -71,7 +71,7 @@
  
  <entry>
    <title>Splitplay apresenta: Mr. Bree+</title>
-   <link href="http://example.com/2014/05/26/splitplay-apresenta-mr-bree/"/>
+   <link href="http://example.com/2014/05/26/splitplay-apresenta-mr-bree"/>
    <updated>2014-05-26T00:00:00-03:00</updated>
    <id>http://example.com/2014/05/26/splitplay-apresenta-mr-bree</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Taw Studio em colaboração para o jogosdaqui.&lt;/span&gt;&lt;/p&gt;
@@ -107,7 +107,7 @@ Uma boa comparação para exemplificar a mecânica do jogo são alguns dos jogos
  
  <entry>
    <title>Mr. Bree+ no Steam</title>
-   <link href="http://example.com/2014/05/02/mr-bree-no-steam/"/>
+   <link href="http://example.com/2014/05/02/mr-bree-no-steam"/>
    <updated>2014-05-02T00:00:00-03:00</updated>
    <id>http://example.com/2014/05/02/mr-bree-no-steam</id>
    <content type="html">&lt;p&gt;A equipe da brasileira &lt;a href=&quot;http://tawstudio.com/&quot; target=&quot;_blank&quot;&gt;Taw Studio&lt;/a&gt;
@@ -140,7 +140,7 @@ Mr. Bree+ ter&amp;#225; um desconto de 33% na Steam durante sua semana de lan&am
  
  <entry>
    <title>Demo do Mr. Bree+ no Greenlight</title>
-   <link href="http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight/"/>
+   <link href="http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight"/>
    <updated>2013-06-03T00:00:00-03:00</updated>
    <id>http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight</id>
    <content type="html">&lt;p&gt;O time da &lt;a href=&quot;http://tawstudio.com/&quot; target=&quot;_blank&quot;&gt;TawStudio&lt;/a&gt;
@@ -162,7 +162,7 @@ Mr. Bree+ ter&amp;#225; um desconto de 33% na Steam durante sua semana de lan&am
  
  <entry>
    <title>Mr. Bree+ no Greenlight</title>
-   <link href="http://example.com/2013/05/02/mr-bree-no-greenlight/"/>
+   <link href="http://example.com/2013/05/02/mr-bree-no-greenlight"/>
    <updated>2013-05-02T00:00:00-03:00</updated>
    <id>http://example.com/2013/05/02/mr-bree-no-greenlight</id>
    <content type="html">&lt;p style=&quot;text-align: left;&quot;&gt;&amp;gt; Mr. Bree + &amp;#233; um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incr&amp;#237;vel aspecto visual e musical.

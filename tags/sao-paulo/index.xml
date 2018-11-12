@@ -3,7 +3,7 @@
  <title>Your Title - sao-paulo</title>
  <link href="http://example.com/tags/sao-paulo/index.xml" rel="self"/>
  <link href="http://example.com/tag/sao-paulo.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/sao-paulo.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Max Quiz</title>
-   <link href="http://example.com/2015/10/16/max-quiz/"/>
+   <link href="http://example.com/2015/10/16/max-quiz"/>
    <updated>2015-10-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/10/16/max-quiz</id>
    <content type="html">&lt;p&gt;O casal de desenvolvedores independentes Glauber e Camila, que mesmo antes de se conhecerem já eram apaixonados por games, juntaram suas paixões e formaram a Maxlab Studios de São Paulo, empresa criadora do game &lt;a href=&quot;http://www.maxquiz.com/&quot; target=&quot;_blank&quot;&gt;Max Quiz&lt;/a&gt;
@@ -39,7 +39,7 @@
  
  <entry>
    <title>Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis</title>
-   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis/"/>
+   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
    <updated>2015-09-03T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
    <content type="html">&lt;p&gt;Depois de visitar Rio de Janeiro, São Paulo, Recife e Fortaleza, chegou a hora do evento Brazil Gets Unreal, da  Epic Games, acontecer no sul do país.&lt;/p&gt;
@@ -72,7 +72,7 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Conheça os games selecionados no BIG Starter 2015</title>
-   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter/"/>
+   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
    <updated>2015-06-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;
@@ -126,7 +126,7 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Brazil Gets Unreal</title>
-   <link href="http://example.com/2015/05/01/brazil-gets-unreal/"/>
+   <link href="http://example.com/2015/05/01/brazil-gets-unreal"/>
    <updated>2015-05-01T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/01/brazil-gets-unreal</id>
    <content type="html">&lt;p&gt;A Epic Games realizará em maio o Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal.&lt;/p&gt;
@@ -163,7 +163,7 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Axis Game Day</title>
-   <link href="http://example.com/2015/04/17/axis-game-day/"/>
+   <link href="http://example.com/2015/04/17/axis-game-day"/>
    <updated>2015-04-17T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/17/axis-game-day</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.axis.art.br&quot; target=&quot;_blank&quot;&gt;AXIS-Gnomon School of Visual Effects&lt;/a&gt;
@@ -185,7 +185,7 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Manifesto Games vence concurso nacional</title>
-   <link href="http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional/"/>
+   <link href="http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional"/>
    <updated>2015-03-30T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional</id>
    <content type="html">&lt;p&gt;A brasileira Manifesto Games, que possui escritórios em Recife e São Paulo, foi a grande vencedora do &lt;a href=&quot;http://www.jogosfinanceiros.sebrae.com.br/jogos_empreendedores/index.jsf&quot;&gt;Prêmio de Desenvolvimento de Jogos de Educação Financeira&lt;/a&gt;
@@ -205,7 +205,7 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>BIG Festival 2015 </title>
-   <link href="http://example.com/2015/03/27/big-festival-2015/"/>
+   <link href="http://example.com/2015/03/27/big-festival-2015"/>
    <updated>2015-03-27T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/27/big-festival-2015</id>
    <content type="html">&lt;p&gt;O BIG que chega na sua 3º edição em 2015 é o primeiro e único festival de jogos independentes da América Latina. A cada edição expõe os melhores jogos independentes daquele ano de desenvolvedores do mundo inteiro.&lt;/p&gt;
@@ -230,7 +230,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Joga Brasil</title>
-   <link href="http://example.com/2012/01/13/joga-brasil/"/>
+   <link href="http://example.com/2012/01/13/joga-brasil"/>
    <updated>2012-01-13T00:00:00-02:00</updated>
    <id>http://example.com/2012/01/13/joga-brasil</id>
    <content type="html">&lt;p&gt;Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o &lt;a href=&quot;http://www.jogabrasil.com.br/&quot; target=&quot;_blank&quot;&gt;Joga Brasil&lt;/a&gt;
@@ -302,7 +302,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Entrevista: Tiago Moraes da Ovni Studios (parte 1)</title>
-   <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1/"/>
+   <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1"/>
    <updated>2011-02-09T00:00:00-02:00</updated>
    <id>http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
@@ -373,7 +373,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Hoplon ganha prêmio da IBM Brasil</title>
-   <link href="http://example.com/2006/01/25/hoplon-ganha-premio-da-ibm-brasil/"/>
+   <link href="http://example.com/2006/01/25/hoplon-ganha-premio-da-ibm-brasil"/>
    <updated>2006-01-25T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/25/hoplon-ganha-premio-da-ibm-brasil</id>
    <content type="html">&lt;p&gt;Com o objetivo de incentivar a atuação dos ISVs (Independent Software Vendors) filiados ao programa PartnerWorld, a IBM Brasil premiou 15 parceiros de negócios que mais se destacaram no ano de 2005. Entre eles, a empresa catarinense Hoplon Infotainment, desenvolvedora do game Taikodom e parceira Advanced - Industry-optimized da IBM, foi selecionada na categoria Mídia &amp;amp; Entretenimento. “Nosso objetivo é atuar cada vez mais perto do ISV, oferecendo todo o suporte necessário para que o desenvolvedor obtenha o melhor proveito das soluções IBM, além de conhecimento sobre as novas tecnologias. Outro fator importante é a troca de experiências entre as empresas envolvidas no programa”, afirma Ruth Harada, gerente de alianças da área de Software da IBM Brasil.&lt;/p&gt;
@@ -390,7 +390,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Taikodom faz ajustes finais</title>
-   <link href="http://example.com/2005/12/22/taikodom-faz-ajustes-finais/"/>
+   <link href="http://example.com/2005/12/22/taikodom-faz-ajustes-finais"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/22/taikodom-faz-ajustes-finais</id>
    <content type="html">&lt;p&gt;Depois de um pré-lançamento ocorrido na EGS (Electronic Game Show), em São Paulo, no mês de novembro, o Taikodom, game massive de ação totalmente elaborado e executado no Brasil, está entrando na reta final antes do seu lançamento comercial.&lt;/p&gt;
@@ -405,7 +405,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Jogos em debate</title>
-   <link href="http://example.com/2005/11/23/jogos-em-debate/"/>
+   <link href="http://example.com/2005/11/23/jogos-em-debate"/>
    <updated>2005-11-23T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/23/jogos-em-debate</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://www.hoplon.com/&quot;&gt;Hoplon Infotainment&lt;/a&gt;
@@ -419,7 +419,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Game Party</title>
-   <link href="http://example.com/2005/11/23/game-party/"/>
+   <link href="http://example.com/2005/11/23/game-party"/>
    <updated>2005-11-23T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/23/game-party</id>
    <content type="html">&lt;p&gt;Se você mora em São Paulo e gostaria de conhecer os criadores de jogos brasileiros, então não perca a oportunidade de ir a Games Party, uma festa organizada pela &lt;a href=&quot;http://www.abragames.com.br&quot;&gt;ABRAGAMES&lt;/a&gt;
@@ -433,7 +433,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Taikodom será lançado na EGS</title>
-   <link href="http://example.com/2005/11/16/taikodom-sera-lancado-na-egs/"/>
+   <link href="http://example.com/2005/11/16/taikodom-sera-lancado-na-egs"/>
    <updated>2005-11-16T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/16/taikodom-sera-lancado-na-egs</id>
    <content type="html">&lt;p&gt;Taikodom será lançado na EGS.&lt;/p&gt;
@@ -460,7 +460,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Eventos de novembro</title>
-   <link href="http://example.com/2005/11/11/eventos-de-novembro/"/>
+   <link href="http://example.com/2005/11/11/eventos-de-novembro"/>
    <updated>2005-11-11T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/11/eventos-de-novembro</id>
    <content type="html">&lt;p&gt;Confira os eventos para o mês de novembro:&lt;/p&gt;
@@ -478,7 +478,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Eventos para o mês de outubro</title>
-   <link href="http://example.com/2005/10/04/eventos-para-o-mes-de-outubro/"/>
+   <link href="http://example.com/2005/10/04/eventos-para-o-mes-de-outubro"/>
    <updated>2005-10-04T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/04/eventos-para-o-mes-de-outubro</id>
    <content type="html">&lt;p&gt;Fique atento aos eventos que irão acontecer neste mês de outubro:&lt;/p&gt;
@@ -495,7 +495,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>SBGames 2005</title>
-   <link href="http://example.com/2005/09/27/sbgames-2005/"/>
+   <link href="http://example.com/2005/09/27/sbgames-2005"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/27/sbgames-2005</id>
    <content type="html">&lt;tr&gt;
@@ -522,7 +522,7 @@ O evento reuni outros quatro eventos: Wjogos, Game Art, In2Games e Festival de J
  
  <entry>
    <title>Roko-Loko no castelo do Ratozinger</title>
-   <link href="http://example.com/2005/09/27/roko-loko-no-castelo-do-ratozinger/"/>
+   <link href="http://example.com/2005/09/27/roko-loko-no-castelo-do-ratozinger"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/27/roko-loko-no-castelo-do-ratozinger</id>
    <content type="html">&lt;p&gt;Os personagens Roko-Loko e Adrina-Lina foram criados há quase dez anos pelo cartunista Marcio Baraldi, para a revista Rock Brigade, e depois de lançados dois livros de sucesso, chegou a hora dos personagens ganharem um game para PC. Ele se chama “Roko-Loko no castelo do Ratozinger” e é o primeiro game brasileiro de um personagem mais adulto a ser vendido nas lojas, antes dele só existiam de personagens infantis como Turma da Mônica e Menino Maluquinho. Esse projeto pioneiro surgiu da parceria entre o cartunista Baraldi e a SGuerra Design, empresa de design de São Paulo, responsável pelo site do cartunista, e pilotada pelo designer Sidney Guerra, um fã incurável de heavy-metal e ex-músico.&lt;/p&gt;
@@ -539,7 +539,7 @@ O evento reuni outros quatro eventos: Wjogos, Game Art, In2Games e Festival de J
  
  <entry>
    <title>Gamecon</title>
-   <link href="http://example.com/2005/09/27/gamecon/"/>
+   <link href="http://example.com/2005/09/27/gamecon"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/27/gamecon</id>
    <content type="html">&lt;p&gt;Entre 15 e 16 de outubro de 2005 a segunda edição do Gamecon será realizada no Espaço Ferrovia , situado na Rua Dr. Almeida Lima, número 1219, no bairro da Móoca na Cidade de São Paulo.&lt;/p&gt;

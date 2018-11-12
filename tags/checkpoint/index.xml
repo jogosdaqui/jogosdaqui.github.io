@@ -3,7 +3,7 @@
  <title>Your Title - checkpoint</title>
  <link href="http://example.com/tags/checkpoint/index.xml" rel="self"/>
  <link href="http://example.com/tag/checkpoint.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/checkpoint.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9/"/>
+   <link href="http://example.com/2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -57,7 +57,7 @@
  
  <entry>
    <title>Checkpoint #8</title>
-   <link href="http://example.com/2015/05/29/checkpoint-8/"/>
+   <link href="http://example.com/2015/05/29/checkpoint-8"/>
    <updated>2015-05-29T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/29/checkpoint-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -94,7 +94,7 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -169,7 +169,7 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6/"/>
+   <link href="http://example.com/2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -203,7 +203,7 @@
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5/"/>
+   <link href="http://example.com/2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -249,7 +249,7 @@
  
  <entry>
    <title>SplitPlay, um ano em números</title>
-   <link href="http://example.com/2015/05/07/splitplay-um-ano-em-numeros/"/>
+   <link href="http://example.com/2015/05/07/splitplay-um-ano-em-numeros"/>
    <updated>2015-05-07T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/07/splitplay-um-ano-em-numeros</id>
    <content type="html">&lt;p&gt;A Splitplay comemora hoje, dia 07 de maio de 2015, um ano de vida. E para celebrar esse momento, além de muitas promoções durante o mês de maio, a &lt;a href=&quot;http://www.splitplay.com.br&quot; target=&quot;_blank&quot;&gt;startup &lt;/a&gt;
@@ -286,7 +286,7 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4/"/>
+   <link href="http://example.com/2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -335,7 +335,7 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
  
  <entry>
    <title>Checkpoint #3</title>
-   <link href="http://example.com/2015/04/26/checkpoint-3/"/>
+   <link href="http://example.com/2015/04/26/checkpoint-3"/>
    <updated>2015-04-26T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/26/checkpoint-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -363,7 +363,7 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
  
  <entry>
    <title>Checkpoint #2</title>
-   <link href="http://example.com/2015/04/18/checkpoint-2/"/>
+   <link href="http://example.com/2015/04/18/checkpoint-2"/>
    <updated>2015-04-18T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/18/checkpoint-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -383,7 +383,7 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
  
  <entry>
    <title>Checkpoint #1</title>
-   <link href="http://example.com/2015/04/16/checkpoint-1/"/>
+   <link href="http://example.com/2015/04/16/checkpoint-1"/>
    <updated>2015-04-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/16/checkpoint-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;

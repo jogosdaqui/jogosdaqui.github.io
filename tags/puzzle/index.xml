@@ -3,7 +3,7 @@
  <title>Your Title - puzzle</title>
  <link href="http://example.com/tags/puzzle/index.xml" rel="self"/>
  <link href="http://example.com/tag/puzzle.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/puzzle.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>ReOrd</title>
-   <link href="http://example.com/2015/08/26/reord/"/>
+   <link href="http://example.com/2015/08/26/reord"/>
    <updated>2015-08-26T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/26/reord</id>
    <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
@@ -42,7 +42,7 @@
  
  <entry>
    <title>Esquadrão Patada</title>
-   <link href="http://example.com/2013/03/18/esquadrao-patada/"/>
+   <link href="http://example.com/2013/03/18/esquadrao-patada"/>
    <updated>2013-03-18T00:00:00-03:00</updated>
    <id>http://example.com/2013/03/18/esquadrao-patada</id>
    <content type="html">&lt;p&gt;A desenvolvedora mato-grossense &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;
@@ -65,7 +65,7 @@
  
  <entry>
    <title>Novidades no Gametrack</title>
-   <link href="http://example.com/2006/01/26/novidades-no-gametrack/"/>
+   <link href="http://example.com/2006/01/26/novidades-no-gametrack"/>
    <updated>2006-01-26T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/26/novidades-no-gametrack</id>
    <content type="html">&lt;p&gt;Dois novos jogos foram colocados no ar no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
@@ -79,7 +79,7 @@
  
  <entry>
    <title>Metablocks</title>
-   <link href="http://example.com/2006/01/06/metablocks/"/>
+   <link href="http://example.com/2006/01/06/metablocks"/>
    <updated>2006-01-06T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/06/metablocks</id>
    <content type="html">&lt;p&gt;Divirta-se testanto sua coordenação e seu raciocínio lógico com esse jogo simples e eletrizante. Baseado no clássico “Tetris”, traz consigo várias e interessantes inovações.&lt;/p&gt;
@@ -95,7 +95,7 @@
  
  <entry>
    <title>Bears & Bees</title>
-   <link href="http://example.com/2005/12/17/bears-bees/"/>
+   <link href="http://example.com/2005/12/17/bears-bees"/>
    <updated>2005-12-17T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/17/bears-bees</id>
    <content type="html">&lt;p&gt;Bears &amp;amp; Bees da &lt;a href=&quot;http://www.devworks.com.br/&quot; target=&quot;_blank&quot;&gt;DevWorks &lt;/a&gt;
@@ -112,7 +112,7 @@
  
  <entry>
    <title>Prévia de Winguel</title>
-   <link href="http://example.com/2005/12/07/previa-de-winguel/"/>
+   <link href="http://example.com/2005/12/07/previa-de-winguel"/>
    <updated>2005-12-07T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/07/previa-de-winguel</id>
    <content type="html">&lt;p&gt;Winguel é um simpático alienígena que, ao passear por Marte, encontra uma sonda terráquea e resolve devolvê-la aos humanos na terra.&lt;/p&gt;
@@ -155,7 +155,7 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Casseta & Planeta - Quebra-Cabeça</title>
-   <link href="http://example.com/2005/11/07/casseta-planeta-quebra-cabeca/"/>
+   <link href="http://example.com/2005/11/07/casseta-planeta-quebra-cabeca"/>
    <updated>2005-11-07T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/07/casseta-planeta-quebra-cabeca</id>
    <content type="html">&lt;p&gt;Casseta &amp;amp; Planeta - Quebra-Cabeça é mais uma dos &lt;a href=&quot;http://www.casseta.com.br/&quot; target=&quot;_blank&quot;&gt;Cassetas&lt;/a&gt;
@@ -173,7 +173,7 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Sudoku</title>
-   <link href="http://example.com/2005/10/25/sudoku/"/>
+   <link href="http://example.com/2005/10/25/sudoku"/>
    <updated>2005-10-25T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/25/sudoku</id>
    <content type="html">&lt;p&gt;Sudoku, ou Su-doku, é simples, divertido e um amigável quebra-cabeça japonês. Sudoku usa números, mas matemática não é necessária, e por isso ele é tão popular. Tudo que você precisa fazer é aprender as regras e começar a jogar.&lt;/p&gt;
@@ -186,7 +186,7 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Super Popcorn Machine</title>
-   <link href="http://example.com/2005/09/23/super-popcorn-machine/"/>
+   <link href="http://example.com/2005/09/23/super-popcorn-machine"/>
    <updated>2005-09-23T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/23/super-popcorn-machine</id>
    <content type="html">&lt;p&gt;Você é capaz de estourar as pipocas de dois recipientes que estão em uma balança e mantê-los equilibrados ao mesmo tempo? Este é o grande desafio deste novo jogo de puzzle da Nology!&lt;/p&gt;

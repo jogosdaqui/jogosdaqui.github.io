@@ -3,7 +3,7 @@
  <title>Your Title - white-vortex</title>
  <link href="http://example.com/tags/white-vortex/index.xml" rel="self"/>
  <link href="http://example.com/tag/white-vortex.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/white-vortex.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Meu Pianinho</title>
-   <link href="http://example.com/2012/04/11/meu-pianinho/"/>
+   <link href="http://example.com/2012/04/11/meu-pianinho"/>
    <updated>2012-04-11T00:00:00-03:00</updated>
    <id>http://example.com/2012/04/11/meu-pianinho</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://whitevortex.com&quot; target=&quot;_blank&quot;&gt;White Vortex&lt;/a&gt;

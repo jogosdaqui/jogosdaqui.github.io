@@ -3,7 +3,7 @@
  <title>Your Title - rogue-snail</title>
  <link href="http://example.com/tags/rogue-snail/index.xml" rel="self"/>
  <link href="http://example.com/tag/rogue-snail.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/rogue-snail.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Games brasileiros com desconto</title>
-   <link href="http://example.com/2015/08/06/games-brasileiros-com-desconto/"/>
+   <link href="http://example.com/2015/08/06/games-brasileiros-com-desconto"/>
    <updated>2015-08-06T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/06/games-brasileiros-com-desconto</id>
    <content type="html">&lt;p&gt;O que &lt;a href=&quot;http://store.steampowered.com/sub/64793/&quot; target=&quot;_blank&quot;&gt;Odallus - The Dark Call&lt;/a&gt;
@@ -46,7 +46,7 @@
  
  <entry>
    <title>Prévia de Relic Hunters Zero</title>
-   <link href="http://example.com/2015/07/30/previa-de-relic-hunters-zero/"/>
+   <link href="http://example.com/2015/07/30/previa-de-relic-hunters-zero"/>
    <updated>2015-07-30T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/30/previa-de-relic-hunters-zero</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.roguesnail.com/relic-hunters-zero/&quot; target=&quot;_blank&quot;&gt;Relic Hunters Zero&lt;/a&gt;
@@ -87,7 +87,7 @@
  
  <entry>
    <title>Conheça os games selecionados no BIG Starter 2015</title>
-   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter/"/>
+   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
    <updated>2015-06-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;

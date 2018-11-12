@@ -3,7 +3,7 @@
  <title>Your Title - xbox-360</title>
  <link href="http://example.com/tags/xbox-360/index.xml" rel="self"/>
  <link href="http://example.com/tag/xbox-360.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/xbox-360.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Lançada a demo de TurboLink</title>
-   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink/"/>
+   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
    <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a title=&quot;Prévia de TurboLink&quot; href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;

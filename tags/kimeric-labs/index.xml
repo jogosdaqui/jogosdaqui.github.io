@@ -3,7 +3,7 @@
  <title>Your Title - kimeric-labs</title>
  <link href="http://example.com/tags/kimeric-labs/index.xml" rel="self"/>
  <link href="http://example.com/tag/kimeric-labs.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/kimeric-labs.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Crowdfunding de Satellite Rush</title>
-   <link href="http://example.com/2015/07/21/crowdfunding-de-satellite-rush/"/>
+   <link href="http://example.com/2015/07/21/crowdfunding-de-satellite-rush"/>
    <updated>2015-07-21T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/21/crowdfunding-de-satellite-rush</id>
    <content type="html">&lt;p&gt;Quando postamos sobre &lt;a href=&quot;/2014/05/22/splitplay-apresenta-satellite-rush/&quot; target=&quot;_blank&quot;&gt;Satellite Rush&lt;/a&gt;
@@ -44,7 +44,7 @@
  
  <entry>
    <title>Imagens da semana #6</title>
-   <link href="http://example.com/2015/05/11/imagens-da-semana-6/"/>
+   <link href="http://example.com/2015/05/11/imagens-da-semana-6"/>
    <updated>2015-05-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/11/imagens-da-semana-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -73,7 +73,7 @@
  
  <entry>
    <title>Splitplay apresenta: Satellite Rush</title>
-   <link href="http://example.com/2014/05/22/splitplay-apresenta-satellite-rush/"/>
+   <link href="http://example.com/2014/05/22/splitplay-apresenta-satellite-rush"/>
    <updated>2014-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2014/05/22/splitplay-apresenta-satellite-rush</id>
    <content type="html">&lt;blockquote&gt;

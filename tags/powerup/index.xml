@@ -3,7 +3,7 @@
  <title>Your Title - powerup</title>
  <link href="http://example.com/tags/powerup/index.xml" rel="self"/>
  <link href="http://example.com/tag/powerup.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/powerup.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Prévia de Starlit Adventures</title>
-   <link href="http://example.com/2015/04/27/previa-de-starlit-adventures/"/>
+   <link href="http://example.com/2015/04/27/previa-de-starlit-adventures"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/27/previa-de-starlit-adventures</id>
    <content type="html">&lt;p&gt;No último evento PowerUp tivemos a grata surpresa de ver algumas imagens e vídeos do novo jogo da Rockhead Games, o &lt;a href=&quot;http://starlitadventures.com&quot; target=&quot;_blank&quot;&gt;Startlit Adventures&lt;/a&gt;
@@ -33,7 +33,7 @@
  
  <entry>
    <title>Cobertura do evento PowerUp #2</title>
-   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2/"/>
+   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2"/>
    <updated>2015-04-24T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/24/cobertura-do-evento-powerup-2</id>
    <content type="html">&lt;p&gt;Quarta-feira na universade Feevale aconteceu a segunda edição do evento &lt;a title=&quot;PowerUp #2&quot; href=&quot;/2015/04/17/powerup-2/&quot;&gt;PowerUp&lt;/a&gt;
@@ -67,7 +67,7 @@
  
  <entry>
    <title>Checkpoint #2</title>
-   <link href="http://example.com/2015/04/18/checkpoint-2/"/>
+   <link href="http://example.com/2015/04/18/checkpoint-2"/>
    <updated>2015-04-18T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/18/checkpoint-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;

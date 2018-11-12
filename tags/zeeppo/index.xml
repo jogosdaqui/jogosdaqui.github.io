@@ -3,7 +3,7 @@
  <title>Your Title - zeeppo</title>
  <link href="http://example.com/tags/zeeppo/index.xml" rel="self"/>
  <link href="http://example.com/tag/zeeppo.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/zeeppo.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Rock Life</title>
-   <link href="http://example.com/2015/09/09/rock-life/"/>
+   <link href="http://example.com/2015/09/09/rock-life"/>
    <updated>2015-09-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/09/rock-life</id>
    <content type="html">&lt;p&gt;Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis?&lt;/p&gt;

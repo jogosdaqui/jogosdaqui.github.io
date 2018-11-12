@@ -3,7 +3,7 @@
  <title>Your Title - contra-labs</title>
  <link href="http://example.com/tags/contra-labs/index.xml" rel="self"/>
  <link href="http://example.com/tag/contra-labs.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/contra-labs.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9/"/>
+   <link href="http://example.com/2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -57,7 +57,7 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;

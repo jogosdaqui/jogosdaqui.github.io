@@ -3,7 +3,7 @@
  <title>Your Title - cupcake-sweet-entertainment</title>
  <link href="http://example.com/tags/cupcake-sweet-entertainment/index.xml" rel="self"/>
  <link href="http://example.com/tag/cupcake-sweet-entertainment.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/cupcake-sweet-entertainment.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Imagens da semana #6</title>
-   <link href="http://example.com/2015/05/11/imagens-da-semana-6/"/>
+   <link href="http://example.com/2015/05/11/imagens-da-semana-6"/>
    <updated>2015-05-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/11/imagens-da-semana-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -40,7 +40,7 @@
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4/"/>
+   <link href="http://example.com/2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -89,7 +89,7 @@
  
  <entry>
    <title>eMerge Americas terá a participação da Cupcake</title>
-   <link href="http://example.com/2015/04/29/emerge-americas-tera-a-participacao-da-cupcake/"/>
+   <link href="http://example.com/2015/04/29/emerge-americas-tera-a-participacao-da-cupcake"/>
    <updated>2015-04-29T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/29/emerge-americas-tera-a-participacao-da-cupcake</id>
    <content type="html">&lt;p&gt;A gaúcha Cupcake Sweet Entertainment, que já apareceu aqui no jogosdaqui com o jogo Letra de Ouro, foi selecionada para participar do eMerge Americas, &lt;a href=&quot;http://emergeamericas.org/&quot; target=&quot;_blank&quot;&gt;mega-evento de tecnologia&lt;/a&gt;
@@ -113,7 +113,7 @@
  
  <entry>
    <title>Letra de Ouro</title>
-   <link href="http://example.com/2015/03/26/letra-de-ouro/"/>
+   <link href="http://example.com/2015/03/26/letra-de-ouro"/>
    <updated>2015-03-26T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/26/letra-de-ouro</id>
    <content type="html">&lt;p&gt;Quem nunca jogou um caça palavras que atire a primeira a letra!&lt;/p&gt;

@@ -790,7 +790,7 @@ code {
   position: absolute;
   background: white;
   margin: 0;
-  margin-top: 13px;
-  border: 1px solid #eee;
+  margin-top: 40px;
   padding-right: 10px;
+  z-index: 99999999;
 }

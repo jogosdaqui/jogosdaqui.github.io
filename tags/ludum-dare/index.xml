@@ -3,7 +3,7 @@
  <title>Your Title - ludum-dare</title>
  <link href="http://example.com/tags/ludum-dare/index.xml" rel="self"/>
  <link href="http://example.com/tag/ludum-dare.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/ludum-dare.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Concurso Souking - Power UP</title>
-   <link href="http://example.com/2015/09/02/concurso-souking-power-up/"/>
+   <link href="http://example.com/2015/09/02/concurso-souking-power-up"/>
    <updated>2015-09-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/02/concurso-souking-power-up</id>
    <content type="html">&lt;h2 id=&quot;3ª-power-up&quot;&gt;3ª Power UP&lt;/h2&gt;
@@ -48,7 +48,7 @@
  
  <entry>
    <title>Porcunipine</title>
-   <link href="http://example.com/2015/05/21/porcunipine/"/>
+   <link href="http://example.com/2015/05/21/porcunipine"/>
    <updated>2015-05-21T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/21/porcunipine</id>
    <content type="html">&lt;blockquote&gt;
@@ -121,7 +121,7 @@
  
  <entry>
    <title>Cobertura do evento PowerUp #2</title>
-   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2/"/>
+   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2"/>
    <updated>2015-04-24T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/24/cobertura-do-evento-powerup-2</id>
    <content type="html">&lt;p&gt;Quarta-feira na universade Feevale aconteceu a segunda edição do evento &lt;a title=&quot;PowerUp #2&quot; href=&quot;/2015/04/17/powerup-2/&quot;&gt;PowerUp&lt;/a&gt;
@@ -155,7 +155,7 @@
  
  <entry>
    <title>PowerUp #2</title>
-   <link href="http://example.com/2015/04/17/powerup-2/"/>
+   <link href="http://example.com/2015/04/17/powerup-2"/>
    <updated>2015-04-17T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/17/powerup-2</id>
    <content type="html">&lt;p&gt;PowerUp é um evento organizado pela ADjogosRS (Associação do Desenvolvedores de Jogos Digitais do Rio Grande do Sul) para incentivar alunos e profissionais da área de gamedev a participarem da Ludum Dare, game jam que tem sua nova temporada começando hoje.&lt;/p&gt;

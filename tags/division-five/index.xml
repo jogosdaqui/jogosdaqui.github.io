@@ -3,7 +3,7 @@
  <title>Your Title - division-five</title>
  <link href="http://example.com/tags/division-five/index.xml" rel="self"/>
  <link href="http://example.com/tag/division-five.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/division-five.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6/"/>
+   <link href="http://example.com/2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -45,7 +45,7 @@
  
  <entry>
    <title>Campanha do TurboLink no Collective está chegando ao fim</title>
-   <link href="http://example.com/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim/"/>
+   <link href="http://example.com/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim"/>
    <updated>2015-05-10T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim</id>
    <content type="html">&lt;p&gt;A campanha do &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;game brasileiro TurboLink&lt;/a&gt;
@@ -74,7 +74,7 @@
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5/"/>
+   <link href="http://example.com/2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -120,7 +120,7 @@
  
  <entry>
    <title>TurboLink aprovado no Steam Greenlight</title>
-   <link href="http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight/"/>
+   <link href="http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
    <content type="html">&lt;p&gt;Acabamos de receber uma grande notícia: TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=429961096&quot; target=&quot;_blank&quot;&gt;Greenlight&lt;/a&gt;
@@ -150,7 +150,7 @@
  
  <entry>
    <title>Imagens da semana #4</title>
-   <link href="http://example.com/2015/04/27/imagens-da-semana-4/"/>
+   <link href="http://example.com/2015/04/27/imagens-da-semana-4"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/27/imagens-da-semana-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -179,7 +179,7 @@
  
  <entry>
    <title>Lançada a demo de TurboLink</title>
-   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink/"/>
+   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
    <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a title=&quot;Prévia de TurboLink&quot; href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;
@@ -197,7 +197,7 @@
  
  <entry>
    <title>Checkpoint #1</title>
-   <link href="http://example.com/2015/04/16/checkpoint-1/"/>
+   <link href="http://example.com/2015/04/16/checkpoint-1"/>
    <updated>2015-04-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/16/checkpoint-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -222,7 +222,7 @@
  
  <entry>
    <title>TurboLink no Square Enix Collective</title>
-   <link href="http://example.com/2015/04/14/turbolink-no-square-enix-collective/"/>
+   <link href="http://example.com/2015/04/14/turbolink-no-square-enix-collective"/>
    <updated>2015-04-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/14/turbolink-no-square-enix-collective</id>
    <content type="html">&lt;p&gt;No início de abril fizemos uma &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;
@@ -243,7 +243,7 @@
  
  <entry>
    <title>Imagens da semana #1</title>
-   <link href="http://example.com/2015/04/06/imagens-da-semana-1/"/>
+   <link href="http://example.com/2015/04/06/imagens-da-semana-1"/>
    <updated>2015-04-06T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/06/imagens-da-semana-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -272,7 +272,7 @@
  
  <entry>
    <title>Prévia de TurboLink</title>
-   <link href="http://example.com/2015/04/03/previa-de-turbolink/"/>
+   <link href="http://example.com/2015/04/03/previa-de-turbolink"/>
    <updated>2015-04-03T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/03/previa-de-turbolink</id>
    <content type="html">&lt;p&gt;A equipe de desenvolvimento da Division Five entrou em contato conosco via Twitter falando sobre o game que estão desenvolvendo: TurboLink.&lt;/p&gt;

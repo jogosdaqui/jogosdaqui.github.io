@@ -3,7 +3,7 @@
  <title>Your Title - mgaia-studio</title>
  <link href="http://example.com/tags/mgaia-studio/index.xml" rel="self"/>
  <link href="http://example.com/tag/mgaia-studio.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/mgaia-studio.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Imagens da semana #13</title>
-   <link href="http://example.com/2015/09/14/imagens-da-semana-13/"/>
+   <link href="http://example.com/2015/09/14/imagens-da-semana-13"/>
    <updated>2015-09-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/14/imagens-da-semana-13</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -43,7 +43,7 @@
  
  <entry>
    <title>Imagens da semana #11</title>
-   <link href="http://example.com/2015/06/15/imagens-da-semana-11/"/>
+   <link href="http://example.com/2015/06/15/imagens-da-semana-11"/>
    <updated>2015-06-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/15/imagens-da-semana-11</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -69,7 +69,7 @@
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9/"/>
+   <link href="http://example.com/2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -115,7 +115,7 @@
  
  <entry>
    <title>Imagens da semana #9</title>
-   <link href="http://example.com/2015/06/01/imagens-da-semana-9/"/>
+   <link href="http://example.com/2015/06/01/imagens-da-semana-9"/>
    <updated>2015-06-01T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/01/imagens-da-semana-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -141,7 +141,7 @@
  
  <entry>
    <title>Imagens da semana #8</title>
-   <link href="http://example.com/2015/05/25/imagens-da-semana-8/"/>
+   <link href="http://example.com/2015/05/25/imagens-da-semana-8"/>
    <updated>2015-05-25T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/25/imagens-da-semana-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -170,7 +170,7 @@
  
  <entry>
    <title>Imagens da semana #5</title>
-   <link href="http://example.com/2015/05/04/imagens-da-semana-5/"/>
+   <link href="http://example.com/2015/05/04/imagens-da-semana-5"/>
    <updated>2015-05-04T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/04/imagens-da-semana-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -193,7 +193,7 @@
  
  <entry>
    <title>Imagens da semana #4</title>
-   <link href="http://example.com/2015/04/27/imagens-da-semana-4/"/>
+   <link href="http://example.com/2015/04/27/imagens-da-semana-4"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/27/imagens-da-semana-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -222,7 +222,7 @@
  
  <entry>
    <title>Tank Invaders atinge mais de 300 mil downloads</title>
-   <link href="http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads/"/>
+   <link href="http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads"/>
    <updated>2015-04-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
    <content type="html">&lt;p&gt;Como diria o General Rogers: “Temos novidades do campo de batalha, soldado!”.&lt;/p&gt;
@@ -239,7 +239,7 @@
  
  <entry>
    <title>Imagens da semana #2</title>
-   <link href="http://example.com/2015/04/13/imagens-da-semana-2/"/>
+   <link href="http://example.com/2015/04/13/imagens-da-semana-2"/>
    <updated>2015-04-13T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -271,7 +271,7 @@
  
  <entry>
    <title>Tank Invaders</title>
-   <link href="http://example.com/2015/04/08/tank-invaders/"/>
+   <link href="http://example.com/2015/04/08/tank-invaders"/>
    <updated>2015-04-08T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/08/tank-invaders</id>
    <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;

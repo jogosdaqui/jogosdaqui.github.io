@@ -3,7 +3,7 @@
  <title>Your Title - jogosbr</title>
  <link href="http://example.com/tags/jogosbr/index.xml" rel="self"/>
  <link href="http://example.com/tag/jogosbr.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/jogosbr.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Lançado o site da 2ª edição do concurso JogosBr</title>
-   <link href="http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr/"/>
+   <link href="http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr"/>
    <updated>2005-12-18T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr</id>
    <content type="html">&lt;p&gt;O Ministério da Cultura lançou oficialmente o site da segunda edição do concurso JogosBr.&lt;/p&gt;
@@ -29,7 +29,7 @@ Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
  
  <entry>
    <title>Segunda edição do concurso JogosBr</title>
-   <link href="http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr/"/>
+   <link href="http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr"/>
    <updated>2005-11-02T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr</id>
    <content type="html">&lt;p&gt;Em novembro será lançado o “Segundo Concurso de Idéias Originais E Demos de Jogos Eletrônicos - JogosBr”. O Concurso tem como objetivo estimular o desenvolvimento de jogos eletrônicos (ou games) no mercado nacional.&lt;/p&gt;
@@ -43,7 +43,7 @@ Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
  
  <entry>
    <title>Interama: empresa criada com recursos do JogosBR</title>
-   <link href="http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr/"/>
+   <link href="http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr"/>
    <updated>2005-10-21T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr</id>
    <content type="html">&lt;p&gt;Os jogadores brasileiros em breve poderão curtir os jogos de uma nova empresa brasileira, a &lt;span style=&quot;font-weight: bold;&quot;&gt;Interama&lt;/span&gt;, que pretende ser uma inovadora desenvolvedora de jogos 3D. Seu objetivo é lançar jogos diferentes, ousados, que vão além do comum. É explorar novos temas e novas fronteiras.&lt;/p&gt;

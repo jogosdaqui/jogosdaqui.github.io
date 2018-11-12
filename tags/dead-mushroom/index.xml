@@ -3,7 +3,7 @@
  <title>Your Title - dead-mushroom</title>
  <link href="http://example.com/tags/dead-mushroom/index.xml" rel="self"/>
  <link href="http://example.com/tag/dead-mushroom.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/dead-mushroom.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Dragon Raid</title>
-   <link href="http://example.com/2013/04/29/dragon-raid/"/>
+   <link href="http://example.com/2013/04/29/dragon-raid"/>
    <updated>2013-04-29T00:00:00-03:00</updated>
    <id>http://example.com/2013/04/29/dragon-raid</id>
    <content type="html">&lt;p&gt;Em muitos livros de fantasia, principalmente os com temática medieval, os dragões são os grandes vilões. No game &lt;a href=&quot;http://www.deadmushroom.com/?portfolio=dragon-raid&quot; target=&quot;_blank&quot;&gt;Dragon Raid&lt;/a&gt;
@@ -38,7 +38,7 @@ Além do dragão vermelho, ainda é possível adquirir um dragão chinês que ad
  
  <entry>
    <title>Crazy Bitsy Spider - Kids Mode</title>
-   <link href="http://example.com/2013/03/11/crazy-bitsy-spider-kids-mode/"/>
+   <link href="http://example.com/2013/03/11/crazy-bitsy-spider-kids-mode"/>
    <updated>2013-03-11T00:00:00-03:00</updated>
    <id>http://example.com/2013/03/11/crazy-bitsy-spider-kids-mode</id>
    <content type="html">&lt;p&gt;A brasileira &lt;a href=&quot;http://www.deadmushroom.com/&quot; target=&quot;_blank&quot;&gt;Dead Mushroom&lt;/a&gt;
@@ -62,7 +62,7 @@ Além do dragão vermelho, ainda é possível adquirir um dragão chinês que ad
  
  <entry>
    <title>Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</title>
-   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012/"/>
+   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
    <updated>2013-01-02T00:00:00-02:00</updated>
    <id>http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
    <content type="html">&lt;p&gt;No final de 2012 fizemos uma enquete perguntando &amp;gt; Quais games desenvolvidos no Brasil você jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.
@@ -138,7 +138,7 @@ Confiram!
  
  <entry>
    <title>Crazy Bitsy Spider</title>
-   <link href="http://example.com/2012/12/05/crazy-bitsy-spider-2/"/>
+   <link href="http://example.com/2012/12/05/crazy-bitsy-spider-2"/>
    <updated>2012-12-05T00:00:00-02:00</updated>
    <id>http://example.com/2012/12/05/crazy-bitsy-spider-2</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.deadmushroom.com/?page_id=27&quot; target=&quot;_blank&quot;&gt;Crazy Bitsy Spider&lt;/a&gt;
@@ -168,7 +168,7 @@ Confiram!
  
  <entry>
    <title>Apoie o jogo brasileiro Comboy vs Aliens vs Ninjas</title>
-   <link href="http://example.com/2012/10/03/apoie-o-jogo-comboy/"/>
+   <link href="http://example.com/2012/10/03/apoie-o-jogo-comboy"/>
    <updated>2012-10-03T00:00:00-03:00</updated>
    <id>http://example.com/2012/10/03/apoie-o-jogo-comboy</id>
    <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&gt;Dead Mushroom&lt;/a&gt;

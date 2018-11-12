@@ -3,7 +3,7 @@
  <title>Your Title - brazil-gets-unreal</title>
  <link href="http://example.com/tags/brazil-gets-unreal/index.xml" rel="self"/>
  <link href="http://example.com/tag/brazil-gets-unreal.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/brazil-gets-unreal.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis</title>
-   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis/"/>
+   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
    <updated>2015-09-03T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
    <content type="html">&lt;p&gt;Depois de visitar Rio de Janeiro, São Paulo, Recife e Fortaleza, chegou a hora do evento Brazil Gets Unreal, da  Epic Games, acontecer no sul do país.&lt;/p&gt;
@@ -44,7 +44,7 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4/"/>
+   <link href="http://example.com/2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -93,7 +93,7 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Brazil Gets Unreal</title>
-   <link href="http://example.com/2015/05/01/brazil-gets-unreal/"/>
+   <link href="http://example.com/2015/05/01/brazil-gets-unreal"/>
    <updated>2015-05-01T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/01/brazil-gets-unreal</id>
    <content type="html">&lt;p&gt;A Epic Games realizará em maio o Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal.&lt;/p&gt;

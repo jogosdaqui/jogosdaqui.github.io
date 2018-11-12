@@ -3,7 +3,7 @@
  <title>Your Title - lumen-technology</title>
  <link href="http://example.com/tags/lumen-technology/index.xml" rel="self"/>
  <link href="http://example.com/tag/lumen-technology.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/lumen-technology.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>CUBi</title>
-   <link href="http://example.com/2005/10/24/cubi/"/>
+   <link href="http://example.com/2005/10/24/cubi"/>
    <updated>2005-10-24T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/24/cubi</id>
    <content type="html">&lt;p&gt;Seu objetivo é juntar as peças que caem sem deixar espaços entre elas. Sempre que uma linha é preenchida, ela será removida e todas as peças acima serão movidas para baixo.

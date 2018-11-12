@@ -3,7 +3,7 @@
  <title>Your Title - televisão</title>
  <link href="http://example.com/tags/televisao/index.xml" rel="self"/>
  <link href="http://example.com/tag/televisão.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/televisão.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>No Limite</title>
-   <link href="http://example.com/2005/09/30/no-limite/"/>
+   <link href="http://example.com/2005/09/30/no-limite"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/30/no-limite</id>
    <content type="html">&lt;p&gt;Este jogo foi baseado no programa de televisão No Limite, apresentado pela Rede Globo de Televisão no Brasil.&lt;/p&gt;
@@ -26,7 +26,7 @@
  
  <entry>
    <title>Show do Milhão Júnior</title>
-   <link href="http://example.com/2005/09/28/show-do-milhao-junior/"/>
+   <link href="http://example.com/2005/09/28/show-do-milhao-junior"/>
    <updated>2005-09-28T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/28/show-do-milhao-junior</id>
    <content type="html">&lt;p&gt;Todas as emoções do programa de televisão “Show do Milhão” do SBT com Silvio Santos estão neste cd.&lt;/p&gt;
@@ -40,7 +40,7 @@ Com Certeza você também será um vencedor!&lt;/p&gt;
  
  <entry>
    <title>Programa do Ratinho</title>
-   <link href="http://example.com/2005/09/27/programa-do-ratinho/"/>
+   <link href="http://example.com/2005/09/27/programa-do-ratinho"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/27/programa-do-ratinho</id>
    <content type="html">&lt;p&gt;O Programa do Ratinho é o mais divertido da televisão brasileira.&lt;/p&gt;

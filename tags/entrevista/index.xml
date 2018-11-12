@@ -3,7 +3,7 @@
  <title>Your Title - entrevista</title>
  <link href="http://example.com/tags/entrevista/index.xml" rel="self"/>
  <link href="http://example.com/tag/entrevista.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/entrevista.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Toren: primeiras impressões</title>
-   <link href="http://example.com/2015/07/16/toren-primeiras-impresoes/"/>
+   <link href="http://example.com/2015/07/16/toren-primeiras-impresoes"/>
    <updated>2015-07-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/16/toren-primeiras-impresoes</id>
    <content type="html">&lt;p&gt;No dia do lançamento de Toren publicamos uma &lt;a href=&quot;/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/&quot;&gt;entrevista com Alessandro Martinello&lt;/a&gt;
@@ -39,7 +39,7 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -114,7 +114,7 @@
  
  <entry>
    <title>Entrevista: Fernando Paulo, criador de Treeker</title>
-   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/"/>
+   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
    <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot; target=&quot;_blank&quot;&gt;Blusoft Studios&lt;/a&gt;
@@ -183,7 +183,7 @@
  
  <entry>
    <title>Novo vídeo de gameplay de Gryphon Knight Epic</title>
-   <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic/"/>
+   <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
    <updated>2015-05-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
    <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&quot; target=&quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
@@ -211,7 +211,7 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6/"/>
+   <link href="http://example.com/2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -245,7 +245,7 @@
  
  <entry>
    <title>Entrevista: Alessandro Martinello, diretor criativo de Toren</title>
-   <link href="http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/"/>
+   <link href="http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren"/>
    <updated>2015-05-12T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren</id>
    <content type="html">&lt;p&gt;Depois de anos de espera, o dia chegou: &lt;a href=&quot;http://toren-game.com/&quot; target=&quot;_blank&quot;&gt;Toren da gaúcha Swordtales&lt;/a&gt;
@@ -305,7 +305,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Nova coluna no jogosdaqui: Insert Coins</title>
-   <link href="http://example.com/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins/"/>
+   <link href="http://example.com/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins"/>
    <updated>2015-05-06T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins</id>
    <content type="html">&lt;p&gt;O jogosdaqui fechou parceria com o canal do &lt;a href=&quot;http://www.youtube.com/insertcoinsplay&quot; target=&quot;_blank&quot;&gt;YouTube Insert Coins&lt;/a&gt;
@@ -328,7 +328,7 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
  
  <entry>
    <title>Labindie divulga jogo indie Milford Heaven</title>
-   <link href="http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven/"/>
+   <link href="http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
    <updated>2015-04-29T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
    <content type="html">&lt;p&gt;Para jogadores que curtem o estilo RPG roguelike point and click medieval, &lt;a title=&quot;Confira na Labindie&quot; href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot; target=&quot;_blank&quot;&gt;Milford Heaven&lt;/a&gt;
@@ -346,7 +346,7 @@ e também para &lt;a title=&quot;Vote na Steam greenlight&quot; href=&quot;http:
  
  <entry>
    <title>Checkpoint #3</title>
-   <link href="http://example.com/2015/04/26/checkpoint-3/"/>
+   <link href="http://example.com/2015/04/26/checkpoint-3"/>
    <updated>2015-04-26T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/26/checkpoint-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -374,7 +374,7 @@ e também para &lt;a title=&quot;Vote na Steam greenlight&quot; href=&quot;http:
  
  <entry>
    <title>Entrevista: Claudio Lins</title>
-   <link href="http://example.com/2015/04/22/entrevista-claudio-lins/"/>
+   <link href="http://example.com/2015/04/22/entrevista-claudio-lins"/>
    <updated>2015-04-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
    <content type="html">&lt;h4 id=&quot;o-jogosdaqui-entrevistou-o-gamedev-brasileiro-claudio-lins-desenvolvedor-do-game-doomedn-damned-e-que-agora-está-trabalhando-no-seu-novo-jogo-o-super-doomedn-damned-que-será-lançado-xbox-one-wii-u-e-pc&quot;&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/h4&gt;
@@ -453,7 +453,7 @@ e também para &lt;a title=&quot;Vote na Steam greenlight&quot; href=&quot;http:
  
  <entry>
    <title>Entrevista: Tiago Moraes da Ovni Studios (parte 2)</title>
-   <link href="http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2/"/>
+   <link href="http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2"/>
    <updated>2011-02-25T00:00:00-03:00</updated>
    <id>http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
@@ -489,7 +489,7 @@ e também para &lt;a title=&quot;Vote na Steam greenlight&quot; href=&quot;http:
  
  <entry>
    <title>Entrevista: Tiago Moraes da Ovni Studios (parte 1)</title>
-   <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1/"/>
+   <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1"/>
    <updated>2011-02-09T00:00:00-02:00</updated>
    <id>http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
@@ -560,7 +560,7 @@ e também para &lt;a title=&quot;Vote na Steam greenlight&quot; href=&quot;http:
  
  <entry>
    <title>Enquete no Gametrack</title>
-   <link href="http://example.com/2005/12/19/enquete-no-gametrack/"/>
+   <link href="http://example.com/2005/12/19/enquete-no-gametrack"/>
    <updated>2005-12-19T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/19/enquete-no-gametrack</id>
    <content type="html">&lt;p&gt;“Qual jogo 3D multiplayer você gostaria de ver no Gametrack?” está é a enquete no ar no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
@@ -574,7 +574,7 @@ Você pode escolher uma entre quatro opções: ping pong, taco, boliche e jogo d
  
  <entry>
    <title>Entrevista: Gametrack</title>
-   <link href="http://example.com/2005/11/14/entrevista-gametrack/"/>
+   <link href="http://example.com/2005/11/14/entrevista-gametrack"/>
    <updated>2005-11-14T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/14/entrevista-gametrack</id>
    <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
@@ -641,7 +641,7 @@ Você pode escolher uma entre quatro opções: ping pong, taco, boliche e jogo d
  
  <entry>
    <title>Entrevista: Espaço Informática</title>
-   <link href="http://example.com/2005/10/26/entrevista-espaco-informatica/"/>
+   <link href="http://example.com/2005/10/26/entrevista-espaco-informatica"/>
    <updated>2005-10-26T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/26/entrevista-espaco-informatica</id>
    <content type="html">&lt;p&gt;[sc:Interview_header text=”A gaúcha Espaço Informática foi fundada pelos irmãos Augusto Bülow e Gustavo Bülow.&lt;/p&gt;

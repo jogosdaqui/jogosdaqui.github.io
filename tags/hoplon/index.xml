@@ -3,7 +3,7 @@
  <title>Your Title - hoplon</title>
  <link href="http://example.com/tags/hoplon/index.xml" rel="self"/>
  <link href="http://example.com/tag/hoplon.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/hoplon.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Documentário "A Mecânica do Jogo"</title>
-   <link href="http://example.com/2010/12/18/documentario-a-mecanica-do-jogo/"/>
+   <link href="http://example.com/2010/12/18/documentario-a-mecanica-do-jogo"/>
    <updated>2010-12-18T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/18/documentario-a-mecanica-do-jogo</id>
    <content type="html">&lt;p&gt;“A Mecânica do Jogo” mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira.&lt;/p&gt;
@@ -29,7 +29,7 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou/"/>
+   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
@@ -188,7 +188,7 @@
  
  <entry>
    <title>Hoplon ganha prêmio da IBM Brasil</title>
-   <link href="http://example.com/2006/01/25/hoplon-ganha-premio-da-ibm-brasil/"/>
+   <link href="http://example.com/2006/01/25/hoplon-ganha-premio-da-ibm-brasil"/>
    <updated>2006-01-25T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/25/hoplon-ganha-premio-da-ibm-brasil</id>
    <content type="html">&lt;p&gt;Com o objetivo de incentivar a atuação dos ISVs (Independent Software Vendors) filiados ao programa PartnerWorld, a IBM Brasil premiou 15 parceiros de negócios que mais se destacaram no ano de 2005. Entre eles, a empresa catarinense Hoplon Infotainment, desenvolvedora do game Taikodom e parceira Advanced - Industry-optimized da IBM, foi selecionada na categoria Mídia &amp;amp; Entretenimento. “Nosso objetivo é atuar cada vez mais perto do ISV, oferecendo todo o suporte necessário para que o desenvolvedor obtenha o melhor proveito das soluções IBM, além de conhecimento sobre as novas tecnologias. Outro fator importante é a troca de experiências entre as empresas envolvidas no programa”, afirma Ruth Harada, gerente de alianças da área de Software da IBM Brasil.&lt;/p&gt;
@@ -205,7 +205,7 @@
  
  <entry>
    <title>Reestruturação na Hoplon</title>
-   <link href="http://example.com/2006/01/10/reestruturacao-na-hoplon/"/>
+   <link href="http://example.com/2006/01/10/reestruturacao-na-hoplon"/>
    <updated>2006-01-10T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/10/reestruturacao-na-hoplon</id>
    <content type="html">&lt;p&gt;Como de costume, tenho boas e más notícias que gostaria de partilhar com vocês, nossos maiores apoiadores, em primeira mão. Em resumo, a excelente notícia é que nós, junto com nosso investidor, estamos renovando nosso compromisso de não colocar o Taikodom no mercado exceto como um produto de excelente qualidade e capaz de satisfazer tanto vocês, que desde há muito participam conosco de seu desenvolvimento, como outros milhares de pessoas maravilhosas como vocês no Brasil, e, quem sabe um dia, no mundo.&lt;/p&gt;
@@ -237,7 +237,7 @@
  
  <entry>
    <title>Taikodom faz ajustes finais</title>
-   <link href="http://example.com/2005/12/22/taikodom-faz-ajustes-finais/"/>
+   <link href="http://example.com/2005/12/22/taikodom-faz-ajustes-finais"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/22/taikodom-faz-ajustes-finais</id>
    <content type="html">&lt;p&gt;Depois de um pré-lançamento ocorrido na EGS (Electronic Game Show), em São Paulo, no mês de novembro, o Taikodom, game massive de ação totalmente elaborado e executado no Brasil, está entrando na reta final antes do seu lançamento comercial.&lt;/p&gt;
@@ -252,7 +252,7 @@
  
  <entry>
    <title>Novas imagens de Taikodom</title>
-   <link href="http://example.com/2005/12/15/novas-imagens-de-taikodom/"/>
+   <link href="http://example.com/2005/12/15/novas-imagens-de-taikodom"/>
    <updated>2005-12-15T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/15/novas-imagens-de-taikodom</id>
    <content type="html">&lt;p&gt;A Hoplon liberou mais 75 novas imagens de Taikodom.
@@ -266,7 +266,7 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Taikodom, Guerras do Território</title>
-   <link href="http://example.com/2005/12/05/taikodom-guerras-do-territorio/"/>
+   <link href="http://example.com/2005/12/05/taikodom-guerras-do-territorio"/>
    <updated>2005-12-05T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/05/taikodom-guerras-do-territorio</id>
    <content type="html">&lt;p&gt;A Hoplon Infotainment colocou no ar o hotsite: &lt;a href=&quot;http://www.taikodom.com.br/hotsite_taiko&quot; target=&quot;_blank&quot;&gt;Taikodom - Guerras do Território.&lt;/a&gt;&lt;/p&gt;
@@ -281,7 +281,7 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Jogos em debate</title>
-   <link href="http://example.com/2005/11/23/jogos-em-debate/"/>
+   <link href="http://example.com/2005/11/23/jogos-em-debate"/>
    <updated>2005-11-23T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/23/jogos-em-debate</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://www.hoplon.com/&quot;&gt;Hoplon Infotainment&lt;/a&gt;
@@ -295,7 +295,7 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Acompanhe o Taikodom na EGS</title>
-   <link href="http://example.com/2005/11/19/acompanhe-o-taikodom-na-egs/"/>
+   <link href="http://example.com/2005/11/19/acompanhe-o-taikodom-na-egs"/>
    <updated>2005-11-19T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/19/acompanhe-o-taikodom-na-egs</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.taikodom.com.br/hot_egs/index.jsp?pg=dia2/home&quot; target=&quot;_blank&quot;&gt;hotsite Taikodom na EGS&lt;/a&gt;
@@ -311,7 +311,7 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Taikodom será lançado na EGS</title>
-   <link href="http://example.com/2005/11/16/taikodom-sera-lancado-na-egs/"/>
+   <link href="http://example.com/2005/11/16/taikodom-sera-lancado-na-egs"/>
    <updated>2005-11-16T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/16/taikodom-sera-lancado-na-egs</id>
    <content type="html">&lt;p&gt;Taikodom será lançado na EGS.&lt;/p&gt;
@@ -338,7 +338,7 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Curtas do dia...</title>
-   <link href="http://example.com/2005/10/05/curtas-do-dia/"/>
+   <link href="http://example.com/2005/10/05/curtas-do-dia"/>
    <updated>2005-10-05T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/05/curtas-do-dia</id>
    <content type="html">&lt;ul&gt;
@@ -355,7 +355,7 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Novas modificações no Taikodom</title>
-   <link href="http://example.com/2005/09/27/novas-modificacoes-no-taikodom/"/>
+   <link href="http://example.com/2005/09/27/novas-modificacoes-no-taikodom"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/27/novas-modificacoes-no-taikodom</id>
    <content type="html">&lt;p&gt;O jogo Taikodom recebeu nesta semana novas modificações em seu sistema para reduzir os bugs que aconteciam nos testes. Segundo as instruções e apontamentos realizados pelos próprios usuários inscritos no Beta Teste, foram detectados alguns defeitos que impediam a perfeita jogabilidade do Taikodom. Bugs que incomodam muito a comunidade, como a Inteligência Artificial para navegação, estão recebendo atenção especial da equipe para melhorar a experiência no universo.Taikodom é um jogo multiplayer online e está atualmente em beta aberto, ou seja, todos os interessados podem testar o jogo fazendo o download pelo site &lt;a href=&quot;http://www.taikodom.com.br&quot;&gt;www.taikodom.com.br&lt;/a&gt;&lt;/p&gt;
@@ -365,7 +365,7 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Taikodom</title>
-   <link href="http://example.com/2005/09/21/taikodom/"/>
+   <link href="http://example.com/2005/09/21/taikodom"/>
    <updated>2005-09-21T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/21/taikodom</id>
    <content type="html">&lt;p&gt;Taikodom é um Massively Multiplayer Online Game (MMO) baseado no universo desenvolvido pela Hoplon e o escritor de ficção científica Gerson Lodi-Ribeiro.&lt;/p&gt;

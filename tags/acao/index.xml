@@ -3,7 +3,7 @@
  <title>Your Title - acao</title>
  <link href="http://example.com/tags/acao/index.xml" rel="self"/>
  <link href="http://example.com/tag/acao.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/acao.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>ZombieZoid - Zenith</title>
-   <link href="http://example.com/2015/10/07/zombiezoid-zenith/"/>
+   <link href="http://example.com/2015/10/07/zombiezoid-zenith"/>
    <updated>2015-10-07T00:00:00-03:00</updated>
    <id>http://example.com/2015/10/07/zombiezoid-zenith</id>
    <content type="html">&lt;p&gt;Se você é fã dos filmes de zumbi de George A. Romero, como os clássicos A Noite dos Mortos  Vivos (Night of the Living Dead) e Despertar dos Mortos (Dawn of the Dead), mas também gosta de um bom toque de humor como o filme Todo Mundo Quase Morto (Shaun of the Dead) de Edgar Wright, então o jogo que a brasileira Adhoc Games passou dois anos desenvolvendo foi feito pra você.&lt;/p&gt;
@@ -43,7 +43,7 @@
  
  <entry>
    <title>Versão beta de Odallus - The Dark Call</title>
-   <link href="http://example.com/2015/07/02/versao-beta-de-odallus-the-dark-call/"/>
+   <link href="http://example.com/2015/07/02/versao-beta-de-odallus-the-dark-call"/>
    <updated>2015-07-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/02/versao-beta-de-odallus-the-dark-call</id>
    <content type="html">&lt;p&gt;Começou a fase de beta teste do game brasileiro Odallus - The Dark Call da JoyMasher.&lt;/p&gt;
@@ -64,7 +64,7 @@
  
  <entry>
    <title>Faça parte da batalha tecnológica de Warbots</title>
-   <link href="http://example.com/2006/01/17/faca-parte-da-batalha-tecnologica-de-warbots/"/>
+   <link href="http://example.com/2006/01/17/faca-parte-da-batalha-tecnologica-de-warbots"/>
    <updated>2006-01-17T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/17/faca-parte-da-batalha-tecnologica-de-warbots</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=40&quot;&gt;Délirus Entertainment&lt;/a&gt;
@@ -87,7 +87,7 @@
  
  <entry>
    <title>Pequeno Guardião do Tempo</title>
-   <link href="http://example.com/2005/12/01/pequeno-guardiao-do-tempo/"/>
+   <link href="http://example.com/2005/12/01/pequeno-guardiao-do-tempo"/>
    <updated>2005-12-01T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/01/pequeno-guardiao-do-tempo</id>
    <content type="html">&lt;p&gt;Minhoca Games, um grupo de profissionais formado durante o Curso de Desenvolvimento e Design de Jogos 3D da PUC-Rio apresenta o “Pequeno Guardião do Tempo”, que é um jogo de ação/aventura em terceira pessoa, seguindo o estilo de jogos como Harry Potter da EA, Rayman da Ubisoft, The Incredibles da THQ, entre outros.&lt;/p&gt;
@@ -107,7 +107,7 @@
  
  <entry>
    <title>Riding Ground</title>
-   <link href="http://example.com/2005/10/15/riding-ground/"/>
+   <link href="http://example.com/2005/10/15/riding-ground"/>
    <updated>2005-10-15T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/15/riding-ground</id>
    <content type="html">&lt;p&gt;Rinding Ground é um jogo de ação/aventura em terceira pessoa em que o jogador controla Laura, uma garota que tem a missão de ajudar seus tios a salvar o Haras da família de um malvado construtor.&lt;/p&gt;
@@ -120,7 +120,7 @@
  
  <entry>
    <title>Incidente em Varginha</title>
-   <link href="http://example.com/2005/09/19/incidente-em-varginha/"/>
+   <link href="http://example.com/2005/09/19/incidente-em-varginha"/>
    <updated>2005-09-19T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/19/incidente-em-varginha</id>
    <content type="html">&lt;p&gt;No jogo da brasileira &lt;a href=&quot;http://www.perceptum.com/&quot; target=&quot;_blank&quot;&gt;Perceptum&lt;/a&gt;

@@ -3,7 +3,7 @@
  <title>Your Title - playmove</title>
  <link href="http://example.com/tags/playmove/index.xml" rel="self"/>
  <link href="http://example.com/tag/playmove.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/playmove.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Xmile e Playmove firmam parceria</title>
-   <link href="http://example.com/2015/09/30/xmile-e-playmove-firmam-parceria/"/>
+   <link href="http://example.com/2015/09/30/xmile-e-playmove-firmam-parceria"/>
    <updated>2015-09-30T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/30/xmile-e-playmove-firmam-parceria</id>
    <content type="html">&lt;p&gt;Em julho passado &lt;a href=&quot;/2015/07/20/playtable-busca-desenvolvedores/&quot;&gt;falamos aqui no jogosdaqui&lt;/a&gt;
@@ -56,7 +56,7 @@
  
  <entry>
    <title>PlayTable busca desenvolvedores</title>
-   <link href="http://example.com/2015/07/20/playtable-busca-desenvolvedores/"/>
+   <link href="http://example.com/2015/07/20/playtable-busca-desenvolvedores"/>
    <updated>2015-07-20T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/20/playtable-busca-desenvolvedores</id>
    <content type="html">&lt;p&gt;A  Playmove de Blumenau, Santa Catarina, empresa desenvolvedora da &lt;a href=&quot;http://playtable.com.br/&quot; target=&quot;_blank&quot;&gt;PlayTable&lt;/a&gt;

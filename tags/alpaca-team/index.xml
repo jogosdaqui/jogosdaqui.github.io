@@ -3,7 +3,7 @@
  <title>Your Title - alpaca-team</title>
  <link href="http://example.com/tags/alpaca-team/index.xml" rel="self"/>
  <link href="http://example.com/tag/alpaca-team.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/alpaca-team.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Luke at the Stars</title>
-   <link href="http://example.com/2013/04/08/luke-at-the-stars/"/>
+   <link href="http://example.com/2013/04/08/luke-at-the-stars"/>
    <updated>2013-04-08T00:00:00-03:00</updated>
    <id>http://example.com/2013/04/08/luke-at-the-stars</id>
    <content type="html">&lt;p&gt;Luke at the Stars é o primeiro game da &lt;a href=&quot;http://alpacateam.com/&quot;&gt;Alpaca Team&lt;/a&gt;

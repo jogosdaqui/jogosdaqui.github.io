@@ -3,7 +3,7 @@
  <title>Your Title - open-source</title>
  <link href="http://example.com/tags/open-source/index.xml" rel="self"/>
  <link href="http://example.com/tag/open-source.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/open-source.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Projeto experimental de Software Livre da TILT online</title>
-   <link href="http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online/"/>
+   <link href="http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online"/>
    <updated>2005-10-17T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online</id>
    <content type="html">&lt;p&gt;Há muito tempo temos debatido o uso dos mecanismos do software livre em jogos comerciais. Algumas pessoas não aceitam a possibilidade deste mecanismo funcionar no caso específico de jogos. Outras simplesmente acreditam que, se funciona para o Linux, funciona para tudo mais (cura até unha encravada).&lt;/p&gt;
@@ -36,7 +36,7 @@
  
  <entry>
    <title>Workshop de Jogos Digitais na Educação</title>
-   <link href="http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao/"/>
+   <link href="http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
    <content type="html">&lt;p&gt;O Workshop de Jogos Digitais na Educação trata-se de um evento que irá ocorrer paralelamente ao XVI Simpósio Brasileiro de Informática na Educação (SBIE 2005) e abordará as questões interdisciplinares envolvidas nos jogos digitais no âmbito educacional como ferramenta de ensino-aprendizagem, desde a Educação Infantil aos programas de pós-graduação.&lt;/p&gt;
@@ -68,7 +68,7 @@
  
  <entry>
    <title>Outgun</title>
-   <link href="http://example.com/2005/09/28/outgun/"/>
+   <link href="http://example.com/2005/09/28/outgun"/>
    <updated>2005-09-28T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/28/outgun</id>
    <content type="html">&lt;p&gt;Outgun é um jogo multijogador simples de captura de bandeira com gráficos 2D para ser jogado em uma rede. Até 32 jogadores são suportados em uma partida com 16 jogadores em cada um dos dois times. Após iniciar o jogo, basta usar o menu para localizar servidores onde é possível jogar on-line.&lt;/p&gt;

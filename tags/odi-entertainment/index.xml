@@ -3,7 +3,7 @@
  <title>Your Title - odi-entertainment</title>
  <link href="http://example.com/tags/odi-entertainment/index.xml" rel="self"/>
  <link href="http://example.com/tag/odi-entertainment.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/odi-entertainment.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Super Flappy Soccer Ball</title>
-   <link href="http://example.com/2014/05/04/super-flappy-soccer-ball/"/>
+   <link href="http://example.com/2014/05/04/super-flappy-soccer-ball"/>
    <updated>2014-05-04T00:00:00-03:00</updated>
    <id>http://example.com/2014/05/04/super-flappy-soccer-ball</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Thiago Brayner em colaboração para o jogosdaqui.&lt;/span&gt;&lt;/p&gt;

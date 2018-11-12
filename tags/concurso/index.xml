@@ -3,7 +3,7 @@
  <title>Your Title - concurso</title>
  <link href="http://example.com/tags/concurso/index.xml" rel="self"/>
  <link href="http://example.com/tag/concurso.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/concurso.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Concurso Souking - Power UP</title>
-   <link href="http://example.com/2015/09/02/concurso-souking-power-up/"/>
+   <link href="http://example.com/2015/09/02/concurso-souking-power-up"/>
    <updated>2015-09-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/02/concurso-souking-power-up</id>
    <content type="html">&lt;h2 id=&quot;3ª-power-up&quot;&gt;3ª Power UP&lt;/h2&gt;
@@ -48,7 +48,7 @@
  
  <entry>
    <title>1º Minas Games Festival</title>
-   <link href="http://example.com/2015/06/12/1o-minas-games-festival/"/>
+   <link href="http://example.com/2015/06/12/1o-minas-games-festival"/>
    <updated>2015-06-12T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/12/1o-minas-games-festival</id>
    <content type="html">&lt;p&gt;Em junho, durante quatro dias acontecerá em Belo Horizonte o 1º Minas Games Festival, evento que contará com várias atrações, como palestras, game jam, exposição de indie games, concurso de cosplay e oficinas.&lt;/p&gt;
@@ -111,7 +111,7 @@
  
  <entry>
    <title>Carcará - Asas da Justiça</title>
-   <link href="http://example.com/2015/05/28/carcara-asas-da-justica/"/>
+   <link href="http://example.com/2015/05/28/carcara-asas-da-justica"/>
    <updated>2015-05-28T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/28/carcara-asas-da-justica</id>
    <content type="html">&lt;p&gt;Quem já assistiu os famosos filmes de tribunal, clássicos do cinema como O Cliente, Tempo de Matar e Julgamento em Nuremberg, provavelmente se imaginou sendo o advogado protagonista do filme, lutando com a lógica e a verdade num caso que, por quase todos os pontos de vista, parece perdido, mas que com audácia e inteligência incomum acaba sendo vencido.&lt;/p&gt;
@@ -145,7 +145,7 @@
  
  <entry>
    <title>Manifesto Games vence concurso nacional</title>
-   <link href="http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional/"/>
+   <link href="http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional"/>
    <updated>2015-03-30T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional</id>
    <content type="html">&lt;p&gt;A brasileira Manifesto Games, que possui escritórios em Recife e São Paulo, foi a grande vencedora do &lt;a href=&quot;http://www.jogosfinanceiros.sebrae.com.br/jogos_empreendedores/index.jsf&quot;&gt;Prêmio de Desenvolvimento de Jogos de Educação Financeira&lt;/a&gt;
@@ -165,7 +165,7 @@
  
  <entry>
    <title>Splitplay apresenta: HTR+ High Tech Racing+</title>
-   <link href="http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing/"/>
+   <link href="http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing"/>
    <updated>2014-06-18T00:00:00-03:00</updated>
    <id>http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por QUByte Interactive em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
@@ -196,7 +196,7 @@ Envie seus recordes em cada pista e tente ser o melhor no ranking online!&lt;/p&
  
  <entry>
    <title>Nhom</title>
-   <link href="http://example.com/2014/04/25/nhom/"/>
+   <link href="http://example.com/2014/04/25/nhom"/>
    <updated>2014-04-25T00:00:00-03:00</updated>
    <id>http://example.com/2014/04/25/nhom</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Natália Couto em colaboração para o jogosdaqui.&lt;/span&gt;&lt;/p&gt;
@@ -228,7 +228,7 @@ Gostou? Então baixe Nhom diretamente do &lt;a href=&quot;https://play.google.co
  
  <entry>
    <title>V de Vinagre</title>
-   <link href="http://example.com/2013/06/17/v-de-vinagre/"/>
+   <link href="http://example.com/2013/06/17/v-de-vinagre"/>
    <updated>2013-06-17T00:00:00-03:00</updated>
    <id>http://example.com/2013/06/17/v-de-vinagre</id>
    <content type="html">&lt;p&gt;A Flux Game Studio, vencedora no final de 2012 do concurso de Criação de Game de Educação Financeira da SBGames e Banco do Brasil, está antenada com que acontece no país, pois acaba de lançar o game &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot; target=&quot;_blank&quot;&gt;V de Vinagre&lt;/a&gt;
@@ -253,7 +253,7 @@ Gostou? Então baixe Nhom diretamente do &lt;a href=&quot;https://play.google.co
  
  <entry>
    <title>Os fatos do ano</title>
-   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2/"/>
+   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2"/>
    <updated>2010-12-31T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/31/os-fatos-do-ano-2</id>
    <content type="html">&lt;p&gt;Perguntamos aos nossos leitores: &lt;strong&gt;&amp;gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?&quot;&lt;/strong&gt;.
@@ -346,7 +346,7 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.&lt;/p&gt;
  
  <entry>
    <title>PalmSoft lança três jogos em janeiro</title>
-   <link href="http://example.com/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro/"/>
+   <link href="http://example.com/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro"/>
    <updated>2006-01-16T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro</id>
    <content type="html">&lt;p&gt;A PalmSoft Tecnologia, empresa catarinense que desenvolve jogos para celular, está com três novidades. A primeira delas &lt;a href=&quot;/2005/10/13/shadows-of-malquidious/&quot;&gt;Shadows of Malquidious&lt;/a&gt;
@@ -365,7 +365,7 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.&lt;/p&gt;
  
  <entry>
    <title>Lançado o site da 2ª edição do concurso JogosBr</title>
-   <link href="http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr/"/>
+   <link href="http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr"/>
    <updated>2005-12-18T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr</id>
    <content type="html">&lt;p&gt;O Ministério da Cultura lançou oficialmente o site da segunda edição do concurso JogosBr.&lt;/p&gt;
@@ -383,7 +383,7 @@ Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
  
  <entry>
    <title>Top Game Show 2006</title>
-   <link href="http://example.com/2005/12/02/top-game-show-2006/"/>
+   <link href="http://example.com/2005/12/02/top-game-show-2006"/>
    <updated>2005-12-02T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/02/top-game-show-2006</id>
    <content type="html">&lt;h2 id=&quot;o-que-é&quot;&gt;O que é?&lt;/h2&gt;
@@ -407,7 +407,7 @@ Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
  
  <entry>
    <title>Segunda edição do concurso JogosBr</title>
-   <link href="http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr/"/>
+   <link href="http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr"/>
    <updated>2005-11-02T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr</id>
    <content type="html">&lt;p&gt;Em novembro será lançado o “Segundo Concurso de Idéias Originais E Demos de Jogos Eletrônicos - JogosBr”. O Concurso tem como objetivo estimular o desenvolvimento de jogos eletrônicos (ou games) no mercado nacional.&lt;/p&gt;
@@ -421,7 +421,7 @@ Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
  
  <entry>
    <title>Interama: empresa criada com recursos do JogosBR</title>
-   <link href="http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr/"/>
+   <link href="http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr"/>
    <updated>2005-10-21T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr</id>
    <content type="html">&lt;p&gt;Os jogadores brasileiros em breve poderão curtir os jogos de uma nova empresa brasileira, a &lt;span style=&quot;font-weight: bold;&quot;&gt;Interama&lt;/span&gt;, que pretende ser uma inovadora desenvolvedora de jogos 3D. Seu objetivo é lançar jogos diferentes, ousados, que vão além do comum. É explorar novos temas e novas fronteiras.&lt;/p&gt;
@@ -434,7 +434,7 @@ Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
  
  <entry>
    <title>Come-Come</title>
-   <link href="http://example.com/2005/10/20/come-come/"/>
+   <link href="http://example.com/2005/10/20/come-come"/>
    <updated>2005-10-20T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/20/come-come</id>
    <content type="html">&lt;p&gt;O Come-Come é simples, mas agradável. Lembra velhos bons jogos do tempo do DOS. O jogador comanda um urso que anda pelo tabuleiro comendo coisas que encontra. Quando devora tudo, progride para uma fase mais difícil.&lt;/p&gt;

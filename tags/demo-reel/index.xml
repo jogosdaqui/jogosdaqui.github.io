@@ -3,7 +3,7 @@
  <title>Your Title - demo-reel</title>
  <link href="http://example.com/tags/demo-reel/index.xml" rel="self"/>
  <link href="http://example.com/tag/demo-reel.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/demo-reel.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -86,7 +86,7 @@
  
  <entry>
    <title>Demo Reel da Odin Game Studio</title>
-   <link href="http://example.com/2015/05/14/demo-reel-da-odin-game-studio/"/>
+   <link href="http://example.com/2015/05/14/demo-reel-da-odin-game-studio"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/demo-reel-da-odin-game-studio</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;

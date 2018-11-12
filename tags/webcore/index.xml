@@ -3,7 +3,7 @@
  <title>Your Title - webcore</title>
  <link href="http://example.com/tags/webcore/index.xml" rel="self"/>
  <link href="http://example.com/tag/webcore.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/webcore.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9/"/>
+   <link href="http://example.com/2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -57,7 +57,7 @@
  
  <entry>
    <title>Prévia de My Night Job da Webcore Games</title>
-   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games/"/>
+   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games"/>
    <updated>2015-06-10T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
    <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
@@ -101,7 +101,7 @@
  
  <entry>
    <title>Conheça os games selecionados no BIG Starter 2015</title>
-   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter/"/>
+   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
    <updated>2015-06-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;
@@ -155,7 +155,7 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou/"/>
+   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;

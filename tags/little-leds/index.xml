@@ -3,7 +3,7 @@
  <title>Your Title - little-leds</title>
  <link href="http://example.com/tags/little-leds/index.xml" rel="self"/>
  <link href="http://example.com/tag/little-leds.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/little-leds.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -86,7 +86,7 @@
  
  <entry>
    <title>Sky High Chickens</title>
-   <link href="http://example.com/2015/05/20/sky-high-chickens/"/>
+   <link href="http://example.com/2015/05/20/sky-high-chickens"/>
    <updated>2015-05-20T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/20/sky-high-chickens</id>
    <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://littleleds.com&quot; target=&quot;_blank&quot;&gt;Little Leds&lt;/a&gt;
@@ -111,7 +111,7 @@
  
  <entry>
    <title>A Vítima de Ouro</title>
-   <link href="http://example.com/2015/03/23/a-vitima-de-ouro/"/>
+   <link href="http://example.com/2015/03/23/a-vitima-de-ouro"/>
    <updated>2015-03-23T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/23/a-vitima-de-ouro</id>
    <content type="html">&lt;p&gt;Com saudades daqueles bons momentos jogando clássicos point and click como The Dig, Full Throttle e Day of Tentacle?&lt;/p&gt;

@@ -3,7 +3,7 @@
  <title>Your Title - qubyte-interactive</title>
  <link href="http://example.com/tags/qubyte-interactive/index.xml" rel="self"/>
  <link href="http://example.com/tag/qubyte-interactive.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/qubyte-interactive.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Games brasileiros em crowdfunding</title>
-   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding/"/>
+   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding"/>
    <updated>2015-08-29T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
    <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
@@ -61,7 +61,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Crowdfunding de 99Vidas o jogo</title>
-   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo/"/>
+   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
    <content type="html">&lt;p&gt;O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat’em up, grandes clássicos e referências para qualquer game do gênero.&lt;/p&gt;
@@ -92,7 +92,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Imagens da semana #12</title>
-   <link href="http://example.com/2015/06/22/imagens-da-semana-12/"/>
+   <link href="http://example.com/2015/06/22/imagens-da-semana-12"/>
    <updated>2015-06-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/22/imagens-da-semana-12</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -115,7 +115,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Imagens da semana #7</title>
-   <link href="http://example.com/2015/05/18/imagens-da-semana-7/"/>
+   <link href="http://example.com/2015/05/18/imagens-da-semana-7"/>
    <updated>2015-05-18T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/18/imagens-da-semana-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -144,7 +144,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5/"/>
+   <link href="http://example.com/2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -190,7 +190,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Ganhadores da promoção do game Recruits</title>
-   <link href="http://example.com/2015/05/08/ganhadores-da-promocao-do-game-recruits/"/>
+   <link href="http://example.com/2015/05/08/ganhadores-da-promocao-do-game-recruits"/>
    <updated>2015-05-08T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/08/ganhadores-da-promocao-do-game-recruits</id>
    <content type="html">&lt;p&gt;Os participantes sorteados que seguiram todas as regras da  &lt;a href=&quot;/2015/05/05/promocao-do-game-recruits-make-heroes-make-history/&quot;&gt;promoção do game Recruits - Make Heroes. Make History.&lt;/a&gt;
@@ -222,7 +222,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Revelado novo game da QUByte Interactive: Recruits</title>
-   <link href="http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/"/>
+   <link href="http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
    <content type="html">&lt;p&gt;Semana passada &lt;a href=&quot;/2015/04/30/qubyte-interactive-produzindo-novo-game/&quot;&gt;anunciamos&lt;/a&gt;
@@ -253,7 +253,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Promoção do game Recruits - Make Heroes. Make History.</title>
-   <link href="http://example.com/2015/05/05/promocao-do-game-recruits-make-heroes-make-history/"/>
+   <link href="http://example.com/2015/05/05/promocao-do-game-recruits-make-heroes-make-history"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/05/promocao-do-game-recruits-make-heroes-make-history</id>
    <content type="html">&lt;p&gt;A QUByte Interactive nos enviou 3 Steam keys do seu &lt;a href=&quot;/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/&quot;&gt;novo game Recruits - Make Heroes. Make History.&lt;/a&gt;
@@ -280,7 +280,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4/"/>
+   <link href="http://example.com/2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -329,7 +329,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>QUByte Interactive produzindo novo game</title>
-   <link href="http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game/"/>
+   <link href="http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game"/>
    <updated>2015-04-30T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game</id>
    <content type="html">&lt;p&gt;A paulista QUByte Interactive, conhecida pelo jogo &lt;a href=&quot;/2014/06/18/splitplay-apresenta-htr-high-tech-racing/&quot; title=&quot;Splitplay apresenta: HTR+ High Tech Racing+&quot;&gt;HTR+&lt;/a&gt;
@@ -348,7 +348,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Imagens da semana #4</title>
-   <link href="http://example.com/2015/04/27/imagens-da-semana-4/"/>
+   <link href="http://example.com/2015/04/27/imagens-da-semana-4"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/27/imagens-da-semana-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -377,7 +377,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Axis Game Day</title>
-   <link href="http://example.com/2015/04/17/axis-game-day/"/>
+   <link href="http://example.com/2015/04/17/axis-game-day"/>
    <updated>2015-04-17T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/17/axis-game-day</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.axis.art.br&quot; target=&quot;_blank&quot;&gt;AXIS-Gnomon School of Visual Effects&lt;/a&gt;
@@ -399,7 +399,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Novo vídeo de play test de HTR+</title>
-   <link href="http://example.com/2015/03/19/novo-video-de-play-test-de-htr/"/>
+   <link href="http://example.com/2015/03/19/novo-video-de-play-test-de-htr"/>
    <updated>2015-03-19T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/19/novo-video-de-play-test-de-htr</id>
    <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://www.qubyteinteractive.com&quot;&gt;Qubyte Interactive&lt;/a&gt;
@@ -419,7 +419,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Splitplay apresenta: HTR+ High Tech Racing+</title>
-   <link href="http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing/"/>
+   <link href="http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing"/>
    <updated>2014-06-18T00:00:00-03:00</updated>
    <id>http://example.com/2014/06/18/splitplay-apresenta-htr-high-tech-racing</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por QUByte Interactive em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;

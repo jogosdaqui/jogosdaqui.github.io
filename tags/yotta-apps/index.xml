@@ -3,7 +3,7 @@
  <title>Your Title - yotta-apps</title>
  <link href="http://example.com/tags/yotta-apps/index.xml" rel="self"/>
  <link href="http://example.com/tag/yotta-apps.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/yotta-apps.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Delivery Box</title>
-   <link href="http://example.com/2012/02/28/delivery-box/"/>
+   <link href="http://example.com/2012/02/28/delivery-box"/>
    <updated>2012-02-28T00:00:00-03:00</updated>
    <id>http://example.com/2012/02/28/delivery-box</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.yottaapps.com.br/aplicativos/delivery-box/&quot; target=&quot;_blank&quot;&gt;Delivery Box&lt;/a&gt;

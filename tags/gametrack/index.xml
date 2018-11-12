@@ -3,7 +3,7 @@
  <title>Your Title - gametrack</title>
  <link href="http://example.com/tags/gametrack/index.xml" rel="self"/>
  <link href="http://example.com/tag/gametrack.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/gametrack.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Novidades no Gametrack</title>
-   <link href="http://example.com/2006/01/26/novidades-no-gametrack/"/>
+   <link href="http://example.com/2006/01/26/novidades-no-gametrack"/>
    <updated>2006-01-26T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/26/novidades-no-gametrack</id>
    <content type="html">&lt;p&gt;Dois novos jogos foram colocados no ar no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
@@ -25,7 +25,7 @@
  
  <entry>
    <title>Vôlei de Praia</title>
-   <link href="http://example.com/2005/12/26/volei-de-praia/"/>
+   <link href="http://example.com/2005/12/26/volei-de-praia"/>
    <updated>2005-12-26T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/26/volei-de-praia</id>
    <content type="html">&lt;p&gt;Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
@@ -44,7 +44,7 @@
  
  <entry>
    <title>Enquete no Gametrack</title>
-   <link href="http://example.com/2005/12/19/enquete-no-gametrack/"/>
+   <link href="http://example.com/2005/12/19/enquete-no-gametrack"/>
    <updated>2005-12-19T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/19/enquete-no-gametrack</id>
    <content type="html">&lt;p&gt;“Qual jogo 3D multiplayer você gostaria de ver no Gametrack?” está é a enquete no ar no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
@@ -58,7 +58,7 @@ Você pode escolher uma entre quatro opções: ping pong, taco, boliche e jogo d
  
  <entry>
    <title>NewsAbragames - Dezembro/2005</title>
-   <link href="http://example.com/2005/12/07/newsabragames-dezembro2005/"/>
+   <link href="http://example.com/2005/12/07/newsabragames-dezembro2005"/>
    <updated>2005-12-07T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/07/newsabragames-dezembro2005</id>
    <content type="html">&lt;p&gt;Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) acaba de divulgar a edição deste mês da sua newsletter.&lt;/p&gt;
@@ -73,7 +73,7 @@ Você pode escolher uma entre quatro opções: ping pong, taco, boliche e jogo d
  
  <entry>
    <title>WAR</title>
-   <link href="http://example.com/2005/11/28/war/"/>
+   <link href="http://example.com/2005/11/28/war"/>
    <updated>2005-11-28T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/28/war</id>
    <content type="html">&lt;p&gt;WAR, o famoso jogo de tabuleiro onde a estratégia decidia o rumo das jogadas, agora pode ser jogado online.
@@ -94,7 +94,7 @@ Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando 
  
  <entry>
    <title>Gametrack ganha mais 2 jogos</title>
-   <link href="http://example.com/2005/11/22/gametrack-ganha-mais-2-jogos/"/>
+   <link href="http://example.com/2005/11/22/gametrack-ganha-mais-2-jogos"/>
    <updated>2005-11-22T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/22/gametrack-ganha-mais-2-jogos</id>
    <content type="html">&lt;p&gt;O portal &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;Gametrack&lt;/a&gt;
@@ -109,7 +109,7 @@ Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando 
  
  <entry>
    <title>Pato Possante</title>
-   <link href="http://example.com/2005/11/19/pato-possante/"/>
+   <link href="http://example.com/2005/11/19/pato-possante"/>
    <updated>2005-11-19T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/19/pato-possante</id>
    <content type="html">&lt;p&gt;Pato Possante é um jogo de corrida diferente. Você percebe isso logo no início, pois o personagem do jogo é um pato no controle de um singelo kart.&lt;/p&gt;
@@ -125,7 +125,7 @@ Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando 
  
  <entry>
    <title>Entrevista: Gametrack</title>
-   <link href="http://example.com/2005/11/14/entrevista-gametrack/"/>
+   <link href="http://example.com/2005/11/14/entrevista-gametrack"/>
    <updated>2005-11-14T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/14/entrevista-gametrack</id>
    <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
@@ -192,7 +192,7 @@ Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando 
  
  <entry>
    <title>Pebolim 3D</title>
-   <link href="http://example.com/2005/11/13/pebolim-3d/"/>
+   <link href="http://example.com/2005/11/13/pebolim-3d"/>
    <updated>2005-11-13T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/13/pebolim-3d</id>
    <content type="html">&lt;p&gt;Pebolim 3D traz toda a diversão do jogo real de pebolim e ainda mais.&lt;/p&gt;
@@ -213,7 +213,7 @@ Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando 
  
  <entry>
    <title>GameTrack - Portal de jogos online</title>
-   <link href="http://example.com/2005/09/26/gametrack-portal-de-jogos-online/"/>
+   <link href="http://example.com/2005/09/26/gametrack-portal-de-jogos-online"/>
    <updated>2005-09-26T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/26/gametrack-portal-de-jogos-online</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;GameTrack&lt;/a&gt;

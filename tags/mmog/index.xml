@@ -3,7 +3,7 @@
  <title>Your Title - mmog</title>
  <link href="http://example.com/tags/mmog/index.xml" rel="self"/>
  <link href="http://example.com/tag/mmog.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/mmog.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>FutSim</title>
-   <link href="http://example.com/2005/10/13/futsim/"/>
+   <link href="http://example.com/2005/10/13/futsim"/>
    <updated>2005-10-13T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/13/futsim</id>
    <content type="html">&lt;p&gt;O FutSim é um jogo online onde o usuário assume o papel de um técnico de um clube de futebol. Único jogo do gênero no mundo onde os usuários podem ver as suas partidas ao vivo, também é o primeiro jogo com milhares de jogadores simultâneos (massively multiplayer online game) 100% brasileiro.&lt;/p&gt;
@@ -24,7 +24,7 @@
  
  <entry>
    <title>Taikodom</title>
-   <link href="http://example.com/2005/09/21/taikodom/"/>
+   <link href="http://example.com/2005/09/21/taikodom"/>
    <updated>2005-09-21T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/21/taikodom</id>
    <content type="html">&lt;p&gt;Taikodom é um Massively Multiplayer Online Game (MMO) baseado no universo desenvolvido pela Hoplon e o escritor de ficção científica Gerson Lodi-Ribeiro.&lt;/p&gt;

@@ -3,7 +3,7 @@
  <title>Your Title - demo</title>
  <link href="http://example.com/tags/demo/index.xml" rel="self"/>
  <link href="http://example.com/tag/demo.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/demo.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>ZombieZoid - Zenith</title>
-   <link href="http://example.com/2015/10/07/zombiezoid-zenith/"/>
+   <link href="http://example.com/2015/10/07/zombiezoid-zenith"/>
    <updated>2015-10-07T00:00:00-03:00</updated>
    <id>http://example.com/2015/10/07/zombiezoid-zenith</id>
    <content type="html">&lt;p&gt;Se você é fã dos filmes de zumbi de George A. Romero, como os clássicos A Noite dos Mortos  Vivos (Night of the Living Dead) e Despertar dos Mortos (Dawn of the Dead), mas também gosta de um bom toque de humor como o filme Todo Mundo Quase Morto (Shaun of the Dead) de Edgar Wright, então o jogo que a brasileira Adhoc Games passou dois anos desenvolvendo foi feito pra você.&lt;/p&gt;
@@ -43,7 +43,7 @@
  
  <entry>
    <title>RacketBoy da Double Dash Studios</title>
-   <link href="http://example.com/2015/08/20/racketboy-da-double-dash-studios/"/>
+   <link href="http://example.com/2015/08/20/racketboy-da-double-dash-studios"/>
    <updated>2015-08-20T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/20/racketboy-da-double-dash-studios</id>
    <content type="html">&lt;p&gt;Lembra de Breakout de 1972, clássico game que deu origem ao estilo de games de quebrar blocos, seguido por outros clássicos como Arkanoid de 1986?&lt;/p&gt;
@@ -82,7 +82,7 @@
  
  <entry>
    <title>Bundle de 30 games brasileiros totalmente gratuitos</title>
-   <link href="http://example.com/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos/"/>
+   <link href="http://example.com/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos"/>
    <updated>2015-08-18T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.splitplay.com/&quot; target=&quot;_blank&quot;&gt;Splitplay&lt;/a&gt;
@@ -115,7 +115,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Crowdfunding de 99Vidas o jogo</title>
-   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo/"/>
+   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
    <content type="html">&lt;p&gt;O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat’em up, grandes clássicos e referências para qualquer game do gênero.&lt;/p&gt;
@@ -146,7 +146,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Crowdfunding de Satellite Rush</title>
-   <link href="http://example.com/2015/07/21/crowdfunding-de-satellite-rush/"/>
+   <link href="http://example.com/2015/07/21/crowdfunding-de-satellite-rush"/>
    <updated>2015-07-21T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/21/crowdfunding-de-satellite-rush</id>
    <content type="html">&lt;p&gt;Quando postamos sobre &lt;a href=&quot;/2014/05/22/splitplay-apresenta-satellite-rush/&quot; target=&quot;_blank&quot;&gt;Satellite Rush&lt;/a&gt;
@@ -179,7 +179,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -254,7 +254,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Entrevista: Fernando Paulo, criador de Treeker</title>
-   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/"/>
+   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
    <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot; target=&quot;_blank&quot;&gt;Blusoft Studios&lt;/a&gt;
@@ -323,7 +323,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Imagens da semana #7</title>
-   <link href="http://example.com/2015/05/18/imagens-da-semana-7/"/>
+   <link href="http://example.com/2015/05/18/imagens-da-semana-7"/>
    <updated>2015-05-18T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/18/imagens-da-semana-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -352,7 +352,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Demo Reel da Odin Game Studio</title>
-   <link href="http://example.com/2015/05/14/demo-reel-da-odin-game-studio/"/>
+   <link href="http://example.com/2015/05/14/demo-reel-da-odin-game-studio"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/demo-reel-da-odin-game-studio</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
@@ -376,7 +376,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>TurboLink aprovado no Steam Greenlight</title>
-   <link href="http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight/"/>
+   <link href="http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
    <content type="html">&lt;p&gt;Acabamos de receber uma grande notícia: TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=429961096&quot; target=&quot;_blank&quot;&gt;Greenlight&lt;/a&gt;
@@ -406,7 +406,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Checkpoint #3</title>
-   <link href="http://example.com/2015/04/26/checkpoint-3/"/>
+   <link href="http://example.com/2015/04/26/checkpoint-3"/>
    <updated>2015-04-26T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/26/checkpoint-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -434,7 +434,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Lançada a demo de TurboLink</title>
-   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink/"/>
+   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
    <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a title=&quot;Prévia de TurboLink&quot; href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;
@@ -452,7 +452,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Checkpoint #1</title>
-   <link href="http://example.com/2015/04/16/checkpoint-1/"/>
+   <link href="http://example.com/2015/04/16/checkpoint-1"/>
    <updated>2015-04-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/16/checkpoint-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -477,7 +477,7 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>BRING #4 - Mostra Brasiliense de Indie Games</title>
-   <link href="http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games/"/>
+   <link href="http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games"/>
    <updated>2015-04-07T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games</id>
    <content type="html">&lt;p&gt;A BRING, Mostra Brasiliense de Indie Games chega na sua quarta edição que será realizada na Indie House da Behold Studios, Otus Game Studio e BadMinions, estúdios que resolveram compartilhar um espaço comum de trabalho.&lt;/p&gt;
@@ -506,7 +506,7 @@ Prazo para inscrição dos jogos é 08 de abril. Podem ser inscritos jogos em al
  
  <entry>
    <title>Demo do Mr. Bree+ no Greenlight</title>
-   <link href="http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight/"/>
+   <link href="http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight"/>
    <updated>2013-06-03T00:00:00-03:00</updated>
    <id>http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight</id>
    <content type="html">&lt;p&gt;O time da &lt;a href=&quot;http://tawstudio.com/&quot; target=&quot;_blank&quot;&gt;TawStudio&lt;/a&gt;
@@ -528,7 +528,7 @@ Prazo para inscrição dos jogos é 08 de abril. Podem ser inscritos jogos em al
  
  <entry>
    <title>Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</title>
-   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012/"/>
+   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
    <updated>2013-01-02T00:00:00-02:00</updated>
    <id>http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
    <content type="html">&lt;p&gt;No final de 2012 fizemos uma enquete perguntando &amp;gt; Quais games desenvolvidos no Brasil você jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.
@@ -604,7 +604,7 @@ Confiram!
  
  <entry>
    <title>Novidades sobre My Country, My Name</title>
-   <link href="http://example.com/2011/03/28/novidades-sobre-my-country-my-name/"/>
+   <link href="http://example.com/2011/03/28/novidades-sobre-my-country-my-name"/>
    <updated>2011-03-28T00:00:00-03:00</updated>
    <id>http://example.com/2011/03/28/novidades-sobre-my-country-my-name</id>
    <content type="html">&lt;p&gt;O produtor Alexandre Ribeiro de Sá, da empresa &lt;a href=&quot;http://vortexgamestudios.com.br&quot; target=&quot;_blank&quot;&gt;Vortex Game Studios&lt;/a&gt;
@@ -625,7 +625,7 @@ Confiram!
  
  <entry>
    <title>Preview de Talbot&#39;s Odissey</title>
-   <link href="http://example.com/2011/02/18/preview-de-talbots-odissey/"/>
+   <link href="http://example.com/2011/02/18/preview-de-talbots-odissey"/>
    <updated>2011-02-18T00:00:00-02:00</updated>
    <id>http://example.com/2011/02/18/preview-de-talbots-odissey</id>
    <content type="html">&lt;font size=&quot;2&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Luiz Damasceno (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/lcdjr&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@lcdjr&lt;/span&gt;&lt;/a&gt;
@@ -655,7 +655,7 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Totem Destroyer para plataformas móveis</title>
-   <link href="http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis/"/>
+   <link href="http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis"/>
    <updated>2011-01-26T00:00:00-02:00</updated>
    <id>http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis</id>
    <content type="html">&lt;p&gt;A produtora brasileira &lt;a href=&quot;http://www.catsinthesky.com.br/&quot; target=&quot;_blank&quot;&gt;Cats in the Sky&lt;/a&gt;
@@ -675,7 +675,7 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Trailer de lançamento de Cargo Delivery</title>
-   <link href="http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery/"/>
+   <link href="http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery"/>
    <updated>2010-12-06T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery</id>
    <content type="html">&lt;p&gt;O estúdio Cats in the Sky liberou o trailer de lançamento do game Cargo Delivery.&lt;/p&gt;
@@ -696,7 +696,7 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Winguel</title>
-   <link href="http://example.com/2005/12/07/previa-de-winguel/"/>
+   <link href="http://example.com/2005/12/07/previa-de-winguel"/>
    <updated>2005-12-07T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/07/previa-de-winguel</id>
    <content type="html">&lt;p&gt;Winguel é um simpático alienígena que, ao passear por Marte, encontra uma sonda terráquea e resolve devolvê-la aos humanos na terra.&lt;/p&gt;
@@ -739,7 +739,7 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Winguel, novo jogo Nacional</title>
-   <link href="http://example.com/2005/11/30/winguel-novo-jogo-nacional/"/>
+   <link href="http://example.com/2005/11/30/winguel-novo-jogo-nacional"/>
    <updated>2005-11-30T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/30/winguel-novo-jogo-nacional</id>
    <content type="html">&lt;p&gt;A empresa gaúcha Espaço informática está apresentando um novo jogo que será lançado na Europa e Brasil no primeiro trimestre de 2006. O jogo chama-se Winguel na verdade é um centro de atividades com cinco jogos, além de materiais extra como impressões e papéis de parede.Na história do jogo, Winguel é um alien que encontra uma das sondas humanas que hoje estão explorando o planeta de Marte. Winguel resolve devolver o objeto para a Terra, mas quando se aproxima de nosso planeta é pego pelos radares da WUC (Controle Mundial de Ovinis), que resolvem atacá-lo. A nave de Winguel é acertada por um míssil da WUC e se parte em alguns pedaços. Você precisa ajudar Winguel a recuperar as peças da nave, e assim voltar para casa. Vencendo todos jogos você recupera todas as peças.&lt;/p&gt;
@@ -771,7 +771,7 @@ No Brasil, apesar de ter sido anunciado para o final de Setembro o jogo acabou n
  
  <entry>
    <title>Entrevista: Espaço Informática</title>
-   <link href="http://example.com/2005/10/26/entrevista-espaco-informatica/"/>
+   <link href="http://example.com/2005/10/26/entrevista-espaco-informatica"/>
    <updated>2005-10-26T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/26/entrevista-espaco-informatica</id>
    <content type="html">&lt;p&gt;[sc:Interview_header text=”A gaúcha Espaço Informática foi fundada pelos irmãos Augusto Bülow e Gustavo Bülow.&lt;/p&gt;
@@ -823,7 +823,7 @@ Com certeza, a nossa história ainda está apenas inciando, mas acho que qualque
  
  <entry>
    <title>Matchball Tennis</title>
-   <link href="http://example.com/2005/09/20/matchball-tennis/"/>
+   <link href="http://example.com/2005/09/20/matchball-tennis"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/20/matchball-tennis</id>
    <content type="html">&lt;p&gt;Jogo de tênis desenvolvido pela empresa gaúcha Espaço Informática para o mercado brasileiro e europeu.

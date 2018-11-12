@@ -3,7 +3,7 @@
  <title>Your Title - pankeka-games</title>
  <link href="http://example.com/tags/pankeka-games/index.xml" rel="self"/>
  <link href="http://example.com/tag/pankeka-games.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/pankeka-games.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Esquadrão Patada</title>
-   <link href="http://example.com/2013/03/18/esquadrao-patada/"/>
+   <link href="http://example.com/2013/03/18/esquadrao-patada"/>
    <updated>2013-03-18T00:00:00-03:00</updated>
    <id>http://example.com/2013/03/18/esquadrao-patada</id>
    <content type="html">&lt;p&gt;A desenvolvedora mato-grossense &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;
@@ -34,7 +34,7 @@
  
  <entry>
    <title>Zigball</title>
-   <link href="http://example.com/2012/01/05/zigball/"/>
+   <link href="http://example.com/2012/01/05/zigball"/>
    <updated>2012-01-05T00:00:00-02:00</updated>
    <id>http://example.com/2012/01/05/zigball</id>
    <content type="html">&lt;p&gt;Em 2011 a produtora brasileira &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;

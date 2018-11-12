@@ -3,7 +3,7 @@
  <title>Your Title - imagens-da-semana</title>
  <link href="http://example.com/tags/imagens-da-semana/index.xml" rel="self"/>
  <link href="http://example.com/tag/imagens-da-semana.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/imagens-da-semana.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Imagens da semana #13</title>
-   <link href="http://example.com/2015/09/14/imagens-da-semana-13/"/>
+   <link href="http://example.com/2015/09/14/imagens-da-semana-13"/>
    <updated>2015-09-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/14/imagens-da-semana-13</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -43,7 +43,7 @@
  
  <entry>
    <title>Imagens da semana #12</title>
-   <link href="http://example.com/2015/06/22/imagens-da-semana-12/"/>
+   <link href="http://example.com/2015/06/22/imagens-da-semana-12"/>
    <updated>2015-06-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/22/imagens-da-semana-12</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -66,7 +66,7 @@
  
  <entry>
    <title>Imagens da semana #11</title>
-   <link href="http://example.com/2015/06/15/imagens-da-semana-11/"/>
+   <link href="http://example.com/2015/06/15/imagens-da-semana-11"/>
    <updated>2015-06-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/15/imagens-da-semana-11</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -92,7 +92,7 @@
  
  <entry>
    <title>Imagens da semana 10</title>
-   <link href="http://example.com/2015/06/08/imagens-da-semana-10/"/>
+   <link href="http://example.com/2015/06/08/imagens-da-semana-10"/>
    <updated>2015-06-08T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/08/imagens-da-semana-10</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -118,7 +118,7 @@
  
  <entry>
    <title>Imagens da semana #9</title>
-   <link href="http://example.com/2015/06/01/imagens-da-semana-9/"/>
+   <link href="http://example.com/2015/06/01/imagens-da-semana-9"/>
    <updated>2015-06-01T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/01/imagens-da-semana-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -144,7 +144,7 @@
  
  <entry>
    <title>Imagens da semana #8</title>
-   <link href="http://example.com/2015/05/25/imagens-da-semana-8/"/>
+   <link href="http://example.com/2015/05/25/imagens-da-semana-8"/>
    <updated>2015-05-25T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/25/imagens-da-semana-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -173,7 +173,7 @@
  
  <entry>
    <title>Imagens da semana #7</title>
-   <link href="http://example.com/2015/05/18/imagens-da-semana-7/"/>
+   <link href="http://example.com/2015/05/18/imagens-da-semana-7"/>
    <updated>2015-05-18T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/18/imagens-da-semana-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -202,7 +202,7 @@
  
  <entry>
    <title>Imagens da semana #6</title>
-   <link href="http://example.com/2015/05/11/imagens-da-semana-6/"/>
+   <link href="http://example.com/2015/05/11/imagens-da-semana-6"/>
    <updated>2015-05-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/11/imagens-da-semana-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -231,7 +231,7 @@
  
  <entry>
    <title>Imagens da semana #5</title>
-   <link href="http://example.com/2015/05/04/imagens-da-semana-5/"/>
+   <link href="http://example.com/2015/05/04/imagens-da-semana-5"/>
    <updated>2015-05-04T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/04/imagens-da-semana-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -254,7 +254,7 @@
  
  <entry>
    <title>Imagens da semana #4</title>
-   <link href="http://example.com/2015/04/27/imagens-da-semana-4/"/>
+   <link href="http://example.com/2015/04/27/imagens-da-semana-4"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/27/imagens-da-semana-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -283,7 +283,7 @@
  
  <entry>
    <title>Imagens da semana #3</title>
-   <link href="http://example.com/2015/04/20/imagens-da-semana-3/"/>
+   <link href="http://example.com/2015/04/20/imagens-da-semana-3"/>
    <updated>2015-04-20T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/20/imagens-da-semana-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -316,7 +316,7 @@
  
  <entry>
    <title>Imagens da semana #2</title>
-   <link href="http://example.com/2015/04/13/imagens-da-semana-2/"/>
+   <link href="http://example.com/2015/04/13/imagens-da-semana-2"/>
    <updated>2015-04-13T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -348,7 +348,7 @@
  
  <entry>
    <title>Imagens da semana #1</title>
-   <link href="http://example.com/2015/04/06/imagens-da-semana-1/"/>
+   <link href="http://example.com/2015/04/06/imagens-da-semana-1"/>
    <updated>2015-04-06T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/06/imagens-da-semana-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;

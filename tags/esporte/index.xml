@@ -3,7 +3,7 @@
  <title>Your Title - esporte</title>
  <link href="http://example.com/tags/esporte/index.xml" rel="self"/>
  <link href="http://example.com/tag/esporte.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/esporte.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Vôlei de Praia</title>
-   <link href="http://example.com/2005/12/26/volei-de-praia/"/>
+   <link href="http://example.com/2005/12/26/volei-de-praia"/>
    <updated>2005-12-26T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/26/volei-de-praia</id>
    <content type="html">&lt;p&gt;Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
@@ -30,7 +30,7 @@
  
  <entry>
    <title>Jetski Race</title>
-   <link href="http://example.com/2005/12/15/jetski-race/"/>
+   <link href="http://example.com/2005/12/15/jetski-race"/>
    <updated>2005-12-15T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/15/jetski-race</id>
    <content type="html">&lt;p&gt;Foi dada a largada! Prepare-se para muita água, obstáculos e manobras nessa excitante corrida de jetskis!&lt;/p&gt;
@@ -43,7 +43,7 @@ Jetski Race é pra quem gosta de esportes radicais no celular.&lt;/p&gt;
  
  <entry>
    <title>Entrevista: Gametrack</title>
-   <link href="http://example.com/2005/11/14/entrevista-gametrack/"/>
+   <link href="http://example.com/2005/11/14/entrevista-gametrack"/>
    <updated>2005-11-14T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/14/entrevista-gametrack</id>
    <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;

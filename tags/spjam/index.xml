@@ -3,7 +3,7 @@
  <title>Your Title - spjam</title>
  <link href="http://example.com/tags/spjam/index.xml" rel="self"/>
  <link href="http://example.com/tag/spjam.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/spjam.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>SPJam 2015</title>
-   <link href="http://example.com/2015/03/24/spjam-2015/"/>
+   <link href="http://example.com/2015/03/24/spjam-2015"/>
    <updated>2015-03-24T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/24/spjam-2015</id>
    <content type="html">&lt;p&gt;Em 2015 a SPJam completa 5 anos reunindo desenvolvedores de jogos, tanto entusiastas como profissionais, para desenvolverem um jogo inédito dentro do período de 48 horas.&lt;/p&gt;
@@ -46,7 +46,7 @@
  
  <entry>
    <title>Inscrições abertas para o SPJam 2013</title>
-   <link href="http://example.com/2013/06/24/inscricoes-abertas-para-o-spjam-2013/"/>
+   <link href="http://example.com/2013/06/24/inscricoes-abertas-para-o-spjam-2013"/>
    <updated>2013-06-24T00:00:00-03:00</updated>
    <id>http://example.com/2013/06/24/inscricoes-abertas-para-o-spjam-2013</id>
    <content type="html">&lt;p&gt;Em &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-06_19_14_52-154784552-0&quot; target=&quot;_blank&quot;&gt;maio&lt;/a&gt;
@@ -62,7 +62,7 @@ Nessa edição a Vortex Games Studio, realizadora do evento, espera reunir 300 p
  
  <entry>
    <title>SPJam 2013</title>
-   <link href="http://example.com/2013/05/06/spjam-2013/"/>
+   <link href="http://example.com/2013/05/06/spjam-2013"/>
    <updated>2013-05-06T00:00:00-03:00</updated>
    <id>http://example.com/2013/05/06/spjam-2013</id>
    <content type="html">&lt;p&gt;A terceira edição da &lt;a href=&quot;http://www.spjam.com.br&quot; target=&quot;_blank&quot;&gt;SPJam &lt;/a&gt;
@@ -90,7 +90,7 @@ Inscrições: 15 de junho a 15 de agosto&lt;/p&gt;
  
  <entry>
    <title>SPJam 2012</title>
-   <link href="http://example.com/2012/06/07/spjam-2012/"/>
+   <link href="http://example.com/2012/06/07/spjam-2012"/>
    <updated>2012-06-07T00:00:00-03:00</updated>
    <id>http://example.com/2012/06/07/spjam-2012</id>
    <content type="html">&lt;p&gt;No início de junho foram abertas as inscrições do &lt;strong&gt;SPJam 2012&lt;/strong&gt;.&lt;/p&gt;

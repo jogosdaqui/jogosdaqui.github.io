@@ -3,7 +3,7 @@
  <title>Your Title - otus-game-studio</title>
  <link href="http://example.com/tags/otus-game-studio/index.xml" rel="self"/>
  <link href="http://example.com/tag/otus-game-studio.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/otus-game-studio.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Imagens da semana #3</title>
-   <link href="http://example.com/2015/04/20/imagens-da-semana-3/"/>
+   <link href="http://example.com/2015/04/20/imagens-da-semana-3"/>
    <updated>2015-04-20T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/20/imagens-da-semana-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -44,7 +44,7 @@
  
  <entry>
    <title>BRING #4 - Mostra Brasiliense de Indie Games</title>
-   <link href="http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games/"/>
+   <link href="http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games"/>
    <updated>2015-04-07T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games</id>
    <content type="html">&lt;p&gt;A BRING, Mostra Brasiliense de Indie Games chega na sua quarta edição que será realizada na Indie House da Behold Studios, Otus Game Studio e BadMinions, estúdios que resolveram compartilhar um espaço comum de trabalho.&lt;/p&gt;
@@ -73,7 +73,7 @@ Prazo para inscrição dos jogos é 08 de abril. Podem ser inscritos jogos em al
  
  <entry>
    <title>Teaser de Fragmentorum Alba</title>
-   <link href="http://example.com/2015/03/25/teaser-de-fragmentorum-alba/"/>
+   <link href="http://example.com/2015/03/25/teaser-de-fragmentorum-alba"/>
    <updated>2015-03-25T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/25/teaser-de-fragmentorum-alba</id>
    <content type="html">&lt;p&gt;Fragmentorum Alba é o primeiro game da startup gaúcha Otus Game Studio.&lt;/p&gt;

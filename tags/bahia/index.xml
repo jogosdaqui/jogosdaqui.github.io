@@ -3,7 +3,7 @@
  <title>Your Title - bahia</title>
  <link href="http://example.com/tags/bahia/index.xml" rel="self"/>
  <link href="http://example.com/tag/bahia.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/bahia.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Evento em Salvador</title>
-   <link href="http://example.com/2005/10/03/evento-em-salvador/"/>
+   <link href="http://example.com/2005/10/03/evento-em-salvador"/>
    <updated>2005-10-03T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/03/evento-em-salvador</id>
    <content type="html">&lt;p&gt;Os games hoje se constituem em uma nova mídia que atrai e desperta o interesse e desejo da geração denominada Screenagers, mas também é visto pela comunidade e pela mídia de forma maniqueísta e apocalíptica.&lt;/p&gt;

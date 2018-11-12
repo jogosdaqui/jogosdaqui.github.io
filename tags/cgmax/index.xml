@@ -3,7 +3,7 @@
  <title>Your Title - cgmax</title>
  <link href="http://example.com/tags/cgmax/index.xml" rel="self"/>
  <link href="http://example.com/tag/cgmax.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/cgmax.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Palestra Pequeno Guardião do Tempo</title>
-   <link href="http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo/"/>
+   <link href="http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo"/>
    <updated>2005-12-14T00:00:00-02:00</updated>
    <id>http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo</id>
    <content type="html">&lt;p&gt;Os desenvolvedores do jogo &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo,&lt;/a&gt;
@@ -26,7 +26,7 @@
  
  <entry>
    <title>Seja um profissional da indústria de jogos</title>
-   <link href="http://example.com/2005/11/21/seja-um-profissional-da-industria-de-jogos/"/>
+   <link href="http://example.com/2005/11/21/seja-um-profissional-da-industria-de-jogos"/>
    <updated>2005-11-21T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/21/seja-um-profissional-da-industria-de-jogos</id>
    <content type="html">&lt;h2 id=&quot;que-tal-trabalhar-na-indústria-de-jogos&quot;&gt;Que tal trabalhar na indústria de jogos?&lt;/h2&gt;

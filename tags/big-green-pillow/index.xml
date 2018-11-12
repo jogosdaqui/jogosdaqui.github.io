@@ -3,7 +3,7 @@
  <title>Your Title - big-green-pillow</title>
  <link href="http://example.com/tags/big-green-pillow/index.xml" rel="self"/>
  <link href="http://example.com/tag/big-green-pillow.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/big-green-pillow.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Games brasileiros com desconto</title>
-   <link href="http://example.com/2015/08/06/games-brasileiros-com-desconto/"/>
+   <link href="http://example.com/2015/08/06/games-brasileiros-com-desconto"/>
    <updated>2015-08-06T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/06/games-brasileiros-com-desconto</id>
    <content type="html">&lt;p&gt;O que &lt;a href=&quot;http://store.steampowered.com/sub/64793/&quot; target=&quot;_blank&quot;&gt;Odallus - The Dark Call&lt;/a&gt;
@@ -46,7 +46,7 @@
  
  <entry>
    <title>Imagens da semana #11</title>
-   <link href="http://example.com/2015/06/15/imagens-da-semana-11/"/>
+   <link href="http://example.com/2015/06/15/imagens-da-semana-11"/>
    <updated>2015-06-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/15/imagens-da-semana-11</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -72,7 +72,7 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -147,7 +147,7 @@
  
  <entry>
    <title>Porcunipine</title>
-   <link href="http://example.com/2015/05/21/porcunipine/"/>
+   <link href="http://example.com/2015/05/21/porcunipine"/>
    <updated>2015-05-21T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/21/porcunipine</id>
    <content type="html">&lt;blockquote&gt;
@@ -220,7 +220,7 @@
  
  <entry>
    <title>Porcunipine lançado no Steam</title>
-   <link href="http://example.com/2015/05/21/porcunipine-lancado-no-steam/"/>
+   <link href="http://example.com/2015/05/21/porcunipine-lancado-no-steam"/>
    <updated>2015-05-21T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/21/porcunipine-lancado-no-steam</id>
    <content type="html">&lt;p&gt;Acabamos de adicionar o Porcunipine da Big Green Pillow na lista de jogos do jogosdaqui, pois hoje é o grande dia de lançamento do game no Steam.&lt;/p&gt;
@@ -241,7 +241,7 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6/"/>
+   <link href="http://example.com/2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -275,7 +275,7 @@
  
  <entry>
    <title>Imagens da semana #2</title>
-   <link href="http://example.com/2015/04/13/imagens-da-semana-2/"/>
+   <link href="http://example.com/2015/04/13/imagens-da-semana-2"/>
    <updated>2015-04-13T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;

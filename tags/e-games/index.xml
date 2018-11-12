@@ -3,7 +3,7 @@
  <title>Your Title - e-games</title>
  <link href="http://example.com/tags/e-games/index.xml" rel="self"/>
  <link href="http://example.com/tag/e-games.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/e-games.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Os fatos do ano</title>
-   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2/"/>
+   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2"/>
    <updated>2010-12-31T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/31/os-fatos-do-ano-2</id>
    <content type="html">&lt;p&gt;Perguntamos aos nossos leitores: &lt;strong&gt;&amp;gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?&quot;&lt;/strong&gt;.

@@ -3,7 +3,7 @@
  <title>Your Title - miniboss</title>
  <link href="http://example.com/tags/miniboss/index.xml" rel="self"/>
  <link href="http://example.com/tag/miniboss.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/miniboss.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Imagens da semana #11</title>
-   <link href="http://example.com/2015/06/15/imagens-da-semana-11/"/>
+   <link href="http://example.com/2015/06/15/imagens-da-semana-11"/>
    <updated>2015-06-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/15/imagens-da-semana-11</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -37,7 +37,7 @@
  
  <entry>
    <title>Pré-venda de Out There Somewhere</title>
-   <link href="http://example.com/2012/02/16/pre-venda-de-out-there-somewhere/"/>
+   <link href="http://example.com/2012/02/16/pre-venda-de-out-there-somewhere"/>
    <updated>2012-02-16T00:00:00-02:00</updated>
    <id>http://example.com/2012/02/16/pre-venda-de-out-there-somewhere</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://studiominiboss.com/?lang=pt&quot; target=&quot;_blank&quot;&gt;MiniBoss Studio&lt;/a&gt;
@@ -65,7 +65,7 @@
  
  <entry>
    <title>Preview de Talbot&#39;s Odissey</title>
-   <link href="http://example.com/2011/02/18/preview-de-talbots-odissey/"/>
+   <link href="http://example.com/2011/02/18/preview-de-talbots-odissey"/>
    <updated>2011-02-18T00:00:00-02:00</updated>
    <id>http://example.com/2011/02/18/preview-de-talbots-odissey</id>
    <content type="html">&lt;font size=&quot;2&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Luiz Damasceno (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/lcdjr&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@lcdjr&lt;/span&gt;&lt;/a&gt;
@@ -95,7 +95,7 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Os fatos do ano</title>
-   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2/"/>
+   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2"/>
    <updated>2010-12-31T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/31/os-fatos-do-ano-2</id>
    <content type="html">&lt;p&gt;Perguntamos aos nossos leitores: &lt;strong&gt;&amp;gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?&quot;&lt;/strong&gt;.
@@ -188,7 +188,7 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.&lt;/p&gt;
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou/"/>
+   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
    <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;

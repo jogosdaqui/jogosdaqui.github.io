@@ -3,7 +3,7 @@
  <title>Your Title - incubo</title>
  <link href="http://example.com/tags/incubo/index.xml" rel="self"/>
  <link href="http://example.com/tag/incubo.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/incubo.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Teaser Trailer de Pants Off!</title>
-   <link href="http://example.com/2015/03/20/teaser-trailer-de-pants-off/"/>
+   <link href="http://example.com/2015/03/20/teaser-trailer-de-pants-off"/>
    <updated>2015-03-20T00:00:00-03:00</updated>
    <id>http://example.com/2015/03/20/teaser-trailer-de-pants-off</id>
    <content type="html">&lt;p&gt;Saiu o primeiro vídeo de Pants Off!, game em desenvolvimento pela &lt;a href=&quot;http://incubogames.com&quot;&gt;InCubo&lt;/a&gt;&lt;/p&gt;

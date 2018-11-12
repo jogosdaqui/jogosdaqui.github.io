@@ -3,7 +3,7 @@
  <title>Your Title - doubleleft</title>
  <link href="http://example.com/tags/doubleleft/index.xml" rel="self"/>
  <link href="http://example.com/tag/doubleleft.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/doubleleft.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Michel Teló no Mundo</title>
-   <link href="http://example.com/2013/04/18/michel-telo-no-mundo/"/>
+   <link href="http://example.com/2013/04/18/michel-telo-no-mundo"/>
    <updated>2013-04-18T00:00:00-03:00</updated>
    <id>http://example.com/2013/04/18/michel-telo-no-mundo</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;https://www.facebook.com/doubleleft&quot; target=&quot;_blank&quot;&gt;Doubleleft&lt;/a&gt;
@@ -37,7 +37,7 @@
  
  <entry>
    <title>O gari é o herói</title>
-   <link href="http://example.com/2011/02/07/o-gari-e-o-heroi/"/>
+   <link href="http://example.com/2011/02/07/o-gari-e-o-heroi"/>
    <updated>2011-02-07T00:00:00-02:00</updated>
    <id>http://example.com/2011/02/07/o-gari-e-o-heroi</id>
    <content type="html">&lt;p&gt;Em &lt;a href=&quot;http://doubleleft.com/garbageman/&quot; target=&quot;_blank&quot;&gt;Garbageman&lt;/a&gt;

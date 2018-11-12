@@ -3,7 +3,7 @@
  <title>Your Title - currant-cat</title>
  <link href="http://example.com/tags/currant-cat/index.xml" rel="self"/>
  <link href="http://example.com/tag/currant-cat.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/currant-cat.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Prévia: Cannon Land</title>
-   <link href="http://example.com/2011/04/27/previa-cannon-land/"/>
+   <link href="http://example.com/2011/04/27/previa-cannon-land"/>
    <updated>2011-04-27T00:00:00-03:00</updated>
    <id>http://example.com/2011/04/27/previa-cannon-land</id>
    <content type="html">&lt;blockquote&gt;

@@ -3,7 +3,7 @@
  <title>Your Title - leandro-correia</title>
  <link href="http://example.com/tags/leandro-correia/index.xml" rel="self"/>
  <link href="http://example.com/tag/leandro-correia.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/leandro-correia.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Começam as venda do Smart Panda</title>
-   <link href="http://example.com/2005/11/15/comecam-as-venda-do-smart-panda/"/>
+   <link href="http://example.com/2005/11/15/comecam-as-venda-do-smart-panda"/>
    <updated>2005-11-15T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/15/comecam-as-venda-do-smart-panda</id>
    <content type="html">&lt;p&gt;Nesta terça-feira, 15 de novembro, foi posto a venda o jogo educacional &lt;a href=&quot;/2005/09/30/smart-panda/&quot;&gt;Smart Panda&lt;/a&gt;
@@ -24,7 +24,7 @@
  
  <entry>
    <title>Skooter</title>
-   <link href="http://example.com/2005/11/05/skooter/"/>
+   <link href="http://example.com/2005/11/05/skooter"/>
    <updated>2005-11-05T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/05/skooter</id>
    <content type="html">&lt;p&gt;Ele é o remake de um antigo jogo para os computadores de 8 bits da linha MSX. Este remake foi feito da maneira mais fiel possível ao original, com uma pequena modificação nos gráficos. O objetivo deste jogo é simples: controle seu robô Skooter e pegue os quatro ítens da pista para completar cada um dos dezesseis níveis que compõem o jogo. Um super quebra-cabeças.&lt;/p&gt;
@@ -36,7 +36,7 @@
  
  <entry>
    <title>Jet Boarder</title>
-   <link href="http://example.com/2005/10/21/jet-boarder/"/>
+   <link href="http://example.com/2005/10/21/jet-boarder"/>
    <updated>2005-10-21T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/21/jet-boarder</id>
    <content type="html">&lt;p&gt;Este é Jet Boarder, um jogo de corrida com uma característica interessante: ele utiliza apenas uma única tecla para os controles.&lt;/p&gt;
@@ -59,7 +59,7 @@
  
  <entry>
    <title>Smart Panda</title>
-   <link href="http://example.com/2005/09/30/smart-panda/"/>
+   <link href="http://example.com/2005/09/30/smart-panda"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/30/smart-panda</id>
    <content type="html">&lt;p&gt;Conheça Smart Panda, um jogo diferente de tudo o que você já viu. Controle um simpático urso panda e tente resolver um a um todos os problemas matemáticos que surgem no alto da tela. Fácil? Não…&lt;/p&gt;

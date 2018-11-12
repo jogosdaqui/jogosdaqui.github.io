@@ -3,7 +3,7 @@
  <title>Your Title - corrida</title>
  <link href="http://example.com/tags/corrida/index.xml" rel="self"/>
  <link href="http://example.com/tag/corrida.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/corrida.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Horizon Chase se aproxima do grid de largada</title>
-   <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada/"/>
+   <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
    <updated>2015-08-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
    <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
@@ -34,7 +34,7 @@
  
  <entry>
    <title>Teaser de gameplay de Horizon Chase</title>
-   <link href="http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase/"/>
+   <link href="http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
    <content type="html">&lt;p&gt;Em maio fizemos uma &lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/&quot;&gt;prévia do game de corrida Horizon Chase&lt;/a&gt;
@@ -51,7 +51,7 @@
  
  <entry>
    <title>Imagens da semana #12</title>
-   <link href="http://example.com/2015/06/22/imagens-da-semana-12/"/>
+   <link href="http://example.com/2015/06/22/imagens-da-semana-12"/>
    <updated>2015-06-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/22/imagens-da-semana-12</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -74,7 +74,7 @@
  
  <entry>
    <title>Imagens da semana #11</title>
-   <link href="http://example.com/2015/06/15/imagens-da-semana-11/"/>
+   <link href="http://example.com/2015/06/15/imagens-da-semana-11"/>
    <updated>2015-06-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/15/imagens-da-semana-11</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -100,7 +100,7 @@
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9/"/>
+   <link href="http://example.com/2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -146,7 +146,7 @@
  
  <entry>
    <title>Imagens da semana 10</title>
-   <link href="http://example.com/2015/06/08/imagens-da-semana-10/"/>
+   <link href="http://example.com/2015/06/08/imagens-da-semana-10"/>
    <updated>2015-06-08T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/08/imagens-da-semana-10</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -172,7 +172,7 @@
  
  <entry>
    <title>Imagens da semana #9</title>
-   <link href="http://example.com/2015/06/01/imagens-da-semana-9/"/>
+   <link href="http://example.com/2015/06/01/imagens-da-semana-9"/>
    <updated>2015-06-01T00:00:00-03:00</updated>
    <id>http://example.com/2015/06/01/imagens-da-semana-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -198,7 +198,7 @@
  
  <entry>
    <title>Imagens da semana #8</title>
-   <link href="http://example.com/2015/05/25/imagens-da-semana-8/"/>
+   <link href="http://example.com/2015/05/25/imagens-da-semana-8"/>
    <updated>2015-05-25T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/25/imagens-da-semana-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -227,7 +227,7 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -302,7 +302,7 @@
  
  <entry>
    <title>Novidades de Horizon Chase</title>
-   <link href="http://example.com/2015/05/20/novidades-de-horizon-chase/"/>
+   <link href="http://example.com/2015/05/20/novidades-de-horizon-chase"/>
    <updated>2015-05-20T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/20/novidades-de-horizon-chase</id>
    <content type="html">&lt;p&gt;O game Horizon Chase da Aquiris Game Studio tem causado um “frisson” na comunidade gamer que aprecia games de corrida old-school, tanto pelo visual apurado quanto pela trilha sonora composta pelo mesmo compositor de clássicos como Top Gear.&lt;/p&gt;
@@ -333,7 +333,7 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6/"/>
+   <link href="http://example.com/2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -367,13 +367,16 @@
  
  <entry>
    <title>Prévia de Horizon Chase da Aquiris Game Studio</title>
-   <link href="http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/"/>
+   <link href="http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
    <content type="html">&lt;p&gt;Antes de ler qualquer coisa sobre &lt;a href=&quot;http://horizonchase.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Horizon Chase&lt;/a&gt;
 , ouça a trilha sonora abaixo:&lt;/p&gt;
 
-&lt;p&gt;[sc:Soundcloud trackid=”204381241”]&lt;/p&gt;
+&lt;center&gt;
+      &lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/204381241&amp;amp;color=%23ff5500&amp;amp;auto_play=true&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;
+      &lt;/iframe&gt;
+      &lt;/center&gt;
 &lt;h2 id=&quot;top-gear-feelings-certo&quot;&gt;Top Gear feelings! Certo?&lt;/h2&gt;
 &lt;p&gt;Quando no início do ano a &lt;a href=&quot;http://aquiris.com.br&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
  anunciou que estaria trabalhando em um novo projeto para os amantes de games como Lotus Turbo Challenge, Outrun, Top Gear e Lamborghini American Challenge, deixou muito marmanjo com aquela nostalgia, mas não uma saudade triste e sim aquela saudade dos bons tempos da era 16 bits. Desde então a gamedev porto-alegrense tem se dedicado em manter os fãs atualizados e evoluir o game cada vez mais.&lt;/p&gt;
@@ -401,7 +404,7 @@
  
  <entry>
    <title>Joga Brasil</title>
-   <link href="http://example.com/2012/01/13/joga-brasil/"/>
+   <link href="http://example.com/2012/01/13/joga-brasil"/>
    <updated>2012-01-13T00:00:00-02:00</updated>
    <id>http://example.com/2012/01/13/joga-brasil</id>
    <content type="html">&lt;p&gt;Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o &lt;a href=&quot;http://www.jogabrasil.com.br/&quot; target=&quot;_blank&quot;&gt;Joga Brasil&lt;/a&gt;
@@ -473,7 +476,7 @@
  
  <entry>
    <title>Super Mini Racing</title>
-   <link href="http://example.com/2005/09/20/super-mini-racing/"/>
+   <link href="http://example.com/2005/09/20/super-mini-racing"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/20/super-mini-racing</id>
    <content type="html">&lt;p&gt;O Super Mini Racing celebra a mais antiga e gostosa brincadeira do mundo: apostar corrida!&lt;/p&gt;

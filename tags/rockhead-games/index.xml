@@ -3,7 +3,7 @@
  <title>Your Title - rockhead-games</title>
  <link href="http://example.com/tags/rockhead-games/index.xml" rel="self"/>
  <link href="http://example.com/tag/rockhead-games.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/rockhead-games.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7/"/>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -86,7 +86,7 @@
  
  <entry>
    <title>Imagens da semana #7</title>
-   <link href="http://example.com/2015/05/18/imagens-da-semana-7/"/>
+   <link href="http://example.com/2015/05/18/imagens-da-semana-7"/>
    <updated>2015-05-18T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/18/imagens-da-semana-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -115,7 +115,7 @@
  
  <entry>
    <title>Starlit Adventures, novo lançamento da Rockhead Games</title>
-   <link href="http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games/"/>
+   <link href="http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.starlitadventures.com/&quot; target=&quot;_blank&quot;&gt;Starlit Adventures&lt;/a&gt;
@@ -162,7 +162,7 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6/"/>
+   <link href="http://example.com/2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -196,7 +196,7 @@
  
  <entry>
    <title>Prévia de Starlit Adventures</title>
-   <link href="http://example.com/2015/04/27/previa-de-starlit-adventures/"/>
+   <link href="http://example.com/2015/04/27/previa-de-starlit-adventures"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/27/previa-de-starlit-adventures</id>
    <content type="html">&lt;p&gt;No último evento PowerUp tivemos a grata surpresa de ver algumas imagens e vídeos do novo jogo da Rockhead Games, o &lt;a href=&quot;http://starlitadventures.com&quot; target=&quot;_blank&quot;&gt;Startlit Adventures&lt;/a&gt;
@@ -218,7 +218,7 @@
  
  <entry>
    <title>Cobertura do evento PowerUp #2</title>
-   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2/"/>
+   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2"/>
    <updated>2015-04-24T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/24/cobertura-do-evento-powerup-2</id>
    <content type="html">&lt;p&gt;Quarta-feira na universade Feevale aconteceu a segunda edição do evento &lt;a title=&quot;PowerUp #2&quot; href=&quot;/2015/04/17/powerup-2/&quot;&gt;PowerUp&lt;/a&gt;
@@ -252,7 +252,7 @@
  
  <entry>
    <title>Master of Words</title>
-   <link href="http://example.com/2013/05/20/master-of-words/"/>
+   <link href="http://example.com/2013/05/20/master-of-words"/>
    <updated>2013-05-20T00:00:00-03:00</updated>
    <id>http://example.com/2013/05/20/master-of-words</id>
    <content type="html">&lt;p&gt;Deveria ter feito esse post sobre o &lt;a href=&quot;http://masterofwords.net/&quot; target=&quot;_blank&quot;&gt;Master of Words&lt;/a&gt;

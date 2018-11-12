@@ -3,7 +3,7 @@
  <title>Your Title - double-dash</title>
  <link href="http://example.com/tags/double-dash/index.xml" rel="self"/>
  <link href="http://example.com/tag/double-dash.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/double-dash.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Imagens da semana #13</title>
-   <link href="http://example.com/2015/09/14/imagens-da-semana-13/"/>
+   <link href="http://example.com/2015/09/14/imagens-da-semana-13"/>
    <updated>2015-09-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/09/14/imagens-da-semana-13</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
@@ -43,7 +43,7 @@
  
  <entry>
    <title>Games brasileiros em crowdfunding</title>
-   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding/"/>
+   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding"/>
    <updated>2015-08-29T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
    <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
@@ -93,7 +93,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>RacketBoy da Double Dash Studios</title>
-   <link href="http://example.com/2015/08/20/racketboy-da-double-dash-studios/"/>
+   <link href="http://example.com/2015/08/20/racketboy-da-double-dash-studios"/>
    <updated>2015-08-20T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/20/racketboy-da-double-dash-studios</id>
    <content type="html">&lt;p&gt;Lembra de Breakout de 1972, clássico game que deu origem ao estilo de games de quebrar blocos, seguido por outros clássicos como Arkanoid de 1986?&lt;/p&gt;

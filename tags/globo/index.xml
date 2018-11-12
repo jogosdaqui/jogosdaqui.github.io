@@ -3,7 +3,7 @@
  <title>Your Title - globo</title>
  <link href="http://example.com/tags/globo/index.xml" rel="self"/>
  <link href="http://example.com/tag/globo.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/globo.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Programadores de jogos na Rede Globo</title>
-   <link href="http://example.com/2005/11/28/programadores-de-jogos-na-rede-globo/"/>
+   <link href="http://example.com/2005/11/28/programadores-de-jogos-na-rede-globo"/>
    <updated>2005-11-28T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/28/programadores-de-jogos-na-rede-globo</id>
    <content type="html">&lt;p&gt;O Jornal Hoje, da Rede Globo, divulgou uma matéria sobre a profissão de programador de jogos no Brasil.
@@ -22,7 +22,7 @@ Se você é apaixonado por jogos, precisa conferir a matéria neste &lt;a href=&
  
  <entry>
    <title>No Limite</title>
-   <link href="http://example.com/2005/09/30/no-limite/"/>
+   <link href="http://example.com/2005/09/30/no-limite"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/30/no-limite</id>
    <content type="html">&lt;p&gt;Este jogo foi baseado no programa de televisão No Limite, apresentado pela Rede Globo de Televisão no Brasil.&lt;/p&gt;
@@ -37,7 +37,7 @@ Se você é apaixonado por jogos, precisa conferir a matéria neste &lt;a href=&
  
  <entry>
    <title>Big Brother Brasil</title>
-   <link href="http://example.com/2005/09/19/big-brother-brasil/"/>
+   <link href="http://example.com/2005/09/19/big-brother-brasil"/>
    <updated>2005-09-19T00:00:00-03:00</updated>
    <id>http://example.com/2005/09/19/big-brother-brasil</id>
    <content type="html">&lt;p&gt;O jogo Big Brother Brasil foi baseado no programa de televisão de grande sucesso em vários países do mundo e que também teve um grande sucesso pelas ondas da Rede Globo.&lt;/p&gt;

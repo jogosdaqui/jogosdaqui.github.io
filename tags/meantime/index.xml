@@ -3,7 +3,7 @@
  <title>Your Title - meantime</title>
  <link href="http://example.com/tags/meantime/index.xml" rel="self"/>
  <link href="http://example.com/tag/meantime.html"/>
- <updated>2018-11-12T09:42:56-02:00</updated>
+ <updated>2018-11-12T11:27:35-02:00</updated>
  <id>http://example.com/tag/meantime.html</id>
  <author>
    <name>Author Here</name>
@@ -11,7 +11,7 @@
  
  <entry>
    <title>Casseta & Planeta - Quebra-Cabeça</title>
-   <link href="http://example.com/2005/11/07/casseta-planeta-quebra-cabeca/"/>
+   <link href="http://example.com/2005/11/07/casseta-planeta-quebra-cabeca"/>
    <updated>2005-11-07T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/07/casseta-planeta-quebra-cabeca</id>
    <content type="html">&lt;p&gt;Casseta &amp;amp; Planeta - Quebra-Cabeça é mais uma dos &lt;a href=&quot;http://www.casseta.com.br/&quot; target=&quot;_blank&quot;&gt;Cassetas&lt;/a&gt;
@@ -29,7 +29,7 @@
  
  <entry>
    <title>Casseta & Planeta - Jogo da Memória</title>
-   <link href="http://example.com/2005/10/31/casseta-planeta-jogo-da-memoria/"/>
+   <link href="http://example.com/2005/10/31/casseta-planeta-jogo-da-memoria"/>
    <updated>2005-10-31T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/31/casseta-planeta-jogo-da-memoria</id>
    <content type="html">&lt;p&gt;Como anda a sua memória? Fraca, cansada, precisando de uma forcinha? Apresentamos mais um revolucionário lançamento das organizações TABAJARA: o incrível MEMORY REFRESCATOR: Casseta &amp;amp; Planeta - Jogo da Memória, com os personagens do &lt;a href=&quot;http://www.casseta.com.br/&quot; target=&quot;_blank&quot;&gt;Casseta &amp;amp; Planeta&lt;/a&gt;
@@ -47,7 +47,7 @@
  
  <entry>
    <title>Show de Bola, novo jogo da Meantime</title>
-   <link href="http://example.com/2005/10/18/show-de-bola-novo-jogo-da-meantime/"/>
+   <link href="http://example.com/2005/10/18/show-de-bola-novo-jogo-da-meantime"/>
    <updated>2005-10-18T00:00:00-02:00</updated>
    <id>http://example.com/2005/10/18/show-de-bola-novo-jogo-da-meantime</id>
    <content type="html">&lt;p&gt;A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola.&lt;/p&gt;
@@ -61,7 +61,7 @@
  
  <entry>
    <title>Jogo da Meantime em voos internacionais</title>
-   <link href="http://example.com/2005/10/11/jogo-da-meantime-em-voos-internacionais/"/>
+   <link href="http://example.com/2005/10/11/jogo-da-meantime-em-voos-internacionais"/>
    <updated>2005-10-11T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/11/jogo-da-meantime-em-voos-internacionais</id>
    <content type="html">&lt;p&gt;O game &lt;span style=&quot;font-weight: bold;&quot;&gt;Adventures of Zaak &lt;/span&gt;aterrissa em três continentes este ano.A Meantime está levando um pequeno aprendiz de feiticeiro para um passeio ao redor do mundo. &lt;span style=&quot;font-weight: bold;&quot;&gt;Um dos games de maior sucesso da empresa&lt;/span&gt; está chegando aos &lt;span style=&quot;font-weight: bold;&quot;&gt;Estados Unidos, Europa e Ásia&lt;/span&gt; em uma nova versão e com novo nome: Adventures of Zaak.&lt;/p&gt;
@@ -81,7 +81,7 @@
  
  <entry>
    <title>Adventures of Zaak - The Little Wiz</title>
-   <link href="http://example.com/2005/10/11/adventures-of-zaak-the-little-wiz/"/>
+   <link href="http://example.com/2005/10/11/adventures-of-zaak-the-little-wiz"/>
    <updated>2005-10-11T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/11/adventures-of-zaak-the-little-wiz</id>
    <content type="html">&lt;p&gt;Uma mistura de puzzle e plataforma com Zaak, um desastrado aprendiz de feiticeiro, cuja missão é salvar as fadinhas capturadas pelo terrível Ás de Espadas. Zaak precisará lutar contra abóboras assassinas, escalar paredes, evitar armadilhas e usar sua magia com inteligência para passar por todos os níveis.&lt;/p&gt;
@@ -94,7 +94,7 @@
  
  <entry>
    <title>Adventures of Zaak em três continentes</title>
-   <link href="http://example.com/2005/10/10/adventures-of-zaak-em-tres-continentes/"/>
+   <link href="http://example.com/2005/10/10/adventures-of-zaak-em-tres-continentes"/>
    <updated>2005-10-10T00:00:00-03:00</updated>
    <id>http://example.com/2005/10/10/adventures-of-zaak-em-tres-continentes</id>
    <content type="html">&lt;p&gt;A Meantime está levando um pequeno aprendiz de feiticeiro para um passeio ao redor do mundo. Um dos games de maior sucesso da empresa está chegando aos Estados Unidos, Europa e Ásia.&lt;/p&gt;
