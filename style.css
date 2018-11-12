@@ -794,3 +794,10 @@ code {
   padding-right: 10px;
   z-index: 99999999;
 }
+
+.menu-item {
+  color: #ff9900;
+  font-family: robotoregular;
+  font-size: 16px;
+  text-transform: uppercase;
+}

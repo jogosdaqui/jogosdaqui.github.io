@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - development</title>
+ <link href="http://example.com/tags/development/index.xml" rel="self"/>
+ <link href="http://example.com/tag/development.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/development.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Memory Cube</title>
+   <link href="http://example.com/2006/04/11/memory-cube"/>
+   <updated>2006-04-11T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/11/memory-cube</id>
+   <content type="html">&lt;p&gt;Em Memory Cube da FourX o jogador pode se divertir com o clássico jogo da memória ou ainda jogar um jogo da memória onde o tabuleiro é um cubo.&lt;br /&gt;&lt;br /&gt;Se o clássico jogo da memória já trazia desafio o modo em cubo é diversão e desafio nunca antes vistos em jogos do estilo. O jogador escolhe uma peça do tabuleiro em uma extremidade do cubo e precisa localizar o par idêntico em um dos 6 lados do cubo.&lt;br /&gt;&lt;br /&gt;Os gráficos do jogo são de alta qualidade, as cartas e desenhos são muito bem feitos. No modo cubo o grande barato é o cubo em 3D e a facilidade em girá-lo em todas as direções em busca das peças certas.&lt;br /&gt;&lt;br /&gt;Memory Cube possui vários temas para as peças dos tabuleiros, estes variam entre animais, frutas, transporte, fantasia, mitologia, música e profissões. O fato mais interessante de existirem diferentes temas é que cada um deles explora a memória do jogador de uma forma diferente.&lt;br /&gt;&lt;br /&gt;Para variar a dificuldade do jogo, o jogador ainda pode escolher qual a quantidade de peças no tabuleiro.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

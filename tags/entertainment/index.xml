@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - entertainment</title>
+ <link href="http://example.com/tags/entertainment/index.xml" rel="self"/>
+ <link href="http://example.com/tag/entertainment.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/entertainment.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Druids: Battle of Magic</title>
+   <link href="http://example.com/2006/06/20/druids-battle-of-magic"/>
+   <updated>2006-06-20T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/20/druids-battle-of-magic</id>
+   <content type="html">&lt;p&gt;O objetivo em Druids: Battle of Magic é seguir o rastro do ladrão do livro mágico, para isso quebrando as caixas de madeira e romper campos de força trocando as peças das casas do tabuleiro de modo fazer combinações mágicas de peças na vertical e horizontal. O Jogo conta com mais de 100 fases, cada um com desenho de tabuleiro diferente e ainda um editor de fases para criação de mais fases.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Digibunny</title>
+   <link href="http://example.com/2006/03/23/digibunny"/>
+   <updated>2006-03-23T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/23/digibunny</id>
+   <content type="html">&lt;p&gt;Digibunny é um jogo da série Digifamily da EonsGames Entertainment, nele o jogador trata de um belo bicho de estimação: um coelho. &lt;br /&gt;&lt;br /&gt;O bichinho tem que ser alimentado, deve tomar banho, brincar, receber carinho e remédio. Se não for cuidado, morre e deve ser baixado novamente&lt;br /&gt;&lt;br /&gt;Mas não pense que vai ser fácil, pois o coelho é exigente e precisa de atenção.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Coquetel</title>
+   <link href="http://example.com/2006/03/22/coquetel"/>
+   <updated>2006-03-22T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/22/coquetel</id>
+   <content type="html">&lt;p&gt;As palavras cruzadas, apesar de quase centenárias, acompanharam o avanço da tecnologia e agora podem ser acessadas através do celular!&lt;br /&gt;&lt;br /&gt;Como na revista da Ediouro, no celular o jogador recebe dicas e se diverte tentando encontrar as palavras certas. No jogo, criado especialmente para os amantes do passatempo que já virou mania entre os brasileiros, os desafios estão garantidos!&lt;br /&gt;&lt;br /&gt;O Jogo de Palavras Cruzadas Coquetel, foi desenvolvido pela Délirus em parceria com a XMedia, e está sendo distribuido nas operadoras Claro e Brasil Telecom.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

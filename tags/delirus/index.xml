@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - délirus</title>
+ <link href="http://example.com/tags/delirus/index.xml" rel="self"/>
+ <link href="http://example.com/tag/délirus.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/délirus.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Coquetel</title>
+   <link href="http://example.com/2006/03/22/coquetel"/>
+   <updated>2006-03-22T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/22/coquetel</id>
+   <content type="html">&lt;p&gt;As palavras cruzadas, apesar de quase centenárias, acompanharam o avanço da tecnologia e agora podem ser acessadas através do celular!&lt;br /&gt;&lt;br /&gt;Como na revista da Ediouro, no celular o jogador recebe dicas e se diverte tentando encontrar as palavras certas. No jogo, criado especialmente para os amantes do passatempo que já virou mania entre os brasileiros, os desafios estão garantidos!&lt;br /&gt;&lt;br /&gt;O Jogo de Palavras Cruzadas Coquetel, foi desenvolvido pela Délirus em parceria com a XMedia, e está sendo distribuido nas operadoras Claro e Brasil Telecom.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

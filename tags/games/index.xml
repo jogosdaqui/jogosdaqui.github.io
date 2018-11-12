@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - games</title>
+ <link href="http://example.com/tags/games/index.xml" rel="self"/>
+ <link href="http://example.com/tag/games.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/games.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Plush Poison</title>
+   <link href="http://example.com/2007/01/18/plush-poison"/>
+   <updated>2007-01-18T00:00:00-02:00</updated>
+   <id>http://example.com/2007/01/18/plush-poison</id>
+   <content type="html">&lt;p&gt;Em Plush Poison o jogador deve acompanhar o som da dupla escolhida e prestar atenção no tempo. Para marcar pontos é preciso tocar no momento exato de cada nota musical.&lt;br /&gt;&lt;br /&gt;As teclas A, S, D e F representam cordas da sua guitarra. Você precisa tocar cada uma no momento correto para que o seu &quot;talentômetro&quot; esquente ao máximo, mas cuidado para não errar muito, pois assim o seu show terminará antes da hora.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Menininhas</title>
+   <link href="http://example.com/2007/01/17/menininhas"/>
+   <updated>2007-01-17T00:00:00-02:00</updated>
+   <id>http://example.com/2007/01/17/menininhas</id>
+   <content type="html">&lt;p&gt;No jogo Menininhas a sua missão é juntar pelo menos três objetos iguais na mesma linha ou coluna, antes de esgotar o tempo, e  com isso acumular muitos pontos. &lt;br /&gt;&lt;br /&gt;Toda vez que o jogador consegue juntar mais de três objetos, ganha bônus. O jogador também ganha bônus quando consegue executar um combo. Combos são conquistados quando se junta objetos iguais em sequência.&lt;br /&gt;&lt;br /&gt;Você pode ver a sua posição no ranking on-line que marca as melhores pontuações.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gambler Saga</title>
+   <link href="http://example.com/2006/07/05/gambler-saga"/>
+   <updated>2006-07-05T00:00:00-03:00</updated>
+   <id>http://example.com/2006/07/05/gambler-saga</id>
+   <content type="html">&lt;p&gt;Baseado em um conhecido jogo de rua, no qual um sujeito esconde uma bolinha embaixo de 3 copos e o jogador deve encontra-la. &lt;br /&gt;Em Gambler Saga, este jogo se chama WIB (Where Is the Ball)  e você encara a missão de ajudar Little Jack, um garoto prodígio de 10 anos, jogador de WIB, que tenta derrotar o campeão Europeu, Mr. Eagle (que supostamente fora culpado pela morte de seu pai). &lt;br /&gt;&lt;br /&gt;Para enfrentar Eagle, LJ precisa antes viajar pelo mundo (Brasil, Indonésia, México e Europa) derrotando a gangue dos 3REIS, ex-jogadores de WIB, expulsos da liga mundial por atividades criminosas, (como por exemplo, intimidar com violencia bons jogadores). Suspeita-se que Mr. Eagle lidere esta gang. O jogo conta com 2 modos; estória, onde o jogador trilha a Saga e Arcade, jogo livre contra o celular. &lt;br /&gt;&lt;br /&gt;A música do game é uma mistura de ritmos brasileiros e latinos, apelidada de &quot;Samba cucaracha&quot;. &lt;br /&gt;&lt;br /&gt;Todas as fases contam com scores on-line estimulando a atividade multiplayer, que pode ser conferida no site: &lt;a href=&quot;http://www.gamblersaga.com&quot; target=&quot;_blank&quot;&gt;www.gamblersaga.com&lt;/a&gt;
+. No mesmo site, pode-se encontrar mais informações sobre os personagens e a história do jogo.&lt;br /&gt;&lt;br /&gt;Gambler Saga está disponível em todas as operadoras do país.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Petrakas Malabares</title>
+   <link href="http://example.com/2006/06/28/petrakas-malabares"/>
+   <updated>2006-06-28T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/28/petrakas-malabares</id>
+   <content type="html">&lt;p&gt;Em Petrakas Malabares o jogador se tornará um talentoso malabarista. O objetivo é controlar o personagem e tentar equilibrar o maior número de pedras no menor tempo possível, pois o jogador precisa ser rápido antes que o tempo acabe.&lt;br /&gt;&lt;br /&gt;Praticando malabarismo com um homem das cavernas, a diversão está garantida.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fruzzle</title>
+   <link href="http://example.com/2006/03/22/fruzzle"/>
+   <updated>2006-03-22T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/22/fruzzle</id>
+   <content type="html">&lt;dl&gt;
+  &lt;dt&gt;Fruzzle traz a marca registrada da &lt;a href=&quot;/index.php?p=c&amp;amp;id=163&quot;&gt;ICON Games&lt;/a&gt;&lt;/dt&gt;
+  &lt;dd&gt;jogos casuais originais.&lt;br /&gt;&lt;br /&gt;Em Fruzzle você é um simpático sapinho que deve pular sobre todos os pontos flutuantes existentes em um lago que somem assim que você o deixa, mas tem um problema: como todo sapo, ele não pula pra trás, então você tem que pensar bem antes de cada movimento. O sapinho pode pular somente para frente e para os lados.&lt;br /&gt;&lt;br /&gt;O jogo possui mais de 50 fases, todas elas são geradas aleatoriamente, o que garante sempre uma fase diferente a cada tentativa.&lt;br /&gt;&lt;br /&gt;Os gráficos 3D do jogo seguem o estilo de outro jogo da ICON Games, o &lt;a href=&quot;/index.php?p=c&amp;amp;id=163&quot;&gt;Bola de Gude&lt;/a&gt;
+. O visual caprichado aliado a uma trilha sonora e efeitos de som de boa qualidade, caem como uma luva nesse estilo de jogo.&lt;br /&gt;&lt;br /&gt;Fruzzle é um jogo original, divertido, desafiador e muito viciante.&lt;/dd&gt;
+&lt;/dl&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Laura&#39;s Tierklinik</title>
+   <link href="http://example.com/2006/02/01/lauras-tierklinik"/>
+   <updated>2006-02-01T00:00:00-02:00</updated>
+   <id>http://example.com/2006/02/01/lauras-tierklinik</id>
+   <content type="html">&lt;p&gt;Laura ama animais mais do que qualquer coisa. Quando o cavalo de um amigo fica doente, ela leva o cavalo até o hospital local para animais. Uma médica, percebendo o talento de Laura com os animais, convida-a para trabalhar no hospital.&lt;br /&gt;&lt;br /&gt;Você estará no papel de Laura ajudando no hospital de animais.&lt;br /&gt;&lt;br /&gt;Receba chamadas de emergência, cuide dos animais feridos e mantenha-os ocupados com atividades. Procure animais desaparecidos e traga-os o mais rápido possível para o hospital.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

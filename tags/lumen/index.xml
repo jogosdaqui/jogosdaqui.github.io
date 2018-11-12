@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - lúmen</title>
+ <link href="http://example.com/tags/lumen/index.xml" rel="self"/>
+ <link href="http://example.com/tag/lúmen.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/lúmen.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Tupã</title>
+   <link href="http://example.com/2006/05/16/tupa"/>
+   <updated>2006-05-16T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/16/tupa</id>
+   <content type="html">&lt;p&gt;O pequeno índio de 13 anos de idade chamado Tupã mora na floresta tropical brasileira e para provar que é um bom caçador, precisa coletar ítens e construír sua oca o mais rápido possível.&lt;br /&gt;&lt;br /&gt;Você deve conduzir o pequeno índio a pular sobre os troncos para ajudá-lo a coletar todos os ítens necessários para construir e melhorar sua oca. Quando completada, Tupã deve ir para a sua oca.&lt;br /&gt;&lt;br /&gt;Controle o pequeno índio por 15 níveis e participe do ranking dos melhores jogadores.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transit Brasil</title>
+   <link href="http://example.com/2006/04/18/transit-brasil"/>
+   <updated>2006-04-18T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/18/transit-brasil</id>
+   <content type="html">&lt;p&gt;Você é Allan Cruz e acaba de conseguir o seu primeiro emprego como entregador da empresa Chega Já!, famosa pela pontualidade nas entregas e conhecida pelas várias filiais espalhadas em todo o Brasil. Infelizmente para você, e felizmente para os clientes, a empresa preza pela rapidez e agilidade do serviço. E foi por isso que você foi contratado.&lt;br /&gt;&lt;br /&gt;Viaje pelo Brasil percorrendo várias cidades em mais de 60 missões, fazendo entregas, levando pessoas e, acima de tudo, correndo contra o tempo nesse empolgante jogo da LúmenTech. Com 3 espaços para salvar seu jogo e inúmeros itens colecionáveis, além de missões secretas, você pode curti-lo por inúmeras horas sem perder o seu progresso no jogo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - tecnologia</title>
+ <link href="http://example.com/tags/tecnologia/index.xml" rel="self"/>
+ <link href="http://example.com/tag/tecnologia.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/tecnologia.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Bunny Smash</title>
+   <link href="http://example.com/2006/11/10/bunny-smash"/>
+   <updated>2006-11-10T00:00:00-02:00</updated>
+   <id>http://example.com/2006/11/10/bunny-smash</id>
+   <content type="html">&lt;p&gt;Bunny Smash é um jogo bem humorado onde você é um fazendeiro que tem sua fazenda invadida por coelhos que querem destruir sua plantação de cenouras.&lt;br /&gt;&lt;br /&gt;Você terá que ter um bom reflexo para acertar os coelhos tomando o cuidado de não bater no seu cachorro, refém do coelho maldito, pois isso fará com que você perca vidas.&lt;br /&gt;&lt;br /&gt;O coelho, além de sequestrar seu cachorro, tentará lhe enganar com um coelho de mentira que explode quando acertado e faz com que você se distraia e não o acerte; se o coelho verdadeiro aparecer e não for acertado você também perderá vidas.&lt;br /&gt;&lt;br /&gt;Com três níveis de dificuldade, é preciso ser rápido e certeiro para conseguir passar de fase.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cat Fighters</title>
+   <link href="http://example.com/2006/08/04/cat-fighters"/>
+   <updated>2006-08-04T00:00:00-03:00</updated>
+   <id>http://example.com/2006/08/04/cat-fighters</id>
+   <content type="html">&lt;p&gt;A busca pelo Gato de Bastet - um artefato que pode trazer grandes poderes para seu possuidor - vai reunir as cinco aventureiras mais lindas do planeta em uma missão, onde o objetivo é capturar e proteger esta relíquia sagrada!&lt;br /&gt;O gosto por aventura é o que motiva as belas aventureiras a desafiarem umas as outras para conseguir o poderoso artefato.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;História&lt;/span&gt;&lt;br /&gt;Trevor Baynes, um milionário excêntrico, está em busca do poderoso Gato de Bastet; seus verdadeiros objetivos, porém, estão ocultos pela sua forte personalidade. Baynes contrata cinco mulheres para resolver este caso e oferece uma recompensa para quem trouxer a relíquia. Seu objetivo está traçado e sua busca começa agora!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Características&lt;/span&gt;&lt;br /&gt;- 5 personagens de tirar o fôlego;&lt;br /&gt;- 5 cenários para completar sua viagem;&lt;br /&gt;- 2 modos de combate, incluindo o já clássico Modo Suicida;&lt;br /&gt;- Recordes on-line, para mostrar a todos seu grande potencial;&lt;br /&gt;- Desbloqueio de personagem ao fechar o jogo no nível difícil.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jogo da Sedução</title>
+   <link href="http://example.com/2006/05/22/jogo-da-seducao"/>
+   <updated>2006-05-22T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/22/jogo-da-seducao</id>
+   <content type="html">&lt;p&gt;Você foi selecionado para entrar no jogo da sedução, no qual o participante deve ajudar a sua sedutora a ser a melhor entre todas. O jogo se divide em 3 mini-games, que contam pontos na disputa de mulher mais sedutora do Brasil.&lt;br /&gt;&lt;br /&gt;Strip: o jogador deve apertar o botão de ação no momento em que o mesmo achar que a barra de clímax estiver no topo máximo da determinada ação, lembrando que o topo pode variar conforme a ação. Quanto mais alto se acerta, mais pontos serão fornecidos.&lt;br /&gt;&lt;br /&gt;Dança: o jogador deve apertar o botão correto no momento em que o número correspondente passar sobre o círculo de validação, marcando assim pontos. Conforme for seu desempenho, sua pontuação irá aumentar.&lt;br /&gt;&lt;br /&gt;Escolher as roupas: para escolher as melhores roupas, e as mais sensuais, o jogador deve gastar uma determinada quantia de pontos, na qual varia conforme a roupa a ser escolhida; quanto melhor for o desempenho, mais chances de pegar a melhor roupa na loja. A roupa influencia na decisão da mulher mais sedutora.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gladiarena</title>
+   <link href="http://example.com/2006/03/24/gladiarena"/>
+   <updated>2006-03-24T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/24/gladiarena</id>
+   <content type="html">&lt;p&gt;Neste jogo de ação, você é Hugo Tiberius, um valente guerreiro que encontrou sua vocação nas arenas de batalha. Lute pela glória, fama e fortuna enquanto os inimigos tombam, um a um, diante da sua incansável espada.&lt;/p&gt;
+
+&lt;p&gt;Em uma visão aérea de jogo, com movimentação em quatro direções, você combate até quatro inimigos simultaneamente em diversas arenas com desafio crescente. Aprenda a dominar as técnicas e estratégias das três armas clássicas de um gladiador: a espada, a lança e o arco.&lt;/p&gt;
+
+&lt;p&gt;Enfrente diversos tipos de inimigos com variadas habilidades e aprenda os pontos fracos de cada um para triunfar no campo de batalha.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fighters of Caribbean</title>
+   <link href="http://example.com/2006/03/24/fighters-of-caribbean"/>
+   <updated>2006-03-24T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/24/fighters-of-caribbean</id>
+   <content type="html">&lt;p&gt;Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos.&lt;/p&gt;
+
+&lt;p&gt;Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará varias horas de diversão e sufoco para escapar das garras dos mais terríveis bandidos dos sete mares. Você precisará de muita agilidade e astúcia, além de uma boa dose de sorte para vencer neste poderoso game!&lt;/p&gt;
+
+&lt;p&gt;Agora é com você marujo!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Star Athletes</title>
+   <link href="http://example.com/2006/02/05/star-athletes"/>
+   <updated>2006-02-05T00:00:00-02:00</updated>
+   <id>http://example.com/2006/02/05/star-athletes</id>
+   <content type="html">&lt;p&gt;Seja bem vindo a uma competição de atletismo!! Escolha o seu atleta entre as 10 nacionalidades disponíveis e dê seu melhor na pista.&lt;br /&gt;&lt;br /&gt;A jogabilidade é simples e divertida. Conforme você acerta os números que vão aparecendo na tela, o seu atleta ganha velocidade e se distancia dos outros competidores.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fencer Duel</title>
+   <link href="http://example.com/2006/01/31/fencer-duel"/>
+   <updated>2006-01-31T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/31/fencer-duel</id>
+   <content type="html">&lt;p&gt;A Arte da Esgrima agora no seu celular. Desafie seu oponente para um combate e use toda sua destreza para vencer o duelo. &lt;br /&gt;&lt;br /&gt;São três níveis de dificuldade e um modo sobrevivência para jogadores avançados.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

@@ -3,7 +3,7 @@
  <title>Your Title - tilt</title>
  <link href="http://example.com/tags/tilt/index.xml" rel="self"/>
  <link href="http://example.com/tag/tilt.html"/>
- <updated>2018-11-12T11:27:35-02:00</updated>
+ <updated>2018-11-12T18:41:41-02:00</updated>
  <id>http://example.com/tag/tilt.html</id>
  <author>
    <name>Author Here</name>
@@ -176,21 +176,453 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
  </entry>
  
  <entry>
+   <title>Quadro comemorativo &#39;150 jogos daqui&#39;</title>
+   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <updated>2006-05-18T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <content type="html">&lt;p&gt;Mais uma vez o &lt;span style=&quot;color: rgb(255, 153, 0); font-weight: bold;&quot;&gt;jogosdaqui&lt;/span&gt; comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&quot;&gt;jogos&lt;/a&gt;
+ nacionais cadastrados no site. &lt;br /&gt;&lt;br /&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table width=&quot;50%&quot; cellspacing=&quot;1&quot; cellpadding=&quot;0&quot; border=&quot;0&quot; align=&quot;center&quot;&gt;
+    
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Aeroporto 83&quot;&gt;
+
+            &lt;td wstooltip=&quot;Hades2&quot;&gt;
+
+            &lt;td wstooltip=&quot;Incidente em Varginha&quot;&gt;
+
+            &lt;td wstooltip=&quot;Acquaria O Jogo&quot;&gt;
+
+            &lt;td wstooltip=&quot;Amazônia&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Outlive&quot;&gt;
+
+            &lt;td wstooltip=&quot;Big Brother Brasil&quot;&gt;
+
+            &lt;td wstooltip=&quot;Big Brother Brasil 3D On-Line&quot;&gt;
+
+            &lt;td wstooltip=&quot;Vbikes&quot;&gt;
+
+            &lt;td wstooltip=&quot;BOTZIN&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Vampiromania&quot;&gt;
+
+            &lt;td wstooltip=&quot;BrasFoot&quot;&gt;
+
+            &lt;td wstooltip=&quot;V.T.O.L.&quot;&gt;
+
+            &lt;td wstooltip=&quot;Trophy Hunter 2003&quot;&gt;
+
+            &lt;td wstooltip=&quot;Buggy Racers&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Casa dos Artistas&quot;&gt;
+
+            &lt;td wstooltip=&quot;Christmas Magic&quot;&gt;
+
+            &lt;td wstooltip=&quot;Contato&quot;&gt;
+
+            &lt;td wstooltip=&quot;Cuana Toon&quot;&gt;
+
+            &lt;td wstooltip=&quot;Eleições para presidente&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Guimo&quot;&gt;
+
+            &lt;td wstooltip=&quot;Matchball Tennis&quot;&gt;
+
+            &lt;td wstooltip=&quot;Torpedo&quot;&gt;
+
+            &lt;td wstooltip=&quot;Mago das Ervas&quot;&gt;
+
+            &lt;td wstooltip=&quot;Mensalão, o Jogo&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Terra - Destino Final&quot;&gt;
+
+            &lt;td wstooltip=&quot;Super Mini Racing&quot;&gt;
+
+            &lt;td wstooltip=&quot;Solaris 1.0.4.&quot;&gt;
+
+            &lt;td wstooltip=&quot;Show do Milhão Colecionador&quot;&gt;
+
+            &lt;td wstooltip=&quot;Sandy &amp;amp; Junior - Aventura Virtual&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Quiz Maker&quot;&gt;
+
+            &lt;td wstooltip=&quot;Quebra Cabeça&quot;&gt;
+
+            &lt;td wstooltip=&quot;Penguin Racer&quot;&gt;
+
+            &lt;td wstooltip=&quot;Erinia&quot;&gt;
+
+            &lt;td wstooltip=&quot;Xuxa e os Duendes 2&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Aventura na Selva&quot;&gt;
+
+            &lt;td wstooltip=&quot;Desafio na Floresta&quot;&gt;
+
+            &lt;td wstooltip=&quot;Taikodom&quot;&gt;
+
+            &lt;td wstooltip=&quot;O Enigma da Esfinge&quot;&gt;
+
+            &lt;td wstooltip=&quot;Transportando o Brasil&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Die Pferdebande&quot;&gt;
+
+            &lt;td wstooltip=&quot;Jogo das Traíras&quot;&gt;
+
+            &lt;td wstooltip=&quot;Koko Arena&quot;&gt;
+
+            &lt;td wstooltip=&quot;O Monstruário&quot;&gt;
+
+            &lt;td wstooltip=&quot;Der Pferderennstall&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Super Popcorn Machine&quot;&gt;
+
+            &lt;td wstooltip=&quot;Shoot The Chief&quot;&gt;
+
+            &lt;td wstooltip=&quot;A Fantástica Aventura de Tales  &quot;&gt;
+
+            &lt;td wstooltip=&quot;JoKenPo&quot;&gt;
+
+            &lt;td wstooltip=&quot;Roko-Loko no castelo do Ratozinger&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Cookie Chef&quot;&gt;
+
+            &lt;td wstooltip=&quot;Show do Milhão Júnior&quot;&gt;
+
+            &lt;td wstooltip=&quot;Programa do Ratinho&quot;&gt;
+
+            &lt;td wstooltip=&quot;Outgun&quot;&gt;
+
+            &lt;td wstooltip=&quot;Smart Panda&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;No Limite&quot;&gt;
+
+            &lt;td wstooltip=&quot;Impacto Alpha&quot;&gt;
+
+            &lt;td wstooltip=&quot;Othello&quot;&gt;
+
+            &lt;td wstooltip=&quot;Hello!&quot;&gt;
+
+            &lt;td wstooltip=&quot;Vudugame&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Cataclism&quot;&gt;
+
+            &lt;td wstooltip=&quot;Arena de Rodeio&quot;&gt;
+
+            &lt;td wstooltip=&quot;ProGoal&quot;&gt;
+
+            &lt;td wstooltip=&quot;R/C Racing&quot;&gt;
+
+            &lt;td wstooltip=&quot;Adventures of Zaak - The Little Wiz&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Whiskeria Paradiso&quot;&gt;
+
+            &lt;td wstooltip=&quot;Banana Joe&quot;&gt;
+
+            &lt;td wstooltip=&quot;FutSim&quot;&gt;
+
+            &lt;td wstooltip=&quot;Shadows of Malquidious&quot;&gt;
+
+            &lt;td wstooltip=&quot;Molécula&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Die Ponyrancher&quot;&gt;
+
+            &lt;td wstooltip=&quot;Crimson After Dusk&quot;&gt;
+
+            &lt;td wstooltip=&quot;Riding Ground&quot;&gt;
+
+            &lt;td wstooltip=&quot;Rain of Fire&quot;&gt;
+
+            &lt;td wstooltip=&quot;PreservAÃÃO&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Animal Rage&quot;&gt;
+
+            &lt;td wstooltip=&quot;Come-Come&quot;&gt;
+
+            &lt;td wstooltip=&quot;Space Hero&quot;&gt;
+
+            &lt;td wstooltip=&quot;Ice Post&quot;&gt;
+
+            &lt;td wstooltip=&quot;Jet Boarder&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Força Andrômeda&quot;&gt;
+
+            &lt;td wstooltip=&quot;CUBi&quot;&gt;
+
+            &lt;td wstooltip=&quot;Golden West - Mexican Bullet&quot;&gt;
+
+            &lt;td wstooltip=&quot;Meu Big Brother&quot;&gt;
+
+            &lt;td wstooltip=&quot;Sorriso Campeão&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Muralha&quot;&gt;
+
+            &lt;td wstooltip=&quot;Warbots&quot;&gt;
+
+            &lt;td wstooltip=&quot;Sudoku&quot;&gt;
+
+            &lt;td wstooltip=&quot;Jogo da Memória&quot;&gt;
+
+            &lt;td wstooltip=&quot;Ottomax&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Gold Hunter&quot;&gt;
+
+            &lt;td wstooltip=&quot;Skooter&quot;&gt;
+
+            &lt;td wstooltip=&quot;Quebra-Cabeça&quot;&gt;
+
+            &lt;td wstooltip=&quot;Pebolim 3D&quot;&gt;
+
+            &lt;td wstooltip=&quot;Sea Hunter&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Chip$&quot;&gt;
+
+            &lt;td wstooltip=&quot;Pato Possante&quot;&gt;
+
+            &lt;td wstooltip=&quot;Bola de Gude&quot;&gt;
+
+            &lt;td wstooltip=&quot;Nishi Aqua Fight&quot;&gt;
+
+            &lt;td wstooltip=&quot;Ryudragon&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Garatuja&quot;&gt;
+
+            &lt;td wstooltip=&quot;Moscão Killer&quot;&gt;
+
+            &lt;td wstooltip=&quot;Nishi Soul Mate&quot;&gt;
+
+            &lt;td wstooltip=&quot;WAR&quot;&gt;
+
+            &lt;td wstooltip=&quot;The Game Producer&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Aero Battle&quot;&gt;
+
+            &lt;td wstooltip=&quot;Zôo&quot;&gt;
+
+            &lt;td wstooltip=&quot;Show do Milhão 2006&quot;&gt;
+
+            &lt;td wstooltip=&quot;Jetski Race&quot;&gt;
+
+            &lt;td wstooltip=&quot;Bears &amp;amp; Bees&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Zoo Escape&quot;&gt;
+
+            &lt;td wstooltip=&quot;Red Hood Racing&quot;&gt;
+
+            &lt;td wstooltip=&quot;Bate-Rebate&quot;&gt;
+
+            &lt;td wstooltip=&quot;Dominó Chinês&quot;&gt;
+
+            &lt;td wstooltip=&quot;Vôlei de Praia&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Os Conquistadores&quot;&gt;
+
+            &lt;td wstooltip=&quot;Metablocks&quot;&gt;
+
+            &lt;td wstooltip=&quot;Tank Mission 2&quot;&gt;
+
+            &lt;td wstooltip=&quot;War of Malquidious&quot;&gt;
+
+            &lt;td wstooltip=&quot;PalmSoft Drag Racer&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Embaixadinha&quot;&gt;
+
+            &lt;td wstooltip=&quot;Shangai&quot;&gt;
+
+            &lt;td wstooltip=&quot;Fencer Duel&quot;&gt;
+
+            &lt;td wstooltip=&quot;Laura's Tierklinik&quot;&gt;
+
+            &lt;td wstooltip=&quot;Faroeste&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Rally dos Sertões 2005&quot;&gt;
+
+            &lt;td wstooltip=&quot;Star Athletes&quot;&gt;
+
+            &lt;td wstooltip=&quot;Pedreiro Polar&quot;&gt;
+
+            &lt;td wstooltip=&quot;Conecta 4 - Experience&quot;&gt;
+
+            &lt;td wstooltip=&quot;Estratégia F1&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;A Ponte&quot;&gt;
+
+            &lt;td wstooltip=&quot;Xadrez&quot;&gt;
+
+            &lt;td wstooltip=&quot;Castle Ghost&quot;&gt;
+
+            &lt;td wstooltip=&quot;Aquadum&quot;&gt;
+
+            &lt;td wstooltip=&quot;Truco&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Fruzzle&quot;&gt;
+
+            &lt;td wstooltip=&quot;Coquetel&quot;&gt;
+
+            &lt;td wstooltip=&quot;Fighters of Caribbean&quot;&gt;
+
+            &lt;td wstooltip=&quot;Gladiarena&quot;&gt;
+
+            &lt;td wstooltip=&quot;Digibunny&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Senninha Racing&quot;&gt;
+
+            &lt;td wstooltip=&quot;Lance Livre&quot;&gt;
+
+            &lt;td wstooltip=&quot;Memory Cube&quot;&gt;
+
+            &lt;td wstooltip=&quot;Transit Brasil&quot;&gt;
+
+            &lt;td wstooltip=&quot;Ayrton Senna's Best Lap&quot;&gt;
+
+        
+        &lt;tr&gt;
+            &lt;td wstooltip=&quot;Arco e Flecha&quot;&gt;
+
+            &lt;td wstooltip=&quot;Winguel&quot;&gt;
+
+            &lt;td wstooltip=&quot;Imagem&amp;amp;Ação&quot;&gt;
+
+            &lt;td wstooltip=&quot;Penalty Cup&quot;&gt;
+
+            &lt;td wstooltip=&quot;Tupã&quot;&gt;
+
+        
+    &amp;lt;/tbody&amp;gt;
+&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EGR (Ecossistema de games do Recife)</title>
+   <link href="http://example.com/2006/05/10/egr-ecossistema-de-games-do-recife"/>
+   <updated>2006-05-10T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/10/egr-ecossistema-de-games-do-recife</id>
+   <content type="html">&lt;p&gt;&lt;big&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Vai acontecer dia 20 de maio,  das 10 &amp;aacute;s 14 horas a EGR (Ecossistema de games do Recife), o primeiro evento  relacionado a desenvolvimento de jogos no Recife. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot; style=&quot;font-weight: bold;&quot;&gt;&lt;big&gt;Como vai  funcionar? &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;O evento ter&amp;aacute; uma dura&amp;ccedil;&amp;atilde;o de 4h, onde algumas empresas  de Recife ir&amp;atilde;o falar um pouco sobre seu dia a dia, sobre ferramentas,  tecnologias e etc. O evento tamb&amp;eacute;m abranger&amp;aacute; um pouco sobre a historia das  empresas de desenvolvimento de em Recife e falar um pouco a respeito do  lan&amp;ccedil;amento de um curso t&amp;eacute;cnico sobre desenvolvimento de jogos, que em parceria  com o Ibratec estar&amp;aacute; comecando a partir de Agosto. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot; style=&quot;font-weight: bold;&quot;&gt;&lt;big&gt;Onde vai  ser? &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Na Livraria Cultura, Bairro do Recife (Ao lado do Pa&amp;ccedil;o  Alfandega).&lt;br /&gt;20 de Maio, das 10 &amp;aacute;s 14hs.&lt;br /&gt;&lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Estar&amp;aacute;  palestrando pessoas como: Geber Ramalho (CIn-UFPE), Claudio Lins (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=45&quot;&gt;Preloud&lt;/a&gt;
+),  Scylla Costa (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=43&quot;&gt;Jynx&lt;/a&gt;
+), Mauricio Carvalho (ICORP), Mabuse (CESAR), Pedro Henrique  (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=41&quot;&gt;Meantime&lt;/a&gt;
+), Gustavo Carvalho (Ludusware), Vicente Vieira (Manifesto), Kliff  Harley (Tilt Mobile) e etc. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Lembrando que o evento &amp;eacute;  gratuito.&lt;/big&gt;&lt;/font&gt;&lt;/big&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Showroom interativo para os jogos nacionais</title>
+   <link href="http://example.com/2006/03/02/showroom-interativo-para-os-jogos-nacionais"/>
+   <updated>2006-03-02T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/02/showroom-interativo-para-os-jogos-nacionais</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
+ acaba de lançar um projeto que tem por finalidade ser um showroom dos jogos nacionais. &lt;br /&gt;O showroom utilizará os mesmos recursos dos &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=2&quot;&gt;adventures&lt;/a&gt;
+ interativos da empresa para apresentar os jogos de desenvolvedores nacionais.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=285&quot;&gt;Mais detalhes … &lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mostra permanente de jogos e projetos brasileiros</title>
+   <link href="http://example.com/2006/03/02/mostra-permanente-de-jogos-e-projetos-brasileiros"/>
+   <updated>2006-03-02T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/02/mostra-permanente-de-jogos-e-projetos-brasileiros</id>
+   <content type="html">&lt;p&gt;Está saindo do forno mais um projeto especial da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
+, que reúne o lançamento dos novos recursos do sistema de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=2&quot;&gt;adventures&lt;/a&gt;
+ interativos, com a idéia de divulgação dos jogos nacionais em um modelo de jogo.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;Desta forma, cada jogo pode ter a sua sala ou showroom, linkando as páginas oficiais e tudo mais que a criatividade do produtor inventar. Os recursos do sistema de adventures interativos podem ser explorados ao máximo, com o propósito de chamar a atenção dos usuários para a produção nacional.&lt;br /&gt;&lt;br /&gt;Se você produz jogos, tem uma equipe de produção, empresa ou é um autor independente, não pode ficar de fora deste projeto. Lembre-se que a divulgação do seu trabalho é a única forma de obter um retorno no mercado.&lt;br /&gt;&lt;br /&gt;Para mais detalhes do projeto, acessa a página:&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.tilt.net/adv/gamesbr/index.htm&quot;&gt;http://www.tilt.net/adv/gamesbr/index.htm&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;ou entre em contato com a TILT online pelo e-mail: &lt;a href=&quot;mailto:tilt@tilt.net&quot;&gt;tilt@tilt.net&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TILT online fecha parceria</title>
+   <link href="http://example.com/2006/02/11/tilt-online-fecha-parceria"/>
+   <updated>2006-02-11T00:00:00-02:00</updated>
+   <id>http://example.com/2006/02/11/tilt-online-fecha-parceria</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
+ fechou parceria com o site &lt;a href=&quot;http://www.minimidia.com.br&quot; target=&quot;_blank&quot;&gt;Minimidia&lt;/a&gt;
+. A iniciativa pretende auxiliar na divulgação de jogos em desenvolvimento e sites relacionados a produção de jogos no Brasil.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=267&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Promoção Ano 10 = assinatura econômica</title>
    <link href="http://example.com/2006/01/30/promocao-ano-10-assinatura-economica"/>
    <updated>2006-01-30T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/30/promocao-ano-10-assinatura-economica</id>
-   <content type="html">&lt;p&gt;Em fevereiro de 2006 a TILT online entra no seu décimo ano de presença na internet brasileira e para comemorar lançou a assinatura econômica (1 mês), para você aproveitar o restinho de férias antes das aulas, tirar aquela dúvida insistente, aprender novos truques de criação de jogos e ainda poupar uma graninha para gastar no carnaval.&lt;/p&gt;
-
-&lt;p&gt;Você assina o club TILT por 1 mês, pelo valor de R$ 9,50 e desfruta de todo o conteúdo do site.&lt;/p&gt;
-
-&lt;p&gt;Para fazer a assinatura econômica basta você enviar um e-mail para &lt;a href=&quot;mailto:tilt@tilt.net?subject=assinatura%20econ%F4mica&amp;amp;body=Eu%20vi%20a%20promo%E7%E3o%20no%20site%20www.jogosdaqui.com.br&quot;&gt;tilt@tilt.net&lt;/a&gt;
+   <content type="html">&lt;p&gt;Em fevereiro de 2006 a &lt;a href=&quot;../../../index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
+ entra no seu décimo ano de presença na internet brasileira e para comemorar lançou a assinatura econômica (1 mês), para você aproveitar o restinho de férias antes das aulas, tirar aquela dúvida insistente, aprender novos truques de criação de jogos e ainda poupar uma graninha para gastar no carnaval.&lt;br /&gt;&lt;br /&gt;  Você assina o club TILT por 1 mês, pelo valor de R$ 9,50 e desfruta de todo o conteúdo do site.&lt;br /&gt;&lt;br /&gt;  Para fazer a assinatura econômica basta você enviar um e-mail para &lt;a href=&quot;mailto:tilt@tilt.net?subject=assinatura%20econ%F4mica&amp;amp;body=Eu%20vi%20a%20promo%E7%E3o%20no%20site%20www.jogosdaqui.com.br&quot;&gt;tilt@tilt.net&lt;/a&gt;
  solicitando os dados para efetuar o pagamento ou ir na página da promoção para gerar o boleto (&lt;a href=&quot;http://www.tilt.net/destaq/promo.htm&quot;&gt;http://www.tilt.net/destaq/promo.htm&lt;/a&gt;
-).&lt;/p&gt;
+).&lt;br /&gt;&lt;br /&gt; Na sua mensagem, coloque no campo assunto (subject) &quot;&lt;span style=&quot;font-weight: bold;&quot;&gt;assinatura econômica&lt;/span&gt;&quot; para que ela seja processada rapidamente. No corpo da mensagem indique onde você viu esta promoção (no caso &lt;span style=&quot;font-weight: bold; color: rgb(255, 102, 0);&quot;&gt;jogosdaqui&lt;/span&gt;). O site que efetivar o maior número de assinaturas vai ganhar um presentão: 10 assinaturas anuais completas, para sortear entre seus leitores.&lt;br /&gt;&lt;br /&gt;  NOTA: esta promoção é válida até o dia 28/02/2006 e a assinatura dá direito apenas ao acesso ao club TILT.&lt;/p&gt;
 
-&lt;p&gt;Na sua mensagem, coloque no campo assunto (subject) “&lt;span style=&quot;font-weight: bold;&quot;&gt;assinatura econômica&lt;/span&gt;” para que ela seja processada rapidamente. No corpo da mensagem indique onde você viu esta promoção (no caso jogosdaqui). O site que efetivar o maior número de assinaturas vai ganhar um presentão: 10 assinaturas anuais completas, para sortear entre seus leitores.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TILT abre jogo comercial</title>
+   <link href="http://example.com/2006/01/24/tilt-abre-jogo-comercial"/>
+   <updated>2006-01-24T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/24/tilt-abre-jogo-comercial</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
+ inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.&lt;br /&gt;&lt;br /&gt;Para o lançamento da nova seção, a TILT disponibilzou o fonte de um jogo lançado em 1992.&lt;br /&gt;&lt;br /&gt;Essa é para quem, além de jogar, gosta de fazer seus próprios jogos.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=245&quot;&gt;Leia mais ….&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;NOTA: esta promoção é válida até o dia 28/02/2006 e a assinatura dá direito apenas ao acesso ao club TILT.&lt;/p&gt;
 </content>
  </entry>
  
@@ -199,16 +631,8 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
    <link href="http://example.com/2006/01/24/tilt-abre-jogo-comercial-feito-em-assembly"/>
    <updated>2006-01-24T00:00:00-02:00</updated>
    <id>http://example.com/2006/01/24/tilt-abre-jogo-comercial-feito-em-assembly</id>
-   <content type="html">&lt;p&gt;A TILT online inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.&lt;/p&gt;
-
-&lt;p&gt;A seção pertence ao club TILT porém todas as novas páginas dos projetos ficarão disponíveis para os não assinantes por um tempo. Assim, quem quiser acompanhar, tem que ficar atento. Os assinantes terão todo o
-material à sua disposição o tempo todo.&lt;/p&gt;
-
-&lt;p&gt;A seção foi inaugurada com dois projetos: Ataque Aéreo, que é um modelo e protótipo para experimentar controles do veículo principal do jogador, cenários com scroll paralax e Nautilus, criado totalmente em assembly (no final do ano de 1992 e lançado comercialmente pela editora PRO KIT no ano seguinte) e que agora vai ser aberto não apenas para mostrar como um jogo asm completo é feito, mas também como seria o seu port para uma mescla de Delphi/Asm e em seguida como seria a versão 100% Delphi, partindo do zero.&lt;/p&gt;
-
-&lt;p&gt;Para quem gosta de programação é um prato cheio.&lt;/p&gt;
-
-&lt;p&gt;Veja mais detalhes em &lt;a href=&quot;http://www.tilt.net&quot; target=&quot;_blank&quot;&gt;www.tilt.net&lt;/a&gt;
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
+ inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.&lt;br /&gt;&lt;br /&gt;A seção pertence ao club TILT porém todas as novas páginas dos projetos ficarão disponíveis para os não assinantes por um tempo. Assim, quem quiser acompanhar, tem que ficar atento. Os assinantes terão todo o&lt;br /&gt;material à sua disposição o tempo todo.&lt;br /&gt;&lt;br /&gt;A seção foi inaugurada com dois projetos: Ataque Aéreo, que é um modelo e protótipo para experimentar controles do veículo principal do jogador, cenários com scroll paralax e Nautilus, criado totalmente em assembly (no final do ano de 1992 e lançado comercialmente pela editora PRO KIT no ano seguinte) e que agora vai ser aberto não apenas para mostrar como um jogo asm completo é feito, mas também como seria o seu port para uma mescla de Delphi/Asm e em seguida como seria a versão 100% Delphi, partindo do zero.&lt;br /&gt;&lt;br /&gt;Para quem gosta de programação é um prato cheio.&lt;br /&gt;&lt;br /&gt;Veja mais detalhes em &lt;a target=&quot;_blank&quot; href=&quot;http://www.tilt.net&quot;&gt;www.tilt.net&lt;/a&gt;
  .&lt;/p&gt;
 </content>
  </entry>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - icon</title>
+ <link href="http://example.com/tags/icon/index.xml" rel="self"/>
+ <link href="http://example.com/tag/icon.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/icon.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Fruzzle</title>
+   <link href="http://example.com/2006/03/22/fruzzle"/>
+   <updated>2006-03-22T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/22/fruzzle</id>
+   <content type="html">&lt;dl&gt;
+  &lt;dt&gt;Fruzzle traz a marca registrada da &lt;a href=&quot;/index.php?p=c&amp;amp;id=163&quot;&gt;ICON Games&lt;/a&gt;&lt;/dt&gt;
+  &lt;dd&gt;jogos casuais originais.&lt;br /&gt;&lt;br /&gt;Em Fruzzle você é um simpático sapinho que deve pular sobre todos os pontos flutuantes existentes em um lago que somem assim que você o deixa, mas tem um problema: como todo sapo, ele não pula pra trás, então você tem que pensar bem antes de cada movimento. O sapinho pode pular somente para frente e para os lados.&lt;br /&gt;&lt;br /&gt;O jogo possui mais de 50 fases, todas elas são geradas aleatoriamente, o que garante sempre uma fase diferente a cada tentativa.&lt;br /&gt;&lt;br /&gt;Os gráficos 3D do jogo seguem o estilo de outro jogo da ICON Games, o &lt;a href=&quot;/index.php?p=c&amp;amp;id=163&quot;&gt;Bola de Gude&lt;/a&gt;
+. O visual caprichado aliado a uma trilha sonora e efeitos de som de boa qualidade, caem como uma luva nesse estilo de jogo.&lt;br /&gt;&lt;br /&gt;Fruzzle é um jogo original, divertido, desafiador e muito viciante.&lt;/dd&gt;
+&lt;/dl&gt;
+</content>
+ </entry>
+ 
+</feed>

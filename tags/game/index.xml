@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - game</title>
+ <link href="http://example.com/tags/game/index.xml" rel="self"/>
+ <link href="http://example.com/tag/game.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/game.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>The Clubber</title>
+   <link href="http://example.com/2006/06/27/the-clubber"/>
+   <updated>2006-06-27T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/27/the-clubber</id>
+   <content type="html">&lt;p&gt;O professor realizará uma seqüência de movimentos de dança. Cada movimento corresponde a um número do teclado, que aparecerá no centro da tela. Memorize a seqüência e tente repeti-la sem nenhum erro quando estiver na sua vez. &lt;br /&gt;&lt;br /&gt;Cada movimento correto vale 1 ponto e se você acertar a seqüência completa daquela jogada ganhará 5 pontos e ela aumentará em um movimento. Mas se você errar, perderá uma vida.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pinogol 3D</title>
+   <link href="http://example.com/2006/05/27/pinogol-3d"/>
+   <updated>2006-05-27T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/27/pinogol-3d</id>
+   <content type="html">&lt;p&gt;Quem nunca jogou pinogol? O clássico jogo de mesa, onde um campo de futebol de madeira é palco para pinos fazerem grandes jogadas. Dois jogadores de cada lado do campo devem dar alguns  &quot;petelecos&quot; na bolinha para tentar marcar gols no adversário.&lt;br /&gt;&lt;br /&gt;A Devworks, da mesma forma que fez com Pebolin 3D, trouxe mais um famoso jogo de mesa sobre futebol para o mundo online do portal Gametrack.&lt;br /&gt;&lt;br /&gt;Em Pinogol 3D, o jogador disputa uma partida com outro jogador online. Cada jogador tem 11 atletas, ou melhor, pinos em seu lado do campo. Para fazer as jogadas, assim como era no jogo convencional, o jogador tem 2 jogadas por turno e deve &quot;bater&quot; na bolinha para tentar fazer o gol. O jogador pode jogar a bolinha contra seus pinos ou contra os pinos do adversário, vale tudo para tentar o gol.&lt;br /&gt;&lt;br /&gt;O jogo conta com um ambiente totalmente 3D, quando o jogador entra numa sala de jogo é transportado para um quarto onde está a mesa do jogo. São 3 câmeras disponíveis: visão superior, visão lateral e uma visão em 3/4. No momento de cada jogada a câmera se posiciona atrás da bolinha e se movimenta conforme a direção na qual o jogador aponta.&lt;br /&gt;&lt;br /&gt;Como todo jogo do portal Gametrack, Pinogol 3D conta com ranking online para você mostrar que também é fera no futebol de pinos.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagem&Ação</title>
+   <link href="http://example.com/2006/05/07/imagemacao"/>
+   <updated>2006-05-07T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/07/imagemacao</id>
+   <content type="html">&lt;p&gt;Imagem&amp;amp;Ação foi criado há 20 anos por um garçom de 24 anos de Seatle. O jogo sempre conquistou muitos fãs durante todos esses anos e foi trazido ao Brasil pela Grow. Imagem&amp;amp;Ação é considerado um dos mais populares jogos do mundo, com mais de 30 milhões de cópias vendidas. &lt;br /&gt;&lt;br /&gt;O jogo online para Imagem&amp;amp;Ação do portal Gametrack segue a mesma fórmula do jogo de tabuleiro: duas equipes, entre 4 a 8 jogadores,  tentam chegar com o seu peão na última casa do tabuleiro, para  movimentar o peão pelo tabuleiro um membro de cada equipe tem que fazer desenhos para que os outros participantes da equipe tentem, através do chat, adivinhar a palavra sorteada. As palavras sorteadas variam em 6 categorias:&lt;br /&gt;&lt;br /&gt;Pessoa, lugar ou animal (incluindo suas partes e características)&lt;br /&gt;Objeto (coisas que podem ser vistas ou tocadas)&lt;br /&gt;Ação (verbos ou expressões que designam uma ação)&lt;br /&gt;Difícil (palavras ou expressões difíceis de todas as categorias)&lt;br /&gt;Lazer (nomes de filmes, livros, esportes etc.)&lt;br /&gt;Mix (palavras de qualquer categoria).&lt;br /&gt;&lt;br /&gt;As disputas podem ser feitas com as duas equipes tentando adivinhar a palavra ao mesmo tempo ou com cada equipe na sua vez.&lt;br /&gt;&lt;br /&gt;Imagem&amp;amp;Ação do portal Gametrack conseguiu manter a diversão e alegria das partidas do jogo clássico. E não pense que você precisa ser desenhista para se dar bem em Imagem&amp;amp;Ação, basta usar a criatividade e se divertir a vontade.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Arco e Flecha</title>
+   <link href="http://example.com/2006/04/30/arco-e-flecha"/>
+   <updated>2006-04-30T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/30/arco-e-flecha</id>
+   <content type="html">&lt;p&gt;É hora de demonstrar seu valor como um respeitável arqueiro. &lt;br /&gt;Com apenas 10  flechas e um arco, seu objetivo é simples: acertar todas as flechas na parte  mais central do alvo. Mas, nesta tarefa, deverá superar até o fenômeno do vento,  que atrapalhará sua mira de acordo com a intensidade e direção. &lt;br /&gt;Então mostre  logo seu nível de pontaria e do que você é capaz!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lance Livre</title>
+   <link href="http://example.com/2006/04/08/lance-livre"/>
+   <updated>2006-04-08T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/08/lance-livre</id>
+   <content type="html">&lt;p&gt;Mostre toda a sua habilidade no basquete.&lt;br /&gt;&lt;br /&gt;Seu objetivo é fazer o maior número de cestas que conseguir. Você receberá inicialmente 5 bolas. Primeiro, selecione a direção da bola e depois a força com que você vai jogar. Se você acertar a cesta, ganhará 1 ponto e uma bola extra.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Truco</title>
+   <link href="http://example.com/2006/03/14/truco"/>
+   <updated>2006-03-14T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/14/truco</id>
+   <content type="html">&lt;p&gt;O Truco do portal Gametrack é um jogo singleplayer que segue todas as regras do truco real.&lt;br /&gt;&lt;br /&gt;O jogo tem um charme especial por aliar um famoso jogo de carta com um estilo mais jovem. A trilha sonora, as imagens e animações seguem este estilo.&lt;br /&gt;&lt;br /&gt;No jogo você disputa as partidas contra uma dupla de jogadores controlados pelo computador e tem um parceiro de dupla, também controlado pelo computador, para realizar as jogadas.&lt;br /&gt;&lt;br /&gt;Todos os lances do truco estão no jogo. O jogador pode pedir truco e até passar dicas de como está a sua &quot;mão&quot; para o parceiro da dupla.&lt;br /&gt;&lt;br /&gt;Cada lance decisivo é acompanhado por uma animação dos jogadores da mesa..&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Ponte</title>
+   <link href="http://example.com/2006/03/08/a-ponte"/>
+   <updated>2006-03-08T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/08/a-ponte</id>
+   <content type="html">&lt;p&gt;Sua floresta está sendo invadida por pessoas que querem desfrutar das riquezas naturais extintas que você possui. Para isso, você é encarregado de controlar um canhão e derrubar essas pessoas num ponto estratégico de sua área: uma ponte.&lt;br /&gt;&lt;br /&gt;Contando apenas com seu canhão, você deverá derrubar todos os intrusos antes que eles ultrapassem para o outro lado. A persistência deles é grande, e mesmo depois de um tiro podem não se render e se segurar na ponte!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Conecta 4 - Experience</title>
+   <link href="http://example.com/2006/03/04/conecta-4-experience"/>
+   <updated>2006-03-04T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/04/conecta-4-experience</id>
+   <content type="html">&lt;p&gt;Conecta 4 - Experience é um jogo de quebra-cabeça, onde o nome já diz a regra: o jogador deve conectar quatro amebas (isso mesmo, amebas) em linha, coluna ou diagonal.&lt;br /&gt;&lt;br /&gt;O grande desafio de Conecta 4 - Experience é que o jogador não joga sozinho como na maioria dos jogos de quebra-cabeça. As disputas são realizadas contra o computador, o jogador tenta conectar quatro amebas e evitar que o computador conecte as suas amebas, o computador faz o mesmo.&lt;br /&gt;&lt;br /&gt;A IA proporciona um bom desafio e faz aumentar o fator de diversão do jogo.&lt;br /&gt;&lt;br /&gt;Conecta 4 - Experience está disponível no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pedreiro Polar</title>
+   <link href="http://example.com/2006/02/07/pedreiro-polar"/>
+   <updated>2006-02-07T00:00:00-02:00</updated>
+   <id>http://example.com/2006/02/07/pedreiro-polar</id>
+   <content type="html">&lt;p&gt;Você é um construtor de iglus e precisa prepará-los com os blocos de neve. O problema é que é necessário atravessar o rio gelado levando apenas um bloco por vez até o iglu.&lt;br /&gt;&lt;br /&gt;Cuidado para não cair no rio e perder uma vida. Outros perigos como bolas de neve e pinguins muito bravos precisam ser evitados também.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Faroeste</title>
+   <link href="http://example.com/2006/02/03/faroeste"/>
+   <updated>2006-02-03T00:00:00-02:00</updated>
+   <id>http://example.com/2006/02/03/faroeste</id>
+   <content type="html">&lt;p&gt;Em uma pequena cidade do velho oeste, sua missão é ajudar o Xerife a prender os bandidos.&lt;br /&gt;&lt;br /&gt;A tarefa não será fácil, pois você deverá participar de um duelo com cada um deles. Porém, só é permitido atirar em legítima defesa, ou você será preso. Você terá apenas uma bala para cada bandido. Portanto, fique atento aos movimentos do bandido e seja rápido!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Embaixadinha</title>
+   <link href="http://example.com/2006/01/26/embaixadinha"/>
+   <updated>2006-01-26T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/26/embaixadinha</id>
+   <content type="html">&lt;p&gt;Mostre toda a sua habilidade nas embaixadinhas!&lt;br /&gt;&lt;br /&gt;Você terá apenas um minuto para dar seu show. São 11 tipos de movimentos para você impressionar o público. O movimento realizado depende da posição em que está a bola quando você chuta. Tente não deixar a bola cair! Quanto mais toques seguidos você conseguir, maior será sua pontuação. Você poderá ganhar bônus se fizer algumas seqüências especiais.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

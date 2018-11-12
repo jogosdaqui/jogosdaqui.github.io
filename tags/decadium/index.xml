@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - decadium</title>
+ <link href="http://example.com/tags/decadium/index.xml" rel="self"/>
+ <link href="http://example.com/tag/decadium.html"/>
+ <updated>2018-11-12T18:41:41-02:00</updated>
+ <id>http://example.com/tag/decadium.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Aquadum</title>
+   <link href="http://example.com/2006/03/13/aquadum"/>
+   <updated>2006-03-13T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/13/aquadum</id>
+   <content type="html">&lt;p&gt;Um belo e colorido cenário subaquático e um desafio envolvente e crescente, essas são as combinações que fazem de Aquadum um ótimo jogo casual.&lt;br /&gt;&lt;br /&gt;A Decadium Studios se esmerou em vários pequenos detalhes do jogo, desde telas inicias até um dos fatores mais importantes de um bom jogo: a diversão. Com toda a certeza Aquadum é muito divertido, sua jogabilidade simples e intuitiva faz o jogador buscar rapidamente vencer as fases iniciais do jogo.&lt;br /&gt;&lt;br /&gt;Aquadum, como alguns outros jogos do gênero, é divido em três modos: Classic, Puzzle e Action. Em todos eles você deve girar pequenos canos e tentar ligar duas extremidades da tela, onde existem alguns objetos, porém cada modo possui uma forma e objetivo de jogo diferentes: &lt;br /&gt;&lt;br /&gt;Classic: no modo classic, a missão é limpar todos os níveis. Cada vez que objetos são conectados eles são eliminados o que possibilita que outros objetos se unam. Para fazer combos e ganhar muitos pontos, o jogador deve deixar três ou mais objetos iguais de cada lado juntos.&lt;br /&gt;&lt;br /&gt;Puzzle - neste modo, o jogador pode escolher a fase do quebra-cabeça. Aqui o jogador deve trocar os objetos de lado para colocá-los na ordem indicada.&lt;br /&gt;&lt;br /&gt;Action - neste modo a corrida é contra o tempo. O objetivo do modo action é unir o maior número de vezes os lados e no menor tempo possível.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

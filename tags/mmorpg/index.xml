@@ -3,7 +3,7 @@
  <title>Your Title - mmorpg</title>
  <link href="http://example.com/tags/mmorpg/index.xml" rel="self"/>
  <link href="http://example.com/tag/mmorpg.html"/>
- <updated>2018-11-12T11:27:35-02:00</updated>
+ <updated>2018-11-12T18:41:41-02:00</updated>
  <id>http://example.com/tag/mmorpg.html</id>
  <author>
    <name>Author Here</name>
@@ -225,6 +225,41 @@
 &lt;/ol&gt;
 
 &lt;p&gt;Pretendemos realizar um post para a maioria dos jogos citados, de tempos em tempos você poderá conferí-los aqui, no jogosdaqui.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Enquete: Com que frequência você joga no celular?</title>
+   <link href="http://example.com/2006/04/21/enquete-com-que-frequencia-voce-joga-no-celular"/>
+   <updated>2006-04-21T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/21/enquete-com-que-frequencia-voce-joga-no-celular</id>
+   <content type="html">&lt;p&gt;Nova enquete no ar, o &lt;span style=&quot;font-weight: bold; color: rgb(255, 153, 0);&quot;&gt;jogosdaqui &lt;/span&gt;quer saber com que frequência você joga no celular. Não fique de fora, dê a sua opinião.&lt;br /&gt;&lt;br /&gt;O resultado final da enquete anterior, &quot;Qual seu estilo de jogo favorito?&quot;:&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;27,12 % - MMORPG&lt;/li&gt;
+    &lt;li&gt;19,66 % - Estrat&amp;eacute;gia&lt;/li&gt;
+    &lt;li&gt;17,63 % - 1&amp;ordf; pessoa&lt;/li&gt;
+    &lt;li&gt;17,29 % - Esporte&lt;/li&gt;
+    &lt;li&gt;11,19 % - Outro&lt;/li&gt;
+    &lt;li&gt; 7,12 % - Casual&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nova enquete</title>
+   <link href="http://example.com/2006/03/06/nova-enquete"/>
+   <updated>2006-03-06T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/06/nova-enquete</id>
+   <content type="html">&lt;p&gt;Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. &lt;span style=&quot;font-style: italic;&quot;&gt;Não deixe de votar!&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Sobre a enquete anterior &quot;Você joga algum MMORPG?&quot;, o resultado foi:&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li style=&quot;text-align: justify;&quot;&gt;30,23 % - Sim, todos os dias&lt;/li&gt;
+    &lt;li style=&quot;text-align: justify;&quot;&gt;28,84 % - Sim, as vezes&lt;/li&gt;
+    &lt;li style=&quot;text-align: justify;&quot;&gt;15,35 % - N&amp;atilde;o tenho tempo&lt;/li&gt;
+    &lt;li style=&quot;text-align: justify;&quot;&gt;15,35 % - MMORPG?&lt;/li&gt;
+    &lt;li style=&quot;text-align: justify;&quot;&gt;10,23 % - N&amp;atilde;o, n&amp;atilde;o gosto&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
