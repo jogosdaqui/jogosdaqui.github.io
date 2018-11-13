@@ -3,7 +3,7 @@
  <title>Your Title - abragames</title>
  <link href="http://example.com/tags/abragames/index.xml" rel="self"/>
  <link href="http://example.com/tag/abragames.html"/>
- <updated>2018-11-12T21:48:58-02:00</updated>
+ <updated>2018-11-13T09:15:13-02:00</updated>
  <id>http://example.com/tag/abragames.html</id>
  <author>
    <name>Author Here</name>
@@ -80,7 +80,9 @@
    <id>http://example.com/2013/06/13/documentario-industria-de-games-no-brasil</id>
    <content type="html">&lt;p&gt;O vídeo tem cerca 30 minutos e conta com a participação de Jeferson Valadares (EA Games), Carla Denise Castanho (Organizadora do SBGames 2012), Moacir Avelino Alves Junior (Presidente da ACI Games), Cleber Cristiano Prodanov (Secretário de Ciência, Inovação e Desenvolvimento Tecnológio do RS), Fred Vasconcelos (Vice presidente de Relações Institucionais da Abragames), Marsal Alves Branco (Coordenador do curso de Jogos Digitais da Feevale) e Juliano Alves (Gerente de Marketing da Intel Brasil).&lt;/p&gt;
 
-&lt;p&gt;http://youtu.be/GdFwB0y3s7M&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/GdFwB0y3s7M &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
 
 &lt;p&gt;Se você tem interesse ou quer conhecer um pouco mais sobre o status atual da indústria de game no Brasil, esse documentário é um bom começo.&lt;/p&gt;
 </content>

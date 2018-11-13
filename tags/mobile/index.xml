@@ -3,7 +3,7 @@
  <title>Your Title - mobile</title>
  <link href="http://example.com/tags/mobile/index.xml" rel="self"/>
  <link href="http://example.com/tag/mobile.html"/>
- <updated>2018-11-12T21:48:58-02:00</updated>
+ <updated>2018-11-13T09:15:13-02:00</updated>
  <id>http://example.com/tag/mobile.html</id>
  <author>
    <name>Author Here</name>
@@ -21,7 +21,9 @@
 &lt;p&gt;&lt;a href=&quot;http://arena41.com/industrial&quot; target=&quot;_blank&quot;&gt;Industrial Imperialism&lt;/a&gt;
  é um jogo de estratégia militar, onde o jogador tem que gerenciar uma cidade e comandar exércitos em tempo real. O jogo se passa no período de pós-revolução industrial, nessa época as grandes metrópoles lutavam para desenvolver recursos básicos para gerar novas tecnologias e melhorar seus exércitos.&lt;/p&gt;
 
-&lt;p&gt;http://youtu.be/AU2H0V3XD9I&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/AU2H0V3XD9I &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
 
 &lt;p&gt;Para quem gosta de jogos de estratégia web vai se familiarizar com os controles, o jogador começa com alguns recursos básicos para poder desenvolver sua cidade e o seu exercito, tendo também que construir algumas estruturas para poder melhorar sua cidade.&amp;lt;&lt;/p&gt;
 

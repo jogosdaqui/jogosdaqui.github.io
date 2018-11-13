@@ -3,7 +3,7 @@
  <title>Your Title - crowdfunding</title>
  <link href="http://example.com/tags/crowdfunding/index.xml" rel="self"/>
  <link href="http://example.com/tag/crowdfunding.html"/>
- <updated>2018-11-12T21:48:58-02:00</updated>
+ <updated>2018-11-13T09:15:13-02:00</updated>
  <id>http://example.com/tag/crowdfunding.html</id>
  <author>
    <name>Author Here</name>
@@ -201,7 +201,8 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
 &lt;h2 id=&quot;um-show-melhor&quot;&gt;Um show melhor&lt;/h2&gt;
 &lt;p&gt;Apesar do estado atual do game já ser muito bom e divertido, a equipe da Kimeric Labs, que atualmente conta com mais de 10 integrantes, pretende fazer um game ainda maior e melhor, por isso a campanha no Kickstarter. Entre as melhorias que serão feitas quando a campanha atingir seu objetivo, estão aumentar o número de inimigos, armas e campeonatos.&lt;/p&gt;
 
-&lt;p&gt;a equipe da Kimeric Labs[/caption]&lt;/p&gt;
+&lt;p&gt;[caption id=”attachment_4602” align=”aligncenter” width=”640”]
+ a equipe da Kimeric Labs[/caption]&lt;/p&gt;
 
 &lt;h2 id=&quot;trailer-de-satellite-rush&quot;&gt;Trailer de Satellite Rush&lt;/h2&gt;
 &lt;center&gt;
@@ -468,8 +469,10 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
  game com uma estética pixel art e uma jogabilidade bem original, que mescla gerenciamento de um estúdio de super sentai (Changeman, Power Rangers, etc) com &lt;a href=&quot;/tags/rpg/&quot;&gt;RPG&lt;/a&gt;
  tático.&lt;/p&gt;
 
-&lt;p&gt;Confira abaixo o trailer de lançamento na versão português:
-http://youtu.be/Wbp19Z2QaTk&lt;/p&gt;
+&lt;p&gt;Confira abaixo o trailer de lançamento na versão português:&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/Wbp19Z2QaTk &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
 
 &lt;p&gt;Jogadores é hora de morfar, ou melhor, é hora de garantir seu &lt;a href=&quot;http://store.steampowered.com/app/251130&quot; target=&quot;_blank&quot;&gt;Chroma Squad no Steam&lt;/a&gt;
 !&lt;/p&gt;
