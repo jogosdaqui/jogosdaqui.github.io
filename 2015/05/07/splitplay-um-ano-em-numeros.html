@@ -276,8 +276,40 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
 
 <center>
   
+  <ul id="lightSlider">
+    
+        <li data-thumb="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay.png">
+          <img src="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay.png"/>        
+        </li>
+    
+        <li data-thumb="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay_fundadores.png">
+          <img src="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay_fundadores.png"/>        
+        </li>
+    
+  </ul>
+  
  </center>
 
+
+<script type="text/javascript">
+  $(document).ready(function() {
+   $('#lightSlider').lightSlider({
+        gallery: true,
+        pager: true,
+        controls: false,
+        thumbItem: 8,
+        item: 1,
+        loop: false,
+        slideMargin: 0,
+        autoWidth: true,
+        adaptiveHeight: true,
+        mode: "fade",
+        useCSS: true,
+        cssEasing: 'ease',
+        easing: 'linear'
+    });
+  });
+</script>
 
   </div>
 

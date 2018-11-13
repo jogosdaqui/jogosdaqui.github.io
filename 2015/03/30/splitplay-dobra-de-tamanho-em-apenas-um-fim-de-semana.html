@@ -181,8 +181,40 @@
 
 <center>
   
+  <ul id="lightSlider">
+    
+        <li data-thumb="../../../../../images/galleries/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana/SoulGamblerAndFaceIt.jpg">
+          <img src="../../../../../images/galleries/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana/SoulGamblerAndFaceIt.jpg"/>        
+        </li>
+    
+        <li data-thumb="../../../../../images/galleries/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana/SplitPlay.png">
+          <img src="../../../../../images/galleries/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana/SplitPlay.png"/>        
+        </li>
+    
+  </ul>
+  
  </center>
 
+
+<script type="text/javascript">
+  $(document).ready(function() {
+   $('#lightSlider').lightSlider({
+        gallery: true,
+        pager: true,
+        controls: false,
+        thumbItem: 8,
+        item: 1,
+        loop: false,
+        slideMargin: 0,
+        autoWidth: true,
+        adaptiveHeight: true,
+        mode: "fade",
+        useCSS: true,
+        cssEasing: 'ease',
+        easing: 'linear'
+    });
+  });
+</script>
 
   </div>
 
