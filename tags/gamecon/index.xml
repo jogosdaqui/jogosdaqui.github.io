@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - gamecon</title>
+ <link href="http://example.com/tags/gamecon/index.xml" rel="self"/>
+ <link href="http://example.com/tag/gamecon.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/gamecon.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Eventos para o mês de outubro</title>
+   <link href="http://example.com/2005/10/04/eventos-para-o-mes-de-outubro"/>
+   <updated>2005-10-04T00:00:00-03:00</updated>
+   <id>http://example.com/2005/10/04/eventos-para-o-mes-de-outubro</id>
+   <content type="html">&lt;p&gt;Fique atento aos eventos que irão acontecer neste mês de outubro:&lt;/p&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+&lt;ul&gt;
+	&lt;li&gt;10 e 11 - Jogos eletrônicos, educação e comunicação construindo novas trilhas (Salvador - BA)&lt;/li&gt;
+	&lt;li&gt;15 e 16 - &lt;a href=&quot;/2005/09/27/gamecon/&quot;&gt;Gamecon 2005&lt;/a&gt;
+ (São Paulo - SP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gamecon</title>
+   <link href="http://example.com/2005/09/27/gamecon"/>
+   <updated>2005-09-27T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/27/gamecon</id>
+   <content type="html">&lt;p&gt;Entre 15 e 16 de outubro de 2005 a segunda edição do Gamecon será realizada no Espaço Ferrovia , situado na Rua Dr. Almeida Lima, número 1219, no bairro da Móoca na Cidade de São Paulo.&lt;/p&gt;
+
+&lt;p&gt;O Gamecon é um evento específico de games e tecnologia, sendo dividido em três áreas distintas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;área de desenvolvedores e tecnologia de games, onde as empresas poderão dar palestras aos visitantes e fazer demonstrações dos seus cursos;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;área de lojistas, para as empresas que comercializam produtos;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;área de entretenimento, que concentrará as atividades interativas para o público.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Suas atrações são baseadas, principalmente, em games e RPG, mas também estará com algumas atrações relacionadas a anime e mangá.&lt;/p&gt;
+
+&lt;p&gt;Sua primeira edição foi em outubro de 2004 com um público de 12 mil visitantes distribuídos nos dois dias do evento. Esta edição ocorreu simultaneamente com mais dois eventos relacionados, o RPG Festival, sobre games RPG e o Ressaca Friends, evento de anime.&lt;/p&gt;
+
+&lt;p&gt;Mais informações no site oficial &lt;a href=&quot;http://www.gamecon.com.br/&quot;&gt;www.gamecon.com.br&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - yotta-apps</title>
+ <link href="http://example.com/tags/yotta-apps/index.xml" rel="self"/>
+ <link href="http://example.com/tag/yotta-apps.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/yotta-apps.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Delivery Box</title>
+   <link href="http://example.com/2012/02/28/delivery-box"/>
+   <updated>2012-02-28T00:00:00-03:00</updated>
+   <id>http://example.com/2012/02/28/delivery-box</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.yottaapps.com.br/aplicativos/delivery-box/&quot; target=&quot;_blank&quot;&gt;Delivery Box&lt;/a&gt;
+ foi o primeiro game da brasileira &lt;a href=&quot;http://www.yottaapps.com.br&quot;&gt;Yotta Apps&lt;/a&gt;
+ para iPad, lançado em 2011, apresenta o desafio de atravessar um carro de brinquedo, carregado de bloquinhos de madeira, por um percurso também montando por mais blocos de madeira. O objetivo é chegar o mais rápido possível ao final do percurso, deixando cair o menor número de blocos possíveis da caçamba.&lt;/p&gt;
+
+&lt;p&gt;O game tem uma proposta visual que vai levar muita gente a lembrar do passado, pois o cenário do jogo é um jardim de infância e todo o resto são brinquedos de madeira, não muito comuns hoje, mas corriqueiros 20 ou 30 anos atrás.&lt;/p&gt;
+
+&lt;p&gt;Delivery Box tem um bom acabamento gráfico, levando o jogador, desde o menu inicial, a entrar no clima do jogo. A trilha sonora anima e dá o tom na dinâmica do jogo.&lt;/p&gt;
+
+&lt;p&gt;Apesar do tom “infantil” do game, o desafio é crescente e bem equilibrado, o que deve agradar diversos tipos de jogadores, desde crianças a adultos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt; Delivery Box é um game free e está &lt;a href=&quot;http://itunes.apple.com/us/app/delivery-box/id478380302?mt=8&quot; target=&quot;_blank&quot;&gt;disponível na App Store. &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aproveite!&amp;lt;/strong&amp;gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

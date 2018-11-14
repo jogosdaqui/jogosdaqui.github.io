@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - delirus-entertainment</title>
+ <link href="http://example.com/tags/delirus-entertainment/index.xml" rel="self"/>
+ <link href="http://example.com/tag/delirus-entertainment.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/delirus-entertainment.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Coquetel</title>
+   <link href="http://example.com/2006/03/22/coquetel"/>
+   <updated>2006-03-22T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/22/coquetel</id>
+   <content type="html">&lt;p&gt;As palavras cruzadas, apesar de quase centenárias, acompanharam o avanço da tecnologia e agora podem ser acessadas através do celular!&lt;br /&gt;&lt;br /&gt;Como na revista da Ediouro, no celular o jogador recebe dicas e se diverte tentando encontrar as palavras certas. No jogo, criado especialmente para os amantes do passatempo que já virou mania entre os brasileiros, os desafios estão garantidos!&lt;br /&gt;&lt;br /&gt;O Jogo de Palavras Cruzadas Coquetel, foi desenvolvido pela Délirus em parceria com a XMedia, e está sendo distribuido nas operadoras Claro e Brasil Telecom.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Faça parte da batalha tecnológica de Warbots</title>
+   <link href="http://example.com/2006/01/17/faca-parte-da-batalha-tecnologica-de-warbots"/>
+   <updated>2006-01-17T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/17/faca-parte-da-batalha-tecnologica-de-warbots</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=40&quot;&gt;Délirus Entertainment&lt;/a&gt;
+ acaba de lançar o hotsite do jogo Warbots para PC.&lt;/p&gt;
+
+&lt;p&gt;Warbots, jogo de ação e estratégia, mostra que no futuro a guerra não será mais entre homens, mas de homens contra robôs. Nesta guerra você estará do lado dos robôs.&lt;/p&gt;
+
+&lt;p&gt;No ano de 2294 acontece a primeira revolta de humanos contra andróides de guerra, os warbots. Muitos humanos foram mortos e três anos depois foi iniciada a grande guerra que durou sete anos. Mas os humanos formaram um exército mundial, aboliram a pesquisa em Inteligência Artificial para a guerra, continuaram a destruir os andróides que foram obrigados a fugir.&lt;/p&gt;
+
+&lt;p&gt;Os clãs de andróides passaram a habitar regiões abandonadas. Surge a informação de que existe uma nova tecnologia que pode salvá-los da destruição. Começa a busca e para isso missões estratégicas devem ser cumpridas em Warbots, jogo de ação e estratégia 3D em terceira pessoa, desenvolvido pela Délirus Entertainment. Mas atenção! Existe um clã inimigo que quer usar a tecnologia para destruir os humanos e todos os outros clãs.&lt;/p&gt;
+
+&lt;p&gt;O jogador deve procurar a tecnologia através de diversos cenários, em cidades da Terra e em outros planetas. Para isso, tem que eliminar seus inimigos, passar por diversas batalhas e encontrar pistas para passar de fase. Cada ambiente possui diversos campos de luta e diferentes caminhos para alcançá-los. Alguns cenários são compostos por ambientes externos e subterrâneos, muito destruídos e cheios de destroços que dão um clima pós-guerra ao jogo.&lt;/p&gt;
+
+&lt;p&gt;Durante o Warbots, o jogador pode montar seu andróide e escolher armas e escudos ou ainda roubar armas de robôs de outros clãs. Em algumas lutas o player estará sozinho. Os andróides do clã do jogador só podem ajudá-lo depois que ele eliminar alguns robôs estratégicos. Uma novidade é o modo Command Time, que permite ao jogador proteger com um escudo toda a sua equipe. Adversários estão distribuídos por todo o jogo, são robôs que estão escondidos em cruzamentos de ruas, nas pontes e próximos aos prédios em ruínas. Conheça Warbots e faça parte do clã vencedor.&lt;/p&gt;
+
+&lt;p&gt;Você pode conferir a concept art e o vídeo no &lt;a href=&quot;http://www.delirus.com.br/warbots/hotsite/&quot; target=&quot;_blank&quot;&gt;hotsite&lt;/a&gt;
+ do jogo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

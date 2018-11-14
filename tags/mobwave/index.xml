@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - mobwave</title>
+ <link href="http://example.com/tags/mobwave/index.xml" rel="self"/>
+ <link href="http://example.com/tag/mobwave.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/mobwave.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Dance Mania</title>
+   <link href="http://example.com/2006/06/19/dance-mania"/>
+   <updated>2006-06-19T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/19/dance-mania</id>
+   <content type="html">&lt;p&gt;Baseado nos jogos estilo Dance Dance Revolution. Setas que representam passos de dança se deslocam na tela em sincronia com uma música de fundo. O diferencial do jogo está na capacidade de personalização das músicas  e das danças pelo jogador.&lt;br /&gt;&lt;br /&gt;O jogo suporta qualquer arquivo no formato MIDI, e a personalização das danças é feita por meio de uma editor online. Quanto mais difícil a dança, maior a pontuação possível de se obter. Pela web pode-se realizar mini-campeonatos, onde cada jogador pode desafiar os demais com suas próprias danças.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

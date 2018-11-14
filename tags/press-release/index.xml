@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - press-release</title>
+ <link href="http://example.com/tags/press-release/index.xml" rel="self"/>
+ <link href="http://example.com/tag/press-release.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/press-release.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>TILT online libera Game Console (playon) 1.2</title>
+   <link href="http://example.com/2005/09/24/tilt-online-libera-game-console-playon-1-2"/>
+   <updated>2005-09-24T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/24/tilt-online-libera-game-console-playon-1-2</id>
+   <content type="html">&lt;p&gt;A TILT online, uma das mais importantes empresas de jogos casuais do país, lançou hoje o Game Console (playon) versão 1.2.&lt;/p&gt;
+
+&lt;p&gt;O Game Console permite ao jogador acesso a todos os jogos da TILT online de forma rápida e simples, não será mais necessário instalar e liberar cada jogo individualmente, o Game Console (playon) cuidará disto para você.&lt;/p&gt;
+
+&lt;p&gt;Segundo a TILT online, nas próximas versões do Game Console será possível jogar adventures online e acessar jogos de desenvolvedores independentes, tudo através da interface intuitiva do Game Console.&lt;/p&gt;
+
+&lt;p&gt;Veja no &lt;a style=&quot;font-weight: bold; color: #ff9900;&quot; href=&quot;/tags/tilt&quot;&gt;jogosdaqui&lt;/a&gt;
+ alguns jogos da TILT online que estão disponíveis no Game Console.&lt;/p&gt;
+
+&lt;p&gt;Confira o &lt;a href=&quot;/2005/09/24/tilt-online-game-console-playon-1-2/&quot;&gt;press release&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Mais informações sobre o lançamento no site oficial do &lt;a href=&quot;http://www.tilt.net/playon/&quot;&gt;Game Console&lt;/a&gt;
+.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

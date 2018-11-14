@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - currant-cat</title>
+ <link href="http://example.com/tags/currant-cat/index.xml" rel="self"/>
+ <link href="http://example.com/tag/currant-cat.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/currant-cat.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Prévia: Cannon Land</title>
+   <link href="http://example.com/2011/04/27/previa-cannon-land"/>
+   <updated>2011-04-27T00:00:00-03:00</updated>
+   <id>http://example.com/2011/04/27/previa-cannon-land</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Cannon Land é um arquipélago conquistado por Sir Muzzle, um dos piratas mais malucos a navegar pelos oceanos. Um dia, ele decidiu parar de saquear navios e portos e começou a construir armadilhas incríveis, para proteger os seus tesouros. A lenda diz que ele enloqueceu e morreu Cannon Land, e suas armadilhas continuam funcionando até hoje. Muitos aventureiros tentaram passar pelas engenhocas de Muzzle, mas nenhum conseguiu, e a lenda foi ganhando força dia após dia…
+Duzentos anos depois, um menino decide sair para uma aventura! Com sua espada de madeira, e uma roupa de pirata feita pela sua avó, Chunkie está confiante de que conquistar o tesouro de Sir Muzzle e se transformar em um herói!&quot;
+&lt;br /&gt;
+É nesse mundo peculiar que o game de ação baseado em física, Cannon Land, primeiro projeto da produtora brasileira &lt;a href=&quot;http://www.currantcat.com&quot; target=&quot;_blank&quot;&gt;Currant Cat&lt;/a&gt;
+, ganha vida.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No game que está em produção para iPhone e tem previsão de lançamento para meados de junho, o jogador estará na pele do menino Chunkie e deverá guiá-lo pelos canhões, enfretando as armadilhas do arquipélago em busca do tesouro de Sir Muzzle.&lt;/p&gt;
+
+&lt;p&gt;Pelas screenshots disponibilizadas pela Currant Cat, podemos esperar um game de alta qualidade e com uma direção de arte muito criativa.&lt;/p&gt;
+&lt;div&gt;&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;
+No v&amp;#237;deo abaixo &amp;#233; poss&amp;#237;vel apreciar um pouco do gameplay do game:
+
+&lt;br /&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/QHbaSIW8nlo &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+ 
+Conhe&amp;#231;a mais do jogo no &lt;a href=&quot;http://www.currantcat.com/cannonland&quot; target=&quot;_blank&quot;&gt;site oficial&lt;/a&gt;
+.
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+</feed>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - minas-games-festival</title>
+ <link href="http://example.com/tags/minas-games-festival/index.xml" rel="self"/>
+ <link href="http://example.com/tag/minas-games-festival.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/minas-games-festival.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>1º Minas Games Festival</title>
+   <link href="http://example.com/2015/06/12/1o-minas-games-festival"/>
+   <updated>2015-06-12T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/12/1o-minas-games-festival</id>
+   <content type="html">&lt;p&gt;Em junho, durante quatro dias acontecerá em Belo Horizonte o 1º Minas Games Festival, evento que contará com várias atrações, como palestras, game jam, exposição de indie games, concurso de cosplay e oficinas.&lt;/p&gt;
+
+&lt;p&gt;O evento é totalmente gratuito e promete colocar Minas no mapa dos grandes eventos nacionais da área.&lt;/p&gt;
+
+&lt;h2 id=&quot;as-palestras-do-1º-minas-games-festival&quot;&gt;As palestras do 1º Minas Games Festival&lt;/h2&gt;
+&lt;h2 id=&quot;1806---quinta-feira&quot;&gt;18/06 - Quinta-feira&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;19h - Uma aventura indie com Alessandro Martinello diretor criativo da Swordtales
+[caption id=&quot;attachment_2646&quot; align=&quot;aligncenter&quot; width=&quot;460&quot;]
+ Toren, game da Swordtales[/caption]
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;1906---sexta-feira&quot;&gt;19/06 - Sexta-feira&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;13h - A proteção dos games como propriedade intelectual com Rafael Neumayr&lt;/li&gt;
+	&lt;li&gt;14h - O fomento público à produção de games com Thiago Álvares Feital&lt;/li&gt;
+	&lt;li&gt;15h - Técnicas não convencionais de abordagem ao CG 3D com Filipe Soares Dilly&lt;/li&gt;
+	&lt;li&gt;16h - Pare De Não Fazer Jogos! com Marcos Venturelli, gamedev de games como Dungeonland, Chroma Squad e Relic Hunters Zero.
+[caption id=&quot;attachment_2646&quot; align=&quot;aligncenter&quot; width=&quot;460&quot;]
+ Chroma Squad, game da Behold Studios[/caption]
+&lt;/li&gt;
+	&lt;li&gt;18h - Achievement Unlocked! com Ronaldo Gazel Pereira fundador da Gaz Games e Meatballs.&lt;/li&gt;
+	&lt;li&gt;19h - Jogando o errado de forma certa: Explorações do glitch e do bug na jogabilidade com Luís Felipe Garrocho da Ilusis Interactive&lt;/li&gt;
+	&lt;li&gt;20h - Krinkletástico! Trajetória do estúdio mineiro Ilusis e o desenvolvimento de games no Brasil com Leonardo Henrique Muniz Arantes da Ilusis Interactive
+[caption id=&quot;attachment_2646&quot; align=&quot;aligncenter&quot; width=&quot;460&quot;]
+ Krinkle Krusher, game da Ilusis Interactive[/caption]
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;as-oficinas-do-1º-minas-games-festival&quot;&gt;As oficinas do 1º Minas Games Festival&lt;/h2&gt;
+&lt;h2 id=&quot;1906---quinta-feira&quot;&gt;19/06 - Quinta-feira&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;13h e 16h - Modelagem digital 3D básica com Daniel Pinheiro Lima e Tiago Gonçalves&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2006---sexta-feira&quot;&gt;20/06 - Sexta-feira&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;13h e 16h - Realidade aumentada com Marcos Arrais e Helbert Gomes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2106---sábado&quot;&gt;21/06 - Sábado&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;13h - Construindo um personagem funcional com Edvaldo Reinaldo Vieira e Artur Pedroso da Costa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dados-do-evento&quot;&gt;Dados do evento&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;: 1º Minas Games Festival&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;: entre os dias 18 e 21 de junho&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;: Belo Horizonte&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Público alvo&lt;/strong&gt;: público em geral, gamers e gamedevs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Custo&lt;/strong&gt;: gratuito&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mais detalhes&lt;/strong&gt;: &lt;a href=&quot;https://minasgamesfest.wordpress.com/&quot;&gt;https://minasgamesfest.wordpress.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+</feed>

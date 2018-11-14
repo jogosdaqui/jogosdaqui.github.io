@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - sbie</title>
+ <link href="http://example.com/tags/sbie/index.xml" rel="self"/>
+ <link href="http://example.com/tag/sbie.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/sbie.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Workshop de Jogos Digitais na Educação</title>
+   <link href="http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao"/>
+   <updated>2005-09-30T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
+   <content type="html">&lt;p&gt;O Workshop de Jogos Digitais na Educação trata-se de um evento que irá ocorrer paralelamente ao XVI Simpósio Brasileiro de Informática na Educação (SBIE 2005) e abordará as questões interdisciplinares envolvidas nos jogos digitais no âmbito educacional como ferramenta de ensino-aprendizagem, desde a Educação Infantil aos programas de pós-graduação.&lt;/p&gt;
+
+&lt;p&gt;Na atualidade ampliou-se a discussão referentes as potencialidades mercadológicas e pedagógicas dos jogos digitais. Os aprendizes do século XXI estão integrados com uma realidade pós-industrial, com novos valores evivenciando o ciberespaço. Diante desta realidade torna-se necessário repensar as metodologias de ensino-aprendizagem adotadas nos ambientes acadêmicos da Educação Infantil até aos programas de pós-graduação. Neste contexto os jogos digitais recebem destaque pelo fato de serem considerados excelentes ferramentas motivadoras que poderão ser adotadas como uma metodologia de ensino-aprendizagem. Desde os primórdios da Informática na Educação que os jogos educativos estão em pauta, entretanto tal ferramenta precisa ser revisada através de uma abordagem contemporânea e transdisciplinar que adequa-se a este aprendiz do século XXI, resgatando o sentido original dos jogos que trata-se da ludicidade, do prazer, tornando-se menos didatizantes e conteudistas e tornando-os verdadeiros artefatos culturais potencializadores de Inclusão Digital. É importante destacar que entende-se como jogo qualquer software interativo, imersivo e lúdico (é fundamental que seja divertido) com objetivos pedagógicos explícitos ou implícitos.&lt;/p&gt;
+
+&lt;p&gt;Assim, o objetivo principal deste workshop é ampliar o debate teórico-prático através de um enfoque transdisciplinar questões referentes ao projeto, implementação, avaliação e adoção de jogos digitais com fins educativos explícitos ou implícitos no processo de ensino-aprendizagem. Desta forma ampliando os potenciais dos ditos jogos comerciais como forma de ensino-aprendizagem semelhante as demais obras audiovisuais. Além disso, o workshop procura atender os seguintes &lt;span style=&quot;font-weight: bold;&quot;&gt;objetivos secundários: &lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Criar uma comunidade de pesquisadores que estejam interessados em discutir as potencialidades dos jogos computadorizados no âmbito escolar, da Educação Infantil aos programas de Pós-graduação;&lt;/li&gt;
+	&lt;li&gt;Oportunizar um espaço de troca de experiências entre desenvolvedores, educadores e demais profissionais que utilizam/projetam/desenvolvem jogos para serem utilizados como apoio ao processo de ensino-aprendizagem;&lt;/li&gt;
+	&lt;li&gt;Apresentar estudos de casos que demonstram experiências na utilização dos jogos digitais em diferentes plataformas (computadores, celulares, handhelds, TV, consoles) e com diferentes fins educativos ou clínico considerando as intervenções psicopedagógicas referentes aos déficits de aprendizagem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;tópicos-de-interesses-não-exclusivos&quot;&gt;Tópicos de Interesses (Não exclusivos)&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Aspectos Sociológicos, Psicológicos e Filosóficos dos Jogos Digitais na Educação;&lt;/li&gt;
+	&lt;li&gt;Projeto de Jogos Digitais de Apoio ao Processo de Ensino-Aprendizagem;&lt;/li&gt;
+	&lt;li&gt;Tecnologias de Desenvolvimento de Jogos Digitais;&lt;/li&gt;
+	&lt;li&gt;Avaliação do Processo de Ensino-Aprendizagem através dos Jogos Digitais;&lt;/li&gt;
+	&lt;li&gt;Inclusão Digital através dos Jogos Computadorizados;&lt;/li&gt;
+	&lt;li&gt;Jogos Livres - Relação do Software Livre como Promotor da Inclusão Digital;&lt;/li&gt;
+	&lt;li&gt;Experiências do Uso dos Jogos Digitais no Processo de Ensino-Aprendizagem;&lt;/li&gt;
+	&lt;li&gt;Experiências do Uso dos Jogos Digitais como Abordagem Clínica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mais informações no &lt;a href=&quot;http://www.dcc.ufjf.br/sbie2005/work4.php&quot;&gt;site do evento.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

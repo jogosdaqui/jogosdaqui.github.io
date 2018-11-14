@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - aquiris-game-studio</title>
+ <link href="http://example.com/tags/aquiris-game-studio/index.xml" rel="self"/>
+ <link href="http://example.com/tag/aquiris-game-studio.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/aquiris-game-studio.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Imagens da semana #13</title>
+   <link href="http://example.com/2015/09/14/imagens-da-semana-13"/>
+   <updated>2015-09-14T00:00:00-03:00</updated>
+   <id>http://example.com/2015/09/14/imagens-da-semana-13</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/betuiau/status/640987759080030208&quot;&gt;O artista Betu Souza apresentando a NPC do novo modo endless do game Relic Hunters Zero&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/saint11/status/641026578399502336&quot;&gt;O artista e programador Pedro Medeiros mostra um pouco da arte do game canadense Skytorn, onde ele e a brasileira Amora B. fazem parte da equipe de desenvolvimento&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BlackRvrStudios/status/64125266263846092&quot;&gt;A Black River Studios de Manaus com uma screenshot de seu game que será anunciado no próximo dia 21”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/64142784923321958&quot;&gt;JoyMasher comentando sobre a Blood Armor para os corajosos que enfrentarem o modo Veteran no game Odallus”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/641719892643815424&quot;&gt;A Mgaia Studio com seus os elfos da floresta, se preparando para um novo update de seu game Tiny Empire&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/_double_dash/status/642055362334605312&quot;&gt;RacketBoy da Double Dash mostrando um dos seus movimentos&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/64218689308660121&quot;&gt;A Iduna Game Studio revela o redesign feito no cenário do game Mustach In Hell”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticBr/status/64245930808565760&quot;&gt;Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aquiris anunciou que a versão F2P será fechada”&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ballistic Overkill - DevTalk #02</title>
+   <link href="http://example.com/2015/09/04/ballistic-overkill-devtalk-02"/>
+   <updated>2015-09-04T00:00:00-03:00</updated>
+   <id>http://example.com/2015/09/04/ballistic-overkill-devtalk-02</id>
+   <content type="html">&lt;p&gt;A Aquiris Game Studio liberou o DevTalk #02 do &lt;a href=&quot;http://store.steampowered.com/app/296300/&quot; target=&quot;_blank&quot;&gt;Ballistic Overkill&lt;/a&gt;
+, no vídeo podemos ver Jesús Fabre (PR), Jean Ruas (Game Master) e Amilton Diesel (Diretor de Arte Técnico) falando sobre fase beta, early access no steam, criação da história do game pela comunidade, a evolução das cores do jogo e a utilização da técnica de construção procedural de texturas Substance que permitiu reduzir consideravelmente o tamanho dos arquivos de mapa do Ballistic.&lt;/p&gt;
+
+&lt;h2 id=&quot;confira-o-vídeo-ballistic-overkill-devtalk-02&quot;&gt;Confira o vídeo Ballistic Overkill DevTalk #02&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/TkajsP42v00 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Horizon Chase se aproxima do grid de largada</title>
+   <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
+   <updated>2015-08-14T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
+   <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
+ já tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
+
+&lt;p&gt;Segundo a gamedev gaúcha, Horizon Chase será um jogo premium, contendo 8 copas, 32 cidades, 73 pistas e 16 carros desbloqueáveis.&lt;/p&gt;
+
+&lt;p&gt;E pra quem sempre torce o nariz pra games de corrida em telas touch, a Aquiris criou 7 métodos diferentes de controle para cada estilo de jogo, tento desde controle por tilt até joystick bluetooth.&lt;/p&gt;
+
+&lt;p&gt;A equipe de desenvolvimento do game também está trabalhando numa versão PC, mas que ainda não tem data definida de lançamento. Fora o PC, o jogo poderá ser lançado para consoles. Donos de PS4 e Xbox One, cruzem os dedos.&lt;/p&gt;
+
+&lt;p&gt;Horizon Chase chega na App Store dia 20 de Agosto por apenas de $ 2,99.&lt;/p&gt;
+
+&lt;h2 id=&quot;trailer-de-lançamento-de-horizon-chase&quot;&gt;Trailer de lançamento de Horizon Chase&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/HQDVSRmhiP0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Teaser de gameplay de Horizon Chase</title>
+   <link href="http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
+   <updated>2015-07-31T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
+   <content type="html">&lt;p&gt;Em maio fizemos uma &lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/&quot;&gt;prévia do game de corrida Horizon Chase&lt;/a&gt;
+, agora saiu do forno o tão esperado vídeo mostrando um pouco do gameplay do jogo da gaúcha Aquiris Game Studio.&lt;/p&gt;
+
+&lt;p&gt;Confira abaixo o vídeo do game que deve ser lançado para consoles, mobile e PC.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay-de-horizon-chase&quot;&gt;Gameplay de Horizon Chase&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/TDmruG3wtUc &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #12</title>
+   <link href="http://example.com/2015/06/22/imagens-da-semana-12"/>
+   <updated>2015-06-22T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/22/imagens-da-semana-12</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticGame/status/60909733429161984&quot;&gt;A Aquiris Game Studio convocando os jogadores de Ballistic para contribuir na classe The Vanguard”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=96067241732486&quot;&gt;O game HTR+ da QuByte Interactive vendido em caixinha na Alemanha”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/danielmerkel/status/61088221620224819&quot;&gt;A equipe da SouthBox trabalhando na UI do game Super Volley”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4”&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://instagram.com/p/4AjlVtGzGB&quot;&gt;O BIG Festival lembrando que o lançamento do game Full Metal Wars da brasileira Prosperity Games acontecerá durante o evento no dia 01/07&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5”&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/61228920312104960&quot;&gt;Screenshot da pista de Brighton Beach do game de corrida Horizon Chase&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #9</title>
+   <link href="http://example.com/2015/06/11/checkpoint-9"/>
+   <updated>2015-06-11T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/11/checkpoint-9</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar&quot;&gt;Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60576651912178892&quot;&gt;A Aquiris Game Studio dando sequência na sua apresentação de equipe, conheça o Analista de Qualidade Matheus @ttfreire&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/odingamestudio/posts/90690340604019&quot;&gt;Pessoal da Odin Game Studio celebrando a seleção de dois de seus games entre os 20 selecionados para área BIG Booth do BIG Festival 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura&quot;&gt;Entrevistamos Renato Degiovani sobre a abertura do club TILT&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=86666335006650&quot;&gt;O game TEGRA da Contra Labs recebe o prêmio de melhor jogo pelo voto popular no XI Seminário SJEEC&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://gizmodo.uol.com.br/angry-birds-realidade-virtual&quot;&gt;Matéria no Gizmodo Brasil sobre o Angry Birds VR produzido pela gaúcha IMGNATION Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/05/playthrough-chroma-squad-tactical-rpg-002&quot;&gt;O parceiro Insert Coins no segundo episódio do Playthrough Chroma Squad – Tactical RPG&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/60693170622291148&quot;&gt;Artigo na PC Guru sobre Chroma Squad da Behold Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/09/conheca-os-games-selecionados-no-big-starter&quot;&gt;Selecionados imagens e vídeos dos 8 games selecionados no BIG Starter 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60795388221659136&quot;&gt;Conheça o game designer de Horizon Chase: Felipe Dal Molin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;11&quot;&gt;#11&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60836996199262617&quot;&gt;A Mgaia Studio mostrando a página do game Tiny Empire lançado para Windows Phone e Android (iOS em breve)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;12&quot;&gt;#12&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/06/10/previa-de-my-night-job-da-webcore-games&quot;&gt;Prévia de My Night Job da Webcore Games&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;13&quot;&gt;#13&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/TreekerGame/status/60899988728015667&quot;&gt;Site do game Treeker: Os Óculos Perdidos da Blubox Soft no ar&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #9</title>
+   <link href="http://example.com/2015/06/01/imagens-da-semana-9"/>
+   <updated>2015-06-01T00:00:00-03:00</updated>
+   <id>http://example.com/2015/06/01/imagens-da-semana-9</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/60414279507551027&quot;&gt;A concept art de uma galinha mecanizada feita pelo pessoal da Ninja Garage Studio. Provavelmente para o game Massive Madness”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/60458306258052300&quot;&gt;Screenshot da pista de Suzuka no novo update do game de corrida da Reiza Studio: Game Stock Car Extreme “&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/60468710739163545&quot;&gt;A equipe do game Horizon Chase da Aquiris Game Studio mostrando a semelhança não proposital entre duas pistas do novo game e do clássico Top Gear”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60477483525702041&quot;&gt;Screenshot mostrando o personagem Crazy Balloon Guy do game em desenvolvimento da Mgaia Studio: Tiny Empire”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/60489943446028697&quot;&gt;A Ninja Garage Studio novamente, agora com uma bela screenshot do game Massive Madness”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/protomni/status/60369938456029593&quot;&gt;Produção da capa do game Bernie Needs Love”&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #8</title>
+   <link href="http://example.com/2015/05/29/checkpoint-8"/>
+   <updated>2015-05-29T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/29/checkpoint-8</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/updates/25536644&quot;&gt;Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/60294397640509849&quot;&gt;A Aquiris Game Studio apresentando seu time de desenvolvimento, agora é a vez do Sound/motion designer Giovane Webster&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2012/10/30/crystal-catcher/#traile&quot;&gt;Conheça um pouco mais do game Crystal Catcher da Crazy Mind Studios com este trailer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia&quot;&gt;Começa hoje O VIII GAMEPAD – Seminário de Games e Tecnologia que contará com apresentação de papers, mostra de jogos, palestras e workshops&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/26/previa-de-alkimya-da-bad-minions&quot;&gt;Nossa prévia do game Alkimya da Bad Minions, com direito a consultoria de Isaac Newton&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticGame/status/603268164554723328&quot;&gt;O game Ballistic da Aquiris tem sua trilha sonora liberada publicamente no SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/BadMinions/posts/866625280057757&quot;&gt;Pessoal da Bad Minions comemorando a seleção do jogo Alkimya entre os 8 games que participarão do BIG Starter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/603650929519415297&quot;&gt;Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/27/fan-arts-de-toren-da-swordtales/&quot;&gt;Veja nossa coletânea de fan arts do game Toren&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/28/carcara-asas-da-justica/&quot;&gt;Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #8</title>
+   <link href="http://example.com/2015/05/25/imagens-da-semana-8"/>
+   <updated>2015-05-25T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/25/imagens-da-semana-8</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/60006121953443020&quot;&gt;A JoyMasher polindo o design dos personagens de Odallus”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BigGreenPillow/status/60038615293221273&quot;&gt;A arte de Marcos Alvares para comemorar o lançamento de Porcunipine no Steam”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/60094658717983539&quot;&gt;Reiza Studios e os superkarts de 250cc que devem chegar no próximo update de seu game de corrida”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/60105979845770854&quot;&gt;Garage 227 Studios trabalhando no trailer para a E3”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60114262266577715&quot;&gt;Uma bela arte do game Tiny Empire em desenvolvimento pela Mgaia Studio”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/60153065368807014&quot;&gt;A capa estilo NES do game Mustache In Hell da Iduna Game Studio”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/602104510077632512&quot;&gt;Nova screenshot do retrogame de corrida Horizon Chase da Aquiris Game Studio&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #7</title>
+   <link href="http://example.com/2015/05/22/checkpoint-7"/>
+   <updated>2015-05-22T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/22/checkpoint-7</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/14/demo-reel-da-odin-game-studio/&quot;&gt;Confira o demo reel da Odin Game Studio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/59881149598891622&quot;&gt;A Reiza Studios mostra em vídeo a pista de Kansai do Japão que entrará na próxima atualização de seu game de corrida Stock Car Extreme&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/protomni/status/60009745367793254&quot;&gt;Protomini Multimedia e a nova música Piña Colada para seu retrogame Bernie Needs Love&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games&quot;&gt;A gaúcha Rockhead Games lança Starlit Adventures, mobile game com jogabilidade e gráficos inspirados nos games da Nintendo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic/&quot;&gt;Novo vídeo de gameplay do game Gryphon Knight Epic da Cyber Rhino Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.sbt.com.br/jornalismo/noticias/52912/Mercado-de-videogame-dribla-a-crise-e-segue-em-alta.html#.VV--SFlVik&quot;&gt;Matéria no Jornal do SBT sobre o mercado de games mostra Chroma Squad da Behold Studios, com direito a entrevista com Betu Souza, diretor de arte do game&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao/&quot;&gt;Iniciou na terça-feira o XIII SEJA (Semana de Entretenimento, Jogos e Animação) na PUC de Minas Gerais&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/16/crystal-catcher-ganha-versao-para-android/&quot;&gt;Crystal Catcher da Crazy Mind Studios ganha versão para Android&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://distortions.co/producao/2015/05/13/we-are-still-alive&quot;&gt;Equipe do game Distorções faz um ótimo e sincero post sobre todas os desafios que já enfrentaram&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;10&quot;&gt;#10&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/20/sky-high-chickens/&quot;&gt;Conheça o game Sky High Chickens da Little Leds&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;11&quot;&gt;#11&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker, Momodorra III, Odallus, Magenta Arcade e Toren são os 5 games brasileiros finalistas do BIG Festival&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;12&quot;&gt;#12&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/18/playthrough-chroma-squad-tactical-rpg-001/&quot;&gt;Galera do Insert Coins relembra a infância jogando o Chroma Squad&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;13&quot;&gt;#13&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/19/previa-de-cannibal-da-gametek/&quot;&gt;Prévia do game Cannibal da indie brasileira GameTek&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;14&quot;&gt;#14&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/&quot;&gt;Entrevistamos Fernando Paulo, criador do game Treeker: Os Óculos Perdidos&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;15&quot;&gt;#15&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/20/novidades-de-horizon-chase/&quot;&gt;Novidades sobre o game Horizon Chase&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;16&quot;&gt;#16&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/raphaelbaldi/status/60036366150969753&quot;&gt;O gamedev Raphael Baldi da Aquiris Game Studio faz um post mostrando a evolução do FPS da empresa, desde seu protótipo com o nome Critical Mass até a atual versão em desenvolvimento Ballistic Overkill&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;17&quot;&gt;#17&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/21/porcunipine-lancado-no-steam/&quot;&gt;O party game Porcunipine da Big Green Pillow é lançado no Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;18&quot;&gt;#18&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual/&quot;&gt;A ThinkBox Games testa realidade virtual com Ocullus Rift e Kinect&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;19&quot;&gt;#19&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/600664689119375360&quot;&gt;O game Better Later than DEAD da Odin Game Studio ganha sua página de early access no Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;20&quot;&gt;#20&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game&quot;&gt;A equipe de desenvolvimento de Ballistic Overkill fala sobre o game e tira dúvidas dos jogadores&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;21&quot;&gt;#21&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/ContraLabs/posts/859373260795515&quot;&gt;Galera da Contra Labs comentando sobre o evento Gamepólitan 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;22&quot;&gt;#22&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=661008807365295&quot;&gt;Renato Degiovani anuncia a versão de Amazônia preparada para os navegadores mobile&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;23&quot;&gt;#23&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/duaikdev/posts/822557824501578&quot;&gt;Duak Entertainment portando o game Aritana para o Xbox One&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ballistic Overkill, desenvolvedores falam sobre o game</title>
+   <link href="http://example.com/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game"/>
+   <updated>2015-05-22T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game</id>
+   <content type="html">&lt;p&gt;A Aquiris Game Studio liberou algumas novidades sobre a versão do game Ballistic para o Steam: &lt;a href=&quot;http://store.steampowered.com/app/296300/&quot; target=&quot;_blank&quot;&gt;Ballistic Overkill&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;A versão de Ballistic para navegadores continuará existindo e sendo mantida pela Aquiris, Arthur Bobany um dos game designers explica a escolha do nome Overkill:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ballistic free to play já é tão bom que a versão do Steam é puro Overkill! Mas falando sério, sentimos que a ação e rítmo acelerado são os principais aspectos do Ballistic. A palavra Overkill vende bem a ideia de que este FPS é assim. Além disso, todas as classes em Ballistic são matadores natos e com as habilidades certas nas mãos de um jogador habilidoso são realmente ‘overkill’, ou seja, letais! Ballistic é sobre isso: encontrar a melhor classe e habilidades para tornar-se uma maquina de matar em qualquer mapa ou modo de jogo. (Arthur Bobany)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A Aquiris lançou seu primeiro vídeo de devtalks mostrando um pouco do que está acontecendo durante o desenvolvimento, nele podemos ver Jesús Fabre social media manager da Aquiris, Fernando Rojas produtor do jogo, Jean Ruas o game master, Arthur Bobany um dos game designers e Rodrigo Bellão UX/UI designer.&lt;/p&gt;
+
+&lt;p&gt;Entre as várias novidades que você pode conferir na íntegra no vídeo abaixo, destacamos:&lt;/p&gt;
+&lt;h2 id=&quot;a-progressão-do-jogo-de-browser-poderá-ser-levada-para-o-ballistic-overkill&quot;&gt;A progressão do jogo de browser, poderá ser levada para o Ballistic Overkill?&lt;/h2&gt;
+&lt;p&gt;Não, pois os games são diferentes, sendo o primeiro no modelo freemium e o Overkill no modelo premium, o que faz que o balanceamento seja diferente, mas a Aquiris planeja dar algum tipo de prêmio ou item único para os antigos jogadores para a versão Steam.&lt;/p&gt;
+
+&lt;h2 id=&quot;quanto-vai-custar-o-jogo&quot;&gt;Quanto vai custar o jogo?&lt;/h2&gt;
+&lt;p&gt;O preço durante o early access deve ser menos de R$ 20,00.&lt;/p&gt;
+
+&lt;h2 id=&quot;novos-fóruns&quot;&gt;Novos fóruns&lt;/h2&gt;
+&lt;p&gt;Lançados os novos fóruns da Aquiris: &lt;a href=&quot;http://forum.aquiris.com.br/&quot; target=&quot;_blank&quot;&gt;http://forum.aquiris.com.br/&lt;/a&gt;
+ para que os jogadores possam discutir sobre os games da Aquiris, principalmente o Ballistic Overkill.&lt;/p&gt;
+
+&lt;h2 id=&quot;alterações-no-jogo&quot;&gt;Alterações no jogo&lt;/h2&gt;
+&lt;p&gt;Foram citadas diversos ajustes nas classes para melhorar o balanceamento, melhorias em performance e uma atualização da UX/UI do game.&lt;/p&gt;
+
+&lt;h2 id=&quot;confira-o-vídeo-ballistic-devtalk-00&quot;&gt;Confira o vídeo Ballistic devtalk #00&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/TgEKMiAD590 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Novidades de Horizon Chase</title>
+   <link href="http://example.com/2015/05/20/novidades-de-horizon-chase"/>
+   <updated>2015-05-20T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/20/novidades-de-horizon-chase</id>
+   <content type="html">&lt;p&gt;O game Horizon Chase da Aquiris Game Studio tem causado um “frisson” na comunidade gamer que aprecia games de corrida old-school, tanto pelo visual apurado quanto pela trilha sonora composta pelo mesmo compositor de clássicos como Top Gear.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/j-8-W_NEXYA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Apesar disso, pouco sabemos do game além de algumas imagens e do teaser acima, por isso o jogosdaqui entrou em contato com a Aquiris e conseguiu mais algumas informações sobre Horizon Chase.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-game-sairá-para-quais-plataformas&quot;&gt;O game sairá para quais plataformas?&lt;/h2&gt;
+&lt;p&gt;O jogo vai sair para consoles, mobile e PC.&lt;/p&gt;
+
+&lt;h2 id=&quot;terá-multiplayer&quot;&gt;Terá multiplayer?&lt;/h2&gt;
+&lt;p&gt;Por enquanto a versão iOS não terá multiplayer, vai ser single player mas terá features sociais.&lt;/p&gt;
+
+&lt;h2 id=&quot;será-pago-ou-modelo-freemium&quot;&gt;Será pago ou modelo freemium?&lt;/h2&gt;
+&lt;p&gt;O jogo será pago (premium).&lt;/p&gt;
+
+&lt;h2 id=&quot;alguma-previsão-de-data-de-lançamento&quot;&gt;Alguma previsão de data de lançamento?&lt;/h2&gt;
+&lt;p&gt;Esperamos lançar ele pro fim de junho, mas sem data confirmada ainda.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Enquanto o game não chega, o jeito é torcer para que a Aquiris libere mais imagens e vídeos para matar nossa curiosidade até o lançamento do game.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Checkpoint #6</title>
+   <link href="http://example.com/2015/05/14/checkpoint-6"/>
+   <updated>2015-05-14T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/14/checkpoint-6</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/CurveDigital/status/59775538841977241&quot;&gt;A Curve Digital anunciou que publicará o game Porcupine da Big Green Pillow ainda este mês&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim/&quot;&gt;Chegou ao fim a campanha de TurboLink, game da Division Five, no Collective da Square Enix&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/59781487824669081&quot;&gt;Versão 1.051 de Chroma Squad é liberada no Steam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/&quot;&gt;O esperado Toren da Swordtales tem seu grande lançamento. O jogosdaqui entrevistou o diretor criativo do game&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/59817401758612275&quot;&gt;A Garage 227 anunciando que dia 15 de maio sai a versão beta de seu game Shiny&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/13/space-lander/&quot;&gt;Space Lander, game retrô espacial da Vortex Game Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/labindie/status/59851337697793229&quot;&gt;Nosso parceiro Labindie mostrando os games brasileiros finalistas do Big Festival&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/&quot;&gt;Prévia do game Horizon Chase da Aquiris Game studio, com direito a trilha sonora do compositor de Top Gear&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/fndodandrea/status/59863819272886681&quot;&gt;O gamedev Fernando D’Andrea, um dos fundadores da Rockhead Games, lembrando que os dois últimos anos foram dedicados ao desenvolvimento de Starlit Adventures que deve sair no dia 14 de maio (hoje)&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Horizon Chase da Aquiris Game Studio</title>
+   <link href="http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
+   <updated>2015-05-13T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
+   <content type="html">&lt;p&gt;Antes de ler qualquer coisa sobre &lt;a href=&quot;http://horizonchase.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Horizon Chase&lt;/a&gt;
+, ouça a trilha sonora abaixo:&lt;/p&gt;
+
+&lt;center&gt;
+      &lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/204381241&amp;amp;color=%23ff5500&amp;amp;auto_play=true&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;
+      &lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;h2 id=&quot;top-gear-feelings-certo&quot;&gt;Top Gear feelings! Certo?&lt;/h2&gt;
+&lt;p&gt;Quando no início do ano a &lt;a href=&quot;http://aquiris.com.br&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
+ anunciou que estaria trabalhando em um novo projeto para os amantes de games como Lotus Turbo Challenge, Outrun, Top Gear e Lamborghini American Challenge, deixou muito marmanjo com aquela nostalgia, mas não uma saudade triste e sim aquela saudade dos bons tempos da era 16 bits. Desde então a gamedev porto-alegrense tem se dedicado em manter os fãs atualizados e evoluir o game cada vez mais.&lt;/p&gt;
+
+&lt;h2 id=&quot;barry-leitch&quot;&gt;Barry Leitch&lt;/h2&gt;
+&lt;p&gt;E não foi apenas os fãs que gostaram do projeto da Aquiris, pois não demorou muito para que Barry Leitch, compositor de trilhas sonoras de games clássicos como Top Gear e Rush colaborasse com Horizon Chase. A música que você ouviu no início do post é uma das composições de Barry para o novo game.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Aquiris me pediu para criar uma música no espírito das composições para o Top Gear SNES, sem me preocupar em referenciar meus próprios trabalhos do passado, como Lotus Turbo Challenge 2 ou Rush 2049 (N64). ‘Faça essas músicas como há 24 anos atrás…. mas repensadas para o Século 21’, eles disseram. A Música-Tema foi a primeira que fiz. Eu voltei no tempo para ouvir minhas trilhas do Top Gear e comecei a criar, deixando a própria música se compor. (Barry Leitch)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Eu adicionei sons mais modernos e, dado que tocar a trilha original se tornou um ritual de passagem para guitarristas no Brasil, optei por uma guitarra mais pesada / sintetizador principal. Enquanto estava criando, eu literalmente fechava meus olhos e imaginava o Nino Megadriver tocando ao vivo num show… Foi fantástico voltar no tempo e re-imaginar as trilhas sem as limitações da época, mas ao mesmo tempo tirando vantagem do tema retrô, e criar novas lembranças como a Música-Tema. Foi o início da imersão musical que eu queria que as pessoas sentissem… (Barry Leitch)&lt;/p&gt;
+  &lt;h2 id=&quot;expectativas&quot;&gt;Expectativas&lt;/h2&gt;
+  &lt;p&gt;O game ainda não possui uma data de lançamento oficial e nem foi divulgado para quais plataformas estará disponível, mas sabendo que a Aquiris é uma das principais desenvolvedoras do mundo utilizando a engine Unity 3D é de se esperar que o game saia para muitas plataformas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pelas imagens, vídeos e, claro, trilha sonora que tivemos acesso até o momento, Horizon Chase parece ser um Top Gear re-imaginado, mas provavelmente essa é uma visão simplista do que o game realmente se tornará, especulações a parte, o jogo promete.&lt;/p&gt;
+&lt;h2 id=&quot;confira-o-teaser-de-horizon-chase&quot;&gt;Confira o teaser de Horizon Chase&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/j-8-W_NEXYA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #6</title>
+   <link href="http://example.com/2015/05/11/imagens-da-semana-6"/>
+   <updated>2015-05-11T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/11/imagens-da-semana-6</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/59519658913787904&quot;&gt;Desenho da artista Amora B. para Haggis, protagonista do game Odallus da brasileira JoyMasher”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ndahlberg/status/59523113380734156&quot;&gt;Pessoal da gaúcha CupCake Sweet Entertainment em Miami no evento eMerge Americas”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/KimericLabs/status/59527439953789747&quot;&gt;Equipe da Kimeric Labs marcando presença no evento Brasil Gets Unreal edição Rio de Janeiro”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ro_draw/status/59536347277231308&quot;&gt;Fan art de Rodrigo Mesquita em homenagem a Toren e sua protagonista”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/protomni/status/59540838905380454&quot;&gt;A carioca Protomni Multimedia mostrando uma das primeiras versões da capa para o Steam de seu game Bernie Needs Love”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/59594322143753830&quot;&gt;A Aquiris Game Studio apresentando a equipe envolvida na produção do game Ballistic para Steam. Destaque para o programador-homem-aranha ao fundo”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=89418396064546&quot;&gt;A equipe da Odin Game Studio testando o Ocullus Rift”&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #3</title>
+   <link href="http://example.com/2015/04/20/imagens-da-semana-3"/>
+   <updated>2015-04-20T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/20/imagens-da-semana-3</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/TorenGame/status/58765465763735142&quot;&gt;Na primeira imagem da semana ficamos com a arte ‘The Tower’ do game brasileiro Toren.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[sc:ImagesOfTheWeek_item number=”2” description=”Foto do evento BRING #4 realizado no sábado dia 11/04/15 na Indie House da Behold Studios, Otus Game Studio e BadMinions.” ]&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Lipedal/status/58798187501415219&quot;&gt;Project Retro Racer que está em desenvolvimento pela Aquiris Game Studio dando razão pela expectativa dos fãs de games como Top Gear.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/58801268791063347&quot;&gt;Uma singela concept art do rei maluco do game em desenvolvimento Tiny Empire da Mgaia Studios.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/58841659310683340&quot;&gt;A Behold Studios demonstrando a evolução do game Chroma Squad de 2013 a 2015.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/58877890474518118&quot;&gt;Behold e Chroma Squad novamente, agora anunciando a página oficial do game no Steam.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/58909434572853248&quot;&gt;A versão final da Hammer Machine do game Shiny da Garage 227 Studios.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Invent4/status/58910634103527014&quot;&gt;A gaúcha Invent4 celebrando o desenvolvimento da sequência de seu game Bad Rats.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BsimRacing/status/58956347315313049&quot;&gt;Na última imagem da semana, ficamos com uma screenshot do game Formula Truck, da Reiza Studios, que teve sua versão 1.25 lançada.”&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Game da Aquiris fazendo bonito na App Store</title>
+   <link href="http://example.com/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store"/>
+   <updated>2014-05-12T00:00:00-03:00</updated>
+   <id>http://example.com/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store/&quot;&gt;Carton Network Superstar Soccer&lt;/a&gt;
+, desenvolvido pela &lt;a href=&quot;http://www.aquiris.com.br/?lang=pt_BR&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
+, atingiu o primeiro lugar geral em diversas App Stores da América Latina:&lt;/p&gt;
+
+&lt;p&gt;O jogo foi lançado semana passada para iOS.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cartoon Network Superstar Soccer lançado na App Store</title>
+   <link href="http://example.com/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store"/>
+   <updated>2014-05-08T00:00:00-03:00</updated>
+   <id>http://example.com/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store</id>
+   <content type="html">&lt;p&gt;O divertido game Cartoon Network Superstar Soccer, desenvolvido pela empresa brasileira &lt;a href=&quot;http://www.aquiris.com.br/?lang=pt_BR&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
+, acaba de ganhar sua versão para &lt;a href=&quot;https://itunes.apple.com/br/app/cn-superstar-soccer/id839550780?l=en&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;No video abaixo, que mostra alguns dos trabalhos da Aquiris, podemos ver o game em ação.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://player.vimeo.com/video/89455611 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Além desta nova versão para a plataforma Apple, CN  Superstar Soccer também está disponível para rodar diretamente no &lt;a href=&quot;http://www.cartoonnetwork.com/games/cc/superstar-soccer/&quot; target=&quot;_blank&quot;&gt;navegador&lt;/a&gt;
+.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</title>
+   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
+   <updated>2013-01-02T00:00:00-02:00</updated>
+   <id>http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
+   <content type="html">&lt;p&gt;No final de 2012 fizemos uma enquete perguntando &amp;gt; Quais games desenvolvidos no Brasil você jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.
+&lt;br /&gt; Para mostrar o resultado a vocês, montamos a lista abaixo mostrando um vídeo de cada um dos games.&lt;br /&gt;
+Confiram!
+&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-12-01_2012-12-31.html#2012_12-05_18_55_07-154784552-0&quot; target=&quot;_blank&quot;&gt;Bitsy Spider da Dead Mushroom&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/4eG1wEilmS8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-10-01_2012-10-31.html#2012_10-17_19_05_36-154784552-0&quot; target=&quot;_blank&quot;&gt;Bubblin da BivisSoft&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/bd_IR_80HOA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-10-01_2012-10-31.html#2012_10-30_22_16_01-154784552-0&quot; target=&quot;_blank&quot;&gt;Crystal Catcher da Crazy Minds Game Studio&lt;/a&gt;&lt;/p&gt;
+
+&lt;object classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;420&quot; height=&quot;315&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;embed type=&quot;application/x-shockwave-flash&quot; width=&quot;420&quot; height=&quot;315&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; /&gt;&lt;/object&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://cartoonnetwork.com/wild-skies/&quot; target=&quot;_blank&quot;&gt;Dreamworks Dragons: Wild Skies da Aquiris Game Studio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://www.criticalstudio.com.br/&quot; target=&quot;_blank&quot;&gt;DungeonLand da Critical Studio&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/2A-gu03hVtI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-08-01_2012-08-31.html&quot; target=&quot;_blank&quot;&gt;Hipercubo do Studio Avante&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/kEM8Q44vnJ4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://labs.maya.im/2012/02/bradesco-lanca-game-desenvolvido-pela-maya/&quot; target=&quot;_blank&quot;&gt;Link 237 Racer da Maya&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/b9oGVui7dzM &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-12-01_2012-12-31.html#2012_12-13_18_02_19-154784552-0&quot; target=&quot;_blank&quot;&gt;Oniken da JoyMasher&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/1Gr77r8Ahg0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://rockbot.upperland.net/&quot; target=&quot;_blank&quot;&gt;Rockbot&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/ksIoM34yhN0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://ovnistudios.com/salvemascanelas&quot; target=&quot;_blank&quot;&gt;Salvem as canelas da Ovni Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/Y4PzTXwPbWE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://skahal.com/ships-n-battles&quot; target=&quot;_blank&quot;&gt;Ships N’ Battles da Skahal Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/8qVJPZkMaRc &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-10-01_2012-10-31.html#2012_10-11_08_42_06-154784552-0&quot; target=&quot;_blank&quot;&gt;Shuffle Puzzle de Fernando Martínez e Paulo Eduardo&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/s4PjeLAe7O4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://itunes.apple.com/br/app/tribot/id576450370?mt=8&quot; target=&quot;_blank&quot;&gt;TriboT da deVoid Games&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/aYGjxnrtX0g &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt; &lt;a href=&quot;http://toren-game.com/&quot; target=&quot;_blank&quot;&gt;Toren (demo) da Swordtales&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/b2kfbnc88H4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ballistic entra em fase de beta teste</title>
+   <link href="http://example.com/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2"/>
+   <updated>2012-11-14T00:00:00-02:00</updated>
+   <id>http://example.com/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2</id>
+   <content type="html">&lt;p&gt;A brasileira &lt;a href=&quot;http://www.facebook.com/aquiris&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
+ é especializada no desenvolvimento de games utilizando a engine &lt;a href=&quot;http://unity3d.com/&quot; target=&quot;_blank&quot;&gt;Unity 3D&lt;/a&gt;
+, fato facilmente evidenciando pelos mais de 40 games que a empresa já produziu nos últimos 6 anos utilizando essa engine.&lt;/p&gt;
+
+&lt;p&gt;Em 2011 falamos aqui no jogosdaqui sobre a &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2011-03-01_2011-03-31.html#2011_03-01_18_05_52-154784552-0&quot;&gt;entrada em fase alpha do primeiro grande game próprio da empresa&lt;/a&gt;
+, o game em questão, que na época ainda não tinha nome, chama-se &lt;a href=&quot;http://www.ballistic.com&quot; target=&quot;_blank&quot;&gt;Ballistic&lt;/a&gt;
+ e é um FPS Free-to-Play, de encher os olhos ;), para Facebook.&lt;/p&gt;
+
+&lt;p&gt;Agora o game, que será publicado pela americana &lt;a href=&quot;http://www.rumblegames.com/&quot; target=&quot;_blank&quot;&gt;Rumble Games&lt;/a&gt;
+ e tem previsão de lançamento para o primeiro trimestre de 2013, &lt;strong&gt;está entrando na fase de closed beta test e a Aquiris está convocando todos os jogadores para essa missão&lt;/strong&gt;. Essa fase deve iniciar ainda essa semana.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/klKqWeYuBhk &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;E aí? Curtiu as imagens e o video do game? Que tal você participar ativamente desse importante momento do gamedev brasileiro?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Então entre em &lt;a href=&quot;http://www.ballistic.com&quot;&gt;www.ballistic.com&lt;/a&gt;
+ e faça seu cadastro no closed beta de Ballistic!&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FPS da Aquiris gX em fase alpha</title>
+   <link href="http://example.com/2011/03/01/fps-da-aquiris-gx-em-fase-alpha"/>
+   <updated>2011-03-01T00:00:00-03:00</updated>
+   <id>http://example.com/2011/03/01/fps-da-aquiris-gx-em-fase-alpha</id>
+   <content type="html">&lt;p&gt;Entramos em contato com o produtor executivo da empresa brasileira Aquiris Game Experience, &lt;a href=&quot;http://twitter.com/The_Real_Rafael&quot; target=&quot;_blank&quot;&gt;Rafael Rodrigues&lt;/a&gt;
+, para sabermos como estava o andamento do FPS massivo, ainda sem nome, que a empresa está trabalhando. O game começou a ser desenvolvido &lt;a href=&quot;http://jogos.uol.com.br/pc/ultnot/2010/11/09/ult182u8621.jhtm&quot; target=&quot;_blank&quot;&gt;após a Aquiris fechar um contrato no final de 2010 com a publisher americana Aeria Games&lt;/a&gt;
+, especializada em games free-to-play. Abaixo você confere as novidades sobre o game.&lt;/p&gt;
+
+&lt;p&gt;O jogo que tem o lançamento planejado para o segundo semestre de 2011 para EUA, Europa e Brasil, podendo ser ampliado para mais países, deverá ter uma mecânica no mesmo estilo de Modern Warfare, tendo como narrativa um futuro recente onde ocorre uma disputa por novos recursos energéticos e a formação de uma nova ordem mundial que visa estabelecer a organização do planeta.&lt;/p&gt;
+
+&lt;p&gt;O FPS que poderá ser jogável apenas online e multiplayer trará um diferencial para o mercado de games, pois será o primeiro FPS massivo desenvolvido utilizando a engine Unity3D, no qual a Aquiris é uma das principais desenvolvedoras no mundo. O uso dessa engine, permitirá que os jogadores se conectem de diferentes plataformas: Windows, Macs e navegadores, sendo que não haverá distinção entre esses jogadores: jogadores com máquinas Windows poderão travar batalhas com jogadores com Macs, o mesmo é valido para os navegadores.&lt;/p&gt;
+
+&lt;p&gt;Atualmente em fase alpha, o game está sendo testado por três grupos no EUA, na Europa e no Brasil. Como resultado desses testes estão sendo realizadas avaliações quanto a jogabilidade, balanceamento e qualidade gráfica.&lt;/p&gt;
+
+&lt;p&gt;A Aquiris participará da GDC 2011, no estande da Unity (empresa desenvolvedora da engine Unity3D), e apresentará as primeiras imagens do game aos visitantes. Após o evento o projeto deverá entrar em closed beta para usuários cadastrados.&lt;/p&gt;
+
+&lt;p&gt;Confira abaixo mais algumas imagens do jogo em desenvolvimento:&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
+   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <updated>2010-12-13T00:00:00-02:00</updated>
+   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
+
+&lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
+&lt;h3 id=&quot;dentre-os-games-mais-citados-estão&quot;&gt;Dentre os games mais citados, estão:&lt;/h3&gt;
+
+&lt;h2 id=&quot;taikodom-da-hoplon-infotainment&quot;&gt;Taikodom da Hoplon Infotainment&lt;/h2&gt;
+&lt;p&gt;Provavelmente o maior game (em tempo de desenvolvimento e orçamento) já produzido no Brasil.&lt;/p&gt;
+
+&lt;h2 id=&quot;outlive-dacontinuum-entertainment&quot;&gt;Outlive da Continuum Entertainment&lt;/h2&gt;
+&lt;p&gt;A empresa não existe mais e o game já tem 10 anos, mesmo assim continua vivo na memória dos jogadores brasilieros.&lt;/p&gt;
+
+&lt;h2 id=&quot;freekscape-escape-from-hell-da-kidguru-studios&quot;&gt;Freekscape: Escape from Hell da Kidguru Studios&lt;/h2&gt;
+&lt;p&gt;O primeiro game brasileiro lançado na PSN cativou os jogadores com seu herói carismático e level design inteligente. Se você tem um PSP ou um PS3 (mini) esse é um game obrigatório.&lt;/p&gt;
+
+&lt;h2 id=&quot;erinia-da-ignis-games&quot;&gt;Erinia da Ignis Games&lt;/h2&gt;
+&lt;p&gt;O primeiro MMORPG brasileiro continua vivo graças a comunidade de jogadores que ainda mantém servidores do jogo.&lt;/p&gt;
+
+&lt;h2 id=&quot;jules-unboxing-the-world-da-sulistas&quot;&gt;Jules: Unboxing the World da Sulistas&lt;/h2&gt;
+&lt;p&gt;Com um personagem tão original e extrema qualidade técnica, Jules faz bonito no iPad (deve ganhar uma versão para iPhone).&lt;/p&gt;
+
+&lt;h3 id=&quot;as-empresas-com-mais-jogos-citados-foram&quot;&gt;As empresas com mais jogos citados foram&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.aquiris.com.br/pt/home/&quot; target=&quot;_blank&quot;&gt;Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.insolitastudios.com/pt/default.asp&quot; target=&quot;_blank&quot;&gt;Insolita Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.jynxplayware.com.br/&quot; target=&quot;_blank&quot;&gt;Jynx Playware&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Southlogic&quot; target=&quot;_blank&quot;&gt;Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.greenlandstudios.com/&quot; target=&quot;_blank&quot;&gt;Green Land Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.invent4.com/index-p.htm&quot; target=&quot;_blank&quot;&gt;Invent4&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.kidgurustudios.com/&quot; target=&quot;_blank&quot;&gt;KidGuru Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.webcoregames.com.br/&quot; target=&quot;_blank&quot;&gt;Webcore Games&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abaixo-a-lista-completa-dos-jogos-citados-começando-pelos-mais-votados&quot;&gt;Abaixo a lista completa dos jogos citados, começando pelos mais votados:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;ol&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.taikodom.com.br/&quot; target=&quot;_blank&quot;&gt;Taikodom da Hoplon Infotainment&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.continuum.com.br/&quot; target=&quot;_blank&quot;&gt;Outilive da Continnum Entertainment&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.freekscape.com/&quot; target=&quot;_blank&quot;&gt;Freekscape: Escape from Hell da KidGuru Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://erinia.com.br/&quot; target=&quot;_blank&quot;&gt;Erinia da Ignis da Games&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.julesunboxingtheworld.com/&quot; target=&quot;_blank&quot;&gt;Jules: Ungoxing the World da Sulistas&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.perceptum.com/indexp.htm&quot; target=&quot;_blank&quot;&gt;Incidente em Varginha da Perceptum&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Guimo&quot; target=&quot;_blank&quot;&gt;Guimo da Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.atari.com/games/deer_hunter_tournament&quot; target=&quot;_blank&quot;&gt;Deer Hunter Tournament da Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.ovnistudios.com/pt/colorrace&quot; target=&quot;_blank&quot;&gt;Fiat Uno Color Race da Ovni Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://dueltoys.com/&quot; target=&quot;_blank&quot;&gt;Duel Toys 2 de Diefox&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://capoeiralegends.com.br/&quot; target=&quot;_blank&quot;&gt;Capoeira Legends da Donsoft Entertainment&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.botzin.net&quot; target=&quot;_blank&quot;&gt;Botzin da Green Land Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.cavedays.net/&quot; target=&quot;_blank&quot;&gt;Cavedays da Insolita Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.invent4.com/razor2/index-p.htm&quot; target=&quot;_blank&quot;&gt;Razor2: Hidden Skies da Invent4&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/FutSim&quot; target=&quot;_blank&quot;&gt;FutSim da Jynx Playware&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.mylumaki.com/&quot; target=&quot;_blank&quot;&gt;Lumaki da KidGuru Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Deer_Hunter_2005&quot; target=&quot;_blank&quot;&gt;Deer Hunter 2005 da Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.baixaki.com.br/download/tensao-abaixo-de-zero.htm&quot; target=&quot;_blank&quot;&gt;Tensão abaixo de zero de André César Medeiros e Glauber Kotaki Rodrigues&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.cartoonnetwork.com/games/generatorrex/abysusarena/&quot; target=&quot;_blank&quot;&gt;Generator Rex - Abysus Arena da Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.aquiris.com.br/pt/games/detalhes/index.php?id=36&quot; target=&quot;_blank&quot;&gt;Desafio Pequim da Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.aquiris.com.br/pt/games/detalhes/index.php?id=2&quot; target=&quot;_blank&quot;&gt;Super Volei Brasil 1 da Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.aquiris.com.br/pt/games/detalhes/index.php?id=1&quot; target=&quot;_blank&quot;&gt;Super Volei Brasil 2 da Aquiris Game Experience&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.attackpinball.net/&quot; target=&quot;_blank&quot;&gt;Undead Attac da Attack Pinball Team&lt;/a&gt;
+&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.brasfoot.com/&quot; target=&quot;_blank&quot;&gt;Brasfoot da Brasfoot.com&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://bulletsofarevolver.blogspot.com/&quot; target=&quot;_blank&quot;&gt;Balas de um revolver de Diefox&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.domino-box.com/br/&quot; target=&quot;_blank&quot;&gt;Domino Box da Domino Box&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.espacoinf.com/hade.html&quot; target=&quot;_blank&quot;&gt;Hades 2 da Espaço Informática&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.flickgol.com/&quot; target=&quot;_blank&quot;&gt;FlickGol da FingerTips&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.graffitientertainment.com/index.php/games/hightechracing&quot; target=&quot;_blank&quot;&gt;HTR : High Tech Racing da Graffiti Entertainment&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Vampiromania&quot; target=&quot;_blank&quot;&gt;Vampiromania da Green Land Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://store.steampowered.com/app/33680/&quot; target=&quot;_blank&quot;&gt;Eversion de Guilherme S. Tows&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.icongames.com.br/fruzzle-pt.htm&quot; target=&quot;_blank&quot;&gt;Fruzzle da Icon Games&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.ilhadoempreendedor.com.br/&quot; target=&quot;_blank&quot;&gt;Ilha do Empreendedor da Insolita Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.ludopark.com.br/&quot; target=&quot;_blank&quot;&gt;Ludo Park da Insolita Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;Ottomax da Insolita Studios&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.invent4.com/rats/&quot;&gt;Bad Rats - The Rat's Revenge da Invent4&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://maisdiversao.fanta.com.br/figurinhas/#/-jogo&quot; target=&quot;_blank&quot;&gt;Fanta Crew da Jynx Playware&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.notdoppler.com/kokimi.php&quot; target=&quot;_blank&quot;&gt;Kokimi da Jynx Playware&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;Restaurant Manager da Jynx Playware&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.livetouch.com.br/Templates/portfolio_RiR.html&quot; target=&quot;_blank&quot;&gt;Run in Rio da Livetouch&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://studiominiboss.blogspot.com/&quot; target=&quot;_blank&quot;&gt;Talbot's Odissey da MiniBoss&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.mothergaia.com.br/portugues/cityrain.php&quot; target=&quot;_blank&quot;&gt;City Rain da Mother Gaia Studio&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.musigames.com/imusic-puzzle.html&quot; target=&quot;_blank&quot;&gt;iMusic Puzzle da MusiGames&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://sites.google.com/site/nologygames/koko-arena&quot; target=&quot;_blank&quot;&gt;Koko Arena da Nology&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.ovnistudios.com/pt/placarcup&quot; target=&quot;_blank&quot;&gt;Copa Placar da Ovni Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Deer_Hunter_2004&quot; target=&quot;_blank&quot;&gt;Deer Hunter 2004 da Southlogic Studios&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Mônica_no_Castelo_do_Dragão &quot; target=&quot;_blank&quot;&gt;Monica no castelo do Dragão da Tec Toy&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.thevelopers.webs.com/&quot; target=&quot;_blank&quot;&gt;Freakin' Color da The Velopers&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.indiepubgames.com/game/Painting_Rage&quot; target=&quot;_blank&quot;&gt;Painting Rage de Vinícius Canaã Medeiros Ruela e Luca Mattos Möller&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.webcore.com.br/portfolio/detalhes.php/surfinia&quot; target=&quot;_blank&quot;&gt;Surfini da Webcore&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://lasthopegame.wordpress.com/&quot; target=&quot;_blank&quot;&gt;Last Hope da Yellow Jam&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.webcoregames.com.br/case/gamefutebol_redeglobo.html&quot; target=&quot;_blank&quot;&gt;Game Futebol da Webcore&lt;/a&gt;
+&lt;/li&gt;
+	&lt;li style=&quot;list-style-type: decimal;&quot;&gt;&lt;a href=&quot;http://www.edesiopereira.com.br/jogos/lemonworld.htm &quot; target=&quot;_blank&quot;&gt;Lemon World de Alonso, Edésio P. Souza e Levi&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pretendemos realizar um post para a maioria dos jogos citados, de tempos em tempos você poderá conferí-los aqui, no jogosdaqui.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

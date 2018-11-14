@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - tinfoil-hat-studios</title>
+ <link href="http://example.com/tags/tinfoil-hat-studios/index.xml" rel="self"/>
+ <link href="http://example.com/tag/tinfoil-hat-studios.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/tinfoil-hat-studios.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Calango For Kids</title>
+   <link href="http://example.com/2015/04/10/calango-for-kids"/>
+   <updated>2015-04-10T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/10/calango-for-kids</id>
+   <content type="html">&lt;dl&gt;
+  &lt;dt&gt;Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do &lt;a href=&quot;http://www.scicast.com.br/&quot;&gt;&lt;strong&gt;SciCast&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;“Porque a ciência tem que ser divertida”, pois foi exatamente esse o mote da equipe da Tinfoil ao desenvolver o jogo infantil que ajuda crianças a aprender matemática de forma divertida.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;A jogabilidade criada, pensando em crianças entre 7 e 10 anos, é bem simples e intuitiva: uma operação matemática aparece na tela do iPad e o jogador precisa estourar os balões com os números que resolverão a equação.&lt;/p&gt;
+
+&lt;p&gt;Atualmente existem dois tipos de operações disponíveis: adição e multiplicação, sendo que o jogador é apresentado a diversos níveis de dificuldade conforme vai passando de fases. A equipe da Thinfoil intenta adicionar novas operações e até novas disciplinas, como geografia e história, através de in-app purchase.&lt;/p&gt;
+
+&lt;p&gt;Calango For Kids é uma saudável opção para divertir seu filho e ainda ajudá-lo a se interessar por matemática no processo.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://player.vimeo.com/video/95176768 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Calango for Kids foi &lt;a href=&quot;http://sbgames.org/sbgames2014/festival_de_jogos_finalistas&quot;&gt;finalista SBGGames 2014&lt;/a&gt;
+ na categoria Serious Games e está disponível gratuitamente na &lt;a href=&quot;https://itunes.apple.com/br/app/calango-kids/id875886632?mt=8&quot; target=&quot;_blank&quot;&gt;App Store&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

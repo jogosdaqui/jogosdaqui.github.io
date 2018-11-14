@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - devworks-game-technology</title>
+ <link href="http://example.com/tags/devworks-game-technology/index.xml" rel="self"/>
+ <link href="http://example.com/tag/devworks-game-technology.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/devworks-game-technology.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Entrevista: Tiago Moraes da Ovni Studios (parte 1)</title>
+   <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1"/>
+   <updated>2011-02-09T00:00:00-02:00</updated>
+   <id>http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot;&gt;@own1e&lt;/a&gt; em colaboração para o jogosdaqui.&lt;/p&gt;
+
+&lt;p&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/p&gt;
+
+&lt;h2 id=&quot;fale-um-pouco-de-você-e-do-seu-trabalho-na-ovni&quot;&gt;Fale um pouco de você e do seu trabalho na Ovni&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Eu sou o Tiago Moraes, trabalho na indústria de jogos aqui do Brasil há mais de 10 anos. A primeira empresa onde eu trabalhei e que mexia com algo relacionado a desenvolvimento foi a Brasoft , que começou como uma distribuidora de jogos de outras empresas do exterior e depois começou a fazer o trabalho de publicação também. No início nós fazíamos mais um trabalho de localização dos jogos (incluindo todos da Lucas Arts). Era uma das principais empresas que mexiam com jogos, não no desenvolvimento, mas com uma representação grande no brasi&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;pra-situar-a-galera-a-brasoft-tinha-alguma-coisa-a-ver-com-as-lojas-brasoftware-que-existiam-nos-shoppings-nos-anos-90&quot;&gt;Pra situar a galera: a Brasoft tinha alguma coisa a ver com as lojas Brasoftware que existiam nos shoppings nos anos 90?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Não, não é a mesma empresa. A Brasoft realmente fazia o trabalho de distribuição, mas tinha desenvolvimento e nós mexíamos dentro do jogo. Depois passei por outras distribuidoras e publicadoras, e foi quando começou o desenvolvimento mais forte aqui no Brasil, com alguns jogos que representavam algumas marcas, como novelas e coisas do tipo, e foi o começo do advergame também. Depois trabalhei numa empresa chamada Devworks, aí comecei a abrir minhas proprias empresas: fui sócio da Insolita, e depois fui sócio-fundador da Ovni Studios, que foi fundada há aproximadamente um ano.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;muita-gente-daqui-do-brasil-sonha-em-trabalhar-na-indústria-quais-dificuldades-você-enfrentou-falta-gente-para-trabalhar-ou-rola-muita-burocracia&quot;&gt;Muita gente daqui do Brasil sonha em trabalhar na indústria. Quais dificuldades você enfrentou? Falta gente para trabalhar, ou rola muita burocracia…&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Tudo atrapalha, a gente sempre tem de remar contra a maré aqui no nosso país. O que eu tenho mais dificuldade em todas as empresas por onde eu passei é que a indústria de jogos não paga o que o funcionário merece&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;você-crê-que-agora-que-os-jogos-sociais-e-de-browser-são-mais-acessíveis-esse-pode-ser-o-caminho-pra-indústria-aqui-ser-mais-bem-vista-ou-é-mais-uma-onda-que-vem-e-depois-vai-voltar-tudo-ao-normal&quot;&gt;Você crê que agora que os jogos sociais e de browser são mais acessíveis, esse pode ser o caminho pra indústria aqui ser mais bem vista, ou é mais uma onda que vem e depois vai voltar tudo ao normal?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Essa é a grande oportunidade que a gente esperava. O filtro de qualificação  para você adquirir os kits e ser desenvolvedor credenciado sempre foi muito grande, aí a Apple Store veio para mudar tudo e quebrar essa barreira. O Facebook também se consolidou como uma plataforma bem viável e que já tem um mercado bem consolidado para quem quiser se aventurar. Esses modelos de negócio nos colocaram de igual pra igual com as empresas lá de fora, então só depende da gente e do nosso talento para criar coisas interessantes e rentáveis.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;vocês-fizeram-jogos-para-ios-apple-estão-trabalhando-com-facebook-também&quot;&gt;Vocês fizeram jogos para iOS (Apple). Estão trabalhando com Facebook também?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Sim, nosso foco são os jogos casuais independente da plataforma. A gente tem de minimizar nosso esforço para estar em mais plataformas possiveis.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://player.vimeo.com/video/17389408 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Dodgeball Safari, game para iPod/iPhone &lt;/span&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;ao-mesmo-tempo-que-é-mais-acessível-desenvolver-para-ios-e-facebook-a-concorrência-deve-ser-muito-grande-também-vocês-fazem-um-trabalho-no-marketing-para-encontrar-o-caminho-de-distribuir-o-jogo&quot;&gt;Ao mesmo tempo que é mais acessível desenvolver para iOS e Facebook, a concorrência deve ser muito grande também. Vocês fazem um trabalho no marketing para encontrar o caminho de distribuir o jogo?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Com esses modelo de distribuição digital, agora você pode fazer sua publicação. Você mesmo cria uma conta nessas lojas digitais e coloca seu jogo lá, com critério bem menor que uma publisher tradicional pede. Como essas lojas não tem muitos critérios, ficaram cheias de jogos. Assim, por mais que não haja publisher, o trabalho dele voltou a ser importante… é preciso desse selo de qualidade do publisher para as pessoas baixarem de olho fechado.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;vocês-já-fizeram-advergames-do-uno-do-tang-e-da-revista-placar-já-pensaram-no-caminho-inverso-de-ir-atrás-e-licenciar-uma-marca-conhecida-e-atingir-uma-audiência-maior&quot;&gt;Vocês já fizeram advergames do Uno, do Tang e da revista Placar. Já pensaram no caminho inverso, de ir atrás e licenciar uma marca conhecida e atingir uma audiência maior?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Tentamos com algumas marcas bem aceitas no mercado nacional e internacional, mas dificilmente a conta fecha nesse modelo de negócio. Antes, a quantia que estava com o desenvolvedor era bem menor do que geralmente é trabalhado hoje: pela Apple você realmente fica com uma quantia grande de cada cópia vendida, mas no micropagamento se ganha pela quantidade em vez da qualidade, é realmente muito complicado de fazer a conta fechar.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;a-gente-vê-a-gameloft-fazendo-cópia-de-muita-coisa&quot;&gt;A gente vê a Gameloft fazendo cópia de muita coisa…&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: É, a Gameloft é realmente um caso excepcional. Eles realmente copiam todo game design, trocam a skin, vendem milhões e mesmo assim são cópias bem interessantes, são jogos &quot;triple A&quot; de mobile.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quem-faz-a-coisa-séria-fica-decepcionado-com-isso&quot;&gt;Quem faz a coisa séria fica decepcionado com isso?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Tiago Moraes: Sim, todos os feedbacks que os brasileiros recebem das publicadores internacionais é sempre o mesmo: que o brasileiro quer sempre fazer algo revolucionário, não em complexidade, mas em querer uma mecânica nova, que ninguém viu antes. Mas se pensar como um negócio, às vezes é melhor pegar vários elementos de jogos que fizeram sucesso para ter um retorno mínimo garantido.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lançamento de War II no Gametrack</title>
+   <link href="http://example.com/2006/12/01/lancamento-de-war-ii-no-gametrack"/>
+   <updated>2006-12-01T00:00:00-02:00</updated>
+   <id>http://example.com/2006/12/01/lancamento-de-war-ii-no-gametrack</id>
+   <content type="html">&lt;p&gt;War II, a evolução do famoso jogo de estratégia, ganha versão para a internet&lt;br /&gt;&lt;br /&gt;Raciocínio, estratégia e diplomacia são a chave para o sucesso neste clássico dos jogos de tabuleiro. É a nova atração do portal &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=gametrack&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;br /&gt; &lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Dezembro de 2006&lt;/span&gt; - Prepare seus exércitos para a batalha! O Gametrack (www.gametrack.com.br), único portal brasileiro especializado em jogos para usuários de banda larga, acaba de colocar no ar o jogo War II. Seqüência de sucesso do jogo de estratégia mais famoso do Brasil, WAR II acrescenta maior dinamismo e exige uma estratégia mais elaborada para conseguir derrotar seus adversários.            &lt;br /&gt;     &lt;br /&gt;A versão online desenvolvida pela &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks&lt;/a&gt;
+, responsável pelo portal Gametrack, reproduz as regras do jogo original. Cada partida pode ser jogada por 3 a 6 internautas, e vence quem conseguir completar o seu objetivo antes dos oponentes. A cada rodada, os jogadores, de acordo com os territórios dominados, recebem exércitos e aviões com os quais podem atacar os seus adversários. Os jogadores agora podem espionar seus adversários podendo até conhecer seus objetivos.&lt;br /&gt;    &lt;br /&gt;Qualquer um pode entrar para assistir uma partida em tempo real, mesmo entrando no meio da partida e os jogadores que porventura percam a conexão com a internet podem retornar à mesma partida. Entre as curiosidades, estão os dados 3D que, através de simulação física, permitem ao jogador lançar os dados como no jogo real de tabuleiro. A qualquer momento, os jogadores podem usar o chat para se comunicarem. Estas características, além de garantir a jogabilidade, permitem aos jogadores fazerem novas amizades. Isso já acontece com os fãs de War, um dos jogos da Grow disponível. “Nossos usuários já criaram inclusive um Campeonato de War no Gametrack. Foi uma iniciativa espontânea, nascida da amizade criada entre os jogadores e da confiança entre eles”, diz Fabiano Sousa, um dos fundadores da Devworks e do portal.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Abragames na GC 2006</title>
+   <link href="http://example.com/2006/08/20/abragames-na-gc-2006"/>
+   <updated>2006-08-20T00:00:00-03:00</updated>
+   <id>http://example.com/2006/08/20/abragames-na-gc-2006</id>
+   <content type="html">&lt;p&gt;De 23 a 26 deste mês, a Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos (Abragames) participa da Games Convention 2006 (GC) que acontece em Leipzig, Alemanha. Através do estande localizado no Business Center, espaço reservado para a realização de negócios, o consultor Bernardo Manfredini, indicará soluções para as demandas das companhias estrangeiras. &lt;span style=&quot;font-style: italic;&quot;&gt;&quot;Falarei com publishers, apresentarei produtos prontos para serem distribuídos, e com desenvolvedores que necessitam terceirizar parte de sua produção&quot;&lt;/span&gt;, diz Manfredini.&lt;br /&gt;&lt;br /&gt;Além de associações como a Abragames no Business Center, encontram-se estandes de publishers, produtoras, fabricantes de hardware, entre outras. Por isso, o principal objetivo do consultor é agendar reuniões com empresas como: Electronic Arts, Actvision, Nitendo, Microsoft, Sony, Ubsoft, Konami, THQ, Take 2, ATI, Blizzard, Macromedia, Vivendi entre outras. &lt;span style=&quot;font-style: italic;&quot;&gt;&quot;Embora cada empresa esteja em um estágio diferente - algumas já têm relações comerciais com parceiros no exterior -, é uma oportunidade de marcar presença neste que é o segundo maior evento do setor no mundo&quot;&lt;/span&gt;, afirma Bernardo Manfredini, consultor que representará a Abragames na feira.&lt;br /&gt;&lt;br /&gt;No estande será apresentado material de divulgação impresso e eletrônico das empresas brasileiras interessadas em expandir seus negócios no exterior. São elas: Délirus, Devworks, Ene Solutions, Insolita Studios, Interama, Jynx, Locz, Oniria, Outline, O2games, Southlogic e Tec Toy Digital. Empresas que desenvolvem jogos para as plataformas PC, console, celular e web. Como os modelos e estratégias de negócio das desenvolvedoras brasileiras são diversos, outras oportunidades poderão surgir durante a feira. &quot;É um passo importante para construir a imagem da produção nacional junto àqueles que fazem parte da indústria internacional. É uma oportunidade para mostrar como está a produção no Brasil e como tem sido o crescimento desse setor nos últimos anos&quot;, afirma Manfredini.&lt;br /&gt;&lt;br /&gt;Mesmo com representante oficial na feira, alguns diretores das empresas associadas ainda optaram por participar pessoalmente do evento. Segundo, André Penha, diretor executivo da Délirus, esta ação pode render contatos mais diretos com empresas de outros países, que podem gerar negócios mais imediatos. Entre os dias 21 e 23 de agosto, Penha participa da GC Developers Conference, conferência que antecede a Games Convetion. Durante o evento, que é uma oportunidade para trocar experiências internacionais, são apresentadas palestras sobre desenvolvimento e negócios em games.&lt;br /&gt;&lt;br /&gt;Para Juliano Alves, da OniriaSoft, a empresa passa por várias mudanças, novas parcerias e oportunidades estão sendo criadas, tanto no Brasil como no exterior, por isso a necessidade da presença na feira. Já a Outline acredita que com a participação na GC ganhará mais experiência no mercado internacional. As duas empresas distribuirão cópias de demos de seus jogos: Warbots, da Délirus e Ayri – Uma Lenda Amazônica, da Outline. Segundo Sylker Teles, CEO e Game Designer da Outline, a GC representa um excelente momento para se integrar com desenvolvedores do mundo e trocar experiências valiosas sobre o comportamento do mercado e os futuros caminhos da indústria de entretenimento digital.&lt;br /&gt;&lt;br /&gt;Essa ação da Abragames tem o apoio da Agência de Promoção de Exportação e Investimentos (APEX-Brasil), organização não governamental encarregada de executar a política de exportação brasileira, e da Associação para Promoção da Excelência do Software Brasileiro (Softex), organização civil dedicada à promoção da excelência da indústria brasileira de software, que investiram em torno de 60 mil reais. Além do apoio financeiro, a Softex colaborou através do suporte operacional de sua equipe, especializada em eventos no Brasil e no exterior.&lt;br /&gt;&lt;br style=&quot;font-style: italic;&quot; /&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&quot;Estar presente em um evento desta magnitude, que terá mais de 360 expositores de todo o mundo e cerca de 130 mil visitantes, é uma oportunidade excepcional para as nossas empresas apresentarem a qualidade e a criatividade de seus produtos&quot;&lt;/span&gt;, analisa Charles Schramm, gerente de desenvolvimento de negócios internacionais da SOFTEX.&lt;br /&gt;&lt;br /&gt;A participação na GC é a primeira iniciativa do grupo de empresas de Games do PSI-SW (Projeto Setorial Integrado de Software), o maior plano de internacionalização de empresas brasileiras produtoras de software e prestadoras de serviços correlatos já implementado no país. Reunindo 103 empresas divididas em 10 verticais de atuação, ele é gerenciado pela SOFTEX com o apoio técnico e financeiro da APEX-Brasil. Em dezembro, está prevista a participação em mais um evento de Games, desta vez na França.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Advergames migram para a TV</title>
+   <link href="http://example.com/2006/08/02/advergames-migram-para-a-tv"/>
+   <updated>2006-08-02T00:00:00-03:00</updated>
+   <id>http://example.com/2006/08/02/advergames-migram-para-a-tv</id>
+   <content type="html">&lt;p&gt;Diversas empresas investem em advergames para promover suas marcas e produtos. Para a Copa de 2002, a &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks&lt;/a&gt;
+ desenvolveu o game &quot;&lt;a href=&quot;/index.php?p=c&amp;amp;id=144&quot;&gt;Pebolim&lt;/a&gt;
+&quot; que esteve em destaque no site da Kaiser. O jogo em 3D imitava uma mesa de pebolim e permitia que o internauta representasse o Brasil em jogos contra as outras equipes que participaram do mundial. Segundo Marcelo Carvalho, presidente da Devworks, com o anúncio interativo os acessos ao site triplicaram e o tempo de permanência do usuário se multiplicou por dez.&lt;br /&gt;&lt;br /&gt;Os planos de mídia integrados já incluem os advergames. Independente do tipo de produto, esta ferramenta tem sido utilizada intensamente. A Nívea &lt;a href=&quot;http:&amp;gt; disponibilizou este ano em seu site o game &amp;quot;Futebol Mania&amp;quot; que continua acess&amp;iacute;vel mesmo depois da promo&amp;ccedil;&amp;atilde;o finalizada. Assim, outra vantagem desta m&amp;iacute;dia &amp;eacute; que ela pode ser acessada in&amp;uacute;meras vezes pelo p&amp;uacute;blico institucional, mesmo sem promo&amp;ccedil;&amp;otilde;es.&amp;lt;br /&quot;&gt;http:&amp;gt; disponibilizou este ano em seu site o game &amp;quot;Futebol Mania&amp;quot; que continua acess&amp;iacute;vel mesmo depois da promo&amp;ccedil;&amp;atilde;o finalizada. Assim, outra vantagem desta m&amp;iacute;dia &amp;eacute; que ela pode ser acessada in&amp;uacute;meras vezes pelo p&amp;uacute;blico institucional, mesmo sem promo&amp;ccedil;&amp;otilde;es.&amp;lt;br /&lt;/a&gt;&lt;br /&gt;Na onda das campanhas cross-media, a Band também aproveita a época pós Copa para disponibilizar um game não apenas na web berço do advergame -, mas também na TV. A nova atração será veiculada a partir deste mês através do quadro Brincadeira dos Monstros, no programa Pra Valer exibido de segunda-feira à sexta-feira, das 15h às 17h15. Os telespectadores podem ligar para o Programa e participar do game de futebol Monstro Gol, cujo objetivo é fazer gols de pênalti. Quem acertar três dos cinco chutes leva o maior prêmio em dinheiro da promoção, que começa com a quantia de mil reais e pode acumular. Aqueles que fizerem apenas um ou dois gols podem ganhar cem reais por gol. O jogador deverá escolher dentre os personagens monstros aquele que será o atacante e o goleiro.&lt;br /&gt;&lt;br /&gt;Segundo Luis Renato Olivalves, gerente de interatividade da Band, o novo formato do quadro proverá mais intercâmbio entre o programa e o público da emissora. Em breve o jogo também será disponibilizado através do site do Pra Valer &lt;a href=&quot;http:&amp;gt; , assim, o p&amp;uacute;blico da Band tamb&amp;eacute;m poder&amp;aacute; se divertir com o game na web e treinar para concorrer ao vivo. Olivalves afirma que na web, o objetivo do jogo &amp;eacute; ser um passatempo, al&amp;eacute;m de incentivar os internautas &amp;agrave; participa&amp;ccedil;&amp;atilde;o ao vivo.&amp;lt;br /&quot;&gt;http:&amp;gt; , assim, o p&amp;uacute;blico da Band tamb&amp;eacute;m poder&amp;aacute; se divertir com o game na web e treinar para concorrer ao vivo. Olivalves afirma que na web, o objetivo do jogo &amp;eacute; ser um passatempo, al&amp;eacute;m de incentivar os internautas &amp;agrave; participa&amp;ccedil;&amp;atilde;o ao vivo.&amp;lt;br /&lt;/a&gt;&lt;br /&gt;Este advergame foi desenvolvido pela &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=40&quot;&gt;Délirus Entertainment&lt;/a&gt;&lt;/p&gt;
+&lt;http:&gt;, empresa focada em m&amp;iacute;dias interativas, unindo jogos eletr&amp;ocirc;nicos a an&amp;uacute;ncios comerciais. &lt;span style=&quot;font-style: italic;&quot;&gt;&amp;quot;O objetivo &amp;eacute; agregar valor ao programa televisivo e ao site, despertando ainda mais a aten&amp;ccedil;&amp;atilde;o do p&amp;uacute;blico da Band e gerando aumento de visitas na p&amp;aacute;gina do programa&amp;quot;&lt;/span&gt;, afirma Andr&amp;eacute; Penha, diretor executivo da D&amp;eacute;lirus. O game ainda aumentar&amp;aacute; a abrang&amp;ecirc;ncia de campanhas publicit&amp;aacute;rias veiculadas atrav&amp;eacute;s dos an&amp;uacute;ncios din&amp;acirc;micos nas placas atr&amp;aacute;s do gol (ver imagem &lt;http:&gt;).&lt;br /&gt;&lt;br /&gt;Olivalves ainda ressalta que o objetivo do jogo &amp;eacute; gerar fideliza&amp;ccedil;&amp;atilde;o, fazer o telespectador participar e gerar audi&amp;ecirc;ncia e completa &lt;span style=&quot;font-style: italic;&quot;&gt;&amp;quot;&amp;Eacute; um formato diferenciado e atraente por ser virtual&amp;quot;&lt;/span&gt;. Segundo M&amp;aacute;rcio Dantas, coordenador do desenvolvimento do jogo, para produzir o advergame para a TV foi preciso adequar os gr&amp;aacute;ficos para o formato desta. &lt;span style=&quot;font-style: italic;&quot;&gt;&amp;quot;A interface &amp;eacute; bem diferente da web, jogar com mouse e teclado &amp;eacute; bem diferente do que jogar falando pelo telefone. Os jogos devem ser f&amp;aacute;ceis de entender e r&amp;aacute;pidos, pois o tempo na TV &amp;eacute; curto&amp;quot;&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Al&amp;eacute;m de promover o produto ou marca, empresas que investem nesta divulga&amp;ccedil;&amp;atilde;o diferenciada podem aumentar a audi&amp;ecirc;ncia, tanto no caso da TV como no site. Os jogos simples atraem os p&amp;uacute;blicos mais variados e tem um apelo especial para os jogadores casuais. &lt;span style=&quot;font-style: italic;&quot;&gt;&amp;quot;A fixa&amp;ccedil;&amp;atilde;o da marca na cabe&amp;ccedil;a do cliente em momentos de divers&amp;atilde;o &amp;eacute; a principal vantagem do advergame, que prende a aten&amp;ccedil;&amp;atilde;o do espectador mais do que as m&amp;iacute;dias n&amp;atilde;o interativas&amp;quot;&lt;/span&gt;, diz Penha. Assim, a mistura de an&amp;uacute;ncio publicit&amp;aacute;rio e jogo pode ser um neg&amp;oacute;cio rent&amp;aacute;vel tanto para desenvolvedores quanto para anunciantes.&lt;/http:&gt;&lt;/http:&gt;
+&lt;p&gt;&amp;lt;/http:&amp;gt;&amp;lt;/http:&amp;gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Clubber</title>
+   <link href="http://example.com/2006/06/27/the-clubber"/>
+   <updated>2006-06-27T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/27/the-clubber</id>
+   <content type="html">&lt;p&gt;O professor realizará uma seqüência de movimentos de dança. Cada movimento corresponde a um número do teclado, que aparecerá no centro da tela. Memorize a seqüência e tente repeti-la sem nenhum erro quando estiver na sua vez. &lt;br /&gt;&lt;br /&gt;Cada movimento correto vale 1 ponto e se você acertar a seqüência completa daquela jogada ganhará 5 pontos e ela aumentará em um movimento. Mas se você errar, perderá uma vida.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jogos Completos de Baixo Orçamento, 18 projetos classificados</title>
+   <link href="http://example.com/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados"/>
+   <updated>2006-06-02T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados</id>
+   <content type="html">&lt;p&gt;O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.&lt;br /&gt;&lt;br /&gt;Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Confira a lista dos 18 projetos classificados em ordem alfabética:&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;1 - A Traça Teca - Reconstruindo a História do Brasil&lt;br /&gt;Maíra Valencise Gregolin&lt;br /&gt;Imax Games Entretenimento&lt;br /&gt;São Carlos - SP&lt;br /&gt;&lt;br /&gt;2 - As Aventuras de Kito, o Mico&lt;br /&gt;Augusto César Vilarim Pires&lt;br /&gt;Jynx Playware Ltda&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;3 - CaveDays&lt;br /&gt;Winston George A. Petty&lt;br /&gt;Insólita Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;4 - Deuses do Tabuleiro - O Juízo Final&lt;br /&gt;Archias Alves de Almeida Filho&lt;br /&gt;Devworks Game Technology&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;5 - Direção Furiosa&lt;br /&gt;Davi da Silva Prata&lt;br /&gt;Sant Computação Gráfica&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;6 - Estradas Esburacadas - São Paulo&lt;br /&gt;Sanderson Sousa de Farias&lt;br /&gt;SR-Games&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;7 - La Capitale&lt;br /&gt;Leonardo Pessoa de Moura&lt;br /&gt;Fundação de Fomento à Tecnologia e à Ciência - Virtualize Jogos Eletrônicos (Incubada)&lt;br /&gt;Salvador - BA&lt;br /&gt;&lt;br /&gt;8 - Lobo do Mar: Batalhas Navais para a Libertação da América do Sul&lt;br /&gt;Paulo Candido de Oliveira Filho&lt;br /&gt;Teiaoito Tecnologia Educacional Ltda&lt;br /&gt;São Paulo-SP&lt;br /&gt;&lt;br /&gt;9 - Maggie&lt;br /&gt;Luiz Manoel Gerosa&lt;br /&gt;Interama Jogos Eletrônicos&lt;br /&gt;Vitória-ES&lt;br /&gt;&lt;br /&gt;10 - O Detetive - O Caso Portinari&lt;br /&gt;Tiago Keller Ferreira&lt;br /&gt;Decadium Studios Ltda.&lt;br /&gt;Santa Maria - RS&lt;br /&gt;&lt;br /&gt;11 - Peixis! A disputa Subaquatica!&lt;br /&gt;Wallace Santos Lages&lt;br /&gt;Virsat Sistemas Comerciais&lt;br /&gt;Belo Horizonte - MG&lt;br /&gt;&lt;br /&gt;12 - Shotguns n Goblins - The Shaman will Dead&lt;br /&gt;João Ricardo Bittencourt&lt;br /&gt;Ludens Artis Serviços em Informática Ltda&lt;br /&gt;Gravataí - RS&lt;br /&gt;&lt;br /&gt;13 - Turminha Querubim - Karangas Turbinadas&lt;br /&gt;Clóvis Shimabukuro&lt;br /&gt;Licch - Criação e Desenvolvimento de Materiais Artísticos&lt;br /&gt;Londrina - PR&lt;br /&gt;&lt;br /&gt;14 - Universim&lt;br /&gt;Marco Túlio Caraciolo Ferreira Albuquerque&lt;br /&gt;Manifesto Game Studio&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;15 - V.T.O.L. (Vertical Take Off Landing)&lt;br /&gt;Wagner Carvalho&lt;br /&gt;GreenLang Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;16 - Villa Rica&lt;br /&gt;Alexandre Machado de Sá&lt;br /&gt;44 Bico Largo Multimídia&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;17 - Você é o Chefe (The Chief)&lt;br /&gt;Rogério de Leon Pereira&lt;br /&gt;FourX Development Ltda&lt;br /&gt;Maringá - PR&lt;br /&gt;&lt;br /&gt;18 - Warbots3D&lt;br /&gt;Sérgio Imperatriz&lt;br /&gt;Tempo Soluções em Informática LTDA&lt;br /&gt;Campinas - SP&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Escolha o próximo jogo do Gametrack</title>
+   <link href="http://example.com/2006/06/01/escolha-o-proximo-jogo-do-gametrack"/>
+   <updated>2006-06-01T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/01/escolha-o-proximo-jogo-do-gametrack</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks&lt;/a&gt;
+ colocou uma nova enquete no portal &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=gametrack&quot;&gt;Gametrack&lt;/a&gt;
+ para que os jogadores ajudem a escolher os próximos jogos multiplayer do portal.&lt;br /&gt;&lt;br /&gt;A escolha pode ser de jogos 2D e 3D, sendo oito estilos de jogos para cada um.&lt;br /&gt;&lt;br /&gt;Acesse o &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;link&lt;/a&gt;
+ e faça a sua escolha.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pinogol 3D</title>
+   <link href="http://example.com/2006/05/27/pinogol-3d"/>
+   <updated>2006-05-27T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/27/pinogol-3d</id>
+   <content type="html">&lt;p&gt;Quem nunca jogou pinogol? O clássico jogo de mesa, onde um campo de futebol de madeira é palco para pinos fazerem grandes jogadas. Dois jogadores de cada lado do campo devem dar alguns  &quot;petelecos&quot; na bolinha para tentar marcar gols no adversário.&lt;br /&gt;&lt;br /&gt;A Devworks, da mesma forma que fez com Pebolin 3D, trouxe mais um famoso jogo de mesa sobre futebol para o mundo online do portal Gametrack.&lt;br /&gt;&lt;br /&gt;Em Pinogol 3D, o jogador disputa uma partida com outro jogador online. Cada jogador tem 11 atletas, ou melhor, pinos em seu lado do campo. Para fazer as jogadas, assim como era no jogo convencional, o jogador tem 2 jogadas por turno e deve &quot;bater&quot; na bolinha para tentar fazer o gol. O jogador pode jogar a bolinha contra seus pinos ou contra os pinos do adversário, vale tudo para tentar o gol.&lt;br /&gt;&lt;br /&gt;O jogo conta com um ambiente totalmente 3D, quando o jogador entra numa sala de jogo é transportado para um quarto onde está a mesa do jogo. São 3 câmeras disponíveis: visão superior, visão lateral e uma visão em 3/4. No momento de cada jogada a câmera se posiciona atrás da bolinha e se movimenta conforme a direção na qual o jogador aponta.&lt;br /&gt;&lt;br /&gt;Como todo jogo do portal Gametrack, Pinogol 3D conta com ranking online para você mostrar que também é fera no futebol de pinos.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Devworks lança Pinogol 3D</title>
+   <link href="http://example.com/2006/05/27/devworks-lanca-pinogol-3d"/>
+   <updated>2006-05-27T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/27/devworks-lanca-pinogol-3d</id>
+   <content type="html">&lt;p&gt;Ano de copa também significa muitos jogos de futebol. A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks&lt;/a&gt;
+ lança o multiplayer Pinogol 3D para o portal &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=gametrack&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;br /&gt;&lt;br /&gt;O jogo leva para o computador o clássico jogo de fubebol de pinos. Dois jogadores online disputam partidas em busca de um único objetivo: fazer muitos gols!&lt;br /&gt;&lt;br /&gt;Nessa fase inicial, o jogo estará livre para todos os jogadores do Gametrack.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=410&quot;&gt;Veja o jogo…&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lista de projetos do JogosBR 2005/2006</title>
+   <link href="http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
+   <updated>2006-05-22T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
+   <content type="html">&lt;p&gt;As listas de projetos enviados para os concursos do JogosBR 2005/2006 foi liberada, confira abaixo os gráficos de projetos por estado e as listas completas:
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;span style=&quot;font-weight: bold;&quot;&gt;Jogos Completos de Baixo Orçamento&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;1- A Traça Teca - Reconstruindo a História do Brasil&lt;br /&gt;Imax Games Entretenimento - SP&lt;br /&gt;&lt;br /&gt;2- Animaliens&lt;br /&gt;Dogma Graphics - RJ&lt;br /&gt;&lt;br /&gt;3- As Aventuras de Kiko, o Mico&lt;br /&gt;Jynx Playware Ltda - PE&lt;br /&gt;&lt;br /&gt;4- BAIUKA - Jogo para avaliação de múltiplas inteligências&lt;br /&gt;RKE475 comunicação s\c ltda - PA&lt;br /&gt;&lt;br /&gt;5- Cabo de Guerra (TugWars)&lt;br /&gt;Rage Comunicação Interativa LTDA - RS&lt;br /&gt;&lt;br /&gt;6-Cauim em Amazônia Urgente&lt;br /&gt;AC System Consultoria em Informática Ltda - SP&lt;br /&gt;&lt;br /&gt;7- CaveDays&lt;br /&gt;Insólita Studios - SP&lt;br /&gt;&lt;br /&gt;8- Confederados&lt;br /&gt;Ciclope Ltda - MG&lt;br /&gt;&lt;br /&gt;9- CuanaToon&lt;br /&gt;Calibre Desenvolvimento de Software Ltda - PR&lt;br /&gt;&lt;br /&gt;10- Deuses do Tabuleiro - O Juízo Final&lt;br /&gt;Devworks Game Technology - SP&lt;br /&gt;&lt;br /&gt;11- Direção Furiosa&lt;br /&gt;Sant Computação Gráfica - SP&lt;br /&gt;&lt;br /&gt;12-Eldorado: Em Busca do Tesouro Perdido&lt;br /&gt;Outline Interactive Ltda - AM&lt;br /&gt;&lt;br /&gt;13- Estradas Esburacadas - São Paulo&lt;br /&gt;SR-Games-SP&lt;br /&gt;&lt;br /&gt;14- Fórmula Brasil&lt;br /&gt;LGB Consultores Associados Ltda - RS&lt;br /&gt;&lt;br /&gt;15- Formula S&lt;br /&gt;Public Object Informática Ltda - PR&lt;br /&gt;&lt;br /&gt;16- Jogo do Arraial&lt;br /&gt;Mega Finish LTDA - SP&lt;br /&gt;&lt;br /&gt;17- La Capitale&lt;br /&gt;Fundação de Fomento à Tecnologia e à Ciência - Virtualize Jogos Eletrônicos (Incubada) - BA&lt;br /&gt;&lt;br /&gt;18- Lobo do Mar: batalhas navais para a libertação da América do Sul&lt;br /&gt;Teiaoito Tecnologia Educacional Ltda - SP&lt;br /&gt;&lt;br /&gt;19- Maggie&lt;br /&gt;Interama Jogos Eletrônicos - ES&lt;br /&gt;&lt;br /&gt;20- O Detetive - O Caso Portinari&lt;br /&gt;Decadium Studios Ltda. - RS&lt;br /&gt;&lt;br /&gt;21- Peixis! A disputa subaquatica!&lt;br /&gt;Virsat Sistemas Comerciais - MG&lt;br /&gt;&lt;br /&gt;22- Portal&lt;br /&gt;Katecnet Comercio e Serviços de Inf. Ltda - CE&lt;br /&gt;&lt;br /&gt;23- Shotguns n Goblins - The Shaman will Dead&lt;br /&gt;Ludens Artis Serviços em Informática Ltda - RS&lt;br /&gt;&lt;br /&gt;24- The Xtremers&lt;br /&gt;Tibet Filme - RJ&lt;br /&gt;&lt;br /&gt;25- Turminha Querubim - Karangas Turbinadas&lt;br /&gt;Licch - Criação e Desenvolvimento de Materiais Artísticos - PR&lt;br /&gt;&lt;br /&gt;26- Universim&lt;br /&gt;Manifesto Game Studio - PE&lt;br /&gt;&lt;br /&gt;27- V.T.O.L. (Vertical Take Off Landing)&lt;br /&gt;GreenLang Studios - SP&lt;br /&gt;&lt;br /&gt;28- Villa Rica&lt;br /&gt;44 Bico Largo Multimídia - SP&lt;br /&gt;&lt;br /&gt;29 -Você é o Chefe (The Chief)&lt;br /&gt;FourX Development Ltda - PR&lt;br /&gt;&lt;br /&gt;30- Warbots3D&lt;br /&gt;Tempo Soluções em Informática LTDA - SP&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;span style=&quot;font-weight: bold;&quot;&gt;Projetos de Demos Jogáveis&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;1- Clóviz- DF&lt;br /&gt;2- 1000 Gols: Um Craque Virtual - PR&lt;br /&gt;3- A Era da Razão - RS&lt;br /&gt;4- Acauã: O Resgate das Lendas Brasileiras - BA&lt;br /&gt;5- Agentes Secretos - SP&lt;br /&gt;6- Almas de Miliath -SP&lt;br /&gt;7- Alpha - SP&lt;br /&gt;8- Amazônia - O Feitiço das Águas - RJ&lt;br /&gt;9-Amazônia Brasil -SP&lt;br /&gt;10-Amazônia Vermelha -PR&lt;br /&gt;11-Anagramas do Professor Corujoão -PE&lt;br /&gt;12-Anjos em Batalha -PR&lt;br /&gt;13-Aorta -SP&lt;br /&gt;14-ARARA, O JOGO -PA&lt;br /&gt;15-Aruanda: aprendendo com os Orixás -BA&lt;br /&gt;16-As Aventuras de Davi -BA&lt;br /&gt;17-As aventuras de Vitinho no Folclore Brasileiro -RJ&lt;br /&gt;18-AuZar, em Busca de Osíris -RS&lt;br /&gt;19-Azura Redemption -MS&lt;br /&gt;20-Big Bang -SP&lt;br /&gt;21-BiXo -SP&lt;br /&gt;22-Boomwar -PR&lt;br /&gt;23-Brasil Combat: Resgate Alien -SP&lt;br /&gt;24-Brasilia Tropicalis -RJ&lt;br /&gt;25-Braventuras -RJ&lt;br /&gt;26-Cangaço -RS&lt;br /&gt;27-Carnaval -RS&lt;br /&gt;28-Cataclisma -DF&lt;br /&gt;29-CineFalcatrua S.A. -RS&lt;br /&gt;30-Cofre das Trevas -SP&lt;br /&gt;31-Conspiração Dumont -RJ&lt;br /&gt;32-Cool (Colegial OnLine) -PR&lt;br /&gt;33-Copa Brasil de Turismo -RS&lt;br /&gt;34-Dalirius -SP&lt;br /&gt;35-Detetive BR -SC&lt;br /&gt;36-Dó Ré Mi Fábula -SP&lt;br /&gt;37-É GOL! -SP&lt;br /&gt;38-Em Trânsito -SP&lt;br /&gt;39-Escovadaço -SP&lt;br /&gt;40-Fábrica de Tudo -PE&lt;br /&gt;41-Flora-RJ&lt;br /&gt;42-Formula Galaxy -SP&lt;br /&gt;43-Fórmula Galaxy -MG&lt;br /&gt;44-Fórmula Galaxy -SP&lt;br /&gt;45-Fronteira -RS&lt;br /&gt;46-FRONTEIRA -SP&lt;br /&gt;47-Fuga de Anhatomirim -SC&lt;br /&gt;48-Fúria Verde -MT&lt;br /&gt;49-Futebol de Botão -RJ&lt;br /&gt;50-Futebol de Botão -RJ&lt;br /&gt;51-Game do Curt-RS&lt;br /&gt;52-Game Engine de Luta 2D Multiplataforma : Demo Fight-SP&lt;br /&gt;53-General Helix - A Conspiração de Agamamus -SP&lt;br /&gt;54-GuardianBot -CE&lt;br /&gt;55-HARPAZO - Guerra nas Regiões Celestiais -SP&lt;br /&gt;56-Harpia Velocidade Máxima -SP&lt;br /&gt;57-Hiparcus – Expedições Arqueológicas -PE&lt;br /&gt;58-Humatronic - Evolução dos robôs -SP&lt;br /&gt;59-Império em Guerra-MG&lt;br /&gt;60-Índios -SP&lt;br /&gt;61-Inferno -PR&lt;br /&gt;62-Jogo dos Erros -SP&lt;br /&gt;63-Kalua: Start-Up Tycoon -SP&lt;br /&gt;64-Kuran -SP&lt;br /&gt;65-Labirintus Minotaurus Eletronicus -SC&lt;br /&gt;66-Lendas Animadas -RJ&lt;br /&gt;67-Léx -ES&lt;br /&gt;68-Magnata do Podrão-RJ&lt;br /&gt;69-Memo Yumi, um aprendiz do Horóscopo Chinês -PR&lt;br /&gt;70-metal gear 4 -SP&lt;br /&gt;71-Missão Marte-SP&lt;br /&gt;72-Música S.A -PR&lt;br /&gt;73-MúsicoSIM! -BA&lt;br /&gt;74-NASCIDO HÁ DEZ MIL ANOS ATRÁS -SP&lt;br /&gt;75-NaveXXX -SP&lt;br /&gt;76-Noite Mitológica Brasileira-RJ&lt;br /&gt;77-Nova Genesis -PR&lt;br /&gt;78-O Cara com a Pá -SP&lt;br /&gt;79-O Decreto de Ansar -SP&lt;br /&gt;80-O Mistério do Vôo sem Planos-RJ&lt;br /&gt;81-O NÁUFRAGO -SP&lt;br /&gt;82-O Rapto dos Sacis-RJ&lt;br /&gt;83-Operação Shogun -PR&lt;br /&gt;84-Os Discípulos do Crime -RJ&lt;br /&gt;85-Os homens das cavernas -SP&lt;br /&gt;86-Pain -SP&lt;br /&gt;87-Pátria Amada -SP&lt;br /&gt;88-Peixis! Uma disputa subaquática! -MG&lt;br /&gt;89-Perdidos no Marajó -PA&lt;br /&gt;90-Piolhos - um jogo com os pés na cabeça -SP&lt;br /&gt;91-Pipa3D -SP&lt;br /&gt;92-Plano Piloto - O Desafio de uma Nova Capital -DF&lt;br /&gt;93-POKEMATS - O Desafio das Operações Matemáticas -MG&lt;br /&gt;94-Prego Futebol -BA&lt;br /&gt;95-Projeto FRONTEIRA -PR&lt;br /&gt;96-Projeto Gênesis -DF&lt;br /&gt;97-Quilombo -SC&lt;br /&gt;98-RBTV – Rede Brasil de Televisão -SP&lt;br /&gt;99-RESGATE FATAL -SP&lt;br /&gt;100-Roça em Pé de Guerra -PE&lt;br /&gt;101-Sangue Indígena -SP&lt;br /&gt;102-Santos Dumont – A Conquista do Ar -SP&lt;br /&gt;103-Search Underground-SC&lt;br /&gt;104-Senciente -PI&lt;br /&gt;105-Synapses -SC&lt;br /&gt;106-Tartaruga -SP&lt;br /&gt;107-TAxiBR -DF&lt;br /&gt;
+108-The Weird Adventures of Verdox the Greenish -MG&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;109-The Xtremers contra o Ciborgue DX-RJ&lt;br /&gt;110-Transeunte -PE&lt;br /&gt;111-TRANSEUNTE -SP&lt;br /&gt;112-Transportando o Brasil -PR&lt;br /&gt;113-Trem de Doido -MG&lt;br /&gt;114-Três Dentro, Três Fora -PE&lt;br /&gt;115-Uma aventura na Amazônia -RS&lt;br /&gt;116-Viagem Pelo Corpo Humano - Uma Aventura 3D-PR&lt;br /&gt;117-Vingador do Espaço-BA&lt;br /&gt;118-VirtuaChess -SP&lt;br /&gt;119-Zaori -SP&lt;br /&gt;120-Zumbi, o rei dos Palmares -SP&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagem&Ação do Gametrack</title>
+   <link href="http://example.com/2006/05/08/imagemacao-do-gametrack"/>
+   <updated>2006-05-08T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/08/imagemacao-do-gametrack</id>
+   <content type="html">&lt;p&gt;O jogo Imagem&amp;amp;Ação faz sucesso há duas décadas, sabendo disso a &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks&lt;/a&gt;
+ fez o porte de mais esse clássico jogo de tabuleiro para o seu portal de jogos online &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=gametrack&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;br /&gt;&lt;br /&gt;Imagem&amp;amp;Ação mantém todas as regras do jogo tradicional, o que garante muita diversão por horas afio.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=376&quot;&gt;Veja o jogo …&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagem&Ação</title>
+   <link href="http://example.com/2006/05/07/imagemacao"/>
+   <updated>2006-05-07T00:00:00-03:00</updated>
+   <id>http://example.com/2006/05/07/imagemacao</id>
+   <content type="html">&lt;p&gt;Imagem&amp;amp;Ação foi criado há 20 anos por um garçom de 24 anos de Seatle. O jogo sempre conquistou muitos fãs durante todos esses anos e foi trazido ao Brasil pela Grow. Imagem&amp;amp;Ação é considerado um dos mais populares jogos do mundo, com mais de 30 milhões de cópias vendidas. &lt;br /&gt;&lt;br /&gt;O jogo online para Imagem&amp;amp;Ação do portal Gametrack segue a mesma fórmula do jogo de tabuleiro: duas equipes, entre 4 a 8 jogadores,  tentam chegar com o seu peão na última casa do tabuleiro, para  movimentar o peão pelo tabuleiro um membro de cada equipe tem que fazer desenhos para que os outros participantes da equipe tentem, através do chat, adivinhar a palavra sorteada. As palavras sorteadas variam em 6 categorias:&lt;br /&gt;&lt;br /&gt;Pessoa, lugar ou animal (incluindo suas partes e características)&lt;br /&gt;Objeto (coisas que podem ser vistas ou tocadas)&lt;br /&gt;Ação (verbos ou expressões que designam uma ação)&lt;br /&gt;Difícil (palavras ou expressões difíceis de todas as categorias)&lt;br /&gt;Lazer (nomes de filmes, livros, esportes etc.)&lt;br /&gt;Mix (palavras de qualquer categoria).&lt;br /&gt;&lt;br /&gt;As disputas podem ser feitas com as duas equipes tentando adivinhar a palavra ao mesmo tempo ou com cada equipe na sua vez.&lt;br /&gt;&lt;br /&gt;Imagem&amp;amp;Ação do portal Gametrack conseguiu manter a diversão e alegria das partidas do jogo clássico. E não pense que você precisa ser desenhista para se dar bem em Imagem&amp;amp;Ação, basta usar a criatividade e se divertir a vontade.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Arco e Flecha</title>
+   <link href="http://example.com/2006/04/30/arco-e-flecha"/>
+   <updated>2006-04-30T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/30/arco-e-flecha</id>
+   <content type="html">&lt;p&gt;É hora de demonstrar seu valor como um respeitável arqueiro. &lt;br /&gt;Com apenas 10  flechas e um arco, seu objetivo é simples: acertar todas as flechas na parte  mais central do alvo. Mas, nesta tarefa, deverá superar até o fenômeno do vento,  que atrapalhará sua mira de acordo com a intensidade e direção. &lt;br /&gt;Então mostre  logo seu nível de pontaria e do que você é capaz!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Prévia de Pinogol 3D</title>
+   <link href="http://example.com/2006/04/26/previa-de-pinogol-3d"/>
+   <updated>2006-04-26T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/26/previa-de-pinogol-3d</id>
+   <content type="html">&lt;p&gt;O jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=futebol&quot;&gt;futebol&lt;/a&gt;
+ com pinos é uma das próximas atrações do portal &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=gametrack&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;br /&gt;&lt;br /&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks&lt;/a&gt;
+ liberou as primeiras informações sobre o jogo. Pinogol 3D será mais um jogo multiplayer do portal.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=360&quot;&gt;Veja a prévia…&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pinogol 3D</title>
+   <link href="http://example.com/2006/04/26/pinogol-3d"/>
+   <updated>2006-04-26T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/26/pinogol-3d</id>
+   <content type="html">&lt;p&gt;Lembra daquele jogo de futebol de pinos, onde se batia na bolinha com um palito de picolé?&lt;br /&gt;&lt;br /&gt;A Devworks se lembra muito bem, tanto que Pinogol 3D, um dos próximos jogos multiplayer do portal Gametrack, recriará esse jogo num ambiente 3D online.&lt;br /&gt;&lt;br /&gt;Dois jogadores estarão em campo com um único objetivo: fazer gols. Para isso, cada jogador terá o direito de dar 2 toques na bola em cada rodada, podendo definir o ângulo e força. &lt;br /&gt;&lt;br /&gt;Será possível escolher entre vários tipos de câmeras diferentes.&lt;br /&gt;&lt;br /&gt;Confira abaixo a única imagem liberada sobre Pinogol 3D:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Anunciado Pinogol 3D para o Gametrack</title>
+   <link href="http://example.com/2006/04/13/anunciado-pinogol-3d-para-o-gametrack"/>
+   <updated>2006-04-13T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/13/anunciado-pinogol-3d-para-o-gametrack</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks Game Technology&lt;/a&gt;
+ liberou as primeiras informações do próximo jogo multiplayer do portal &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=gametrack&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;br /&gt;&lt;br /&gt;Pinogol 3D é um jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=7&quot;&gt;futebol&lt;/a&gt;
+ de pinos 3D, onde cada jogador controla seu time de pinos com o objetivo de marcar gols contra o adversário.&lt;br /&gt;&lt;br /&gt;Em breve, no &lt;span style=&quot;font-weight: bold; color: rgb(255, 153, 0);&quot;&gt;jogosdaqui&lt;/span&gt;, mais informações sobre Pinogol 3D.&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lance Livre</title>
+   <link href="http://example.com/2006/04/08/lance-livre"/>
+   <updated>2006-04-08T00:00:00-03:00</updated>
+   <id>http://example.com/2006/04/08/lance-livre</id>
+   <content type="html">&lt;p&gt;Mostre toda a sua habilidade no basquete.&lt;br /&gt;&lt;br /&gt;Seu objetivo é fazer o maior número de cestas que conseguir. Você receberá inicialmente 5 bolas. Primeiro, selecione a direção da bola e depois a força com que você vai jogar. Se você acertar a cesta, ganhará 1 ponto e uma bola extra.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rummikub entra em fase beta no Gametrack</title>
+   <link href="http://example.com/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack"/>
+   <updated>2006-03-20T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks&lt;/a&gt;
+ colocou no ar o beta de Rummikub.&lt;br /&gt;&lt;br /&gt;Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o &quot;World Rummikub Champioship&quot; e há possibilidade da seletiva brasileira ser realizada no Gametrack.&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.gametrack.com.br&quot;&gt;Confira o jogo Rummikub no portal Gametrack…&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Truco</title>
+   <link href="http://example.com/2006/03/14/truco"/>
+   <updated>2006-03-14T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/14/truco</id>
+   <content type="html">&lt;p&gt;O Truco do portal Gametrack é um jogo singleplayer que segue todas as regras do truco real.&lt;br /&gt;&lt;br /&gt;O jogo tem um charme especial por aliar um famoso jogo de carta com um estilo mais jovem. A trilha sonora, as imagens e animações seguem este estilo.&lt;br /&gt;&lt;br /&gt;No jogo você disputa as partidas contra uma dupla de jogadores controlados pelo computador e tem um parceiro de dupla, também controlado pelo computador, para realizar as jogadas.&lt;br /&gt;&lt;br /&gt;Todos os lances do truco estão no jogo. O jogador pode pedir truco e até passar dicas de como está a sua &quot;mão&quot; para o parceiro da dupla.&lt;br /&gt;&lt;br /&gt;Cada lance decisivo é acompanhado por uma animação dos jogadores da mesa..&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Ponte</title>
+   <link href="http://example.com/2006/03/08/a-ponte"/>
+   <updated>2006-03-08T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/08/a-ponte</id>
+   <content type="html">&lt;p&gt;Sua floresta está sendo invadida por pessoas que querem desfrutar das riquezas naturais extintas que você possui. Para isso, você é encarregado de controlar um canhão e derrubar essas pessoas num ponto estratégico de sua área: uma ponte.&lt;br /&gt;&lt;br /&gt;Contando apenas com seu canhão, você deverá derrubar todos os intrusos antes que eles ultrapassem para o outro lado. A persistência deles é grande, e mesmo depois de um tiro podem não se render e se segurar na ponte!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Conecta 4 - Experience</title>
+   <link href="http://example.com/2006/03/04/conecta-4-experience"/>
+   <updated>2006-03-04T00:00:00-03:00</updated>
+   <id>http://example.com/2006/03/04/conecta-4-experience</id>
+   <content type="html">&lt;p&gt;Conecta 4 - Experience é um jogo de quebra-cabeça, onde o nome já diz a regra: o jogador deve conectar quatro amebas (isso mesmo, amebas) em linha, coluna ou diagonal.&lt;br /&gt;&lt;br /&gt;O grande desafio de Conecta 4 - Experience é que o jogador não joga sozinho como na maioria dos jogos de quebra-cabeça. As disputas são realizadas contra o computador, o jogador tenta conectar quatro amebas e evitar que o computador conecte as suas amebas, o computador faz o mesmo.&lt;br /&gt;&lt;br /&gt;A IA proporciona um bom desafio e faz aumentar o fator de diversão do jogo.&lt;br /&gt;&lt;br /&gt;Conecta 4 - Experience está disponível no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pedreiro Polar</title>
+   <link href="http://example.com/2006/02/07/pedreiro-polar"/>
+   <updated>2006-02-07T00:00:00-02:00</updated>
+   <id>http://example.com/2006/02/07/pedreiro-polar</id>
+   <content type="html">&lt;p&gt;Você é um construtor de iglus e precisa prepará-los com os blocos de neve. O problema é que é necessário atravessar o rio gelado levando apenas um bloco por vez até o iglu.&lt;br /&gt;&lt;br /&gt;Cuidado para não cair no rio e perder uma vida. Outros perigos como bolas de neve e pinguins muito bravos precisam ser evitados também.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Faroeste</title>
+   <link href="http://example.com/2006/02/03/faroeste"/>
+   <updated>2006-02-03T00:00:00-02:00</updated>
+   <id>http://example.com/2006/02/03/faroeste</id>
+   <content type="html">&lt;p&gt;Em uma pequena cidade do velho oeste, sua missão é ajudar o Xerife a prender os bandidos.&lt;br /&gt;&lt;br /&gt;A tarefa não será fácil, pois você deverá participar de um duelo com cada um deles. Porém, só é permitido atirar em legítima defesa, ou você será preso. Você terá apenas uma bala para cada bandido. Portanto, fique atento aos movimentos do bandido e seja rápido!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Novidades no Gametrack</title>
+   <link href="http://example.com/2006/01/26/novidades-no-gametrack"/>
+   <updated>2006-01-26T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/26/novidades-no-gametrack</id>
+   <content type="html">&lt;p&gt;Dois novos jogos foram colocados no ar no portal &lt;a target=&quot;_blank&quot; href=&quot;http://www.gametrack.com.br&quot;&gt;Gametrack&lt;/a&gt;
+. &lt;br /&gt;&lt;br /&gt;Na parte de jogos multiplayer temos uma versão beta do famoso jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=15&quot;&gt;tabuleiro&lt;/a&gt;
+ Imagem&amp;amp;Ação. Nos jogos singleplayer a novidade fica por conta do &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=12&quot;&gt;quebra-cabeça&lt;/a&gt;
+ Sudoku.&lt;br /&gt; &lt;br /&gt;Em breve a &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks Game Technology&lt;/a&gt;
+ deve colocar no ar uma versão beta do jogo Rummikub, um dos mais populares jogos de tabuleiro em todo mundo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Embaixadinha</title>
+   <link href="http://example.com/2006/01/26/embaixadinha"/>
+   <updated>2006-01-26T00:00:00-02:00</updated>
+   <id>http://example.com/2006/01/26/embaixadinha</id>
+   <content type="html">&lt;p&gt;Mostre toda a sua habilidade nas embaixadinhas!&lt;br /&gt;&lt;br /&gt;Você terá apenas um minuto para dar seu show. São 11 tipos de movimentos para você impressionar o público. O movimento realizado depende da posição em que está a bola quando você chuta. Tente não deixar a bola cair! Quanto mais toques seguidos você conseguir, maior será sua pontuação. Você poderá ganhar bônus se fizer algumas seqüências especiais.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vôlei de Praia</title>
+   <link href="http://example.com/2005/12/26/volei-de-praia"/>
+   <updated>2005-12-26T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/26/volei-de-praia</id>
+   <content type="html">&lt;p&gt;Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
+. Vôlei de Praia faz o maior sucesso entre os jogadores do portal.&lt;/p&gt;
+
+&lt;p&gt;O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas diferenças: existe apenas um jogador de cada lado da rede e a bola pode quicar no lado adversário. A cada toque no solo, a barra de energia do jogador diminui, assim quanto mais “venenosa” for a sua jogada pior será para o seu adversário retornar a bola.&lt;/p&gt;
+
+&lt;p&gt;Os jogadores podem dar saltos gigantescos, super cortadas e usar as paredes da tela para rebater a bola.&lt;/p&gt;
+
+&lt;p&gt;Os gráficos possuem um ar de desenho animado e algumas telas mostram tribais que combinam muito bem com o clima do jogo. O som é suave e está no lugar certo: não distrai o jogador do principal, que é a jogabilidade e a diversão fácil.&lt;/p&gt;
+
+&lt;p&gt;O jogo conta com 6 fases com dificuldade crescente. Perdendo apenas uma partida, perde-se o jogo, e isto acaba tornando a tarefa de chegar ao fim, muito difícil.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bears & Bees</title>
+   <link href="http://example.com/2005/12/17/bears-bees"/>
+   <updated>2005-12-17T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/17/bears-bees</id>
+   <content type="html">&lt;p&gt;Bears &amp;amp; Bees da &lt;a href=&quot;http://www.devworks.com.br/&quot; target=&quot;_blank&quot;&gt;DevWorks &lt;/a&gt;
+éum jogo estilo quebra-cabeça onde o jogador precisa alimentar um urso feroz e faminto com mel, muito mel.&lt;/p&gt;
+
+&lt;p&gt;Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 3 favos de mel em forma de triângulo, toda vez que isso acontece o pote de mel do urso recebe mais mel.&lt;/p&gt;
+
+&lt;p&gt;O jogador também pode fazer combos o que faz com que o pote de mel chegue no nível esperado mais rápido.&lt;/p&gt;
+
+&lt;p&gt;O jogo possui dois modos: Arcade Mode e Puzzle Mode. No arcade mode o que vale é a velocidade, nunca deixando o urso com fome. No puzzle mode, o importante é fazer as melhores jogadas para passar ao próximo nível.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Zôo</title>
+   <link href="http://example.com/2005/12/09/zoo"/>
+   <updated>2005-12-09T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/09/zoo</id>
+   <content type="html">&lt;p&gt;Precisa-se de um zelador! Nós do zoológico &lt;a href=&quot;http://www.devworks.com.br/celular/br/zoo.htm&quot; target=&quot;_blank&quot;&gt;Zôo&lt;/a&gt;
+ estamos procurando um novo zelador para alimentar nossos animais.&lt;/p&gt;
+
+&lt;h2 id=&quot;sua-missão-como-zelador-do-zôo&quot;&gt;Sua missão como zelador do Zôo&lt;/h2&gt;
+&lt;p&gt;Se aceitar o emprego, sua principal missão será entregar a comida dos animais em suas jaulas, não deixando nenhum deles adoecer ou morrer de fome.&lt;/p&gt;
+
+&lt;p&gt;Você deverá percorrer o zoológico empurrando seu carrinho de comida e entregando a comida na jaula de cada animal. O candidato deve gostar de desafios crescentes, pois estamos sempre comprando novos animais. Lembre-se, um animal bem alimentado é um animal feliz!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entrevista: Gametrack</title>
+   <link href="http://example.com/2005/11/14/entrevista-gametrack"/>
+   <updated>2005-11-14T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/14/entrevista-gametrack</id>
+   <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;Gametrack&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O Gametrack é um portal produzido e mantido pela desenvolvedora brasileira Devworks Game Technology. Possui conteúdo exclusivo, como por exemplo a versão online do famoso WAR, jogo de tabuleiro da Grow que já fazia muito sucesso na sua forma convencional e que vem mantendo esse sucesso na forma online.&lt;/p&gt;
+
+&lt;p&gt;O portal também possui outros jogos, esses jogos só podem ser encontrados no portal e são desenvolvidos pela própria Devworks.&lt;/p&gt;
+
+&lt;p&gt;O site jogosdaqui entrevistou Marcelo Carvalho (um dos fundadores da Devworks) sobre o portal.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-surgiu-a-idéia-de-desenvolver-o-gametrack&quot;&gt;Como surgiu a idéia de desenvolver o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Temos essa idéia há mais de 3 anos. Mas estávamos aguardando o momento certo para lançá-la. Os números de usuários de banda larga estão cada vez mais significativos e sentimos que era o momento certo. A idéia surgiu do seguinte fato. Os ‘core gamers’ tem várias opções online incluindo servidores de jogos famosos como Counter Strike ou Battlefield. Os jogadores casuais que acessam por internet discada também tem inúmeras opções de sites que oferecem grande quantidade de jogos simples. Mas os jogadores casuais que possuem banda larga, tem todos os recursos para jogar jogos melhores, mas acabavam não sendo atendidos adequadamente por nenhum dos 2 grupos anteriores. O Gametrack foi criado para esse público. Um público de mais de 5 milhões de pessoas. Normalmente composto por jogadores com idades que variam dos 20 aos 45 anos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quais-são-os-maiores-atrativos-do-gametrack-para-o-jogador-de-banda-larga&quot;&gt;Quais são os maiores atrativos do Gametrack para o jogador de banda larga?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: No Gametrack, esqueça os joguinhos de sempre que você encontra em qualquer site. Nosso foco é em conteúdo exclusivo, muitas vezes inédito. Também vamos procurar explorar cada vez mais os recursos disponíveis para os jogadores produzindo jogos 3D, jogos com mais recursos visuais/sonoros e jogos em tempo real (em contraste com os tradicionais jogos baseados em turnos)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;hoje-o-gametrack-possui-2-jogos-multiplayer-war-e-super-trunfo-ambos-versões-online-de-jogos-de-sucesso-da-grow-os-jogadores-podem-esperar-mais-jogos-convencionais-sendo-portados-para-o-gametrack&quot;&gt;Hoje o Gametrack possui 2 jogos multiplayer: WAR e Super Trunfo, ambos versões online de jogos de sucesso da Grow. Os jogadores podem esperar mais jogos convencionais sendo ‘portados’ para o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sem dúvida. Tem mais 2 jogos famosos na fila: Imagem&amp;amp;Ação e Rummikub (um dos jogos mais vendidos do mundo). O Imagem&amp;amp;Ação é um desses jogos que o jogador só vai conseguir jogar adequadamente se possuir banda larga, pois enquanto um está desenhando, os outros estão tentando adivinhar a resposta. Do Rummikub, ainda não posso dar muitos detalhes, mas no ano quem vem terá o &quot;World Rummikub Champioship&quot; na Holanda (Evento realizado a cada 3 anos) e as chances são grandes de a seletiva brasileira ser realizada no Gametrack.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Trunfo: mais um jogo famoso &quot;portado&quot; para o Gametrack &lt;/span&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;além-dos-jogos-multiplayer-o-portal-também-conta-com-6-jogos-singleplayer-vôlei-de-praia-pato-possante-pebolim-3d-xadrez-reversi-e-jogo-de-cintura-o-que-o-jogador-pode-esperar-de-cada-um-desses-jogos&quot;&gt;Além dos jogos multiplayer, o portal também conta com 6 jogos singleplayer: Vôlei de Praia, Pato Possante, Pebolim 3D, Xadrez, Reversi e Jogo de Cintura. O que o jogador pode esperar de cada um desses jogos?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: São jogos divertidos. E o pessoal tem jogado principalmente o Vôlei de praia e o Xadrez (que tem uma Inteligência Artificial bastante desafiadora). Pretendemos colocar mais 4 jogos single-player no ar até o final do ano, incluindo o jogo de Dominó. A tendência é produzir jogos mais complexos no futuro, mas o foco inicial dessa complexidade é nos jogos multiplayer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quais-os-jogos-de-maior-sucesso-entre-os-jogadores-do-gametrack&quot;&gt;Quais os jogos de maior sucesso entre os jogadores do Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sem dúvida, é o jogo de WAR. Foram criadas até comunidades do Orkut para quem joga WAR no Gametrack. São mais de 7 que temos notícias. Uma delas, a &quot;Eu jogo war no Gametrack&quot;, tem mais de 150 membros.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2005/11/14/entrevista-gametrack/war.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;WAR: o jogo de maior sucesso no Gametrack &lt;/span&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;um-campeonato-de-war-online-seria-bem-divertido-o-gametrack-promove-alguma-forma-de-campeonatos-entre-os-jogadores-do-portal&quot;&gt;Um campeonato de WAR online seria bem divertido, o Gametrack promove alguma forma de campeonatos entre os jogadores do portal?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Ainda não estamos promovendo, mas pretendemos realizar campeonatos no futuro. Mesmo não sendo organizado por nós, já há um campeonato em vias de começar. Uma comunidade do Orkut está organizando um grande campeonato de WAR que vai começar no dia 19/11. É a comunidade &quot;Campeonato de WAR no Gametrack&quot; que tem limite de 128 participantes. Não estamos participando da organização, mas ficamos muito felizes que os jogadores estejam se organizando.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;como-o-jogador-tem-acesso-aos-jogos-do-gametrack-quais-são-as-formas-de-pagamento&quot;&gt;Como o jogador tem acesso aos jogos do Gametrack? Quais são as formas de pagamento?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: São basicamente 2 formas: o &quot;Entrada Livre&quot; e o &quot;Gametrack VIP&quot;. O primeiro é através do telefone. O jogador disca um número local e deixa o telefone fora do gancho enquanto joga, pagando apenas a ligação local. Para quem vai jogar mais de 5 horas por mês, o ideal é o &quot;Gametrack VIP&quot; que funciona com uma assinatura e tem planos de valores diferentes, mas o mais utilizado é a assinatura trimestral onde o jogador paga R$9,90/mês. Optamos por esses modelos, pois assim podemos oferecer um serviço muito superior a outros sites. E continuar produzindo jogos de qualidade, enquanto o jogador paga menos que uma entrada de cinema e se diverte por um muito mais tempo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;a-devworks-está-desenvolvendo-novos-jogos-para-o-gametrack&quot;&gt;A Devworks está desenvolvendo novos jogos para o Gametrack?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Marcelo Carvalho: Sim, nos próximos 3 meses, colocaremos mais 4 jogos single-player no ar e mais 2 jogos multiplayer. No que vem, traremos MUITAS surpresas boas para os assinantes do portal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Primeiras imagens de Gods of The Virtual Boards</title>
+   <link href="http://example.com/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards"/>
+   <updated>2005-10-22T00:00:00-02:00</updated>
+   <id>http://example.com/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards</id>
+   <content type="html">&lt;p&gt;Um jogo baseado nas previsões de Nostradamus, este é Gods of The Virtual Boards.
+O jogo está sendo desenvolvido pela Devworks Technology e tem previsão de lançamento para novembro de 2006.&lt;/p&gt;
+
+&lt;p&gt;O jogador deverá enfrentar Hazard, Gloria, Zulu, Piatã, Volutia, Oden e Uxy em tabuleiros virtuais espalhados pelo mundo. Destaque para Piatã, o Deus responsável pela arte e estratégia das guerras. O seu tabuleiro se encontra no meio da floresta amazônica e aguarda o jogador para uma luta de centauros.&lt;/p&gt;
+
+&lt;p&gt;O trailer do jogo, que pode ser baixado &lt;a href=&quot;http://www.devworks.com.br/pc/gods.wmv&quot;&gt;aqui&lt;/a&gt;
+&lt;a href=&quot;http://www.devworks.com.br/pc/gods.wmv&quot;&gt;,&lt;/a&gt;
+ já demonstra a alta qualidade gráfica que podemos esperar quando Gods of The Virtual Boards for lançado.&lt;/p&gt;
+
+&lt;p&gt;Fique com as imagens do jogo em desenvolvimento:&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>

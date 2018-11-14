@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - keeplay</title>
+ <link href="http://example.com/tags/keeplay/index.xml" rel="self"/>
+ <link href="http://example.com/tag/keeplay.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/keeplay.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>December 21st</title>
+   <link href="http://example.com/2013/02/13/december-21st"/>
+   <updated>2013-02-13T00:00:00-02:00</updated>
+   <id>http://example.com/2013/02/13/december-21st</id>
+   <content type="html">&lt;p&gt;Como um fã de bom puzzles, sempre fico feliz ao jogar games como o December 21st da brasileira &lt;a href=&quot;http://www.keeplay.com&quot; target=&quot;_blank&quot;&gt;Keeplay&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Na história desse game com desafios estilo Sokoban, os Maias fizeram uma previsão de que um meteoro colidiria com a Terra no último dia 21 de dezembro, mas, além da previsão, eles também criaram uma forma de evitar a destruição do planeta.&lt;/p&gt;
+
+&lt;p&gt;O jogador controla um Xamã Maia através 5 templos, cada um deles contendo diversas câmaras, totalizando 100 câmaras diferentes, em cada uma delas ele deve mover totens para posições marcadas no chão, quando todos os totens estiverem nas posições corretas a porta da câmara se abre levando para a próxima fase.&lt;/p&gt;
+
+&lt;p&gt;O jogo utiliza o clássico sistema de pontuação baseado em três estrelas e além disso possui uma ajuda que pode mostrar como resolver o quebra-cabeça. Também possui 10 achievements a serem desbloqueados e leaderboard integrado ao Game Center, no caso da versão para iOS.&lt;/p&gt;
+
+&lt;p&gt;December 21st é um puzzle com belos gráficos 3D e um gameplay fácil de gostar. Com suas 100 fases é diversão por um bom tempo!&lt;/p&gt;
+
+&lt;p&gt;Você pode encontrar o game para &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.keeplay.december21st&amp;amp;hl=en&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
+ e &lt;a href=&quot;https://itunes.apple.com/us/app/december-21st/id540135951?mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
+ (universal).&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

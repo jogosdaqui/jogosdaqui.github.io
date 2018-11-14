@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - playmove</title>
+ <link href="http://example.com/tags/playmove/index.xml" rel="self"/>
+ <link href="http://example.com/tag/playmove.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/playmove.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Xmile e Playmove firmam parceria</title>
+   <link href="http://example.com/2015/09/30/xmile-e-playmove-firmam-parceria"/>
+   <updated>2015-09-30T00:00:00-03:00</updated>
+   <id>http://example.com/2015/09/30/xmile-e-playmove-firmam-parceria</id>
+   <content type="html">&lt;p&gt;Em julho passado &lt;a href=&quot;/2015/07/20/playtable-busca-desenvolvedores/&quot;&gt;falamos aqui no jogosdaqui&lt;/a&gt;
+ que a catarinense PlayMove estava abrindo o cadastro para empresas interessadas em produzir jogos para sua PlayTable, primeira mesa digital com jogos educativos do Brasil.&lt;/p&gt;
+
+&lt;h2 id=&quot;xmile-e-playmove&quot;&gt;Xmile e Playmove&lt;/h2&gt;
+&lt;p&gt;A primeira empresa a firmar essa parceria é também outra catarinense, a Xmile, empresa de educação que usa a tecnologia como meio de promover a aprendizagem. Segundo o diretor executivo da Playmove, a parceria traz para a plataforma uma nova abordagem de jogos e um novo olhar para explorar a ludopedagogia por meio da PlayTable. A fundamentação pedagógica dos jogos desenvolvidos pela Xmile conta com uma assinatura de peso: a Dra Maria Isabel Leite, PhD em Educação, com mais de 35 anos de experiência. Junto a uma equipe de mais 20 educadores, a produção de recursos lúdicos também foi priorizada pelo estúdio.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Xmile possui um conjunto de jogos adequados ao nosso propósito de ensinar brincando. Além disso, a fundamentação pedagógica é muito forte e focada no ciclo de alfabetização e no Ensino Fundamental I, alvos de atuação da PlayTable (destaca o diretor executivo da Playmove, Marlon Souza)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;os-jogos&quot;&gt;Os jogos&lt;/h2&gt;
+&lt;p&gt;Por meio da parceria, os jogos Mistérios dos Sonhos e Blubka, que juntos somam cinco títulos, serão lançados para a PlayTable na segunda quinzena de outubro.&lt;/p&gt;
+
+&lt;h2 id=&quot;mistérios-dos-sonhos&quot;&gt;Mistérios dos Sonhos&lt;/h2&gt;
+
+&lt;p&gt;Mistérios dos Sonhos: é um lugar mágico e misterioso onde vão parar todas as coisas que perdemos no mundo real. É lá que surgem todos nossos medos e é lá também onde todas as lendas e contos de fadas têm origem. Mas esse lugar fantástico está em perigo! Convocadas para desvendar os misteriosos desaparecimentos que vêm ocorrendo, as crianças são os Guardiões dos Sonhos e embarcam em uma grande e inesquecível aventura.&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/VtdvUYrYq2c &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;blubka&quot;&gt;Blubka&lt;/h2&gt;
+
+&lt;p&gt;Enquanto vagava pelo espaço em sua missão de exploração, a nave do Viajante Estelar enviado pela Terra é atingida pela frota de impiedosos alienígenas, fazendo-a cair no então desconhecido planeta Blubka.&lt;/p&gt;
+
+&lt;p&gt;Agora, para consertar sua nave e poder seguir viagem, o viajante precisará contar com a ajuda de um simpático e curioso habitante de Blubka, o Flix. Enquanto isso, os terríveis zorgues  invadem o planeta Blubka atrás das lendárias tecnologias ancestrais.&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/zmUI4qOmpwU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;programa-de-parceiros&quot;&gt;Programa de parceiros&lt;/h2&gt;
+&lt;p&gt;Além da Xmile, outros cinco estúdios estão desenvolvendo jogos para a PlayTable por meio do programa de parceiros, inclusive uma empresa de Portugal.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nossa expectativa é estar em 20% das mesas digitais instaladas pela Playmove até 2016, chegando a cerca de 500 licenças para cada um dos nossos jogos (observa Lucas Felipe Kamers, analista de produto e marketing da Xmile)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O programa de parceiros da Playmove ainda está com seleção aberta: &lt;a href=&quot;http://playtable.com.br/developer&quot; target=&quot;_blank&quot;&gt;http://playtable.com.br/developer&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>PlayTable busca desenvolvedores</title>
+   <link href="http://example.com/2015/07/20/playtable-busca-desenvolvedores"/>
+   <updated>2015-07-20T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/20/playtable-busca-desenvolvedores</id>
+   <content type="html">&lt;p&gt;A  Playmove de Blumenau, Santa Catarina, empresa desenvolvedora da &lt;a href=&quot;http://playtable.com.br/&quot; target=&quot;_blank&quot;&gt;PlayTable&lt;/a&gt;
+, a primeira mesa digital com jogos educativos do Brasil, começou o cadastramento de gamedevs para criação de jogos focados na educação infantil e nos primeiros anos do ensino fundamental.&lt;/p&gt;
+
+&lt;p&gt;Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para a PlayTable, aderindo aos padrões pedagógicos dos games da plataforma ou desenvolver novos jogos que receberão uma porcentagem sobre as vendas, seguindo um modelo próximo ao adotados nas famosas app stores da atualidade. Ainda existe um outro modelo onde a Playmove pode contratar gamedevs para produzir um jogo sob demanda.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A PlayTable é uma plataforma exclusiva e, por isso, cada novo jogo é vendido para praticamente 100% da base instalada. Já são mais de mil unidades em uso por mais de 350 escolas públicas e privadas de todas as regiões do Brasil e este número cresce todo mês (Marlon Souza, diretor executivo da Playmove)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Os estúdios selecionados receberão o kit de desenvolvimento da PlayTable, que utiliza a Unity3D como principal ferramenta de desenvolvimento.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Iremos acompanhar e avaliar todo o processo de desenvolvimento. Assim, o estúdio terá segurança em saber que sua ideia não será rejeitada no final&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O programa ficará em piloto com alguns estúdios durante o segundo semestre deste ano e prevê a abertura para novos estúdios em 2016.&lt;/p&gt;
+
+&lt;h2 id=&quot;vídeo-de-apresentação-da-playtable&quot;&gt;Vídeo de apresentação da PlayTable&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/D1df3xDN2jE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Os estúdios e desenvolvedores interessados em participar do programa de parceria da Playmove e desenvolver jogos para a PlayTable podem se inscrever pelo site do produto, no endereço &lt;a href=&quot;http://playtable.com.br/developer&quot; target=&quot;_blank&quot;&gt;http://playtable.com.br/developer&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

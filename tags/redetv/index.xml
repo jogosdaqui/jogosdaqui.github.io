@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - redetv</title>
+ <link href="http://example.com/tags/redetv/index.xml" rel="self"/>
+ <link href="http://example.com/tag/redetv.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/redetv.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Matéria sobre desenvolvedores de jogos</title>
+   <link href="http://example.com/2005/12/14/materia-sobre-desenvolvedores-de-jogos"/>
+   <updated>2005-12-14T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/14/materia-sobre-desenvolvedores-de-jogos</id>
+   <content type="html">&lt;p&gt;O programa Olhar Digital da RedeTV divulgou uma matéria sobre os desenvolvedores de jogos brasileiros.
+A matéria destaca as várias fases de desenvolvimento de um jogo e os profissionais envolvidos.&lt;/p&gt;
+
+&lt;p&gt;Veja a matéria neste &lt;a href=&quot;http://www.olhardigital.com/centralvideos.php?VideoID=538&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt;
+ e aproveite para conferir várias cenas de jogos brasileiros em desenvolvimento.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

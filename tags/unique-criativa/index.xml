@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - unique-criativa</title>
+ <link href="http://example.com/tags/unique-criativa/index.xml" rel="self"/>
+ <link href="http://example.com/tag/unique-criativa.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/unique-criativa.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>The Tap Masters</title>
+   <link href="http://example.com/2015/03/31/the-tap-masters"/>
+   <updated>2015-03-31T00:00:00-03:00</updated>
+   <id>http://example.com/2015/03/31/the-tap-masters</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.uniquecriativa&amp;amp;hl=pt_BR&quot;&gt;The Tap Masters&lt;/a&gt;
+ da Unique Criativa é um game casual com uma jogabilidade bem simples e baseada no reflexo rápido do jogador.&lt;/p&gt;
+
+&lt;p&gt;Você é um discípulo que tem que ser o mais ágil possível para acertar em qual das placas levantadas pelo seu mestre está o círculo.&lt;/p&gt;
+
+&lt;p&gt;Conforme você vai evoluindo, outros mestres são desbloqueados.&lt;/p&gt;
+
+&lt;p&gt;Simples e viciante.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

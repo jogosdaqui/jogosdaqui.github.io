@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - overlord-game-studio</title>
+ <link href="http://example.com/tags/overlord-game-studio/index.xml" rel="self"/>
+ <link href="http://example.com/tag/overlord-game-studio.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/overlord-game-studio.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Games brasileiros em crowdfunding</title>
+   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding"/>
+   <updated>2015-08-29T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
+   <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
+Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Confira:&lt;/p&gt;
+
+&lt;h2 id=&quot;magic-master&quot;&gt;Magic Master&lt;/h2&gt;
+&lt;p&gt;A campanha do game que mistura elementos de tower defense e de beat’em up combinados com uma estética sombria está em suas últimas horas.&lt;/p&gt;
+
+&lt;p&gt;Acesse o Kickante e ajude a mineira Mopix Games na produção deste belo game: &lt;a href=&quot;http://www.kickante.com.br/campanhas/magic-master&quot; target=&quot;_blank&quot;&gt;http://www.kickante.com.br/campanhas/magic-master&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/2DLQ_jA9rm8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;tiny-little-bastards&quot;&gt;Tiny Little Bastards&lt;/h2&gt;
+&lt;p&gt;O game da carioca Overlord Game Studio está em campanha no Indiegogo. Tiny Little Bastards é um jogo 2D que utiliza elementos de games de plataforma e action-RPG para apresentar Ivarr, o viking que o jogador controlará na busca pelas suas cervejas roubadas.&lt;/p&gt;
+
+&lt;p&gt;Com uma linda arte totalmente desenhada a mão e jogabilidade macia, o game promete: &lt;a href=&quot;https://www.indiegogo.com/projects/tiny-little-bastards&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/tiny-little-bastards&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/6_AXtKHAJPg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;99vidas-o-jogo&quot;&gt;99Vidas o jogo&lt;/h2&gt;
+&lt;p&gt;99Vidas o jogo é uma parceria entre a gamedev brasileira QUByte Interactive e o podcast 99Vidas visando a criação de um novo IP baseado no universo do programa.&lt;/p&gt;
+
+&lt;p&gt;Se você gosta de games do estilo beat’em up ou é fã da galera do 99Vidas, então entre no Catarse e faça sua contribuição:&lt;a href=&quot;https://www.catarse.me/pt/99vidas&quot; target=&quot;_blank&quot;&gt; https://www.catarse.me/pt/99vidas&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/jLgl-KoZwmo &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;racketboy&quot;&gt;RacketBoy&lt;/h2&gt;
+&lt;p&gt;O studio indie Double Dash está em campanha com seu game RacketBoy que mistura o estilo de Arkanoid com o gênero shoot’em up e um garoto com uma raquete que pode rebater os tiros.&lt;/p&gt;
+
+&lt;p&gt;Com uma jogabilidade inusitada, RacketBoy está no Indiegogo:
+&lt;a href=&quot;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/dZ4nRLOoVI4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Conhece mais alguma game brasileiro que está atualmente em campanha de crowdfunding? Entre em &lt;a href=&quot;/contato&quot;&gt;contato conosco&lt;/a&gt;
+ para atualizarmos o post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

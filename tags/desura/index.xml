@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - desura</title>
+ <link href="http://example.com/tags/desura/index.xml" rel="self"/>
+ <link href="http://example.com/tag/desura.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/desura.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Entrevista: Claudio Lins</title>
+   <link href="http://example.com/2015/04/22/entrevista-claudio-lins"/>
+   <updated>2015-04-22T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
+   <content type="html">&lt;p&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/p&gt;
+
+&lt;h2 id=&quot;fale-um-pouco-da-tua-trajetória-como-chegaste-ao-gamedev&quot;&gt;Fale um pouco da tua trajetória, como chegaste ao gamedev?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Eu estou trabalhando com games já há alguns anos, desde 99. E durante esse tempo trabalhei em cerca de 30 jogos pra diferentes plataformas. Tive uma empresa no Brasil com 3 outros sócios de 2002 a 2009 chamada Preloud Studios e trabalhei em outras empresas no Brasil como a Musigames e a Playlore, como também em empresas na Europa.&lt;/p&gt;
+
+  &lt;p&gt;Há um pouco mais de um ano abri a Arc-gen games aqui em Helsinki na Finlandia. Basicamente é uma empresa de um homem só. Ano passado terminei o Doomed’n Damned pra PC e Mac, feito na Construct 2, e esse ano estou fazendo o Super Doomed’n Damned para Steam, Wii U e Xbox One com uma empresa parceira de Barcelona chamada Dolores Entertainment.&lt;/p&gt;
+
+  &lt;p&gt;Quando você aplica para consoles, eles olham o projeto e as pessoas envolvidas. O portfólio prévio dos membros é tao importante quanto o jogo proposto. Se eles aprovarem e gostarem do seu jogo, você está apto para desenvolver para o console. Tanto a Nintendo quanto a Microsoft tiveram processos bem parecidos e foi super tranquilo trabalhar com os dois.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Riding Ground, game desenvolvido pela Preloud &lt;/span&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;como-surgiu-a-ideia-do-desenvolvimento-do-primeiro-doomedn-damned&quot;&gt;Como surgiu a ideia do desenvolvimento do primeiro Doomed’n Damned?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Durante todo o tempo que trabalhei com games, nunca tive a oportunidade de fazer alguma coisa como os jogos que jogava quando era criança. Sempre gostei muito de jogos de ação na época do Super Nintendo e Mega Drive, eu ia sempre a fliperamas e tal, mas o tempo passou e não fiz nada parecido com os jogos que curtia. Dai como dessa vez eu tinha total controle do desenvolvimento, tentei fazer algo nessa linha action platformer bem inspirado nos jogos que tanto jogava&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;sabemos-que-desenvolver-um-game-é-um-grande-desafio-principalmente-por-exigir-diversas-habilidades-diferentes-como-foi-a-experiência-de-desenvolver-o-game-totalmente-sozinho&quot;&gt;Sabemos que desenvolver um game é um grande desafio, principalmente por exigir diversas habilidades diferentes, como foi a experiência de desenvolver o game totalmente sozinho?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Foi desgastante, mas muito legal. Claro que p D’n D é um jogo pequeno com o escopo bem controlado. É um jogo nicho, bem focado e sem grandes pretensões. Acho que funcionou bem por causa disso. Era algo que eu sabia mais ou menos o que estava fazendo e o que não sabia não chegava a ser grave o suficiente para ser um impedimento. Nada que pesquisar um pouco não resolvesse&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;quais-tecnologias-e-ferramentas-foram-utilizadas-no-desenvolvimento&quot;&gt;Quais tecnologias e ferramentas foram utilizadas no desenvolvimento?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: No D’n D eu usei Construct 2, uma engine baseada em HTML 5 que é muito boa para jogos pequenos e prototipagens para PC ou Mac. Toda a arte do jogo é originalmente em vetor e exportado para o jogo em png. As animações foram feitas no Spine. Todas ferramentas baratas e de fácil acesso. Já o S D’n D roda na Unity 3D, e por isso deu pra melhorar bastante o visual do jogo&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;como-foi-a-vendagem-do-jogo-atingiu-as-expectativas&quot;&gt;Como foi a vendagem do jogo? Atingiu as expectativas?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Eu não tinha nenhuma expectativa real de quanto o jogo poderia vender de verdade. É muito difícil ter uma ideia sólida de quanto se espera das vendas de um jogo indie, desconhecido, sem grana pra marketing e fora do Steam. No geral estou satisfeito com as vendas na Humble Store, Desura e dos bundles. Mais importante que a grana, que não foi lá essas coisas, foi alcance e a repercursão que o jogo gerou. Eu acredito que sem o jogo original seria bem mais complicado convencer a Microsoft ou a Nintendo de fazer as versões console. No geral os números de D’n D foram bem bons para um jogo com tão pouco recurso&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/IS8NycNSyts &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;agora-falando-do-super-doomedn-damned-qual-é-o-enredo-do-jogo&quot;&gt;Agora falando do Super Doomed’n Damned. Qual é o enredo do jogo?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Basicamente o mesmo do D’n D. O enredo também foi inspirado nas histórias super simples, e até meio bregas, dos jogos dessa época. Mas vamos lá! Uma criatura do mal voltou das trevas para dominar o reino. Para acabar com esse cara, você deve coletar as Ancient Stones, que são pedras mágicas, passar por dungeons, enfrentar hordas de inimigos, bosses gigantescos e tudo mais de bom que um action platformer 16 bit tem a oferecer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;olhando-o-jogo-me-lembra-muito-dos-jogos-que-joguei-no-tempo-do-master-system-desde-mônica-no-castelo-do-dragão-até-ghoulsn-ghosts-quais-foram-as-tuas-inspirações-para-ele&quot;&gt;Olhando o jogo me lembra muito dos jogos que joguei no tempo do Master System, desde Mônica no Castelo do Dragão até Ghouls’n Ghosts. Quais foram as tuas inspirações para ele?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Muita coisa de 8 e 16 bit com certeza. Jogos de NES, Master, SNES, Mega, PC Engine e Arcade dessa época. A série Ghouls’n Ghost e os Castlevanias clássicos (CV 1 ao Dracula X do SNES e PCE) foram com certeza a inspiração principal, mas eu diria que tem também um bocado de outras coisas&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;nota-se-que-o-estilo-da-arte-do-jogo-é-bem-diferente-arrisco-me-a-dizer-até-que-é-único-conte-nos-mais-sobre-a-sua-carreira-como-artista-e-o-como-se-deu-o-desenvolvimento-desse-estilo-de-arte&quot;&gt;Nota-se que o estilo da arte do jogo é bem diferente, arrisco-me a dizer até que é único. Conte-nos mais sobre a sua carreira como artista e o como se deu o desenvolvimento desse estilo de arte.&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Uma coisa legal em trabalhar com jogos menores e mais focados em nicho, é que dá pra experimentar mais, tanto em game design como em visual. Normalmente quando se pensa em jogos indie e/ou retrô, a primeira coisa que vem em mente é pixel art. Eu adoro pixel art, mas eu não sou um bom artista pra trabalhar com pixel art. Outra coisa que pra mim é muito importante, é olhar para uma screenshot e identificar na hora que jogo é aquele. Alguns jogos tem um visual tão único, que simplesmente com uma imagem você consegue identificá-lo, e esse visual muitas vezes passa parte da ideia do jogo. Eu tentei fazer uma arte que fosse simples, facilmente identificável, que tivesse uma unidade visual legal, e que passasse a ideia retrô + cartoon moderno, mas que não necessariamente precisasse ser pixel art&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;quais-as-diferenças-no-desenvolvimento-com-o-jogo-anterior&quot;&gt;Quais as diferenças no desenvolvimento com o jogo anterior?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Hoje em dia estou trabalhando com um programador da Dolores. Daniel Navarro, é um cara com bastante experiência em desenvolvimento em consoles, PC e mobile, e isso tem ajudado muito na velocidade do desenvolvimento. No primeiro jogo muitas vezes eu fiquei preso em programação ou levei muito tempo para fazer alguma coisa que um programador de verdade levaria bem menos tempo. Sou formado em Design e sempre trabalhei como Designer ou Producer. Programação é algo que sempre foi meio “side quest” pra mim. Então, ter alguém para trabalhar mais no código me ajudou muito a focar no restante do conteúdo, coisa que no primeiro jogo eu tive que fazer tudo.&lt;/p&gt;
+
+  &lt;p&gt;Se falando de tecnologia, a Unity abriu muitas portas. Hoje é possível fazer coisas que eu não teria como fazer no jogo anterior. E hoje o jogo tem que rodar em todas as plataformas, logo os testes levam mais tempo, coisa que eu não precisava me preocupar na primeira versão.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;o-jogo-será-publicado-para-xbox-one-wii-u-e-pc-alguma-probabilidade-de-sair-para-ps4&quot;&gt;O jogo será publicado para Xbox One, Wii U e PC. Alguma probabilidade de sair para PS4?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Eu estou tentando PS4 e PSVita, mas esses processos levam tempo. No momento eu não posso prometer, mas sim, eu gostaria bastante de lançar para plataformas Sony também&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/9opG9wQNLnQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;para-finalizarmos-pela-sua-experiência-o-que-você-acha-da-indústria-brasileira-de-desenvolvimento-de-jogos&quot;&gt;Para finalizarmos, pela sua experiência, o que você acha da indústria brasileira de desenvolvimento de jogos?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Claudio: Eu comecei a trabalhar com games como modelador 3D e Animador de uma empresa encubada no ITEP/UFPE (Universidade Federal de Parnambuco) em 99, chamada ArtVooDoo. Naquela época acho que a ArtVooDoo era a única empresa de games do Brasil, ou uma das únicas. Mas de lá pra cá muita coisa mudou. Estamos vivendo uma época de mudanças e eu tenho visto muitos casos de sucesso no Brasil vindo do meio indie. Claro que vimos muitos estúdios grandes internacionais começarem no Brasil, como também vimos eles fecharem, mas teve muita empresa local que conseguiu um espaço bom.&lt;/p&gt;
+
+  &lt;p&gt;Eu acredito muito que o meio indie nacional vai continuar mandando bem como tem feito. Foco, sem querer dominar o mundo, projetos pequenos/médios e por ai vai. Acho que quando a ideia é legal e o pessoal empolgado, grana não é mais um problema tao grande para fazer o jogo virar realidade. E a facilidade de publicar o jogo no mercado, assim como o acesso as ferramentas, é muito mais fácil que antigamente.&lt;/p&gt;
+
+  &lt;p&gt;Não acho que os jogos nacionais devem tentar se espelhar nos Norte Americanos, nos AAA ou nos Japoneses. Mas sim continuar com essa identidade que eles estão criando de jogos indie com estilo e foco. Posso citar alguns amigos como o pessoal da Joymasher, Behold, entre outros estúdios que estão fazendo muita coisa legal. A ideia não é dominar o mundo com um mega titulo, a ideia é conquistar um espaço e um nicho fiel. É nisso que eu acredito.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Oniken: The Rescue</title>
+   <link href="http://example.com/2012/12/13/oniken-the-rescue-2"/>
+   <updated>2012-12-13T00:00:00-02:00</updated>
+   <id>http://example.com/2012/12/13/oniken-the-rescue-2</id>
+   <content type="html">&lt;p&gt;Amanhã, dia 14 de dezembro, o game &lt;a href=&quot;http://oniken.net/&quot; target=&quot;_blank&quot;&gt;Oniken&lt;/a&gt;
+ da &lt;a href=&quot;http://joymasher.com/&quot; target=&quot;_blank&quot;&gt;JoyMasher&lt;/a&gt;
+ receberá uma nova missão: &lt;strong&gt;The Rescue&lt;/strong&gt; estará disponível para todos os jogadores que já possuem Oniken.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Nesta missão, a base rebelde é invadida pela Oniken e Jenny deve resgatar os prisioneiros. Jenny é, pela primeira vez, um personagem jogável e, diferentemente de Zaku, usa uma metralhadora e um lança granadas. Essa missão se passa entre as missões 1 e 2 do jogo original.
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+E se você curtiu o game, então aproveite para ajudá-lo a entrar Steam&lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=92937904&quot; target=&quot;_blank&quot;&gt; votando no GreenLight&lt;/a&gt;
+.&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/1Gr77r8Ahg0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda no &lt;a href=&quot;http://www.desura.com/games/oniken&quot; target=&quot;_blank&quot;&gt;Desura&lt;/a&gt;
+ por U$4,99, disponível para Windows, Linux e Mac, sendo que o jogador pode baixa-lo para qualquer uma das três plataformas e ainda ganha a trilha sonora oficial e a versão digital do manual.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Oniken recebe versão para Mac e Linux</title>
+   <link href="http://example.com/2012/11/21/oniken-recebe-versao-para-mac-e-linux"/>
+   <updated>2012-11-21T00:00:00-02:00</updated>
+   <id>http://example.com/2012/11/21/oniken-recebe-versao-para-mac-e-linux</id>
+   <content type="html">&lt;p&gt;O game brasileiro &lt;a href=&quot;http://oniken.net&quot; target=&quot;_blank&quot;&gt;Oniken&lt;/a&gt;
+, do grupo independente &lt;a href=&quot;http://joymasher.com &quot; target=&quot;_blank&quot;&gt;JoyMasher&lt;/a&gt;
+, que foi lançado em junho para Windows, recebe versões para Mac e Linux.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O jogo se passa em um futuro pós-apocalíptico em que uma guerra mundial praticamente destrói toda a raça humana. Os poucos sobreviventes são oprimidos por uma grande organização militar chamada Oniken. O jogador toma o papel de Zaku, um mercenário ninja que aceita tomar parte do movimento de resistência.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A proposta do selo JoyMasher é proporcionar games com o estilo das gerações 8 e 16 bits. Oniken é exatamente isso, começando pela narrativa da tela de introdução que, provavelmente, levará jogadores mais &quot;experientes&quot; ao sentimento de nostalgia.&lt;/p&gt;
+
+&lt;p&gt;Oniken lembra muito games de plataforma e de ação da época do NES e do Mega Drive, como Ninja Gaiden e Strider, tanto pelos gráficos, sons e a dificuldade, mesmo assim consegue ter seu estilo e originalidade. Um deleite pra quem curte games retrô ou pra quem viveu a década de 80.&lt;/p&gt;
+
+&lt;p&gt;O jogo foi desenvolvido por Danilo Dias e Pedro Paiva e está à venda no site &lt;a href=&quot;http://www.desura.com/games/oniken&quot; target=&quot;_blank&quot;&gt;Desura&lt;/a&gt;
+, sendo que a versão Windows já está disponível e as versões para Linux e Mac serão lançadas amanhã, dia 22/11.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/ixCI4JXUuUE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+&lt;p&gt;Além de tudo que existia num bom game de ação 8 bits, Oniken ainda possui features contemporâneas, como um leaderboard online, onde você pode comparar seu placar com jogadores do mundo inteiro. Achava difícil bater a pontuação dos seus amigos da rua há 20 anos? Imagina agora?&lt;/p&gt;
+&lt;div&gt;&lt;br /&gt;
+ 
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pré-venda de Out There Somewhere</title>
+   <link href="http://example.com/2012/02/16/pre-venda-de-out-there-somewhere"/>
+   <updated>2012-02-16T00:00:00-02:00</updated>
+   <id>http://example.com/2012/02/16/pre-venda-de-out-there-somewhere</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;http://studiominiboss.com/?lang=pt&quot; target=&quot;_blank&quot;&gt;MiniBoss Studio&lt;/a&gt;
+, desenvolvedora indie, conhecida por games como &lt;a href=&quot;http://studiominiboss.com/planetary-plan-c/&quot; target=&quot;_blank&quot;&gt;Planetary Plan C&lt;/a&gt;
+, &lt;a href=&quot;http://studiominiboss.com/down-goes-the-phoenix/&quot; target=&quot;_blank&quot;&gt;Down Goes the Phoenix&lt;/a&gt;
+, &lt;a href=&quot;http://studiominiboss.com/2012/01/10/ludum-dare-results/&quot; target=&quot;_blank&quot;&gt;Frostbite&lt;/a&gt;
+ e &lt;a href=&quot;http://studiominiboss.com/trapped-in-the-chamber-of-eternal-darkness/&quot; target=&quot;_blank&quot;&gt;Trapped! In the Chamber of Eternal Darkness&lt;/a&gt;
+, anunciou a pré-venda do seu mais novo game: &lt;a href=&quot;http://studiominiboss.com/out-there-somewhere/?lang=pt&quot; target=&quot;_blank&quot;&gt;Out There Somewhere&lt;/a&gt;
+, um puzzle-platformer para PC.&lt;/p&gt;
+
+&lt;p&gt;Pelas imagens e videos disponibilizados até o momento o jogo promete, tendo um capricho estético que já é marca registrada da MiniBoss, além de mostrar uma jogabilidade no melhor estilo dos games para PC dos anos 90 e com uma inovadora mecânica de teletransporte.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/XLpnW7FfUXk &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Confira abaixo algumas imagens conceituais do jogo e algumas screenshots enviadas pela MiniBoss Studio:&lt;/p&gt;
+
+&lt;p&gt;A pré-venda já está acontecendo e você pode garantir a sua cópia de Out There Somewhere, por US$4,99, através do site &lt;a href=&quot;http://www.desura.com/&quot; target=&quot;_blank&quot;&gt;Desura&lt;/a&gt;
+ e pelo próprio &lt;a href=&quot;http://studiominiboss.com&quot; target=&quot;_blank&quot;&gt;blog do estúdio&lt;/a&gt;
+.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+</feed>

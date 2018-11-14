@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - mdev</title>
+ <link href="http://example.com/tags/mdev/index.xml" rel="self"/>
+ <link href="http://example.com/tag/mdev.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/mdev.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Rally dos Sertões 2005</title>
+   <link href="http://example.com/2006/02/03/rally-dos-sertoes-2005"/>
+   <updated>2006-02-03T00:00:00-02:00</updated>
+   <id>http://example.com/2006/02/03/rally-dos-sertoes-2005</id>
+   <content type="html">&lt;p&gt;Rally dos Sertões 2005 é um jogo único, que traz a você a possibilidade de competir no famoso percurso de rally brasileiro em suas quatro modalidades de veículos. Você pode optar por competir com o carro, a moto, o caminhão ou o quadriciclo.&lt;br /&gt;&lt;br /&gt;Correndo pelas nove etapas no modo campeonato ou pelos percursos selecionados no modo treino, o jogador irá levantar muita poeira por estradas sinuosas e cheias de obstáculos. Pistas com pedras soltas, poeira, erosão, pontes, riachos e curvas fechadas fazem parte do percurso do rally, caracterizando uma prova de resistência e coragem.&lt;br /&gt;&lt;br /&gt;Encare também essa aventura e mostre que você sabe lidar com as dificuldades dessa grande prova do automobilismo.&lt;br /&gt;&lt;br /&gt;No trajeto do Rally dos Sertões 2005 o jogador percorrerá pelas cidades de Goiânia, Aruanã, Porangatu (GO), Palmas, Araguaína (TO),Imperatriz, Bacabal, Barreirinhas (MA), Ubajara e Fortaleza (CE).&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

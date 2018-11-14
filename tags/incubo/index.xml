@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - incubo</title>
+ <link href="http://example.com/tags/incubo/index.xml" rel="self"/>
+ <link href="http://example.com/tag/incubo.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/incubo.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Teaser Trailer de Pants Off!</title>
+   <link href="http://example.com/2015/03/20/teaser-trailer-de-pants-off"/>
+   <updated>2015-03-20T00:00:00-03:00</updated>
+   <id>http://example.com/2015/03/20/teaser-trailer-de-pants-off</id>
+   <content type="html">&lt;p&gt;Saiu o primeiro vídeo de Pants Off!, game em desenvolvimento pela &lt;a href=&quot;http://incubogames.com&quot;&gt;InCubo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pants Off! é um game de stealth, mas que, ao invés da maioria dos jogos do gênero, tenta ser mais leve e bem humorado, já que o personagem precisa usar sua furtividade para se esconder no trabalho, pois ele simplesmente esqueceu as calças!&lt;/p&gt;
+
+&lt;p&gt;Confira o teaser de Paints Off! Stealth sem vergonha:&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/pvjVIOCDK3c &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>

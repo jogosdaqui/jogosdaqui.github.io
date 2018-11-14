@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - sbgames</title>
+ <link href="http://example.com/tags/sbgames/index.xml" rel="self"/>
+ <link href="http://example.com/tag/sbgames.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/sbgames.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Finalistas do Festival de Jogos Independentes do SBGames 2015</title>
+   <link href="http://example.com/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015"/>
+   <updated>2015-10-26T00:00:00-02:00</updated>
+   <id>http://example.com/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015</id>
+   <content type="html">&lt;p&gt;A organização do Festival de Jogos Independentes do &lt;a href=&quot;http://www.sbgames.org/sbgames2015&quot; target=&quot;_blank&quot;&gt;SBGames 2015&lt;/a&gt;
+ &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=882614481814106&quot; target=&quot;_blank&quot;&gt;anunciou os games finalistas&lt;/a&gt;
+ que estarão em exposição no evento que acontecerá entre 11 e 13 de novembro em Teresina/PI.&lt;/p&gt;
+
+&lt;p&gt;No total foram 23 games finalistas, sendo que alguns deles participam de mais de uma categoria.&lt;/p&gt;
+
+&lt;p&gt;Confira abaixo a lista de jogos em cada categoria e logo após uma seleção de vídeos dos selecionados.&lt;/p&gt;
+
+&lt;h3 id=&quot;finalistas-por-categoria&quot;&gt;Finalistas por categoria&lt;/h3&gt;
+
+&lt;h2 id=&quot;melhor-jogo&quot;&gt;Melhor jogo&lt;/h2&gt;
+&lt;p&gt;Chroma Squad - PC
+Gryphon Knight Epic - PC
+Origami Flight - PC
+RacketBoy - PC
+Warlock’s Tower - PC&lt;/p&gt;
+
+&lt;h2 id=&quot;melhor-game-design&quot;&gt;Melhor game design&lt;/h2&gt;
+&lt;p&gt;Atomic Rocket Arena - iOS
+Bad Blocks - Android
+Chroma Squad - PC
+Origami Flight - PC
+Warlock’s Tower - PC&lt;/p&gt;
+
+&lt;h2 id=&quot;categoria-melhor-som&quot;&gt;Categoria melhor som&lt;/h2&gt;
+&lt;p&gt;Chroma Squad - PC
+I am Hexagon - iOS
+Möira - PC
+Origami Flight - PC
+Trajes Fatais – Edição Minimal - PC&lt;/p&gt;
+
+&lt;h2 id=&quot;melhor-tecnologia&quot;&gt;Melhor tecnologia&lt;/h2&gt;
+&lt;p&gt;Alfabeto 3D - iOS
+Chroma Squad - PC
+Gryphon Knight Epic - PC
+NoteScor - Web/HTML5
+Relic Hunters Zero - PC&lt;/p&gt;
+
+&lt;h2 id=&quot;melhor-arte-visual&quot;&gt;Melhor arte visual&lt;/h2&gt;
+&lt;p&gt;Chroma Squad - PC
+Gryphon Knight Epic - PC
+Möira - PC
+Origami Flight - PC
+RacketBoy - PC&lt;/p&gt;
+
+&lt;h2 id=&quot;melhor-jogo-feito-por-estudante&quot;&gt;Melhor jogo feito por estudante&lt;/h2&gt;
+&lt;p&gt;Asteroid Squad - Android
+Ninja Sukafu 2 - Enhanced Edition - PC
+Recollection - PC
+The Last NightMary, A Lenda do Cabeça de Cuia - PC
+Wells - PC&lt;/p&gt;
+
+&lt;h2 id=&quot;melhor-serious-game&quot;&gt;Melhor Serious Game&lt;/h2&gt;
+&lt;p&gt;A Pequena Grande Crise 3: A Queda do Gigante - PC
+Carcará - Asas da Justiça - PC
+NoteScor - Web/HTML5
+Sr.X - iOS
+Wyz - iOS&lt;/p&gt;
+
+&lt;h2 id=&quot;jogos-em-produção&quot;&gt;Jogos em produção&lt;/h2&gt;
+&lt;p&gt;Möira - PC
+Origami Flight - PC
+Pizza Mania - Android
+RacketBoy - PC
+Warlock’s Tower - PC&lt;/p&gt;
+
+&lt;h3 id=&quot;vídeos-dos-selecionados&quot;&gt;Vídeos dos selecionados&lt;/h3&gt;
+&lt;p&gt;Chroma Squad&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/Wbp19Z2QaTk &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Gryphon Knight Epic&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/POOab7QKbsg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Origami Flight&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/JPQO2Di61vU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;RacketBoy&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/dZ4nRLOoVI4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Warlock’s Tower&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/Oyo3VXo_Ims &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Atomic Rocket Arena&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/vyR6rweQv6Q &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Bad Blocks&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/1hPf6cVDhHU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Möira&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/7c6Ho2prTAg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Trajes Fatais – Edição Minimal&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/0c3rQnBhAQ4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Alfabeto 3D&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/AD-LZShGEy8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Relic Hunters Zero&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/SI5QTiWWGO4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Asteroid Squad&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/FM9xF649fpw &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Ninja Sukafu 2 - Enhanced Edition&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/cWWUiJBc6zk &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Recollection&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/00FxxR3ZJ7k &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;The Last NightMary, A Lenda do Cabeça de Cuia - PC&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/yYs5T_1uCrU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Wells&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/Kzql1RTJnzY &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;A Pequena Grande Crise 3: A Queda do Gigante - PC&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/RNAbi1Ln1p0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Carcará - Asas da Justiça&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/yXiEJZxAKZA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Sr.X&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/o8sWrvD3NA8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Wyz&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/nLLPQAqsOk4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Pizza Mania&lt;/p&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/DaCF5FmM-40 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Calango For Kids</title>
+   <link href="http://example.com/2015/04/10/calango-for-kids"/>
+   <updated>2015-04-10T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/10/calango-for-kids</id>
+   <content type="html">&lt;dl&gt;
+  &lt;dt&gt;Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do &lt;a href=&quot;http://www.scicast.com.br/&quot;&gt;&lt;strong&gt;SciCast&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;“Porque a ciência tem que ser divertida”, pois foi exatamente esse o mote da equipe da Tinfoil ao desenvolver o jogo infantil que ajuda crianças a aprender matemática de forma divertida.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;A jogabilidade criada, pensando em crianças entre 7 e 10 anos, é bem simples e intuitiva: uma operação matemática aparece na tela do iPad e o jogador precisa estourar os balões com os números que resolverão a equação.&lt;/p&gt;
+
+&lt;p&gt;Atualmente existem dois tipos de operações disponíveis: adição e multiplicação, sendo que o jogador é apresentado a diversos níveis de dificuldade conforme vai passando de fases. A equipe da Thinfoil intenta adicionar novas operações e até novas disciplinas, como geografia e história, através de in-app purchase.&lt;/p&gt;
+
+&lt;p&gt;Calango For Kids é uma saudável opção para divertir seu filho e ainda ajudá-lo a se interessar por matemática no processo.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://player.vimeo.com/video/95176768 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Calango for Kids foi &lt;a href=&quot;http://sbgames.org/sbgames2014/festival_de_jogos_finalistas&quot;&gt;finalista SBGGames 2014&lt;/a&gt;
+ na categoria Serious Games e está disponível gratuitamente na &lt;a href=&quot;https://itunes.apple.com/br/app/calango-kids/id875886632?mt=8&quot; target=&quot;_blank&quot;&gt;App Store&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tank Invaders</title>
+   <link href="http://example.com/2015/04/08/tank-invaders"/>
+   <updated>2015-04-08T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/08/tank-invaders</id>
+   <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;
+, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt;
+ e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt;
+ você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.&lt;/p&gt;
+
+&lt;p&gt;A melhor definição o estilo do game Tank Invaders da Mgaia Studio é o que a própria empresa dá: o único FPS shoot’em up.  A visão do jogo, como pode ser visto nas imagens e vídeo abaixo é no  estilo de clássicos shoot’em up, entretanto você não vê a sua “nave”, pois a visão é primeira pessoa, então chegamos a definição de estilo dado pelo Mgaia.&lt;/p&gt;
+
+&lt;p&gt;A jogabilidade de Tank Invaders funciona muito bem para a tela touch, pois é necessária muita agilidade para disparar nos diversos inimigos existentes no campo de visão, além de evitar acertar veículos de aliados e combinar power-ups para destruir tudo que está na tela.&lt;/p&gt;
+
+&lt;center&gt;&lt;/center&gt;
+
+&lt;p&gt;A Mgaia foi virtuosa na produção do game, desde os gráficos 3D que combinam muito bem com a ação, como a parte sonora que, além dos efeitos e da trilha, ainda possui personagens com vozes reais, como o General Rogers e a Tenente Miranda, dando aquele ar de filmes de ação dos anos 80/90. Em certas horas é como se estivéssemos num filme do Rambo.&lt;/p&gt;
+
+&lt;p&gt;O sistema de upgrades permite utilizar novas armas conforme o jogador avança pelo jogo e que ajudam naqueles momentos de sufoco. Todos os upgrades podem ser comprados com pontos adquiridos durante as batalhas, mesmo assim ainda existe a possibilidade de comprar esses mesmos pontos via in-app purchase.&lt;/p&gt;
+
+&lt;p&gt;Além das fases normais, ainda existem fases especiais que são liberadas através de um mecanismo de sorteio entre, modo de jogo, cenário, objetivo e premiação.&lt;/p&gt;
+
+&lt;p&gt;Em 2013 ganhou 3 prêmios na SBGames : Game Design (Mobile), Melhor Visual (Mobile) e Melhor Jogo Mobile.&lt;/p&gt;
+
+&lt;p&gt;Por todas suas qualidades técnicas e pela diversão que proporciona, Tank Invaders deveria figurar fácil nas lista de mais baixados das app stores onde está disponível.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/HO7L192oCqI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Gostou do game, então aproveite e baixe-o gratuitamente: &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;
+, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt;
+ e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mr. Bree+ no Steam</title>
+   <link href="http://example.com/2014/05/02/mr-bree-no-steam"/>
+   <updated>2014-05-02T00:00:00-03:00</updated>
+   <id>http://example.com/2014/05/02/mr-bree-no-steam</id>
+   <content type="html">&lt;p&gt;A equipe da brasileira &lt;a href=&quot;http://tawstudio.com/&quot; target=&quot;_blank&quot;&gt;Taw Studio&lt;/a&gt;
+ está de parabéns, pois após muito trabalho e dedicação na &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-02_19_08_27-154784552-0&quot; target=&quot;_blank&quot;&gt;campanha Greenlight&lt;/a&gt;
+, seu fantástico game &lt;a href=&quot;http://store.steampowered.com/app/264220/&quot; target=&quot;_blank&quot;&gt;Mr. Bree+&lt;/a&gt;
+ foi finalmente lançado 
+na &lt;a href=&quot;http://store.steampowered.com/app/264220/&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
+, a maior plataforma de distribuição de jogos do mundo!&lt;/p&gt;
+
+&lt;p&gt;Para quem ainda não conhece Mr. Bree+, leia um pouco do jogo descrito pela própria equipe de desenvolvimento:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mr. Bree+ é um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incrível aspecto visual e musical.&lt;br /&gt;
+São 60 níveis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a história do nosso herói, um porco fazendeiro, pai de família, o Mr. Bree.&lt;br /&gt;
+Uma boa comparação para exemplificar a mecânica do jogo são alguns dos jogos que nós amamos: Super Meat Boy, Megaman and Castlevania!&quot;
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div&gt;&lt;br /&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/mzrQbqYW4KI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+ 
+O game j&amp;#225; foi premiado diversas vezes, como: Melhor jogo para PC (SBGames 2012), Melhor trilha sonora original (Game Music Brasil 2012), Melhor som (SBGames 2012), Melhor Arte (SBGames 2011) e Brasil Revelation (Big Festival 2012).
+ 
+Mr. Bree+ ter&amp;#225; um desconto de 33% na Steam durante sua semana de lan&amp;#231;amento, ent&amp;#227;o aproveite, &lt;a href=&quot;http://store.steampowered.com/app/264220/&quot; target=&quot;_blank&quot;&gt;acesse sua conta Steam e diverta-se&lt;/a&gt;
+.
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>V de Vinagre</title>
+   <link href="http://example.com/2013/06/17/v-de-vinagre"/>
+   <updated>2013-06-17T00:00:00-03:00</updated>
+   <id>http://example.com/2013/06/17/v-de-vinagre</id>
+   <content type="html">&lt;p&gt;A Flux Game Studio, vencedora no final de 2012 do concurso de Criação de Game de Educação Financeira da SBGames e Banco do Brasil, está antenada com que acontece no país, pois acaba de lançar o game &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot; target=&quot;_blank&quot;&gt;V de Vinagre&lt;/a&gt;
+ que ironiza a violência ocorrida nos últimos manifestos no RJ e SP.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Um roteiro no qual o manifestante precisa fugir da polícia por portar potes de vinagre em sua mochila poderia muito bem ser de um game 100% de ficção&quot;, afirma Paulo Luis Santos, Diretor de Criação da Flux e um dos desenvolvedores do projeto.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No game o jogador controla um manifestante mascarado, que deve fugir da polícia disposta a prendê-lo por porte de vinagre. Quanto mais vinagre ele recolhe, mais policiais se juntam para tentar alcançá-lo. A jogabilidade é simples - são apenas duas teclas para jogar.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/6IYUbNcFSnw &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;O game foi desenvolvido no formato Game Jam, uma mini-maratona de 18 horas de trabalho.&amp;gt;  “Optamos por fazer tudo muito rapidamente por dois motivos: primeiramente, nos propusemos este desafio de fazer um jogo em pouco tempo; e, depois, porque o assunto é urgente e não poderíamos investir muito tempo em polimentos - valia mais a pena lançar de uma vez do que perder o timing”, detalha Juliano Gomes, Programador Líder do game.&lt;/p&gt;
+
+&lt;p&gt;Jogue diretamente no Facebook: &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot; target=&quot;_blank&quot;&gt;V de Vinagre&lt;/a&gt;
+.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Documentário "Indústria de Games no Brasil"</title>
+   <link href="http://example.com/2013/06/13/documentario-industria-de-games-no-brasil"/>
+   <updated>2013-06-13T00:00:00-03:00</updated>
+   <id>http://example.com/2013/06/13/documentario-industria-de-games-no-brasil</id>
+   <content type="html">&lt;p&gt;O vídeo tem cerca 30 minutos e conta com a participação de Jeferson Valadares (EA Games), Carla Denise Castanho (Organizadora do SBGames 2012), Moacir Avelino Alves Junior (Presidente da ACI Games), Cleber Cristiano Prodanov (Secretário de Ciência, Inovação e Desenvolvimento Tecnológio do RS), Fred Vasconcelos (Vice presidente de Relações Institucionais da Abragames), Marsal Alves Branco (Coordenador do curso de Jogos Digitais da Feevale) e Juliano Alves (Gerente de Marketing da Intel Brasil).&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/GdFwB0y3s7M &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Se você tem interesse ou quer conhecer um pouco mais sobre o status atual da indústria de game no Brasil, esse documentário é um bom começo.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hipercubo</title>
+   <link href="http://example.com/2012/08/08/hipercubo"/>
+   <updated>2012-08-08T00:00:00-03:00</updated>
+   <id>http://example.com/2012/08/08/hipercubo</id>
+   <content type="html">&lt;p&gt;Definição de Hipercubo da Wikipédia: &amp;gt; Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos de mesmo tamanho e comprimento.&quot;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p style=&quot;text-align: left;&quot;&gt;Defini&amp;#231;&amp;#227;o de Hipercubo da Studio Avante: &amp;gt; Quando um cubo &amp;#233; esticado na quarta dimens&amp;#227;o, ele se torna um Hipercubo, composto de 8 cubos interligados. Este &amp;#233; um jogo de labirinto que se passa dentro de um Hipercubo. Voc&amp;#234; precisar&amp;#225; girar, torcer e virar o Hipercubo do avesso para trazer os 8 cubos conforme forem pedidos, desviando de obst&amp;#225;culos, procurando poderes e maneiras de entrar em cubos trancados.&amp;quot;
+ 
+Com essa premissa &amp;#233; que a brasileira Studio Avante criou o puzzle Hipercubo para iPod, iPhone e iPad. O game j&amp;#225; possui alguns pr&amp;#234;mios em sua trajet&amp;#243;ria, como o pr&amp;#234;mio de melhor game mobile no Festival de Jogos Independentes da SBGames 2009.
+ 
+
+ 
+ 
+Al&amp;#233;m de  muito bem acabado, o game tem um estilo bem pr&amp;#243;prio e deve agradar os amantes de puzzles. Talvez pare&amp;#231;a complexo a primeira vista, mas basta o jogador experimentar os primeiros movimentos e logo j&amp;#225; estar&amp;#225; familiarizado com a jogabilidade.
+&lt;strong&gt;Hipercubo possui duas vers&amp;#245;es: &lt;a href=&quot;http://itunes.com/apps/HipercuboBRFreestyle&quot; target=&quot;_blank&quot;&gt;Freestyle (gratu&amp;#237;ta)&lt;/a&gt;
+ e a &lt;a href=&quot;http://itunes.com/apps/HipercuboBR&quot; target=&quot;_blank&quot;&gt;Desafio (US$ 1,99)&lt;/a&gt;
+, sendo essa completa com um total 56 fases.&lt;/strong&gt;
+ 
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SBGames</title>
+   <link href="http://example.com/2006/09/29/sbgames"/>
+   <updated>2006-09-29T00:00:00-03:00</updated>
+   <id>http://example.com/2006/09/29/sbgames</id>
+   <content type="html">&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span style=&quot;font-weight: bold;&quot;&gt;SBGames em Recife&lt;/span&gt;&lt;br /&gt;Está chegando a hora! Em sua quinta edição, o SBGames acontecerá, entre os dias 8 e 10 de novembro de 2006, em Recife, capital que hospeda hoje um dos maiores parques tecnológicos urbanos do Brasil, o Porto Digital (&lt;a href=&quot;http://www.portodigital.org&quot;&gt;www.portodigital.org&lt;/a&gt;
+). O evento é voltado para o projeto e a implementação de Jogos Digitais e já se consolidou como o maior evento nacional destinado a pesquisadores, programadores e desenvolvedores da área no Brasil.&lt;br /&gt;&lt;br /&gt;O evento será realizado em espaços diferentes pelo Bairro do Recife e dividido em 3 trilhas: computing, art &amp;amp; design e industry. Além disso, acontecerão tutoriais e dois festivais integrados ao evento: o Festival de Games Independentes, um concurso de jogos eletrônicos com premiação, e o Festival de Arte, com exibição de vídeos e animações. E, claro, uma festa incrível do SBGames com a Abragames para você curtir a cidade do Recife e se divertir!&lt;br /&gt;&lt;br /&gt;Saiba mais sobre o SBGames em &lt;a href=&quot;http://www.sbgames.org.br&quot;&gt;www.sbgames.org.br&lt;/a&gt;
+.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;O que vai rolar?&lt;/span&gt;&lt;br /&gt;A programação preliminar do SBGames já está disponível no site do evento. Confira!&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Inscrições&lt;/span&gt;&lt;br /&gt;As inscrições para o SBGames já estão disponíveis no site do evento (&lt;a href=&quot;http://www.sbgames.org.br&quot;&gt;www.sbgames.org.br&lt;/a&gt;
+) com valores diferenciados e bastante atrativos. Confira, garanta logo a sua vaga e se prepare para participar de um dos maiores eventos de games do Brasil. Você não vai querer ficar fora dessa!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SBGames 2006 em Recife</title>
+   <link href="http://example.com/2006/09/29/sbgames-2006-em-recife"/>
+   <updated>2006-09-29T00:00:00-03:00</updated>
+   <id>http://example.com/2006/09/29/sbgames-2006-em-recife</id>
+   <content type="html">&lt;p&gt;A edição 2006 do evento que se consolidou como o maior evento do país para pesquisadores e desenvolvedores de jogos será realizada em Recife entre os dias 08 e 10 de novembro.&lt;br /&gt;&lt;br /&gt;Se você quer conhecer mais sobre como os jogos eletrônicos são produzidos, não pode perder a SBGames.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=485&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Palestra Pequeno Guardião do Tempo</title>
+   <link href="http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo"/>
+   <updated>2005-12-14T00:00:00-02:00</updated>
+   <id>http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo</id>
+   <content type="html">&lt;p&gt;Os desenvolvedores do jogo &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo,&lt;/a&gt;
+ campeão do Festival de Jogos Independentes do SBGames 2005, estarão numa palestra na Universidade Veiga de Almeida dia 17 de dezembro.&lt;/p&gt;
+
+&lt;p&gt;Se você quer conhecer mais sobre o jogo, não pode perder esta oportunidade.&lt;/p&gt;
+
+&lt;p&gt;Veja mais detalhes no site &lt;a href=&quot;http://www.cgmax.com.br/index.php?option=com_content&amp;amp;task=view&amp;amp;id=122&amp;amp;Itemid=2&quot; target=&quot;_blank&quot;&gt;www.cgmax.com.br&lt;/a&gt;
+ .&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Resultado do Festival de Jogos Independentes</title>
+   <link href="http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes"/>
+   <updated>2005-11-25T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes</id>
+   <content type="html">&lt;p&gt;Segundo Rodrigo Damazio, Chair do Festival de Jogos Independentes do SBGames 2005, o resultado da premiação foi:&lt;/p&gt;
+
+&lt;p&gt;1o. Lugar com 33% dos votos - &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ganharam uma GeForce 6800 GS, um jogo City of Villains e um curso de desenvolvimento de jogos no valor de R$ 6000.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2o. Lugar com 32% dos votos (apenas 1 a menos que o 1o.) - &lt;a href=&quot;/2005/11/21/bola-de-gude/&quot;&gt;Bola de Gude&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ganham uma GeForce 6200, um jogo Serious Sam II e o livro GPU Gems 2.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;3o. Lugar com 16% dos votos - Metablocks - ganham uma GeForce 6200 e o jogo Serious Sam II.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Foram 91 votos ao todo, dos participantes do SBGames. Tanto os jogos premiados como também os outros estão de parabéns, o nível dos finalistas foi muito bom, e já comecem a preparar os jogos para o ano que vem, pois o festival se repetirá e tende sempre a crescer.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Agradecimentos a nVidia e à Utah Linux Center pelos prêmios doados, assim como à GameTV e Abragames pela organização da festa. A premiação será mostrada na GameTV, mas sem data confirmada.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jogos em debate</title>
+   <link href="http://example.com/2005/11/23/jogos-em-debate"/>
+   <updated>2005-11-23T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/23/jogos-em-debate</id>
+   <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://www.hoplon.com/&quot;&gt;Hoplon Infotainment&lt;/a&gt;
+ está chamando a atenção de todo o País. Na próxima quinta-feira, dia 24, o presidente da empresa, Tarqüínio Teles, estará participando de uma mesa redonda no Simpósio Brasileiro de Games (&lt;a href=&quot;http://sbgames.org/&quot;&gt;SBGames 2005&lt;/a&gt;
+) junto com Marcelo Minutti (Brasil Telecom) e Julio Vieitez (Level Up/Ragnarok). O tema do debate será “Jogos on-line: mercado e desenvolvimento”. Tarqüínio recebeu o convite por ser o principal mentor do maior projeto de desenvolvimento de game executado no Brasil, o &lt;a href=&quot;/2005/09/21/taikodom/&quot;&gt;Taikodom&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;O jogo é um RPG virtual, o primeiro de ação espacial totalmente desenvolvido no País. Em 22 meses de trabalhos, o Taikodom recebeu R$ 5 milhões em investimentos e será comercializado a partir do próximo mês. A Hoplon espera que 25 mil usuários iniciem os acessos logo após o lançamento do jogo. O SBGames 2005 acontece em São Paulo, de 23 a 25 de novembro.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Eventos de novembro</title>
+   <link href="http://example.com/2005/11/11/eventos-de-novembro"/>
+   <updated>2005-11-11T00:00:00-02:00</updated>
+   <id>http://example.com/2005/11/11/eventos-de-novembro</id>
+   <content type="html">&lt;p&gt;Confira os eventos para o mês de novembro:&lt;/p&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+&lt;ul&gt;
+	&lt;li style=&quot;text-align: justify;&quot;&gt;17 - &lt;a href=&quot;/index.php?p=c&amp;amp;id=142&quot;&gt;&lt;span class=&quot;linkPagingCL&quot;&gt;IN Games 2005/2&lt;/span&gt;&lt;/a&gt;
+ (São Leopoldo- RS)&lt;/li&gt;
+	&lt;li style=&quot;text-align: justify;&quot;&gt;23 a 25 - &lt;a href=&quot;/index.php?p=c&amp;amp;id=70&quot;&gt;SBGames&lt;/a&gt;
+ (São Paulo - SP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SBGames 2005</title>
+   <link href="http://example.com/2005/09/27/sbgames-2005"/>
+   <updated>2005-09-27T00:00:00-03:00</updated>
+   <id>http://example.com/2005/09/27/sbgames-2005</id>
+   <content type="html">&lt;tr&gt;
+
+O Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital será realizado entre 23 e 25 de novembro de 2005 em São Paulo.
+
+O evento reuni outros quatro eventos: Wjogos, Game Art, In2Games e Festival de Jogos Independentes.
+
+
+
+
+
+&lt;p style=&quot;text-align: left;&quot;&gt;Veja mais detalhes no &lt;a href=&quot;http://www.sbgames.org.br/home/home.html&quot;&gt;site oficial&lt;/a&gt;
+ do evento.
+
+
+
+
+
+&amp;lt;/tbody&amp;gt;
+&lt;/p&gt;&lt;/tr&gt;
+</content>
+ </entry>
+ 
+</feed>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - axis-game-day</title>
+ <link href="http://example.com/tags/axis-game-day/index.xml" rel="self"/>
+ <link href="http://example.com/tag/axis-game-day.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/axis-game-day.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Checkpoint #2</title>
+   <link href="http://example.com/2015/04/18/checkpoint-2"/>
+   <updated>2015-04-18T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/18/checkpoint-2</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/17/axis-game-day&quot;&gt;O evento AXIS Game Day, que acontece hoje, com diversas palestras de gamedevs brasileiros&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/2015/04/17/powerup-2&quot;&gt;Anunciado o evento PowerUp #2 da AdJogosRS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/cupcake_se/status/58919325451778867&quot;&gt;A Cupcake anunciou que participará do evento eMerge Americas 2015 entre 1 e 5 de maio em Miami&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Invent4/status/58910524926202265&quot;&gt;A sequência do game Bad Rats da Invent4 está em desenvolvimento&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Axis Game Day</title>
+   <link href="http://example.com/2015/04/17/axis-game-day"/>
+   <updated>2015-04-17T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/17/axis-game-day</id>
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.axis.art.br&quot; target=&quot;_blank&quot;&gt;AXIS-Gnomon School of Visual Effects&lt;/a&gt;
+ realizará amanhã, dia 18/04/15, o AXIS Game Day.&lt;/p&gt;
+
+&lt;p&gt;O evento tem início com uma aula aberta do curso &lt;a href=&quot;http://axis.art.br/character-creation-games/&quot; target=&quot;_blank&quot;&gt;Character Creation for Games&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Às 15 horas começam as palestras com profissionais da indústria gamedev da Odin Game Studio, Garage 227 Studios, Microsoft, Unity, IGDA São Paulo, Digi Ten, Pxldj e a QUByte Interactive.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Onde&lt;/strong&gt;:  AXIS School of Visual Effects.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quando&lt;/strong&gt;:  18/04/15 a partir das 13hrs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mais informações em: &lt;a href=&quot;http://www.axis.art.br/eventos/&quot; target=&quot;_blank&quot;&gt;http://www.axis.art.br/eventos/&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

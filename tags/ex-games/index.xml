@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - ex-games</title>
+ <link href="http://example.com/tags/ex-games/index.xml" rel="self"/>
+ <link href="http://example.com/tag/ex-games.html"/>
+ <updated>2018-11-14T12:30:23-02:00</updated>
+ <id>http://example.com/tag/ex-games.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Gambler Saga</title>
+   <link href="http://example.com/2006/07/05/gambler-saga"/>
+   <updated>2006-07-05T00:00:00-03:00</updated>
+   <id>http://example.com/2006/07/05/gambler-saga</id>
+   <content type="html">&lt;p&gt;Baseado em um conhecido jogo de rua, no qual um sujeito esconde uma bolinha embaixo de 3 copos e o jogador deve encontra-la. &lt;br /&gt;Em Gambler Saga, este jogo se chama WIB (Where Is the Ball)  e você encara a missão de ajudar Little Jack, um garoto prodígio de 10 anos, jogador de WIB, que tenta derrotar o campeão Europeu, Mr. Eagle (que supostamente fora culpado pela morte de seu pai). &lt;br /&gt;&lt;br /&gt;Para enfrentar Eagle, LJ precisa antes viajar pelo mundo (Brasil, Indonésia, México e Europa) derrotando a gangue dos 3REIS, ex-jogadores de WIB, expulsos da liga mundial por atividades criminosas, (como por exemplo, intimidar com violencia bons jogadores). Suspeita-se que Mr. Eagle lidere esta gang. O jogo conta com 2 modos; estória, onde o jogador trilha a Saga e Arcade, jogo livre contra o celular. &lt;br /&gt;&lt;br /&gt;A música do game é uma mistura de ritmos brasileiros e latinos, apelidada de &quot;Samba cucaracha&quot;. &lt;br /&gt;&lt;br /&gt;Todas as fases contam com scores on-line estimulando a atividade multiplayer, que pode ser conferida no site: &lt;a href=&quot;http://www.gamblersaga.com&quot; target=&quot;_blank&quot;&gt;www.gamblersaga.com&lt;/a&gt;
+. No mesmo site, pode-se encontrar mais informações sobre os personagens e a história do jogo.&lt;br /&gt;&lt;br /&gt;Gambler Saga está disponível em todas as operadoras do país.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>
