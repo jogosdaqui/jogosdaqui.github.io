@@ -3,7 +3,7 @@
  <title>Your Title - swordtales</title>
  <link href="http://example.com/tags/swordtales/index.xml" rel="self"/>
  <link href="http://example.com/tag/swordtales.html"/>
- <updated>2018-11-13T15:50:14-02:00</updated>
+ <updated>2018-11-14T07:16:42-02:00</updated>
  <id>http://example.com/tag/swordtales.html</id>
  <author>
    <name>Author Here</name>
@@ -14,8 +14,7 @@
    <link href="http://example.com/2015/07/16/toren-primeiras-impresoes"/>
    <updated>2015-07-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/16/toren-primeiras-impresoes</id>
-   <content type="html">&lt;p&gt;No dia do lançamento de Toren publicamos uma &lt;a href=&quot;/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/&quot;&gt;entrevista com Alessandro Martinello&lt;/a&gt;
-, onde o diretor criativo de Swordtales falava sobre o processo de criação do jogo, desafios e expectativas. Agora chegou a hora de publicarmos as primeiras impressões da equipe do canal Insert Coins em relação ao game.&lt;/p&gt;
+   <content type="html">&lt;p&gt;No dia do lançamento de Toren publicamos uma &lt;a href=&quot;/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/&quot;&gt;entrevista com Alessandro Martinello&lt;/a&gt;, onde o diretor criativo de Swordtales falava sobre o processo de criação do jogo, desafios e expectativas. Agora chegou a hora de publicarmos as primeiras impressões da equipe do canal Insert Coins em relação ao game.&lt;/p&gt;
 
 &lt;h2 id=&quot;gameplay-com-bom-humor&quot;&gt;Gameplay com bom humor&lt;/h2&gt;
 
@@ -398,8 +397,7 @@
    <link href="http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren"/>
    <updated>2015-05-12T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren</id>
-   <content type="html">&lt;p&gt;Depois de anos de espera, o dia chegou: &lt;a href=&quot;http://toren-game.com/&quot; target=&quot;_blank&quot;&gt;Toren da gaúcha Swordtales&lt;/a&gt;
- será lançado hoje, 12 de maio de 2015, para PC e PS4. Certamente um dia que entrará para a história do gamedev brasileiro.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Depois de anos de espera, o dia chegou: &lt;a href=&quot;http://toren-game.com/&quot;&gt;Toren da gaúcha Swordtales&lt;/a&gt; será lançado hoje, 12 de maio de 2015, para PC e PS4. Certamente um dia que entrará para a história do gamedev brasileiro.&lt;/p&gt;
 
 &lt;p&gt;Resolvemos deixar a análise do game para outro momento, uma porque hoje será um dia de enxurrada de análises e opiniões sobre o game. 
 E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes de tudo jogado. Viva o game primeiro! Opiniões tem seu valor, mas nenhuma superará aquela que é baseada no sua experiência e conhecimento.&lt;/p&gt;
@@ -441,15 +439,19 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
   &lt;p&gt;Alessandro Martinello: Sim, se a Lei Rouanet não tivesse nos ajudado a captar dinheiro com empresas privadas teríamos abandonado o projeto devido a qualidade que o jogo precisaria ter segundo o feedback do pessoal do Indie Fund (Kellee Santiago de Journey e Jonathan Blow de Braid), mas como deu certo e tínhamos o orçamento ideal, ai seguimos em frente e fizemos por merecer, tudo indica que estamos competitivos lá fora em termos de qualidade indie&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[sc:Interview_item interviewee=”Alessandro Martinello” question=”Gostaria de compartilhar  alguma curiosidade, acontecimento, ou lições sobre o processo de criação do Toren?” answer=”
-Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em comum com eles do que imaginava. Nada é o que parece neste ramo e as histórias contadas não condizem com a verdade que nós devs devemos buscar. Talvez eu esteja sendo dramático pré launch, mas foi uma jornada e tanto que merece uma grande vitória. “]&lt;/p&gt;
+&lt;h2 id=&quot;gostaria-de-compartilhar--alguma-curiosidade-acontecimento-ou-lições-sobre-o-processo-de-criação-do-toren&quot;&gt;Gostaria de compartilhar  alguma curiosidade, acontecimento, ou lições sobre o processo de criação do Toren?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Alessandro Martinello: Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em comum com eles do que imaginava. Nada é o que parece neste ramo e as histórias contadas não condizem com a verdade que nós devs devemos buscar. Talvez eu esteja sendo dramático pré launch, mas foi uma jornada e tanto que merece uma grande vitória.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;trailer-de-lançamento&quot;&gt;Trailer de lançamento&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/MR8qyuKfXyQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;&lt;strong&gt;&amp;gt; O jogosdaqui agradece ao Alessandro pela entrevista e deseja a toda a equipe da Swordtales um grande dia de lançamento e que Toren, sua jornada e história sirvam de inspiração tanto a jogadores quanto a gamedevs.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;O jogosdaqui agradece ao Alessandro pela entrevista e deseja a toda a equipe da Swordtales um grande dia de lançamento e que Toren, sua jornada e história sirvam de inspiração tanto a jogadores quanto a gamedevs.&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  

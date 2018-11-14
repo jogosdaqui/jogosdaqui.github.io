@@ -1761,10 +1761,6 @@
 <lastmod>2007-01-17T00:00:00-02:00</lastmod>
 </url>
 <url>
-<loc>/2007/01/17/menininhas.md.source</loc>
-<lastmod>2007-01-17T00:00:00-02:00</lastmod>
-</url>
-<url>
 <loc>/2007/01/18/plush-poison</loc>
 <lastmod>2007-01-18T00:00:00-02:00</lastmod>
 </url>
@@ -2921,9 +2917,6 @@
 <loc>/tags/elfland-studios/</loc>
 </url>
 <url>
-<loc>/tags/psp/</loc>
-</url>
-<url>
 <loc>/tags/entrevista/</loc>
 </url>
 <url>
@@ -3042,6 +3035,9 @@
 </url>
 <url>
 <loc>/tags/ex-games/</loc>
+</url>
+<url>
+<loc>/tags/psp/</loc>
 </url>
 <url>
 <loc>/tags/vortex-game-studios/</loc>
@@ -3389,6 +3385,9 @@
 <loc>/tags/insert-coins/</loc>
 </url>
 <url>
+<loc>/tags/coluna/</loc>
+</url>
+<url>
 <loc>/tags/trilha-sonora/</loc>
 </url>
 <url>
@@ -3504,9 +3503,6 @@
 </url>
 <url>
 <loc>/entrevistas/</loc>
-</url>
-<url>
-<loc>/entrevistas/2/</loc>
 </url>
 <url>
 <loc>/eventos/</loc>
@@ -3729,9 +3725,6 @@
 </url>
 <url>
 <loc>/69/</loc>
-</url>
-<url>
-<loc>/70/</loc>
 </url>
 <url>
 <loc>/jogos/</loc>

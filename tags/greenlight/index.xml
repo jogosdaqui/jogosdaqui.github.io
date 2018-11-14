@@ -3,7 +3,7 @@
  <title>Your Title - greenlight</title>
  <link href="http://example.com/tags/greenlight/index.xml" rel="self"/>
  <link href="http://example.com/tag/greenlight.html"/>
- <updated>2018-11-13T15:50:14-02:00</updated>
+ <updated>2018-11-14T07:16:42-02:00</updated>
  <id>http://example.com/tag/greenlight.html</id>
  <author>
    <name>Author Here</name>
@@ -142,9 +142,7 @@ no Steam.&lt;/p&gt;
    <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
-   <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot; target=&quot;_blank&quot;&gt;Blusoft Studios&lt;/a&gt;
-, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;
-. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
+   <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot;&gt;Blusoft Studios&lt;/a&gt;, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
 
 &lt;h2 id=&quot;para-contextualizar-o-leitor-conte-um-pouco-da-tua-história-no-gamedev&quot;&gt;Para contextualizar o leitor, conte um pouco da tua história no gamedev?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -156,8 +154,10 @@ no Steam.&lt;/p&gt;
   &lt;p&gt;Fernando Paulo: É difícil saber de onde exatamente surgiu o enredo. Primeiro eu pensei na mecânica principal do jogo (que seria o uso dos óculos pra poder ver objetos que não poderiam ser vistos de outra forma), e conforme eu desenvolvia, os detalhes do enredo foram surgindo. Eu quis fazer algo que inicialmente parecesse fantasia, mas que por trás disso tudo tivesse conceitos relacionados ao universo em geral.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_3258” align=”aligncenter” width=”640”]
- Treeker: Os Óculos Perdidos, game criado por Fernando Paulo[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker: Os Óculos Perdidos, game criado por Fernando Paulo &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;que-engine-e-tecnologias-utilizaste-no-desenvolvimento-do-game&quot;&gt;Que engine e tecnologias utilizaste no desenvolvimento do game?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -179,8 +179,10 @@ no Steam.&lt;/p&gt;
   &lt;p&gt;Fernando Paulo: Pode esperar um pouco de desafio e algumas mecânicas diferentes e que podem parecer até estranhas, como os elementos de plataforma em primeira pessoa. O enredo é mais misterioso, o jogador deve explorar o local em busca de detalhes e prestar bastante atenção, caso queira entender o que realmente está acontecendo em relação à história. No geral o jogo não força o jogador a seguir a história, e tem certa liberdade, sem ser algo totalmente linear.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_3253” align=”aligncenter” width=”640”]
- Treeker e seu visual 3D estiloso[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker e seu visual 3D estiloso &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;o-game-tem-um-visual-3d-bem-peculiar-e-estiloso-quais-foram-tuas-inspirações-durante-o-desenvolvimento-da-arte-do-game&quot;&gt;O game tem um visual 3D bem peculiar e estiloso. Quais foram tuas inspirações durante o desenvolvimento da arte do game?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -525,16 +527,11 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
    <link href="http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
    <updated>2015-04-29T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
-   <content type="html">&lt;p&gt;Para jogadores que curtem o estilo RPG roguelike point and click medieval, &lt;a title=&quot;Confira na Labindie&quot; href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot; target=&quot;_blank&quot;&gt;Milford Heaven&lt;/a&gt;
- é uma excelente opção.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Para jogadores que curtem o estilo RPG roguelike point and click medieval, &lt;a href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot;&gt;Milford Heaven&lt;/a&gt; é uma excelente opção.&lt;/p&gt;
 
-&lt;p&gt;O jogador (você no caso), é um guerreiro treinado na arte das espadas, viaja de cidade em cidade procurando quem possa empregar seus serviços. Um dia você está acampando perto da cidade Milford Heaven e decide visitar a taberna. Ao chegar lá, fica surpreso pois a taberna está totalmente vazia, sem ninguém. &lt;span style=&quot;line-height: 1.5;&quot;&gt;Conversando com o estalajadeiro, fica sabendo que existe um vampiro chamado Luken e que seu castelo fica situado nas redondezas da cidade.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;O jogador (você no caso), é um guerreiro treinado na arte das espadas, viaja de cidade em cidade procurando quem possa empregar seus serviços. Um dia você está acampando perto da cidade Milford Heaven e decide visitar a taberna. Ao chegar lá, fica surpreso pois a taberna está totalmente vazia, sem ninguém. Conversando com o estalajadeiro, fica sabendo que existe um vampiro chamado Luken e que seu castelo fica situado nas redondezas da cidade.&lt;/p&gt;
 
-&lt;p&gt;Neste último domingo também houve uma entrevista com o desenvolvedor Cristiano Grossi, no &lt;a title=&quot;Acompanhe as entrevistas com desenvolvedores de jogos e a Labindie&quot; href=&quot;http://twitch.tv/labindie&quot; target=&quot;_blank&quot;&gt;canal da Labindie na Twitch tv&lt;/a&gt;
- que em breve estará disponibilizada pela &lt;strong&gt;Labindie&lt;/strong&gt;. &lt;a title=&quot;Conheça o jogo  na Labindie&quot; href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot; target=&quot;_blank&quot;&gt;Conheçam mais sobre o jogo na Labindie&lt;/a&gt;
- através da landing page onde você poderá conferir vídeo, imagens, informações completas, link de compra para a &lt;a title=&quot;Compre na Splitplay&quot; href=&quot;http://www.splitplay.com.br/pt/games/milford-heaven&quot; target=&quot;_blank&quot;&gt;Splitplay &lt;/a&gt;
-e também para &lt;a title=&quot;Vote na Steam greenlight&quot; href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=423339041&quot; target=&quot;_blank&quot;&gt;Steam Greenlight&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;Neste último domingo também houve uma entrevista com o desenvolvedor Cristiano Grossi, no &lt;a href=&quot;http://twitch.tv/labindie&quot;&gt;canal da Labindie na Twitch tv&lt;/a&gt; que em breve estará disponibilizada pela &lt;strong&gt;Labindie&lt;/strong&gt;. &lt;a href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot;&gt;Conheçam mais sobre o jogo na Labindie&lt;/a&gt; através da landing page onde você poderá conferir vídeo, imagens, informações completas, link de compra para a &lt;a href=&quot;http://www.splitplay.com.br/pt/games/milford-heaven&quot;&gt;Splitplay&lt;/a&gt; e também para &lt;a href=&quot;ttp://steamcommunity.com/sharedfiles/filedetails/?id=423339041&quot;&gt;Steam Greenlight&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

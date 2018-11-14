@@ -3,7 +3,7 @@
  <title>Your Title - sao-paulo</title>
  <link href="http://example.com/tags/sao-paulo/index.xml" rel="self"/>
  <link href="http://example.com/tag/sao-paulo.html"/>
- <updated>2018-11-13T15:50:14-02:00</updated>
+ <updated>2018-11-14T07:16:42-02:00</updated>
  <id>http://example.com/tag/sao-paulo.html</id>
  <author>
    <name>Author Here</name>
@@ -305,12 +305,9 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
    <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1"/>
    <updated>2011-02-09T00:00:00-02:00</updated>
    <id>http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olaboração para o jogosdaqui.&lt;/span&gt;&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot;&gt;@own1e&lt;/a&gt; em colaboração para o jogosdaqui.&lt;/p&gt;
 
-&lt;h4 id=&quot;estúdio-fundado-há-pouco-mais-de-um-ano-mas-já-com-projetos-de-empresas-como-fiat-e-editora-abril-esta-é-a-ovni-studios-sediada-em-são-paulo-fomos-atrás-do-cabeça-da-companhia-tiago-moraes-para-saber-mais-sobre-a-indústria-e-o-mercado-nacional-e-internacional-além-das-perspectivas-para-o-futuro-na-primeira-parte-um-apanhado-sobre-o-começo-dele-no-desenvolvimento-de-jogos-a-dura-realidade-do-brasil-e-até-uns-pitacos-na-gameloft&quot;&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/h4&gt;
+&lt;p&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-de-você-e-do-seu-trabalho-na-ovni&quot;&gt;Fale um pouco de você e do seu trabalho na Ovni&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -340,8 +337,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
 &lt;center&gt;
         &lt;iframe src=&quot;https://player.vimeo.com/video/17389408 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
-&lt;center&gt;&lt;a href=&quot;/2010/12/27/dodgeball-safari/&quot;&gt;Dodgeball Safari&lt;/a&gt;
-, game para iPod/iPhone&lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Dodgeball Safari, game para iPod/iPhone &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;ao-mesmo-tempo-que-é-mais-acessível-desenvolver-para-ios-e-facebook-a-concorrência-deve-ser-muito-grande-também-vocês-fazem-um-trabalho-no-marketing-para-encontrar-o-caminho-de-distribuir-o-jogo&quot;&gt;Ao mesmo tempo que é mais acessível desenvolver para iOS e Facebook, a concorrência deve ser muito grande também. Vocês fazem um trabalho no marketing para encontrar o caminho de distribuir o jogo?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -353,9 +349,6 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
   &lt;p&gt;Tiago Moraes: Tentamos com algumas marcas bem aceitas no mercado nacional e internacional, mas dificilmente a conta fecha nesse modelo de negócio. Antes, a quantia que estava com o desenvolvedor era bem menor do que geralmente é trabalhado hoje: pela Apple você realmente fica com uma quantia grande de cada cópia vendida, mas no micropagamento se ganha pela quantidade em vez da qualidade, é realmente muito complicado de fazer a conta fechar.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_1830” align=”aligncenter” width=”320”]
- Fiat Uno Color Race: um dos games desenvolvidos pela Ovni Studios para iPod/iPhone[/caption]&lt;/p&gt;
-
 &lt;h2 id=&quot;a-gente-vê-a-gameloft-fazendo-cópia-de-muita-coisa&quot;&gt;A gente vê a Gameloft fazendo cópia de muita coisa…&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Tiago Moraes: É, a Gameloft é realmente um caso excepcional. Eles realmente copiam todo game design, trocam a skin, vendem milhões e mesmo assim são cópias bem interessantes, são jogos &quot;triple A&quot; de mobile.&lt;/p&gt;
@@ -366,9 +359,7 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
   &lt;p&gt;Tiago Moraes: Sim, todos os feedbacks que os brasileiros recebem das publicadores internacionais é sempre o mesmo: que o brasileiro quer sempre fazer algo revolucionário, não em complexidade, mas em querer uma mecânica nova, que ninguém viu antes. Mas se pensar como um negócio, às vezes é melhor pegar vários elementos de jogos que fizeram sucesso para ter um retorno mínimo garantido.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.&lt;/p&gt;
 </content>
  </entry>
  

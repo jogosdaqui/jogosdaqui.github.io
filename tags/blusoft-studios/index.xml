@@ -3,7 +3,7 @@
  <title>Your Title - blusoft-studios</title>
  <link href="http://example.com/tags/blusoft-studios/index.xml" rel="self"/>
  <link href="http://example.com/tag/blusoft-studios.html"/>
- <updated>2018-11-13T15:50:14-02:00</updated>
+ <updated>2018-11-14T07:16:42-02:00</updated>
  <id>http://example.com/tag/blusoft-studios.html</id>
  <author>
    <name>Author Here</name>
@@ -14,9 +14,7 @@
    <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
-   <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot; target=&quot;_blank&quot;&gt;Blusoft Studios&lt;/a&gt;
-, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;
-. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
+   <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot;&gt;Blusoft Studios&lt;/a&gt;, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
 
 &lt;h2 id=&quot;para-contextualizar-o-leitor-conte-um-pouco-da-tua-história-no-gamedev&quot;&gt;Para contextualizar o leitor, conte um pouco da tua história no gamedev?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -28,8 +26,10 @@
   &lt;p&gt;Fernando Paulo: É difícil saber de onde exatamente surgiu o enredo. Primeiro eu pensei na mecânica principal do jogo (que seria o uso dos óculos pra poder ver objetos que não poderiam ser vistos de outra forma), e conforme eu desenvolvia, os detalhes do enredo foram surgindo. Eu quis fazer algo que inicialmente parecesse fantasia, mas que por trás disso tudo tivesse conceitos relacionados ao universo em geral.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_3258” align=”aligncenter” width=”640”]
- Treeker: Os Óculos Perdidos, game criado por Fernando Paulo[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker: Os Óculos Perdidos, game criado por Fernando Paulo &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;que-engine-e-tecnologias-utilizaste-no-desenvolvimento-do-game&quot;&gt;Que engine e tecnologias utilizaste no desenvolvimento do game?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -51,8 +51,10 @@
   &lt;p&gt;Fernando Paulo: Pode esperar um pouco de desafio e algumas mecânicas diferentes e que podem parecer até estranhas, como os elementos de plataforma em primeira pessoa. O enredo é mais misterioso, o jogador deve explorar o local em busca de detalhes e prestar bastante atenção, caso queira entender o que realmente está acontecendo em relação à história. No geral o jogo não força o jogador a seguir a história, e tem certa liberdade, sem ser algo totalmente linear.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_3253” align=”aligncenter” width=”640”]
- Treeker e seu visual 3D estiloso[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker e seu visual 3D estiloso &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;o-game-tem-um-visual-3d-bem-peculiar-e-estiloso-quais-foram-tuas-inspirações-durante-o-desenvolvimento-da-arte-do-game&quot;&gt;O game tem um visual 3D bem peculiar e estiloso. Quais foram tuas inspirações durante o desenvolvimento da arte do game?&lt;/h2&gt;
 &lt;blockquote&gt;

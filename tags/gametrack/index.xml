@@ -3,7 +3,7 @@
  <title>Your Title - gametrack</title>
  <link href="http://example.com/tags/gametrack/index.xml" rel="self"/>
  <link href="http://example.com/tag/gametrack.html"/>
- <updated>2018-11-13T15:50:14-02:00</updated>
+ <updated>2018-11-14T07:16:42-02:00</updated>
  <id>http://example.com/tag/gametrack.html</id>
  <author>
    <name>Author Here</name>
@@ -312,8 +312,7 @@ Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando 
    <link href="http://example.com/2005/11/14/entrevista-gametrack"/>
    <updated>2005-11-14T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/14/entrevista-gametrack</id>
-   <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
-.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;Gametrack&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;O Gametrack é um portal produzido e mantido pela desenvolvedora brasileira Devworks Game Technology. Possui conteúdo exclusivo, como por exemplo a versão online do famoso WAR, jogo de tabuleiro da Grow que já fazia muito sucesso na sua forma convencional e que vem mantendo esse sucesso na forma online.&lt;/p&gt;
 
@@ -336,24 +335,25 @@ Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando 
   &lt;p&gt;Marcelo Carvalho: Sem dúvida. Tem mais 2 jogos famosos na fila: Imagem&amp;amp;Ação e Rummikub (um dos jogos mais vendidos do mundo). O Imagem&amp;amp;Ação é um desses jogos que o jogador só vai conseguir jogar adequadamente se possuir banda larga, pois enquanto um está desenhando, os outros estão tentando adivinhar a resposta. Do Rummikub, ainda não posso dar muitos detalhes, mas no ano quem vem terá o &quot;World Rummikub Champioship&quot; na Holanda (Evento realizado a cada 3 anos) e as chances são grandes de a seletiva brasileira ser realizada no Gametrack.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_2589” align=”aligncenter” width=”320”]
- Super Trunfo: mais um jogo famoso “portado” para o Gametrack[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Trunfo: mais um jogo famoso &quot;portado&quot; para o Gametrack &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;além-dos-jogos-multiplayer-o-portal-também-conta-com-6-jogos-singleplayer-vôlei-de-praia-pato-possante-pebolim-3d-xadrez-reversi-e-jogo-de-cintura-o-que-o-jogador-pode-esperar-de-cada-um-desses-jogos&quot;&gt;Além dos jogos multiplayer, o portal também conta com 6 jogos singleplayer: Vôlei de Praia, Pato Possante, Pebolim 3D, Xadrez, Reversi e Jogo de Cintura. O que o jogador pode esperar de cada um desses jogos?&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Marcelo Carvalho: São jogos divertidos. E o pessoal tem jogado principalmente o Vôlei de praia e o Xadrez (que tem uma Inteligência Artificial bastante desafiadora). Pretendemos colocar mais 4 jogos single-player no ar até o final do ano, incluindo o jogo de Dominó. A tendência é produzir jogos mais complexos no futuro, mas o foco inicial dessa complexidade é nos jogos multiplayer.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;center&gt;
-&amp;gt; Os jogos singleplayer do Gametrack&lt;/center&gt;
-
 &lt;h2 id=&quot;quais-os-jogos-de-maior-sucesso-entre-os-jogadores-do-gametrack&quot;&gt;Quais os jogos de maior sucesso entre os jogadores do Gametrack?&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Marcelo Carvalho: Sem dúvida, é o jogo de WAR. Foram criadas até comunidades do Orkut para quem joga WAR no Gametrack. São mais de 7 que temos notícias. Uma delas, a &quot;Eu jogo war no Gametrack&quot;, tem mais de 150 membros.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_2597” align=”aligncenter” width=”320”]
- WAR: o jogo de maior sucesso no Gametrack[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2005/11/14/entrevista-gametrack/war.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;WAR: o jogo de maior sucesso no Gametrack &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;um-campeonato-de-war-online-seria-bem-divertido-o-gametrack-promove-alguma-forma-de-campeonatos-entre-os-jogadores-do-portal&quot;&gt;Um campeonato de WAR online seria bem divertido, o Gametrack promove alguma forma de campeonatos entre os jogadores do portal?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -370,9 +370,7 @@ Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando 
   &lt;p&gt;Marcelo Carvalho: Sim, nos próximos 3 meses, colocaremos mais 4 jogos single-player no ar e mais 2 jogos multiplayer. No que vem, traremos MUITAS surpresas boas para os assinantes do portal.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.&lt;/p&gt;
 </content>
  </entry>
  

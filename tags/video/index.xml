@@ -3,7 +3,7 @@
  <title>Your Title - video</title>
  <link href="http://example.com/tags/video/index.xml" rel="self"/>
  <link href="http://example.com/tag/video.html"/>
- <updated>2018-11-13T15:50:14-02:00</updated>
+ <updated>2018-11-14T07:16:42-02:00</updated>
  <id>http://example.com/tag/video.html</id>
  <author>
    <name>Author Here</name>
@@ -871,8 +871,7 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
    <link href="http://example.com/2015/07/16/toren-primeiras-impresoes"/>
    <updated>2015-07-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/16/toren-primeiras-impresoes</id>
-   <content type="html">&lt;p&gt;No dia do lançamento de Toren publicamos uma &lt;a href=&quot;/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/&quot;&gt;entrevista com Alessandro Martinello&lt;/a&gt;
-, onde o diretor criativo de Swordtales falava sobre o processo de criação do jogo, desafios e expectativas. Agora chegou a hora de publicarmos as primeiras impressões da equipe do canal Insert Coins em relação ao game.&lt;/p&gt;
+   <content type="html">&lt;p&gt;No dia do lançamento de Toren publicamos uma &lt;a href=&quot;/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/&quot;&gt;entrevista com Alessandro Martinello&lt;/a&gt;, onde o diretor criativo de Swordtales falava sobre o processo de criação do jogo, desafios e expectativas. Agora chegou a hora de publicarmos as primeiras impressões da equipe do canal Insert Coins em relação ao game.&lt;/p&gt;
 
 &lt;h2 id=&quot;gameplay-com-bom-humor&quot;&gt;Gameplay com bom humor&lt;/h2&gt;
 
@@ -1672,9 +1671,7 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
    <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
-   <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot; target=&quot;_blank&quot;&gt;Blusoft Studios&lt;/a&gt;
-, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;
-. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
+   <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot;&gt;Blusoft Studios&lt;/a&gt;, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
 
 &lt;h2 id=&quot;para-contextualizar-o-leitor-conte-um-pouco-da-tua-história-no-gamedev&quot;&gt;Para contextualizar o leitor, conte um pouco da tua história no gamedev?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -1686,8 +1683,10 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
   &lt;p&gt;Fernando Paulo: É difícil saber de onde exatamente surgiu o enredo. Primeiro eu pensei na mecânica principal do jogo (que seria o uso dos óculos pra poder ver objetos que não poderiam ser vistos de outra forma), e conforme eu desenvolvia, os detalhes do enredo foram surgindo. Eu quis fazer algo que inicialmente parecesse fantasia, mas que por trás disso tudo tivesse conceitos relacionados ao universo em geral.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_3258” align=”aligncenter” width=”640”]
- Treeker: Os Óculos Perdidos, game criado por Fernando Paulo[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker: Os Óculos Perdidos, game criado por Fernando Paulo &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;que-engine-e-tecnologias-utilizaste-no-desenvolvimento-do-game&quot;&gt;Que engine e tecnologias utilizaste no desenvolvimento do game?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -1709,8 +1708,10 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
   &lt;p&gt;Fernando Paulo: Pode esperar um pouco de desafio e algumas mecânicas diferentes e que podem parecer até estranhas, como os elementos de plataforma em primeira pessoa. O enredo é mais misterioso, o jogador deve explorar o local em busca de detalhes e prestar bastante atenção, caso queira entender o que realmente está acontecendo em relação à história. No geral o jogo não força o jogador a seguir a história, e tem certa liberdade, sem ser algo totalmente linear.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_3253” align=”aligncenter” width=”640”]
- Treeker e seu visual 3D estiloso[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker e seu visual 3D estiloso &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;o-game-tem-um-visual-3d-bem-peculiar-e-estiloso-quais-foram-tuas-inspirações-durante-o-desenvolvimento-da-arte-do-game&quot;&gt;O game tem um visual 3D bem peculiar e estiloso. Quais foram tuas inspirações durante o desenvolvimento da arte do game?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2107,8 +2108,7 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
    <link href="http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren"/>
    <updated>2015-05-12T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren</id>
-   <content type="html">&lt;p&gt;Depois de anos de espera, o dia chegou: &lt;a href=&quot;http://toren-game.com/&quot; target=&quot;_blank&quot;&gt;Toren da gaúcha Swordtales&lt;/a&gt;
- será lançado hoje, 12 de maio de 2015, para PC e PS4. Certamente um dia que entrará para a história do gamedev brasileiro.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Depois de anos de espera, o dia chegou: &lt;a href=&quot;http://toren-game.com/&quot;&gt;Toren da gaúcha Swordtales&lt;/a&gt; será lançado hoje, 12 de maio de 2015, para PC e PS4. Certamente um dia que entrará para a história do gamedev brasileiro.&lt;/p&gt;
 
 &lt;p&gt;Resolvemos deixar a análise do game para outro momento, uma porque hoje será um dia de enxurrada de análises e opiniões sobre o game. 
 E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes de tudo jogado. Viva o game primeiro! Opiniões tem seu valor, mas nenhuma superará aquela que é baseada no sua experiência e conhecimento.&lt;/p&gt;
@@ -2150,15 +2150,19 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
   &lt;p&gt;Alessandro Martinello: Sim, se a Lei Rouanet não tivesse nos ajudado a captar dinheiro com empresas privadas teríamos abandonado o projeto devido a qualidade que o jogo precisaria ter segundo o feedback do pessoal do Indie Fund (Kellee Santiago de Journey e Jonathan Blow de Braid), mas como deu certo e tínhamos o orçamento ideal, ai seguimos em frente e fizemos por merecer, tudo indica que estamos competitivos lá fora em termos de qualidade indie&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[sc:Interview_item interviewee=”Alessandro Martinello” question=”Gostaria de compartilhar  alguma curiosidade, acontecimento, ou lições sobre o processo de criação do Toren?” answer=”
-Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em comum com eles do que imaginava. Nada é o que parece neste ramo e as histórias contadas não condizem com a verdade que nós devs devemos buscar. Talvez eu esteja sendo dramático pré launch, mas foi uma jornada e tanto que merece uma grande vitória. “]&lt;/p&gt;
+&lt;h2 id=&quot;gostaria-de-compartilhar--alguma-curiosidade-acontecimento-ou-lições-sobre-o-processo-de-criação-do-toren&quot;&gt;Gostaria de compartilhar  alguma curiosidade, acontecimento, ou lições sobre o processo de criação do Toren?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Alessandro Martinello: Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em comum com eles do que imaginava. Nada é o que parece neste ramo e as histórias contadas não condizem com a verdade que nós devs devemos buscar. Talvez eu esteja sendo dramático pré launch, mas foi uma jornada e tanto que merece uma grande vitória.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;trailer-de-lançamento&quot;&gt;Trailer de lançamento&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/MR8qyuKfXyQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;&lt;strong&gt;&amp;gt; O jogosdaqui agradece ao Alessandro pela entrevista e deseja a toda a equipe da Swordtales um grande dia de lançamento e que Toren, sua jornada e história sirvam de inspiração tanto a jogadores quanto a gamedevs.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;O jogosdaqui agradece ao Alessandro pela entrevista e deseja a toda a equipe da Swordtales um grande dia de lançamento e que Toren, sua jornada e história sirvam de inspiração tanto a jogadores quanto a gamedevs.&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  
@@ -2274,19 +2278,17 @@ Conheci mais de 70% dos meus ídolos de gamedev nesta jornada, e tenho mais em c
    <link href="http://example.com/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins"/>
    <updated>2015-05-06T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins</id>
-   <content type="html">&lt;p&gt;O jogosdaqui fechou parceria com o canal do &lt;a href=&quot;http://www.youtube.com/insertcoinsplay&quot; target=&quot;_blank&quot;&gt;YouTube Insert Coins&lt;/a&gt;
- e dessa parceria surgiu a &lt;a href=&quot;/categorias/colunas/insert-coins/&quot; target=&quot;_blank&quot;&gt;coluna Insert Coins&lt;/a&gt;
- no jogosdaqui.&lt;/p&gt;
+   <content type="html">&lt;p&gt;O jogosdaqui fechou parceria com o canal do &lt;a href=&quot;http://www.youtube.com/insertcoinsplay&quot;&gt;YouTube Insert Coins&lt;/a&gt; e dessa parceria surgiu a &lt;a href=&quot;/tags/insert-coins/&quot;&gt;coluna Insert Coins&lt;/a&gt; no jogosdaqui.&lt;/p&gt;
 
 &lt;h2 id=&quot;conheça-o-insert-coins&quot;&gt;Conheça o Insert Coins&lt;/h2&gt;
-&lt;blockquote&gt;De hardcore gamers, o Insert Coins vem para mudar a monotonia atual dos canais de Gameplays brasileiros, com gameplays dinâmicos com diversos participantes.
+&lt;blockquote&gt;
+  &lt;p&gt;De hardcore gamers, o Insert Coins vem para mudar a monotonia atual dos canais de Gameplays brasileiros, com gameplays dinâmicos com diversos participantes.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;parceria-com-o-jogosdaqui&quot;&gt;Parceria com o jogosdaqui&lt;/h2&gt;
 &lt;p&gt;Toda vez que o canal publicar vídeos relacionados a games nacionais eles serão vinculados no portal jogosdaqui e assim aumentando e enriquecendo o nosso conteúdo sobre os games brasileiros.&lt;/p&gt;
 
-&lt;p&gt;O primeiro artigo da coluna é o &lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;
-, onde o equipe do canal nos apresenta o gameplay do game brasileiro GKE, juntamente com um dos desenvolvedores do game, o programador Joe Junior. &lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Confira!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;O primeiro artigo da coluna é o &lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;, onde o equipe do canal nos apresenta o gameplay do game brasileiro GKE, juntamente com um dos desenvolvedores do game, o programador Joe Junior. &lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Confira!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Pessoal do Insert Coins, sejam bem-vindos ao jogosdaqui!&lt;/p&gt;
 </content>
@@ -3788,12 +3790,9 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
    <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1"/>
    <updated>2011-02-09T00:00:00-02:00</updated>
    <id>http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olaboração para o jogosdaqui.&lt;/span&gt;&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot;&gt;@own1e&lt;/a&gt; em colaboração para o jogosdaqui.&lt;/p&gt;
 
-&lt;h4 id=&quot;estúdio-fundado-há-pouco-mais-de-um-ano-mas-já-com-projetos-de-empresas-como-fiat-e-editora-abril-esta-é-a-ovni-studios-sediada-em-são-paulo-fomos-atrás-do-cabeça-da-companhia-tiago-moraes-para-saber-mais-sobre-a-indústria-e-o-mercado-nacional-e-internacional-além-das-perspectivas-para-o-futuro-na-primeira-parte-um-apanhado-sobre-o-começo-dele-no-desenvolvimento-de-jogos-a-dura-realidade-do-brasil-e-até-uns-pitacos-na-gameloft&quot;&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/h4&gt;
+&lt;p&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-de-você-e-do-seu-trabalho-na-ovni&quot;&gt;Fale um pouco de você e do seu trabalho na Ovni&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -3823,8 +3822,7 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
 &lt;center&gt;
         &lt;iframe src=&quot;https://player.vimeo.com/video/17389408 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
-&lt;center&gt;&lt;a href=&quot;/2010/12/27/dodgeball-safari/&quot;&gt;Dodgeball Safari&lt;/a&gt;
-, game para iPod/iPhone&lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Dodgeball Safari, game para iPod/iPhone &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;ao-mesmo-tempo-que-é-mais-acessível-desenvolver-para-ios-e-facebook-a-concorrência-deve-ser-muito-grande-também-vocês-fazem-um-trabalho-no-marketing-para-encontrar-o-caminho-de-distribuir-o-jogo&quot;&gt;Ao mesmo tempo que é mais acessível desenvolver para iOS e Facebook, a concorrência deve ser muito grande também. Vocês fazem um trabalho no marketing para encontrar o caminho de distribuir o jogo?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -3836,9 +3834,6 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
   &lt;p&gt;Tiago Moraes: Tentamos com algumas marcas bem aceitas no mercado nacional e internacional, mas dificilmente a conta fecha nesse modelo de negócio. Antes, a quantia que estava com o desenvolvedor era bem menor do que geralmente é trabalhado hoje: pela Apple você realmente fica com uma quantia grande de cada cópia vendida, mas no micropagamento se ganha pela quantidade em vez da qualidade, é realmente muito complicado de fazer a conta fechar.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_1830” align=”aligncenter” width=”320”]
- Fiat Uno Color Race: um dos games desenvolvidos pela Ovni Studios para iPod/iPhone[/caption]&lt;/p&gt;
-
 &lt;h2 id=&quot;a-gente-vê-a-gameloft-fazendo-cópia-de-muita-coisa&quot;&gt;A gente vê a Gameloft fazendo cópia de muita coisa…&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Tiago Moraes: É, a Gameloft é realmente um caso excepcional. Eles realmente copiam todo game design, trocam a skin, vendem milhões e mesmo assim são cópias bem interessantes, são jogos &quot;triple A&quot; de mobile.&lt;/p&gt;
@@ -3849,9 +3844,7 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
   &lt;p&gt;Tiago Moraes: Sim, todos os feedbacks que os brasileiros recebem das publicadores internacionais é sempre o mesmo: que o brasileiro quer sempre fazer algo revolucionário, não em complexidade, mas em querer uma mecânica nova, que ninguém viu antes. Mas se pensar como um negócio, às vezes é melhor pegar vários elementos de jogos que fizeram sucesso para ter um retorno mínimo garantido.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.&lt;/p&gt;
 </content>
  </entry>
  

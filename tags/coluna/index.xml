@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - coluna</title>
+ <link href="http://example.com/tags/coluna/index.xml" rel="self"/>
+ <link href="http://example.com/tag/coluna.html"/>
+ <updated>2018-11-14T07:16:42-02:00</updated>
+ <id>http://example.com/tag/coluna.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Toren: primeiras impressões</title>
+   <link href="http://example.com/2015/07/16/toren-primeiras-impresoes"/>
+   <updated>2015-07-16T00:00:00-03:00</updated>
+   <id>http://example.com/2015/07/16/toren-primeiras-impresoes</id>
+   <content type="html">&lt;p&gt;No dia do lançamento de Toren publicamos uma &lt;a href=&quot;/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/&quot;&gt;entrevista com Alessandro Martinello&lt;/a&gt;, onde o diretor criativo de Swordtales falava sobre o processo de criação do jogo, desafios e expectativas. Agora chegou a hora de publicarmos as primeiras impressões da equipe do canal Insert Coins em relação ao game.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay-com-bom-humor&quot;&gt;Gameplay com bom humor&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dá pra cortar o mato? Não é Zelda! (comentário nos primeiros segundos do gameplay”)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Abriu a porta da esperança…porta número 1? Tem um monstro (comenta ijimero)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;toren-por-insert-coins&quot;&gt;Toren por Insert Coins&lt;/h2&gt;
+&lt;p&gt;Confira o video abaixo que, com muito bom humor, mostra as primeiros 30 minutos de gameplay do belo e enigmático Toren.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/isQkB5JXzBs &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nova coluna no jogosdaqui: Insert Coins</title>
+   <link href="http://example.com/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins"/>
+   <updated>2015-05-06T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins</id>
+   <content type="html">&lt;p&gt;O jogosdaqui fechou parceria com o canal do &lt;a href=&quot;http://www.youtube.com/insertcoinsplay&quot;&gt;YouTube Insert Coins&lt;/a&gt; e dessa parceria surgiu a &lt;a href=&quot;/tags/insert-coins/&quot;&gt;coluna Insert Coins&lt;/a&gt; no jogosdaqui.&lt;/p&gt;
+
+&lt;h2 id=&quot;conheça-o-insert-coins&quot;&gt;Conheça o Insert Coins&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;De hardcore gamers, o Insert Coins vem para mudar a monotonia atual dos canais de Gameplays brasileiros, com gameplays dinâmicos com diversos participantes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;parceria-com-o-jogosdaqui&quot;&gt;Parceria com o jogosdaqui&lt;/h2&gt;
+&lt;p&gt;Toda vez que o canal publicar vídeos relacionados a games nacionais eles serão vinculados no portal jogosdaqui e assim aumentando e enriquecendo o nosso conteúdo sobre os games brasileiros.&lt;/p&gt;
+
+&lt;p&gt;O primeiro artigo da coluna é o &lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;, onde o equipe do canal nos apresenta o gameplay do game brasileiro GKE, juntamente com um dos desenvolvedores do game, o programador Joe Junior. &lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Confira!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pessoal do Insert Coins, sejam bem-vindos ao jogosdaqui!&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

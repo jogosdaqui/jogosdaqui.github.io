@@ -3,7 +3,7 @@
  <title>Your Title - devworks-game-technology</title>
  <link href="http://example.com/tags/devworks-game-technology/index.xml" rel="self"/>
  <link href="http://example.com/tag/devworks-game-technology.html"/>
- <updated>2018-11-13T15:50:14-02:00</updated>
+ <updated>2018-11-14T07:16:42-02:00</updated>
  <id>http://example.com/tag/devworks-game-technology.html</id>
  <author>
    <name>Author Here</name>
@@ -14,12 +14,9 @@
    <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1"/>
    <updated>2011-02-09T00:00:00-02:00</updated>
    <id>http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olaboração para o jogosdaqui.&lt;/span&gt;&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot;&gt;@own1e&lt;/a&gt; em colaboração para o jogosdaqui.&lt;/p&gt;
 
-&lt;h4 id=&quot;estúdio-fundado-há-pouco-mais-de-um-ano-mas-já-com-projetos-de-empresas-como-fiat-e-editora-abril-esta-é-a-ovni-studios-sediada-em-são-paulo-fomos-atrás-do-cabeça-da-companhia-tiago-moraes-para-saber-mais-sobre-a-indústria-e-o-mercado-nacional-e-internacional-além-das-perspectivas-para-o-futuro-na-primeira-parte-um-apanhado-sobre-o-começo-dele-no-desenvolvimento-de-jogos-a-dura-realidade-do-brasil-e-até-uns-pitacos-na-gameloft&quot;&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/h4&gt;
+&lt;p&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-de-você-e-do-seu-trabalho-na-ovni&quot;&gt;Fale um pouco de você e do seu trabalho na Ovni&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -49,8 +46,7 @@
 &lt;center&gt;
         &lt;iframe src=&quot;https://player.vimeo.com/video/17389408 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
-&lt;center&gt;&lt;a href=&quot;/2010/12/27/dodgeball-safari/&quot;&gt;Dodgeball Safari&lt;/a&gt;
-, game para iPod/iPhone&lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Dodgeball Safari, game para iPod/iPhone &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;ao-mesmo-tempo-que-é-mais-acessível-desenvolver-para-ios-e-facebook-a-concorrência-deve-ser-muito-grande-também-vocês-fazem-um-trabalho-no-marketing-para-encontrar-o-caminho-de-distribuir-o-jogo&quot;&gt;Ao mesmo tempo que é mais acessível desenvolver para iOS e Facebook, a concorrência deve ser muito grande também. Vocês fazem um trabalho no marketing para encontrar o caminho de distribuir o jogo?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -62,9 +58,6 @@
   &lt;p&gt;Tiago Moraes: Tentamos com algumas marcas bem aceitas no mercado nacional e internacional, mas dificilmente a conta fecha nesse modelo de negócio. Antes, a quantia que estava com o desenvolvedor era bem menor do que geralmente é trabalhado hoje: pela Apple você realmente fica com uma quantia grande de cada cópia vendida, mas no micropagamento se ganha pela quantidade em vez da qualidade, é realmente muito complicado de fazer a conta fechar.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_1830” align=”aligncenter” width=”320”]
- Fiat Uno Color Race: um dos games desenvolvidos pela Ovni Studios para iPod/iPhone[/caption]&lt;/p&gt;
-
 &lt;h2 id=&quot;a-gente-vê-a-gameloft-fazendo-cópia-de-muita-coisa&quot;&gt;A gente vê a Gameloft fazendo cópia de muita coisa…&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Tiago Moraes: É, a Gameloft é realmente um caso excepcional. Eles realmente copiam todo game design, trocam a skin, vendem milhões e mesmo assim são cópias bem interessantes, são jogos &quot;triple A&quot; de mobile.&lt;/p&gt;
@@ -75,9 +68,7 @@
   &lt;p&gt;Tiago Moraes: Sim, todos os feedbacks que os brasileiros recebem das publicadores internacionais é sempre o mesmo: que o brasileiro quer sempre fazer algo revolucionário, não em complexidade, mas em querer uma mecânica nova, que ninguém viu antes. Mas se pensar como um negócio, às vezes é melhor pegar vários elementos de jogos que fizeram sucesso para ter um retorno mínimo garantido.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Em breve você poderá conferir a segunda parte da entrevista de Tiago Moraes para o jogosdaqui, onde abordamos mais as produções da própria Ovni e os planos futuros deles.&lt;/p&gt;
 </content>
  </entry>
  
@@ -395,8 +386,7 @@
    <link href="http://example.com/2005/11/14/entrevista-gametrack"/>
    <updated>2005-11-14T00:00:00-02:00</updated>
    <id>http://example.com/2005/11/14/entrevista-gametrack</id>
-   <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
-.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;Gametrack&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;O Gametrack é um portal produzido e mantido pela desenvolvedora brasileira Devworks Game Technology. Possui conteúdo exclusivo, como por exemplo a versão online do famoso WAR, jogo de tabuleiro da Grow que já fazia muito sucesso na sua forma convencional e que vem mantendo esse sucesso na forma online.&lt;/p&gt;
 
@@ -419,24 +409,25 @@
   &lt;p&gt;Marcelo Carvalho: Sem dúvida. Tem mais 2 jogos famosos na fila: Imagem&amp;amp;Ação e Rummikub (um dos jogos mais vendidos do mundo). O Imagem&amp;amp;Ação é um desses jogos que o jogador só vai conseguir jogar adequadamente se possuir banda larga, pois enquanto um está desenhando, os outros estão tentando adivinhar a resposta. Do Rummikub, ainda não posso dar muitos detalhes, mas no ano quem vem terá o &quot;World Rummikub Champioship&quot; na Holanda (Evento realizado a cada 3 anos) e as chances são grandes de a seletiva brasileira ser realizada no Gametrack.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_2589” align=”aligncenter” width=”320”]
- Super Trunfo: mais um jogo famoso “portado” para o Gametrack[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Trunfo: mais um jogo famoso &quot;portado&quot; para o Gametrack &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;além-dos-jogos-multiplayer-o-portal-também-conta-com-6-jogos-singleplayer-vôlei-de-praia-pato-possante-pebolim-3d-xadrez-reversi-e-jogo-de-cintura-o-que-o-jogador-pode-esperar-de-cada-um-desses-jogos&quot;&gt;Além dos jogos multiplayer, o portal também conta com 6 jogos singleplayer: Vôlei de Praia, Pato Possante, Pebolim 3D, Xadrez, Reversi e Jogo de Cintura. O que o jogador pode esperar de cada um desses jogos?&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Marcelo Carvalho: São jogos divertidos. E o pessoal tem jogado principalmente o Vôlei de praia e o Xadrez (que tem uma Inteligência Artificial bastante desafiadora). Pretendemos colocar mais 4 jogos single-player no ar até o final do ano, incluindo o jogo de Dominó. A tendência é produzir jogos mais complexos no futuro, mas o foco inicial dessa complexidade é nos jogos multiplayer.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;center&gt;
-&amp;gt; Os jogos singleplayer do Gametrack&lt;/center&gt;
-
 &lt;h2 id=&quot;quais-os-jogos-de-maior-sucesso-entre-os-jogadores-do-gametrack&quot;&gt;Quais os jogos de maior sucesso entre os jogadores do Gametrack?&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Marcelo Carvalho: Sem dúvida, é o jogo de WAR. Foram criadas até comunidades do Orkut para quem joga WAR no Gametrack. São mais de 7 que temos notícias. Uma delas, a &quot;Eu jogo war no Gametrack&quot;, tem mais de 150 membros.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_2597” align=”aligncenter” width=”320”]
- WAR: o jogo de maior sucesso no Gametrack[/caption]&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;../../../../images/galleries/2005/11/14/entrevista-gametrack/war.jpg &quot; /&gt;
+      &lt;/center&gt;
+&lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;WAR: o jogo de maior sucesso no Gametrack &lt;/span&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;um-campeonato-de-war-online-seria-bem-divertido-o-gametrack-promove-alguma-forma-de-campeonatos-entre-os-jogadores-do-portal&quot;&gt;Um campeonato de WAR online seria bem divertido, o Gametrack promove alguma forma de campeonatos entre os jogadores do portal?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -453,9 +444,7 @@
   &lt;p&gt;Marcelo Carvalho: Sim, nos próximos 3 meses, colocaremos mais 4 jogos single-player no ar e mais 2 jogos multiplayer. No que vem, traremos MUITAS surpresas boas para os assinantes do portal.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.&lt;/p&gt;
 </content>
  </entry>
  

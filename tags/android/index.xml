@@ -3,7 +3,7 @@
  <title>Your Title - android</title>
  <link href="http://example.com/tags/android/index.xml" rel="self"/>
  <link href="http://example.com/tag/android.html"/>
- <updated>2018-11-13T15:50:14-02:00</updated>
+ <updated>2018-11-14T07:16:42-02:00</updated>
  <id>http://example.com/tag/android.html</id>
  <author>
    <name>Author Here</name>
@@ -1756,14 +1756,9 @@ A jogabilidade do game é simples: suba no alto da Mega Rampa, escolha força e 
    <link href="http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2"/>
    <updated>2011-02-25T00:00:00-03:00</updated>
    <id>http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olaboração para o jogosdaqui.&lt;/span&gt;&amp;lt;/span&amp;gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot;&gt;@own1e&lt;/a&gt; em colaboração para o jogosdaqui.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.&lt;/p&gt;
 
 &lt;h2 id=&quot;sobre-os-jogos-de-vocês-apresente-o-que-vocês-já-fizeram&quot;&gt;Sobre os jogos de vocês, apresente o que vocês já fizeram&lt;/h2&gt;
 &lt;blockquote&gt;
