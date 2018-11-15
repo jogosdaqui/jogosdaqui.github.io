@@ -3,11 +3,22 @@
  <title>Your Title - brutomemo-entertainment</title>
  <link href="http://example.com/tags/brutomemo-entertainment/index.xml" rel="self"/>
  <link href="http://example.com/tag/brutomemo-entertainment.html"/>
- <updated>2018-11-15T10:15:39-02:00</updated>
+ <updated>2018-11-15T15:52:17-02:00</updated>
  <id>http://example.com/tag/brutomemo-entertainment.html</id>
  <author>
    <name>Author Here</name>
  </author>
+ 
+ <entry>
+   <title>BrutoMemo, Druids: Battle of Magic</title>
+   <link href="http://example.com/2006/06/21/brutomemo-druids-battle-of-magic"/>
+   <updated>2006-06-21T00:00:00-03:00</updated>
+   <id>http://example.com/2006/06/21/brutomemo-druids-battle-of-magic</id>
+   <content type="html">&lt;p&gt;Druids: Battle of Magic, é o primeiro jogo comercial da empresa BrutoMemo. Fundada em 2005, difundiu seis de seus jogos gratuitos em seu site.  A empresa tem mais dois jogos em andamento para serem finalizados este ano.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2006/06/20/druids-battle-of-magic&quot;&gt;Veja o novo jogo da BrutoMemo…&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Druids: Battle of Magic</title>

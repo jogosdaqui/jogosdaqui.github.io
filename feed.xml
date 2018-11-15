@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-15T10:15:39-02:00</updated><id>/feed.xml</id><title type="html">jogosdaqui</title><subtitle>O maior banco de dados sobre os games desenvolvidos no Brasil</subtitle><entry><title type="html">Mikura Going Home</title><link href="/2015/11/11/mikura-going-home" rel="alternate" type="text/html" title="Mikura Going Home" /><published>2015-11-11T00:00:00-02:00</published><updated>2015-11-11T00:00:00-02:00</updated><id>/2015/11/11/mikura-going-home</id><content type="html" xml:base="/2015/11/11/mikura-going-home">&lt;p&gt;Existem centenas de espécies de águas-vivas ou medusas, algumas delas são utilizadas na culinária, principalmente na ásia. Outras espécies na biotecnologia, onde os cientistas utilizam a proteína verde fluorescente existente em algumas variedades para tentar entender melhor como certos genes se manifestam em outros seres vivos.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-15T15:52:17-02:00</updated><id>/feed.xml</id><title type="html">jogosdaqui</title><subtitle>A maior fonte colaborativa sobre games desenvolvidos no Brasil</subtitle><entry><title type="html">jogosdaqui: open source e colaborativo</title><link href="/2018/11/15/jogosdaqui-open-source-e-colaborativo" rel="alternate" type="text/html" title="jogosdaqui: open source e colaborativo" /><published>2018-11-15T00:00:00-02:00</published><updated>2018-11-15T00:00:00-02:00</updated><id>/2018/11/15/jogosdaqui-open-source-e-colaborativo</id><content type="html" xml:base="/2018/11/15/jogosdaqui-open-source-e-colaborativo">&lt;h2 id=&quot;um-pouco-de-história&quot;&gt;Um pouco de história&lt;/h2&gt;
+&lt;p&gt;O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2018/11/15/jogosdaqui-open-source-e-colaborativo/150-jogosdaqui.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;open-source&quot;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Para que esse material não fosse perdido, pois de alguma forma todo o conteúdo do site ajuda a contar a história do desenvolvimento de jogos brasiliero, tomei a decisão de tornar o jogosdaqui open source.&lt;/p&gt;
+
+&lt;p&gt;Atualmente temos as seguintes estatísticas:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Notícias: 359&lt;/li&gt;
+  &lt;li&gt;Prévias: 64&lt;/li&gt;
+  &lt;li&gt;Jogos: 192&lt;/li&gt;
+  &lt;li&gt;Entrevistas: 8&lt;/li&gt;
+  &lt;li&gt;Eventos: 34&lt;/li&gt;
+  &lt;li&gt;Colunas: 26&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todo esse material está disponível no &lt;a href=&quot;https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll&quot;&gt;GitHub do jogosdaqui&lt;/a&gt;, permitindo que qualquer pessoa possa colaborar com melhoria nos conteúdos, formatação, definição de tags etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;colaborativo&quot;&gt;Colaborativo&lt;/h2&gt;
+&lt;p&gt;Espero que tornando-o open source, o jogosdaqui também comece a receber novos conteúdos de forma colaborativa através da comunidade de jogadores e desenvolvedores de games nacionais.&lt;/p&gt;
+
+&lt;p&gt;Existem formas de desenvolvedores e não desenvolvedores colaborarem com o jogosdaqui, veja em mais detalhes na &lt;a href=&quot;/colabore&quot;&gt;nossa página Colabore&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;agradecimentos&quot;&gt;Agradecimentos&lt;/h2&gt;
+&lt;p&gt;Gostaria de agradecer a todos que colaboraram e incentivaram o jogosdaqui todos esses anos: muito obrigado!&lt;/p&gt;
+
+&lt;p&gt;Fica meu agradecimento especial as pessoas que junto comigo em 2005 fundaram o jogosdaqui:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Edison Henrique Andreassy&lt;/li&gt;
+  &lt;li&gt;Giusepe Casagrande&lt;/li&gt;
+  &lt;li&gt;Sulema Muñoz Andreassy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Espero que gostem da iniciativa e que também venham em algum momento colaborar.&lt;br /&gt;
+Forca sempre!&lt;br /&gt;
+Diego Giacomelli&lt;/em&gt;&lt;/p&gt;</content><author><name>Diego Giacomelli</name></author><category term="open-source" /><summary type="html">Um pouco de história O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.</summary></entry><entry><title type="html">Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</title><link href="/2018/11/14/blazing-chrome-vai-desafiar-jogadores" rel="alternate" type="text/html" title="Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019" /><published>2018-11-14T00:00:00-02:00</published><updated>2018-11-14T00:00:00-02:00</updated><id>/2018/11/14/blazing-chrome-vai-desafiar-jogadores</id><content type="html" xml:base="/2018/11/14/blazing-chrome-vai-desafiar-jogadores">&lt;blockquote&gt;
+  &lt;p&gt;Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O estúdio independente Joymasher e a publisher The Arcade Crew anunciam hoje que Blazing Chrome, o aguardado jogo estilo run’n’gun clássico em que máquinas controladas por uma inteligência artifical dizimaram a humanidade, trará para o começo de 2019 a sua luta pela espécie humana para novas plataformas: Nintendo Switch, PlayStation 4 e PC. A página do Steam também já está disponível.&lt;/p&gt;
+
+&lt;p&gt;O novo vídeo de gameplay lançado hoje mostra com exclusividade vislumbres dos ambientes destruídos e das bases inimigas, que o jogador deve enfrentar na última chance de sobrevivência da humanidade. Nossos heróis, Mavra e Doyle, terão de manter a mira firme enquanto atravessam essas áreas devastadas, contando com uma mãozinha extra de power-ups, mechas e um arsenal de armas futurísticas para se manterem vivos nesta zona de guerra.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/oh_Ur5OKhmQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Blazing Chrome é uma homenagem à era de ouro dos jogos de plataforma shooter side-scroller que leva em consideração o gameplay contemporâneo. O jogo busca dar a experiência mais próxima possível de um jogo dos anos 90, mas sem os problemas de gameplay que um jogador de hoje encontraria. Jogadores terão de enfretar seis diferentes levels cheios de robôs feitos para destruir humanos como Mavra, a guerrilheira solitária, ou Doyle, o robô rebelde que luta por liberdade.&lt;/p&gt;
+
+&lt;p&gt;Fãs de No More Heroes também podem mostrar seu amor por Blazing Chrome no jogo Travis Strikes Again: No More Heroes, para Nintendo Switch, usando a camiseta exclusiva. Você pode ver o design no &lt;a href=&quot;https://twitter.com/Grasshopper_JP/status/1060811401738899457&quot;&gt;twit original da Grasshopper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="joymasher" /><category term="press-release" /><category term="switch" /><category term="ps4" /><category term="windows" /><summary type="html">Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas</summary></entry><entry><title type="html">Mikura Going Home</title><link href="/2015/11/11/mikura-going-home" rel="alternate" type="text/html" title="Mikura Going Home" /><published>2015-11-11T00:00:00-02:00</published><updated>2015-11-11T00:00:00-02:00</updated><id>/2015/11/11/mikura-going-home</id><content type="html" xml:base="/2015/11/11/mikura-going-home">&lt;p&gt;Existem centenas de espécies de águas-vivas ou medusas, algumas delas são utilizadas na culinária, principalmente na ásia. Outras espécies na biotecnologia, onde os cientistas utilizam a proteína verde fluorescente existente em algumas variedades para tentar entender melhor como certos genes se manifestam em outros seres vivos.&lt;/p&gt;
 
 &lt;p&gt;Apesar de toda essa diversidade de águas-vivas que encontramos na natureza, nenhuma delas se compara a Mikura, pois ao contrário da maioria, Mikura não vivia nos oceanos, mas na Lua. Um dia ela caiu do nosso satélite natural e foi parar aqui na Terra.&lt;/p&gt;
 
@@ -293,52 +352,4 @@ no Steam.&lt;/p&gt;
 &lt;h2 id=&quot;playthrough-chroma-squad&quot;&gt;Playthrough Chroma Squad&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/O2ihgCdvAUo &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;</content><author><name></name></author><category term="chroma-squad" /><category term="behold-studios" /><category term="insert-coins" /><category term="rpg" /><category term="video" /><summary type="html">A galera do Insert Coins relembra a infância na série de playthrough Chroma Squad! Confira o vídeo abaixo e veja como o estúdio ICTV se saiu no seu quarto episódio. Playthrough Chroma Squad</summary></entry><entry><title type="html">Xmile e Playmove firmam parceria</title><link href="/2015/09/30/xmile-e-playmove-firmam-parceria" rel="alternate" type="text/html" title="Xmile e Playmove firmam parceria" /><published>2015-09-30T00:00:00-03:00</published><updated>2015-09-30T00:00:00-03:00</updated><id>/2015/09/30/xmile-e-playmove-firmam-parceria</id><content type="html" xml:base="/2015/09/30/xmile-e-playmove-firmam-parceria">&lt;p&gt;Em julho passado &lt;a href=&quot;/2015/07/20/playtable-busca-desenvolvedores/&quot;&gt;falamos aqui no jogosdaqui&lt;/a&gt;
- que a catarinense PlayMove estava abrindo o cadastro para empresas interessadas em produzir jogos para sua PlayTable, primeira mesa digital com jogos educativos do Brasil.&lt;/p&gt;
-
-&lt;h2 id=&quot;xmile-e-playmove&quot;&gt;Xmile e Playmove&lt;/h2&gt;
-&lt;p&gt;A primeira empresa a firmar essa parceria é também outra catarinense, a Xmile, empresa de educação que usa a tecnologia como meio de promover a aprendizagem. Segundo o diretor executivo da Playmove, a parceria traz para a plataforma uma nova abordagem de jogos e um novo olhar para explorar a ludopedagogia por meio da PlayTable. A fundamentação pedagógica dos jogos desenvolvidos pela Xmile conta com uma assinatura de peso: a Dra Maria Isabel Leite, PhD em Educação, com mais de 35 anos de experiência. Junto a uma equipe de mais 20 educadores, a produção de recursos lúdicos também foi priorizada pelo estúdio.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A Xmile possui um conjunto de jogos adequados ao nosso propósito de ensinar brincando. Além disso, a fundamentação pedagógica é muito forte e focada no ciclo de alfabetização e no Ensino Fundamental I, alvos de atuação da PlayTable (destaca o diretor executivo da Playmove, Marlon Souza)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;os-jogos&quot;&gt;Os jogos&lt;/h2&gt;
-&lt;p&gt;Por meio da parceria, os jogos Mistérios dos Sonhos e Blubka, que juntos somam cinco títulos, serão lançados para a PlayTable na segunda quinzena de outubro.&lt;/p&gt;
-
-&lt;h2 id=&quot;mistérios-dos-sonhos&quot;&gt;Mistérios dos Sonhos&lt;/h2&gt;
-
-&lt;p&gt;Mistérios dos Sonhos: é um lugar mágico e misterioso onde vão parar todas as coisas que perdemos no mundo real. É lá que surgem todos nossos medos e é lá também onde todas as lendas e contos de fadas têm origem. Mas esse lugar fantástico está em perigo! Convocadas para desvendar os misteriosos desaparecimentos que vêm ocorrendo, as crianças são os Guardiões dos Sonhos e embarcam em uma grande e inesquecível aventura.&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/VtdvUYrYq2c &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;h2 id=&quot;blubka&quot;&gt;Blubka&lt;/h2&gt;
-
-&lt;p&gt;Enquanto vagava pelo espaço em sua missão de exploração, a nave do Viajante Estelar enviado pela Terra é atingida pela frota de impiedosos alienígenas, fazendo-a cair no então desconhecido planeta Blubka.&lt;/p&gt;
-
-&lt;p&gt;Agora, para consertar sua nave e poder seguir viagem, o viajante precisará contar com a ajuda de um simpático e curioso habitante de Blubka, o Flix. Enquanto isso, os terríveis zorgues  invadem o planeta Blubka atrás das lendárias tecnologias ancestrais.&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/zmUI4qOmpwU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;h2 id=&quot;programa-de-parceiros&quot;&gt;Programa de parceiros&lt;/h2&gt;
-&lt;p&gt;Além da Xmile, outros cinco estúdios estão desenvolvendo jogos para a PlayTable por meio do programa de parceiros, inclusive uma empresa de Portugal.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nossa expectativa é estar em 20% das mesas digitais instaladas pela Playmove até 2016, chegando a cerca de 500 licenças para cada um dos nossos jogos (observa Lucas Felipe Kamers, analista de produto e marketing da Xmile)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;O programa de parceiros da Playmove ainda está com seleção aberta: &lt;a href=&quot;http://playtable.com.br/developer&quot; target=&quot;_blank&quot;&gt;http://playtable.com.br/developer&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="playmove" /><category term="video" /><summary type="html">Em julho passado falamos aqui no jogosdaqui que a catarinense PlayMove estava abrindo o cadastro para empresas interessadas em produzir jogos para sua PlayTable, primeira mesa digital com jogos educativos do Brasil.</summary></entry><entry><title type="html">Pixuleco - O Jogo</title><link href="/2015/09/25/pixuleco-o-jogo" rel="alternate" type="text/html" title="Pixuleco - O Jogo" /><published>2015-09-25T00:00:00-03:00</published><updated>2015-09-25T00:00:00-03:00</updated><id>/2015/09/25/pixuleco-o-jogo</id><content type="html" xml:base="/2015/09/25/pixuleco-o-jogo">&lt;p&gt;A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a  palavra em um dos seu depoimentos, quando se referiu à propinas.&lt;/p&gt;
-
-&lt;h2 id=&quot;pixuleco-o-jogo&quot;&gt;Pixuleco, O jogo&lt;/h2&gt;
-&lt;p&gt;Com a onda de protestos que aconteceram e acontecem no país, com direito até a Lula Gigante, e não estou falando do cefalópode de mais de 10 metros encontrado no oceano, mas sim do grande boneco inflável que foi utilizado nos protestos e ficou conhecido como “Lula inflado”.&lt;/p&gt;
-
-&lt;p&gt;A &lt;a href=&quot;http://www.icongames.com.br&quot;&gt;Icon Games&lt;/a&gt; juntou a palavra do momento com o Lula inflado e criou &lt;a href=&quot;http://www.icongames.com.br/pixuleco&quot;&gt;Pixuleco - O Jogo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O jogador deve evitar que os ‘vermelhos’ furem o pixuleco, até o final da manifestação, e aproveitar para recuperar o dinheiro que ‘está voando por aí’. (comenta o gamedev José Lucio ‘SLotman’ da Icon Games)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;plataforma&quot;&gt;Plataforma&lt;/h2&gt;
-&lt;p&gt;Desenvolvido em HTML5, Pixuleco - O jogo  é gratuito, sem propagandas e roda no navegador: &lt;a href=&quot;http://www.icongames.com.br/pixuleco&quot;&gt;http://www.icongames.com.br/pixuleco&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="icon-games" /><category term="navegador" /><summary type="html">A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a palavra em um dos seu depoimentos, quando se referiu à propinas.</summary></entry></feed>
+      &lt;/center&gt;</content><author><name></name></author><category term="chroma-squad" /><category term="behold-studios" /><category term="insert-coins" /><category term="rpg" /><category term="video" /><summary type="html">A galera do Insert Coins relembra a infância na série de playthrough Chroma Squad! Confira o vídeo abaixo e veja como o estúdio ICTV se saiu no seu quarto episódio. Playthrough Chroma Squad</summary></entry></feed>

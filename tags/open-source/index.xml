@@ -3,11 +3,59 @@
  <title>Your Title - open-source</title>
  <link href="http://example.com/tags/open-source/index.xml" rel="self"/>
  <link href="http://example.com/tag/open-source.html"/>
- <updated>2018-11-15T10:15:39-02:00</updated>
+ <updated>2018-11-15T15:52:17-02:00</updated>
  <id>http://example.com/tag/open-source.html</id>
  <author>
    <name>Author Here</name>
  </author>
+ 
+ <entry>
+   <title>jogosdaqui: open source e colaborativo</title>
+   <link href="http://example.com/2018/11/15/jogosdaqui-open-source-e-colaborativo"/>
+   <updated>2018-11-15T00:00:00-02:00</updated>
+   <id>http://example.com/2018/11/15/jogosdaqui-open-source-e-colaborativo</id>
+   <content type="html">&lt;h2 id=&quot;um-pouco-de-história&quot;&gt;Um pouco de história&lt;/h2&gt;
+&lt;p&gt;O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2018/11/15/jogosdaqui-open-source-e-colaborativo/150-jogosdaqui.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;open-source&quot;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Para que esse material não fosse perdido, pois de alguma forma todo o conteúdo do site ajuda a contar a história do desenvolvimento de jogos brasiliero, tomei a decisão de tornar o jogosdaqui open source.&lt;/p&gt;
+
+&lt;p&gt;Atualmente temos as seguintes estatísticas:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Notícias: 359&lt;/li&gt;
+  &lt;li&gt;Prévias: 64&lt;/li&gt;
+  &lt;li&gt;Jogos: 192&lt;/li&gt;
+  &lt;li&gt;Entrevistas: 8&lt;/li&gt;
+  &lt;li&gt;Eventos: 34&lt;/li&gt;
+  &lt;li&gt;Colunas: 26&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todo esse material está disponível no &lt;a href=&quot;https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll&quot;&gt;GitHub do jogosdaqui&lt;/a&gt;, permitindo que qualquer pessoa possa colaborar com melhoria nos conteúdos, formatação, definição de tags etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;colaborativo&quot;&gt;Colaborativo&lt;/h2&gt;
+&lt;p&gt;Espero que tornando-o open source, o jogosdaqui também comece a receber novos conteúdos de forma colaborativa através da comunidade de jogadores e desenvolvedores de games nacionais.&lt;/p&gt;
+
+&lt;p&gt;Existem formas de desenvolvedores e não desenvolvedores colaborarem com o jogosdaqui, veja em mais detalhes na &lt;a href=&quot;/colabore&quot;&gt;nossa página Colabore&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;agradecimentos&quot;&gt;Agradecimentos&lt;/h2&gt;
+&lt;p&gt;Gostaria de agradecer a todos que colaboraram e incentivaram o jogosdaqui todos esses anos: muito obrigado!&lt;/p&gt;
+
+&lt;p&gt;Fica meu agradecimento especial as pessoas que junto comigo em 2005 fundaram o jogosdaqui:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Edison Henrique Andreassy&lt;/li&gt;
+  &lt;li&gt;Giusepe Casagrande&lt;/li&gt;
+  &lt;li&gt;Sulema Muñoz Andreassy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Espero que gostem da iniciativa e que também venham em algum momento colaborar.&lt;br /&gt;
+Forca sempre!&lt;br /&gt;
+Diego Giacomelli&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Projeto experimental de Software Livre da TILT online</title>
