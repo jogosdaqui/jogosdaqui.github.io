@@ -3,11 +3,28 @@
  <title>Your Title - previa</title>
  <link href="http://example.com/tags/previa/index.xml" rel="self"/>
  <link href="http://example.com/tag/previa.html"/>
- <updated>2018-11-15T15:52:17-02:00</updated>
+ <updated>2018-11-15T17:22:51-02:00</updated>
  <id>http://example.com/tag/previa.html</id>
  <author>
    <name>Author Here</name>
  </author>
+ 
+ <entry>
+   <title>Pesadelo - Regressão</title>
+   <link href="http://example.com/2015/12/02/pesadelo-regressao"/>
+   <updated>2015-12-02T00:00:00-02:00</updated>
+   <id>http://example.com/2015/12/02/pesadelo-regressao</id>
+   <content type="html">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
+
+&lt;h2 id=&quot;teaser-de-pesadelo---regressão&quot;&gt;Teaser de Pesadelo - Regressão&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/jyq7-ECqP8A &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Além de aproveitar o sucesso do primeiro, que foi jogado por Zangado e Pew Die Pie, dentre outros youtubers famosos, Pesadelo Regressão tem uma história imersiva e cheia de possibilidades, colocando ainda elementos da cultura e do folclore brasileiro.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Teaser de gameplay de Horizon Chase</title>

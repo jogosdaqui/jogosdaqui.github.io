@@ -3,7 +3,7 @@
  <title>Your Title - windows</title>
  <link href="http://example.com/tags/windows/index.xml" rel="self"/>
  <link href="http://example.com/tag/windows.html"/>
- <updated>2018-11-15T15:52:17-02:00</updated>
+ <updated>2018-11-15T17:22:51-02:00</updated>
  <id>http://example.com/tag/windows.html</id>
  <author>
    <name>Author Here</name>
@@ -35,6 +35,53 @@
       &lt;/center&gt;
 
 &lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Death’s Life</title>
+   <link href="http://example.com/2016/03/16/deaths-life"/>
+   <updated>2016-03-16T00:00:00-03:00</updated>
+   <id>http://example.com/2016/03/16/deaths-life</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;aprendiz-da-morte&quot;&gt;Aprendiz da morte&lt;/h2&gt;
+&lt;p&gt;Em Death’s Life você é o novo aprendiz da morte. E é o seu trabalho ajudar a coletar as almas de suas vítimas. Mas você deve fazer isso de uma forma natural, usando intricadas reações em cadeias para criar acidentes perigosos e divertidos.&lt;/p&gt;
+
+&lt;h2 id=&quot;estética&quot;&gt;Estética&lt;/h2&gt;
+&lt;p&gt;O jogo possui uma estética estilizada e uma jogabilidade baseada no conceito de reações em cadeia. Para prosseguir no game, o jogador deve interagir com os objetos na cena de modo a resolver o puzzle, desencadeando uma sequência de eventos que resultem na morte de suas vítimas.&lt;/p&gt;
+
+&lt;h2 id=&quot;humor&quot;&gt;Humor&lt;/h2&gt;
+&lt;p&gt;Death’s Life está repleto de humor e de referências à cultura pop e apresenta ao jogador uma série de desafiantes puzzles, nas mais variadas situações do cotidiano. Uma vez que o jogador descubra a ordem correta dos objetos, uma complexa reação em cadeia se inicia, resultando ao final do puzzle em uma animação que apresenta de forma trágica e ao mesmo tempo cômica a morte “acidental” do alvo.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/XrW-EkiGhG0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;umbu-games&quot;&gt;Umbu Games&lt;/h2&gt;
+&lt;p&gt;O game foi desenvolvido pela Umbu Games, uma pequena desenvolvedora independente formada por apenas duas pessoas (as quais você deve matar para concluir a última fase do game). A desenvolvedora brasileira está atualmente participando do programa de aceleração GameFounders, o maior programa de aceleração para desenvolvedoras de jogos do mundo, aonde a equipe desenvolveu grandes melhorias para o Death’s Life.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;O game está atualmente disponível nas lojas &lt;a href=&quot;https://store.steampowered.com/app/502100/Deaths_Life/&quot;&gt;Steam&lt;/a&gt;, &lt;a href=&quot;https://www.humblebundle.com/store/deaths-life&quot;&gt;Humble Store&lt;/a&gt; e &lt;a href=&quot;https://umbugames.itch.io/deaths-life&quot;&gt;Itch.io&lt;/a&gt;, em breve estará também a venda em outras lojas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pesadelo - Regressão</title>
+   <link href="http://example.com/2015/12/02/pesadelo-regressao"/>
+   <updated>2015-12-02T00:00:00-02:00</updated>
+   <id>http://example.com/2015/12/02/pesadelo-regressao</id>
+   <content type="html">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
+
+&lt;h2 id=&quot;teaser-de-pesadelo---regressão&quot;&gt;Teaser de Pesadelo - Regressão&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/jyq7-ECqP8A &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Além de aproveitar o sucesso do primeiro, que foi jogado por Zangado e Pew Die Pie, dentre outros youtubers famosos, Pesadelo Regressão tem uma história imersiva e cheia de possibilidades, colocando ainda elementos da cultura e do folclore brasileiro.&lt;/p&gt;
+
 </content>
  </entry>
  
