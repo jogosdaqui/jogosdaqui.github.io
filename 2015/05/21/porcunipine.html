@@ -284,6 +284,12 @@ Porcunipine está disponível na Splitplay
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -299,20 +305,6 @@ Porcunipine está disponível na Splitplay
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -333,7 +325,21 @@ Porcunipine está disponível na Splitplay
 <article class="post">
   <h1>Porcunipine</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -345,7 +351,7 @@ Porcunipine está disponível na Splitplay
     
   
     
-      <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <blockquote>
@@ -414,7 +420,8 @@ Porcunipine está disponível na Splitplay
  e <a href="http://store.steampowered.com/app/352620/" target="_blank">Steam</a>
 .</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -422,57 +429,61 @@ Porcunipine está disponível na Splitplay
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_08.png">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_08.png"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_08.png">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_08.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_02.jpg">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_02.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_02.jpg">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_01.jpg">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_01.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_01.jpg">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_01.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_04.jpg">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_04.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_04.jpg">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_04.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_03.jpg">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_03.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_03.jpg">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_03.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_09.png">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_09.png"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_09.png">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_09.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_07.png">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_07.png"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_07.png">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_07.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_10.png">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_10.png"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_10.png">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_10.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_06.png">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_06.png"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_06.png">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_06.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_05.jpg">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_05.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_05.jpg">
+          <img src="/images/galleries/2015/05/21/porcunipine/BigGreenPillow_Porcunipine_05.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/21/porcunipine/porcunipine-lancado-no-steam.jpg">
-          <img src="../../../../../images/galleries/2015/05/21/porcunipine/porcunipine-lancado-no-steam.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/21/porcunipine/porcunipine-lancado-no-steam.jpg">
+          <img src="/images/galleries/2015/05/21/porcunipine/porcunipine-lancado-no-steam.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -494,6 +505,7 @@ Porcunipine está disponível na Splitplay
     });
   });
 </script>
+
 
   </div>
 
@@ -550,20 +562,6 @@ Porcunipine está disponível na Splitplay
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

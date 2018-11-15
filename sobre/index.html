@@ -87,6 +87,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -102,26 +108,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1>Sobre</h1>
-
   <div class="entry">
-    <h1>O que é o jogosdaqui?</h1>
+    <a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll">
+    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub">
+</a>
+
+<h1>O que é o jogosdaqui?</h1>
 Em 2005 o jogosdaqui nasceu com a missão de proporcionar aos jogadores brasileiros um contato direto com os jogos produzidos por empresas nacionais e assim ser um canal de comunicação de qualidade entre os jogadores brasileiros e as empresas brasileiras de desenvolvimento de jogos.
 <br>
 De 2005 até hoje o jogosdaqui já foi...
@@ -162,11 +155,12 @@ Se você não tem conhecimentos de programação ou HTML, você ainda pode colab
 
 <h1>Estatísticas</h1>
 <ul>
-    <li><b>Notícias</b>: <a href="/noticias">356</a></li>
-    <li><b>Prévias</b>: <a href="/previas">62</a></li>
-    <li><b>Jogos</b>: <a href="/jogos">191</a></li>
+    <li><b>Notícias</b>: <a href="/noticias">359</a></li>
+    <li><b>Prévias</b>: <a href="/previas">64</a></li>
+    <li><b>Jogos</b>: <a href="/jogos">192</a></li>
     <li><b>Entrevistas</b>: <a href="/entrevistas">8</a></li>
-    <li><b>Eventos</b>: <a href="/eventos">44</a></li>
+    <li><b>Eventos</b>: <a href="/eventos">34</a></li>
+    <li><b>Colunas</b>: <a href="/colunas">26</a></li>
 </ul>
 
 <h1>Como entre em contato?</h1>
@@ -175,20 +169,6 @@ Entre em contato conosco via Twitter pelo <a href="https://twitter.com/jogosdaqu
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

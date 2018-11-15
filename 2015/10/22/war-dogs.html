@@ -107,6 +107,12 @@ O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull re
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -122,20 +128,6 @@ O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull re
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -156,7 +148,21 @@ O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull re
 <article class="post">
   <h1>War Dogs</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -170,7 +176,7 @@ O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull re
     
   
     
-      <img src="../../../../../images/galleries/2015/10/22/war-dogs/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/10/22/war-dogs/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Que tal misturar um pouco da jogabilidade de Streets Of Rage e Final Fight, adicionando a jogabilidade de beat ‘em up 3D de games como Fighting Force (PS1 e N64)? E se os lutadores forem mutantes humanoides com cabeça de cachorro num mundo após uma guerra nuclear? Essa é a proposta de War Dogs, game da <a href="http://pixtoy.com/br/" target="_blank">Pixtoy</a>
@@ -190,7 +196,8 @@ O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull re
  e no <a href="https://play.google.com/store/apps/details?id=com.rednose.wardogs" target="_blank">Google Play</a>
 .</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -198,25 +205,29 @@ O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull re
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_01.jpg">
-          <img src="../../../../../images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_01.jpg"/>        
+        <li data-thumb="/images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_01.jpg">
+          <img src="/images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_01.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_02.jpg">
-          <img src="../../../../../images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_02.jpg"/>        
+        <li data-thumb="/images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_02.jpg">
+          <img src="/images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_03.jpg">
-          <img src="../../../../../images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_03.jpg"/>        
+        <li data-thumb="/images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_03.jpg">
+          <img src="/images/galleries/2015/10/22/war-dogs/Pixtoy_WarDogs_03.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -238,6 +249,7 @@ O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull re
     });
   });
 </script>
+
 
   </div>
 
@@ -292,20 +304,6 @@ O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull re
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

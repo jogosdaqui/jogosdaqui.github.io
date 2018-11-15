@@ -113,6 +113,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -128,20 +134,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -162,7 +154,21 @@
 <article class="post">
   <h1>Crazy Bitsy Spider - Kids Mode</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -193,7 +199,8 @@
 <p style="text-align: left;">O &quot;Kids Mode&quot; pode ser acessado via in-app purchase.
 </p></p></p></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -201,25 +208,29 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/Kidsmode_spider_choose.jpg">
-          <img src="../../../../../images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/Kidsmode_spider_choose.jpg"/>        
+        <li data-thumb="/images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/Kidsmode_spider_choose.jpg">
+          <img src="/images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/Kidsmode_spider_choose.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/banner_kids_ingame.jpg">
-          <img src="../../../../../images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/banner_kids_ingame.jpg"/>        
+        <li data-thumb="/images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/banner_kids_ingame.jpg">
+          <img src="/images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/banner_kids_ingame.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/Kidsmode_spider_connect_11.jpg">
-          <img src="../../../../../images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/Kidsmode_spider_connect_11.jpg"/>        
+        <li data-thumb="/images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/Kidsmode_spider_connect_11.jpg">
+          <img src="/images/galleries/2013/03/11/crazy-bitsy-spider-kids-mode/Kidsmode_spider_connect_11.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -241,6 +252,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -291,20 +303,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

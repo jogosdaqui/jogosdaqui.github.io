@@ -101,6 +101,12 @@ Existem poucos jogos de corrida voltados para o público infanto juvenil na plat
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Existem poucos jogos de corrida voltados para o público infanto juvenil na plat
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Existem poucos jogos de corrida voltados para o público infanto juvenil na plat
 <article class="post">
   <h1>Penguin Racer</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -160,7 +166,7 @@ Existem poucos jogos de corrida voltados para o público infanto juvenil na plat
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/penguin-racer/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/penguin-racer/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Penguin Racer é um jogo de corrida, não com veículos, mas com pinguins. A visão do jogo é típica de jogos de corrida, ou seja, em 3D e em 3ª pessoa.</p>
@@ -172,7 +178,8 @@ Existem poucos jogos de corrida voltados para o público infanto juvenil na plat
 <p>A estória começa quando o rei Rico anuncia que chegou a hora de sua filha se casar e para decidir qual pinguim se casará com ela e se tornará o novo herdeiro do trono, ele criou uma corrida. O pinguim que ganhar essa corrida, ganha a mão da princesa Marina em casamento.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -180,29 +187,33 @@ Existem poucos jogos de corrida voltados para o público infanto juvenil na plat
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/penguin-racer/penguinracer3.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/penguin-racer/penguinracer3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/penguin-racer/penguinracer3.jpg">
+          <img src="/images/galleries/2005/09/20/penguin-racer/penguinracer3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/penguin-racer/penguinracer2.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/penguin-racer/penguinracer2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/penguin-racer/penguinracer2.jpg">
+          <img src="/images/galleries/2005/09/20/penguin-racer/penguinracer2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/penguin-racer/penguinracer1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/penguin-racer/penguinracer1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/penguin-racer/penguinracer1.jpg">
+          <img src="/images/galleries/2005/09/20/penguin-racer/penguinracer1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/penguin-racer/penguinracer4.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/penguin-racer/penguinracer4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/penguin-racer/penguinracer4.jpg">
+          <img src="/images/galleries/2005/09/20/penguin-racer/penguinracer4.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -224,6 +235,7 @@ Existem poucos jogos de corrida voltados para o público infanto juvenil na plat
     });
   });
 </script>
+
 
   </div>
 
@@ -268,20 +280,6 @@ Existem poucos jogos de corrida voltados para o público infanto juvenil na plat
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

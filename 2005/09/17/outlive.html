@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Outlive</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -156,7 +162,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/17/outlive/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/17/outlive/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Outlive é um jogo de estratégia em tempo real, no qual o jogador deve gerenciar sua base e construir tropas para atacar seus adversários. O jogo possui uma avançada Inteligência Artificial, permitindo que uma pessoa possa disputar partidas contra até 7 exércitos controlados pelo computador. Em Outlive também é possível jogar contra outras pessoas, através de cabo serial, modem, rede local e internet.</p>
@@ -164,7 +170,8 @@
 <p>As partidas realizadas através da rede local e internet suportam até 16 pessoas num mesmo jogo. As partidas disputadas pela internet utilizam o Continuum Game Server (CGS), um serviço de jogos oferecido gratuitamente pela Continuum, onde é possível encontrar outras pessoas para conversar e jogar Outlive, através de uma interface totalmente integrada ao jogo.Outlive foi o primeiro jogo da empresa Continuum de Curitiba.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -172,29 +179,33 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/17/outlive/ol1.jpg">
-          <img src="../../../../../images/galleries/2005/09/17/outlive/ol1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/17/outlive/ol1.jpg">
+          <img src="/images/galleries/2005/09/17/outlive/ol1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/17/outlive/ol4.jpg">
-          <img src="../../../../../images/galleries/2005/09/17/outlive/ol4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/17/outlive/ol4.jpg">
+          <img src="/images/galleries/2005/09/17/outlive/ol4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/17/outlive/ol2.jpg">
-          <img src="../../../../../images/galleries/2005/09/17/outlive/ol2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/17/outlive/ol2.jpg">
+          <img src="/images/galleries/2005/09/17/outlive/ol2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/17/outlive/ol3.jpg">
-          <img src="../../../../../images/galleries/2005/09/17/outlive/ol3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/17/outlive/ol3.jpg">
+          <img src="/images/galleries/2005/09/17/outlive/ol3.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -216,6 +227,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -266,20 +278,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

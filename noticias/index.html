@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>jogosdaqui – O maior banco de dados sobre os games desenvolvidos no Brasil</title>
+    <title>Notícias – jogosdaqui – O maior banco de dados sobre os games desenvolvidos no Brasil</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -19,6 +19,9 @@
 
     <meta name="author" content="jogosdaqui" />
 
+    
+    <meta property="og:title" content="Notícias" />
+    <meta property="twitter:title" content="Notícias" />
     
 
     
@@ -39,16 +42,16 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>jogosdaqui | O maior banco de dados sobre os games desenvolvidos no Brasil</title>
+<title>Notícias | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="jogosdaqui" />
+<meta property="og:title" content="Notícias" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="O maior banco de dados sobre os games desenvolvidos no Brasil" />
 <meta property="og:description" content="O maior banco de dados sobre os games desenvolvidos no Brasil" />
 <meta property="og:site_name" content="jogosdaqui" />
 <link rel="next" href="/noticias/2/index.html" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"/noticias/","headline":"jogosdaqui","description":"O maior banco de dados sobre os games desenvolvidos no Brasil","@context":"http://schema.org"}</script>
+{"@type":"WebPage","url":"/noticias/","headline":"Notícias","description":"O maior banco de dados sobre os games desenvolvidos no Brasil","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -85,6 +88,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -100,27 +109,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/10/23/side-quest-da-miris-mind-no-greenlight">Side Quest da Miris Mind no Greenlight</a></h1>
@@ -136,7 +131,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -146,6 +141,8 @@
     <a href="/2015/10/23/side-quest-da-miris-mind-no-greenlight" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/10/05/chroma-squad-tactical-rpg-005-pulando-a-cerca">Chroma Squad Tactical RPG #005 - Pulando a cerca</a></h1>
@@ -157,7 +154,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/10/05/chroma-squad-tactical-rpg-005-pulando-a-cerca/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/10/05/chroma-squad-tactical-rpg-005-pulando-a-cerca/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -177,6 +174,8 @@ Playthrough Chroma Squad
     <a href="/2015/10/05/chroma-squad-tactical-rpg-005-pulando-a-cerca" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/09/30/xmile-e-playmove-firmam-parceria">Xmile e Playmove firmam parceria</a></h1>
@@ -192,7 +191,7 @@ Playthrough Chroma Squad
     
   
     
-      <img src="../../../../../images/galleries/2015/09/30/xmile-e-playmove-firmam-parceria/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/09/30/xmile-e-playmove-firmam-parceria/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -202,27 +201,8 @@ Playthrough Chroma Squad
     <a href="/2015/09/30/xmile-e-playmove-firmam-parceria" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2015/09/25/pixuleco-o-jogo">Pixuleco - O Jogo</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
     
-      <img src="../../../../../images/galleries/2015/09/25/pixuleco-o-jogo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
     
-    A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a palavra em...
-    </div>
-
-    <a href="/2015/09/25/pixuleco-o-jogo" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2015/09/04/ballistic-overkill-devtalk-02">Ballistic Overkill - DevTalk #02</a></h1>
@@ -234,7 +214,7 @@ Playthrough Chroma Squad
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/09/04/ballistic-overkill-devtalk-02/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/09/04/ballistic-overkill-devtalk-02/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -244,6 +224,23 @@ Playthrough Chroma Squad
     <a href="/2015/09/04/ballistic-overkill-devtalk-02" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/08/31/streaming-de-odallus-the-dark-call-no-twitch">Streaming de Odallus - The Dark call no Twitch</a></h1>
@@ -255,7 +252,7 @@ Playthrough Chroma Squad
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/08/31/streaming-de-odallus-the-dark-call-no-twitch/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/08/31/streaming-de-odallus-the-dark-call-no-twitch/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -265,6 +262,8 @@ Playthrough Chroma Squad
     <a href="/2015/08/31/streaming-de-odallus-the-dark-call-no-twitch" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/08/29/games-brasileiros-em-crowdfunding">Games brasileiros em crowdfunding</a></h1>
@@ -276,7 +275,7 @@ Playthrough Chroma Squad
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/08/29/games-brasileiros-em-crowdfunding/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/08/29/games-brasileiros-em-crowdfunding/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -286,58 +285,8 @@ Playthrough Chroma Squad
     <a href="/2015/08/29/games-brasileiros-em-crowdfunding" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs">Game brasileiro Paper Cat ajuda ONGs</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
     
-  
     
-  
-    
-      <img src="../../../../../images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa. É nessa ideia que o game Paper Cat da Ilusis Interactive apresenta o...
-    </div>
-
-    <a href="/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2015/08/20/racketboy-da-double-dash-studios">RacketBoy da Double Dash Studios</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2015/08/20/racketboy-da-double-dash-studios/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Lembra de Breakout de 1972, clássico game que deu origem ao estilo de games de quebrar blocos, seguido por outros clássicos como Arkanoid de 1986? O que talvez você não saiba é que o game de 72 para o Atari 2600 foi desenvolvido por Steve Wozniak com uma ajuda de...
-    </div>
-
-    <a href="/2015/08/20/racketboy-da-double-dash-studios" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos">Bundle de 30 games brasileiros totalmente gratuitos</a></h1>
@@ -356,6 +305,89 @@ Playthrough Chroma Squad
     <a href="/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada">Horizon Chase se aproxima do grid de largada</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da Aquiris Game Studio á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão. Segundo a gamedev gaúcha, Horizon Chase será...
+    </div>
+
+    <a href="/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado">Chroma Squad Tactical RPG #004 - Potencial Ilimitado</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    A galera do Insert Coins
+ relembra a infância na série de playthrough Chroma Squad!
+
+Confira o vídeo abaixo e veja como o estúdio ICTV se saiu no seu terceiro episódio e como os rangers derrotaram seu novo inimigo: O Alien Gordo!
+
+Playthrough Chroma Squad
+
+        
+      
+
+
+    </div>
+
+    <a href="/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/08/06/games-brasileiros-com-desconto">Games brasileiros com desconto</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2015/08/06/games-brasileiros-com-desconto/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    O que Odallus - The Dark Call da JoyMasher, Relic Hunters Zero da Rogue Snail e Porcunipine da Big Green Pillow tem em comum? Além de serem games brasileiros no Steam, eles também podem ser baixados com desconto ou até de graça como é o caso do Relic Hunters Zero...
+    </div>
+
+    <a href="/2015/08/06/games-brasileiros-com-desconto" class="read-more">Leia mais</a>
+    </article>
+
 </div>
 
 <!-- Pagination links -->
@@ -365,7 +397,7 @@ Playthrough Chroma Squad
            
 
         
-            <li  class="selected"><a href="/noticias/" title="">1</a></li>
+            <li  class="selected"><a href="/noticias/" title="Notícias">1</a></li>
         
             <li ><a href="/noticias/2/" title="">2</a></li>
         
@@ -386,20 +418,6 @@ Playthrough Chroma Squad
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">
@@ -433,7 +451,7 @@ Playthrough Chroma Squad
 		ga('create', 'UA-20179088-2', 'auto');
 		ga('send', 'pageview', {
 		  'page': '/noticias/index.html',
-		  'title': ''
+		  'title': 'Notícias'
 		});
 	</script>
 	<!-- End Google Analytics -->

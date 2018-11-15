@@ -15,58 +15,22 @@
     <meta name="description" content="#1
 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”
 
-#2
-André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus”
-
-#3
-Novos renders sendo trabalhados pela equipe da Reiza Studios”
-
-#4
-A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness”
-
-#5
-Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados”
-
-#6
-Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase “
+        
+      
 
 " />
     <meta property="og:description" content="#1
 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”
 
-#2
-André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus”
-
-#3
-Novos renders sendo trabalhados pela equipe da Reiza Studios”
-
-#4
-A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness”
-
-#5
-Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados”
-
-#6
-Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase “
+        
+      
 
 " />
     <meta name="twitter:description" content="#1
 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”
 
-#2
-André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus”
-
-#3
-Novos renders sendo trabalhados pela equipe da Reiza Studios”
-
-#4
-A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness”
-
-#5
-Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados”
-
-#6
-Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase “
+        
+      
 
 " />
     
@@ -100,13 +64,13 @@ Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Hor
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Imagens da semana #11" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="#1 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss” #2 André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus” #3 Novos renders sendo trabalhados pela equipe da Reiza Studios” #4 A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness” #5 Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados” #6 Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase “" />
-<meta property="og:description" content="#1 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss” #2 André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus” #3 Novos renders sendo trabalhados pela equipe da Reiza Studios” #4 A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness” #5 Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados” #6 Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase “" />
+<meta name="description" content="#1 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”" />
+<meta property="og:description" content="#1 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”" />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-06-15T00:00:00-03:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","url":"/2015/06/15/imagens-da-semana-11","headline":"Imagens da semana #11","dateModified":"2015-06-15T00:00:00-03:00","datePublished":"2015-06-15T00:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/06/15/imagens-da-semana-11"},"description":"#1 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss” #2 André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus” #3 Novos renders sendo trabalhados pela equipe da Reiza Studios” #4 A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness” #5 Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados” #6 Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase “","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2015/06/15/imagens-da-semana-11","headline":"Imagens da semana #11","dateModified":"2015-06-15T00:00:00-03:00","datePublished":"2015-06-15T00:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/06/15/imagens-da-semana-11"},"description":"#1 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -143,6 +107,12 @@ Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Hor
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -158,20 +128,6 @@ Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Hor
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -192,7 +148,21 @@ Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Hor
 <article class="post">
   <h1>Imagens da semana #11</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -211,93 +181,44 @@ Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Hor
   
     
   
-    
-  
  </center>
     <h2 id="1">#1</h2>
 <p><a href="https://twitter.com/Danilo_Noites/status/60829012477494886">Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”</a></p>
+<center>
+        <img src="/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Odallus_OutThereSomewhere.png " />
+      </center>
 
 <h2 id="2">#2</h2>
-<p><a href="https://twitter.com/deds_rodrigues/status/60830036458517299">André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus”</a></p>
+<p><a href="https://twitter.com/deds_rodrigues/status/60830036458517299">André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus</a></p>
+<center>
+        <img src="/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_OdallusFanArt.png " />
+      </center>
 
 <h2 id="3">#3</h2>
-<p><a href="https://twitter.com/ReizaStudios/status/60858426514042060">Novos renders sendo trabalhados pela equipe da Reiza Studios”</a></p>
+<p><a href="https://twitter.com/ReizaStudios/status/60858426514042060">Novos renders sendo trabalhados pela equipe da Reiza Studios</a></p>
+<center>
+        <img src="/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_ReizaStudios.jpg " />
+      </center>
 
 <h2 id="4">#4</h2>
-<p><a href="https://twitter.com/Ninja_Garage/status/60897524521148416">A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness”</a></p>
+<p><a href="https://twitter.com/Ninja_Garage/status/60897524521148416">A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness</a></p>
+<center>
+        <img src="/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_NinjaGarage_Priscilla.png " />
+      </center>
 
 <h2 id="5">#5</h2>
-<p><a href="https://twitter.com/mgaiastudio/status/60949836833581056">Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados”</a></p>
+<p><a href="https://twitter.com/mgaiastudio/status/60949836833581056">Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados</a></p>
+<center>
+        <img src="/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_MgaiaStudio_DiaDosNamorados.jpg " />
+      </center>
 
 <h2 id="6">#6</h2>
-<p><a href="https://twitter.com/Horizon_Chase/status/60975960647521484">Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase “</a></p>
-
-
-     
- 
-
-<link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
-<script src="/libs/lightslider/js/lightslider.js"></script>
- 
-
-
+<p><a href="https://twitter.com/Horizon_Chase/status/60975960647521484">Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase</a></p>
 <center>
-  
-  <ul id="lightSlider">
-    
-        <li data-thumb="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Mgaia_TinyEmpire.png">
-          <img src="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Mgaia_TinyEmpire.png"/>        
-        </li>
-    
-        <li data-thumb="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_MgaiaStudio_DiaDosNamorados.jpg">
-          <img src="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_MgaiaStudio_DiaDosNamorados.jpg"/>        
-        </li>
-    
-        <li data-thumb="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_NinjaGarage_Priscilla.png">
-          <img src="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_NinjaGarage_Priscilla.png"/>        
-        </li>
-    
-        <li data-thumb="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_OdallusFanArt.png">
-          <img src="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_OdallusFanArt.png"/>        
-        </li>
-    
-        <li data-thumb="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Odallus_OutThereSomewhere.png">
-          <img src="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Odallus_OutThereSomewhere.png"/>        
-        </li>
-    
-        <li data-thumb="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_HorizonChase_India.jpg">
-          <img src="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_HorizonChase_India.jpg"/>        
-        </li>
-    
-        <li data-thumb="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_ReizaStudios.jpg">
-          <img src="../../../../../images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_ReizaStudios.jpg"/>        
-        </li>
-    
-  </ul>
-  
- </center>
+        <img src="/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_HorizonChase_India.jpg " />
+      </center>
 
-
-<script type="text/javascript">
-  $(document).ready(function() {
-   $('#lightSlider').lightSlider({
-        gallery: true,
-        pager: true,
-        controls: false,
-        thumbItem: 8,
-        item: 1,
-        loop: false,
-        slideMargin: 0,
-        autoWidth: true,
-        adaptiveHeight: true,
-        mode: "fade",
-        useCSS: true,
-        cssEasing: 'ease',
-        easing: 'linear'
-    });
-  });
-</script>
-
+    
   </div>
 
   <div class="date">
@@ -317,9 +238,11 @@ Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Hor
     
         <a href="/tags/big-green-pillow" class="post-tag">big-green-pillow</a>
     
+        <a href="/tags/aquiris-game-studio" class="post-tag">aquiris-game-studio</a>
+    
         <a href="/tags/imagens-da-semana" class="post-tag">imagens-da-semana</a>
     
-        <a href="/tags/corrida" class="post-tag">corrida</a>
+        <a href="/tags/coluna" class="post-tag">coluna</a>
     
 </span>
   <br>
@@ -357,20 +280,6 @@ Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Hor
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

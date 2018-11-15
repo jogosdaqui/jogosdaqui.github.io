@@ -104,6 +104,12 @@ Impacto Alpha é um jogo de tiro espacial no estilo clássico dos anos 80, mas c
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ Impacto Alpha é um jogo de tiro espacial no estilo clássico dos anos 80, mas c
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ Impacto Alpha é um jogo de tiro espacial no estilo clássico dos anos 80, mas c
 <article class="post">
   <h1>Impacto Alpha</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -169,7 +175,7 @@ Impacto Alpha é um jogo de tiro espacial no estilo clássico dos anos 80, mas c
     
   
     
-      <img src="../../../../../images/galleries/2005/10/01/impacto-alpha/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/01/impacto-alpha/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Primeiro jogo desenvolvido pela Oniria Entertainment, em 2001.
@@ -187,7 +193,8 @@ Foi publicado no Brasil pela Cia do Software e na Alemanha, Áustria e Suíça p
 <p>No ano de 3693, um grupo humano de resistência à invasão alien consegue construir clandestinamente uma poderosa espaçonave capaz de viajar no tempo até a data da invasão, com o objetivo de salvar a Terra de seu terrível destino. No jogo você é o piloto desta nave. Em suas mãos, repousa todo o futuro da humanidade.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -195,29 +202,33 @@ Foi publicado no Brasil pela Cia do Software e na Alemanha, Áustria e Suíça p
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-3.jpg">
-          <img src="../../../../../images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-3.jpg">
+          <img src="/images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-2.jpg">
-          <img src="../../../../../images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-2.jpg">
+          <img src="/images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-4.jpg">
-          <img src="../../../../../images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-4.jpg">
+          <img src="/images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-1.jpg">
-          <img src="../../../../../images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-1.jpg">
+          <img src="/images/galleries/2005/10/01/impacto-alpha/Oniria_ImpactoAlpha-1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -239,6 +250,7 @@ Foi publicado no Brasil pela Cia do Software e na Alemanha, Áustria e Suíça p
     });
   });
 </script>
+
 
   </div>
 
@@ -285,20 +297,6 @@ Foi publicado no Brasil pela Cia do Software e na Alemanha, Áustria e Suíça p
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

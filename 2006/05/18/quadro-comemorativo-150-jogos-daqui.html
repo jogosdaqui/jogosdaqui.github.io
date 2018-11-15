@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Quadro comemorativo &#39;150 jogos daqui&#39; – jogosdaqui – O maior banco de dados sobre os games desenvolvidos no Brasil</title>
+    <title>Quadro comemorativo "jogos daqui" – jogosdaqui – O maior banco de dados sobre os games desenvolvidos no Brasil</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -12,16 +12,19 @@
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
-    <meta name="description" content="Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos
- nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
+    <meta name="description" content="Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.
+
+Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
 
 " />
-    <meta property="og:description" content="Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos
- nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
+    <meta property="og:description" content="Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.
+
+Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
 
 " />
-    <meta name="twitter:description" content="Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos
- nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
+    <meta name="twitter:description" content="Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.
+
+Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
 
 " />
     
@@ -29,8 +32,8 @@
     <meta name="author" content="jogosdaqui" />
 
     
-    <meta property="og:title" content="Quadro comemorativo &#39;150 jogos daqui&#39;" />
-    <meta property="twitter:title" content="Quadro comemorativo &#39;150 jogos daqui&#39;" />
+    <meta property="og:title" content="Quadro comemorativo "jogos daqui"" />
+    <meta property="twitter:title" content="Quadro comemorativo "jogos daqui"" />
     
 
     
@@ -51,9 +54,9 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Quadro comemorativo &#39;150 jogos daqui&#39; | jogosdaqui</title>
+<title>Quadro comemorativo “jogos daqui” | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Quadro comemorativo &#39;150 jogos daqui&#39;" />
+<meta property="og:title" content="Quadro comemorativo “jogos daqui”" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais." />
 <meta property="og:description" content="Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais." />
@@ -61,7 +64,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-05-18T00:00:00-03:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","url":"/2006/05/18/quadro-comemorativo-150-jogos-daqui","headline":"Quadro comemorativo &#39;150 jogos daqui&#39;","dateModified":"2006-05-18T00:00:00-03:00","datePublished":"2006-05-18T00:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/18/quadro-comemorativo-150-jogos-daqui"},"description":"Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/05/18/quadro-comemorativo-150-jogos-daqui","headline":"Quadro comemorativo “jogos daqui”","dateModified":"2006-05-18T00:00:00-03:00","datePublished":"2006-05-18T00:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/18/quadro-comemorativo-150-jogos-daqui"},"description":"Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -98,6 +101,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +122,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -145,398 +140,41 @@
   </style>
   
 <article class="post">
-  <h1>Quadro comemorativo &#39;150 jogos daqui&#39;</h1>
+  <h1>Quadro comemorativo "jogos daqui"</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
 
 <center>
   
- </center>
-    <p>Mais uma vez o <span style="color: rgb(255, 153, 0); font-weight: bold;">jogosdaqui</span> comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 <a href="/index.php?p=cl&amp;t=19">jogos</a>
- nacionais cadastrados no site. <br /><br />Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.<br /></p>
-
-<p><br /></p>
-<table width="50%" cellspacing="1" cellpadding="0" border="0" align="center">
     
-        <tr>
-            <td wstooltip="Aeroporto 83">
-
-            <td wstooltip="Hades2">
-
-            <td wstooltip="Incidente em Varginha">
-
-            <td wstooltip="Acquaria O Jogo">
-
-            <td wstooltip="Amazônia">
-
-        
-        <tr>
-            <td wstooltip="Outlive">
-
-            <td wstooltip="Big Brother Brasil">
-
-            <td wstooltip="Big Brother Brasil 3D On-Line">
-
-            <td wstooltip="Vbikes">
-
-            <td wstooltip="BOTZIN">
-
-        
-        <tr>
-            <td wstooltip="Vampiromania">
-
-            <td wstooltip="BrasFoot">
-
-            <td wstooltip="V.T.O.L.">
-
-            <td wstooltip="Trophy Hunter 2003">
-
-            <td wstooltip="Buggy Racers">
-
-        
-        <tr>
-            <td wstooltip="Casa dos Artistas">
-
-            <td wstooltip="Christmas Magic">
-
-            <td wstooltip="Contato">
-
-            <td wstooltip="Cuana Toon">
-
-            <td wstooltip="Eleições para presidente">
-
-        
-        <tr>
-            <td wstooltip="Guimo">
-
-            <td wstooltip="Matchball Tennis">
-
-            <td wstooltip="Torpedo">
-
-            <td wstooltip="Mago das Ervas">
-
-            <td wstooltip="Mensalão, o Jogo">
-
-        
-        <tr>
-            <td wstooltip="Terra - Destino Final">
-
-            <td wstooltip="Super Mini Racing">
-
-            <td wstooltip="Solaris 1.0.4.">
-
-            <td wstooltip="Show do Milhão Colecionador">
-
-            <td wstooltip="Sandy &amp; Junior - Aventura Virtual">
-
-        
-        <tr>
-            <td wstooltip="Quiz Maker">
-
-            <td wstooltip="Quebra Cabeça">
-
-            <td wstooltip="Penguin Racer">
-
-            <td wstooltip="Erinia">
-
-            <td wstooltip="Xuxa e os Duendes 2">
-
-        
-        <tr>
-            <td wstooltip="Aventura na Selva">
-
-            <td wstooltip="Desafio na Floresta">
-
-            <td wstooltip="Taikodom">
-
-            <td wstooltip="O Enigma da Esfinge">
-
-            <td wstooltip="Transportando o Brasil">
-
-        
-        <tr>
-            <td wstooltip="Die Pferdebande">
-
-            <td wstooltip="Jogo das Traíras">
-
-            <td wstooltip="Koko Arena">
-
-            <td wstooltip="O Monstruário">
-
-            <td wstooltip="Der Pferderennstall">
-
-        
-        <tr>
-            <td wstooltip="Super Popcorn Machine">
-
-            <td wstooltip="Shoot The Chief">
-
-            <td wstooltip="A Fantástica Aventura de Tales  ">
-
-            <td wstooltip="JoKenPo">
-
-            <td wstooltip="Roko-Loko no castelo do Ratozinger">
-
-        
-        <tr>
-            <td wstooltip="Cookie Chef">
-
-            <td wstooltip="Show do Milhão Júnior">
-
-            <td wstooltip="Programa do Ratinho">
-
-            <td wstooltip="Outgun">
-
-            <td wstooltip="Smart Panda">
-
-        
-        <tr>
-            <td wstooltip="No Limite">
-
-            <td wstooltip="Impacto Alpha">
-
-            <td wstooltip="Othello">
-
-            <td wstooltip="Hello!">
-
-            <td wstooltip="Vudugame">
-
-        
-        <tr>
-            <td wstooltip="Cataclism">
-
-            <td wstooltip="Arena de Rodeio">
-
-            <td wstooltip="ProGoal">
-
-            <td wstooltip="R/C Racing">
-
-            <td wstooltip="Adventures of Zaak - The Little Wiz">
-
-        
-        <tr>
-            <td wstooltip="Whiskeria Paradiso">
-
-            <td wstooltip="Banana Joe">
-
-            <td wstooltip="FutSim">
-
-            <td wstooltip="Shadows of Malquidious">
-
-            <td wstooltip="Molécula">
-
-        
-        <tr>
-            <td wstooltip="Die Ponyrancher">
-
-            <td wstooltip="Crimson After Dusk">
-
-            <td wstooltip="Riding Ground">
-
-            <td wstooltip="Rain of Fire">
-
-            <td wstooltip="PreservAÃÃO">
-
-        
-        <tr>
-            <td wstooltip="Animal Rage">
-
-            <td wstooltip="Come-Come">
-
-            <td wstooltip="Space Hero">
-
-            <td wstooltip="Ice Post">
-
-            <td wstooltip="Jet Boarder">
-
-        
-        <tr>
-            <td wstooltip="Força Andrômeda">
-
-            <td wstooltip="CUBi">
-
-            <td wstooltip="Golden West - Mexican Bullet">
-
-            <td wstooltip="Meu Big Brother">
-
-            <td wstooltip="Sorriso Campeão">
-
-        
-        <tr>
-            <td wstooltip="Muralha">
-
-            <td wstooltip="Warbots">
-
-            <td wstooltip="Sudoku">
-
-            <td wstooltip="Jogo da Memória">
-
-            <td wstooltip="Ottomax">
-
-        
-        <tr>
-            <td wstooltip="Gold Hunter">
-
-            <td wstooltip="Skooter">
-
-            <td wstooltip="Quebra-Cabeça">
-
-            <td wstooltip="Pebolim 3D">
-
-            <td wstooltip="Sea Hunter">
-
-        
-        <tr>
-            <td wstooltip="Chip$">
-
-            <td wstooltip="Pato Possante">
-
-            <td wstooltip="Bola de Gude">
-
-            <td wstooltip="Nishi Aqua Fight">
-
-            <td wstooltip="Ryudragon">
-
-        
-        <tr>
-            <td wstooltip="Garatuja">
-
-            <td wstooltip="Moscão Killer">
-
-            <td wstooltip="Nishi Soul Mate">
-
-            <td wstooltip="WAR">
-
-            <td wstooltip="The Game Producer">
-
-        
-        <tr>
-            <td wstooltip="Aero Battle">
-
-            <td wstooltip="Zôo">
-
-            <td wstooltip="Show do Milhão 2006">
-
-            <td wstooltip="Jetski Race">
-
-            <td wstooltip="Bears &amp; Bees">
-
-        
-        <tr>
-            <td wstooltip="Zoo Escape">
-
-            <td wstooltip="Red Hood Racing">
-
-            <td wstooltip="Bate-Rebate">
-
-            <td wstooltip="Dominó Chinês">
-
-            <td wstooltip="Vôlei de Praia">
-
-        
-        <tr>
-            <td wstooltip="Os Conquistadores">
-
-            <td wstooltip="Metablocks">
-
-            <td wstooltip="Tank Mission 2">
-
-            <td wstooltip="War of Malquidious">
-
-            <td wstooltip="PalmSoft Drag Racer">
-
-        
-        <tr>
-            <td wstooltip="Embaixadinha">
-
-            <td wstooltip="Shangai">
-
-            <td wstooltip="Fencer Duel">
-
-            <td wstooltip="Laura's Tierklinik">
-
-            <td wstooltip="Faroeste">
-
-        
-        <tr>
-            <td wstooltip="Rally dos Sertões 2005">
-
-            <td wstooltip="Star Athletes">
-
-            <td wstooltip="Pedreiro Polar">
-
-            <td wstooltip="Conecta 4 - Experience">
-
-            <td wstooltip="Estratégia F1">
-
-        
-        <tr>
-            <td wstooltip="A Ponte">
-
-            <td wstooltip="Xadrez">
-
-            <td wstooltip="Castle Ghost">
-
-            <td wstooltip="Aquadum">
-
-            <td wstooltip="Truco">
-
-        
-        <tr>
-            <td wstooltip="Fruzzle">
-
-            <td wstooltip="Coquetel">
-
-            <td wstooltip="Fighters of Caribbean">
-
-            <td wstooltip="Gladiarena">
-
-            <td wstooltip="Digibunny">
-
-        
-        <tr>
-            <td wstooltip="Senninha Racing">
-
-            <td wstooltip="Lance Livre">
-
-            <td wstooltip="Memory Cube">
-
-            <td wstooltip="Transit Brasil">
-
-            <td wstooltip="Ayrton Senna's Best Lap">
-
-        
-        <tr>
-            <td wstooltip="Arco e Flecha">
-
-            <td wstooltip="Winguel">
-
-            <td wstooltip="Imagem&amp;Ação">
-
-            <td wstooltip="Penalty Cup">
-
-            <td wstooltip="Tupã">
-
-        
-    &lt;/tbody&gt;
-</td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></td></td></td></td></td></tr></table>
-
-     
- 
-
-<link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
-<script src="/libs/lightslider/js/lightslider.js"></script>
- 
-
-
-<center>
   
  </center>
+    <p>Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.</p>
 
+<p>Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.</p>
 
+<center>
+        <img src="/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg " />
+      </center>
+
+    
   </div>
 
   <div class="date">
@@ -632,20 +270,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">
@@ -679,7 +303,7 @@
 		ga('create', 'UA-20179088-2', 'auto');
 		ga('send', 'pageview', {
 		  'page': '/2006/05/18/quadro-comemorativo-150-jogos-daqui',
-		  'title': 'Quadro comemorativo &#39;150 jogos daqui&#39;'
+		  'title': 'Quadro comemorativo "jogos daqui"'
 		});
 	</script>
 	<!-- End Google Analytics -->

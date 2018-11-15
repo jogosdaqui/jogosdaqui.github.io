@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - column</title>
+ <link href="http://example.com/tags/column/index.xml" rel="self"/>
+ <link href="http://example.com/tag/column.html"/>
+ <updated>2018-11-15T10:15:39-02:00</updated>
+ <id>http://example.com/tag/column.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Odallus - The Dark Call: primeiras impressões</title>
+   <link href="http://example.com/2015/08/24/odallus-the-dark-call-primeiras-impressoes"/>
+   <updated>2015-08-24T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/24/odallus-the-dark-call-primeiras-impressoes</id>
+   <content type="html">&lt;p&gt;Falamos algumas vezes no jogosdaqui sobre o aclamado game de ação e exploração retrô da brasileira JoyMasher: &lt;a href=&quot;http://joymasher.com/odallus/&amp;quot;&quot;&gt;Odallus - The Dark Call&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Games brasileiros finalistas no BIG Festival 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/07/02/versao-beta-de-odallus-the-dark-call/&quot;&gt;Versão beta de Odallus - The Dark Call&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/07/15/lancamento-de-odallus-the-dark-call/&quot;&gt;Lançamento de Odallus: The Dark Call&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Agora chegou a hora de conferirmos as primeiras impressões da equipe do canal Insert Coins sobre a obra-prima da JoyMasher.&lt;/p&gt;
+
+&lt;h2 id=&quot;odallus-por-insert-coins&quot;&gt;Odallus por Insert Coins&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/HtJN_uiwY6w &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+</content>
+ </entry>
+ 
+</feed>

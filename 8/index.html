@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/21/porcunipine-lancado-no-steam">Porcunipine lançado no Steam</a></h1>
@@ -133,7 +128,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/05/21/porcunipine-lancado-no-steam/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/21/porcunipine-lancado-no-steam/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -143,6 +138,8 @@
     <a href="/2015/05/21/porcunipine-lancado-no-steam" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/20/sky-high-chickens">Sky High Chickens</a></h1>
@@ -156,7 +153,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/05/20/sky-high-chickens/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/20/sky-high-chickens/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -166,6 +163,8 @@
     <a href="/2015/05/20/sky-high-chickens" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/20/novidades-de-horizon-chase">Novidades de Horizon Chase</a></h1>
@@ -179,7 +178,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/05/20/novidades-de-horizon-chase/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/20/novidades-de-horizon-chase/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -189,6 +188,8 @@
     <a href="/2015/05/20/novidades-de-horizon-chase" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/19/previa-de-cannibal-da-gametek">Prévia de Cannibal da GameTek</a></h1>
@@ -212,7 +213,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/05/19/previa-de-cannibal-da-gametek/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/19/previa-de-cannibal-da-gametek/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -222,6 +223,23 @@
     <a href="/2015/05/19/previa-de-cannibal-da-gametek" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/05/19/entrevista-fernando-paulo-criador-de-treeker">Entrevista: Fernando Paulo, criador de Treeker</a></h1>
@@ -244,6 +262,8 @@
     <a href="/2015/05/19/entrevista-fernando-paulo-criador-de-treeker" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/18/playthrough-chroma-squad-tactical-rpg-001">Playthrough Chroma Squad - Tactical RPG #001</a></h1>
@@ -257,7 +277,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/05/18/playthrough-chroma-squad-tactical-rpg-001/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/18/playthrough-chroma-squad-tactical-rpg-001/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -267,6 +287,8 @@
     <a href="/2015/05/18/playthrough-chroma-squad-tactical-rpg-001" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/18/imagens-da-semana-7">Imagens da semana #7</a></h1>
@@ -293,12 +315,14 @@
   
  </center>
     
-    #1 A JoyMasher avisando que Odallus também sairá em português” #2 O gamedev Daniel Merkel lembrando sobre três indie games brasileiros de destaque: Toren da Swordtales, Starlit Adventures da Rockhead Games e Chroma Squad da Behold Studios” #3 Pessoal da QUByte Interactive liberando o wallpaper The War Begun de seu...
+    #1 A JoyMasher avisando que Odallus também sairá em português #2 O gamedev Daniel Merkel lembrando sobre três indie games brasileiros de destaque: Toren da Swordtales, Starlit Adventures da Rockhead Games e Chroma Squad da Behold Studios #3 Pessoal da QUByte Interactive liberando o wallpaper The War Begun de seu...
     </div>
 
     <a href="/2015/05/18/imagens-da-semana-7" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015">Games brasileiros finalistas no BIG Festival 2015</a></h1>
@@ -310,16 +334,18 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
-    A organização do BIG Festival , primeiro e único festival de jogos independentes da América Latina, revelou durante a semana os finalistas da edição de 2015. Apesar de ser um evento de âmbito continental, o festival, por ser realizado no Brasil, tem uma categoria chamada “Revelação Brasil”, que privilegia os...
+    A organização do BIG Festival, primeiro e único festival de jogos independentes da América Latina, revelou durante a semana os finalistas da edição de 2015. Apesar de ser um evento de âmbito continental, o festival, por ser realizado no Brasil, tem uma categoria chamada “Revelação Brasil”, que privilegia os games...
     </div>
 
     <a href="/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao">XIII SEJA (Semana de Entretenimento, Jogos e  Animação)</a></h1>
@@ -338,6 +364,8 @@
     <a href="/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/16/crystal-catcher-ganha-versao-para-android">Crystal Catcher ganha versão para Android</a></h1>
@@ -348,6 +376,9 @@
 
 <center>
   
+    
+      <img src="/images/galleries/2015/05/16/crystal-catcher-ganha-versao-para-android/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
     Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever Crystal Catcher, para iPhone e iPad. Foi assim que em 2012 descrevemos o game Crystal Catcher da desenvolvedora brasileira Crazy Minds Game Studio, agora a equipe de desenvolvimento entrou em contato conosco para nos contar uma...
@@ -386,20 +417,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

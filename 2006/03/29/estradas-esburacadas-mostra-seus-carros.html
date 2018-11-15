@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Estradas Esburacadas mostra seus carros</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -186,7 +192,8 @@
 <p><br /></p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -194,57 +201,61 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_452.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_452.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_452.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_452.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_455.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_455.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_455.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_455.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_456.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_456.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_456.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_456.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_451.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_451.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_451.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_451.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_453.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_453.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_453.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_453.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_458.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_458.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_458.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_458.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_454.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_454.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_454.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_454.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_457.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_457.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_457.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_457.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_449.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_449.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_449.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_449.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_450.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_450.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_450.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_450.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_459.png">
-          <img src="../../../../../images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_459.png"/>        
+        <li data-thumb="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_459.png">
+          <img src="/images/galleries/2006/03/29/estradas-esburacadas-mostra-seus-carros/Screenshot_459.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -266,6 +277,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -310,20 +322,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

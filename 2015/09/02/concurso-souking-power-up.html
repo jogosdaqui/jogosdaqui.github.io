@@ -113,6 +113,12 @@ Para esta edição, a Souking
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -128,20 +134,6 @@ Para esta edição, a Souking
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -162,7 +154,21 @@ Para esta edição, a Souking
 <article class="post">
   <h1>Concurso Souking - Power UP</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -176,7 +182,7 @@ Para esta edição, a Souking
     
   
     
-      <img src="../../../../../images/galleries/2015/09/02/concurso-souking-power-up/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/09/02/concurso-souking-power-up/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <h2 id="3ª-power-up">3ª Power UP</h2>
@@ -209,7 +215,8 @@ Para esta edição, a Souking
  para conferir os jogos e participar do concurso!</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -217,25 +224,29 @@ Para esta edição, a Souking
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_03.jpg">
-          <img src="../../../../../images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_03.jpg"/>        
+        <li data-thumb="/images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_03.jpg">
+          <img src="/images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_03.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_02.jpg">
-          <img src="../../../../../images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_02.jpg"/>        
+        <li data-thumb="/images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_02.jpg">
+          <img src="/images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_04.png">
-          <img src="../../../../../images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_04.png"/>        
+        <li data-thumb="/images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_04.png">
+          <img src="/images/galleries/2015/09/02/concurso-souking-power-up/Souking_ConcursoPowerUp_04.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -257,6 +268,7 @@ Para esta edição, a Souking
     });
   });
 </script>
+
 
   </div>
 
@@ -309,20 +321,6 @@ Para esta edição, a Souking
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

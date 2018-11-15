@@ -75,7 +75,7 @@
     {
       "title"    : "Pixuleco - O Jogo",
       "category" : "",
-      "tags"     : "icon-games",
+      "tags"     : "icon-games, navegador",
       "url"      : "/2015/09/25/pixuleco-o-jogo",
       "date"     : "2015-09-25 00:00:00 -0300"
     } ,
@@ -91,7 +91,7 @@
     {
       "title"    : "Imagens da semana #13",
       "category" : "",
-      "tags"     : "aquiris-game-studio, double-dash, joymasher, iduna-game-studio, mgaia-studio, imagens-da-semana",
+      "tags"     : "aquiris-game-studio, double-dash, joymasher, iduna-game-studio, mgaia-studio, black-river-studios, rogue-snail, imagens-da-semana, coluna",
       "url"      : "/2015/09/14/imagens-da-semana-13",
       "date"     : "2015-09-14 00:00:00 -0300"
     } ,
@@ -155,7 +155,7 @@
     {
       "title"    : "Game brasileiro Paper Cat ajuda ONGs",
       "category" : "",
-      "tags"     : "mac, video, ilusis-interactive, steam, greenlight, ps4, xbox-one, xbox",
+      "tags"     : "mac, video, ilusis-interactive, steam, greenlight, windows, mac, ps4, xbox-one",
       "url"      : "/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs",
       "date"     : "2015-08-25 00:00:00 -0300"
     } ,
@@ -163,7 +163,7 @@
     {
       "title"    : "Odallus - The Dark Call: primeiras impressões",
       "category" : "",
-      "tags"     : "insert-coins, video, joymasher, big-festival, evento",
+      "tags"     : "insert-coins, video, joymasher, column",
       "url"      : "/2015/08/24/odallus-the-dark-call-primeiras-impressoes",
       "date"     : "2015-08-24 00:00:00 -0300"
     } ,
@@ -363,7 +363,7 @@
     {
       "title"    : "Imagens da semana #12",
       "category" : "",
-      "tags"     : "aquiris-game-studio, qubyte-interactive, big-festival, evento, southbox-game-studio, prosperity-games, facebook, imagens-da-semana, corrida",
+      "tags"     : "aquiris-game-studio, qubyte-interactive, southbox-game-studio, prosperity-games, imagens-da-semana, coluna",
       "url"      : "/2015/06/22/imagens-da-semana-12",
       "date"     : "2015-06-22 00:00:00 -0300"
     } ,
@@ -395,7 +395,7 @@
     {
       "title"    : "Imagens da semana #11",
       "category" : "",
-      "tags"     : "miniboss, joymasher, reiza-studios, ninja-garage-studio, mgaia-studio, big-green-pillow, imagens-da-semana, corrida",
+      "tags"     : "miniboss, joymasher, reiza-studios, ninja-garage-studio, mgaia-studio, big-green-pillow, aquiris-game-studio, imagens-da-semana, coluna",
       "url"      : "/2015/06/15/imagens-da-semana-11",
       "date"     : "2015-06-15 00:00:00 -0300"
     } ,
@@ -441,9 +441,9 @@
     } ,
   
     {
-      "title"    : "Imagens da semana 10",
+      "title"    : "Imagens da semana #10",
       "category" : "",
-      "tags"     : "chroma-squad, behold-studios, zanardi-and-liza, southbox-game-studio, gametek, imagens-da-semana, corrida",
+      "tags"     : "chroma-squad, behold-studios, zanardi-and-liza, southbox-game-studio, gametek, aquiris-game-studio, ninja-garage-studio, imagens-da-semana, coluna",
       "url"      : "/2015/06/08/imagens-da-semana-10",
       "date"     : "2015-06-08 00:00:00 -0300"
     } ,
@@ -467,7 +467,7 @@
     {
       "title"    : "Imagens da semana #9",
       "category" : "",
-      "tags"     : "aquiris-game-studio, ninja-garage-studio, mgaia-studio, imagens-da-semana, corrida",
+      "tags"     : "aquiris-game-studio, ninja-garage-studio, mgaia-studio, reiza-studios, protomini-multimedia, imagens-da-semana, coluna",
       "url"      : "/2015/06/01/imagens-da-semana-9",
       "date"     : "2015-06-01 00:00:00 -0300"
     } ,
@@ -515,7 +515,7 @@
     {
       "title"    : "Imagens da semana #8",
       "category" : "",
-      "tags"     : "aquiris-game-studio, steam, joymasher, reiza-studios, iduna-game-studio, mgaia-studio, garage-227, imagens-da-semana, corrida",
+      "tags"     : "aquiris-game-studio, joymasher, big-green-pillow, reiza-studios, iduna-game-studio, mgaia-studio, garage-227, imagens-da-semana, coluna",
       "url"      : "/2015/05/25/imagens-da-semana-8",
       "date"     : "2015-05-25 00:00:00 -0300"
     } ,
@@ -611,7 +611,7 @@
     {
       "title"    : "Imagens da semana #7",
       "category" : "",
-      "tags"     : "behold-studios, chroma-squad, steam, qubyte-interactive, greenlight, joymasher, swordtales, ninja-garage-studio, big-festival, evento, big-starter, iduna-game-studio, garage-227, rockhead-games, demo, facebook, imagens-da-semana",
+      "tags"     : "behold-studios, chroma-squad, qubyte-interactive, joymasher, swordtales, ninja-garage-studio, iduna-game-studio, garage-227, rockhead-games, imagens-da-semana, coluna",
       "url"      : "/2015/05/18/imagens-da-semana-7",
       "date"     : "2015-05-18 00:00:00 -0300"
     } ,
@@ -635,7 +635,7 @@
     {
       "title"    : "Crystal Catcher ganha versão para Android",
       "category" : "",
-      "tags"     : "ios, android, video",
+      "tags"     : "ios, android, video, crazy-minds-game-studio",
       "url"      : "/2015/05/16/crystal-catcher-ganha-versao-para-android",
       "date"     : "2015-05-16 00:00:00 -0300"
     } ,
@@ -643,7 +643,7 @@
     {
       "title"    : "Novo vídeo de gameplay de Gryphon Knight Epic",
       "category" : "",
-      "tags"     : "insert-coins, linux, mac, windows, video, crowdfunding, cyber-rhino-studios, entrevista, previa",
+      "tags"     : "linux, mac, windows, video, crowdfunding, cyber-rhino-studios",
       "url"      : "/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic",
       "date"     : "2015-05-15 00:00:00 -0300"
     } ,
@@ -651,7 +651,7 @@
     {
       "title"    : "Starlit Adventures, novo lançamento da Rockhead Games",
       "category" : "",
-      "tags"     : "ios, android, southlogic-studios, video, rockhead-games",
+      "tags"     : "ios, android, video, rockhead-games",
       "url"      : "/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games",
       "date"     : "2015-05-14 00:00:00 -0300"
     } ,
@@ -707,7 +707,7 @@
     {
       "title"    : "Imagens da semana #6",
       "category" : "",
-      "tags"     : "aquiris-game-studio, odin-game-studio, steam, joymasher, kimeric-labs, cupcake-sweet-entertainment, facebook, imagens-da-semana",
+      "tags"     : "aquiris-game-studio, odin-game-studio, joymasher, kimeric-labs, cupcake-sweet-entertainment, imagens-da-semana, coluna",
       "url"      : "/2015/05/11/imagens-da-semana-6",
       "date"     : "2015-05-11 00:00:00 -0300"
     } ,
@@ -755,7 +755,7 @@
     {
       "title"    : "Fan arts de Chroma Squad",
       "category" : "",
-      "tags"     : "chroma-squad, behold-studios",
+      "tags"     : "chroma-squad, behold-studios, fan-art",
       "url"      : "/2015/05/07/fan-arts-de-chroma-squad",
       "date"     : "2015-05-07 00:00:00 -0300"
     } ,
@@ -803,7 +803,7 @@
     {
       "title"    : "Imagens da semana #5",
       "category" : "",
-      "tags"     : "behold-studios, chroma-squad, odin-game-studio, joymasher, swordtales, mgaia-studio, vortex-game-studios, imagens-da-semana",
+      "tags"     : "behold-studios, odin-game-studio, joymasher, imgnation-studios, bighut-ames, swordtales, mgaia-studio, vortex-game-studios, imagens-da-semana, coluna",
       "url"      : "/2015/05/04/imagens-da-semana-5",
       "date"     : "2015-05-04 00:00:00 -0300"
     } ,
@@ -867,7 +867,7 @@
     {
       "title"    : "Phoenix Force",
       "category" : "",
-      "tags"     : "ios, android, splitplay, steam, windows-phone, windows, awoker-games",
+      "tags"     : "ios, android, splitplay, steam, windows-phone, awoker-games",
       "url"      : "/2015/04/28/phoenix-force",
       "date"     : "2015-04-28 00:00:00 -0300"
     } ,
@@ -891,7 +891,7 @@
     {
       "title"    : "Imagens da semana #4",
       "category" : "",
-      "tags"     : "behold-studios, chroma-squad, steam, qubyte-interactive, greenlight, mgaia-studio, garage-227, vortex-game-studios, division-five, facebook, imagens-da-semana",
+      "tags"     : "behold-studios, qubyte-interactive, mgaia-studio, garage-227, vortex-game-studios, division-five, imagens-da-semana, coluna",
       "url"      : "/2015/04/27/imagens-da-semana-4",
       "date"     : "2015-04-27 00:00:00 -0300"
     } ,
@@ -923,7 +923,7 @@
     {
       "title"    : "Lançada a demo de TurboLink",
       "category" : "",
-      "tags"     : "linux, mac, windows, xbox-360, xbox, division-five, demo, previa",
+      "tags"     : "linux, mac, windows, xbox-360, division-five, demo, previa",
       "url"      : "/2015/04/23/lancado-a-demo-de-turbolink",
       "date"     : "2015-04-23 00:00:00 -0300"
     } ,
@@ -947,7 +947,7 @@
     {
       "title"    : "Imagens da semana #3",
       "category" : "",
-      "tags"     : "aquiris-game-studio, behold-studios, chroma-squad, invent4, steam, reiza-studios, garage-227, otus-game-studio, imagens-da-semana",
+      "tags"     : "swordtales, aquiris-game-studio, behold-studios, mgaia-studios, invent4, reiza-studios, garage-227, otus-game-studio, imagens-da-semana, coluna",
       "url"      : "/2015/04/20/imagens-da-semana-3",
       "date"     : "2015-04-20 00:00:00 -0300"
     } ,
@@ -1011,7 +1011,7 @@
     {
       "title"    : "Imagens da semana #2",
       "category" : "",
-      "tags"     : "ios, android, behold-studios, chroma-squad, odin-game-studio, steam, windows-phone, windows, xbox-one, xbox, wii-u, wii, reiza-studios, swordtales, mgaia-studio, big-green-pillow, cat-nigiri, imagens-da-semana",
+      "tags"     : "arc-gen, behold-studios, odin-game-studio, reiza-studios, swordtales, mgaia-studio, big-green-pillow, cat-nigiri, imagens-da-semana, coluna",
       "url"      : "/2015/04/13/imagens-da-semana-2",
       "date"     : "2015-04-13 00:00:00 -0300"
     } ,
@@ -1035,7 +1035,7 @@
     {
       "title"    : "Tank Invaders",
       "category" : "",
-      "tags"     : "ios, android, sbgames, evento, windows-phone, windows, mgaia-studio",
+      "tags"     : "ios, android, sbgames, evento, windows-phone, mgaia-studio",
       "url"      : "/2015/04/08/tank-invaders",
       "date"     : "2015-04-08 00:00:00 -0300"
     } ,
@@ -1051,7 +1051,7 @@
     {
       "title"    : "Imagens da semana #1",
       "category" : "",
-      "tags"     : "behold-studios, chroma-squad, splitplay, ilusis-interactive, ps3, ps4, psvita, joymasher, reiza-studios, swordtales, division-five, previa, imagens-da-semana",
+      "tags"     : "behold-studios, splitplay, ilusis-interactive, joymasher, reiza-studios, splitplay, swordtales, division-five, imagens-da-semana, coluna",
       "url"      : "/2015/04/06/imagens-da-semana-1",
       "date"     : "2015-04-06 00:00:00 -0300"
     } ,
@@ -1123,7 +1123,7 @@
     {
       "title"    : "Letra de Ouro",
       "category" : "",
-      "tags"     : "ios, android, cupcake-sweet-entertainment, facebook",
+      "tags"     : "ios, android, facebook, cupcake-sweet-entertainment",
       "url"      : "/2015/03/26/letra-de-ouro",
       "date"     : "2015-03-26 00:00:00 -0300"
     } ,
@@ -1275,7 +1275,7 @@
     {
       "title"    : "Mr. Bree+ no Steam",
       "category" : "",
-      "tags"     : "sbgames, evento, steam, video, greenlight, big-festival, taw-studio",
+      "tags"     : "steam, video, big-festival, taw-studio",
       "url"      : "/2014/05/02/mr-bree-no-steam",
       "date"     : "2014-05-02 00:00:00 -0300"
     } ,
@@ -1331,7 +1331,7 @@
     {
       "title"    : "V de Vinagre",
       "category" : "",
-      "tags"     : "sbgames, evento, video, facebook, flux-game-studio, concurso",
+      "tags"     : "sbgames, video, facebook, flux-game-studio",
       "url"      : "/2013/06/17/v-de-vinagre",
       "date"     : "2013-06-17 00:00:00 -0300"
     } ,
@@ -1339,7 +1339,7 @@
     {
       "title"    : "Documentário &quot;Indústria de Games no Brasil&quot;",
       "category" : "",
-      "tags"     : "abragames, sbgames, evento",
+      "tags"     : "abragames, sbgames, documentario",
       "url"      : "/2013/06/13/documentario-industria-de-games-no-brasil",
       "date"     : "2013-06-13 00:00:00 -0300"
     } ,
@@ -1387,7 +1387,7 @@
     {
       "title"    : "BioTest",
       "category" : "",
-      "tags"     : "ios, android, video",
+      "tags"     : "ios, android, video, unicamp",
       "url"      : "/2013/05/13/biotest",
       "date"     : "2013-05-13 00:00:00 -0300"
     } ,
@@ -1595,7 +1595,7 @@
     {
       "title"    : "Crystal Catcher",
       "category" : "",
-      "tags"     : "ios, video",
+      "tags"     : "ios, video, crazy-minds-game-studio",
       "url"      : "/2012/10/30/crystal-catcher",
       "date"     : "2012-10-30 00:00:00 -0200"
     } ,
@@ -1603,7 +1603,7 @@
     {
       "title"    : "BGS 2012 alcança 100.000 visitantes",
       "category" : "",
-      "tags"     : "bgs, evento",
+      "tags"     : "bgs",
       "url"      : "/2012/10/26/bgs-2012-alcanca-100-000-visitantes",
       "date"     : "2012-10-26 00:00:00 -0200"
     } ,
@@ -1715,7 +1715,7 @@
     {
       "title"    : "BLLUBY",
       "category" : "",
-      "tags"     : "ios, icon-games, promocao",
+      "tags"     : "ios, crazy-minds-game-studio, puzzle, promocao",
       "url"      : "/2011/10/14/blluby",
       "date"     : "2011-10-14 00:00:00 -0300"
     } ,
@@ -1875,7 +1875,7 @@
     {
       "title"    : "Os fatos do ano",
       "category" : "",
-      "tags"     : "ios, miniboss, ovni-studios, ps3, psp, bgs, evento, zeebo, e-games, ubisoft, concurso",
+      "tags"     : "miniboss, ovni-studios, bgs, evento, zeebo, e-games, ubisoft",
       "url"      : "/2010/12/31/os-fatos-do-ano-2",
       "date"     : "2010-12-31 00:00:00 -0200"
     } ,
@@ -2721,18 +2721,10 @@
     } ,
   
     {
-      "title"    : "Quadro comemorativo &amp;#39;150 jogos daqui&amp;#39;",
+      "title"    : "Quadro comemorativo &quot;jogos daqui&quot;",
       "category" : "",
       "tags"     : "meantime, reality-show, palmsoft-tecnologia, mobile, continuum, rts, erinia, espaco-informatica, green-land-studios, icon-games, corrida, oniria, nology, lumen-technology, roko-loko, show-do-milhao, hoplon, tilt, leandro-correia, puzzle, esporte, oniria-entertainment, preloud, ttomax, calibre, FPS",
       "url"      : "/2006/05/18/quadro-comemorativo-150-jogos-daqui",
-      "date"     : "2006-05-18 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "150 jogos daqui",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/2006/05/18/150-jogos-daqui",
       "date"     : "2006-05-18 00:00:00 -0300"
     } ,
   
@@ -3027,7 +3019,7 @@
     {
       "title"    : "Ayrton Senna&amp;#39;s Best Lap",
       "category" : "",
-      "tags"     : "meantime",
+      "tags"     : "meantime, corrida",
       "url"      : "/2006/04/22/ayrton-sennas-best-lap",
       "date"     : "2006-04-22 00:00:00 -0300"
     } ,
@@ -3173,22 +3165,6 @@
       "category" : "",
       "tags"     : "jogosbr",
       "url"      : "/2006/03/30/jogosbr-prazo-final",
-      "date"     : "2006-03-30 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "InfoBrasil TI &amp; Telecom",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/2006/03/30/infobrasil-ti-telecom",
-      "date"     : "2006-03-30 00:00:00 -0300"
-    } ,
-  
-    {
-      "title"    : "Evento InfoBrasil TI &amp; Telecom",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/2006/03/30/evento-infobrasil-ti-telecom",
       "date"     : "2006-03-30 00:00:00 -0300"
     } ,
   

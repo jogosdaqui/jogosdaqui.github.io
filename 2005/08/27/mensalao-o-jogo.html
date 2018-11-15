@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Mensalão, o Jogo</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -166,7 +172,8 @@
 
 <p>A partir da versão 1.2 um editor para as fotos dos políticos e para os logotipos dos partidos, afim de permitir que o jogador monte seu próprio conjunto de envolvidos.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -174,25 +181,29 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/08/27/mensalao-o-jogo/mensalao03.gif">
-          <img src="../../../../../images/galleries/2005/08/27/mensalao-o-jogo/mensalao03.gif"/>        
+        <li data-thumb="/images/galleries/2005/08/27/mensalao-o-jogo/mensalao03.gif">
+          <img src="/images/galleries/2005/08/27/mensalao-o-jogo/mensalao03.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/08/27/mensalao-o-jogo/mensalao02.gif">
-          <img src="../../../../../images/galleries/2005/08/27/mensalao-o-jogo/mensalao02.gif"/>        
+        <li data-thumb="/images/galleries/2005/08/27/mensalao-o-jogo/mensalao02.gif">
+          <img src="/images/galleries/2005/08/27/mensalao-o-jogo/mensalao02.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/08/27/mensalao-o-jogo/mensalao00.gif">
-          <img src="../../../../../images/galleries/2005/08/27/mensalao-o-jogo/mensalao00.gif"/>        
+        <li data-thumb="/images/galleries/2005/08/27/mensalao-o-jogo/mensalao00.gif">
+          <img src="/images/galleries/2005/08/27/mensalao-o-jogo/mensalao00.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -214,6 +225,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -258,20 +270,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

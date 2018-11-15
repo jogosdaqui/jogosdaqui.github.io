@@ -116,6 +116,12 @@ Mas a sua visão não pode estar errada.Ninguém estava na cidade, exceto por Br
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -131,20 +137,6 @@ Mas a sua visão não pode estar errada.Ninguém estava na cidade, exceto por Br
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -165,7 +157,21 @@ Mas a sua visão não pode estar errada.Ninguém estava na cidade, exceto por Br
 <article class="post">
   <h1>Shadows of Malquidious</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -179,7 +185,7 @@ Mas a sua visão não pode estar errada.Ninguém estava na cidade, exceto por Br
     
   
     
-      <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/13/shadows-of-malquidious/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Os últimos anos foram duros para o seu reino.</p>
@@ -192,7 +198,8 @@ Mas a sua visão não pode estar errada.Ninguém estava na cidade, exceto por Br
 
 <center></center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -200,37 +207,41 @@ Mas a sua visão não pode estar errada.Ninguém estava na cidade, exceto por Br
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_3.png">
-          <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_3.png"/>        
+        <li data-thumb="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_3.png">
+          <img src="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_3.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_4.png">
-          <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_4.png"/>        
+        <li data-thumb="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_4.png">
+          <img src="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_4.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_2.png">
-          <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_2.png"/>        
+        <li data-thumb="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_2.png">
+          <img src="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_2.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_5.png">
-          <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_5.png"/>        
+        <li data-thumb="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_5.png">
+          <img src="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_5.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_6.png">
-          <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_6.png"/>        
+        <li data-thumb="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_6.png">
+          <img src="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_6.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_1.png">
-          <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_1.png"/>        
+        <li data-thumb="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_1.png">
+          <img src="/images/galleries/2005/10/13/shadows-of-malquidious/PalmSoft_ShadowsOfMalquidious_1.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -252,6 +263,7 @@ Mas a sua visão não pode estar errada.Ninguém estava na cidade, exceto por Br
     });
   });
 </script>
+
 
   </div>
 
@@ -296,20 +308,6 @@ Mas a sua visão não pode estar errada.Ninguém estava na cidade, exceto por Br
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

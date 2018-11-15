@@ -12,16 +12,13 @@
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
-    <meta name="description" content="Luke at the Stars é o primeiro game da Alpaca Team
- e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso.
+    <meta name="description" content="Luke at the Stars é o primeiro game da Alpaca Team e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso.
 
 " />
-    <meta property="og:description" content="Luke at the Stars é o primeiro game da Alpaca Team
- e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso.
+    <meta property="og:description" content="Luke at the Stars é o primeiro game da Alpaca Team e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso.
 
 " />
-    <meta name="twitter:description" content="Luke at the Stars é o primeiro game da Alpaca Team
- e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso.
+    <meta name="twitter:description" content="Luke at the Stars é o primeiro game da Alpaca Team e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso.
 
 " />
     
@@ -98,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -147,7 +136,21 @@
 <article class="post">
   <h1>Luke at the Stars</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -158,9 +161,11 @@
   
     
   
+    
+      <img src="/images/galleries/2013/04/08/luke-at-the-stars/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
-    <p>Luke at the Stars é o primeiro game da <a href="http://alpacateam.com/">Alpaca Team</a>
- e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso.</p>
+    <p>Luke at the Stars é o primeiro game da <a href="http://alpacateam.com/">Alpaca Team</a> e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso.</p>
 
 <p>No game o jogador controlará Luke, um garoto que, após uma pequena decepção amorosa, resolve procurar um lugar na cidade pra ver as estrelas, mas por todos os lugares existem apenas prédios. É nesse momento que entra o gameplay do puzzle, onde o jogador, através da imaginação do personagem, deve combinar andares semelhantes dos edifícios para fazê-los desaparecer e assim poder ter um céu limpo e propício para apreciação das estrelas.</p>
 
@@ -170,11 +175,10 @@
         <iframe src="https://www.youtube.com/embed/A-xx3gmRLvg " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-<p>Luke at the Stars está disponível para dispositivos <a href="http://appworld.blackberry.com/webstore/content/25007901/" target="_blank">BlackBerry Playbook</a>
- e <a href="https://play.google.com/store/apps/details?id=air.com.alpaca.luke&amp;feature=search_result#?t=W251bGwsMSwxLDEsImFpci5jb20uYWxwYWNhLmx1a2UiXQ.." target="_blank">tablets Android</a>
-.</p>
+<p>Luke at the Stars está disponível para dispositivos <a href="http://appworld.blackberry.com/webstore/content/25007901/">BlackBerry Playbook</a> e <a href="https://play.google.com/store/apps/details?id=air.com.alpaca.luke&amp;feature=search_result#?t=W251bGwsMSwxLDEsImFpci5jb20uYWxwYWNhLmx1a2UiXQ..">tablets Android</a>.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -182,21 +186,25 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2013/04/08/luke-at-the-stars/screen3_med.png">
-          <img src="../../../../../images/galleries/2013/04/08/luke-at-the-stars/screen3_med.png"/>        
+        <li data-thumb="/images/galleries/2013/04/08/luke-at-the-stars/screen3_med.png">
+          <img src="/images/galleries/2013/04/08/luke-at-the-stars/screen3_med.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/04/08/luke-at-the-stars/screen2_med.png">
-          <img src="../../../../../images/galleries/2013/04/08/luke-at-the-stars/screen2_med.png"/>        
+        <li data-thumb="/images/galleries/2013/04/08/luke-at-the-stars/screen2_med.png">
+          <img src="/images/galleries/2013/04/08/luke-at-the-stars/screen2_med.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -218,6 +226,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -270,20 +279,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

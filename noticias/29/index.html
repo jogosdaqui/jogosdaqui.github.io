@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,82 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/08/newsabragames-fevereiro-2006">NewsAbragames - Fevereiro/2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Está no ar mais uma edição da NewsAbragames.A newsletter deste mês da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos, traz uma review sobre o jogo Die Pferbebande da empresa Oniria Entertainment , os destaques na imprensa, informações sobre o Concurso JogosBR , o lançamento da versão beta do jogo Imagem...
+    </div>
+
+    <a href="/2006/02/08/newsabragames-fevereiro-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/03/mdev-jogos-para-celular">MDEV: jogos para celular</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    MDEV é uma distribuidora
+ e desenvolvedora
+ de jogos para celular
+ genuinamente brasileira. A MDEV é do estado de Santa Catarina, assim como a PalmSoft Tecnologia
+, uma de suas parceiras.Rally dos Sertões 2005
+ é o primeiro jogo da MDEV listado no jogosdaqui.
+
+    </div>
+
+    <a href="/2006/02/03/mdev-jogos-para-celular" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/30/continuacao-de-tank-mission-2">Continuação de Tank Mission 2</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A PalmSoft Tecnologia
+ está desenvolvendo Tank Mission 3, terceiro jogo da famosa séria Tank Mission.Veja a prévia …
+
+
+    </div>
+
+    <a href="/2006/01/30/continuacao-de-tank-mission-2" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/26/novidades-no-gametrack">Novidades no Gametrack</a></h1>
@@ -143,6 +204,23 @@
     <a href="/2006/01/26/novidades-no-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/01/25/hoplon-ganha-premio-da-ibm-brasil">Hoplon ganha prêmio da IBM Brasil</a></h1>
@@ -154,7 +232,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/01/25/hoplon-ganha-premio-da-ibm-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/25/hoplon-ganha-premio-da-ibm-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -164,6 +242,8 @@
     <a href="/2006/01/25/hoplon-ganha-premio-da-ibm-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/24/war-of-malquidious-e-palmsoft-drag-racer">War of Malquidious e PalmSoft Drag Racer</a></h1>
@@ -186,6 +266,8 @@
     <a href="/2006/01/24/war-of-malquidious-e-palmsoft-drag-racer" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/24/tilt-abre-jogo-comercial">TILT abre jogo comercial</a></h1>
@@ -204,6 +286,8 @@
     <a href="/2006/01/24/tilt-abre-jogo-comercial" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/24/tilt-abre-jogo-comercial-feito-em-assembly">TILT abre jogo comercial feito em assembly</a></h1>
@@ -222,6 +306,8 @@
     <a href="/2006/01/24/tilt-abre-jogo-comercial-feito-em-assembly" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/23/lancado-o-brasfoot-2006">Lançado o Brasfoot 2006</a></h1>
@@ -244,6 +330,8 @@ Confira mais detalhes no site do jogo…
     <a href="/2006/01/23/lancado-o-brasfoot-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/17/faca-parte-da-batalha-tecnologica-de-warbots">Faça parte da batalha tecnológica de Warbots</a></h1>
@@ -260,60 +348,6 @@ Confira mais detalhes no site do jogo…
     </div>
 
     <a href="/2006/01/17/faca-parte-da-batalha-tecnologica-de-warbots" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro">PalmSoft lança três jogos em janeiro</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A PalmSoft Tecnologia, empresa catarinense que desenvolve jogos para celular, está com três novidades. A primeira delas Shadows of Malquidious , RPG que ficou entre os 20 melhores jogos em um concurso da Sony Ericsson, e que começa a ser comercializado no Brasil. Nele, o jogador é envolvido em um...
-    </div>
-
-    <a href="/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/01/10/reestruturacao-na-hoplon">Reestruturação na Hoplon</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Como de costume, tenho boas e más notícias que gostaria de partilhar com vocês, nossos maiores apoiadores, em primeira mão. Em resumo, a excelente notícia é que nós, junto com nosso investidor, estamos renovando nosso compromisso de não colocar o Taikodom no mercado exceto como um produto de excelente qualidade...
-    </div>
-
-    <a href="/2006/01/10/reestruturacao-na-hoplon" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/01/06/ano-novo-jogos-novos">Ano novo, jogos novos</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Foram adicionados os dois primeiros jogos para este ano na nossa galeria, o Metablocks , terceiro colocado no Festival de Jogos Independentes e o Os Conquistadores , novo jogo da Dynamic Games que conta um pouco da história do primeiro rei de Portugal. Fiquem atentos, que novos jogos estão por...
-    </div>
-
-    <a href="/2006/01/06/ano-novo-jogos-novos" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -349,20 +383,6 @@ Confira mais detalhes no site do jogo…
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,46 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/14/truco">Truco</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2006/03/14/truco/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    O Truco do portal Gametrack é um jogo singleplayer que segue todas as regras do truco real.O jogo tem um charme especial por aliar um famoso jogo de carta com um estilo mais jovem. A trilha sonora, as imagens e animações seguem este estilo.No jogo você disputa as partidas contra...
+    </div>
+
+    <a href="/2006/03/14/truco" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/13/castle-ghost">Castle Ghost</a></h1>
@@ -142,7 +167,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/13/castle-ghost/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/13/castle-ghost/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -152,6 +177,8 @@
     <a href="/2006/03/13/castle-ghost" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/13/aquadum">Aquadum</a></h1>
@@ -177,7 +204,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/13/aquadum/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/13/aquadum/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -187,6 +214,8 @@
     <a href="/2006/03/13/aquadum" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/08/xadrez">Xadrez</a></h1>
@@ -210,7 +239,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/08/xadrez/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/08/xadrez/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -220,6 +249,23 @@
     <a href="/2006/03/08/xadrez" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/03/08/a-ponte">A Ponte</a></h1>
@@ -235,7 +281,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/08/a-ponte/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/08/a-ponte/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -245,6 +291,8 @@
     <a href="/2006/03/08/a-ponte" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/05/estrategia-f1">Estratégia F1</a></h1>
@@ -262,7 +310,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/05/estrategia-f1/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/05/estrategia-f1/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -272,6 +320,8 @@
     <a href="/2006/03/05/estrategia-f1" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/04/conecta-4-experience">Conecta 4 - Experience</a></h1>
@@ -298,6 +348,8 @@
     <a href="/2006/03/04/conecta-4-experience" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/07/pedreiro-polar">Pedreiro Polar</a></h1>
@@ -315,7 +367,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/02/07/pedreiro-polar/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/02/07/pedreiro-polar/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -325,6 +377,8 @@
     <a href="/2006/02/07/pedreiro-polar" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/05/star-athletes">Star Athletes</a></h1>
@@ -338,7 +392,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/02/05/star-athletes/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/02/05/star-athletes/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -349,6 +403,8 @@
     <a href="/2006/02/05/star-athletes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/03/rally-dos-sertoes-2005">Rally dos Sertões 2005</a></h1>
@@ -366,7 +422,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/02/03/rally-dos-sertoes-2005/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -374,31 +430,6 @@
     </div>
 
     <a href="/2006/02/03/rally-dos-sertoes-2005" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/03/faroeste">Faroeste</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2006/02/03/faroeste/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Em uma pequena cidade do velho oeste, sua missão é ajudar o Xerife a prender os bandidos.A tarefa não será fácil, pois você deverá participar de um duelo com cada um deles. Porém, só é permitido atirar em legítima defesa, ou você será preso. Você terá apenas uma bala para...
-    </div>
-
-    <a href="/2006/02/03/faroeste" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -434,20 +465,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

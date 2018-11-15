@@ -188,6 +188,12 @@ Ficou interessado? Então acesse o club Tilt
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -203,20 +209,6 @@ Ficou interessado? Então acesse o club Tilt
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -237,7 +229,21 @@ Ficou interessado? Então acesse o club Tilt
 <article class="post">
   <h1>club TILT, Renato Degiovani fala sobre a abertura</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -245,7 +251,7 @@ Ficou interessado? Então acesse o club Tilt
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Renato Degiovani, primeiro projetista de jogos brasileiro anunciou recentemente a abertura do <a href="http://www.clubtilt.net/" target="_blank">club TILT</a>
@@ -282,7 +288,8 @@ Ficou interessado? Então acesse o club Tilt
 <p>Ficou interessado? Então acesse o <a href="http://www.clubtilt.net/" target="_blank">club Tilt</a>
  e divirta-se!</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -290,9 +297,8 @@ Ficou interessado? Então acesse o club Tilt
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -340,20 +346,6 @@ Ficou interessado? Então acesse o club Tilt
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -84,6 +84,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,20 +105,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <h2>windows</h2>
 <ul>
 
@@ -121,6 +113,8 @@
   <li><a href="/2015/09/09/rock-life">Rock Life</a> (09/09/2015)</li>
 
   <li><a href="/2015/08/26/reord">ReOrd</a> (26/08/2015)</li>
+
+  <li><a href="/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs">Game brasileiro Paper Cat ajuda ONGs</a> (25/08/2015)</li>
 
   <li><a href="/2015/08/20/racketboy-da-double-dash-studios">RacketBoy da Double Dash Studios</a> (20/08/2015)</li>
 
@@ -138,15 +132,9 @@
 
   <li><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a> (15/05/2015)</li>
 
-  <li><a href="/2015/04/28/phoenix-force">Phoenix Force</a> (28/04/2015)</li>
-
   <li><a href="/2015/04/23/lancado-a-demo-de-turbolink">Lançada a demo de TurboLink</a> (23/04/2015)</li>
 
   <li><a href="/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads">Tank Invaders atinge mais de 300 mil downloads</a> (15/04/2015)</li>
-
-  <li><a href="/2015/04/13/imagens-da-semana-2">Imagens da semana #2</a> (13/04/2015)</li>
-
-  <li><a href="/2015/04/08/tank-invaders">Tank Invaders</a> (08/04/2015)</li>
 
   <li><a href="/2014/06/05/splitplay-apresenta-bernie-needs-love">Splitplay apresenta: Bernie Needs Love</a> (05/06/2014)</li>
 
@@ -178,20 +166,6 @@
 
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

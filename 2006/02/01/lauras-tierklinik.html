@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Laura&#39;s Tierklinik</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -157,7 +163,8 @@
  </center>
     <p>Laura ama animais mais do que qualquer coisa. Quando o cavalo de um amigo fica doente, ela leva o cavalo até o hospital local para animais. Uma médica, percebendo o talento de Laura com os animais, convida-a para trabalhar no hospital.<br /><br />Você estará no papel de Laura ajudando no hospital de animais.<br /><br />Receba chamadas de emergência, cuide dos animais feridos e mantenha-os ocupados com atividades. Procure animais desaparecidos e traga-os o mais rápido possível para o hospital.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -165,25 +172,29 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/02/01/lauras-tierklinik/Screenshot_345.png">
-          <img src="../../../../../images/galleries/2006/02/01/lauras-tierklinik/Screenshot_345.png"/>        
+        <li data-thumb="/images/galleries/2006/02/01/lauras-tierklinik/Screenshot_345.png">
+          <img src="/images/galleries/2006/02/01/lauras-tierklinik/Screenshot_345.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/02/01/lauras-tierklinik/Screenshot_346.png">
-          <img src="../../../../../images/galleries/2006/02/01/lauras-tierklinik/Screenshot_346.png"/>        
+        <li data-thumb="/images/galleries/2006/02/01/lauras-tierklinik/Screenshot_346.png">
+          <img src="/images/galleries/2006/02/01/lauras-tierklinik/Screenshot_346.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/02/01/lauras-tierklinik/Screenshot_347.png">
-          <img src="../../../../../images/galleries/2006/02/01/lauras-tierklinik/Screenshot_347.png"/>        
+        <li data-thumb="/images/galleries/2006/02/01/lauras-tierklinik/Screenshot_347.png">
+          <img src="/images/galleries/2006/02/01/lauras-tierklinik/Screenshot_347.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -205,6 +216,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -251,20 +263,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

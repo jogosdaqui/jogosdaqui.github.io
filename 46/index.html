@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,79 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/02/23/mobile-mixer-e-meantime-apresentam-novidades-na-telexpo-2006">Mobile Mixer e Meantime apresentam novidades na Telexpo 2006</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
- </center>
     
-    Empresas se associam para ampliar base de oferta de projetos para plataformas móveis e demonstram nova ferramenta de gerenciamento de conteúdo.A Mobile Mixer entra em uma nova fase de operação com a entrada da Meantime Mobile Creations (integrante do Grupo C.E.S.A.R – Centro de Estudos e Sistemas Avançados do Recife)...
-    </div>
-
-    <a href="/2006/02/23/mobile-mixer-e-meantime-apresentam-novidades-na-telexpo-2006" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/23/meantime-fecha-parceria-com-mixer">Meantime fecha parceria com Mixer</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
     
-    A Meantime Mobile Creations, desenvolvedora e distribuidora de jogos para celular, fechou parceria com a Mixer, empresa do mercado audiovisual.A parceria visa a ampliação de projetos para plataformas móveis.Leia mais…
-
-
-    </div>
-
-    <a href="/2006/02/23/meantime-fecha-parceria-com-mixer" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/23/confira-a-previa-do-wsg-web-soccer-game">Confira a Prévia do WSG - Web Soccer Game</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A Knum3D, uma nova produtora de jogos nacionais está entrando em cena com a produção de alguns jogos, dentre eles está o WSG - Web Soccer Game, que é um jogo de futebol baseados em turnos.Confira a prévia aqui…
-
-    </div>
-
-    <a href="/2006/02/23/confira-a-previa-do-wsg-web-soccer-game" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/02/22/previa-de-danger-mission">Prévia de Danger Mission</a></h1>
@@ -197,6 +135,8 @@
     <a href="/2006/02/22/previa-de-danger-mission" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/22/2-campeonato-de-war-no-gametrack">2° Campeonato de War no Gametrack</a></h1>
@@ -215,6 +155,8 @@
     <a href="/2006/02/22/2-campeonato-de-war-no-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/21/novidades-da-espaco-informatica">Novidades da Espaço Informática</a></h1>
@@ -233,6 +175,8 @@
     <a href="/2006/02/21/novidades-da-espaco-informatica" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/21/danger-mission">Danger Mission</a></h1>
@@ -267,6 +211,23 @@
     <a href="/2006/02/21/danger-mission" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/02/21/concursos-para-a-tgs-2006">Concursos para a TGS 2006</a></h1>
@@ -285,6 +246,8 @@
     <a href="/2006/02/21/concursos-para-a-tgs-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/20/por-um-punhado-de-credibilidade">Por um punhado de credibilidade</a></h1>
@@ -304,6 +267,8 @@
     <a href="/2006/02/20/por-um-punhado-de-credibilidade" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/14/concurso-de-ideias-do-jogosbr">Concurso de Idéias do JogosBR</a></h1>
@@ -320,6 +285,76 @@
     </div>
 
     <a href="/2006/02/14/concurso-de-ideias-do-jogosbr" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/11/voce-sera-um-guerreiro">Você será um guerreiro</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Hugo Tiberius é o seu nome, a sua missão é lutar por glória, fama e fortuna em várias arenas.Esse é Gladiarena, jogo em desenvolvimento pela PalmSoft Tecnologia . Gladiarena é um jogo de ação para celular com visual 2D onde o jogador tem uma visão aérea do cenário e personagens....
+    </div>
+
+    <a href="/2006/02/11/voce-sera-um-guerreiro" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/11/tilt-online-fecha-parceria">TILT online fecha parceria</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A TILT online
+ fechou parceria com o site Minimidia
+. A iniciativa pretende auxiliar na divulgação de jogos em desenvolvimento e sites relacionados a produção de jogos no Brasil.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/02/11/tilt-online-fecha-parceria" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/08/newsabragames-fevereiro-2006">NewsAbragames - Fevereiro/2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Está no ar mais uma edição da NewsAbragames.A newsletter deste mês da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos, traz uma review sobre o jogo Die Pferbebande da empresa Oniria Entertainment , os destaques na imprensa, informações sobre o Concurso JogosBR , o lançamento da versão beta do jogo Imagem...
+    </div>
+
+    <a href="/2006/02/08/newsabragames-fevereiro-2006" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -352,20 +387,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

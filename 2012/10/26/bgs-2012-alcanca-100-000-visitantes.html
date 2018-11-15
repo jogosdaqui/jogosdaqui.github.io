@@ -12,24 +12,21 @@
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
-    <meta name="description" content="Dia 19 de outubro a organização da BGS (Brasil Game Show)
- liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.
+    <meta name="description" content="Dia 19 de outubro a organização da BGS (Brasil Game Show) liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.
 
 Em 2012 a feira superou os 100.000 visitantes  e movimentou por volta de R$ 50 milhões em negócios durante os 4 dias de exposição no Expo Center em São Paulo.
 
 Veja o gráfico da evolução do público da feira desde 2009.
 
 " />
-    <meta property="og:description" content="Dia 19 de outubro a organização da BGS (Brasil Game Show)
- liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.
+    <meta property="og:description" content="Dia 19 de outubro a organização da BGS (Brasil Game Show) liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.
 
 Em 2012 a feira superou os 100.000 visitantes  e movimentou por volta de R$ 50 milhões em negócios durante os 4 dias de exposição no Expo Center em São Paulo.
 
 Veja o gráfico da evolução do público da feira desde 2009.
 
 " />
-    <meta name="twitter:description" content="Dia 19 de outubro a organização da BGS (Brasil Game Show)
- liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.
+    <meta name="twitter:description" content="Dia 19 de outubro a organização da BGS (Brasil Game Show) liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.
 
 Em 2012 a feira superou os 100.000 visitantes  e movimentou por volta de R$ 50 milhões em negócios durante os 4 dias de exposição no Expo Center em São Paulo.
 
@@ -110,6 +107,12 @@ Veja o gráfico da evolução do público da feira desde 2009.
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -125,20 +128,6 @@ Veja o gráfico da evolução do público da feira desde 2009.
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -159,7 +148,21 @@ Veja o gráfico da evolução do público da feira desde 2009.
 <article class="post">
   <h1>BGS 2012 alcança 100.000 visitantes</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -167,32 +170,21 @@ Veja o gráfico da evolução do público da feira desde 2009.
 <center>
   
     
-      <img src="../../../../../images/galleries/2012/10/26/bgs-2012-alcanca-100-000-visitantes/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
+  
  </center>
-    <p>Dia 19 de outubro a organização da <a href="http://www.brasilgameshow.com.br " target="_blank">BGS (Brasil Game Show)</a>
- liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.</p>
+    <p>Dia 19 de outubro a organização da <a href="http://www.brasilgameshow.com.br " target="_blank">BGS (Brasil Game Show)</a> liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.</p>
 
 <p>Em 2012 a feira superou os <strong>100.000 visitantes</strong>  e movimentou por volta de<strong> R$ 50 milhões</strong> em negócios durante os 4 dias de exposição no Expo Center em São Paulo.</p>
 
 <p>Veja o gráfico da evolução do público da feira desde 2009.</p>
 
+<center>
+        <img src="/images/galleries/2012/10/26/bgs-2012-alcanca-100-000-visitantes/grafico.png " />
+      </center>
+
 <p>O crescimento da feira realmente impressiona, será que teremos <strong>200.000 visitantes</strong> nos próximos anos? E que tal mais <strong>empresas nacionais</strong> participando do evento?</p>
 
-
-     
- 
-
-<link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
-<script src="/libs/lightslider/js/lightslider.js"></script>
- 
-
-
-<center>
-  
- </center>
-
-
+    
   </div>
 
   <div class="date">
@@ -201,8 +193,6 @@ Veja o gráfico da evolução do público da feira desde 2009.
   <span>
     
         <a href="/tags/bgs" class="post-tag">bgs</a>
-    
-        <a href="/tags/evento" class="post-tag">evento</a>
     
 </span>
   <br>
@@ -240,20 +230,6 @@ Veja o gráfico da evolução do público da feira desde 2009.
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -98,6 +98,12 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +119,6 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -147,7 +139,21 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
 <article class="post">
   <h1>Incorporated</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -186,7 +192,8 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
 <a href="http://www.sendspace.com/file/wy81pk" target="_blank">Veja o vídeo (5MB)… </a></p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -194,61 +201,65 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_523.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_523.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_523.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_523.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_514.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_514.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_514.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_514.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_516.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_516.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_516.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_516.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_519.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_519.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_519.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_519.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_522.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_522.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_522.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_522.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_525.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_525.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_525.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_525.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_520.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_520.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_520.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_520.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_515.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_515.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_515.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_515.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_524.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_524.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_524.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_524.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_517.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_517.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_517.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_517.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_518.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_518.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_518.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_518.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_521.png">
-          <img src="../../../../../images/galleries/2006/05/10/incorporated/Screenshot_521.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/incorporated/Screenshot_521.png">
+          <img src="/images/galleries/2006/05/10/incorporated/Screenshot_521.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -270,6 +281,7 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
     });
   });
 </script>
+
 
   </div>
 
@@ -318,20 +330,6 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -88,6 +88,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -103,27 +109,33 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/04/26/checkpoint-3">Checkpoint #3</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    #1 Evento do Museu do Videogame Itinerante, onde os jogadores podem conhecer e jogar clássicos das décadas de 70, 80, 90 e 2000 #2 A equipe da Swordtales lembrando que o game Toren já pode ser adicionado a lista de desejos no Steam #3 Entrevistamos Claudio Lins, gamedev brasileiro do...
+    </div>
+
+    <a href="/2015/04/26/checkpoint-3" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/20/imagens-da-semana-3">Imagens da semana #3</a></h1>
@@ -154,12 +166,14 @@
   
  </center>
     
-    #1 Na primeira imagem da semana ficamos com a arte ‘The Tower’ do game brasileiro Toren.” [sc:ImagesOfTheWeek_item number=”2” description=”Foto do evento BRING #4 realizado no sábado dia 11/04/15 na Indie House da Behold Studios, Otus Game Studio e BadMinions.” ] #3 Project Retro Racer que está em desenvolvimento pela Aquiris...
+    #1 Na primeira imagem da semana ficamos com a arte ‘The Tower’ do game brasileiro Toren. #2 Foto do evento BRING #4 realizado no sábado dia 11/04/15 na Indie House da Behold Studios, Otus Game Studio e BadMinions. #3 Project Retro Racer que está em desenvolvimento pela Aquiris Game Studio...
     </div>
 
     <a href="/2015/04/20/imagens-da-semana-3" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/18/checkpoint-2">Checkpoint #2</a></h1>
@@ -178,6 +192,8 @@
     <a href="/2015/04/18/checkpoint-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/16/checkpoint-1">Checkpoint #1</a></h1>
@@ -196,6 +212,23 @@
     <a href="/2015/04/16/checkpoint-1" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/04/13/imagens-da-semana-2">Imagens da semana #2</a></h1>
@@ -230,6 +263,8 @@
     <a href="/2015/04/13/imagens-da-semana-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/06/imagens-da-semana-1">Imagens da semana #1</a></h1>
@@ -274,7 +309,7 @@
            
 
         
-            <li ><a href="/colunas/" title="">1</a></li>
+            <li ><a href="/colunas/" title="Colunas">1</a></li>
         
             <li ><a href="/colunas/2/" title="">2</a></li>
         
@@ -288,20 +323,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -12,16 +12,37 @@
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
-    <meta name="description" content="BioTest
- foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.
+    <meta name="description" content="BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.
+
+Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile.
+
+BioTest é um jogo educacional no estilo forca com perguntas de biologia. Contando com 1200 questões, 3 níveis de dificuldade, modo interativo para colonização de biomas  e ainda conta com achievements e leaderboards.
+
+
+        
+      
 
 " />
-    <meta property="og:description" content="BioTest
- foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.
+    <meta property="og:description" content="BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.
+
+Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile.
+
+BioTest é um jogo educacional no estilo forca com perguntas de biologia. Contando com 1200 questões, 3 níveis de dificuldade, modo interativo para colonização de biomas  e ainda conta com achievements e leaderboards.
+
+
+        
+      
 
 " />
-    <meta name="twitter:description" content="BioTest
- foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.
+    <meta name="twitter:description" content="BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.
+
+Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile.
+
+BioTest é um jogo educacional no estilo forca com perguntas de biologia. Contando com 1200 questões, 3 níveis de dificuldade, modo interativo para colonização de biomas  e ainda conta com achievements e leaderboards.
+
+
+        
+      
 
 " />
     
@@ -55,13 +76,13 @@
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="BioTest" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP." />
-<meta property="og:description" content="BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP." />
+<meta name="description" content="BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP. Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile. BioTest é um jogo educacional no estilo forca com perguntas de biologia. Contando com 1200 questões, 3 níveis de dificuldade, modo interativo para colonização de biomas e ainda conta com achievements e leaderboards." />
+<meta property="og:description" content="BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP. Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile. BioTest é um jogo educacional no estilo forca com perguntas de biologia. Contando com 1200 questões, 3 níveis de dificuldade, modo interativo para colonização de biomas e ainda conta com achievements e leaderboards." />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2013-05-13T00:00:00-03:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","url":"/2013/05/13/biotest","headline":"BioTest","dateModified":"2013-05-13T00:00:00-03:00","datePublished":"2013-05-13T00:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2013/05/13/biotest"},"description":"BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2013/05/13/biotest","headline":"BioTest","dateModified":"2013-05-13T00:00:00-03:00","datePublished":"2013-05-13T00:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2013/05/13/biotest"},"description":"BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP. Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile. BioTest é um jogo educacional no estilo forca com perguntas de biologia. Contando com 1200 questões, 3 níveis de dificuldade, modo interativo para colonização de biomas e ainda conta com achievements e leaderboards.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -98,6 +119,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +140,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -147,7 +160,21 @@
 <article class="post">
   <h1>BioTest</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -159,10 +186,10 @@
     
   
     
-  
+      <img src="/images/galleries/2013/05/13/biotest/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
-    <p><a href="http://www.biotest-app.com/" target="_blank">BioTest</a>
- foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.</p>
+    <p><a href="http://www.biotest-app.com/">BioTest</a> foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.</p>
 
 <p>Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile.</p>
 
@@ -172,12 +199,11 @@
         <iframe src="https://www.youtube.com/embed/-QR2GhQShGM " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-<p><span style="color: #222222; font-family: arial, sans-serif; font-size: 13.333333969116211px;">O jogo está disponível na <a href="https://play.google.com/store/apps/details?id=br.com.gamescamp.biotest" target="_blank">Google Play por U$0.99</a>
- e na <a href="https://itunes.apple.com/us/app/biotest/id636941373" target="_blank">Apple Store por U$1.99</a>
-.</span></p>
+<h2 id="plataformas">Plataformas</h2>
+<p>O jogo está disponível na <a href="https://play.google.com/store/apps/details?id=br.com.gamescamp.biotest">Google Play por U$0.99</a> e na <a href="https://itunes.apple.com/us/app/biotest/id636941373">Apple Store por U$1.99</a></p>
 
-
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -185,25 +211,25 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2013/05/13/biotest/biotest_visual.jpg">
-          <img src="../../../../../images/galleries/2013/05/13/biotest/biotest_visual.jpg"/>        
+        <li data-thumb="/images/galleries/2013/05/13/biotest/biotest_visual.jpg">
+          <img src="/images/galleries/2013/05/13/biotest/biotest_visual.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/05/13/biotest/biotest_mapa.jpg">
-          <img src="../../../../../images/galleries/2013/05/13/biotest/biotest_mapa.jpg"/>        
-        </li>
-    
-        <li data-thumb="../../../../../images/galleries/2013/05/13/biotest/biotest_feature.jpg">
-          <img src="../../../../../images/galleries/2013/05/13/biotest/biotest_feature.jpg"/>        
+        <li data-thumb="/images/galleries/2013/05/13/biotest/biotest_mapa.jpg">
+          <img src="/images/galleries/2013/05/13/biotest/biotest_mapa.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -226,6 +252,7 @@
   });
 </script>
 
+
   </div>
 
   <div class="date">
@@ -238,6 +265,8 @@
         <a href="/tags/android" class="post-tag">android</a>
     
         <a href="/tags/video" class="post-tag">video</a>
+    
+        <a href="/tags/unicamp" class="post-tag">unicamp</a>
     
 </span>
   <br>
@@ -275,20 +304,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

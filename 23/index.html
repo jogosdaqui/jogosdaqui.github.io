@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/04/06/previa-the-fish-dies-in-the-end">Prévia: The Fish Dies in the End</a></h1>
@@ -131,7 +126,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/04/06/previa-the-fish-dies-in-the-end/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/04/06/previa-the-fish-dies-in-the-end/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -141,6 +136,8 @@
     <a href="/2011/04/06/previa-the-fish-dies-in-the-end" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/03/28/novidades-sobre-my-country-my-name">Novidades sobre My Country, My Name</a></h1>
@@ -163,6 +160,8 @@
     <a href="/2011/03/28/novidades-sobre-my-country-my-name" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/03/16/previa-legend-alive-rebirth-of-the-angels">Prévia: Legend Alive: rebirth of the angels</a></h1>
@@ -185,6 +184,8 @@
     <a href="/2011/03/16/previa-legend-alive-rebirth-of-the-angels" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/03/01/fps-da-aquiris-gx-em-fase-alpha">FPS da Aquiris gX em fase alpha</a></h1>
@@ -217,6 +218,23 @@
     <a href="/2011/03/01/fps-da-aquiris-gx-em-fase-alpha" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2">Entrevista: Tiago Moraes da Ovni Studios (parte 2)</a></h1>
@@ -228,7 +246,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -238,6 +256,8 @@
     <a href="/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/02/18/preview-de-talbots-odissey">Preview de Talbot&#39;s Odissey</a></h1>
@@ -260,6 +280,8 @@
     <a href="/2011/02/18/preview-de-talbots-odissey" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/02/12/curso-desenvolvimento-com-udk">Curso: Desenvolvimento com UDK</a></h1>
@@ -278,6 +300,8 @@
     <a href="/2011/02/12/curso-desenvolvimento-com-udk" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/02/11/project-manolo">Project Manolo</a></h1>
@@ -291,7 +315,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2011/02/11/project-manolo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/02/11/project-manolo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -301,6 +325,8 @@
     <a href="/2011/02/11/project-manolo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1">Entrevista: Tiago Moraes da Ovni Studios (parte 1)</a></h1>
@@ -312,7 +338,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -322,6 +348,8 @@
     <a href="/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/02/07/o-gari-e-o-heroi">O gari é o herói</a></h1>
@@ -333,7 +361,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/02/07/o-gari-e-o-heroi/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/02/07/o-gari-e-o-heroi/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -373,20 +401,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

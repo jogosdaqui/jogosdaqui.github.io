@@ -3,7 +3,7 @@
  <title>Your Title - flux-game-studio</title>
  <link href="http://example.com/tags/flux-game-studio/index.xml" rel="self"/>
  <link href="http://example.com/tag/flux-game-studio.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/flux-game-studio.html</id>
  <author>
    <name>Author Here</name>
@@ -41,8 +41,7 @@ A dinâmica do game permite que o jogador seja responsável por conduzir a traje
    <link href="http://example.com/2013/06/17/v-de-vinagre"/>
    <updated>2013-06-17T00:00:00-03:00</updated>
    <id>http://example.com/2013/06/17/v-de-vinagre</id>
-   <content type="html">&lt;p&gt;A Flux Game Studio, vencedora no final de 2012 do concurso de Criação de Game de Educação Financeira da SBGames e Banco do Brasil, está antenada com que acontece no país, pois acaba de lançar o game &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot; target=&quot;_blank&quot;&gt;V de Vinagre&lt;/a&gt;
- que ironiza a violência ocorrida nos últimos manifestos no RJ e SP.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A Flux Game Studio, vencedora no final de 2012 do concurso de Criação de Game de Educação Financeira da SBGames e Banco do Brasil, está antenada com que acontece no país, pois acaba de lançar o game &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot;&gt;V de Vinagre&lt;/a&gt; que ironiza a violência ocorrida nos últimos manifestos no RJ e SP.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Um roteiro no qual o manifestante precisa fugir da polícia por portar potes de vinagre em sua mochila poderia muito bem ser de um game 100% de ficção&quot;, afirma Paulo Luis Santos, Diretor de Criação da Flux e um dos desenvolvedores do projeto.&lt;/p&gt;
@@ -54,10 +53,13 @@ A dinâmica do game permite que o jogador seja responsável por conduzir a traje
         &lt;iframe src=&quot;https://www.youtube.com/embed/6IYUbNcFSnw &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;O game foi desenvolvido no formato Game Jam, uma mini-maratona de 18 horas de trabalho.&amp;gt;  “Optamos por fazer tudo muito rapidamente por dois motivos: primeiramente, nos propusemos este desafio de fazer um jogo em pouco tempo; e, depois, porque o assunto é urgente e não poderíamos investir muito tempo em polimentos - valia mais a pena lançar de uma vez do que perder o timing”, detalha Juliano Gomes, Programador Líder do game.&lt;/p&gt;
+&lt;p&gt;O game foi desenvolvido no formato Game Jam, uma mini-maratona de 18 horas de trabalho.&lt;/p&gt;
 
-&lt;p&gt;Jogue diretamente no Facebook: &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot; target=&quot;_blank&quot;&gt;V de Vinagre&lt;/a&gt;
-.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Optamos por fazer tudo muito rapidamente por dois motivos: primeiramente, nos propusemos este desafio de fazer um jogo em pouco tempo; e, depois, porque o assunto é urgente e não poderíamos investir muito tempo em polimentos - valia mais a pena lançar de uma vez do que perder o timing”, detalha Juliano Gomes, Programador Líder do game.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jogue diretamente no Facebook: &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot;&gt;V de Vinagre&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

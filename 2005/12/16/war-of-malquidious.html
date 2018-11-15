@@ -101,6 +101,12 @@ O jogador controlará as tropas do reino de Feltrano na luta para restaurar a pa
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ O jogador controlará as tropas do reino de Feltrano na luta para restaurar a pa
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ O jogador controlará as tropas do reino de Feltrano na luta para restaurar a pa
 <article class="post">
   <h1>Prévia de War of Malquidious da PalmSoft</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -170,7 +176,7 @@ O jogador controlará as tropas do reino de Feltrano na luta para restaurar a pa
     
   
     
-      <img src="../../../../../images/galleries/2005/12/16/war-of-malquidious/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/16/war-of-malquidious/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>War of Malquidious, o novo RPG tático para celular da PalmSoft Tecnologia.</p>
@@ -184,7 +190,8 @@ O jogador controlará as tropas do reino de Feltrano na luta para restaurar a pa
 <h2 id="imagens-da-guerra-que-acontecerá-no-seu-celular">Imagens da guerra que acontecerá no seu celular:</h2>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -192,37 +199,41 @@ O jogador controlará as tropas do reino de Feltrano na luta para restaurar a pa
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_3.gif">
-          <img src="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_3.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_3.gif">
+          <img src="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_3.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_2.gif">
-          <img src="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_2.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_2.gif">
+          <img src="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_2.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_6.gif">
-          <img src="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_6.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_6.gif">
+          <img src="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_6.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_5.gif">
-          <img src="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_5.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_5.gif">
+          <img src="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_5.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_4.gif">
-          <img src="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_4.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_4.gif">
+          <img src="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_4.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_1.gif">
-          <img src="../../../../../images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_1.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_1.gif">
+          <img src="/images/galleries/2005/12/16/war-of-malquidious/PalmSoft_WarOfMalquidious_1.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -244,6 +255,7 @@ O jogador controlará as tropas do reino de Feltrano na luta para restaurar a pa
     });
   });
 </script>
+
 
   </div>
 
@@ -296,20 +308,6 @@ O jogador controlará as tropas do reino de Feltrano na luta para restaurar a pa
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

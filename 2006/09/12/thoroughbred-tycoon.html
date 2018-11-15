@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Thoroughbred Tycoon</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -175,12 +181,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Thoroughbred Tycoon é um jogo de criação e corrida de cavalos.<br /><br />No jogo você é o dono de cavalos virtuais, e tem que cuidar de todas as etapas para ter um bom animal.<br /><br />Você irá comandar o treinamento dos cavalos, escolher o melhor tipo de alimentação, de descanso, e depois colocar seus cavalos a prova; nas corridas nos hipódromos do jogo.<br /><br />O jogo apresenta diferentes modos de treinamento, corridas competitivas, e cavalos com personalidade. Visão em 3a pessoa, e liberdade total de câmera.<br /><br /><br /><span style="font-weight: bold;">Cavalos</span><br />Os cavalos são a grande atração do jogo. Eles possuem várias habilidades que influenciam diretamente na sua velocidade, mas principalmente possuem uma personalidade própria. Os cavalos demonstram seu gosto em relação a tipos de comidas, e eles também decidem aonde querem descansar. Você vai se relacionar com o cavalo, atendendo as vontades dele ou não.<br /><br />Se você tiver um bom relacionamento com o animal, pode esperar um cavalo que lhe siga, peça para cavalgar. Se o cavalo não gostar de você certamente ele não irá querer você nem por perto.<br /><br />Além dos treinamentos, você pode interagir com seu cavalo, acariciando, conversando e até lhe dando comida na boca. Gostar de você é uma coisa que só o cavalo irá decidir; e você irá perceber. <br /><br /><br /><span style="font-weight: bold;">Corridas</span><br />O jogo apresenta dois hipódromos, onde quatro tipos de corrida acontecem. Você treina seus cavalos em uma das três fazendas do jogo, e então participa das corridas agendadas.<br /><br />Correndo você encontra sempre páreos com cavalos nivelados ao seu, de acordo com o nível de dificuldade. Você pode alugar um jóquei para as corridas, ou então comandar seu cavalo durante a competição.<br /><br />Além das habilidades do cavalo, o uso do chicote é um dos fatores determinantes nas corridas. O chicote lhe dá uma velocidade maior, mas também aumenta o stress do seu cavalo, o que inclusive pode lhe causar alguns tombos.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -188,77 +195,81 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_729.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_729.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_729.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_729.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_717.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_717.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_717.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_717.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_722.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_722.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_722.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_722.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_730.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_730.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_730.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_730.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_732.db">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_732.db"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_732.db">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_732.db"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_728.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_728.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_728.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_728.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_720.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_720.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_720.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_720.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_727.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_727.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_727.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_727.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_731.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_731.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_731.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_731.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_724.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_724.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_724.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_724.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_726.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_726.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_726.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_726.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_725.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_725.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_725.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_725.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_723.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_723.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_723.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_723.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_719.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_719.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_719.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_719.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_718.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_718.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_718.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_718.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_721.png">
-          <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_721.png"/>        
+        <li data-thumb="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_721.png">
+          <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/Screenshot_721.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -280,6 +291,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -326,20 +338,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

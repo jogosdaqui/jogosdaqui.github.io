@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/01/27/global-game-jam-2011-comeca-amanha">Global Game Jam 2011 começa amanhã</a></h1>
@@ -131,7 +126,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/01/27/global-game-jam-2011-comeca-amanha/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/01/27/global-game-jam-2011-comeca-amanha/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -141,6 +136,8 @@
     <a href="/2011/01/27/global-game-jam-2011-comeca-amanha" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/01/26/totem-destroyer-para-plataformas-moveis">Totem Destroyer para plataformas móveis</a></h1>
@@ -152,7 +149,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/01/26/totem-destroyer-para-plataformas-moveis/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/01/26/totem-destroyer-para-plataformas-moveis/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -162,6 +159,8 @@
     <a href="/2011/01/26/totem-destroyer-para-plataformas-moveis" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/01/21/jules-unboxing-the-world">Jules: Unboxing the World</a></h1>
@@ -184,6 +183,8 @@
     <a href="/2011/01/21/jules-unboxing-the-world" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/01/07/memomax">MemoMax</a></h1>
@@ -195,7 +196,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/01/07/memomax/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/01/07/memomax/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -205,6 +206,23 @@
     <a href="/2011/01/07/memomax" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2010/12/31/os-fatos-do-ano-2">Os fatos do ano</a></h1>
@@ -237,12 +255,14 @@
   
  </center>
     
-    Perguntamos aos nossos leitores: &gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?". As respostas foram variadas, confira: Jogo Justo Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. Com o passar dos meses acabou aumentando...
+    Perguntamos aos nossos leitores: Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?". As respostas foram variadas, confira: Jogo Justo Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. Com o passar dos meses acabou aumentando sua...
     </div>
 
     <a href="/2010/12/31/os-fatos-do-ano-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2010/12/27/dodgeball-safari">Dodgeball Safari</a></h1>
@@ -254,7 +274,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2010/12/27/dodgeball-safari/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2010/12/27/dodgeball-safari/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -264,6 +284,8 @@
     <a href="/2010/12/27/dodgeball-safari" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2010/12/22/totem-destroyer-deluxe">Totem Destroyer Deluxe</a></h1>
@@ -275,7 +297,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2010/12/22/totem-destroyer-deluxe/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2010/12/22/totem-destroyer-deluxe/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -285,6 +307,8 @@
     <a href="/2010/12/22/totem-destroyer-deluxe" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2010/12/18/documentario-a-mecanica-do-jogo">Documentário "A Mecânica do Jogo"</a></h1>
@@ -296,7 +320,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2010/12/18/documentario-a-mecanica-do-jogo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2010/12/18/documentario-a-mecanica-do-jogo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -306,6 +330,8 @@
     <a href="/2010/12/18/documentario-a-mecanica-do-jogo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2010/12/17/em-2010-quais-foram-os-fatos-mais-relevantes-em-relacao-a-industria-de-desenvolvimento-de-games-no-brasil">Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?</a></h1>
@@ -317,7 +343,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2010/12/17/em-2010-quais-foram-os-fatos-mais-relevantes-em-relacao-a-industria-de-desenvolvimento-de-games-no-brasil/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2010/12/17/em-2010-quais-foram-os-fatos-mais-relevantes-em-relacao-a-industria-de-desenvolvimento-de-games-no-brasil/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -327,6 +353,8 @@
     <a href="/2010/12/17/em-2010-quais-foram-os-fatos-mais-relevantes-em-relacao-a-industria-de-desenvolvimento-de-games-no-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou">Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</a></h1>
@@ -385,20 +413,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

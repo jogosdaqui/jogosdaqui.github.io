@@ -3,7 +3,7 @@
  <title>Your Title - splitplay</title>
  <link href="http://example.com/tags/splitplay/index.xml" rel="self"/>
  <link href="http://example.com/tag/splitplay.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/splitplay.html</id>
  <author>
    <name>Author Here</name>
@@ -238,16 +238,12 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
    <link href="http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game"/>
    <updated>2015-04-30T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game</id>
-   <content type="html">&lt;p&gt;A paulista QUByte Interactive, conhecida pelo jogo &lt;a href=&quot;/2014/06/18/splitplay-apresenta-htr-high-tech-racing/&quot; title=&quot;Splitplay apresenta: HTR+ High Tech Racing+&quot;&gt;HTR+&lt;/a&gt;
-, anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A paulista QUByte Interactive, conhecida pelo jogo &lt;a href=&quot;/2014/06/18/splitplay-apresenta-htr-high-tech-racing/&amp;quot;&quot;&gt;HTR+&lt;/a&gt;, anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U.&lt;/p&gt;
 
-&lt;p&gt;Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou apenas um hotsite para acompanhar a contagem até o dia da revelação: &lt;a href=&quot;http://www.qubyteinteractive.com/games/newgame/&quot; target=&quot;_blank&quot;&gt;http://www.qubyteinteractive.com/games/newgame/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou apenas um hotsite para acompanhar a contagem até o dia da revelação: &lt;a href=&quot;http://www.qubyteinteractive.com/games/newgame/&quot;&gt;http://www.qubyteinteractive.com/games/newgame/&lt;/a&gt;,&lt;/p&gt;
 
 &lt;h2 id=&quot;exclusivo&quot;&gt;Exclusivo&lt;/h2&gt;
 &lt;p&gt;O jogosdaqui conseguiu apurar que será um game de estratégia com bastante elementos de ação, além disso será uma homenagem a jogos clássicos top-down shooter, como Cannon Fodder do SNES.&lt;/p&gt;
-
-&lt;p&gt;[caption id=”attachment_2232” align=”aligncenter” width=”480”]
- Cannon Fodder para SNES[/caption]&lt;/p&gt;
 
 &lt;p&gt;O jeito será esperar até o dia do anúncio oficial da QUByte e assim poderemos matar a curiosidade sobre o novo game deles.&lt;/p&gt;
 </content>
@@ -277,8 +273,6 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
 
 &lt;p&gt;Possui um total de 100 fases distribuídas entre 4 mundos diferentes, cada uma delas possuindo o chefão, sendo muitas vezes um chefe já enfrentado anteriormente, mas mais inteligente e poderoso. Em algumas fases o jogador terá que enfrentar mais de um chefão ao mesmo tempo, nessas horas o game ganha o direito de ser chamado de um verdadeiro bullet hell, mas ao vencer o primeiro desses desafios não fique achando que você é invencível, pois a partir do segundo mundo será bullet hell até o fim. Para ajudar a enfrentar o desafio crescente que cada fase apresenta, a fênix ganha experiência no fim de cada fase, tornando-se mais resistente e mais veloz, fora isso ainda existem as outras fênix que são libertadas durante o percurso e podem ser utilizadas nas batalhas.&lt;/p&gt;
 
-&lt;center&gt;&lt;/center&gt;
-
 &lt;p&gt;A trilha sonora, estilo medieval, combina bem com a estética e dá um tom interessante ao game, já que você controla uma grande fênix e não uma nave high-tech.&lt;/p&gt;
 
 &lt;p&gt;Phoenix Force é um shmup realmente desafiador, equilibrado na sua evolução, mas possuindo fases onde o jogador terá que jogar várias vezes até conseguir vencer, ainda mais que a morte acontece ao ser atingido apenas uma vez. Além disso, como em todo bom jogo do estilo, o jogador terá que ser um perito em atirar, mas mais ainda em desviar dos disparos do inimigo, chegando ao ponto de muitas vezes duvidar de ter conseguindo tal proeza.&lt;/p&gt;
@@ -289,13 +283,26 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
         &lt;iframe src=&quot;https://www.youtube.com/embed/ldhdq3oUiB8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;[sc:Review_rating pro1=”Gráficos criativos que fogem do padrão high-tech do gênero.” pro2=”Desafio crescente, o jogo começa leve até se tornar um bullet hell.” pro3=”Controles precisos, inclusive na versão mobile, onde é um desafio fazer shoot ‘em up palatáveis. “ con1=”Faltou uma tela antes da primeira aparição de cada chefão, mostrando seu nome e talvez sua história. Isso ajudaria na projeção do jogador, na imersão e também na hora de comentar com um amigo, pois falar ‘viu, eu derrotei o chefão com cara de caveira, asa de águia, roupa vermelha e lampião na mão’, complica muito a comunicação ;)” ]&lt;/p&gt;
+&lt;h3 id=&quot;prós&quot;&gt;Prós&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gráficos criativos que fogem do padrão high-tech do gênero&lt;/li&gt;
+  &lt;li&gt;Desafio crescente, o jogo começa leve até se tornar um bullet hell&lt;/li&gt;
+  &lt;li&gt;Controles precisos, inclusive na versão mobile, onde é um desafio fazer shoot ‘em up palatáveis.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;O jogo multiplataforma está disponível para &lt;a href=&quot;https://itunes.apple.com/us/app/id904743508?mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
-, Android, &lt;a href=&quot;http://www.windowsphone.com/s?appid=90b9eae4-8f5d-453f-81c9-eb815dfab189&quot; target=&quot;_blank&quot;&gt;Windows Phone&lt;/a&gt;
-, &lt;a href=&quot;http://www.splitplay.com/pt/games/phoenix-force&quot; target=&quot;_blank&quot;&gt;SplitPlay&lt;/a&gt;
- e &lt;a href=&quot;http://store.steampowered.com/app/332480&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
-.&lt;/p&gt;
+&lt;h3 id=&quot;contras&quot;&gt;Contras&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Faltou uma tela antes da primeira aparição de cada chefão, mostrando seu nome e talvez sua história. Isso ajudaria na projeção do jogador, na imersão e também na hora de comentar com um amigo, pois falar ‘viu, eu derrotei o chefão com cara de caveira, asa de águia, roupa vermelha e lampião na mão’, complica muito a comunicação ;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O jogo multiplataforma está disponível para:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id904743508?mt=8&quot;&gt;iOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Android&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.windowsphone.com/s?appid=90b9eae4-8f5d-453f-81c9-eb815dfab189&quot;&gt;Windows Phone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.splitplay.com/pt/games/phoenix-force&quot;&gt;SplitPlay&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://store.steampowered.com/app/332480&quot;&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
@@ -306,25 +313,94 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
    <id>http://example.com/2015/04/06/imagens-da-semana-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/581786360798949376&quot;&gt;A primeira screenshot da semana vem da paranaense Reiza Studios e seu simulador de corrida Game Stock Car Extreme que recebeu um novo update e entre as novidades está a adição da pista histórica de Bologina na Itália.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3122.jpg &quot; /&gt;
+      &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Ilusis/status/582560429274185728&quot;&gt;A Ilusis Interactive lembrando que em abril será lançado para PS4, PS3 e PSVita seu tower defense Krinkle. Em breve você poderá ver o game no jogosdaqui, por enquanto fique com uma colorida screenshot:&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3123.png &quot; /&gt;
+      &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/SplitPlay/status/582742476659789824&quot;&gt;Tormenta: O Desafio dos Deuses baseado no mundo de Tormenta de Leonel Caldela e da editora Jambô foi oficialmente lançado no SplitPlay. O Desafio dos Deuses é outro game que em breve deve ganhar seu merecido post no nosso portal.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3124.jpg &quot; /&gt;
+      &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Hanza_Ru/status/583032804805611521&quot;&gt;Uma nova concept art do jogo de corrida TurboLink em desenvolvimento pela Division Five. Confira mais detalhes dele no post Prévia de TurboLink.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/ArchipelagoBG.png &quot; /&gt;
+      &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/583364108810084353&quot;&gt;Na quinta imagem ficamos com o buzz criado pela JoyMasher ao divulgar que existiria um modo 16bits secreto em seu game Odallus, até que todos se lembraram que era 1º de abril.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3127.png &quot; /&gt;
+      &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/583697974531756033&quot;&gt;O beta de Chroma Squad, game da Behold Studios, ganha sua maior update até o momento. A imagem abaixo demonstra muito bem porque devemos aguardar um grande game com estética de pixel art.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3128.png &quot; /&gt;
+      &lt;/center&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/TorenGame/status/584181780237791232&quot;&gt;E a gaúcha Swordtales liberou uma bela concept art intitulada The Devil de seu aguardado game Toren.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3129.jpg &quot; /&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Imagens da semana #1</title>
+   <link href="http://example.com/2015/04/06/imagens-da-semana-1"/>
+   <updated>2015-04-06T00:00:00-03:00</updated>
+   <id>http://example.com/2015/04/06/imagens-da-semana-1</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/581786360798949376&quot;&gt;A primeira screenshot da semana vem da paranaense Reiza Studios e seu simulador de corrida Game Stock Car Extreme que recebeu um novo update e entre as novidades está a adição da pista histórica de Bologina na Itália.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3122.jpg &quot; /&gt;
+      &lt;/center&gt;
 
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Ilusis/status/582560429274185728&quot;&gt;A Ilusis Interactive lembrando que em abril será lançado para PS4, PS3 e PSVita seu tower defense Krinkle. Em breve você poderá ver o game no jogosdaqui, por enquanto fique com uma colorida screenshot:&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3123.png &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/SplitPlay/status/582742476659789824&quot;&gt;Tormenta: O Desafio dos Deuses baseado no mundo de Tormenta de Leonel Caldela e da editora Jambô foi oficialmente lançado no SplitPlay. O Desafio dos Deuses é outro game que em breve deve ganhar seu merecido post no nosso portal.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3124.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Hanza_Ru/status/583032804805611521&quot;&gt;Uma nova concept art do jogo de corrida TurboLink em desenvolvimento pela Division Five. Confira mais detalhes dele no post Prévia de TurboLink.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/ArchipelagoBG.png &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/583364108810084353&quot;&gt;Na quinta imagem ficamos com o buzz criado pela JoyMasher ao divulgar que existiria um modo 16bits secreto em seu game Odallus, até que todos se lembraram que era 1º de abril.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3127.png &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/583697974531756033&quot;&gt;O beta de Chroma Squad, game da Behold Studios, ganha sua maior update até o momento. A imagem abaixo demonstra muito bem porque devemos aguardar um grande game com estética de pixel art.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3128.png &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/TorenGame/status/584181780237791232&quot;&gt;E a gaúcha Swordtales liberou uma bela concept art intitulada The Devil de seu aguardado game Toren.&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/06/imagens-da-semana-1/IMG_3129.jpg &quot; /&gt;
+      &lt;/center&gt;
 </content>
  </entry>
  

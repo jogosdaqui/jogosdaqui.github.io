@@ -290,6 +290,12 @@ Duak Entertainment portando o game Aritana para o Xbox One
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -305,20 +311,6 @@ Duak Entertainment portando o game Aritana para o Xbox One
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -339,7 +331,21 @@ Duak Entertainment portando o game Aritana para o Xbox One
 <article class="post">
   <h1>Checkpoint #7</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -347,7 +353,7 @@ Duak Entertainment portando o game Aritana para o Xbox One
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/22/checkpoint-7/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/22/checkpoint-7/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <h2 id="1">#1</h2>
@@ -418,7 +424,8 @@ Duak Entertainment portando o game Aritana para o Xbox One
 <h2 id="23">#23</h2>
 <p><a href="https://www.facebook.com/duaikdev/posts/822557824501578">Duak Entertainment portando o game Aritana para o Xbox One</a></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -426,9 +433,8 @@ Duak Entertainment portando o game Aritana para o Xbox One
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -538,20 +544,6 @@ Duak Entertainment portando o game Aritana para o Xbox One
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

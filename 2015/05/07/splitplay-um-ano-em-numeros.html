@@ -176,6 +176,12 @@ A equipe do jogosdaqui deseja longa vida ao SplitPlay e manda um parabéns pelo 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -191,20 +197,6 @@ A equipe do jogosdaqui deseja longa vida ao SplitPlay e manda um parabéns pelo 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -225,7 +217,21 @@ A equipe do jogosdaqui deseja longa vida ao SplitPlay e manda um parabéns pelo 
 <article class="post">
   <h1>SplitPlay, um ano em números</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -237,7 +243,7 @@ A equipe do jogosdaqui deseja longa vida ao SplitPlay e manda um parabéns pelo 
     
   
     
-      <img src="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/07/splitplay-um-ano-em-numeros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A Splitplay comemora hoje, dia 07 de maio de 2015, um ano de vida. E para celebrar esse momento, além de muitas promoções durante o mês de maio, a <a href="http://www.splitplay.com.br" target="_blank">startup </a>
@@ -270,7 +276,8 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
 <p>A equipe do jogosdaqui deseja longa vida ao SplitPlay e manda um parabéns pelo primeiro ano de vida a seus fundadores: Rodrigo Coelho, Eric Salama e Henrique Bejgel.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -278,21 +285,25 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay_fundadores.png">
-          <img src="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay_fundadores.png"/>        
+        <li data-thumb="/images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay_fundadores.png">
+          <img src="/images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay_fundadores.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay.png">
-          <img src="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay.png"/>        
+        <li data-thumb="/images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay.png">
+          <img src="/images/galleries/2015/05/07/splitplay-um-ano-em-numeros/SplitPlay.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -314,6 +325,7 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
     });
   });
 </script>
+
 
   </div>
 
@@ -370,20 +382,6 @@ também liberou para a imprensa vários dados bem interessantes sobre seu primei
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -3,7 +3,7 @@
  <title>Your Title - mac</title>
  <link href="http://example.com/tags/mac/index.xml" rel="self"/>
  <link href="http://example.com/tag/mac.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/mac.html</id>
  <author>
    <name>Author Here</name>
@@ -44,17 +44,39 @@ no Steam.&lt;/p&gt;
    <id>http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
    <content type="html">&lt;p&gt;Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa.&lt;/p&gt;
 
-&lt;p&gt;É nessa ideia que o game &lt;a href=&quot;http://papercatgame.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Paper Cat&lt;/a&gt;
- da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.&lt;/p&gt;
+&lt;p&gt;É nessa ideia que o game &lt;a href=&quot;http://papercatgame.tumblr.com/&quot;&gt;Paper Cat&lt;/a&gt; da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.&lt;/p&gt;
 
 &lt;p&gt;Durante suas aventuras Slick precisa resolver puzzles enquanto evita acordar seu dono Frank.&lt;/p&gt;
 
 &lt;h2 id=&quot;adoção-e-proteção&quot;&gt;Adoção e proteção&lt;/h2&gt;
-&lt;p&gt;Um fato muito interessante do projeto: parte do lucro das vendas do jogo será revertida para ONGs de adoção de gatos. Na fanpage do projeto existem mais informações sobre a iniciativa: &lt;a href=&quot;https://www.fb.com/papercatgame&quot; target=&quot;_blank&quot;&gt;https://www.fb.com/papercatgame&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Um fato muito interessante do projeto: parte do lucro das vendas do jogo será revertida para ONGs de adoção de gatos. Na fanpage do projeto existem mais informações sobre a iniciativa: &lt;a href=&quot;https://www.fb.com/papercatgame&quot;&gt;https://www.fb.com/papercatgame&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
-&lt;p&gt;O game já iniciou sua &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=499203717&quot; target=&quot;_blank&quot;&gt;campanha de Greenlight&lt;/a&gt;
- e deve ser lançado em meados de 2016 para PC e MAC, sendo que ainda existe possibilidade de sair para PS4 e XBox One no futuro.&lt;/p&gt;
+&lt;p&gt;O game já iniciou sua &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=499203717&quot;&gt;campanha de Greenlight&lt;/a&gt; e deve ser lançado em meados de 2016 para PC e MAC, sendo que ainda existe possibilidade de sair para PS4 e XBox One no futuro.&lt;/p&gt;
+
+&lt;h2 id=&quot;vídeo-de-paper-cat&quot;&gt;Vídeo de Paper Cat&lt;/h2&gt;
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/pfdqk59ZxZ4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Game brasileiro Paper Cat ajuda ONGs</title>
+   <link href="http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
+   <updated>2015-08-25T00:00:00-03:00</updated>
+   <id>http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
+   <content type="html">&lt;p&gt;Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa.&lt;/p&gt;
+
+&lt;p&gt;É nessa ideia que o game &lt;a href=&quot;http://papercatgame.tumblr.com/&quot;&gt;Paper Cat&lt;/a&gt; da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.&lt;/p&gt;
+
+&lt;p&gt;Durante suas aventuras Slick precisa resolver puzzles enquanto evita acordar seu dono Frank.&lt;/p&gt;
+
+&lt;h2 id=&quot;adoção-e-proteção&quot;&gt;Adoção e proteção&lt;/h2&gt;
+&lt;p&gt;Um fato muito interessante do projeto: parte do lucro das vendas do jogo será revertida para ONGs de adoção de gatos. Na fanpage do projeto existem mais informações sobre a iniciativa: &lt;a href=&quot;https://www.fb.com/papercatgame&quot;&gt;https://www.fb.com/papercatgame&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
+&lt;p&gt;O game já iniciou sua &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=499203717&quot;&gt;campanha de Greenlight&lt;/a&gt; e deve ser lançado em meados de 2016 para PC e MAC, sendo que ainda existe possibilidade de sair para PS4 e XBox One no futuro.&lt;/p&gt;
 
 &lt;h2 id=&quot;vídeo-de-paper-cat&quot;&gt;Vídeo de Paper Cat&lt;/h2&gt;
 &lt;center&gt;
@@ -73,20 +95,17 @@ no Steam.&lt;/p&gt;
 &lt;p&gt;O que talvez você não saiba é que o game de 72 para o Atari 2600 foi desenvolvido por Steve Wozniak com uma ajuda de Steve Jobs, isso mesmo, os fundadores da Apple.&lt;/p&gt;
 
 &lt;h2 id=&quot;racketboy&quot;&gt;RacketBoy&lt;/h2&gt;
-&lt;p&gt;Agora imagine misturar o estilo do game criado por Woz e Jobs com o gênero shoot’em up e um garoto com uma raquete que pode rebater os tiros? Foi com essa salada de gêneros que a carioca &lt;a href=&quot;http://doubledashstudios.com/&quot; target=&quot;_blank&quot;&gt;Double Dash Studios&lt;/a&gt;
- deu origem ao seu game &lt;a href=&quot;http://racketboygame.com&quot; target=&quot;_blank&quot;&gt;RacketBoy&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;Agora imagine misturar o estilo do game criado por Woz e Jobs com o gênero shoot’em up e um garoto com uma raquete que pode rebater os tiros? Foi com essa salada de gêneros que a carioca &lt;a href=&quot;http://doubledashstudios.com/&quot;&gt;Double Dash Studios&lt;/a&gt; deu origem ao seu game &lt;a href=&quot;http://racketboygame.com&quot;&gt;RacketBoy&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;RacketBoy é um jogo sobre um garoto que tenta salvar a galáxia de criaturas com um poder destrutivo que só se equipara à sua fofura. Se esquivando das infinitas balas em seu caminho, RacketBoy voa com sua leal raquete e seu cachecol ao vento e rebate os tiros de volta aos inimigos. (comenta a equipe de desenvolvimento)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
-&lt;p&gt;Na &lt;a href=&quot;http://gamejolt.com/games/racketboy/80383&quot; target=&quot;_blank&quot;&gt;demo&lt;/a&gt;
- é possível apreciar um pouco do gameplay do game e sua mistura de estilos que funciona muito bem trazendo novos elementos tanto para os breaking games como para os shoot’em up. O início é mais leve para o jogador se adaptar aos controles e aos mecanismos, mas não demora muito para o game virar um bullet hell pra tenista nenhum botar defeito!&lt;/p&gt;
+&lt;p&gt;Na &lt;a href=&quot;http://gamejolt.com/games/racketboy/80383&quot;&gt;demo&lt;/a&gt; é possível apreciar um pouco do gameplay do game e sua mistura de estilos que funciona muito bem trazendo novos elementos tanto para os breaking games como para os shoot’em up. O início é mais leve para o jogador se adaptar aos controles e aos mecanismos, mas não demora muito para o game virar um bullet hell pra tenista nenhum botar defeito!&lt;/p&gt;
 
 &lt;h2 id=&quot;campanha-de-crowdfunding&quot;&gt;Campanha de crowdfunding&lt;/h2&gt;
-&lt;p&gt;A Double Dash é um studio indie, composto por 5 gamedevs, que recentemente iniciou uma campanha de crowdfunding no Indiegogo para ajudar no desenvolvimento do game: &lt;a href=&quot;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A Double Dash é um studio indie, composto por 5 gamedevs, que recentemente iniciou uma campanha de crowdfunding no Indiegogo para ajudar no desenvolvimento do game: &lt;a href=&quot;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&quot;&gt;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Entre os objetivos da campanha que pretende arrecadar US$ 35.0000 estão a criação de 6 mundos para o game e 30 tipos de inimigos, além da geração procedural de ondas de inimigos o que permitirá ter um modo endless.&lt;/p&gt;
 
@@ -311,11 +330,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
    <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
    <updated>2015-05-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
-   <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&quot; target=&quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
- liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&amp;quot; target=&amp;quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt; liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
 
-&lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt;
- e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
+&lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&amp;quot; target=&amp;quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt; e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
 
 &lt;p&gt;No vídeo podemos conferir diversas fases do game além de alguns chefões de encher a tela, literalmente.&lt;/p&gt;
 
@@ -325,11 +342,10 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
       &lt;/center&gt;
 
 &lt;p&gt;Além do vídeo acima, também já falamos do CKE em outros momentos:&lt;/p&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;Prévia de Gryphon Knight Epic&lt;/a&gt;
-&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;
-&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;Prévia de Gryphon Knight Epic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
@@ -339,16 +355,13 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
    <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
-   <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a title=&quot;Prévia de TurboLink&quot; href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;
-, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot; target=&quot;_blank&quot;&gt;demo pública&lt;/a&gt;
- do game que está em votação no &lt;a title=&quot;TurboLink no Square Enix Collective&quot; href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;
-.&lt;/p&gt;
+   <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot;&gt;demo pública&lt;/a&gt; do game que está em votação no &lt;a href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Os jogadores poderão testar a demo com um torneio de 6 pistas, 4 carros, suporte ao controle do Xbox 360 e a implementação inicial da inteligência artificial do game.&lt;/p&gt;
 
 &lt;p&gt;Está esperando o que? Corre lá, teste o jogo e dê seu feedback aos desenvolvedores da Division Five.&lt;/p&gt;
 
-&lt;p&gt;A demo está disponível para Windows, Mac OSX e Linux: &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot; target=&quot;_blank&quot;&gt;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A demo está disponível para Windows, Mac OSX e Linux: &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot;&gt;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -369,7 +382,7 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Riding Ground, game desenvolvido pela Preloud &lt;/span&gt;&lt;/center&gt;
 
@@ -384,7 +397,7 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -418,7 +431,7 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -550,12 +563,7 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
    <link href="http://example.com/2012/02/06/mahjong-max"/>
    <updated>2012-02-06T00:00:00-02:00</updated>
    <id>http://example.com/2012/02/06/mahjong-max</id>
-   <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://www.icongames.com.br&quot; target=&quot;_blank&quot;&gt;Icon Games&lt;/a&gt;
-, conhecida por jogos como &lt;a href=&quot;http://www.icongames.com.br/gude.htm&quot; target=&quot;_blank&quot;&gt;Bola de Gude&lt;/a&gt;
-, &lt;a href=&quot;http://www.icongames.com.br/fruzzle-pt.htm&quot; target=&quot;_blank&quot;&gt;Fruzzle&lt;/a&gt;
- e &lt;a href=&quot;http://www.icongames.com.br/detetive.htm&quot; target=&quot;_blank&quot;&gt;Detetive Carioca&lt;/a&gt;
-, lançou em 2011 o game &lt;a href=&quot;http://www.icongames.com.br/mmax-pt.htm&quot; target=&quot;_blank&quot;&gt;Mahjong Max&lt;/a&gt;
-.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://www.icongames.com.br&quot;&gt;Icon Games&lt;/a&gt;, conhecida por jogos como &lt;a href=&quot;http://www.icongames.com.br/gude.htm&quot;&gt;Bola de Gude&lt;/a&gt;, &lt;a href=&quot;http://www.icongames.com.br/fruzzle-pt.htm&quot;&gt;Fruzzle&lt;/a&gt; e &lt;a href=&quot;http://www.icongames.com.br/detetive.htm&quot;&gt;Detetive Carioca&lt;/a&gt;, lançou em 2011 o game &lt;a href=&quot;http://www.icongames.com.br/mmax-pt.htm&quot;&gt;Mahjong Max&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Mahjong Max é um puzzle, baseado num secular jogo de mesa chinês, onde o jogador encarna a personagem Valéria na tarefa de organizar uma exibição chinesa para o Museu Cultura Internacional. Durante o jogo, Valéria viajará pela China resolvendo diversos puzzles.&lt;/p&gt;
 
@@ -567,9 +575,7 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
         &lt;iframe src=&quot;https://www.youtube.com/embed/AMZz3VWOMWs &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Mahjong Max está disponível para &lt;a href=&quot;http://www.icongames.com.br/eStore/catalog/product_info.php?products_id=52&amp;amp;language=pt&quot; target=&quot;_blank&quot;&gt;Windows&lt;/a&gt;
- e &lt;a href=&quot;http://www.icongames.com.br/eStore/catalog/product_info.php?products_id=51&amp;amp;language=pt&quot; target=&quot;_blank&quot;&gt;Mac&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;Mahjong Max está disponível para &lt;a href=&quot;http://www.icongames.com.br/eStore/catalog/product_info.php?products_id=52&amp;amp;language=pt&quot;&gt;Windows&lt;/a&gt; e &lt;a href=&quot;http://www.icongames.com.br/eStore/catalog/product_info.php?products_id=51&amp;amp;language=pt&quot;&gt;Mac&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

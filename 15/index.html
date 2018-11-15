@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/03/26/letra-de-ouro">Letra de Ouro</a></h1>
@@ -136,14 +131,19 @@
   
     
   
+    
+      <img src="/images/galleries/2015/03/26/letra-de-ouro/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
-    Quem nunca jogou um caça palavras que atire a primeira a letra! Sabendo disso a startup gaúcha Cupcake Sweet Entertainment , composta apenas por quatro integrantes, criou o game casual Letra de Ouro. O jogo está disponível para Facebook e Android , entretanto, versões para iPhone e iPad estão no...
+    Quem nunca jogou um caça palavras que atire a primeira a letra! Sabendo disso a startup gaúcha Cupcake Sweet Entertainment , composta apenas por quatro integrantes, criou o game casual Letra de Ouro. O jogo está disponível para Facebook e Android , entretanto versões para iPhone e iPad estão no...
     </div>
 
     <a href="/2015/03/26/letra-de-ouro" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/03/25/teaser-de-fragmentorum-alba">Teaser de Fragmentorum Alba</a></h1>
@@ -162,6 +162,8 @@
     <a href="/2015/03/25/teaser-de-fragmentorum-alba" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/03/24/spjam-2015">SPJam 2015</a></h1>
@@ -180,6 +182,8 @@
     <a href="/2015/03/24/spjam-2015" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/03/23/a-vitima-de-ouro">A Vítima de Ouro</a></h1>
@@ -204,6 +208,23 @@
     <a href="/2015/03/23/a-vitima-de-ouro" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/03/20/teaser-trailer-de-pants-off">Teaser Trailer de Pants Off!</a></h1>
@@ -215,7 +236,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/03/20/teaser-trailer-de-pants-off/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/03/20/teaser-trailer-de-pants-off/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -225,6 +246,8 @@
     <a href="/2015/03/20/teaser-trailer-de-pants-off" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/03/19/novo-video-de-play-test-de-htr">Novo vídeo de play test de HTR+</a></h1>
@@ -255,6 +278,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2015/03/19/novo-video-de-play-test-de-htr" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/11/18/tratamento-de-choque-2">Tratamento de Choque</a></h1>
@@ -277,6 +302,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2014/11/18/tratamento-de-choque-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/11/06/mmorpg-conquista-20-milhoes-de-jogadores-no-brasil">MMORPG conquista 20 milhões de jogadores no Brasil</a></h1>
@@ -305,6 +332,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2014/11/06/mmorpg-conquista-20-milhoes-de-jogadores-no-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2">Gladiadores de Belathron busca apoio no Catarse</a></h1>
@@ -327,6 +356,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/06/18/splitplay-apresenta-htr-high-tech-racing">Splitplay apresenta: HTR+ High Tech Racing+</a></h1>
@@ -383,20 +414,6 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

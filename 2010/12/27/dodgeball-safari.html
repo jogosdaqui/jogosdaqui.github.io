@@ -143,6 +143,12 @@ O game est&#225; dispon&#237;vel na App Store em vers&#227;o gratu&#237;ta
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -158,20 +164,6 @@ O game est&#225; dispon&#237;vel na App Store em vers&#227;o gratu&#237;ta
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -192,7 +184,21 @@ O game est&#225; dispon&#237;vel na App Store em vers&#227;o gratu&#237;ta
 <article class="post">
   <h1>Dodgeball Safari</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -200,7 +206,7 @@ O game est&#225; dispon&#237;vel na App Store em vers&#227;o gratu&#237;ta
 <center>
   
     
-      <img src="../../../../../images/galleries/2010/12/27/dodgeball-safari/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2010/12/27/dodgeball-safari/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A Ovni Studios, conhecida pelo desenvolvimento de games como <a href="http://www.ovnistudios.com/colorrace" target="_blank">Fiat Uno Color Race</a>
@@ -222,7 +228,8 @@ O game est&#225; dispon&#237;vel na <a href="http://itunes.apple.com/app/dodgeba
 , sendo que a vers&#227;o completa pode ser comprada dentro do game.
 </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -230,9 +237,8 @@ O game est&#225; dispon&#237;vel na <a href="http://itunes.apple.com/app/dodgeba
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -284,20 +290,6 @@ O game est&#225; dispon&#237;vel na <a href="http://itunes.apple.com/app/dodgeba
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

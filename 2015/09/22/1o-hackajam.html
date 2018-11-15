@@ -146,6 +146,12 @@ O evento começa na sexta-feira, dia 25, às 20h, com palestras e o lançamento 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -161,20 +167,6 @@ O evento começa na sexta-feira, dia 25, às 20h, com palestras e o lançamento 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -195,7 +187,21 @@ O evento começa na sexta-feira, dia 25, às 20h, com palestras e o lançamento 
 <article class="post">
   <h1>1º HackaJam</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -203,7 +209,7 @@ O evento começa na sexta-feira, dia 25, às 20h, com palestras e o lançamento 
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/09/22/1o-hackajam/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/09/22/1o-hackajam/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A <a href="https://games.acate.com.br/vertical/games/sobre-a-vertical-games" target="_blank">Vertical Games da Associação Catarinense de Empresas de Tecnologia (ACATE)</a>
@@ -235,7 +241,8 @@ O evento começa na sexta-feira, dia 25, às 20h, com palestras e o lançamento 
   <li><strong>Mais detalhes</strong>: <a href="http://www.eventick.com.br/hackajam">http://www.eventick.com.br/hackajam</a></li>
 </ul>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -243,9 +250,8 @@ O evento começa na sexta-feira, dia 25, às 20h, com palestras e o lançamento 
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -293,20 +299,6 @@ O evento começa na sexta-feira, dia 25, às 20h, com palestras e o lançamento 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -3,7 +3,7 @@
  <title>Your Title - previa</title>
  <link href="http://example.com/tags/previa/index.xml" rel="self"/>
  <link href="http://example.com/tag/previa.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/previa.html</id>
  <author>
    <name>Author Here</name>
@@ -14,8 +14,7 @@
    <link href="http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
    <id>http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
-   <content type="html">&lt;p&gt;Em maio fizemos uma &lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/&quot;&gt;prévia do game de corrida Horizon Chase&lt;/a&gt;
-, agora saiu do forno o tão esperado vídeo mostrando um pouco do gameplay do jogo da gaúcha Aquiris Game Studio.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Em maio fizemos uma &lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/&quot;&gt;prévia do game de corrida Horizon Chase&lt;/a&gt;, agora saiu do forno o tão esperado vídeo mostrando um pouco do gameplay do jogo da gaúcha Aquiris Game Studio.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o vídeo do game que deve ser lançado para consoles, mobile e PC.&lt;/p&gt;
 
@@ -650,34 +649,6 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  </entry>
  
  <entry>
-   <title>Novo vídeo de gameplay de Gryphon Knight Epic</title>
-   <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
-   <updated>2015-05-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
-   <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&quot; target=&quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
- liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
-
-&lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt;
- e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
-
-&lt;p&gt;No vídeo podemos conferir diversas fases do game além de alguns chefões de encher a tela, literalmente.&lt;/p&gt;
-
-&lt;h2 id=&quot;veja-o-vídeo-de-gameplay-de-gryphon-knight-epic&quot;&gt;Veja o vídeo de gameplay de Gryphon Knight Epic&lt;/h2&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/0Eor3OJwsgE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Além do vídeo acima, também já falamos do CKE em outros momentos:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;Prévia de Gryphon Knight Epic&lt;/a&gt;
-&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Checkpoint #6</title>
    <link href="http://example.com/2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
@@ -716,13 +687,13 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
    <link href="http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
-   <content type="html">&lt;p&gt;Antes de ler qualquer coisa sobre &lt;a href=&quot;http://horizonchase.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Horizon Chase&lt;/a&gt;
-, ouça a trilha sonora abaixo:&lt;/p&gt;
+   <content type="html">&lt;p&gt;Antes de ler qualquer coisa sobre &lt;a href=&quot;http://horizonchase.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Horizon Chase&lt;/a&gt;, ouça a trilha sonora abaixo:&lt;/p&gt;
 
 &lt;center&gt;
       &lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/204381241&amp;amp;color=%23ff5500&amp;amp;auto_play=true&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;
       &lt;/iframe&gt;
       &lt;/center&gt;
+
 &lt;h2 id=&quot;top-gear-feelings-certo&quot;&gt;Top Gear feelings! Certo?&lt;/h2&gt;
 &lt;p&gt;Quando no início do ano a &lt;a href=&quot;http://aquiris.com.br&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
  anunciou que estaria trabalhando em um novo projeto para os amantes de games como Lotus Turbo Challenge, Outrun, Top Gear e Lamborghini American Challenge, deixou muito marmanjo com aquela nostalgia, mas não uma saudade triste e sim aquela saudade dos bons tempos da era 16 bits. Desde então a gamedev porto-alegrense tem se dedicado em manter os fãs atualizados e evoluir o game cada vez mais.&lt;/p&gt;
@@ -736,11 +707,13 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
 
 &lt;blockquote&gt;
   &lt;p&gt;Eu adicionei sons mais modernos e, dado que tocar a trilha original se tornou um ritual de passagem para guitarristas no Brasil, optei por uma guitarra mais pesada / sintetizador principal. Enquanto estava criando, eu literalmente fechava meus olhos e imaginava o Nino Megadriver tocando ao vivo num show… Foi fantástico voltar no tempo e re-imaginar as trilhas sem as limitações da época, mas ao mesmo tempo tirando vantagem do tema retrô, e criar novas lembranças como a Música-Tema. Foi o início da imersão musical que eu queria que as pessoas sentissem… (Barry Leitch)&lt;/p&gt;
-  &lt;h2 id=&quot;expectativas&quot;&gt;Expectativas&lt;/h2&gt;
-  &lt;p&gt;O game ainda não possui uma data de lançamento oficial e nem foi divulgado para quais plataformas estará disponível, mas sabendo que a Aquiris é uma das principais desenvolvedoras do mundo utilizando a engine Unity 3D é de se esperar que o game saia para muitas plataformas.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;h2 id=&quot;expectativas&quot;&gt;Expectativas&lt;/h2&gt;
+&lt;p&gt;O game ainda não possui uma data de lançamento oficial e nem foi divulgado para quais plataformas estará disponível, mas sabendo que a Aquiris é uma das principais desenvolvedoras do mundo utilizando a engine Unity 3D é de se esperar que o game saia para muitas plataformas.&lt;/p&gt;
+
 &lt;p&gt;Pelas imagens, vídeos e, claro, trilha sonora que tivemos acesso até o momento, Horizon Chase parece ser um Top Gear re-imaginado, mas provavelmente essa é uma visão simplista do que o game realmente se tornará, especulações a parte, o jogo promete.&lt;/p&gt;
+
 &lt;h2 id=&quot;confira-o-teaser-de-horizon-chase&quot;&gt;Confira o teaser de Horizon Chase&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/j-8-W_NEXYA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -854,16 +827,13 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
    <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
-   <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a title=&quot;Prévia de TurboLink&quot; href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;
-, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot; target=&quot;_blank&quot;&gt;demo pública&lt;/a&gt;
- do game que está em votação no &lt;a title=&quot;TurboLink no Square Enix Collective&quot; href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;
-.&lt;/p&gt;
+   <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot;&gt;demo pública&lt;/a&gt; do game que está em votação no &lt;a href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Os jogadores poderão testar a demo com um torneio de 6 pistas, 4 carros, suporte ao controle do Xbox 360 e a implementação inicial da inteligência artificial do game.&lt;/p&gt;
 
 &lt;p&gt;Está esperando o que? Corre lá, teste o jogo e dê seu feedback aos desenvolvedores da Division Five.&lt;/p&gt;
 
-&lt;p&gt;A demo está disponível para Windows, Mac OSX e Linux: &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot; target=&quot;_blank&quot;&gt;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A demo está disponível para Windows, Mac OSX e Linux: &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot;&gt;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -931,35 +901,6 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/POOab7QKbsg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Imagens da semana #1</title>
-   <link href="http://example.com/2015/04/06/imagens-da-semana-1"/>
-   <updated>2015-04-06T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/06/imagens-da-semana-1</id>
-   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/581786360798949376&quot;&gt;A primeira screenshot da semana vem da paranaense Reiza Studios e seu simulador de corrida Game Stock Car Extreme que recebeu um novo update e entre as novidades está a adição da pista histórica de Bologina na Itália.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/Ilusis/status/582560429274185728&quot;&gt;A Ilusis Interactive lembrando que em abril será lançado para PS4, PS3 e PSVita seu tower defense Krinkle. Em breve você poderá ver o game no jogosdaqui, por enquanto fique com uma colorida screenshot:&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/SplitPlay/status/582742476659789824&quot;&gt;Tormenta: O Desafio dos Deuses baseado no mundo de Tormenta de Leonel Caldela e da editora Jambô foi oficialmente lançado no SplitPlay. O Desafio dos Deuses é outro game que em breve deve ganhar seu merecido post no nosso portal.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/Hanza_Ru/status/583032804805611521&quot;&gt;Uma nova concept art do jogo de corrida TurboLink em desenvolvimento pela Division Five. Confira mais detalhes dele no post Prévia de TurboLink.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/583364108810084353&quot;&gt;Na quinta imagem ficamos com o buzz criado pela JoyMasher ao divulgar que existiria um modo 16bits secreto em seu game Odallus, até que todos se lembraram que era 1º de abril.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/583697974531756033&quot;&gt;O beta de Chroma Squad, game da Behold Studios, ganha sua maior update até o momento. A imagem abaixo demonstra muito bem porque devemos aguardar um grande game com estética de pixel art.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/TorenGame/status/584181780237791232&quot;&gt;E a gaúcha Swordtales liberou uma bela concept art intitulada The Devil de seu aguardado game Toren.&lt;/a&gt;&lt;/p&gt;
-
 </content>
  </entry>
  

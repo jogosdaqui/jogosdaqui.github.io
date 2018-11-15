@@ -104,6 +104,12 @@ O jogo estabelece um novo estilo de software educacional, com uma estória não 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ O jogo estabelece um novo estilo de software educacional, com uma estória não 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ O jogo estabelece um novo estilo de software educacional, com uma estória não 
 <article class="post">
   <h1>A Fantástica Aventura de Tales</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -163,7 +169,7 @@ O jogo estabelece um novo estilo de software educacional, com uma estória não 
     
   
     
-      <img src="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Jogo eletrônico e multimídia educacional matemático com estória não linear.
@@ -185,7 +191,8 @@ Utiliza as mais avançadas tecnologias de multimídias e jogos eletrônicos.</p>
 <p>No decorrer da estória o jogador ira se deparar com vários personagens (NPCs personagens não jogadores), os quais poderão fornecer informações importantes para a execução das tarefas que hão de surgir no decorrer da aventura. O jogador não precisa necessariamente concluir todos os desafios do jogo, sendo que quanto maior for o número de desafios conquistados, maior será sua quantia em dinheiro, o que delimitará o número de peças a comprar para seu retomo a Terra. Ou seja.quanto maior o número de peças, mais perfeito será o estado de sua nave nessa viagem de volta, o que implica em estímulo à rejogabilidade e, afinal, na recompensa da volta para casa com sua nave em perfeitas condições.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -193,29 +200,33 @@ Utiliza as mais avançadas tecnologias de multimídias e jogos eletrônicos.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_3.jpg">
-          <img src="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_3.jpg">
+          <img src="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_2.jpg">
-          <img src="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_2.jpg">
+          <img src="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_4.jpg">
-          <img src="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_4.jpg">
+          <img src="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_1.jpg">
-          <img src="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_1.jpg">
+          <img src="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/Cyprux_-aFantasticaAventuraDeTales_1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -237,6 +248,7 @@ Utiliza as mais avançadas tecnologias de multimídias e jogos eletrônicos.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -281,20 +293,6 @@ Utiliza as mais avançadas tecnologias de multimídias e jogos eletrônicos.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

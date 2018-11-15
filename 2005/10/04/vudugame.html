@@ -101,6 +101,12 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
 <article class="post">
   <h1>Vudugame</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -162,7 +168,7 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
     
   
     
-      <img src="../../../../../images/galleries/2005/10/04/vudugame/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/04/vudugame/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Sabe aquele vizinho chato, que implica com tudo o que você faz no final de semana, tipo ouvir rock paulera um pouquinho acima dos decibéis aceitáveis? E o que dizer daquele professor que persegue alunos acima da média? E o chefe, sempre pronto a reclamar quando você atrasa um minutinho, na pausa do café? E os políticos então? Os artistas mascarados, que esnobam o Vesgo e o Silvio. Ah, e não vamos esquecer do juiz ladrão, que como pudemos ver no noticiário recente, era ladrão mesmo.</p>
@@ -176,7 +182,8 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
 <p>Para isso criamos o Vudugame e com ele você vai elevar o seu ki cibernético ao nível mais alto possível. Só depende de você querer.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -184,21 +191,25 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/10/04/vudugame/vudugame2.jpg">
-          <img src="../../../../../images/galleries/2005/10/04/vudugame/vudugame2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/04/vudugame/vudugame2.jpg">
+          <img src="/images/galleries/2005/10/04/vudugame/vudugame2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/04/vudugame/vudugame1.jpg">
-          <img src="../../../../../images/galleries/2005/10/04/vudugame/vudugame1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/04/vudugame/vudugame1.jpg">
+          <img src="/images/galleries/2005/10/04/vudugame/vudugame1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -220,6 +231,7 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
     });
   });
 </script>
+
 
   </div>
 
@@ -268,20 +280,6 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -104,6 +104,12 @@ Este desafio “PreservAÇÃO” está pronto pra inserção de logomarcas de em
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ Este desafio “PreservAÇÃO” está pronto pra inserção de logomarcas de em
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ Este desafio “PreservAÇÃO” está pronto pra inserção de logomarcas de em
 <article class="post">
   <h1>PreservAÇÃO</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -165,7 +171,7 @@ Este desafio “PreservAÇÃO” está pronto pra inserção de logomarcas de em
     
   
     
-      <img src="../../../../../images/galleries/2005/10/18/preservacao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/18/preservacao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Utilize sua Inteligência! Salve o Planeta Terra!
@@ -186,7 +192,8 @@ Teste aqui seus conhecimentos sobre preservação ambiental.</p>
 <br style="color: #993300;" /><span style="color: #993300; font-weight: bold;">Licença para Anunciantes</span><br style="color: #993300;" /><br style="color: #993300;" /><span style="color: #993300;">O jogo custa R$ 1.250,00 para a inserção de logomarca e licença de uso e cópia por 01 ano.</span></li>
 </ul>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -194,21 +201,25 @@ Teste aqui seus conhecimentos sobre preservação ambiental.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/10/18/preservacao/preservacao2.jpg">
-          <img src="../../../../../images/galleries/2005/10/18/preservacao/preservacao2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/18/preservacao/preservacao2.jpg">
+          <img src="/images/galleries/2005/10/18/preservacao/preservacao2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/18/preservacao/preservacao1.jpg">
-          <img src="../../../../../images/galleries/2005/10/18/preservacao/preservacao1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/18/preservacao/preservacao1.jpg">
+          <img src="/images/galleries/2005/10/18/preservacao/preservacao1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -230,6 +241,7 @@ Teste aqui seus conhecimentos sobre preservação ambiental.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -274,20 +286,6 @@ Teste aqui seus conhecimentos sobre preservação ambiental.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

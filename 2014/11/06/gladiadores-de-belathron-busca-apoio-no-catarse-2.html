@@ -104,6 +104,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@
 <article class="post">
   <h1>Gladiadores de Belathron busca apoio no Catarse</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -183,7 +189,8 @@
 <p>Até o dia 14 de Dezembro, os interessados podem adquirir o jogo no site <a href="http://www.catarse.me/pt/gladiadores" target="_blank">www.catarse.me/gladiadores</a>
  e assim ajudarão o projeto a se concretizar. A Behold Studios promete que caso atinja o valor mínimo do projeto, a quantia extra será reinvestida no jogo, melhorando ainda mais os componentes como cartas, dados, tabuleiro e colocando novos heróis no jogo. Todo mundo que participou da campanha ganhará as metas estendidas.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -191,21 +198,25 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2/GladiadoresDeBelathron_02.jpg">
-          <img src="../../../../../images/galleries/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2/GladiadoresDeBelathron_02.jpg"/>        
+        <li data-thumb="/images/galleries/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2/GladiadoresDeBelathron_02.jpg">
+          <img src="/images/galleries/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2/GladiadoresDeBelathron_02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2/GladiadoresDeBelathron_01.png">
-          <img src="../../../../../images/galleries/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2/GladiadoresDeBelathron_01.png"/>        
+        <li data-thumb="/images/galleries/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2/GladiadoresDeBelathron_01.png">
+          <img src="/images/galleries/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2/GladiadoresDeBelathron_01.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -227,6 +238,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -279,20 +291,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

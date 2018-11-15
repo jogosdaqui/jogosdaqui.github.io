@@ -98,6 +98,12 @@ Difere do dominó clássico, onde o jogador deve colocar em sequência peças qu
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +119,6 @@ Difere do dominó clássico, onde o jogador deve colocar em sequência peças qu
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -147,7 +139,21 @@ Difere do dominó clássico, onde o jogador deve colocar em sequência peças qu
 <article class="post">
   <h1>Dominó Chinês</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -157,7 +163,7 @@ Difere do dominó clássico, onde o jogador deve colocar em sequência peças qu
     
   
     
-      <img src="../../../../../images/galleries/2005/12/22/domino-chines/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/22/domino-chines/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <h2 id="dominó-chinês">Dominó Chinês</h2>
@@ -169,7 +175,8 @@ Difere do dominó clássico, onde o jogador deve colocar em sequência peças qu
  possui 3 modos de jogo: Jardim, Templo e Lago. Como os outros jogos do SBT Diversão, o game tem um ranking online onde o jogador pode disputar as melhores pontuações com outros jogadores.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -177,29 +184,33 @@ Difere do dominó clássico, onde o jogador deve colocar em sequência peças qu
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_4.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_4.jpg">
+          <img src="/images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_1.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_1.jpg">
+          <img src="/images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_3.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_3.jpg">
+          <img src="/images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_2.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_2.jpg">
+          <img src="/images/galleries/2005/12/22/domino-chines/GreenLandStudios_DominoChines_2.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -221,6 +232,7 @@ Difere do dominó clássico, onde o jogador deve colocar em sequência peças qu
     });
   });
 </script>
+
 
   </div>
 
@@ -271,20 +283,6 @@ Difere do dominó clássico, onde o jogador deve colocar em sequência peças qu
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

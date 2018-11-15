@@ -122,6 +122,12 @@ Acho que os games tem aparecido mais na mídia por que estão cada vez mais pres
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -137,20 +143,6 @@ Acho que os games tem aparecido mais na mídia por que estão cada vez mais pres
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -171,7 +163,21 @@ Acho que os games tem aparecido mais na mídia por que estão cada vez mais pres
 <article class="post">
   <h1>Entrevista: Espaço Informática</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -195,7 +201,7 @@ Acho que os games tem aparecido mais na mídia por que estão cada vez mais pres
 </blockquote>
 
 <center>
-        <img src="../../../../images/galleries/2005/10/26/entrevista-espaco-informatica/hades2.gif " />
+        <img src="/images/galleries/2005/10/26/entrevista-espaco-informatica/hades2.gif " />
       </center>
 <center><span style="font-style:italic; font-size:small">Hades2, primeiro game da Espaço Informática: cartão de visitas </span></center>
 
@@ -221,7 +227,7 @@ Com certeza, a nossa história ainda está apenas inciando, mas acho que qualque
 </blockquote>
 
 <center>
-        <img src="../../../../images/galleries/2005/10/26/entrevista-espaco-informatica/christmas-magic.jpg " />
+        <img src="/images/galleries/2005/10/26/entrevista-espaco-informatica/christmas-magic.jpg " />
       </center>
 <center><span style="font-style:italic; font-size:small">Christmas Magic: Aventure-se como Papai Noel </span></center>
 
@@ -242,7 +248,8 @@ Com certeza, a nossa história ainda está apenas inciando, mas acho que qualque
 
 <p>O jogosdaqui agradece a entrevista e estará sempre atento à Espaço Informática, mais uma empresa brasileira que está fazendo a diferença, trazendo jogos de qualidade para os brasileiros e demonstrando ao mundo o potencial brasileiro nesta área.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -250,21 +257,25 @@ Com certeza, a nossa história ainda está apenas inciando, mas acho que qualque
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/10/26/entrevista-espaco-informatica/christmas-magic.jpg">
-          <img src="../../../../../images/galleries/2005/10/26/entrevista-espaco-informatica/christmas-magic.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/26/entrevista-espaco-informatica/christmas-magic.jpg">
+          <img src="/images/galleries/2005/10/26/entrevista-espaco-informatica/christmas-magic.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/26/entrevista-espaco-informatica/hades2.gif">
-          <img src="../../../../../images/galleries/2005/10/26/entrevista-espaco-informatica/hades2.gif"/>        
+        <li data-thumb="/images/galleries/2005/10/26/entrevista-espaco-informatica/hades2.gif">
+          <img src="/images/galleries/2005/10/26/entrevista-espaco-informatica/hades2.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -286,6 +297,7 @@ Com certeza, a nossa história ainda está apenas inciando, mas acho que qualque
     });
   });
 </script>
+
 
   </div>
 
@@ -334,20 +346,6 @@ Com certeza, a nossa história ainda está apenas inciando, mas acho que qualque
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

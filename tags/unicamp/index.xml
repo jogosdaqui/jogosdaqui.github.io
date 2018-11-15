@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - unicamp</title>
+ <link href="http://example.com/tags/unicamp/index.xml" rel="self"/>
+ <link href="http://example.com/tag/unicamp.html"/>
+ <updated>2018-11-15T10:15:39-02:00</updated>
+ <id>http://example.com/tag/unicamp.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>BioTest</title>
+   <link href="http://example.com/2013/05/13/biotest"/>
+   <updated>2013-05-13T00:00:00-03:00</updated>
+   <id>http://example.com/2013/05/13/biotest</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.biotest-app.com/&quot;&gt;BioTest&lt;/a&gt; foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.&lt;/p&gt;
+
+&lt;p&gt;Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile.&lt;/p&gt;
+
+&lt;p&gt;BioTest é um jogo educacional no estilo forca com perguntas de biologia. Contando com 1200 questões, 3 níveis de dificuldade, modo interativo para colonização de biomas  e ainda conta com achievements e leaderboards.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/-QR2GhQShGM &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;O jogo está disponível na &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.gamescamp.biotest&quot;&gt;Google Play por U$0.99&lt;/a&gt; e na &lt;a href=&quot;https://itunes.apple.com/us/app/biotest/id636941373&quot;&gt;Apple Store por U$1.99&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

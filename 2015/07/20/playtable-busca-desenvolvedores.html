@@ -104,6 +104,12 @@ Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para
 <article class="post">
   <h1>PlayTable busca desenvolvedores</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -165,7 +171,7 @@ Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para
     
   
     
-      <img src="../../../../../images/galleries/2015/07/20/playtable-busca-desenvolvedores/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/20/playtable-busca-desenvolvedores/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A  Playmove de Blumenau, Santa Catarina, empresa desenvolvedora da <a href="http://playtable.com.br/" target="_blank">PlayTable</a>
@@ -193,7 +199,8 @@ Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para
 <p>Os estúdios e desenvolvedores interessados em participar do programa de parceria da Playmove e desenvolver jogos para a PlayTable podem se inscrever pelo site do produto, no endereço <a href="http://playtable.com.br/developer" target="_blank">http://playtable.com.br/developer</a></p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -201,21 +208,25 @@ Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/07/20/playtable-busca-desenvolvedores/Playmove_PlayTable_jogando.jpg">
-          <img src="../../../../../images/galleries/2015/07/20/playtable-busca-desenvolvedores/Playmove_PlayTable_jogando.jpg"/>        
+        <li data-thumb="/images/galleries/2015/07/20/playtable-busca-desenvolvedores/Playmove_PlayTable_jogando.jpg">
+          <img src="/images/galleries/2015/07/20/playtable-busca-desenvolvedores/Playmove_PlayTable_jogando.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/07/20/playtable-busca-desenvolvedores/Playmove_PlayTable.jpg">
-          <img src="../../../../../images/galleries/2015/07/20/playtable-busca-desenvolvedores/Playmove_PlayTable.jpg"/>        
+        <li data-thumb="/images/galleries/2015/07/20/playtable-busca-desenvolvedores/Playmove_PlayTable.jpg">
+          <img src="/images/galleries/2015/07/20/playtable-busca-desenvolvedores/Playmove_PlayTable.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -237,6 +248,7 @@ Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para
     });
   });
 </script>
+
 
   </div>
 
@@ -285,20 +297,6 @@ Desenvolvedores que já possuem jogos educativos poderão adaptar seu jogos para
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

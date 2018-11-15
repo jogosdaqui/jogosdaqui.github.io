@@ -98,6 +98,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +119,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -147,7 +139,21 @@
 <article class="post">
   <h1>JogosBR :: Inscrições e regras</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -169,7 +175,8 @@
 ) colaborou fornecendo consultoria para a elaboração do regulamento e dos critérios de julgamento do Concurso. <span style="font-style: italic; font-weight: bold;">"Aperfeiçoamos bastante em relação ao anterior, inclusive abrindo espaço para uma nova categoria: o apoio ao desenvolvimento de jogos completos de baixo orçamento. De uma maneira geral o concurso foi aprimorado para atender tanto aos estudantes que queiram ingressar no mercado, quanto às empresas já atuantes"</span>, ressalta Maurício Piacentini, representante da Abragames.<br /><br />Para o Concurso de Idéias Originais, alguns trabalhos já estão disponíveis on-line em: <a target="_blank" href="http://www.jogosbr.org.br/original">http://www.jogosbr.org.br/original</a>
 . Nesta página é possível ler e deixar comentários sobre as idéias. <span style="font-style: italic;"><span style="font-weight: bold;">"Este ano elas estão bem fundamentadas, pois a nova formatação obriga o autor a detalhar mais o ponto central de sua idéia e explicar como a mesma se desenvolve na prática"</span>,</span> diz Piacentini. O objetivo deste Concurso é incentivar a criação de idéias através de descrição de roteiro, concepção visual, temas, cenários, situações e personagens. <br /><br />Para participar do Concurso de Demos Jogáveis a idéia pode ser a mesma indicada no Concurso de Idéias Originais ou algo inédito, outro diferencial em relação ao ano anterior. <span style="font-weight: bold;">Alguns dos Demos premiados ano passado já estão a caminho de se transformarem em jogos completos</span>. Para compor o júri que definirá os ganhadores dos concursos deste ano, a Abragames junto com o MinC indicarão profissionais da área. O julgamento do Concurso de Idéias Originais será feito através de votação on-line, enquanto o dos outros concursos será realizado através de reunião da comissão julgadora, em local ainda a ser definido, na primeira quinzena de abril. <span style="font-style: italic; font-weight: bold;">"Quem começar a preparar os projetos a partir de já, provavelmente tem uma chance maior de levar os prêmios"</span>, diz Piacentini.<br /><br />Para Senna, a importância dos jogos eletrônicos para a cultura está na mutação que estes ocasionam nas Artes Audiovisuais e na Educação.<span style="font-style: italic;"> <span style="font-weight: bold;">"Os games são a síntese revolucionária das novas tecnologias audiovisuais (as existentes e as que estão por vir) com a imaginação, que é o bem maior do ser humano. É um passo além do cinema e da televisão. Estamos falando de uma arte lúdica, eletrônica, interativa; uma avançada expressão humana no que se refere ao lazer, à educação, ao desenvolvimento do raciocínio e da percepção sensorial"</span></span>, afirma.<br /><br />O game é indicado como o item mais promissor no conjunto de atividades que economistas americanos batizaram de movie power, complexo industrial-tecnológico-comercial da comunicação audiovisual, um dos poderes decisivos do século XXI. O Brasil vem despertando para a importância dos jogos eletrônicos e investindo nesta atividade promissora: nos últimos três anos, o crescimento do setor foi de 20% ao ano. <span style="font-style: italic; font-weight: bold;">"Como atividade incipiente e sem beneplácitos do Estado, a base desse crescimento era pequena, mas o resultado se traduz em um mercado que deve faturar, em 2006, entre 150 milhões e 200 milhões de dólares. Ou seja, um setor em movimento ascendente, que pode faturar pelo menos dez vezes mais se lhe forem destinados investimentos inteligentes do Estado e do capital privado”</span>, diz Senna.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -177,9 +184,8 @@
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -231,20 +237,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

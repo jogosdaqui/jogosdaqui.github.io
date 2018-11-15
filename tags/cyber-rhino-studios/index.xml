@@ -3,7 +3,7 @@
  <title>Your Title - cyber-rhino-studios</title>
  <link href="http://example.com/tags/cyber-rhino-studios/index.xml" rel="self"/>
  <link href="http://example.com/tag/cyber-rhino-studios.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/cyber-rhino-studios.html</id>
  <author>
    <name>Author Here</name>
@@ -108,11 +108,9 @@
    <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
    <updated>2015-05-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
-   <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&quot; target=&quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
- liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&amp;quot; target=&amp;quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt; liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
 
-&lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt;
- e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
+&lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&amp;quot; target=&amp;quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt; e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
 
 &lt;p&gt;No vídeo podemos conferir diversas fases do game além de alguns chefões de encher a tela, literalmente.&lt;/p&gt;
 
@@ -122,11 +120,10 @@
       &lt;/center&gt;
 
 &lt;p&gt;Além do vídeo acima, também já falamos do CKE em outros momentos:&lt;/p&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;Prévia de Gryphon Knight Epic&lt;/a&gt;
-&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;
-&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;Prévia de Gryphon Knight Epic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

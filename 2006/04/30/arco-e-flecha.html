@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Arco e Flecha</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -155,7 +161,8 @@
  </center>
     <p>É hora de demonstrar seu valor como um respeitável arqueiro. <br />Com apenas 10  flechas e um arco, seu objetivo é simples: acertar todas as flechas na parte  mais central do alvo. Mas, nesta tarefa, deverá superar até o fenômeno do vento,  que atrapalhará sua mira de acordo com a intensidade e direção. <br />Então mostre  logo seu nível de pontaria e do que você é capaz!</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -163,21 +170,25 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/04/30/arco-e-flecha/Screenshot_489.png">
-          <img src="../../../../../images/galleries/2006/04/30/arco-e-flecha/Screenshot_489.png"/>        
+        <li data-thumb="/images/galleries/2006/04/30/arco-e-flecha/Screenshot_489.png">
+          <img src="/images/galleries/2006/04/30/arco-e-flecha/Screenshot_489.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/04/30/arco-e-flecha/Screenshot_490.png">
-          <img src="../../../../../images/galleries/2006/04/30/arco-e-flecha/Screenshot_490.png"/>        
+        <li data-thumb="/images/galleries/2006/04/30/arco-e-flecha/Screenshot_490.png">
+          <img src="/images/galleries/2006/04/30/arco-e-flecha/Screenshot_490.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -199,6 +210,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -245,20 +257,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

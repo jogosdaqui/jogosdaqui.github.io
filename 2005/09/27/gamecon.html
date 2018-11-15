@@ -155,6 +155,12 @@ Mais informações no site oficial www.gamecon.com.br
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -170,20 +176,6 @@ Mais informações no site oficial www.gamecon.com.br
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -204,7 +196,21 @@ Mais informações no site oficial www.gamecon.com.br
 <article class="post">
   <h1>Gamecon</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -212,7 +218,7 @@ Mais informações no site oficial www.gamecon.com.br
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/09/27/gamecon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/27/gamecon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Entre 15 e 16 de outubro de 2005 a segunda edição do Gamecon será realizada no Espaço Ferrovia , situado na Rua Dr. Almeida Lima, número 1219, no bairro da Móoca na Cidade de São Paulo.</p>
@@ -238,7 +244,8 @@ Mais informações no site oficial www.gamecon.com.br
 <p>Mais informações no site oficial <a href="http://www.gamecon.com.br/">www.gamecon.com.br</a>
 .</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -246,9 +253,8 @@ Mais informações no site oficial www.gamecon.com.br
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -302,20 +308,6 @@ Mais informações no site oficial www.gamecon.com.br
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

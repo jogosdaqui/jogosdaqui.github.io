@@ -84,6 +84,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,20 +105,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <h2>steam</h2>
 <ul>
 
@@ -144,8 +136,6 @@
 
   <li><a href="/2015/05/29/checkpoint-8">Checkpoint #8</a> (29/05/2015)</li>
 
-  <li><a href="/2015/05/25/imagens-da-semana-8">Imagens da semana #8</a> (25/05/2015)</li>
-
   <li><a href="/2015/05/22/checkpoint-7">Checkpoint #7</a> (22/05/2015)</li>
 
   <li><a href="/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game">Ballistic Overkill, desenvolvedores falam sobre o game</a> (22/05/2015)</li>
@@ -158,15 +148,11 @@
 
   <li><a href="/2015/05/19/entrevista-fernando-paulo-criador-de-treeker">Entrevista: Fernando Paulo, criador de Treeker</a> (19/05/2015)</li>
 
-  <li><a href="/2015/05/18/imagens-da-semana-7">Imagens da semana #7</a> (18/05/2015)</li>
-
   <li><a href="/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao">XIII SEJA (Semana de Entretenimento, Jogos e  Animação)</a> (16/05/2015)</li>
 
   <li><a href="/2015/05/14/checkpoint-6">Checkpoint #6</a> (14/05/2015)</li>
 
   <li><a href="/2015/05/13/space-lander">Space Lander</a> (13/05/2015)</li>
-
-  <li><a href="/2015/05/11/imagens-da-semana-6">Imagens da semana #6</a> (11/05/2015)</li>
 
   <li><a href="/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim">Campanha do TurboLink no Collective está chegando ao fim</a> (10/05/2015)</li>
 
@@ -192,19 +178,13 @@
 
   <li><a href="/2015/04/28/phoenix-force">Phoenix Force</a> (28/04/2015)</li>
 
-  <li><a href="/2015/04/27/imagens-da-semana-4">Imagens da semana #4</a> (27/04/2015)</li>
-
   <li><a href="/2015/04/26/checkpoint-3">Checkpoint #3</a> (26/04/2015)</li>
 
   <li><a href="/2015/04/24/trailer-de-lancamento-de-chroma-squad">Trailer de lançamento de Chroma Squad</a> (24/04/2015)</li>
 
   <li><a href="/2015/04/22/entrevista-claudio-lins">Entrevista: Claudio Lins</a> (22/04/2015)</li>
 
-  <li><a href="/2015/04/20/imagens-da-semana-3">Imagens da semana #3</a> (20/04/2015)</li>
-
   <li><a href="/2015/04/16/checkpoint-1">Checkpoint #1</a> (16/04/2015)</li>
-
-  <li><a href="/2015/04/13/imagens-da-semana-2">Imagens da semana #2</a> (13/04/2015)</li>
 
   <li><a href="/2015/04/09/previa-de-gryphon-knight-epic">Prévia de Gryphon Knight Epic</a> (09/04/2015)</li>
 
@@ -222,20 +202,6 @@
 
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

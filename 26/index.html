@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2007/01/17/menininhas">Menininhas</a></h1>
@@ -138,6 +133,8 @@
     <a href="/2007/01/17/menininhas" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2007/01/17/delirus-e-imax-no-tilibra-zone">Délirus e iMAX no Tilibra Zone</a></h1>
@@ -156,6 +153,8 @@
     <a href="/2007/01/17/delirus-e-imax-no-tilibra-zone" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2007/01/17/ajude-o-fazendeiro-em-bunny-smash">Ajude o fazendeiro em Bunny Smash</a></h1>
@@ -178,6 +177,8 @@
     <a href="/2007/01/17/ajude-o-fazendeiro-em-bunny-smash" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/12/26/newsabragames-dezembro-2006">NewsAbragames Dezembro/2006</a></h1>
@@ -196,6 +197,23 @@
     <a href="/2006/12/26/newsabragames-dezembro-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/12/08/palestra-sobre-esquadrao-zumbi">Palestra sobre Esquadrão Zumbi</a></h1>
@@ -214,6 +232,8 @@
     <a href="/2006/12/08/palestra-sobre-esquadrao-zumbi" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/12/01/lancamento-de-war-ii-no-gametrack">Lançamento de War II no Gametrack</a></h1>
@@ -232,6 +252,8 @@
     <a href="/2006/12/01/lancamento-de-war-ii-no-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/12/01/jogosbr-anuncia-lancamento-das-demos">JogosBR anuncia Lançamento das demos</a></h1>
@@ -250,6 +272,8 @@
     <a href="/2006/12/01/jogosbr-anuncia-lancamento-das-demos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown">Lançamento mundial do jogo Xiaolin Showdown</a></h1>
@@ -268,6 +292,8 @@
     <a href="/2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/11/21/newsabragames-novembro-2006">NewsAbragames Novembro/2006</a></h1>
@@ -286,6 +312,8 @@
     <a href="/2006/11/21/newsabragames-novembro-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/11/16/hoplon-apresenta-taikodom-em-portugal">Hoplon apresenta Taikodom em Portugal</a></h1>
@@ -334,20 +362,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

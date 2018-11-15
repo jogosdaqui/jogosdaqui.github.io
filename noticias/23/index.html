@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,85 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/29/novas-imagens-do-rpg-essence">Novas imagens do RPG Essence</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+ </center>
+    
+    Há muito tempo, magos construíram três portais para canalizar a essência da magia do universo.Este é o início da história de Essence, um RPG
+ tático em desenvolvimento pela Palmsoft Tecnologia
+.A empresa liberou novas imagens e detalhes sobre o enredo do jogo.Confira a prévia…
+
+
+    </div>
+
+    <a href="/2006/04/29/novas-imagens-do-rpg-essence" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/28/pernambuco-e-destaque-no-trofeu-gameworld">Pernambuco é destaque no Troféu Gameworld</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Duas empresas do Porto Digital de Pernambuco, Meantime Mobile Creations
+ e Jynx Playware
+, foram premiadas no 2º Troféu Gameworld.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/04/28/pernambuco-e-destaque-no-trofeu-gameworld" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/28/novidades-na-palmsoft">Novidades na Palmsoft</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Previsto para entrar no mercado na primeira semana de maio, Golden West - Bang! Bang! é o próximo RPG a ser lançado pela PalmSoft Tecnologia . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa.Mais detalhes…...
+    </div>
+
+    <a href="/2006/04/28/novidades-na-palmsoft" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/28/novidades-da-palmsoft">Novidades da Palmsoft</a></h1>
@@ -143,6 +207,23 @@
     <a href="/2006/04/28/novidades-da-palmsoft" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/04/28/jogosbr-demos-jogaveis-2004-2005">JogosBR: demos jogáveis 2004/2005</a></h1>
@@ -161,6 +242,8 @@
     <a href="/2006/04/28/jogosbr-demos-jogaveis-2004-2005" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/27/icon-games-ganha-premio-no-exterior">ICON Games ganha prêmio no exterior</a></h1>
@@ -179,6 +262,8 @@
     <a href="/2006/04/27/icon-games-ganha-premio-no-exterior" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/25/comunicado-da-abragames">Comunicado da Abragames</a></h1>
@@ -198,6 +283,8 @@
     <a href="/2006/04/25/comunicado-da-abragames" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/22/o-melhor-da-formula-1">O melhor da Fórmula 1</a></h1>
@@ -216,6 +303,8 @@
     <a href="/2006/04/22/o-melhor-da-formula-1" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/21/enquete-com-que-frequencia-voce-joga-no-celular">Enquete: Com que frequência você joga no celular?</a></h1>
@@ -234,6 +323,8 @@
     <a href="/2006/04/21/enquete-com-que-frequencia-voce-joga-no-celular" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/19/novidades-da-sr-games-e-estradas-esburacadas">Novidades da SR-Games e Estradas Esburacadas</a></h1>
@@ -250,60 +341,6 @@
     </div>
 
     <a href="/2006/04/19/novidades-da-sr-games-e-estradas-esburacadas" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/04/18/viaje-pelo-brasil-na-tela-do-celular">Viaje pelo Brasil na tela do celular</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Transit Brasil, o novo jogo para celular da Lúmen Technology , vai levar o jogador para viajar pelo Brasil na pele de Allan Cruz, um funcionário de uma famosa empresa de entregas rápidas. Com belos gráficos e muita diversão, Transit Brasil promete várias horas de desafio para completar as suas...
-    </div>
-
-    <a href="/2006/04/18/viaje-pelo-brasil-na-tela-do-celular" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/04/14/newsabragames-abril-2006">NewsAbragames - Abril/2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    No ar a última edição da NewsAbragames (newsletter mensal da Abragames - Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos).A edição de abril conta com a review do jogo de palavras cruzadas Coquetel da Délirus , os destaques da mídia no mês de março, a agenda de eventos sobre jogos para...
-    </div>
-
-    <a href="/2006/04/14/newsabragames-abril-2006" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/04/13/anunciado-pinogol-3d-para-o-gametrack">Anunciado Pinogol 3D para o Gametrack</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A Devworks Game Technology liberou as primeiras informações do próximo jogo multiplayer do portal Gametrack .Pinogol 3D é um jogo de futebol de pinos 3D, onde cada jogador controla seu time de pinos com o objetivo de marcar gols contra o adversário.Em breve, no jogosdaqui, mais informações sobre Pinogol 3D....
-    </div>
-
-    <a href="/2006/04/13/anunciado-pinogol-3d-para-o-gametrack" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -339,20 +376,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

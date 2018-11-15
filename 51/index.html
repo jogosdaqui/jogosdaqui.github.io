@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,98 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/12/22/bate-rebate">Bate-Rebate</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/12/22/bate-rebate/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D. Utilizando das muitas possibilidades que as novas dimensões trazem ao jogo, o estilo Arkanoid ganha um novo fôlego e inúmeras novas combinações para a jogabilidade, um exemplo disto...
-    </div>
-
-    <a href="/2005/12/22/bate-rebate" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/12/21/palmsoft-drag-racer">PalmSoft Drag Racer</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    PalmSoft Drag Racer é um jogo para celular onde o jogador disputa corridas de arrancadas com carros turbinados. Neste jogo da PalmSoft, com previsão de lançamento para janeiro de 2006, você poderá turbinar seu carro para ganhar as corridas e conseguir mais dinheiro para comprar outros carros e acessórios. Confira...
-    </div>
-
-    <a href="/2005/12/21/palmsoft-drag-racer" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/12/21/iniciam-as-vendas-do-bola-de-gude">Iniciam as vendas do Bola de Gude</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A produtora ICON Games colocou à venda o jogo Bola de Gude
-.
-
-A versão completa do jogo pode ser comprada diretamente pela internet neste link
-.
-
-    </div>
-
-    <a href="/2005/12/21/iniciam-as-vendas-do-bola-de-gude" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/12/19/red-hood-racing">Red Hood Racing</a></h1>
@@ -213,7 +132,7 @@ A versão completa do jogo pode ser comprada diretamente pela internet neste lin
     
   
     
-      <img src="../../../../../images/galleries/2005/12/19/red-hood-racing/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/19/red-hood-racing/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -223,6 +142,8 @@ A versão completa do jogo pode ser comprada diretamente pela internet neste lin
     <a href="/2005/12/19/red-hood-racing" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/19/enquete-no-gametrack">Enquete no Gametrack</a></h1>
@@ -247,6 +168,8 @@ Conheça mais sobre o Gametrack na entrevista
     <a href="/2005/12/19/enquete-no-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/18/zoo-escape">Zoo Escape</a></h1>
@@ -260,7 +183,7 @@ Conheça mais sobre o Gametrack na entrevista
     
   
     
-      <img src="../../../../../images/galleries/2005/12/18/zoo-escape/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/18/zoo-escape/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -270,6 +193,8 @@ Conheça mais sobre o Gametrack na entrevista
     <a href="/2005/12/18/zoo-escape" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr">Lançado o site da 2ª edição do concurso JogosBr</a></h1>
@@ -298,6 +223,23 @@ Veja maiores detalhes no site www.jogosbr.org.br
     <a href="/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/12/17/bears-bees">Bears & Bees</a></h1>
@@ -324,6 +266,8 @@ Veja maiores detalhes no site www.jogosbr.org.br
     <a href="/2005/12/17/bears-bees" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/16/war-of-malquidious">Prévia de War of Malquidious da PalmSoft</a></h1>
@@ -347,7 +291,7 @@ Veja maiores detalhes no site www.jogosbr.org.br
     
   
     
-      <img src="../../../../../images/galleries/2005/12/16/war-of-malquidious/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/16/war-of-malquidious/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -357,6 +301,8 @@ Veja maiores detalhes no site www.jogosbr.org.br
     <a href="/2005/12/16/war-of-malquidious" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/16/erinia-a-guerra-dos-dois-dias">Erinia, A Guerra dos Dois Dias</a></h1>
@@ -373,6 +319,100 @@ Veja maiores detalhes no site www.jogosbr.org.br
     </div>
 
     <a href="/2005/12/16/erinia-a-guerra-dos-dois-dias" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/15/primeiras-imagens-de-os-conquistadores">Primeiras imagens de "Os Conquistadores"</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    A Dynamic Games liberou as primeiras imagens do jogo “Os Conquistadores”.
+
+Em Os Conquistadores você jogará na pele do 1° rei de Portugal, D. Afonso Henrique. O jogo promete muita ação em batalhas épicas.
+
+Aprecie 6 imagens do jogo em desenvolvimento:
+
+
+    </div>
+
+    <a href="/2005/12/15/primeiras-imagens-de-os-conquistadores" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/15/novas-imagens-de-taikodom">Novas imagens de Taikodom</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A Hoplon liberou mais 75 novas imagens de Taikodom.
+Confira as belas imagens no próprio site do jogo
+.
+
+Aproveite e entre
+ no extraordinário universo do promissor Taikodom.
+
+    </div>
+
+    <a href="/2005/12/15/novas-imagens-de-taikodom" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/15/jetski-race">Jetski Race</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/12/15/jetski-race/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Foi dada a largada! Prepare-se para muita água, obstáculos e manobras nessa excitante corrida de jetskis!
+
+Vença seus oponentes ou teste suas habilidades correndo contra o tempo.
+Jetski Race é pra quem gosta de esportes radicais no celular.
+
+
+    </div>
+
+    <a href="/2005/12/15/jetski-race" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -405,20 +445,6 @@ Veja maiores detalhes no site www.jogosbr.org.br
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

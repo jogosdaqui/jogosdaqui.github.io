@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - fan-art</title>
+ <link href="http://example.com/tags/fan-art/index.xml" rel="self"/>
+ <link href="http://example.com/tag/fan-art.html"/>
+ <updated>2018-11-15T10:15:39-02:00</updated>
+ <id>http://example.com/tag/fan-art.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Fan arts de Chroma Squad</title>
+   <link href="http://example.com/2015/05/07/fan-arts-de-chroma-squad"/>
+   <updated>2015-05-07T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/07/fan-arts-de-chroma-squad</id>
+   <content type="html">&lt;p&gt;Com o grande lançamento de &lt;a href=&quot;http://chromasquad.com/&quot;&gt;Chroma Squad&lt;/a&gt; no último dia 30, surgiram diversas imagens feitas por jogadores que aguardavam ansiosamente pelo game. O jogosdaqui selecionou as mais bonitas. Confira!&lt;/p&gt;
+
+&lt;h2 id=&quot;fan-arts-de-chroma-squad&quot;&gt;Fan arts de Chroma Squad&lt;/h2&gt;
+&lt;p&gt;Washington Rayk - &lt;a href=&quot;https://twitter.com/beholdstudios/status/580081873419788288&quot;&gt;https://twitter.com/beholdstudios/status/580081873419788288&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/07/fan-arts-de-chroma-squad/ChromaSquad_FanArt_WashingtonRayk.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Tamyres Iracet - &lt;a href=&quot;https://twitter.com/TamyresIracet/status/593470007348228098&quot;&gt;https://twitter.com/TamyresIracet/status/593470007348228098&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/07/fan-arts-de-chroma-squad/ChromaSquad_FanArt_TamyresIracet.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Dex Drakon - &lt;a href=&quot;https://twitter.com/beholdstudios/status/593491602582183936&quot;&gt;https://twitter.com/beholdstudios/status/593491602582183936&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/07/fan-arts-de-chroma-squad/ChromaSquad_FanArts_DexDragon.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Betu - &lt;a href=&quot;https://twitter.com/betuiau/status/593505782877917185&quot;&gt;https://twitter.com/betuiau/status/593505782877917185&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/07/fan-arts-de-chroma-squad/ChromaSquad_FanArts_Betu.png &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Memosky - &lt;a href=&quot;http://memoski.deviantart.com/art/Chroma-Squad-528324139&quot;&gt;http://memoski.deviantart.com/art/Chroma-Squad-528324139&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/07/fan-arts-de-chroma-squad/ChromaSquad_FanArt_Memoski.png &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;&lt;em&gt;Atualizado 09/05/14:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Paul Reinwand - &lt;a href=&quot;https://twitter.com/paulreinwand/status/596176706748059648&quot;&gt;https://twitter.com/paulreinwand/status/596176706748059648&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/07/fan-arts-de-chroma-squad/ChromaSquad_FanArt_PaulReinwand.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;&lt;em&gt;Atualizado 13/05/14:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;KSShaezer - &lt;a href=&quot;https://twitter.com/KSShaezer/status/597920017909305345&quot;&gt;https://twitter.com/KSShaezer/status/597920017909305345&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/07/fan-arts-de-chroma-squad/ChromaSquad_FanArts_KSShaezer.png &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;Você fez ou conhece mais alguma fan art de game brasileiro? &lt;a href=&quot;/sobre/&quot;&gt;Entre em contato conosco&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

@@ -101,6 +101,12 @@ Gameplay com bom humor
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Gameplay com bom humor
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Gameplay com bom humor
 <article class="post">
   <h1>Toren: primeiras impressões</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -160,7 +166,7 @@ Gameplay com bom humor
     
   
     
-      <img src="../../../../../images/galleries/2015/07/16/toren-primeiras-impresoes/InsertCoins_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/16/toren-primeiras-impresoes/InsertCoins_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>No dia do lançamento de Toren publicamos uma <a href="/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren/">entrevista com Alessandro Martinello</a>, onde o diretor criativo de Swordtales falava sobre o processo de criação do jogo, desafios e expectativas. Agora chegou a hora de publicarmos as primeiras impressões da equipe do canal Insert Coins em relação ao game.</p>
@@ -183,7 +189,8 @@ Gameplay com bom humor
       </center>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -191,11 +198,15 @@ Gameplay com bom humor
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
-      <img src="../../../../../images/galleries/2015/07/16/toren-primeiras-impresoes/InsertCoins_Toren.png"/> 
+      <img src="/images/galleries/2015/07/16/toren-primeiras-impresoes/InsertCoins_Toren.png"/> 
   
  </center>
+ 
+
 
 
   </div>
@@ -249,20 +260,6 @@ Gameplay com bom humor
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

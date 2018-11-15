@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,99 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/03/05/estrategia-f1">Estratégia F1</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2006/03/05/estrategia-f1/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Em Estratégia F1, o jogador administra uma equipe de fórmula 1 em todos os aspectos: desde o contrato de fornecedores até o ajuste do carro para a corrida, passando por treinamentos de boxes, pilotos, mecânicos, negociação com patrocinadores, desenvolvimento de chassis e até mesmo o relacionamento como outros pilotos reais...
-    </div>
-
-    <a href="/2006/03/05/estrategia-f1" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento">PalmSoft, novos jogos em desenvolvimento</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A PalmSoft Tecnologia
- colocou no forno dois novos jogos: Inferi DII, jogo de ação
- com enredo baseado na mitologia grega e Essence um RPG
- tático
-.Os jogos serão publicados pela MDEV
-, mas ainda não foi divulgada a data de lançamento.
-
-    </div>
-
-    <a href="/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/04/conecta-4-experience">Conecta 4 - Experience</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    Conecta 4 - Experience é um jogo de quebra-cabeça, onde o nome já diz a regra: o jogador deve conectar quatro amebas (isso mesmo, amebas) em linha, coluna ou diagonal.O grande desafio de Conecta 4 - Experience é que o jogador não joga sozinho como na maioria dos jogos de...
-    </div>
-
-    <a href="/2006/03/04/conecta-4-experience" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/03/03/vestibular-para-desenvolver-jogos">Vestibular para desenvolver jogos</a></h1>
@@ -215,6 +133,8 @@
     <a href="/2006/03/03/vestibular-para-desenvolver-jogos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/02/showroom-interativo-para-os-jogos-nacionais">Showroom interativo para os jogos nacionais</a></h1>
@@ -237,6 +157,8 @@
     <a href="/2006/03/02/showroom-interativo-para-os-jogos-nacionais" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/02/mostra-permanente-de-jogos-e-projetos-brasileiros">Mostra permanente de jogos e projetos brasileiros</a></h1>
@@ -255,6 +177,8 @@
     <a href="/2006/03/02/mostra-permanente-de-jogos-e-projetos-brasileiros" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/02/hq-taikodom-numero-zero">HQ Taikodom Número Zero</a></h1>
@@ -273,6 +197,23 @@
     <a href="/2006/03/02/hq-taikodom-numero-zero" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/02/24/previa-de-golden-west-bang-bang">Prévia de Golden West - Bang! Bang!</a></h1>
@@ -294,6 +235,8 @@
     <a href="/2006/02/24/previa-de-golden-west-bang-bang" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/24/golden-west-bang-bang">Golden West - Bang! Bang!</a></h1>
@@ -318,6 +261,8 @@
     <a href="/2006/02/24/golden-west-bang-bang" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/23/wsg-web-soccer-game">WSG - Web Soccer Game</a></h1>
@@ -338,6 +283,69 @@
     </div>
 
     <a href="/2006/02/23/wsg-web-soccer-game" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/23/mobile-mixer-e-meantime-apresentam-novidades-na-telexpo-2006">Mobile Mixer e Meantime apresentam novidades na Telexpo 2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Empresas se associam para ampliar base de oferta de projetos para plataformas móveis e demonstram nova ferramenta de gerenciamento de conteúdo.A Mobile Mixer entra em uma nova fase de operação com a entrada da Meantime Mobile Creations (integrante do Grupo C.E.S.A.R – Centro de Estudos e Sistemas Avançados do Recife)...
+    </div>
+
+    <a href="/2006/02/23/mobile-mixer-e-meantime-apresentam-novidades-na-telexpo-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/23/meantime-fecha-parceria-com-mixer">Meantime fecha parceria com Mixer</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A Meantime Mobile Creations, desenvolvedora e distribuidora de jogos para celular, fechou parceria com a Mixer, empresa do mercado audiovisual.A parceria visa a ampliação de projetos para plataformas móveis.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/02/23/meantime-fecha-parceria-com-mixer" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/23/confira-a-previa-do-wsg-web-soccer-game">Confira a Prévia do WSG - Web Soccer Game</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A Knum3D, uma nova produtora de jogos nacionais está entrando em cena com a produção de alguns jogos, dentre eles está o WSG - Web Soccer Game, que é um jogo de futebol baseados em turnos.Confira a prévia aqui…
+
+    </div>
+
+    <a href="/2006/02/23/confira-a-previa-do-wsg-web-soccer-game" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -370,20 +378,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

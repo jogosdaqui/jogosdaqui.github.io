@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,86 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/02/11/voce-sera-um-guerreiro">Você será um guerreiro</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
- </center>
-    
-    Hugo Tiberius é o seu nome, a sua missão é lutar por glória, fama e fortuna em várias arenas.Esse é Gladiarena, jogo em desenvolvimento pela PalmSoft Tecnologia . Gladiarena é um jogo de ação para celular com visual 2D onde o jogador tem uma visão aérea do cenário e personagens....
-    </div>
-
-    <a href="/2006/02/11/voce-sera-um-guerreiro" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/11/tilt-online-fecha-parceria">TILT online fecha parceria</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A TILT online
- fechou parceria com o site Minimidia
-. A iniciativa pretende auxiliar na divulgação de jogos em desenvolvimento e sites relacionados a produção de jogos no Brasil.Leia mais…
-
-
-    </div>
-
-    <a href="/2006/02/11/tilt-online-fecha-parceria" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/08/newsabragames-fevereiro-2006">NewsAbragames - Fevereiro/2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Está no ar mais uma edição da NewsAbragames.A newsletter deste mês da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos, traz uma review sobre o jogo Die Pferbebande da empresa Oniria Entertainment , os destaques na imprensa, informações sobre o Concurso JogosBR , o lançamento da versão beta do jogo Imagem...
-    </div>
-
-    <a href="/2006/02/08/newsabragames-fevereiro-2006" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/02/07/pedreiro-polar">Pedreiro Polar</a></h1>
@@ -201,7 +132,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/02/07/pedreiro-polar/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/02/07/pedreiro-polar/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -211,6 +142,8 @@
     <a href="/2006/02/07/pedreiro-polar" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/05/star-athletes">Star Athletes</a></h1>
@@ -224,7 +157,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/02/05/star-athletes/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/02/05/star-athletes/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -235,6 +168,8 @@
     <a href="/2006/02/05/star-athletes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/03/rally-dos-sertoes-2005">Rally dos Sertões 2005</a></h1>
@@ -252,7 +187,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/02/03/rally-dos-sertoes-2005/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -262,6 +197,8 @@
     <a href="/2006/02/03/rally-dos-sertoes-2005" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/03/mdev-jogos-para-celular">MDEV: jogos para celular</a></h1>
@@ -286,6 +223,23 @@
     <a href="/2006/02/03/mdev-jogos-para-celular" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/02/03/faroeste">Faroeste</a></h1>
@@ -301,7 +255,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/02/03/faroeste/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/02/03/faroeste/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -311,6 +265,8 @@
     <a href="/2006/02/03/faroeste" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/01/lauras-tierklinik">Laura&#39;s Tierklinik</a></h1>
@@ -335,6 +291,8 @@
     <a href="/2006/02/01/lauras-tierklinik" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/31/show-de-bola">Show de Bola</a></h1>
@@ -359,6 +317,84 @@
     </div>
 
     <a href="/2006/01/31/show-de-bola" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/31/shangai">Shangai</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2006/01/31/shangai/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Com Shangai você pode jogar o clássico dominó chinês diretamente na internet.Na primeira vez que você vê o tabuleiro, o jogo pode parecer complexo, mas na verdade é simples. A regra básica é clicar em 2 peças idênticas para removê-las, apenas as peças totalmente visíveis e não bloqueadas por outras...
+    </div>
+
+    <a href="/2006/01/31/shangai" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/31/previa-de-show-de-bola">Prévia de Show de Bola</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Futebol é uma paixão nacional. A Meantime
+ sabe muito bem disso e já está preparando o seu jogo de futebol.Show de Bola está em desenvolvimento, mas já promete muita diversão e boas risadas na tela do celular.Confira a prévia …
+
+
+    </div>
+
+    <a href="/2006/01/31/previa-de-show-de-bola" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/31/fencer-duel">Fencer Duel</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2006/01/31/fencer-duel/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    A Arte da Esgrima agora no seu celular. Desafie seu oponente para um combate e use toda sua destreza para vencer o duelo. São três níveis de dificuldade e um modo sobrevivência para jogadores avançados.
+
+    </div>
+
+    <a href="/2006/01/31/fencer-duel" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -391,20 +427,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

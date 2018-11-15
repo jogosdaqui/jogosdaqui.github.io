@@ -104,6 +104,12 @@ Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 
 <article class="post">
   <h1>Bears & Bees</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -179,7 +185,8 @@ Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 
 <p>O jogo possui dois modos: Arcade Mode e Puzzle Mode. No arcade mode o que vale é a velocidade, nunca deixando o urso com fome. No puzzle mode, o importante é fazer as melhores jogadas para passar ao próximo nível.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -187,29 +194,33 @@ Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_03.jpg">
-          <img src="../../../../../images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_03.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_03.jpg">
+          <img src="/images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_03.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_01.jpg">
-          <img src="../../../../../images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_01.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_01.jpg">
+          <img src="/images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_01.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_04.jpg">
-          <img src="../../../../../images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_04.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_04.jpg">
+          <img src="/images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_04.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_02.jpg">
-          <img src="../../../../../images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_02.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_02.jpg">
+          <img src="/images/galleries/2005/12/17/bears-bees/DevWorks_BearsAndBees_02.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -231,6 +242,7 @@ Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 
     });
   });
 </script>
+
 
   </div>
 
@@ -279,20 +291,6 @@ Para conseguir isso o jogador tem uma colméia a sua disposição, basta juntar 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

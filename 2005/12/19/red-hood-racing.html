@@ -104,6 +104,12 @@ Chapeuzinho está na floresta levando doces para a vovozinha e o terrível Lobo 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ Chapeuzinho está na floresta levando doces para a vovozinha e o terrível Lobo 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ Chapeuzinho está na floresta levando doces para a vovozinha e o terrível Lobo 
 <article class="post">
   <h1>Red Hood Racing</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -167,7 +173,7 @@ Chapeuzinho está na floresta levando doces para a vovozinha e o terrível Lobo 
     
   
     
-      <img src="../../../../../images/galleries/2005/12/19/red-hood-racing/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/19/red-hood-racing/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Você tem medo do Lobo Mau?
@@ -178,7 +184,8 @@ Fique na pele da Chapeuzinho, do Caçador ou do próprio Lobo!</p>
 <p>Escolha entre três níveis de dificuldade: o Lobo para devorar a chapeuzinho, o Caçador para defender a pequena menina ou a Chapeuzinho para levar os doces para a vovozinha. Com uma jogabilidade fácil e divertida, acerte os números que aparecem na tela para avançar seu personagem.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -186,29 +193,33 @@ Fique na pele da Chapeuzinho, do Caçador ou do próprio Lobo!</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_2.gif">
-          <img src="../../../../../images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_2.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_2.gif">
+          <img src="/images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_2.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_1.gif">
-          <img src="../../../../../images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_1.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_1.gif">
+          <img src="/images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_1.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_3.gif">
-          <img src="../../../../../images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_3.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_3.gif">
+          <img src="/images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_3.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_4.gif">
-          <img src="../../../../../images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_4.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_4.gif">
+          <img src="/images/galleries/2005/12/19/red-hood-racing/PalmSoft_RedHoodRacing_4.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -230,6 +241,7 @@ Fique na pele da Chapeuzinho, do Caçador ou do próprio Lobo!</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -278,20 +290,6 @@ Fique na pele da Chapeuzinho, do Caçador ou do próprio Lobo!</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,7 +110,96 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
+      <article class="page">
+  <div class="entry">
+    <div class="posts">
+ 
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados">Demos Jogáveis do JogosBR, projetos classificados</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Após anunciar os 18 projetos classificados do Concurso de Jogos Completos de Baixo Orçamento, o JogosBR divulga a lista dos 36 projetos classificados para o Concurso de Demos Jogáveis.A comissão julgadora selecionará os 8 melhores projetos e mais 4 projetos para a lista de espera.Confira a lista dos 36 classificados:1...
+    </div>
+
+    <a href="/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/03/meantime-fecha-parceria-com-goal-mobile">Meantime fecha parceria com Goal Mobile</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Lançado há poucos dias, Ronaldinho Total Control da Meantime é o primeiro fruto da parceria entre a empresa brasileira e a Goal Mobile.A Goal Mobile é uma empresa focada na gestão da imagem de atletas de nível internacional e clubes para mídias digitais, especialmente telefones móveis e internet.Até o início...
+    </div>
+
+    <a href="/2006/06/03/meantime-fecha-parceria-com-goal-mobile" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/02/jogosbr-18-projetos-classificados">JogosBR, 18 projetos classificados</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.Veja a lista dos projetos classificados…
+
+
+    </div>
+
+    <a href="/2006/06/02/jogosbr-18-projetos-classificados" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados">Jogos Completos de Baixo Orçamento, 18 projetos classificados</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.Confira a lista dos 18 projetos classificados em ordem alfabética:1 -...
+    </div>
+
+    <a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -118,13 +213,7 @@
 </script>
 
 <br> 
-      <article class="page">
-
-  <h1></h1>
-
-  <div class="entry">
-    <div class="posts">
-
+    
     <article class="post">
 
     <h1><a href="/2006/06/01/pergunte-para-a-sr-games">Pergunte para a SR-Games</a></h1>
@@ -143,6 +232,8 @@
     <a href="/2006/06/01/pergunte-para-a-sr-games" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/01/escolha-o-proximo-jogo-do-gametrack">Escolha o próximo jogo do Gametrack</a></h1>
@@ -165,6 +256,8 @@
     <a href="/2006/06/01/escolha-o-proximo-jogo-do-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/30/mais-de-war-of-malquidious">Mais de War of Malquidious</a></h1>
@@ -186,6 +279,8 @@
     <a href="/2006/05/30/mais-de-war-of-malquidious" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/29/ronaldinho-no-celular">Ronaldinho no celular</a></h1>
@@ -204,6 +299,8 @@
     <a href="/2006/05/29/ronaldinho-no-celular" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/27/devworks-lanca-pinogol-3d">Devworks lança Pinogol 3D</a></h1>
@@ -222,6 +319,8 @@
     <a href="/2006/05/27/devworks-lanca-pinogol-3d" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas">Jogo da Sedução é sucesso de vendas</a></h1>
@@ -242,89 +341,6 @@ no mês de maio.Leia mais…
     </div>
 
     <a href="/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/05/24/transicao-de-era-no-ryudragon">Transição de Era no Ryudragon</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    O RPG online Ryudragon , da Decadium Studios , entrou em transição de Era. Os vencedores da 6ª Era foram conhecidos e premiados.Do dia 25 de maio até 12 de junho o jogo estará na chamada Era Beta, onde todos os jogadores terão privilégios para testar as novidades da próxima...
-    </div>
-
-    <a href="/2006/05/24/transicao-de-era-no-ryudragon" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/05/23/enquete-qual-a-sua-area-preferida-no-jogosdaqui">Enquete: Qual a sua área preferida no jogosdaqui?</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Enquete nova no ar, queremos saber qual a área do jogosdaqui preferida por você. Dê a sua opinião.O resultado final da enquete anterior, "Com que frequência você joga no celular?":
-
-    39.45% Nunca
-    26.61% Raramente
-    19.27% Todos os dias
-    14.68% Sempre que sobra um tempo
-
-
-
-    </div>
-
-    <a href="/2006/05/23/enquete-qual-a-sua-area-preferida-no-jogosdaqui" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/05/22/palmsoft-coloca-a-seducao-em-jogo">PalmSoft coloca a sedução em jogo</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A PalmSoft
- lançou o Jogo da Sedução, jogo com temática mais adulta, onde o jogador ajuda sua sedutora a ser eleita a mulher mais sedutora do país.Leia mais…
-
-
-    </div>
-
-    <a href="/2006/05/22/palmsoft-coloca-a-seducao-em-jogo" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006">Lista de projetos do JogosBR 2005/2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    As listas de projetos enviados para os concursos do JogosBR 2005/2006 foi liberada, confira abaixo os gráficos de projetos por estado e as listas completas: Jogos Completos de Baixo Orçamento 1- A Traça Teca - Reconstruindo a História do BrasilImax Games Entretenimento - SP2- AnimaliensDogma Graphics - RJ3- As Aventuras...
-    </div>
-
-    <a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -360,20 +376,6 @@ no mês de maio.Leia mais…
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

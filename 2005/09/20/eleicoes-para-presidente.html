@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Eleições para presidente</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -154,14 +160,15 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/eleicoes-para-presidente/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/eleicoes-para-presidente/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Já pensou o que significa participar de uma campanha à presidência da república? Ou uma campanha para prefeito da sua cidade? Ter que decidir entre ações importantes, meritórias e outras nem tanto assim? E mais, fazer tudo isso e no final não ver seu nome envolvido em nenhum escândalo ou metido em alguma investigação do ministério público?</p>
 
 <p>Pois agora você não precisa ficar só na imaginação: a TILT lança as bases sólidas para que você assuma a sua própria campanha eleitoral. E, se quiser, você pode entrar nesta na pele de algum candidato de verdade, pois o jogo permite redefinir nomes e fotos de candidatos.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -169,11 +176,15 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
-      <img src="../../../../../images/galleries/2005/09/20/eleicoes-para-presidente/fig11.gif"/> 
+      <img src="/images/galleries/2005/09/20/eleicoes-para-presidente/fig11.gif"/> 
   
  </center>
+ 
+
 
 
   </div>
@@ -221,20 +232,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

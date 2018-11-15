@@ -101,6 +101,12 @@ No sistema de Paithon, um grupo de seres que dão forma a uma civilização pac�
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ No sistema de Paithon, um grupo de seres que dão forma a uma civilização pac�
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ No sistema de Paithon, um grupo de seres que dão forma a uma civilização pac�
 <article class="post">
   <h1>Guimo</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -162,7 +168,7 @@ No sistema de Paithon, um grupo de seres que dão forma a uma civilização pac�
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/guimo/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/guimo/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Durante o seu primeiro ano de atividade, a Southlogic Studios produziu um jogo de tiro 2D de plataformas chamado Guimo. Ele foi publicado no Brasil e na Europa em 1997.</p>
@@ -174,7 +180,8 @@ No sistema de Paithon, um grupo de seres que dão forma a uma civilização pac�
 <p>Esta entidade conhecida como Necterion, após ter conquistado Bitland com seu exército, declarou que pretende a destruição do universo humano, adquirindo assim, bastante energia para dominar cada mente existente. Mas existe ainda um herói que possa enfrentar Necterion e restaurar a paz: Guimo! Destemido sentinela galáctico e garoto lagarto equipado com o mais incrível dos arsenais e acompanhado pelos seus amigos, os Eggy Robots, Guimo vai detonar em meio a cambadas de inimigos em busca de uma solução. Mas o perigo em torno de nós ainda continua, e para vencer Necterion as forças de ambos os mundos-irmão são necessárias, assim… Junte-se ao Guimo!</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -182,29 +189,33 @@ No sistema de Paithon, um grupo de seres que dão forma a uma civilização pac�
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/guimo/download_50.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/guimo/download_50.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/guimo/download_50.jpg">
+          <img src="/images/galleries/2005/09/20/guimo/download_50.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/guimo/download_49.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/guimo/download_49.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/guimo/download_49.jpg">
+          <img src="/images/galleries/2005/09/20/guimo/download_49.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/guimo/download_51.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/guimo/download_51.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/guimo/download_51.jpg">
+          <img src="/images/galleries/2005/09/20/guimo/download_51.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/guimo/download_52.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/guimo/download_52.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/guimo/download_52.jpg">
+          <img src="/images/galleries/2005/09/20/guimo/download_52.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -226,6 +237,7 @@ No sistema de Paithon, um grupo de seres que dão forma a uma civilização pac�
     });
   });
 </script>
+
 
   </div>
 
@@ -272,20 +284,6 @@ No sistema de Paithon, um grupo de seres que dão forma a uma civilização pac�
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,95 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/15/primeiras-imagens-de-os-conquistadores">Primeiras imagens de "Os Conquistadores"</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    A Dynamic Games liberou as primeiras imagens do jogo “Os Conquistadores”.
+
+Em Os Conquistadores você jogará na pele do 1° rei de Portugal, D. Afonso Henrique. O jogo promete muita ação em batalhas épicas.
+
+Aprecie 6 imagens do jogo em desenvolvimento:
+
+
+    </div>
+
+    <a href="/2005/12/15/primeiras-imagens-de-os-conquistadores" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/15/novas-imagens-de-taikodom">Novas imagens de Taikodom</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A Hoplon liberou mais 75 novas imagens de Taikodom.
+Confira as belas imagens no próprio site do jogo
+.
+
+Aproveite e entre
+ no extraordinário universo do promissor Taikodom.
+
+    </div>
+
+    <a href="/2005/12/15/novas-imagens-de-taikodom" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/14/novo-show-do-milhao">Novo Show do Milhão</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Lançado o Show do Milhão 2006. O jogo conta com 20.000 perguntas divididas em vários assuntos. O modo multiplayer e o ranking online são as grandes novidades desta nova versão.Show do Milhão 2006 foi desenvolvido pela Green Land Studios e está sendo distribuído pela Cia. do Software Confira o jogo...
+    </div>
+
+    <a href="/2005/12/14/novo-show-do-milhao" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/14/materia-sobre-desenvolvedores-de-jogos">Matéria sobre desenvolvedores de jogos</a></h1>
@@ -148,6 +222,23 @@ Veja a matéria neste link
     <a href="/2005/12/14/materia-sobre-desenvolvedores-de-jogos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/12/09/netherdeep">Netherdeep</a></h1>
@@ -159,7 +250,7 @@ Veja a matéria neste link
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/12/09/netherdeep/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/09/netherdeep/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -169,6 +260,8 @@ Veja a matéria neste link
     <a href="/2005/12/09/netherdeep" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/07/newsabragames-dezembro2005">NewsAbragames - Dezembro/2005</a></h1>
@@ -187,6 +280,8 @@ Veja a matéria neste link
     <a href="/2005/12/07/newsabragames-dezembro2005" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/05/taikodom-guerras-do-territorio">Taikodom, Guerras do Território</a></h1>
@@ -212,6 +307,8 @@ Confira o hotsite neste endereço: http://www.taikodom.com.br/hotsite_taiko
     <a href="/2005/12/05/taikodom-guerras-do-territorio" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/05/enquete-no-mundo-erinia">Enquete no Mundo Erinia</a></h1>
@@ -235,6 +332,8 @@ Para participar da enquente, clique aqui
     <a href="/2005/12/05/enquete-no-mundo-erinia" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/02/lancamento-de-the-game-producer">Lançamento de The Game Producer</a></h1>
@@ -258,6 +357,8 @@ Confira aqui The Game Producer…
     <a href="/2005/12/02/lancamento-de-the-game-producer" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/01/pequeno-guardiao-do-tempo">Pequeno Guardião do Tempo</a></h1>
@@ -296,63 +397,6 @@ Confira aqui The Game Producer…
     <a href="/2005/12/01/pequeno-guardiao-do-tempo" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2005/11/30/winguel-novo-jogo-nacional">Winguel, novo jogo Nacional</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A empresa gaúcha Espaço informática está apresentando um novo jogo que será lançado na Europa e Brasil no primeiro trimestre de 2006. O jogo chama-se Winguel na verdade é um centro de atividades com cinco jogos, além de materiais extra como impressões e papéis de parede.Na história do jogo, Winguel...
-    </div>
-
-    <a href="/2005/11/30/winguel-novo-jogo-nacional" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/29/der-pferderennstall-lancado-na-franca">Der Pferderennstall lançado na França</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Depois de grande sucesso na Alemanha, a Espaço Informática lança Der Pferderennstall na França, com o nome Hippodrome Tycoon. A versão brasileira, que se chamará Jóquei Clube, ainda está sem data de lançamento definida: “A Espaço produz jogos, mas hoje não trabalhamos com a distribuição. Estamos acertando os ultimos detalhes...
-    </div>
-
-    <a href="/2005/11/29/der-pferderennstall-lancado-na-franca" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/28/programadores-de-jogos-na-rede-globo">Programadores de jogos na Rede Globo</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    O Jornal Hoje, da Rede Globo, divulgou uma matéria sobre a profissão de programador de jogos no Brasil.
-Se você é apaixonado por jogos, precisa conferir a matéria neste link
-.
-
-    </div>
-
-    <a href="/2005/11/28/programadores-de-jogos-na-rede-globo" class="read-more">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -386,20 +430,6 @@ Se você é apaixonado por jogos, precisa conferir a matéria neste link
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

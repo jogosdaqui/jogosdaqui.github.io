@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/27/devworks-lanca-pinogol-3d">Devworks lança Pinogol 3D</a></h1>
@@ -138,6 +133,8 @@
     <a href="/2006/05/27/devworks-lanca-pinogol-3d" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/26/ronaldinho-total-control">Ronaldinho Total Control</a></h1>
@@ -168,6 +165,8 @@
     <a href="/2006/05/26/ronaldinho-total-control" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas">Jogo da Sedução é sucesso de vendas</a></h1>
@@ -190,6 +189,8 @@ no mês de maio.Leia mais…
     <a href="/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/24/transicao-de-era-no-ryudragon">Transição de Era no Ryudragon</a></h1>
@@ -208,6 +209,23 @@ no mês de maio.Leia mais…
     <a href="/2006/05/24/transicao-de-era-no-ryudragon" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/05/24/cat-fighters">Cat Fighters</a></h1>
@@ -231,7 +249,7 @@ no mês de maio.Leia mais…
     
   
     
-      <img src="../../../../../images/galleries/2006/05/24/cat-fighters/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/05/24/cat-fighters/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -241,6 +259,8 @@ no mês de maio.Leia mais…
     <a href="/2006/05/24/cat-fighters" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/23/enquete-qual-a-sua-area-preferida-no-jogosdaqui">Enquete: Qual a sua área preferida no jogosdaqui?</a></h1>
@@ -267,6 +287,8 @@ no mês de maio.Leia mais…
     <a href="/2006/05/23/enquete-qual-a-sua-area-preferida-no-jogosdaqui" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/22/palmsoft-coloca-a-seducao-em-jogo">PalmSoft coloca a sedução em jogo</a></h1>
@@ -288,6 +310,8 @@ no mês de maio.Leia mais…
     <a href="/2006/05/22/palmsoft-coloca-a-seducao-em-jogo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006">Lista de projetos do JogosBR 2005/2006</a></h1>
@@ -306,6 +330,8 @@ no mês de maio.Leia mais…
     <a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/22/jogosbr-2005-2006-lista-de-projetos">JogosBR 2005/2006, lista de projetos</a></h1>
@@ -326,6 +352,8 @@ no mês de maio.Leia mais…
     <a href="/2006/05/22/jogosbr-2005-2006-lista-de-projetos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/22/jogo-da-seducao">Jogo da Sedução</a></h1>
@@ -349,7 +377,7 @@ no mês de maio.Leia mais…
     
   
     
-      <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/05/22/jogo-da-seducao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -389,20 +417,6 @@ no mês de maio.Leia mais…
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

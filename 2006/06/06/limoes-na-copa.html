@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Limões na Copa</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -153,12 +159,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/06/06/limoes-na-copa/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/06/06/limoes-na-copa/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Limões na Copa foi incluído na campanha publicitária do refrigerante Pepsi Twist para aproveitar o período da Copa Mundial de Futebol 2006 e fortalecer a marca junto ao público alvo.<br /><br />O objetivo é controlar o limãozinho maroto para fazer vários truques com a bola e driblar os inimigos, em busca da maior quantidade de pontos. Mas cuidado! Toda a ação acontece sobre uma esteira rolante que leva direto a um espremedor gigante!</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -166,33 +173,37 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_620.png">
-          <img src="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_620.png"/>        
+        <li data-thumb="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_620.png">
+          <img src="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_620.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_618.png">
-          <img src="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_618.png"/>        
+        <li data-thumb="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_618.png">
+          <img src="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_618.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_617.png">
-          <img src="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_617.png"/>        
+        <li data-thumb="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_617.png">
+          <img src="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_617.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_616.png">
-          <img src="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_616.png"/>        
+        <li data-thumb="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_616.png">
+          <img src="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_616.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_619.png">
-          <img src="../../../../../images/galleries/2006/06/06/limoes-na-copa/Screenshot_619.png"/>        
+        <li data-thumb="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_619.png">
+          <img src="/images/galleries/2006/06/06/limoes-na-copa/Screenshot_619.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -214,6 +225,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -260,20 +272,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,40 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/03/faroeste">Faroeste</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2006/02/03/faroeste/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Em uma pequena cidade do velho oeste, sua missão é ajudar o Xerife a prender os bandidos.A tarefa não será fácil, pois você deverá participar de um duelo com cada um deles. Porém, só é permitido atirar em legítima defesa, ou você será preso. Você terá apenas uma bala para...
+    </div>
+
+    <a href="/2006/02/03/faroeste" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/01/lauras-tierklinik">Laura&#39;s Tierklinik</a></h1>
@@ -149,6 +168,8 @@
     <a href="/2006/02/01/lauras-tierklinik" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/31/shangai">Shangai</a></h1>
@@ -164,7 +185,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/01/31/shangai/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/31/shangai/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -174,6 +195,8 @@
     <a href="/2006/01/31/shangai" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/31/fencer-duel">Fencer Duel</a></h1>
@@ -189,7 +212,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/01/31/fencer-duel/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/31/fencer-duel/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -200,6 +223,23 @@
     <a href="/2006/01/31/fencer-duel" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/01/26/embaixadinha">Embaixadinha</a></h1>
@@ -215,7 +255,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/01/26/embaixadinha/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/26/embaixadinha/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -225,6 +265,8 @@
     <a href="/2006/01/26/embaixadinha" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/23/war-of-malquidious-2">War of Malquidious</a></h1>
@@ -243,6 +285,8 @@
     <a href="/2006/01/23/war-of-malquidious-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/23/palmsoft-drag-racer-2">PalmSoft Drag Racer</a></h1>
@@ -261,6 +305,8 @@
     <a href="/2006/01/23/palmsoft-drag-racer-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/18/tank-mission-2">Tank Mission 2</a></h1>
@@ -276,7 +322,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/01/18/tank-mission-2/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/18/tank-mission-2/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -286,6 +332,8 @@
     <a href="/2006/01/18/tank-mission-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/06/metablocks">Metablocks</a></h1>
@@ -301,7 +349,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/01/06/metablocks/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/06/metablocks/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -311,6 +359,8 @@
     <a href="/2006/01/06/metablocks" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/02/os-conquistadores">Os Conquistadores</a></h1>
@@ -337,35 +387,6 @@
     </div>
 
     <a href="/2006/01/02/os-conquistadores" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/12/26/volei-de-praia">Vôlei de Praia</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/12/26/volei-de-praia/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal Gametrack . Vôlei de Praia faz o maior sucesso entre os jogadores do portal. O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas diferenças: existe apenas um jogador...
-    </div>
-
-    <a href="/2005/12/26/volei-de-praia" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -401,20 +422,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

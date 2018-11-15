@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll">Chroma Squad Tactical RPG #003 - DO A BARREL ROLL!</a></h1>
@@ -133,7 +128,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -143,6 +138,8 @@
     <a href="/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/03/surge-a-game-academy-escola-online-focada-em-games">Surge a Game Academy, escola online focada em games</a></h1>
@@ -158,7 +155,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/07/03/surge-a-game-academy-escola-online-focada-em-games/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/03/surge-a-game-academy-escola-online-focada-em-games/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -168,6 +165,8 @@
     <a href="/2015/07/03/surge-a-game-academy-escola-online-focada-em-games" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/02/versao-beta-de-odallus-the-dark-call">Versão beta de Odallus - The Dark Call</a></h1>
@@ -179,7 +178,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/07/02/versao-beta-de-odallus-the-dark-call/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/02/versao-beta-de-odallus-the-dark-call/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -189,6 +188,8 @@
     <a href="/2015/07/02/versao-beta-de-odallus-the-dark-call" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/01/previa-de-dengue-over-da-ilusis-interactive">Prévia de Dengue Over da Ilusis Interactive</a></h1>
@@ -207,6 +208,23 @@
     <a href="/2015/07/01/previa-de-dengue-over-da-ilusis-interactive" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/06/30/souking-nova-loja-de-games-brasileiros">Souking, nova loja de games brasileiros</a></h1>
@@ -222,7 +240,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -232,6 +250,8 @@
     <a href="/2015/06/30/souking-nova-loja-de-games-brasileiros" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/06/22/imagens-da-semana-12">Imagens da semana #12</a></h1>
@@ -254,12 +274,14 @@
   
  </center>
     
-    #1 A Aquiris Game Studio convocando os jogadores de Ballistic para contribuir na classe The Vanguard” #2 O game HTR+ da QuByte Interactive vendido em caixinha na Alemanha” #3 A equipe da SouthBox trabalhando na UI do game Super Volley” #4” O BIG Festival lembrando que o lançamento do game...
+    #1 A Aquiris Game Studio convocando os jogadores de Ballistic para contribuir na classe The Vanguard #2 O game HTR+ da QuByte Interactive vendido em caixinha na Alemanha #3 A equipe da SouthBox trabalhando na UI do game Super Volley #4 O BIG Festival lembrando que o lançamento do game...
     </div>
 
     <a href="/2015/06/22/imagens-da-semana-12" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/06/20/previa-de-dog-duty-da-zanardi-liza">Prévia de Dog Duty da Zanardi & Liza</a></h1>
@@ -292,6 +314,8 @@
     <a href="/2015/06/20/previa-de-dog-duty-da-zanardi-liza" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios">Prévia de Peronio Pop-Up Book da Ovni Studios</a></h1>
@@ -336,6 +360,8 @@
     <a href="/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio">Prévia de Massive Madness da Ninja Garage Studio</a></h1>
@@ -366,6 +392,8 @@
     <a href="/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/06/15/imagens-da-semana-11">Imagens da semana #11</a></h1>
@@ -388,11 +416,9 @@
   
     
   
-    
-  
  </center>
     
-    #1 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss” #2 André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus” #3 Novos renders sendo trabalhados pela equipe da Reiza Studios” #4...
+    #1 Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss” #2 André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus #3 Novos renders sendo trabalhados pela equipe da Reiza Studios #4...
     </div>
 
     <a href="/2015/06/15/imagens-da-semana-11" class="read-more">Leia mais</a>
@@ -428,20 +454,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

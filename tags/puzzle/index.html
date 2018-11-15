@@ -84,6 +84,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,20 +105,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <h2>puzzle</h2>
 <ul>
 
@@ -120,7 +112,9 @@
 
   <li><a href="/2013/03/18/esquadrao-patada">Esquadrão Patada</a> (18/03/2013)</li>
 
-  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo &#39;150 jogos daqui&#39;</a> (18/05/2006)</li>
+  <li><a href="/2011/10/14/blluby">BLLUBY</a> (14/10/2011)</li>
+
+  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
 
   <li><a href="/2006/01/06/metablocks">Metablocks</a> (06/01/2006)</li>
 
@@ -136,20 +130,6 @@
 
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

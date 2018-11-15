@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,92 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/09/20/sandy-junior-aventura-virtual">Sandy & Junior - Aventura Virtual</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-  
- </center>
-    
-    Ajude Sandy e Junior a remover um poderoso vírus nos computadores da Universidade onde Sandy e Junior estudam. Este vírus destruirá todas as informações dos computadores e se espalhará pela Internet em 24 horas. Entre no laboratório de informática e remova o vírus imediatamente sem que seja visto pelos seguranças...
-    </div>
-
-    <a href="/2005/09/20/sandy-junior-aventura-virtual" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/20/quiz-maker">Quiz Maker</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-      <img src="../../../../../images/galleries/2005/09/20/quiz-maker/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Quem sabe mais: o homem ou a mulher? Qual é a cor do cavalo branco de Napoleão? De vinte cinco tira, quanto fica? Uótem som diú? Qual a fórmula química da água fresca? Informações sobre o Quiz Maker: Este é um sistema de jogo para ser jogado pela internet, em...
-    </div>
-
-    <a href="/2005/09/20/quiz-maker" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/20/quebra-cabeca">Quebra Cabeça</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-      <img src="../../../../../images/galleries/2005/09/20/quebra-cabeca/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    O desafio que vai fundir seu cérebro, quebrar seus ossos cranianos e testar a sua paciência.
-
-
-    </div>
-
-    <a href="/2005/09/20/quebra-cabeca" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/09/20/penguin-racer">Penguin Racer</a></h1>
@@ -203,7 +128,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/penguin-racer/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/penguin-racer/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -213,6 +138,8 @@
     <a href="/2005/09/20/penguin-racer" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/matchball-tennis">Matchball Tennis</a></h1>
@@ -230,7 +157,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/matchball-tennis/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/matchball-tennis/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -240,6 +167,8 @@
     <a href="/2005/09/20/matchball-tennis" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/mago-das-ervas">Mago das Ervas</a></h1>
@@ -251,7 +180,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/09/20/mago-das-ervas/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/mago-das-ervas/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -263,6 +192,8 @@
     <a href="/2005/09/20/mago-das-ervas" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/guimo">Guimo</a></h1>
@@ -278,7 +209,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/guimo/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/guimo/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -288,6 +219,23 @@
     <a href="/2005/09/20/guimo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/eleicoes-para-presidente">Eleições para presidente</a></h1>
@@ -301,7 +249,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/eleicoes-para-presidente/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/eleicoes-para-presidente/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -311,6 +259,8 @@
     <a href="/2005/09/20/eleicoes-para-presidente" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/desafio-na-floresta">Desafio na Floresta</a></h1>
@@ -324,7 +274,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/desafio-na-floresta/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/desafio-na-floresta/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -336,6 +286,8 @@
     <a href="/2005/09/20/desafio-na-floresta" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/cuana-toon">Cuana Toon</a></h1>
@@ -361,7 +313,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/cuana-toon/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/cuana-toon/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -369,6 +321,102 @@
     </div>
 
     <a href="/2005/09/20/cuana-toon" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/20/contato">Contato</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/20/contato/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Outro grande clássico é revivido aqui, neste jogo onde você põe sua memória a toda prova.
+
+Uma ótima opção de divertimento para toda a família.
+
+
+    </div>
+
+    <a href="/2005/09/20/contato" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/20/christmas-magic">Christmas Magic</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/20/christmas-magic/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Natal é tempo dar e receber presentes, tempo de alegria, de tranquilidade …. Tranquilidade? Bom, não exatamente para todos…. Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pelo mundo, e desta vez ele precisa de sua ajuda… Será que você pode ajudar Papai Noel...
+    </div>
+
+    <a href="/2005/09/20/christmas-magic" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/20/casa-dos-artistas">Casa dos Artistas</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Viva as emoções do reality-show de maior sucesso da TV brasileira… Casa dos Artistas ! Escolha seu personagem, defina suas características pessoais como caráter, resistência, ânimo, higiene, libido e carisma, e entre na competição ! Você deverá conquistar os participantes e o público, tentando se manter na Casa até a...
+    </div>
+
+    <a href="/2005/09/20/casa-dos-artistas" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -401,20 +449,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

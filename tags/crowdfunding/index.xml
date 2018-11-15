@@ -3,7 +3,7 @@
  <title>Your Title - crowdfunding</title>
  <link href="http://example.com/tags/crowdfunding/index.xml" rel="self"/>
  <link href="http://example.com/tag/crowdfunding.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/crowdfunding.html</id>
  <author>
    <name>Author Here</name>
@@ -69,20 +69,17 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
 &lt;p&gt;O que talvez você não saiba é que o game de 72 para o Atari 2600 foi desenvolvido por Steve Wozniak com uma ajuda de Steve Jobs, isso mesmo, os fundadores da Apple.&lt;/p&gt;
 
 &lt;h2 id=&quot;racketboy&quot;&gt;RacketBoy&lt;/h2&gt;
-&lt;p&gt;Agora imagine misturar o estilo do game criado por Woz e Jobs com o gênero shoot’em up e um garoto com uma raquete que pode rebater os tiros? Foi com essa salada de gêneros que a carioca &lt;a href=&quot;http://doubledashstudios.com/&quot; target=&quot;_blank&quot;&gt;Double Dash Studios&lt;/a&gt;
- deu origem ao seu game &lt;a href=&quot;http://racketboygame.com&quot; target=&quot;_blank&quot;&gt;RacketBoy&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;Agora imagine misturar o estilo do game criado por Woz e Jobs com o gênero shoot’em up e um garoto com uma raquete que pode rebater os tiros? Foi com essa salada de gêneros que a carioca &lt;a href=&quot;http://doubledashstudios.com/&quot;&gt;Double Dash Studios&lt;/a&gt; deu origem ao seu game &lt;a href=&quot;http://racketboygame.com&quot;&gt;RacketBoy&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;RacketBoy é um jogo sobre um garoto que tenta salvar a galáxia de criaturas com um poder destrutivo que só se equipara à sua fofura. Se esquivando das infinitas balas em seu caminho, RacketBoy voa com sua leal raquete e seu cachecol ao vento e rebate os tiros de volta aos inimigos. (comenta a equipe de desenvolvimento)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
-&lt;p&gt;Na &lt;a href=&quot;http://gamejolt.com/games/racketboy/80383&quot; target=&quot;_blank&quot;&gt;demo&lt;/a&gt;
- é possível apreciar um pouco do gameplay do game e sua mistura de estilos que funciona muito bem trazendo novos elementos tanto para os breaking games como para os shoot’em up. O início é mais leve para o jogador se adaptar aos controles e aos mecanismos, mas não demora muito para o game virar um bullet hell pra tenista nenhum botar defeito!&lt;/p&gt;
+&lt;p&gt;Na &lt;a href=&quot;http://gamejolt.com/games/racketboy/80383&quot;&gt;demo&lt;/a&gt; é possível apreciar um pouco do gameplay do game e sua mistura de estilos que funciona muito bem trazendo novos elementos tanto para os breaking games como para os shoot’em up. O início é mais leve para o jogador se adaptar aos controles e aos mecanismos, mas não demora muito para o game virar um bullet hell pra tenista nenhum botar defeito!&lt;/p&gt;
 
 &lt;h2 id=&quot;campanha-de-crowdfunding&quot;&gt;Campanha de crowdfunding&lt;/h2&gt;
-&lt;p&gt;A Double Dash é um studio indie, composto por 5 gamedevs, que recentemente iniciou uma campanha de crowdfunding no Indiegogo para ajudar no desenvolvimento do game: &lt;a href=&quot;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&quot; target=&quot;_blank&quot;&gt;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A Double Dash é um studio indie, composto por 5 gamedevs, que recentemente iniciou uma campanha de crowdfunding no Indiegogo para ajudar no desenvolvimento do game: &lt;a href=&quot;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&quot;&gt;https://www.indiegogo.com/projects/racketboy-shoot-em-up-block-breaking-madness&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Entre os objetivos da campanha que pretende arrecadar US$ 35.0000 estão a criação de 6 mundos para o game e 30 tipos de inimigos, além da geração procedural de ondas de inimigos o que permitirá ter um modo endless.&lt;/p&gt;
 
@@ -308,11 +305,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
    <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
    <updated>2015-05-15T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
-   <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&quot; target=&quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
- liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&amp;quot; target=&amp;quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt; liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
 
-&lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt;
- e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
+&lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&amp;quot; target=&amp;quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt; e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
 
 &lt;p&gt;No vídeo podemos conferir diversas fases do game além de alguns chefões de encher a tela, literalmente.&lt;/p&gt;
 
@@ -322,11 +317,10 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
       &lt;/center&gt;
 
 &lt;p&gt;Além do vídeo acima, também já falamos do CKE em outros momentos:&lt;/p&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;Prévia de Gryphon Knight Epic&lt;/a&gt;
-&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;
-&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;Prévia de Gryphon Knight Epic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

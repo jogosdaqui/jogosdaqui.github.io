@@ -119,6 +119,12 @@ Confira abaixo o documentário, vale cada segundo.  
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -134,20 +140,6 @@ Confira abaixo o documentário, vale cada segundo.  
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -168,7 +160,21 @@ Confira abaixo o documentário, vale cada segundo.  
 <article class="post">
   <h1>Documentário "A Mecânica do Jogo"</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -176,7 +182,7 @@ Confira abaixo o documentário, vale cada segundo.  
 <center>
   
     
-      <img src="../../../../../images/galleries/2010/12/18/documentario-a-mecanica-do-jogo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2010/12/18/documentario-a-mecanica-do-jogo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>“A Mecânica do Jogo” mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira.</p>
@@ -190,7 +196,8 @@ Confira abaixo o documentário, vale cada segundo.  
         <iframe src="https://www.youtube.com/embed/r8NKhmX-27Y " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -198,9 +205,8 @@ Confira abaixo o documentário, vale cada segundo.  
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -252,20 +258,6 @@ Confira abaixo o documentário, vale cada segundo.  
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -101,6 +101,12 @@ Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pe
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pe
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pe
 <article class="post">
   <h1>Christmas Magic</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -170,7 +176,7 @@ Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pe
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/christmas-magic/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/christmas-magic/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Natal é tempo dar e receber presentes, tempo de alegria, de tranquilidade …. Tranquilidade? Bom, não exatamente para todos….</p>
@@ -188,7 +194,8 @@ Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pe
 <p>Você terá que entregar os presentes certos para meninas e meninos, e tudo isso correndo contra o tempo para que a Noite de Natal seja de festa para todo mundo.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -196,41 +203,45 @@ Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pe
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/christmas-magic/tela2.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/christmas-magic/tela2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/christmas-magic/tela2.jpg">
+          <img src="/images/galleries/2005/09/20/christmas-magic/tela2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/christmas-magic/tela10.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/christmas-magic/tela10.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/christmas-magic/tela10.jpg">
+          <img src="/images/galleries/2005/09/20/christmas-magic/tela10.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/christmas-magic/tela9.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/christmas-magic/tela9.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/christmas-magic/tela9.jpg">
+          <img src="/images/galleries/2005/09/20/christmas-magic/tela9.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/christmas-magic/tela12.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/christmas-magic/tela12.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/christmas-magic/tela12.jpg">
+          <img src="/images/galleries/2005/09/20/christmas-magic/tela12.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/christmas-magic/tela1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/christmas-magic/tela1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/christmas-magic/tela1.jpg">
+          <img src="/images/galleries/2005/09/20/christmas-magic/tela1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/christmas-magic/tela8.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/christmas-magic/tela8.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/christmas-magic/tela8.jpg">
+          <img src="/images/galleries/2005/09/20/christmas-magic/tela8.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/christmas-magic/tela11.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/christmas-magic/tela11.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/christmas-magic/tela11.jpg">
+          <img src="/images/galleries/2005/09/20/christmas-magic/tela11.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -252,6 +263,7 @@ Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pe
     });
   });
 </script>
+
 
   </div>
 
@@ -296,20 +308,6 @@ Todo ano Papai Noel tem que voar contra o tempo para entregar todos presentes pe
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

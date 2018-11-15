@@ -125,6 +125,12 @@ Com visual surpreendente, cenários que convidam à exploração, humor desprete
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -140,20 +146,6 @@ Com visual surpreendente, cenários que convidam à exploração, humor desprete
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -174,7 +166,21 @@ Com visual surpreendente, cenários que convidam à exploração, humor desprete
 <article class="post">
   <h1>Preview de Talbot&#39;s Odissey</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -209,7 +215,8 @@ Felizmente, a vers&#227;o completa promete mais fases e armadilhas. Mas quem esp
 Com mais de 1.000 downloads desde seu lan&#231;amento, a demo &#233; uma amostra saborosa do que Talbot's Odissey pode vir a ser. Partindo de uma base t&#233;cnica t&#227;o bem acabada, a pequena equipe da Miniboss (quatro integrantes) tem tudo para corrigir as imperfei&#231;&#245;es, dilatar a curva de aprendizado e entregar um game sem igual no cen&#225;rio brasileiro e com boa probabilidade de sucesso comercial, aqui e l&#225; fora.
 </p></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -217,21 +224,25 @@ Com mais de 1.000 downloads desde seu lan&#231;amento, a demo &#233; uma amostra
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2011/02/18/preview-de-talbots-odissey/screenshot03.jpg">
-          <img src="../../../../../images/galleries/2011/02/18/preview-de-talbots-odissey/screenshot03.jpg"/>        
+        <li data-thumb="/images/galleries/2011/02/18/preview-de-talbots-odissey/screenshot03.jpg">
+          <img src="/images/galleries/2011/02/18/preview-de-talbots-odissey/screenshot03.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/02/18/preview-de-talbots-odissey/screenshot07.png">
-          <img src="../../../../../images/galleries/2011/02/18/preview-de-talbots-odissey/screenshot07.png"/>        
+        <li data-thumb="/images/galleries/2011/02/18/preview-de-talbots-odissey/screenshot07.png">
+          <img src="/images/galleries/2011/02/18/preview-de-talbots-odissey/screenshot07.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -253,6 +264,7 @@ Com mais de 1.000 downloads desde seu lan&#231;amento, a demo &#233; uma amostra
     });
   });
 </script>
+
 
   </div>
 
@@ -303,20 +315,6 @@ Com mais de 1.000 downloads desde seu lan&#231;amento, a demo &#233; uma amostra
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

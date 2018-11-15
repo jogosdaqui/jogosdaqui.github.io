@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Pinogol 3D</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -173,7 +179,8 @@
  </center>
     <p>Quem nunca jogou pinogol? O clássico jogo de mesa, onde um campo de futebol de madeira é palco para pinos fazerem grandes jogadas. Dois jogadores de cada lado do campo devem dar alguns  "petelecos" na bolinha para tentar marcar gols no adversário.<br /><br />A Devworks, da mesma forma que fez com Pebolin 3D, trouxe mais um famoso jogo de mesa sobre futebol para o mundo online do portal Gametrack.<br /><br />Em Pinogol 3D, o jogador disputa uma partida com outro jogador online. Cada jogador tem 11 atletas, ou melhor, pinos em seu lado do campo. Para fazer as jogadas, assim como era no jogo convencional, o jogador tem 2 jogadas por turno e deve "bater" na bolinha para tentar fazer o gol. O jogador pode jogar a bolinha contra seus pinos ou contra os pinos do adversário, vale tudo para tentar o gol.<br /><br />O jogo conta com um ambiente totalmente 3D, quando o jogador entra numa sala de jogo é transportado para um quarto onde está a mesa do jogo. São 3 câmeras disponíveis: visão superior, visão lateral e uma visão em 3/4. No momento de cada jogada a câmera se posiciona atrás da bolinha e se movimenta conforme a direção na qual o jogador aponta.<br /><br />Como todo jogo do portal Gametrack, Pinogol 3D conta com ranking online para você mostrar que também é fera no futebol de pinos.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -181,57 +188,61 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_613.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_613.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_613.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_613.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_607.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_607.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_607.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_607.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_606.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_606.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_606.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_606.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_608.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_608.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_608.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_608.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_614.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_614.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_614.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_614.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_611.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_611.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_611.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_611.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_615.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_615.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_615.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_615.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_610.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_610.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_610.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_610.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_612.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_612.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_612.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_612.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_609.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_609.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_609.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_609.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_605.png">
-          <img src="../../../../../images/galleries/2006/05/27/pinogol-3d/Screenshot_605.png"/>        
+        <li data-thumb="/images/galleries/2006/05/27/pinogol-3d/Screenshot_605.png">
+          <img src="/images/galleries/2006/05/27/pinogol-3d/Screenshot_605.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -253,6 +264,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -301,20 +313,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

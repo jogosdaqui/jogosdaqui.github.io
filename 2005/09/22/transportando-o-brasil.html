@@ -101,6 +101,12 @@ Transporte os mais diversos tipos de carga e ganhe créditos para comprar seu pr
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Transporte os mais diversos tipos de carga e ganhe créditos para comprar seu pr
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Transporte os mais diversos tipos de carga e ganhe créditos para comprar seu pr
 <article class="post">
   <h1>Transportando o Brasil</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -173,7 +179,8 @@ Transporte os mais diversos tipos de carga e ganhe créditos para comprar seu pr
 <p>Consiga os melhores caminhões e sinta na pele como é viajar por esse imenso país com Caminhões, Carretas, Bi-Trens. Seja o melhor, no fantástico mundo de Transportando o brasil.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -181,25 +188,29 @@ Transporte os mais diversos tipos de carga e ganhe créditos para comprar seu pr
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/transportando-o-brasil/transpbrasil2.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/transportando-o-brasil/transpbrasil2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/transportando-o-brasil/transpbrasil2.jpg">
+          <img src="/images/galleries/2005/09/22/transportando-o-brasil/transpbrasil2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/transportando-o-brasil/transpbrasil1.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/transportando-o-brasil/transpbrasil1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/transportando-o-brasil/transpbrasil1.jpg">
+          <img src="/images/galleries/2005/09/22/transportando-o-brasil/transpbrasil1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/transportando-o-brasil/transpbrasil4.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/transportando-o-brasil/transpbrasil4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/transportando-o-brasil/transpbrasil4.jpg">
+          <img src="/images/galleries/2005/09/22/transportando-o-brasil/transpbrasil4.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -221,6 +232,7 @@ Transporte os mais diversos tipos de carga e ganhe créditos para comprar seu pr
     });
   });
 </script>
+
 
   </div>
 
@@ -265,20 +277,6 @@ Transporte os mais diversos tipos de carga e ganhe créditos para comprar seu pr
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

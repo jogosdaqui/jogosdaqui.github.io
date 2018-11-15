@@ -182,6 +182,12 @@ O PowerUp é um evento que acontece na semana subsequente a Ludum Dare, sempre c
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -197,20 +203,6 @@ O PowerUp é um evento que acontece na semana subsequente a Ludum Dare, sempre c
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -231,7 +223,21 @@ O PowerUp é um evento que acontece na semana subsequente a Ludum Dare, sempre c
 <article class="post">
   <h1>Cobertura do evento PowerUp #2</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -281,7 +287,8 @@ O PowerUp é um evento que acontece na semana subsequente a Ludum Dare, sempre c
 
 <p>O PowerUp é um evento que acontece na semana subsequente a Ludum Dare, sempre com o mesmo formato: palestras + avaliação dos jogos produzidos durante a jam. Então ainda teremos outros durante este ano. Quando ocorrerá o próximo? Você saberá pelo jogosdaqui.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -289,33 +296,37 @@ O PowerUp é um evento que acontece na semana subsequente a Ludum Dare, sempre c
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_1.jpg">
-          <img src="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_1.jpg"/>        
+        <li data-thumb="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_1.jpg">
+          <img src="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_4.jpg">
-          <img src="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_4.jpg"/>        
+        <li data-thumb="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_4.jpg">
+          <img src="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_5.jpg">
-          <img src="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_5.jpg"/>        
+        <li data-thumb="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_5.jpg">
+          <img src="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_2.jpg">
-          <img src="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_2.jpg"/>        
+        <li data-thumb="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_2.jpg">
+          <img src="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_3.jpg">
-          <img src="../../../../../images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_3.jpg"/>        
+        <li data-thumb="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_3.jpg">
+          <img src="/images/galleries/2015/04/24/cobertura-do-evento-powerup-2/PowerUp_3.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -337,6 +348,7 @@ O PowerUp é um evento que acontece na semana subsequente a Ludum Dare, sempre c
     });
   });
 </script>
+
 
   </div>
 
@@ -397,20 +409,6 @@ O PowerUp é um evento que acontece na semana subsequente a Ludum Dare, sempre c
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

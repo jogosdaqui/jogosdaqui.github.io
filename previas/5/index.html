@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,82 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/10/incorporated">Incorporated</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    A empresa Interama foi formada a partir do projeto "Emprego Maluco", um dos projetos vencedores para produção de uma demo jogável do JogosBR do ano passado.Incorporated era conhecido na época da aprovação do JogosBR como "Emprego Maluco", porém o nome foi alterado por razões comerciais e de direitos autorais.Este é...
+    </div>
+
+    <a href="/2006/05/10/incorporated" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/26/previa-de-pinogol-3d">Prévia de Pinogol 3D</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    O jogo de futebol
+ com pinos é uma das próximas atrações do portal Gametrack
+.A Devworks
+ liberou as primeiras informações sobre o jogo. Pinogol 3D será mais um jogo multiplayer do portal.Veja a prévia…
+
+
+    </div>
+
+    <a href="/2006/04/26/previa-de-pinogol-3d" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/26/pinogol-3d">Pinogol 3D</a></h1>
@@ -136,7 +197,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/04/26/pinogol-3d/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/04/26/pinogol-3d/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -146,6 +207,8 @@
     <a href="/2006/04/26/pinogol-3d" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/29/estradas-esburacadas-mostra-seus-carros">Estradas Esburacadas mostra seus carros</a></h1>
@@ -186,6 +249,23 @@
     <a href="/2006/03/29/estradas-esburacadas-mostra-seus-carros" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/03/27/capoeira">Capoeira</a></h1>
@@ -212,6 +292,8 @@
     <a href="/2006/03/27/capoeira" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/27/brincando-com-a-memoria">Brincando com a Memória</a></h1>
@@ -236,6 +318,8 @@
     <a href="/2006/03/27/brincando-com-a-memoria" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/07/previa-de-fruzzle">Prévia de Fruzzle</a></h1>
@@ -258,6 +342,8 @@
     <a href="/2006/03/07/previa-de-fruzzle" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/07/fruzzle">Fruzzle</a></h1>
@@ -283,7 +369,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/07/fruzzle/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/07/fruzzle/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -293,6 +379,8 @@
     <a href="/2006/03/07/fruzzle" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/24/previa-de-golden-west-bang-bang">Prévia de Golden West - Bang! Bang!</a></h1>
@@ -314,6 +402,8 @@
     <a href="/2006/02/24/previa-de-golden-west-bang-bang" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/24/golden-west-bang-bang">Golden West - Bang! Bang!</a></h1>
@@ -336,48 +426,6 @@
     </div>
 
     <a href="/2006/02/24/golden-west-bang-bang" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/23/wsg-web-soccer-game">WSG - Web Soccer Game</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
- </center>
-    
-    WSG significa Web-Soccer Game, é um jogo baseado em turnos de futebol. Cada turno possui 30 (trinta) minutos e durante esse você administra seu time, arquiteta estratégias, treina jogadores, capacita seu técnico, negocia jogadores e desafia outros times.Para o jogador ter acesso aos comandos do jogo propriamente dito, é feito...
-    </div>
-
-    <a href="/2006/02/23/wsg-web-soccer-game" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/22/previa-de-danger-mission">Prévia de Danger Mission</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Você deve resgatar um famoso cientista sequestrado por terroristas para criar um perigoso vírus. Este é Danger Mission, jogo de tiro em 1ª pessoa em desenvolvimento pela WD Studio.A previsão de lançamento é para o segundo semestre.Veja a prévia…
-
-
-    </div>
-
-    <a href="/2006/02/22/previa-de-danger-mission" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -413,20 +461,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

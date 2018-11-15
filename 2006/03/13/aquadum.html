@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Aquadum</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -163,12 +169,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/13/aquadum/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/13/aquadum/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Um belo e colorido cenário subaquático e um desafio envolvente e crescente, essas são as combinações que fazem de Aquadum um ótimo jogo casual.<br /><br />A Decadium Studios se esmerou em vários pequenos detalhes do jogo, desde telas inicias até um dos fatores mais importantes de um bom jogo: a diversão. Com toda a certeza Aquadum é muito divertido, sua jogabilidade simples e intuitiva faz o jogador buscar rapidamente vencer as fases iniciais do jogo.<br /><br />Aquadum, como alguns outros jogos do gênero, é divido em três modos: Classic, Puzzle e Action. Em todos eles você deve girar pequenos canos e tentar ligar duas extremidades da tela, onde existem alguns objetos, porém cada modo possui uma forma e objetivo de jogo diferentes: <br /><br />Classic: no modo classic, a missão é limpar todos os níveis. Cada vez que objetos são conectados eles são eliminados o que possibilita que outros objetos se unam. Para fazer combos e ganhar muitos pontos, o jogador deve deixar três ou mais objetos iguais de cada lado juntos.<br /><br />Puzzle - neste modo, o jogador pode escolher a fase do quebra-cabeça. Aqui o jogador deve trocar os objetos de lado para colocá-los na ordem indicada.<br /><br />Action - neste modo a corrida é contra o tempo. O objetivo do modo action é unir o maior número de vezes os lados e no menor tempo possível.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -176,45 +183,49 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_408.png">
-          <img src="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_408.png"/>        
+        <li data-thumb="/images/galleries/2006/03/13/aquadum/Screenshot_408.png">
+          <img src="/images/galleries/2006/03/13/aquadum/Screenshot_408.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_403.png">
-          <img src="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_403.png"/>        
+        <li data-thumb="/images/galleries/2006/03/13/aquadum/Screenshot_403.png">
+          <img src="/images/galleries/2006/03/13/aquadum/Screenshot_403.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_406.png">
-          <img src="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_406.png"/>        
+        <li data-thumb="/images/galleries/2006/03/13/aquadum/Screenshot_406.png">
+          <img src="/images/galleries/2006/03/13/aquadum/Screenshot_406.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_405.png">
-          <img src="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_405.png"/>        
+        <li data-thumb="/images/galleries/2006/03/13/aquadum/Screenshot_405.png">
+          <img src="/images/galleries/2006/03/13/aquadum/Screenshot_405.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_410.png">
-          <img src="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_410.png"/>        
+        <li data-thumb="/images/galleries/2006/03/13/aquadum/Screenshot_410.png">
+          <img src="/images/galleries/2006/03/13/aquadum/Screenshot_410.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_409.png">
-          <img src="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_409.png"/>        
+        <li data-thumb="/images/galleries/2006/03/13/aquadum/Screenshot_409.png">
+          <img src="/images/galleries/2006/03/13/aquadum/Screenshot_409.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_404.png">
-          <img src="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_404.png"/>        
+        <li data-thumb="/images/galleries/2006/03/13/aquadum/Screenshot_404.png">
+          <img src="/images/galleries/2006/03/13/aquadum/Screenshot_404.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_407.png">
-          <img src="../../../../../images/galleries/2006/03/13/aquadum/Screenshot_407.png"/>        
+        <li data-thumb="/images/galleries/2006/03/13/aquadum/Screenshot_407.png">
+          <img src="/images/galleries/2006/03/13/aquadum/Screenshot_407.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -236,6 +247,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -282,20 +294,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

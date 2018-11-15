@@ -119,6 +119,12 @@ Além do protótipo rodando no iOS e no Android, o protótipo possui alguns dese
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -134,20 +140,6 @@ Além do protótipo rodando no iOS e no Android, o protótipo possui alguns dese
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -168,7 +160,21 @@ Além do protótipo rodando no iOS e no Android, o protótipo possui alguns dese
 <article class="post">
   <h1>Project Manolo</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -178,7 +184,7 @@ Além do protótipo rodando no iOS e no Android, o protótipo possui alguns dese
     
   
     
-      <img src="../../../../../images/galleries/2011/02/11/project-manolo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/02/11/project-manolo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>É comum vermos pequenas equipes de desenvolvimento de jogos, principalmente de outros países, criarem protótipos ou conceitos de games e, com isso, buscar a colaboração de outros profissionais, como modeladores 3D, animadores, ilustradores, game designers, e até investidores. Um bom exemplo disso é o game dinamarquês "Limbo", onde os dois sócios-fundadores da empresa Playdead criaram um video com o conceito do que seria o game e jogaram na internet, logo apareceram diversos colaboradores e alguns publishers interessados no game. O resto da história já conhecemos: <a href="http://jogos.uol.com.br/xbox360/ultnot/2010/08/20/ult4101u2667.jhtm" target="_blank">Independente, "Limbo" vendeu mais de 300 mil unidades</a>
@@ -195,7 +201,8 @@ Foi com essa mesma intenção de conseguir colaboradores e investidores que o de
 Quem sabe um dia anunciaremos o lançamento do game nascido deste projeto. É esperar para ver, ou melhor, esperar para jogar!</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -203,21 +210,25 @@ Quem sabe um dia anunciaremos o lançamento do game nascido deste projeto. É es
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2011/02/11/project-manolo/ManoloPlantoad.png">
-          <img src="../../../../../images/galleries/2011/02/11/project-manolo/ManoloPlantoad.png"/>        
+        <li data-thumb="/images/galleries/2011/02/11/project-manolo/ManoloPlantoad.png">
+          <img src="/images/galleries/2011/02/11/project-manolo/ManoloPlantoad.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/02/11/project-manolo/Manolo.png">
-          <img src="../../../../../images/galleries/2011/02/11/project-manolo/Manolo.png"/>        
+        <li data-thumb="/images/galleries/2011/02/11/project-manolo/Manolo.png">
+          <img src="/images/galleries/2011/02/11/project-manolo/Manolo.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -239,6 +250,7 @@ Quem sabe um dia anunciaremos o lançamento do game nascido deste projeto. É es
     });
   });
 </script>
+
 
   </div>
 
@@ -287,20 +299,6 @@ Quem sabe um dia anunciaremos o lançamento do game nascido deste projeto. É es
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

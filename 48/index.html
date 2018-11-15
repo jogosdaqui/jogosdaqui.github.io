@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,94 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/01/31/shangai">Shangai</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-      <img src="../../../../../images/galleries/2006/01/31/shangai/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Com Shangai você pode jogar o clássico dominó chinês diretamente na internet.Na primeira vez que você vê o tabuleiro, o jogo pode parecer complexo, mas na verdade é simples. A regra básica é clicar em 2 peças idênticas para removê-las, apenas as peças totalmente visíveis e não bloqueadas por outras...
-    </div>
-
-    <a href="/2006/01/31/shangai" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/01/31/previa-de-show-de-bola">Prévia de Show de Bola</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Futebol é uma paixão nacional. A Meantime
- sabe muito bem disso e já está preparando o seu jogo de futebol.Show de Bola está em desenvolvimento, mas já promete muita diversão e boas risadas na tela do celular.Confira a prévia …
-
-
-    </div>
-
-    <a href="/2006/01/31/previa-de-show-de-bola" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/01/31/fencer-duel">Fencer Duel</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2006/01/31/fencer-duel/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    A Arte da Esgrima agora no seu celular. Desafie seu oponente para um combate e use toda sua destreza para vencer o duelo. São três níveis de dificuldade e um modo sobrevivência para jogadores avançados.
-
-    </div>
-
-    <a href="/2006/01/31/fencer-duel" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/01/30/tank-mission-3">Tank Mission 3</a></h1>
@@ -221,6 +144,8 @@
     <a href="/2006/01/30/tank-mission-3" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/30/promocao-ano-10-assinatura-economica">Promoção Ano 10 = assinatura econômica</a></h1>
@@ -239,6 +164,8 @@
     <a href="/2006/01/30/promocao-ano-10-assinatura-economica" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/30/continuacao-de-tank-mission-2">Continuação de Tank Mission 2</a></h1>
@@ -260,6 +187,8 @@
     <a href="/2006/01/30/continuacao-de-tank-mission-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/29/tank-mission-3">Tank Mission 3</a></h1>
@@ -286,6 +215,23 @@ Fique com algumas imagens do jogo em desenvolvimento:
     <a href="/2006/01/29/tank-mission-3" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/01/26/novidades-no-gametrack">Novidades no Gametrack</a></h1>
@@ -304,6 +250,8 @@ Fique com algumas imagens do jogo em desenvolvimento:
     <a href="/2006/01/26/novidades-no-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/26/embaixadinha">Embaixadinha</a></h1>
@@ -319,7 +267,7 @@ Fique com algumas imagens do jogo em desenvolvimento:
     
   
     
-      <img src="../../../../../images/galleries/2006/01/26/embaixadinha/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/26/embaixadinha/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -329,6 +277,8 @@ Fique com algumas imagens do jogo em desenvolvimento:
     <a href="/2006/01/26/embaixadinha" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/25/hoplon-ganha-premio-da-ibm-brasil">Hoplon ganha prêmio da IBM Brasil</a></h1>
@@ -340,7 +290,7 @@ Fique com algumas imagens do jogo em desenvolvimento:
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/01/25/hoplon-ganha-premio-da-ibm-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/25/hoplon-ganha-premio-da-ibm-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -348,6 +298,70 @@ Fique com algumas imagens do jogo em desenvolvimento:
     </div>
 
     <a href="/2006/01/25/hoplon-ganha-premio-da-ibm-brasil" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/24/war-of-malquidious-e-palmsoft-drag-racer">War of Malquidious e PalmSoft Drag Racer</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Como anunciado anteriormente a PalmSoft Tecnologia acaba de lançar War of Malquidious
+ e PalmSoft Drag Racer
+ .Confira os dois jogos na nossa galeria…
+
+
+    </div>
+
+    <a href="/2006/01/24/war-of-malquidious-e-palmsoft-drag-racer" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/24/tilt-abre-jogo-comercial">TILT abre jogo comercial</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A TILT online inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.Para o lançamento da nova seção, a TILT disponibilzou o fonte de um jogo lançado em 1992.Essa é para quem, além de jogar, gosta...
+    </div>
+
+    <a href="/2006/01/24/tilt-abre-jogo-comercial" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/24/tilt-abre-jogo-comercial-feito-em-assembly">TILT abre jogo comercial feito em assembly</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A TILT online inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.A seção pertence ao club TILT porém todas as novas páginas dos projetos ficarão disponíveis para os não assinantes por um tempo. Assim, quem...
+    </div>
+
+    <a href="/2006/01/24/tilt-abre-jogo-comercial-feito-em-assembly" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -380,20 +394,6 @@ Fique com algumas imagens do jogo em desenvolvimento:
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

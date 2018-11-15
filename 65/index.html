@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,118 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/09/23/jokenpo">JoKenPo</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    Quem não conhece a famosa brincadeira pedra-papel-tesoura? Pois a Nology mais uma vez inovou e criou o JoKenPo, baseado no conceito desta brincadeira. Você será um dos personagens da trinca e seu objetivo é caçar todos os demais personagens que estão andando em um labirinto 3D. Se você for uma...
-    </div>
-
-    <a href="/2005/09/23/jokenpo" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/23/hello">Hello!</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/09/23/hello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    O Hello! é um jogo que une ação e estratégia, onde você deve estabelecer conexões telefônicas para eliminar os telefones que aparecem no tabuleiro. A regra é: não deixe a tela ser totalmente preenchida por telefones. Se você gosta de jogos que exigem velocidade e ação, escolha entre os modos...
-    </div>
-
-    <a href="/2005/09/23/hello" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/23/cookie-chef">Cookie Chef</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/09/23/cookie-chef/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Como o assistente do confeiteiro Ben, você trabalhará pesado para ajudá-lo a preparar biscoitos de forma rápida e eficiente. Se for bem sucedido, Ben irá certamente promover você a posições de maior responsabilidade dentro de sua confeitaria e, em mantendo o bom trabalho, você será um sério candidato ao posto...
-    </div>
-
-    <a href="/2005/09/23/cookie-chef" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/09/22/transportando-o-brasil">Transportando o Brasil</a></h1>
@@ -240,6 +139,8 @@
     <a href="/2005/09/22/transportando-o-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/22/o-monstruario">O Monstruário</a></h1>
@@ -253,7 +154,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/22/o-monstruario/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/22/o-monstruario/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -263,6 +164,8 @@
     <a href="/2005/09/22/o-monstruario" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/22/o-enigma-da-esfinge">O Enigma da Esfinge</a></h1>
@@ -287,6 +190,8 @@
     <a href="/2005/09/22/o-enigma-da-esfinge" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/22/jogo-das-trairas">Jogo das Traí­ras</a></h1>
@@ -311,6 +216,23 @@
     <a href="/2005/09/22/jogo-das-trairas" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/09/22/forte-apoio-ao-jogosdaqui">Forte apoio ao jogosdaqui</a></h1>
@@ -329,6 +251,8 @@
     <a href="/2005/09/22/forte-apoio-ao-jogosdaqui" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/22/die-pferdebande">Die Pferdebande</a></h1>
@@ -356,7 +280,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/22/die-pferdebande/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -366,6 +290,8 @@
     <a href="/2005/09/22/die-pferdebande" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/22/der-pferderennstall">Der Pferderennstall</a></h1>
@@ -402,6 +328,101 @@
     <a href="/2005/09/22/der-pferderennstall" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/21/taikodom">Taikodom</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/21/taikodom/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Taikodom é um Massively Multiplayer Online Game (MMO) baseado no universo desenvolvido pela Hoplon e o escritor de ficção científica Gerson Lodi-Ribeiro. É um game de ação em escala real, onde os jogadores terão a liberdade para pilotar naves, se organizar em corporações, enfim viver. Viver em um mundo novo...
+    </div>
+
+    <a href="/2005/09/21/taikodom" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/20/vbikes">Vbikes</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/20/vbikes/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Um emocionante jogo de ação esportivo, extremamente dinâmico, para vários jogadores. Seu objetivo é eliminar seus adversários usando como arma as Vbikes, motos virtuais ultra hi-tech, que deixam em seu rastro um muro de energia, no qual você deve fazer seus oponentes colidirem. Reflexos e raciocínio rápidos são requerimentos fundamentais...
+    </div>
+
+    <a href="/2005/09/20/vbikes" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/20/vampiromania">Vampiromania</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/20/vampiromania/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Em um pequeno vilarejo, numa noite de lua cheia, um acontecimento mudaria para sempre a vida daqueles moradores. Nicolae, pai de Andreea, gritava desesperado em frente a sua taverna. Todos correram para ver o que tinha acontecido. Junto à multidão, estava Teodor, um bravo homem, conhecido como um colecionador de...
+    </div>
+
+    <a href="/2005/09/20/vampiromania" class="read-more">Leia mais</a>
+    </article>
+
 </div>
 
 <!-- Pagination links -->
@@ -432,20 +453,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

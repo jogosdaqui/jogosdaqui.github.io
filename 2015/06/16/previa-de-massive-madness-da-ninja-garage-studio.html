@@ -131,6 +131,12 @@ História
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -146,20 +152,6 @@ História
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -180,7 +172,21 @@ História
 <article class="post">
   <h1>Prévia de Massive Madness da Ninja Garage Studio</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -232,7 +238,8 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
       </center>
 <p>Boas lembranças de Zombies Ate My Neighbors para Mega-Drive e SNES ao ver o vídeo acima.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -240,37 +247,41 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/ImagensDaSemana9_NinjaGarageStudioMassiveMadiness.jpg">
-          <img src="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/ImagensDaSemana9_NinjaGarageStudioMassiveMadiness.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/ImagensDaSemana9_NinjaGarageStudioMassiveMadiness.jpg">
+          <img src="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/ImagensDaSemana9_NinjaGarageStudioMassiveMadiness.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_5.jpg">
-          <img src="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_5.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_5.jpg">
+          <img src="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_6.jpg">
-          <img src="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_6.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_6.jpg">
+          <img src="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_2.jpg">
-          <img src="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_2.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_2.jpg">
+          <img src="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_4.jpg">
-          <img src="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_4.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_4.jpg">
+          <img src="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_1.jpg">
-          <img src="../../../../../images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_1.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_1.jpg">
+          <img src="/images/galleries/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio/NinjaGarageStudio_MassiveMadness_1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -292,6 +303,7 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
     });
   });
 </script>
+
 
   </div>
 
@@ -356,20 +368,6 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

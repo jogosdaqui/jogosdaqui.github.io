@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Game brasileiro Paper Cat ajuda ONGs</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -156,29 +162,28 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa.</p>
 
-<p>É nessa ideia que o game <a href="http://papercatgame.tumblr.com/" target="_blank">Paper Cat</a>
- da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.</p>
+<p>É nessa ideia que o game <a href="http://papercatgame.tumblr.com/">Paper Cat</a> da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.</p>
 
 <p>Durante suas aventuras Slick precisa resolver puzzles enquanto evita acordar seu dono Frank.</p>
 
 <h2 id="adoção-e-proteção">Adoção e proteção</h2>
-<p>Um fato muito interessante do projeto: parte do lucro das vendas do jogo será revertida para ONGs de adoção de gatos. Na fanpage do projeto existem mais informações sobre a iniciativa: <a href="https://www.fb.com/papercatgame" target="_blank">https://www.fb.com/papercatgame</a></p>
+<p>Um fato muito interessante do projeto: parte do lucro das vendas do jogo será revertida para ONGs de adoção de gatos. Na fanpage do projeto existem mais informações sobre a iniciativa: <a href="https://www.fb.com/papercatgame">https://www.fb.com/papercatgame</a>.</p>
 
 <h2 id="plataformas-e-lançamento">Plataformas e lançamento</h2>
-<p>O game já iniciou sua <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=499203717" target="_blank">campanha de Greenlight</a>
- e deve ser lançado em meados de 2016 para PC e MAC, sendo que ainda existe possibilidade de sair para PS4 e XBox One no futuro.</p>
+<p>O game já iniciou sua <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=499203717">campanha de Greenlight</a> e deve ser lançado em meados de 2016 para PC e MAC, sendo que ainda existe possibilidade de sair para PS4 e XBox One no futuro.</p>
 
 <h2 id="vídeo-de-paper-cat">Vídeo de Paper Cat</h2>
 <center>
         <iframe src="https://www.youtube.com/embed/pfdqk59ZxZ4 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -186,21 +191,25 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/Ilusis_PaperCat_02.jpg">
-          <img src="../../../../../images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/Ilusis_PaperCat_02.jpg"/>        
+        <li data-thumb="/images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/Ilusis_PaperCat_02.jpg">
+          <img src="/images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/Ilusis_PaperCat_02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/Ilusis_PaperCat_01.jpg">
-          <img src="../../../../../images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/Ilusis_PaperCat_01.jpg"/>        
+        <li data-thumb="/images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/Ilusis_PaperCat_01.jpg">
+          <img src="/images/galleries/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs/Ilusis_PaperCat_01.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -223,6 +232,7 @@
   });
 </script>
 
+
   </div>
 
   <div class="date">
@@ -240,11 +250,13 @@
     
         <a href="/tags/greenlight" class="post-tag">greenlight</a>
     
+        <a href="/tags/windows" class="post-tag">windows</a>
+    
+        <a href="/tags/mac" class="post-tag">mac</a>
+    
         <a href="/tags/ps4" class="post-tag">ps4</a>
     
         <a href="/tags/xbox-one" class="post-tag">xbox-one</a>
-    
-        <a href="/tags/xbox" class="post-tag">xbox</a>
     
 </span>
   <br>
@@ -282,20 +294,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

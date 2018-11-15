@@ -101,6 +101,12 @@ Matchball apresenta uma nova maneira de controle, onde guias, que auxiliam o seu
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Matchball apresenta uma nova maneira de controle, onde guias, que auxiliam o seu
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Matchball apresenta uma nova maneira de controle, onde guias, que auxiliam o seu
 <article class="post">
   <h1>Matchball Tennis</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -164,7 +170,7 @@ Matchball apresenta uma nova maneira de controle, onde guias, que auxiliam o seu
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/matchball-tennis/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/matchball-tennis/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Jogo de tênis desenvolvido pela empresa gaúcha Espaço Informática para o mercado brasileiro e europeu.
@@ -189,7 +195,8 @@ Modo multiplayer para dois jogadores, em rede local ou pela Internet. Baseado no
 Matchball é desenvolvido com tecnologia no estado atual da arte. Gráficos completamente 3D, em milhões de cores, e alta resolução. Menus com design inovador, texturas de alta qualidade, e alto nível de finalização. A trilha sonora, construída especialmente para o jogo, também é uma atração a parte. Veja o demo, jogue Matchball, e descubra como um jogo de esportes pode ser diferente, criativo e desafiante.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -197,37 +204,41 @@ Matchball é desenvolvido com tecnologia no estado atual da arte. Gráficos comp
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/matchball-tennis/t4g.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/matchball-tennis/t4g.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/matchball-tennis/t4g.jpg">
+          <img src="/images/galleries/2005/09/20/matchball-tennis/t4g.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/matchball-tennis/t3g.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/matchball-tennis/t3g.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/matchball-tennis/t3g.jpg">
+          <img src="/images/galleries/2005/09/20/matchball-tennis/t3g.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/matchball-tennis/t6g.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/matchball-tennis/t6g.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/matchball-tennis/t6g.jpg">
+          <img src="/images/galleries/2005/09/20/matchball-tennis/t6g.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/matchball-tennis/t7g.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/matchball-tennis/t7g.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/matchball-tennis/t7g.jpg">
+          <img src="/images/galleries/2005/09/20/matchball-tennis/t7g.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/matchball-tennis/t1g.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/matchball-tennis/t1g.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/matchball-tennis/t1g.jpg">
+          <img src="/images/galleries/2005/09/20/matchball-tennis/t1g.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/matchball-tennis/t8g.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/matchball-tennis/t8g.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/matchball-tennis/t8g.jpg">
+          <img src="/images/galleries/2005/09/20/matchball-tennis/t8g.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -249,6 +260,7 @@ Matchball é desenvolvido com tecnologia no estado atual da arte. Gráficos comp
     });
   });
 </script>
+
 
   </div>
 
@@ -297,20 +309,6 @@ Matchball é desenvolvido com tecnologia no estado atual da arte. Gráficos comp
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Vampiromania</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -162,7 +168,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/vampiromania/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/vampiromania/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Em um pequeno vilarejo, numa noite de lua cheia, um acontecimento mudaria para sempre a vida daqueles moradores. Nicolae, pai de Andreea, gritava desesperado em frente a sua taverna. Todos correram para ver o que tinha acontecido. Junto à multidão, estava Teodor, um bravo homem, conhecido como um colecionador de lendas e superstições. Nicolae leva Teodor até o quarto da jovem Andreea, que estava caída no chão, branca como neve, seus lábios roxos parecendo violetas. Teodor a examina e dá a notícia a Nicolae: ela está sob uma espécie de encanto. Neste momento, surge Ecaterina, uma bela mulher, mãe de Petru e esposa de Teodor.</p>
@@ -172,7 +178,8 @@
 <p>Ecaterina esbraveja com Teodor dizendo que a culpa é dele, que o Conde das Trevas teria mordido Andreea para se vingar da caçada implacável, praticamente obsessiva de Teodor. Teodor exclama que estão perdendo tempo. Destruir o Conde das Trevas, Vlad Tepes, antes do amanhecer é o único meio para salvar Andreea. O até então quieto Petru pergunta a todos o que estavam esperando. E assim partem, revelando um grande segredo.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -180,37 +187,41 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania2.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/vampiromania/vampiromania2.jpg">
+          <img src="/images/galleries/2005/09/20/vampiromania/vampiromania2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/vampiromania/vampiromania1.jpg">
+          <img src="/images/galleries/2005/09/20/vampiromania/vampiromania1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania6.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/vampiromania/vampiromania6.jpg">
+          <img src="/images/galleries/2005/09/20/vampiromania/vampiromania6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania4.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/vampiromania/vampiromania4.jpg">
+          <img src="/images/galleries/2005/09/20/vampiromania/vampiromania4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania3.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/vampiromania/vampiromania3.jpg">
+          <img src="/images/galleries/2005/09/20/vampiromania/vampiromania3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania5.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/vampiromania/vampiromania5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/vampiromania/vampiromania5.jpg">
+          <img src="/images/galleries/2005/09/20/vampiromania/vampiromania5.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -232,6 +243,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -276,20 +288,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

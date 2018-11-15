@@ -107,6 +107,12 @@ O game bebe diretamente na fonte de clássicos como Castlevania e Final Fantasy.
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -122,20 +128,6 @@ O game bebe diretamente na fonte de clássicos como Castlevania e Final Fantasy.
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -156,7 +148,21 @@ O game bebe diretamente na fonte de clássicos como Castlevania e Final Fantasy.
 <article class="post">
   <h1>Campanha do Soulbinder no Catarse</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -164,7 +170,7 @@ O game bebe diretamente na fonte de clássicos como Castlevania e Final Fantasy.
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/05/27/campanha-do-soulbinder-no-catarse/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/05/27/campanha-do-soulbinder-no-catarse/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A brasileria <a href="http://www.tendrils.com.br/">Tendrils Entertainment</a>
@@ -184,7 +190,8 @@ O game bebe diretamente na fonte de clássicos como Castlevania e Final Fantasy.
 <p><strong>Gostou? Então entre no Catarse, colabore e ajude a divulgar o projeto: <a href="http://catarse.me/pt/soulbinder">http://catarse.me/pt/soulbinder</a>
 </strong></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -192,9 +199,8 @@ O game bebe diretamente na fonte de clássicos como Castlevania e Final Fantasy.
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -244,20 +250,6 @@ O game bebe diretamente na fonte de clássicos como Castlevania e Final Fantasy.
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

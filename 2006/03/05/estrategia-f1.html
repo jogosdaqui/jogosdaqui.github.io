@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Estratégia F1</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -155,12 +161,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/05/estrategia-f1/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/05/estrategia-f1/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Em Estratégia F1, o jogador administra uma equipe de fórmula 1 em todos os aspectos: desde o contrato de fornecedores até o ajuste do carro para a corrida, passando por treinamentos de boxes, pilotos, mecânicos, negociação com patrocinadores, desenvolvimento de chassis e até mesmo o relacionamento como outros pilotos reais (jogadores).<br /><br />A variedade de opções para configurar a sua equipe é imensa. O jogador pode assinar contratos com engenheiros e fornecedores de pneu, motor, câmbio, suspensão e combustível. Pode escolher, entre dezenas de opções, o design do carro da equipe. Decide como desenvolver o chassi e aerodinâmica. Escolhe como serão feitos os treinamentos de piloto, equipe de box e mecânicos.<br /><br />Existem outra inúmeras opções, como: estratégia de corrida, análise de corrida, notícias, troca de mensagens entre os  donos de equipes, finanças, bolsa de valores e banco.<br /><br />Os donos das melhores equipes em cada temporada ganham prêmios reais. Aproveite e mostre que você sabe tudo sobre a melhor estratégia para Fórmula 1.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -168,29 +175,33 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/03/05/estrategia-f1/Screenshot_384.png">
-          <img src="../../../../../images/galleries/2006/03/05/estrategia-f1/Screenshot_384.png"/>        
+        <li data-thumb="/images/galleries/2006/03/05/estrategia-f1/Screenshot_384.png">
+          <img src="/images/galleries/2006/03/05/estrategia-f1/Screenshot_384.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/05/estrategia-f1/Screenshot_383.png">
-          <img src="../../../../../images/galleries/2006/03/05/estrategia-f1/Screenshot_383.png"/>        
+        <li data-thumb="/images/galleries/2006/03/05/estrategia-f1/Screenshot_383.png">
+          <img src="/images/galleries/2006/03/05/estrategia-f1/Screenshot_383.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/05/estrategia-f1/Screenshot_385.png">
-          <img src="../../../../../images/galleries/2006/03/05/estrategia-f1/Screenshot_385.png"/>        
+        <li data-thumb="/images/galleries/2006/03/05/estrategia-f1/Screenshot_385.png">
+          <img src="/images/galleries/2006/03/05/estrategia-f1/Screenshot_385.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/05/estrategia-f1/Screenshot_382.png">
-          <img src="../../../../../images/galleries/2006/03/05/estrategia-f1/Screenshot_382.png"/>        
+        <li data-thumb="/images/galleries/2006/03/05/estrategia-f1/Screenshot_382.png">
+          <img src="/images/galleries/2006/03/05/estrategia-f1/Screenshot_382.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -212,6 +223,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -258,20 +270,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

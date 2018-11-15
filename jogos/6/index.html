@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,40 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/22/ayrton-sennas-best-lap">Ayrton Senna&#39;s Best Lap</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2006/04/22/ayrton-sennas-best-lap/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Ligue os motores e se prepare! A volta de classificação está prestes a começar, e você deve usar toda a sua experiência e precisão, e ter nervos de aço para alcançar a Pole Position. Ayrton Senna’s Best Lap mistura estilos de corrida e coordenação, proporcionando uma experiência de jogo única...
+    </div>
+
+    <a href="/2006/04/22/ayrton-sennas-best-lap" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/18/transit-brasil">Transit Brasil</a></h1>
@@ -142,7 +161,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/04/18/transit-brasil/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/04/18/transit-brasil/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -152,6 +171,8 @@
     <a href="/2006/04/18/transit-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/11/memory-cube">Memory Cube</a></h1>
@@ -175,7 +196,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/04/11/memory-cube/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/04/11/memory-cube/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -185,6 +206,8 @@
     <a href="/2006/04/11/memory-cube" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/08/lance-livre">Lance Livre</a></h1>
@@ -196,7 +219,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/04/08/lance-livre/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/04/08/lance-livre/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -207,6 +230,23 @@
     <a href="/2006/04/08/lance-livre" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/03/31/senninha-racing">Senninha Racing</a></h1>
@@ -222,7 +262,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/31/senninha-racing/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/31/senninha-racing/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -232,6 +272,8 @@
     <a href="/2006/03/31/senninha-racing" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/24/gladiarena">Gladiarena</a></h1>
@@ -245,7 +287,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/24/gladiarena/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/24/gladiarena/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -255,6 +297,8 @@
     <a href="/2006/03/24/gladiarena" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/24/fighters-of-caribbean">Fighters of Caribbean</a></h1>
@@ -266,7 +310,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/PalmSoft_FightersOfCaribbean_logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/24/fighters-of-caribbean/PalmSoft_FightersOfCaribbean_logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -276,6 +320,8 @@
     <a href="/2006/03/24/fighters-of-caribbean" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/23/digibunny">Digibunny</a></h1>
@@ -287,7 +333,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/03/23/digibunny/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/23/digibunny/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -297,6 +343,8 @@
     <a href="/2006/03/23/digibunny" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/22/fruzzle">Fruzzle</a></h1>
@@ -320,7 +368,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/22/fruzzle/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/22/fruzzle/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -330,6 +378,8 @@
     <a href="/2006/03/22/fruzzle" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/22/coquetel">Coquetel</a></h1>
@@ -343,7 +393,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/22/coquetel/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/22/coquetel/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -351,37 +401,6 @@
     </div>
 
     <a href="/2006/03/22/coquetel" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/14/truco">Truco</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2006/03/14/truco/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    O Truco do portal Gametrack é um jogo singleplayer que segue todas as regras do truco real.O jogo tem um charme especial por aliar um famoso jogo de carta com um estilo mais jovem. A trilha sonora, as imagens e animações seguem este estilo.No jogo você disputa as partidas contra...
-    </div>
-
-    <a href="/2006/03/14/truco" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -417,20 +436,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

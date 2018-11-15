@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>V.T.O.L.</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -156,7 +162,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/v-t-o-l/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/v-t-o-l/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Um simulador de pouso espacial, com física real. Habilidade e estratégia são as armas para vencer neste jogo, para internet da Green Land Studios.</p>
@@ -166,7 +172,8 @@
 <p>Um jogo de qualidade e desempenho revolucionários para os padrões de jogos exclusivos para internet.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -174,37 +181,41 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol5.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/v-t-o-l/vtol5.jpg">
+          <img src="/images/galleries/2005/09/20/v-t-o-l/vtol5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol2.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/v-t-o-l/vtol2.jpg">
+          <img src="/images/galleries/2005/09/20/v-t-o-l/vtol2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/v-t-o-l/vtol1.jpg">
+          <img src="/images/galleries/2005/09/20/v-t-o-l/vtol1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol3.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/v-t-o-l/vtol3.jpg">
+          <img src="/images/galleries/2005/09/20/v-t-o-l/vtol3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol6.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/v-t-o-l/vtol6.jpg">
+          <img src="/images/galleries/2005/09/20/v-t-o-l/vtol6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol4.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/v-t-o-l/vtol4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/v-t-o-l/vtol4.jpg">
+          <img src="/images/galleries/2005/09/20/v-t-o-l/vtol4.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -226,6 +237,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -272,20 +284,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

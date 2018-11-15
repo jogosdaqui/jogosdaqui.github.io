@@ -101,6 +101,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@
 <article class="post">
   <h1>Master of Words</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -164,7 +170,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/05/20/master-of-words/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/05/20/master-of-words/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Deveria ter feito esse post sobre o <a href="http://masterofwords.net/" target="_blank">Master of Words</a>
@@ -187,7 +193,8 @@ Um pequeno easter egg: tente escrever um "palavrão" e veja o som que faz ;)</p>
 .
 A Rockhead promente para breve uma versão Windows Phone.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -195,29 +202,33 @@ A Rockhead promente para breve uma versão Windows Phone.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2013/05/20/master-of-words/MasterOfWords_03.png">
-          <img src="../../../../../images/galleries/2013/05/20/master-of-words/MasterOfWords_03.png"/>        
+        <li data-thumb="/images/galleries/2013/05/20/master-of-words/MasterOfWords_03.png">
+          <img src="/images/galleries/2013/05/20/master-of-words/MasterOfWords_03.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/05/20/master-of-words/MasterOfWords_01.png">
-          <img src="../../../../../images/galleries/2013/05/20/master-of-words/MasterOfWords_01.png"/>        
+        <li data-thumb="/images/galleries/2013/05/20/master-of-words/MasterOfWords_01.png">
+          <img src="/images/galleries/2013/05/20/master-of-words/MasterOfWords_01.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/05/20/master-of-words/MasterOfWords_05.png">
-          <img src="../../../../../images/galleries/2013/05/20/master-of-words/MasterOfWords_05.png"/>        
+        <li data-thumb="/images/galleries/2013/05/20/master-of-words/MasterOfWords_05.png">
+          <img src="/images/galleries/2013/05/20/master-of-words/MasterOfWords_05.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/05/20/master-of-words/MasterOfWords_04.png">
-          <img src="../../../../../images/galleries/2013/05/20/master-of-words/MasterOfWords_04.png"/>        
+        <li data-thumb="/images/galleries/2013/05/20/master-of-words/MasterOfWords_04.png">
+          <img src="/images/galleries/2013/05/20/master-of-words/MasterOfWords_04.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -239,6 +250,7 @@ A Rockhead promente para breve uma versão Windows Phone.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -293,20 +305,6 @@ A Rockhead promente para breve uma versão Windows Phone.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

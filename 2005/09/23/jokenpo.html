@@ -155,6 +155,12 @@ Suporte para salvar e carregar o jogo do ponto onde você parou.
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -170,20 +176,6 @@ Suporte para salvar e carregar o jogo do ponto onde você parou.
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -204,7 +196,21 @@ Suporte para salvar e carregar o jogo do ponto onde você parou.
 <article class="post">
   <h1>JoKenPo</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -249,7 +255,8 @@ Trilha sonora divertida e envolvente.
 Suporte para jogar com o teclado ou joystick.
 Suporte para salvar e carregar o jogo do ponto onde você parou.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -257,41 +264,45 @@ Suporte para salvar e carregar o jogo do ponto onde você parou.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-4.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-4.jpg">
+          <img src="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-3.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-3.jpg">
+          <img src="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-5.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-5.jpg">
+          <img src="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-8.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-8.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-8.jpg">
+          <img src="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-8.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-7.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-7.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-7.jpg">
+          <img src="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-7.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-6.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-6.jpg">
+          <img src="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-1.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/jokenpo/Nology_JokenPo-1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-1.jpg">
+          <img src="/images/galleries/2005/09/23/jokenpo/Nology_JokenPo-1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -313,6 +324,7 @@ Suporte para salvar e carregar o jogo do ponto onde você parou.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -359,20 +371,6 @@ Suporte para salvar e carregar o jogo do ponto onde você parou.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

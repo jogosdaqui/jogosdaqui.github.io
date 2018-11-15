@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Rally dos Sertões 2005</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -155,12 +161,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/02/03/rally-dos-sertoes-2005/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Rally dos Sertões 2005 é um jogo único, que traz a você a possibilidade de competir no famoso percurso de rally brasileiro em suas quatro modalidades de veículos. Você pode optar por competir com o carro, a moto, o caminhão ou o quadriciclo.<br /><br />Correndo pelas nove etapas no modo campeonato ou pelos percursos selecionados no modo treino, o jogador irá levantar muita poeira por estradas sinuosas e cheias de obstáculos. Pistas com pedras soltas, poeira, erosão, pontes, riachos e curvas fechadas fazem parte do percurso do rally, caracterizando uma prova de resistência e coragem.<br /><br />Encare também essa aventura e mostre que você sabe lidar com as dificuldades dessa grande prova do automobilismo.<br /><br />No trajeto do Rally dos Sertões 2005 o jogador percorrerá pelas cidades de Goiânia, Aruanã, Porangatu (GO), Palmas, Araguaína (TO),Imperatriz, Bacabal, Barreirinhas (MA), Ubajara e Fortaleza (CE).</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -168,29 +175,33 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_353.png">
-          <img src="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_353.png"/>        
+        <li data-thumb="/images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_353.png">
+          <img src="/images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_353.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_354.png">
-          <img src="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_354.png"/>        
+        <li data-thumb="/images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_354.png">
+          <img src="/images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_354.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_351.png">
-          <img src="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_351.png"/>        
+        <li data-thumb="/images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_351.png">
+          <img src="/images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_351.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_352.png">
-          <img src="../../../../../images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_352.png"/>        
+        <li data-thumb="/images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_352.png">
+          <img src="/images/galleries/2006/02/03/rally-dos-sertoes-2005/Screenshot_352.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -212,6 +223,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -258,20 +270,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

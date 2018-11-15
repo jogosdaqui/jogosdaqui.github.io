@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,33 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/11/10/bunny-smash">Bunny Smash</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Bunny Smash é um jogo bem humorado onde você é um fazendeiro que tem sua fazenda invadida por coelhos que querem destruir sua plantação de cenouras.Você terá que ter um bom reflexo para acertar os coelhos tomando o cuidado de não bater no seu cachorro, refém do coelho maldito, pois...
+    </div>
+
+    <a href="/2006/11/10/bunny-smash" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/12/thoroughbred-tycoon">Thoroughbred Tycoon</a></h1>
@@ -162,7 +174,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -172,6 +184,8 @@
     <a href="/2006/09/12/thoroughbred-tycoon" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/08/22/crossfox-agil">CrossFox Ágil</a></h1>
@@ -191,7 +205,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/08/22/crossfox-agil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/08/22/crossfox-agil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -201,6 +215,8 @@
     <a href="/2006/08/22/crossfox-agil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/08/04/cat-fighters">Cat Fighters</a></h1>
@@ -220,7 +236,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/08/04/cat-fighters/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/08/04/cat-fighters/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -230,6 +246,23 @@
     <a href="/2006/08/04/cat-fighters" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/08/03/play-gool">Play Gool</a></h1>
@@ -249,7 +282,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/08/03/play-gool/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/08/03/play-gool/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -260,6 +293,8 @@
     <a href="/2006/08/03/play-gool" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/07/25/grand-pri">Grand Pri</a></h1>
@@ -275,7 +310,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/07/25/grand-pri/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/07/25/grand-pri/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -285,6 +320,8 @@
     <a href="/2006/07/25/grand-pri" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/07/05/gambler-saga">Gambler Saga</a></h1>
@@ -308,7 +345,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/07/05/gambler-saga/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/07/05/gambler-saga/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -318,6 +355,8 @@
     <a href="/2006/07/05/gambler-saga" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/28/petrakas-malabares">Petrakas Malabares</a></h1>
@@ -333,7 +372,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/06/28/petrakas-malabares/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/06/28/petrakas-malabares/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -344,6 +383,8 @@
     <a href="/2006/06/28/petrakas-malabares" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/27/the-clubber">The Clubber</a></h1>
@@ -357,7 +398,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/06/27/the-clubber/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/06/27/the-clubber/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -367,6 +408,8 @@
     <a href="/2006/06/27/the-clubber" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/20/druids-battle-of-magic">Druids: Battle of Magic</a></h1>
@@ -386,7 +429,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/06/20/druids-battle-of-magic/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/06/20/druids-battle-of-magic/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -394,37 +437,6 @@
     </div>
 
     <a href="/2006/06/20/druids-battle-of-magic" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/19/dance-mania">Dance Mania</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2006/06/19/dance-mania/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Baseado nos jogos estilo Dance Dance Revolution. Setas que representam passos de dança se deslocam na tela em sincronia com uma música de fundo. O diferencial do jogo está na capacidade de personalização das músicas e das danças pelo jogador.O jogo suporta qualquer arquivo no formato MIDI, e a personalização...
-    </div>
-
-    <a href="/2006/06/19/dance-mania" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -460,20 +472,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

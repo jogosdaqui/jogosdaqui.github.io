@@ -101,6 +101,12 @@ Quando ele não consegue dinheiro para a passagem, ele pega o seu trole de vara 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Quando ele não consegue dinheiro para a passagem, ele pega o seu trole de vara 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Quando ele não consegue dinheiro para a passagem, ele pega o seu trole de vara 
 <article class="post">
   <h1>Choo Choo Like a Hobo</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -158,7 +164,7 @@ Quando ele não consegue dinheiro para a passagem, ele pega o seu trole de vara 
 <center>
   
     
-      <img src="../../../../../images/galleries/2014/05/05/choo-choo-like-a-hobo/ChooChooLikeAHobo_logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2014/05/05/choo-choo-like-a-hobo/ChooChooLikeAHobo_logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Choo Choo Like a Hobo é um jogo simples sobre um mendigo viajando para a cidade da sopa (é sua comida favorita).</p>
@@ -180,7 +186,8 @@ Quando ele não consegue dinheiro para a passagem, ele pega o seu trole de vara 
 
 <p><span style="font-size: x-small;">&gt; (press-release)</span></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -188,11 +195,15 @@ Quando ele não consegue dinheiro para a passagem, ele pega o seu trole de vara 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
-      <img src="../../../../../images/galleries/2014/05/05/choo-choo-like-a-hobo/ChooChooLikeAHobo_logo.jpg"/> 
+      <img src="/images/galleries/2014/05/05/choo-choo-like-a-hobo/ChooChooLikeAHobo_logo.jpg"/> 
   
  </center>
+ 
+
 
 
   </div>
@@ -244,20 +255,6 @@ Quando ele não consegue dinheiro para a passagem, ele pega o seu trole de vara 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

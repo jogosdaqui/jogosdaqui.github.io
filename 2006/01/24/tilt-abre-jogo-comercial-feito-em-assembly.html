@@ -98,6 +98,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +119,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -147,7 +139,21 @@
 <article class="post">
   <h1>TILT abre jogo comercial feito em assembly</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -159,7 +165,8 @@
  inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.<br /><br />A seção pertence ao club TILT porém todas as novas páginas dos projetos ficarão disponíveis para os não assinantes por um tempo. Assim, quem quiser acompanhar, tem que ficar atento. Os assinantes terão todo o<br />material à sua disposição o tempo todo.<br /><br />A seção foi inaugurada com dois projetos: Ataque Aéreo, que é um modelo e protótipo para experimentar controles do veículo principal do jogador, cenários com scroll paralax e Nautilus, criado totalmente em assembly (no final do ano de 1992 e lançado comercialmente pela editora PRO KIT no ano seguinte) e que agora vai ser aberto não apenas para mostrar como um jogo asm completo é feito, mas também como seria o seu port para uma mescla de Delphi/Asm e em seguida como seria a versão 100% Delphi, partindo do zero.<br /><br />Para quem gosta de programação é um prato cheio.<br /><br />Veja mais detalhes em <a target="_blank" href="http://www.tilt.net">www.tilt.net</a>
  .</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -167,9 +174,8 @@
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -217,20 +223,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

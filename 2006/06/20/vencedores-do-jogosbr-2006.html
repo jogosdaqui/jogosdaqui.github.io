@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Vencedores do JogosBR 2006</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -151,7 +157,8 @@
  </center>
     <p>Veja as listas dos vencedores dos concursos do JogosBR edição 2006:<br /><br /><br /><span style="font-weight: bold;">Demos Jogáveis</span><br /><br />Brasilia Tropicalis (Thiago Salgado Aiache de Moraes)<br />Conspiração Dumont (Guilherme Mattos Coutinho)<br />Flora    (Francisco Oliveira de Queiroz)<br />Fórmula Galaxy (Artur Corrêa)<br />Inferno (Alexandre Vrubel)<br />Léx (Tiago Pinheiro Teixeira)<br />Trem de Doido (Marcos André Penna Coutinho)<br />Zumbi, o rei dos Palmares (Nicholas Lima de Souza)<br /><br /><span style="font-weight: bold;">Lista de Reserva    </span><br />Amazônia - O Feitiço das Águas (Raphael Dias Duarte Fernandes)<br />Projeto FRONTEIRA (Jorge Adriano Luna)<br />Roça em Pé de Guerra (Márcio Rodrigo Viana Araújo)<br />Santos Dumont - A Conquista do Ar (Marcos Cuzziol)<br /><br /><br /><span style="font-weight: bold;">Jogos Completos de Baixo Orçamento</span><br />Deuses do Tabuleiro - O Juízo Final (Archias Alves de Almeida Filho)<br />Peixis! A disputa subaquatica! (Wallace Santos Lages)<br /><br /><span style="font-weight: bold;">Lista de Reserva    </span><br />CaveDays (Winston George A. Petty)<br />Maggie (Luiz Manoel Gerosa)</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -159,9 +166,8 @@
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -209,20 +215,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

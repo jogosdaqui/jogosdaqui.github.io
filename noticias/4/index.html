@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,50 +110,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2015/05/21/porcunipine-lancado-no-steam">Porcunipine lançado no Steam</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-      <img src="../../../../../images/galleries/2015/05/21/porcunipine-lancado-no-steam/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Acabamos de adicionar o Porcunipine da Big Green Pillow na lista de jogos do jogosdaqui, pois hoje é o grande dia de lançamento do game no Steam. O jogo está sendo publicado para PC pela publisher britânica Curve Digital. Para se ter uma ideia do trabalho da Curve Digital, entre...
-    </div>
-
-    <a href="/2015/05/21/porcunipine-lancado-no-steam" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2015/05/20/novidades-de-horizon-chase">Novidades de Horizon Chase</a></h1>
@@ -161,7 +130,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/05/20/novidades-de-horizon-chase/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/20/novidades-de-horizon-chase/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -171,6 +140,8 @@
     <a href="/2015/05/20/novidades-de-horizon-chase" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/18/playthrough-chroma-squad-tactical-rpg-001">Playthrough Chroma Squad - Tactical RPG #001</a></h1>
@@ -184,7 +155,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/05/18/playthrough-chroma-squad-tactical-rpg-001/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/18/playthrough-chroma-squad-tactical-rpg-001/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -194,9 +165,11 @@
     <a href="/2015/05/18/playthrough-chroma-squad-tactical-rpg-001" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
-    <h1><a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games">Starlit Adventures, novo lançamento da Rockhead Games</a></h1>
+    <h1><a href="/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015">Games brasileiros finalistas no BIG Festival 2015</a></h1>
 
     <div class="entry">
      
@@ -205,16 +178,79 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
-    Starlit Adventures é o novo game da gaúcha Rockhead Games , de jogos como Master of Words e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a Southlogic Studios, famosa por games como Guimo e Trophy Hunter 2003 . Lançamento...
+    A organização do BIG Festival, primeiro e único festival de jogos independentes da América Latina, revelou durante a semana os finalistas da edição de 2015. Apesar de ser um evento de âmbito continental, o festival, por ser realizado no Brasil, tem uma categoria chamada “Revelação Brasil”, que privilegia os games...
     </div>
 
-    <a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games" class="read-more">Leia mais</a>
+    <a href="/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/05/16/crystal-catcher-ganha-versao-para-android">Crystal Catcher ganha versão para Android</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2015/05/16/crystal-catcher-ganha-versao-para-android/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever Crystal Catcher, para iPhone e iPad. Foi assim que em 2012 descrevemos o game Crystal Catcher da desenvolvedora brasileira Crazy Minds Game Studio, agora a equipe de desenvolvimento entrou em contato conosco para nos contar uma...
+    </div>
+
+    <a href="/2015/05/16/crystal-catcher-ganha-versao-para-android" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
+    <article class="post">
+
+    <h1><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    A equipe de desenvolvimento da Cyber Rhino Studios liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic. A GKE arrecadou mais de US$ 19.000 durante sua campanha no Kickstarter e deverá ser lançado para Windows, Mac e Linux. No vídeo podemos conferir diversas fases do...
+    </div>
+
+    <a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/14/demo-reel-da-odin-game-studio">Demo Reel da Odin Game Studio</a></h1>
@@ -226,7 +262,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/14/demo-reel-da-odin-game-studio/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/14/demo-reel-da-odin-game-studio/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -236,40 +272,8 @@
     <a href="/2015/05/14/demo-reel-da-odin-game-studio" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2015/05/13/space-lander">Space Lander</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
     
-  
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    [sc:Quote text=”Ground control to Major Tom Ground control to Major Tom Take your protein pills and put your helmet on Ground control to Major Tom Commencing countdown, engines on Check ignition, and may God’s love be with you” ] Assim começa a famosa música Space Oddity do cantor David Bowie,...
-    </div>
-
-    <a href="/2015/05/13/space-lander" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim">Campanha do TurboLink no Collective está chegando ao fim</a></h1>
@@ -288,6 +292,8 @@
     <a href="/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/08/ganhadores-da-promocao-do-game-recruits">Ganhadores da promoção do game Recruits</a></h1>
@@ -306,6 +312,8 @@
     <a href="/2015/05/08/ganhadores-da-promocao-do-game-recruits" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/08/distorcoes-ganha-novos-videos">Distorções ganha novos vídeos</a></h1>
@@ -324,6 +332,8 @@
     <a href="/2015/05/08/distorcoes-ganha-novos-videos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/07/splitplay-um-ano-em-numeros">SplitPlay, um ano em números</a></h1>
@@ -339,7 +349,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/05/07/splitplay-um-ano-em-numeros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/07/splitplay-um-ano-em-numeros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -382,20 +392,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

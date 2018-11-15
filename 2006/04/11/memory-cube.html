@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Memory Cube</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -161,12 +167,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/04/11/memory-cube/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/04/11/memory-cube/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Em Memory Cube da FourX o jogador pode se divertir com o clássico jogo da memória ou ainda jogar um jogo da memória onde o tabuleiro é um cubo.<br /><br />Se o clássico jogo da memória já trazia desafio o modo em cubo é diversão e desafio nunca antes vistos em jogos do estilo. O jogador escolhe uma peça do tabuleiro em uma extremidade do cubo e precisa localizar o par idêntico em um dos 6 lados do cubo.<br /><br />Os gráficos do jogo são de alta qualidade, as cartas e desenhos são muito bem feitos. No modo cubo o grande barato é o cubo em 3D e a facilidade em girá-lo em todas as direções em busca das peças certas.<br /><br />Memory Cube possui vários temas para as peças dos tabuleiros, estes variam entre animais, frutas, transporte, fantasia, mitologia, música e profissões. O fato mais interessante de existirem diferentes temas é que cada um deles explora a memória do jogador de uma forma diferente.<br /><br />Para variar a dificuldade do jogo, o jogador ainda pode escolher qual a quantidade de peças no tabuleiro.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -174,45 +181,49 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_474.png">
-          <img src="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_474.png"/>        
+        <li data-thumb="/images/galleries/2006/04/11/memory-cube/Screenshot_474.png">
+          <img src="/images/galleries/2006/04/11/memory-cube/Screenshot_474.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_472.png">
-          <img src="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_472.png"/>        
+        <li data-thumb="/images/galleries/2006/04/11/memory-cube/Screenshot_472.png">
+          <img src="/images/galleries/2006/04/11/memory-cube/Screenshot_472.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_475.png">
-          <img src="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_475.png"/>        
+        <li data-thumb="/images/galleries/2006/04/11/memory-cube/Screenshot_475.png">
+          <img src="/images/galleries/2006/04/11/memory-cube/Screenshot_475.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_470.png">
-          <img src="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_470.png"/>        
+        <li data-thumb="/images/galleries/2006/04/11/memory-cube/Screenshot_470.png">
+          <img src="/images/galleries/2006/04/11/memory-cube/Screenshot_470.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_477.png">
-          <img src="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_477.png"/>        
+        <li data-thumb="/images/galleries/2006/04/11/memory-cube/Screenshot_477.png">
+          <img src="/images/galleries/2006/04/11/memory-cube/Screenshot_477.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_473.png">
-          <img src="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_473.png"/>        
+        <li data-thumb="/images/galleries/2006/04/11/memory-cube/Screenshot_473.png">
+          <img src="/images/galleries/2006/04/11/memory-cube/Screenshot_473.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_471.png">
-          <img src="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_471.png"/>        
+        <li data-thumb="/images/galleries/2006/04/11/memory-cube/Screenshot_471.png">
+          <img src="/images/galleries/2006/04/11/memory-cube/Screenshot_471.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_476.png">
-          <img src="../../../../../images/galleries/2006/04/11/memory-cube/Screenshot_476.png"/>        
+        <li data-thumb="/images/galleries/2006/04/11/memory-cube/Screenshot_476.png">
+          <img src="/images/galleries/2006/04/11/memory-cube/Screenshot_476.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -234,6 +245,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -280,20 +292,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

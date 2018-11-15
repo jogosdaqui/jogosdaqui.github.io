@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,65 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/09/01/a-zombie-nightmare">A Zombie Nightmare</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Em "A Zombie Nightmare" da PalmSoft Tecnologia , o jogador estará na pele Tarquin Keister. Tarquin está de férias pela Europa, ao passar por uma pequena cidade faz uma parada no hotel da cidade, ao deixar a cidade descobre algo de estranho: uma horda de zumbis famintos e loucos por...
+    </div>
+
+    <a href="/2006/09/01/a-zombie-nightmare" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/30/previa-da-nova-versao-de-drag-racer">Prévia da nova versão de Drag Racer</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Drag Racer
+, um dos maiores sucessos da Palmsoft
+, ganhará uma nova versão. As várias novidades do jogo de corrida
+ para celular
+ estão entre novos pilotos, carros e cenários.Veja a prévia…
+
+
+    </div>
+
+    <a href="/2006/06/30/previa-da-nova-versao-de-drag-racer" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/30/drag-racer-underground">Drag Racer Underground</a></h1>
@@ -147,6 +191,8 @@
     <a href="/2006/06/30/drag-racer-underground" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/07/imagens-da-producao-do-rpg-essence">Imagens da produção do RPG Essence</a></h1>
@@ -174,6 +220,23 @@
     <a href="/2006/06/07/imagens-da-producao-do-rpg-essence" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/05/31/previa-de-cat-fighters">Prévia de Cat Fighters</a></h1>
@@ -196,6 +259,8 @@
     <a href="/2006/05/31/previa-de-cat-fighters" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/24/cat-fighters">Cat Fighters</a></h1>
@@ -219,7 +284,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/05/24/cat-fighters/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/05/24/cat-fighters/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -229,6 +294,8 @@
     <a href="/2006/05/24/cat-fighters" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/17/gamegol">GameGol</a></h1>
@@ -259,6 +326,8 @@
     <a href="/2006/05/17/gamegol" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/12/estradas-esburacadas-a-toda-velocidade">Estradas Esburacadas a toda velocidade</a></h1>
@@ -337,6 +406,8 @@
     <a href="/2006/05/12/estradas-esburacadas-a-toda-velocidade" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005">Prévia: Incorporated, demo do JogosBR 2004/2005</a></h1>
@@ -357,6 +428,8 @@
     <a href="/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/novo-video-de-estradas-esburacadas">Novo vídeo de Estradas Esburacadas</a></h1>
@@ -389,71 +462,6 @@
     </div>
 
     <a href="/2006/05/10/novo-video-de-estradas-esburacadas" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/05/10/incorporated">Incorporated</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    A empresa Interama foi formada a partir do projeto "Emprego Maluco", um dos projetos vencedores para produção de uma demo jogável do JogosBR do ano passado.Incorporated era conhecido na época da aprovação do JogosBR como "Emprego Maluco", porém o nome foi alterado por razões comerciais e de direitos autorais.Este é...
-    </div>
-
-    <a href="/2006/05/10/incorporated" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/04/26/previa-de-pinogol-3d">Prévia de Pinogol 3D</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    O jogo de futebol
- com pinos é uma das próximas atrações do portal Gametrack
-.A Devworks
- liberou as primeiras informações sobre o jogo. Pinogol 3D será mais um jogo multiplayer do portal.Veja a prévia…
-
-
-    </div>
-
-    <a href="/2006/04/26/previa-de-pinogol-3d" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -489,20 +497,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

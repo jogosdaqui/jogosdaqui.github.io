@@ -101,6 +101,12 @@ O ponto de partida para esta aventura é a boca de um garoto que foi invadida pe
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ O ponto de partida para esta aventura é a boca de um garoto que foi invadida pe
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ O ponto de partida para esta aventura é a boca de um garoto que foi invadida pe
 <article class="post">
   <h1>Sorriso Campeão</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -164,7 +170,7 @@ O ponto de partida para esta aventura é a boca de um garoto que foi invadida pe
     
   
     
-      <img src="../../../../../images/galleries/2005/10/26/sorriso-campeao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/26/sorriso-campeao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Sorriso Campeão é um jogo infantil, que procura conscientizar as crianças sobre a importância da higiene bucal.</p>
@@ -172,7 +178,8 @@ O ponto de partida para esta aventura é a boca de um garoto que foi invadida pe
 <p>O ponto de partida para esta aventura é a boca de um garoto que foi invadida pelos Mutas, bactérias do mau, que estão planejando construir casinhas dentro de seus dentes. Cabe ao herói expulsar todas as bactérias, impedindo que elas estraguem os dentes. Para ajudar a expulsá-las ele contará com armas poderosas como a escova de dente, o fio-dental e o flúor.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -180,25 +187,29 @@ O ponto de partida para esta aventura é a boca de um garoto que foi invadida pe
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_3.jpg">
-          <img src="../../../../../images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_3.jpg">
+          <img src="/images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_1.jpg">
-          <img src="../../../../../images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_1.jpg">
+          <img src="/images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_2.jpg">
-          <img src="../../../../../images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_2.jpg">
+          <img src="/images/galleries/2005/10/26/sorriso-campeao/SorrisoCampeao_2.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -220,6 +231,7 @@ O ponto de partida para esta aventura é a boca de um garoto que foi invadida pe
     });
   });
 </script>
+
 
   </div>
 
@@ -264,20 +276,6 @@ O ponto de partida para esta aventura é a boca de um garoto que foi invadida pe
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

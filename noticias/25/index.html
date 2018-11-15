@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,78 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/30/jogosbr-prazo-final">JogosBR, prazo final</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Dia 3 de abril, próxima segunda-feira, é o prazo final para inscrições nos concursos de Desenvolvimento de Demos Jogavéis e de Jogos Completos do JogosBR 2005/2006.As empresas e profissionais que desejarem participar devem se inscrever no site www.jogosbr.org.br
+.
+
+    </div>
+
+    <a href="/2006/03/30/jogosbr-prazo-final" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/27/primeiro-brasileiro-no-espaco">Primeiro brasileiro no espaço</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Para celebrar a primeira viagem espacial de um brasileiro, protagonizada por Marcos Pontes no próximo 30 de março, preparamos uma lista dos jogos que também nos levam ao espaço.Confira o especial…
+
+    </div>
+
+    <a href="/2006/03/27/primeiro-brasileiro-no-espaco" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/27/primeiras-imagens-de-capoeira">Primeiras imagens de Capoeira</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Capoeira, um dos 8 projetos vencedores para o desenvolvimento de uma demo jogável do JogosBR 2004, mostra suas primeiras imagens.Confira…
+
+
+    </div>
+
+    <a href="/2006/03/27/primeiras-imagens-de-capoeira" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/27/novo-site-da-tgs">Novo site da TGS</a></h1>
@@ -146,6 +203,23 @@
     <a href="/2006/03/27/novo-site-da-tgs" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/03/26/fruzzle-ganha-expansao">Fruzzle ganha expansão</a></h1>
@@ -164,6 +238,8 @@
     <a href="/2006/03/26/fruzzle-ganha-expansao" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/24/primeiro-brasileiro-no-espaco">Primeiro Brasileiro no Espaço</a></h1>
@@ -182,6 +258,8 @@
     <a href="/2006/03/24/primeiro-brasileiro-no-espaco" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/24/piratas-e-guerreiros-da-palmsoft">Piratas e guerreiros da PalmSoft</a></h1>
@@ -200,6 +278,8 @@
     <a href="/2006/03/24/piratas-e-guerreiros-da-palmsoft" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/23/eonsgames-ganha-premio-no-japao">EonsGames ganha prêmio no Japão</a></h1>
@@ -228,6 +308,8 @@
     <a href="/2006/03/23/eonsgames-ganha-premio-no-japao" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/23/coquetel-agora-no-celular">Coquetel, agora no celular</a></h1>
@@ -249,6 +331,8 @@
     <a href="/2006/03/23/coquetel-agora-no-celular" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/22/fruzzle-o-sapo-da-icon-games">Fruzzle, o sapo da ICON Games</a></h1>
@@ -268,78 +352,6 @@
     </div>
 
     <a href="/2006/03/22/fruzzle-o-sapo-da-icon-games" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/21/ideias-vencedoras-do-jogosbr-2005-06">Idéias vencedoras do JogosBR 2005/06</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    O JogosBR publicou as 36 idéias vencedoras do Concurso de Idéias Originais do JogosBR 2005/06.Entre os títulos mais criativos e originais estão:
-
-    Carnaval
-    Guerra dos 100 Anos
-    Pra Frente Brasil
-    Zumbi o rei dos Palmares 
-    Ind&iacute;os 
-
-Para ler mais sobre as idéias vencedoras visite o site do JogosBR
-.
-
-    </div>
-
-    <a href="/2006/03/21/ideias-vencedoras-do-jogosbr-2005-06" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack">Rummikub entra em fase beta no Gametrack</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A Devworks
- colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o "World Rummikub Champioship" e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
-
-
-    </div>
-
-    <a href="/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/20/hoplon-e-palestrante-na-gdc-2006">Hoplon é palestrante na GDC 2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Tarqüínio Teles, o presidente da Hoplon Infotainment
-, desenvolvedora do MSG Taikodom
-, dará uma palestra na GDC 2006. O presidente da Hoplon será o primeiro brasileiro a palestrar na GDC (Game Developers Conference 2006). O tema da palestra é a parceria entre Hoplon e IBM.
-
-Leia mais…
-
-    </div>
-
-    <a href="/2006/03/20/hoplon-e-palestrante-na-gdc-2006" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -375,20 +387,6 @@ Leia mais…
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

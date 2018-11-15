@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,87 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/11/03/gold-hunter">Gold Hunter</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-      <img src="../../../../../images/galleries/2005/11/03/gold-hunter/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Em Gold Hunter você estará na pele de um explorador em um ambiente urbano dominado pelo caos, onde sua missão e único objetivo é conseguir a maior quantidade de barras de ouro que encontrar pelo caminho pra garantir a sua sobrevivência. Você não está sozinho neste mundo hostil: ele guarda perigos...
-    </div>
-
-    <a href="/2005/11/03/gold-hunter" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/02/segunda-edicao-do-concurso-jogosbr">Segunda edição do concurso JogosBr</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Em novembro será lançado o “Segundo Concurso de Idéias Originais E Demos de Jogos Eletrônicos - JogosBr”. O Concurso tem como objetivo estimular o desenvolvimento de jogos eletrônicos (ou games) no mercado nacional. Qualquer pessoa física residente no Brasil pode participar, sem limite de idade ou qualquer outro requisito. Em...
-    </div>
-
-    <a href="/2005/11/02/segunda-edicao-do-concurso-jogosbr" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/10/31/casseta-planeta-jogo-da-memoria">Casseta & Planeta - Jogo da Memória</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
- </center>
-    
-    Como anda a sua memória? Fraca, cansada, precisando de uma forcinha? Apresentamos mais um revolucionário lançamento das organizações TABAJARA: o incrível MEMORY REFRESCATOR: Casseta &amp; Planeta - Jogo da Memória, com os personagens do Casseta &amp; Planeta . Aproveite essa nova sensação e desafie sua memória descobrindo os pares certos...
-    </div>
-
-    <a href="/2005/10/31/casseta-planeta-jogo-da-memoria" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/10/28/governo-anuncia-edital-com-apoio-a-projeto-de-jogos">Governo anuncia edital com apoio a projeto de jogos</a></h1>
@@ -203,6 +133,8 @@
     <a href="/2005/10/28/governo-anuncia-edital-com-apoio-a-projeto-de-jogos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/26/sorriso-campeao">Sorriso Campeão</a></h1>
@@ -220,7 +152,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/26/sorriso-campeao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/26/sorriso-campeao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -230,6 +162,8 @@
     <a href="/2005/10/26/sorriso-campeao" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/26/entrevista-espaco-informatica">Entrevista: Espaço Informática</a></h1>
@@ -252,6 +186,8 @@
     <a href="/2005/10/26/entrevista-espaco-informatica" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/25/sudoku">Sudoku</a></h1>
@@ -263,7 +199,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/10/25/sudoku/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/25/sudoku/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -273,6 +209,23 @@
     <a href="/2005/10/25/sudoku" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/10/25/golden-west-mexican-bullet">Golden West - Mexican Bullet</a></h1>
@@ -299,6 +252,8 @@
     <a href="/2005/10/25/golden-west-mexican-bullet" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/25/forca-andromeda-operacao-tempestade">Força Andrômeda - Operação Tempestade</a></h1>
@@ -325,6 +280,8 @@
     <a href="/2005/10/25/forca-andromeda-operacao-tempestade" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/24/muralha">Muralha</a></h1>
@@ -353,6 +310,119 @@ O objetivo é destruir todos os blocos em cada fase.
     </div>
 
     <a href="/2005/10/24/muralha" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/24/cubi">CUBi</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Seu objetivo é juntar as peças que caem sem deixar espaços entre elas. Sempre que uma linha é preenchida, ela será removida e todas as peças acima serão movidas para baixo. Posicione as peças corretamente para não permitir que elas cheguem no topo. Os melhores resultados serão listados no ranking...
+    </div>
+
+    <a href="/2005/10/24/cubi" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards">Primeiras imagens de Gods of The Virtual Boards</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Um jogo baseado nas previsões de Nostradamus, este é Gods of The Virtual Boards. O jogo está sendo desenvolvido pela Devworks Technology e tem previsão de lançamento para novembro de 2006. O jogador deverá enfrentar Hazard, Gloria, Zulu, Piatã, Volutia, Oden e Uxy em tabuleiros virtuais espalhados pelo mundo. Destaque...
+    </div>
+
+    <a href="/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/21/jet-boarder">Jet Boarder</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/10/21/jet-boarder/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Este é Jet Boarder, um jogo de corrida com uma característica interessante: ele utiliza apenas uma única tecla para os controles. Foi criado para a One Switch Competition, uma competição para jogos de uma tecla da Retroremakes e One Switch UK. A idéia é tornar jogos mais acessíveis para deficientes...
+    </div>
+
+    <a href="/2005/10/21/jet-boarder" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -385,20 +455,6 @@ O objetivo é destruir todos os blocos em cada fase.
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -3,7 +3,7 @@
  <title>Your Title - ios</title>
  <link href="http://example.com/tags/ios/index.xml" rel="self"/>
  <link href="http://example.com/tag/ios.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/ios.html</id>
  <author>
    <name>Author Here</name>
@@ -27,11 +27,14 @@
 
 &lt;p&gt;O jogo conta com diversas fases, com direito a chefões e fases bônus.&lt;/p&gt;
 
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/11/11/mikura-going-home/QuadroAQuadro_Mikura.png &quot; /&gt;
+      &lt;/center&gt;
+
 &lt;h2 id=&quot;plataforma&quot;&gt;Plataforma&lt;/h2&gt;
 &lt;p&gt;O game nasceu originalmente numa versão muito simples para o antigo sistema operacional BADA da Samsung, depois de alguns anos os gamedevs decidiram criar essa versão definitiva de Mikura Going Home.&lt;/p&gt;
 
-&lt;p&gt;O jogo está disponível gratuitamente para &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.qaq.mikurafree&amp;amp;hl=pt_BR&quot; target=&quot;_blank&quot;&gt;Android no Google Play&lt;/a&gt;
- e ainda existem planos para uma versão iOS.&lt;/p&gt;
+&lt;p&gt;O jogo está disponível gratuitamente para &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.qaq.mikurafree&amp;amp;hl=pt_BR&quot;&gt;Android no Google Play&lt;/a&gt; e ainda existem planos para uma versão iOS.&lt;/p&gt;
 
 &lt;h2 id=&quot;trailer-de-mikura-going-home&quot;&gt;Trailer de Mikura Going Home&lt;/h2&gt;
 &lt;center&gt;
@@ -339,8 +342,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
    <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
    <updated>2015-08-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
-   <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
- já tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot;&gt;Aquiris Game Studio&lt;/a&gt; á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
 
 &lt;p&gt;Segundo a gamedev gaúcha, Horizon Chase será um jogo premium, contendo 8 copas, 32 cidades, 73 pistas e 16 carros desbloqueáveis.&lt;/p&gt;
 
@@ -573,15 +575,15 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
    <link href="http://example.com/2015/05/16/crystal-catcher-ganha-versao-para-android"/>
    <updated>2015-05-16T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/16/crystal-catcher-ganha-versao-para-android</id>
-   <content type="html">&lt;blockquote&gt;Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever Crystal Catcher, para iPhone e iPad.&lt;/blockquote&gt;
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever Crystal Catcher, para iPhone e iPad.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Foi assim que em 2012 descrevemos o game &lt;a href=&quot;/2012/10/30/crystal-catcher/&quot; target=&quot;_blank&quot;&gt;Crystal Catcher&lt;/a&gt;
- da desenvolvedora brasileira Crazy Minds Game Studio, agora a equipe de desenvolvimento entrou em contato conosco para nos contar uma boa novidade: o game foi lançado para &lt;a href=&quot;https://play.google.com/store/apps/details?id=net.crazyminds.RUNNINGBALL&quot; target=&quot;_blank&quot;&gt;Android na Google Play&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;Foi assim que em 2012 descrevemos o game &lt;a href=&quot;/2012/10/30/crystal-catcher/&amp;quot; target=&amp;quot;_blank&quot;&gt;Crystal Catcher&lt;/a&gt; da desenvolvedora brasileira Crazy Minds Game Studio, agora a equipe de desenvolvimento entrou em contato conosco para nos contar uma boa novidade: o game foi ançado para &lt;a href=&quot;https://play.google.com/store/apps/details?id=net.crazyminds.RUNNINGBALL&quot;&gt;Android na Google Play&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Para quem curte um endless runner, Crystal Catcher é uma ótima pedida.&lt;/p&gt;
 
-&lt;h2 id=&quot;vídeo-de-crystal-catcher&quot;&gt;Vídeo de Crystal Catcher##&lt;/h2&gt;
+&lt;h2 id=&quot;vídeo-de-crystal-catcher&quot;&gt;Vídeo de Crystal Catcher&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/NwI9T9ooMKE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
@@ -594,26 +596,21 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
    <link href="http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
    <id>http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.starlitadventures.com/&quot; target=&quot;_blank&quot;&gt;Starlit Adventures&lt;/a&gt;
- é o novo game da gaúcha &lt;a href=&quot;http://rockheadgames.com/&quot; target=&quot;_blank&quot;&gt;Rockhead Games&lt;/a&gt;
-, de jogos como &lt;a href=&quot;/2013/05/20/master-of-words/&quot;&gt;Master of Words&lt;/a&gt;
- e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a Southlogic Studios, famosa por games como &lt;a href=&quot;/2005/09/20/guimo/&quot;&gt;Guimo&lt;/a&gt;
- e &lt;a href=&quot;/2005/09/20/trophy-hunter-2003/&quot;&gt;Trophy Hunter 2003&lt;/a&gt;
-.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.starlitadventures.com/&quot;&gt;Starlit Adventures&lt;/a&gt; é o novo game da gaúcha &lt;a href=&quot;http://rockheadgames.com/&quot;&gt;Rockhead Games&lt;/a&gt;, de jogos como &lt;a href=&quot;/2013/05/20/master-of-words/&quot;&gt;Master of Words&lt;/a&gt; e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a Southlogic Studios, famosa por games como &lt;a href=&quot;/2005/09/20/guimo/&quot;&gt;Guimo&lt;/a&gt; e &lt;a href=&quot;/2005/09/20/trophy-hunter-2003/&quot;&gt;Trophy Hunter 2003&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;lançamento-mundial&quot;&gt;Lançamento mundial&lt;/h2&gt;
-&lt;p&gt;A Rockhead lançou o game para &lt;a href=&quot;https://itunes.apple.com/au/app/starlit-adventures/id960404802?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
- e &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rockhead.starlit&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
- na América Latina, Austrália e Nova Zelândia. Também existem negociações com um publisher para lançar o jogo no mercado japonês. Além disso tem planos para expandir o rico universo de Starlit para outras mídias.&lt;/p&gt;
+&lt;p&gt;A Rockhead lançou o game para &lt;a href=&quot;https://itunes.apple.com/au/app/starlit-adventures/id960404802?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;iOS&lt;/a&gt; e &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rockhead.starlit&quot;&gt;Android&lt;/a&gt; na América Latina, Austrália e Nova Zelândia. Também existem negociações com um publisher para lançar o jogo no mercado japonês. Além disso tem planos para expandir o rico universo de Starlit para outras mídias.&lt;/p&gt;
 
 &lt;p&gt;A proposta da empresa é trazer para os dispositivos móveis a mesma qualidade vista nos games de console, sendo uma das grandes inspirações a criativa Nintendo.&lt;/p&gt;
 
-&lt;blockquote&gt;Starlit Adventures conta a aventura de Bo e Kikki tentando restabelecer a paz após Nuru ter roubado as estrelas do céu. Nele, os jogadores controlam a dupla através de 8 mundos, usando 9 trajes com habilidades únicas para solucionar puzzles, enfrentar inimigos e vencer chefões para recuperar as estrelas.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Starlit Adventures conta a aventura de Bo e Kikki tentando restabelecer a paz após Nuru ter roubado as estrelas do céu. Nele, os jogadores controlam a dupla através de 8 mundos, usando 9 trajes com habilidades únicas para solucionar puzzles, enfrentar inimigos e vencer chefões para recuperar as estrelas.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
 &lt;p&gt;Segundo Christian Lykawka as grandes referências do game são os clássicos Bomberman, Dig Dug, Mr. Driller e Boulder Dash.&lt;/p&gt;
 
-&lt;p&gt;Com  64 níveis divididos entre 8 mundos diferentes, o game promete ter um grande fator de replay, já que existem 9 trajes com habilidades únicas para enfrentar cada fase, trazendo assim 576 experiências diferentes ao jogar todas as fases com todos os trajes disponíveis.&lt;/p&gt;
+&lt;p&gt;Com 64 níveis divididos entre 8 mundos diferentes, o game promete ter um grande fator de replay, já que existem 9 trajes com habilidades únicas para enfrentar cada fase, trazendo assim 576 experiências diferentes ao jogar todas as fases com todos os trajes disponíveis.&lt;/p&gt;
 
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/f0X8W9ctGDI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -647,8 +644,6 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
 
 &lt;p&gt;Possui um total de 100 fases distribuídas entre 4 mundos diferentes, cada uma delas possuindo o chefão, sendo muitas vezes um chefe já enfrentado anteriormente, mas mais inteligente e poderoso. Em algumas fases o jogador terá que enfrentar mais de um chefão ao mesmo tempo, nessas horas o game ganha o direito de ser chamado de um verdadeiro bullet hell, mas ao vencer o primeiro desses desafios não fique achando que você é invencível, pois a partir do segundo mundo será bullet hell até o fim. Para ajudar a enfrentar o desafio crescente que cada fase apresenta, a fênix ganha experiência no fim de cada fase, tornando-se mais resistente e mais veloz, fora isso ainda existem as outras fênix que são libertadas durante o percurso e podem ser utilizadas nas batalhas.&lt;/p&gt;
 
-&lt;center&gt;&lt;/center&gt;
-
 &lt;p&gt;A trilha sonora, estilo medieval, combina bem com a estética e dá um tom interessante ao game, já que você controla uma grande fênix e não uma nave high-tech.&lt;/p&gt;
 
 &lt;p&gt;Phoenix Force é um shmup realmente desafiador, equilibrado na sua evolução, mas possuindo fases onde o jogador terá que jogar várias vezes até conseguir vencer, ainda mais que a morte acontece ao ser atingido apenas uma vez. Além disso, como em todo bom jogo do estilo, o jogador terá que ser um perito em atirar, mas mais ainda em desviar dos disparos do inimigo, chegando ao ponto de muitas vezes duvidar de ter conseguindo tal proeza.&lt;/p&gt;
@@ -659,13 +654,26 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
         &lt;iframe src=&quot;https://www.youtube.com/embed/ldhdq3oUiB8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;[sc:Review_rating pro1=”Gráficos criativos que fogem do padrão high-tech do gênero.” pro2=”Desafio crescente, o jogo começa leve até se tornar um bullet hell.” pro3=”Controles precisos, inclusive na versão mobile, onde é um desafio fazer shoot ‘em up palatáveis. “ con1=”Faltou uma tela antes da primeira aparição de cada chefão, mostrando seu nome e talvez sua história. Isso ajudaria na projeção do jogador, na imersão e também na hora de comentar com um amigo, pois falar ‘viu, eu derrotei o chefão com cara de caveira, asa de águia, roupa vermelha e lampião na mão’, complica muito a comunicação ;)” ]&lt;/p&gt;
+&lt;h3 id=&quot;prós&quot;&gt;Prós&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gráficos criativos que fogem do padrão high-tech do gênero&lt;/li&gt;
+  &lt;li&gt;Desafio crescente, o jogo começa leve até se tornar um bullet hell&lt;/li&gt;
+  &lt;li&gt;Controles precisos, inclusive na versão mobile, onde é um desafio fazer shoot ‘em up palatáveis.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;O jogo multiplataforma está disponível para &lt;a href=&quot;https://itunes.apple.com/us/app/id904743508?mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
-, Android, &lt;a href=&quot;http://www.windowsphone.com/s?appid=90b9eae4-8f5d-453f-81c9-eb815dfab189&quot; target=&quot;_blank&quot;&gt;Windows Phone&lt;/a&gt;
-, &lt;a href=&quot;http://www.splitplay.com/pt/games/phoenix-force&quot; target=&quot;_blank&quot;&gt;SplitPlay&lt;/a&gt;
- e &lt;a href=&quot;http://store.steampowered.com/app/332480&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
-.&lt;/p&gt;
+&lt;h3 id=&quot;contras&quot;&gt;Contras&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Faltou uma tela antes da primeira aparição de cada chefão, mostrando seu nome e talvez sua história. Isso ajudaria na projeção do jogador, na imersão e também na hora de comentar com um amigo, pois falar ‘viu, eu derrotei o chefão com cara de caveira, asa de águia, roupa vermelha e lampião na mão’, complica muito a comunicação ;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O jogo multiplataforma está disponível para:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/id904743508?mt=8&quot;&gt;iOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Android&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.windowsphone.com/s?appid=90b9eae4-8f5d-453f-81c9-eb815dfab189&quot;&gt;Windows Phone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.splitplay.com/pt/games/phoenix-force&quot;&gt;SplitPlay&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://store.steampowered.com/app/332480&quot;&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
@@ -719,50 +727,17 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  </entry>
  
  <entry>
-   <title>Imagens da semana #2</title>
-   <link href="http://example.com/2015/04/13/imagens-da-semana-2"/>
-   <updated>2015-04-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
-   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/g1/status/585017153042194432&quot;&gt;O game de plataforma old-school Super Doomed’n Damned, desenvolvido pelo brasileiro Claudio Lins em parceria com uma empresa espanhola, deve ser lançado ainda em 2015 para Xbox One, Wii U e PC&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/CatNigiri/status/585081682451103745&quot;&gt;O gato-mascote-logo da brasileira Cat Nigiri apareceu como um easter egg no jogo em desenvolvimento Chroma Squad da também brasileira Behold Studios&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/04/TorenTheMagician.jpg&quot;&gt;Na terceira imagem ficamos com outra bela arte do game Toren da Swordtales, agora é a vez de The Magician&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/SaeKawaii_xD/status/585863634879909888&quot;&gt;A equipe da Behold Studio lembrando da campanha para promover o lançamento do Chroma Squad no Thunderclap&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/585882344562814978&quot;&gt;A Reiza Studios lança seu game de corrida, o Copa Petrobras de Marcas, no Steam&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/586603400860540928&quot;&gt;A Odin Game Studio liberou novas imagens do game em desenvolvimento Better Later Than Dead. Conheça mais no game no post Novos vídeos de Better late than DEAD e Police Tactics&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/BigGreenPillow/status/586688542379810816&quot;&gt;A Big Green Pillow lança um novo update de seu game Porcunipine&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/narolol/status/587000919541342208&quot;&gt;Gabriel Naro, sound designer da Mgaia Studio, liberou uma screenshot do game Tiny Empire que ainda está em desenvolvimento e será lançado para iOS, Android e Windows Phone&lt;/a&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>Calango For Kids</title>
    <link href="http://example.com/2015/04/10/calango-for-kids"/>
    <updated>2015-04-10T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/10/calango-for-kids</id>
-   <content type="html">&lt;dl&gt;
-  &lt;dt&gt;Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do &lt;a href=&quot;http://www.scicast.com.br/&quot;&gt;&lt;strong&gt;SciCast&lt;/strong&gt;&lt;/a&gt;&lt;/dt&gt;
-  &lt;dd&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;“Porque a ciência tem que ser divertida”, pois foi exatamente esse o mote da equipe da Tinfoil ao desenvolver o jogo infantil que ajuda crianças a aprender matemática de forma divertida.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/dd&gt;
-&lt;/dl&gt;
+   <content type="html">&lt;p&gt;Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do &lt;a href=&quot;http://www.scicast.com.br/&quot;&gt;SciCast&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Porque a ciência tem que ser divertida&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pois foi exatamente esse o mote da equipe da Tinfoil ao desenvolver o jogo infantil que ajuda crianças a aprender matemática de forma divertida.&lt;/p&gt;
 
 &lt;p&gt;A jogabilidade criada, pensando em crianças entre 7 e 10 anos, é bem simples e intuitiva: uma operação matemática aparece na tela do iPad e o jogador precisa estourar os balões com os números que resolverão a equação.&lt;/p&gt;
 
@@ -774,9 +749,8 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
         &lt;iframe src=&quot;https://player.vimeo.com/video/95176768 &quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Calango for Kids foi &lt;a href=&quot;http://sbgames.org/sbgames2014/festival_de_jogos_finalistas&quot;&gt;finalista SBGGames 2014&lt;/a&gt;
- na categoria Serious Games e está disponível gratuitamente na &lt;a href=&quot;https://itunes.apple.com/br/app/calango-kids/id875886632?mt=8&quot; target=&quot;_blank&quot;&gt;App Store&lt;/a&gt;
-.&lt;/p&gt;
+&lt;h2 id=&quot;sbgames&quot;&gt;SBGames&lt;/h2&gt;
+&lt;p&gt;Calango for Kids foi &lt;a href=&quot;http://sbgames.org/sbgames2014/festival_de_jogos_finalistas&quot;&gt;finalista SBGames 2014&lt;/a&gt; na categoria Serious Games e está disponível gratuitamente na &lt;a href=&quot;https://itunes.apple.com/br/app/calango-kids/id875886632?mt=8&quot;&gt;App Store&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -785,16 +759,11 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
    <link href="http://example.com/2015/04/08/tank-invaders"/>
    <updated>2015-04-08T00:00:00-03:00</updated>
    <id>http://example.com/2015/04/08/tank-invaders</id>
-   <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;
-, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt;
- e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt;
- você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.&lt;/p&gt;
+   <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt; e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt; você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.&lt;/p&gt;
 
 &lt;p&gt;A melhor definição o estilo do game Tank Invaders da Mgaia Studio é o que a própria empresa dá: o único FPS shoot’em up.  A visão do jogo, como pode ser visto nas imagens e vídeo abaixo é no  estilo de clássicos shoot’em up, entretanto você não vê a sua “nave”, pois a visão é primeira pessoa, então chegamos a definição de estilo dado pelo Mgaia.&lt;/p&gt;
 
 &lt;p&gt;A jogabilidade de Tank Invaders funciona muito bem para a tela touch, pois é necessária muita agilidade para disparar nos diversos inimigos existentes no campo de visão, além de evitar acertar veículos de aliados e combinar power-ups para destruir tudo que está na tela.&lt;/p&gt;
-
-&lt;center&gt;&lt;/center&gt;
 
 &lt;p&gt;A Mgaia foi virtuosa na produção do game, desde os gráficos 3D que combinam muito bem com a ação, como a parte sonora que, além dos efeitos e da trilha, ainda possui personagens com vozes reais, como o General Rogers e a Tenente Miranda, dando aquele ar de filmes de ação dos anos 80/90. Em certas horas é como se estivéssemos num filme do Rambo.&lt;/p&gt;
 
@@ -810,10 +779,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
         &lt;iframe src=&quot;https://www.youtube.com/embed/HO7L192oCqI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Gostou do game, então aproveite e baixe-o gratuitamente: &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;
-, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt;
- e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt;
-.&lt;/p&gt;
+&lt;p&gt;Gostou do game, então aproveite e baixe-o gratuitamente: &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt; e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -827,9 +793,7 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
 &lt;p&gt;Sabendo disso a startup gaúcha &lt;a href=&quot;http://www.cupcakese.com&quot;&gt;Cupcake Sweet Entertainment&lt;/a&gt;
 , composta apenas por quatro integrantes, criou o game casual Letra de Ouro.&lt;/p&gt;
 
-&lt;p&gt;O jogo está disponível para &lt;a href=&quot;http://apps.facebook.com/letradeouro&quot;&gt;Facebook&lt;/a&gt;
- e &lt;a href=&quot;https://play.google.com/store/apps/details?id=air.letradeouro&quot;&gt;Android&lt;/a&gt;
-, entretanto, versões para iPhone e iPad estão no roadmap da Cupcake. Mesmo utilizando os recursos tecnológicos existentes nessas plataformas, Letra de ouro não perde a essência do jogo clássico de lápis e papel.&lt;/p&gt;
+&lt;p&gt;O jogo está disponível para &lt;a href=&quot;http://apps.facebook.com/letradeouro&quot;&gt;Facebook&lt;/a&gt; e &lt;a href=&quot;https://play.google.com/store/apps/details?id=air.letradeouro&quot;&gt;Android&lt;/a&gt; , entretanto versões para iPhone e iPad estão no roadmap da Cupcake. Mesmo utilizando os recursos tecnológicos existentes nessas plataformas, Letra de ouro não perde a essência do jogo clássico de lápis e papel.&lt;/p&gt;
 
 &lt;p&gt;Atualmente o game possui mais de 200 mil jogadores, número que aumenta a cada dia. Segundo os desenvolvedores 90% dos jogadores são mulheres, mostrando a mesma tendência de público do jogo clássico.&lt;/p&gt;
 
@@ -1061,8 +1025,7 @@ A Rockhead promente para breve uma versão Windows Phone.&lt;/p&gt;
    <link href="http://example.com/2013/05/13/biotest"/>
    <updated>2013-05-13T00:00:00-03:00</updated>
    <id>http://example.com/2013/05/13/biotest</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.biotest-app.com/&quot; target=&quot;_blank&quot;&gt;BioTest&lt;/a&gt;
- foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.biotest-app.com/&quot;&gt;BioTest&lt;/a&gt; foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.&lt;/p&gt;
 
 &lt;p&gt;Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile.&lt;/p&gt;
 
@@ -1072,10 +1035,8 @@ A Rockhead promente para breve uma versão Windows Phone.&lt;/p&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/-QR2GhQShGM &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;&lt;span style=&quot;color: #222222; font-family: arial, sans-serif; font-size: 13.333333969116211px;&quot;&gt;O jogo está disponível na &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.gamescamp.biotest&quot; target=&quot;_blank&quot;&gt;Google Play por U$0.99&lt;/a&gt;
- e na &lt;a href=&quot;https://itunes.apple.com/us/app/biotest/id636941373&quot; target=&quot;_blank&quot;&gt;Apple Store por U$1.99&lt;/a&gt;
-.&lt;/span&gt;&lt;/p&gt;
-
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;O jogo está disponível na &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.gamescamp.biotest&quot;&gt;Google Play por U$0.99&lt;/a&gt; e na &lt;a href=&quot;https://itunes.apple.com/us/app/biotest/id636941373&quot;&gt;Apple Store por U$1.99&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1416,9 +1377,7 @@ Com controles precisos e gr&amp;#225;ficos 3D competentes, TriboT &amp;#233; a p
    <link href="http://example.com/2012/10/30/crystal-catcher"/>
    <updated>2012-10-30T00:00:00-02:00</updated>
    <id>http://example.com/2012/10/30/crystal-catcher</id>
-   <content type="html">&lt;p&gt;Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever &lt;a href=&quot;http://site.crazyminds.net/p/crystal-catcher.html&quot; target=&quot;_blank&quot;&gt;Crystal Catcher&lt;/a&gt;
-, para iPhone e iPad, o último game da desenvolvedora brasileira &lt;a href=&quot;http://site.crazyminds.net&quot; target=&quot;_blank&quot;&gt;Crazy Minds Game Studio&lt;/a&gt;
-, que já esteve no jogosdaqui com o puzzle BLLUBY.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever &lt;a href=&quot;http://site.crazyminds.net/p/crystal-catcher.html&quot;&gt;Crystal Catcher&lt;/a&gt;, para iPhone e iPad, o último game da desenvolvedora brasileira &lt;a href=&quot;http://site.crazyminds.net&quot;&gt;Crazy Minds Game Studio&lt;/a&gt;, que já esteve no jogosdaqui com o puzzle BLLUBY.&lt;/p&gt;
 
 &lt;p&gt;Em Crystal Catcher o jogador entra na pele… ou melhor, na lata de um robô que precisa conseguir combustível para a sua nave. O combustível da nave? Os cristais espalhados pelo caminho do robô-bola-usain-bolt.&lt;/p&gt;
 
@@ -1426,11 +1385,11 @@ Com controles precisos e gr&amp;#225;ficos 3D competentes, TriboT &amp;#233; a p
 &lt;p&gt;O que diferencia esse game da Crazy Minds dos runners convencionais é a possibilidade que o jogador tem de transformar o robô em 5 diferentes formas:&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Iron: utilize contra paredes de tijolos&lt;/li&gt;
-	&lt;li&gt;Fire: invencível contra parades de gelo&lt;/li&gt;
-	&lt;li&gt;Bubble: flutua em buracos e ventiladores&lt;/li&gt;
-	&lt;li&gt;Basketball: pula sobre obstáculos&lt;/li&gt;
-	&lt;li&gt;Tennis: passa por baixo ou no meio de obstáculos&lt;/li&gt;
+  &lt;li&gt;Iron: utilize contra paredes de tijolos&lt;/li&gt;
+  &lt;li&gt;Fire: invencível contra parades de gelo&lt;/li&gt;
+  &lt;li&gt;Bubble: flutua em buracos e ventiladores&lt;/li&gt;
+  &lt;li&gt;Basketball: pula sobre obstáculos&lt;/li&gt;
+  &lt;li&gt;Tennis: passa por baixo ou no meio de obstáculos&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Utilizando a combinação dessas 5 formas o jogador precisa enfrentar os desafios pelo caminho e pensar rápido para utilizar a forma mais adequada para cada situação.&lt;/p&gt;
@@ -1447,13 +1406,13 @@ Com controles precisos e gr&amp;#225;ficos 3D competentes, TriboT &amp;#233; a p
 &lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
 &lt;p&gt;Com belos gráficos 3D e uma boa sonorização, Crystal Catcher é uma alternativa para quem curte um runner mais cerebral e desafiante&lt;/p&gt;
 
-&lt;p&gt;&lt;a id=&quot;trailer&quot;&gt;Trailer de Crystal Catcher&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;trailer-de-crystal-catcher&quot;&gt;Trailer de Crystal Catcher&lt;/h2&gt;
 
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/NwI9T9ooMKE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/crystal-catcher/id543078952?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;O game está disponível gratuitamente na App Store. Está esperando o que para colocar o robô para correr?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/crystal-catcher/id543078952?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;O game está disponível gratuitamente na App Store. Está esperando o que para colocar o robô para correr?&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1552,24 +1511,22 @@ A &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&g
    <link href="http://example.com/2012/08/08/hipercubo"/>
    <updated>2012-08-08T00:00:00-03:00</updated>
    <id>http://example.com/2012/08/08/hipercubo</id>
-   <content type="html">&lt;p&gt;Definição de Hipercubo da Wikipédia: &amp;gt; Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos de mesmo tamanho e comprimento.&quot;&lt;/p&gt;
+   <content type="html">&lt;p&gt;Definição de Hipercubo da Wikipédia:&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos de mesmo tamanho e comprimento.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p style=&quot;text-align: left;&quot;&gt;Defini&amp;#231;&amp;#227;o de Hipercubo da Studio Avante: &amp;gt; Quando um cubo &amp;#233; esticado na quarta dimens&amp;#227;o, ele se torna um Hipercubo, composto de 8 cubos interligados. Este &amp;#233; um jogo de labirinto que se passa dentro de um Hipercubo. Voc&amp;#234; precisar&amp;#225; girar, torcer e virar o Hipercubo do avesso para trazer os 8 cubos conforme forem pedidos, desviando de obst&amp;#225;culos, procurando poderes e maneiras de entrar em cubos trancados.&amp;quot;
- 
-Com essa premissa &amp;#233; que a brasileira Studio Avante criou o puzzle Hipercubo para iPod, iPhone e iPad. O game j&amp;#225; possui alguns pr&amp;#234;mios em sua trajet&amp;#243;ria, como o pr&amp;#234;mio de melhor game mobile no Festival de Jogos Independentes da SBGames 2009.
- 
+&lt;p&gt;Definição de Hipercubo da Studio Avante:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Quando um cubo é esticado na quarta dimensão, ele se torna um Hipercubo, composto de 8 cubos interligados. Este é um jogo de labirinto que se passa dentro de um Hipercubo. Você precisará girar, torcer e virar o Hipercubo do avesso para trazer os 8 cubos conforme forem pedidos, desviando de obstáculos, procurando poderes e maneiras de entrar em cubos trancados.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
 
- 
- 
-Al&amp;#233;m de  muito bem acabado, o game tem um estilo bem pr&amp;#243;prio e deve agradar os amantes de puzzles. Talvez pare&amp;#231;a complexo a primeira vista, mas basta o jogador experimentar os primeiros movimentos e logo j&amp;#225; estar&amp;#225; familiarizado com a jogabilidade.
-&lt;strong&gt;Hipercubo possui duas vers&amp;#245;es: &lt;a href=&quot;http://itunes.com/apps/HipercuboBRFreestyle&quot; target=&quot;_blank&quot;&gt;Freestyle (gratu&amp;#237;ta)&lt;/a&gt;
- e a &lt;a href=&quot;http://itunes.com/apps/HipercuboBR&quot; target=&quot;_blank&quot;&gt;Desafio (US$ 1,99)&lt;/a&gt;
-, sendo essa completa com um total 56 fases.&lt;/strong&gt;
- 
-&lt;/p&gt;
+&lt;p&gt;Com essa premissa é que a brasileira Studio Avante criou o puzzle Hipercubo para iPod, iPhone e iPad. O game já possui alguns prêmios em sua trajetória, como o prêmio de melhor game mobile no Festival de Jogos Independentes da SBGames 2009.&lt;/p&gt;
+
+&lt;p&gt;Além de  muito bem acabado, o game tem um estilo bem próprio e deve agradar os amantes de puzzles. Talvez pareça complexo a primeira vista, mas basta o jogador experimentar os primeiros movimentos e logo já estará familiarizado com a jogabilidade.&lt;/p&gt;
+
+&lt;h2 id=&quot;versões&quot;&gt;Versões&lt;/h2&gt;
+&lt;p&gt;Hipercubo possui duas versões: &lt;a href=&quot;http://itunes.com/apps/HipercuboBRFreestyle&quot;&gt;Freestyle (gratuíta)&lt;/a&gt; e a &lt;a href=&quot;http://itunes.com/apps/HipercuboBR&quot;&gt;Desafio (US$ 1,99)&lt;/a&gt;, sendo essa completa com um total 56 fases.&lt;/p&gt;
 </content>
  </entry>
  
@@ -1770,9 +1727,9 @@ Quando o jogador atinge um bom recorde, pode mostrar o seu feito ao mundo atrav&
    <link href="http://example.com/2011/10/14/blluby"/>
    <updated>2011-10-14T00:00:00-03:00</updated>
    <id>http://example.com/2011/10/14/blluby</id>
-   <content type="html">&lt;p&gt;Apesar de ter um gosto eclético para games e navegar bem entre todas as categorias, desde os games mais casuais até os mais hardcore, sempre tive uma predileção por puzzles. E foi por isso que recebi com grata surpresa o game BLLUBY, da brasileira &lt;a href=&quot;http://site.crazyminds.net/&quot; target=&quot;_blank&quot;&gt;Crazy Minds&lt;/a&gt;
-, para iPhone, iPod e iPad.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Apesar de ter um gosto eclético para games e navegar bem entre todas as categorias, desde os games mais casuais até os mais hardcore, sempre tive uma predileção por puzzles. E foi por isso que recebi com grata surpresa o game BLLUBY, da brasileira &lt;a href=&quot;http://site.crazyminds.net/&quot;&gt;Crazy Minds&lt;/a&gt;, para iPhone, iPod e iPad.&lt;/p&gt;
 
+&lt;h2 id=&quot;blluby&quot;&gt;BLLUBY&lt;/h2&gt;
 &lt;p&gt;BLLUBY é um puzzle que traz uma mecânica simples: em um ambiente de formas geométricas básicas, o jogador deve  levar um pequeno cubo azul até um outro cubo, marcado com um alvo na outra extremidade da fase, sendo que não deve passar novamente sobre os mesmo quadrados. Com essa mecânica, que pode ser descrita em poucas linhas, e com a adição de novos elementos, temos um jogo que certamente vai cativar os amantes de puzzles.&lt;/p&gt;
 
 &lt;center&gt;
@@ -1785,18 +1742,30 @@ Quando o jogador atinge um bom recorde, pode mostrar o seu feito ao mundo atrav&
 
 &lt;p&gt;Na parte gráfica o jogo faz bonito, tendo um belo e agradável visual 3D que se encaixa perfeitamente a jogabilidade do puzzle.&lt;/p&gt;
 
-&lt;p&gt;[sc:Review_rating pro1=”Desafio crescente, são 100 fases no total.” pro2=”Adição de novas regras e artifícios conforme o jogador evolui.” pro3=”Gráficos e sons sem encaixam bem na jogabilidade.” con1=”Não é possível retornar a fases já completadas (as vezes você quer demonstrar para alguém aquela fase gigante que completou com movimentos geniais!).” con2=”Os menus poderiam ser um pouco mais rápidos.”]&lt;/p&gt;
+&lt;h3 id=&quot;prós&quot;&gt;Prós&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Desafio crescente, são 100 fases no total.&lt;/li&gt;
+  &lt;li&gt;Adição de novas regras e artifícios conforme o jogador evolui.&lt;/li&gt;
+  &lt;li&gt;Gráficos e sons sem encaixam bem na jogabilidade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;contras&quot;&gt;Contras&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Não é possível retornar a fases já completadas (as vezes você quer demonstrar para alguém aquela fase gigante que completou com movimentos geniais!).&lt;/li&gt;
+  &lt;li&gt;Os menus poderiam ser um pouco mais rápidos.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Se você gosta de bons games para iOS, então deves conferir BLLUBY. Agora, se você gosta de puzzles e ainda gosta de bons games para iOS, então BLLUBY é, certamente, um “must have”.&lt;/p&gt;
 
+&lt;h2 id=&quot;versões&quot;&gt;Versões&lt;/h2&gt;
 &lt;p&gt;Você pode conferir BLLUBY em duas versões:&lt;/p&gt;
 
-&lt;p&gt;Full (US$ 0,99): &lt;a href=&quot;http://itunes.apple.com/us/app/blluby-game/id427714117?mt=8&quot;&gt;http://itunes.apple.com/us/app/blluby-game/id427714117?mt=8&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Full (US$ 0,99): &lt;a href=&quot;http://site.crazyminds.net/&quot;&gt;http://itunes.apple.com/us/app/blluby-game/id427714117?mt=8&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lite (free): &lt;a href=&quot;http://itunes.apple.com/us/app/blluby-lite/id439313037?mt=8&quot;&gt;http://itunes.apple.com/us/app/blluby-lite/id439313037?mt=8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Lite (free): &lt;a href=&quot;http://itunes.apple.com/us/app/blluby-lite/id439313037?mt=8&quot;&gt;http://itunes.apple.com/us/app/blluby-lite/id439313037?mt=8&lt;/a&gt;
-&amp;lt;&lt;/p&gt;
-
-&lt;h5&gt;PROMOÇÃO&lt;/h5&gt;
+&lt;h2 id=&quot;promoção&quot;&gt;Promoção&lt;/h2&gt;
 &lt;p&gt;Serão sorteados, via http://sorteie.me, &lt;strong&gt;5 promocodes&lt;/strong&gt; da versão full de BLLUBY às 18:00 de hoje (14/10/11) entre os leitores que derem RT no nosso tweet sobre BLLUBY: &lt;a href=&quot;http://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;http://twitter.com/jogosdaqui&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Participem!&lt;/p&gt;
@@ -2122,99 +2091,6 @@ Não se deixe levar pelo nome estranho: Jules: Unboxing the World é mais divert
 
 &lt;p&gt;O game pode ser jogado de 1 a 4 jogadores e está &lt;a href=&quot;http://itunes.apple.com/us/app/memomax-hd/id407850268?mt=8&quot; target=&quot;_blank&quot;&gt;disponível na App Store&lt;/a&gt;
 .&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Os fatos do ano</title>
-   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2"/>
-   <updated>2010-12-31T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/31/os-fatos-do-ano-2</id>
-   <content type="html">&lt;p&gt;Perguntamos aos nossos leitores: &lt;strong&gt;&amp;gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?&quot;&lt;/strong&gt;.
-As respostas foram variadas, confira:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jogo Justo&lt;/strong&gt;
-&lt;strong&gt;
-Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. 
-Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem.
-&lt;a href=&quot;http://www.jogojusto.com.br/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://jogos.uol.com.br/ultnot/multi/2010/07/14/ult530u7924.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Projeto visa reduzir imposto de games de 80% para 15%&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Eventos de games&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Neste ano tivemos diversos eventos sobre games no país, entre eles destaca-se o Brasil Game Show, que bateu recordes de público.
-A edição de 2011 está agendada para outubro e deve dobrar de tamanho e receber até 40 mil visitantes.
-&lt;a href=&quot;http://www.brasilgameshow.com.br/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://jogos.uol.com.br/ultnot/multi/2010/11/21/ult530u8707.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Com &quot;Mortal Kombat&quot; e jogos de dança, Brasil Game Show movimenta RJ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mudança de estratégia para o Zeebo&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Neste ano o Zeebo mudou seu foco: entretenimento para toda a família, acesso a internet através de sua rede 3G, novo teclado e parcerias com Disney e Maurício de Souza Produções.
-&lt;a href=&quot;http://www.zeebo.com.br/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://jogos.uol.com.br/playstation3/ultnot/2010/09/01/ult530u8154.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Com nova filosofia, Zeebo ganha acesso à internet, jogos da Disney e Turma da Mônica&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jogos para iPhone/iPod/iPad&lt;/strong&gt;
-&lt;strong&gt;
-Durante o ano foi possível apreciar diversos lançamentos de games brasileiros para as plataformas da Apple, como:
-&lt;a href=&quot;http://www.mylumaki.com/&quot; target=&quot;_blank&quot;&gt;Lumaki&lt;/a&gt;
-, &lt;a href=&quot;http://ovnistudios.com/dodgeballsafari&quot; target=&quot;_blank&quot;&gt;Dodgeball Safari&lt;/a&gt;
-, &lt;a href=&quot;http://www.thegravediggergame.com/&quot; target=&quot;_blank&quot;&gt;The Gravedigger&lt;/a&gt;
- e &lt;a href=&quot;http://www.julesunboxingtheworld.com/&quot; target=&quot;_blank&quot;&gt;Jules Unboxing the World&lt;/a&gt;
-.
-&lt;a href=&quot;http://jogos.uol.com.br/album/jogos_brasileiros_iphone_album.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Jogos brasileiros para iPhone&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Freekscape: Escape From Hell&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Além de ter sido mencionado como um dos games brasileiros mais jogados, Freekscape também entrou na lista de fatos do ano, pois foi o primeiro, e até o momento o único, game brasileiro para PSP.
-&lt;a href=&quot;http://www.freekscape.com/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;PS3 lançado oficialmente no Brasil&lt;/strong&gt;
-&lt;strong&gt;
-Depois de anos de vida, o PS3 é lançado oficialmente pela Sony no Brasil.
-&lt;a href=&quot;http://jogos.uol.com.br/playstation3/ultnot/2010/08/11/ult4100u1790.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Por R$ 1.999, Sony Style começa a vender PS3 no Brasil&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Double Jump&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Desenvolvedores brasileiros de games, que atuam na indústria, falando sobre games, produção e mercado.
-Além do blog, existe o podcast, onde discutem mais profundamente assuntos relacionados a indústria.
-&lt;a href=&quot;http://www.doublejump.com.br&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Novos estúdios&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Novos estúdios surgiram por todos os cantos do país e estão produzindo e lançando games para diversas plataformas.
-&lt;a href=&quot;http://goo.gl/PymUK&quot; target=&quot;_blank&quot;&gt;Mapa com as empresas brasileiras de desenvolvimento de jogos&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;e-Games&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Concurso realizado pelo Senac para incentivar a criação de games no Brasil. A segunda edição do concurso obteve ótimos resultados, tendo como vencedor o game Talbot’s Odyssey do estúdio &lt;a href=&quot;http://studiominiboss.blogspot.com/2010/11/talbots-odyssey-wins-senac-e-games-2010.html&quot; target=&quot;_blank&quot;&gt;MiniBoss&lt;/a&gt;
-.
-&lt;a href=&quot;http://www3.sp.senac.br/hotsites/gd2/egames/&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://jogos.uol.com.br/ultnot/multi/2010/10/21/ult530u8485.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Senac abre concurso para premiar novos talentos em produção de jogos no Brasil&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.doublejump.com.br/archives/1838&quot; target=&quot;_blank&quot;&gt;DoubleJump - E-Games 2010&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Investida da Blizzard no Brasil&lt;/strong&gt;
-&lt;strong&gt;
-A Blizzard abriu um escritório no país e começou suas operações com o lançamento de StarCraft II dublado em português. O game foi lançado com um evento para a imprensa e gamers.
-&lt;a href=&quot;http://jogos.uol.com.br/pc/ultnot/2010/04/12/ult182u8357.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Blizzard prepara lançamento de &quot;StarCraft II&quot; no Brasil&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saída dos estúdios de desenvolvimento da Ubisoft do Brasil&lt;/strong&gt;
-Em 2008 a Ubisoft inaugurou seu primeiro estúdio de desenvolvimento de jogos no Brasil, porém em 2010 fechou todos os estúdios de desenvolvimento no Brasil, focando apenas na parte comercial.
-2008: &lt;a href=&quot;http://jogos.uol.com.br/reportagens/ultnot/2008/06/24/ult2240u128.jhtm&quot;&gt;UOL Jogos - Ubisoft inaugura estúdio de produção de jogos no Brasil&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2010: &lt;a href=&quot;http://jogos.uol.com.br/ultnot/multi/2010/09/30/ult530u8344.jhtm&quot; target=&quot;_blank&quot;&gt;UOL Jogos - Ubisoft fechará estúdios no Brasil até fim do ano e foca em distribuição e varejo&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;StairLabs&lt;/p&gt;
-
-&lt;p&gt;O StairLabs promete dar uma ajuda para que criadores de games independentes consigam produzir e publicar seus games e transformá-los em produto.
-&lt;a href=&quot;http://www.stairslabs.com.br&quot; target=&quot;_blank&quot;&gt;Site oficial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Esses foram os fatos de 2010, segundo nossos leitores, para a indústria de desenvolvimento de jogos brasileira. Um grande ano, sem dúvida, mas que ficará pequeno quando 2011 estiver terminando.
-Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.&lt;/p&gt;
 </content>
  </entry>
  

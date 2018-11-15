@@ -88,6 +88,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -103,27 +109,100 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/16/war-of-malquidious">Prévia de War of Malquidious da PalmSoft</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/12/16/war-of-malquidious/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    War of Malquidious, o novo RPG tático para celular da PalmSoft Tecnologia. O jogador controlará as tropas do reino de Feltrano na luta para restaurar a paz. Paz esta que foi quebrada pelo deus demônio conhecido como Malquidious. Dio Benetti será o seu nome, um tenente que comandará as tropas...
+    </div>
+
+    <a href="/2005/12/16/war-of-malquidious" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/07/previa-de-winguel">Prévia de Winguel</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Winguel é um simpático alienígena que, ao passear por Marte, encontra uma sonda terráquea e resolve devolvê-la aos humanos na terra. Ao chegar em órbita terrestre, a nave de Winguel é atacada pela WUC (World UFO Control). A missão do jogo é encontrar os pedaços da nave explodida. Winguel é...
+    </div>
+
+    <a href="/2005/12/07/previa-de-winguel" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/16/previa-de-bola-de-gude">Prévia de Bola de Gude</a></h1>
@@ -160,6 +239,8 @@
     <a href="/2005/11/16/previa-de-bola-de-gude" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards">Primeiras imagens de Gods of The Virtual Boards</a></h1>
@@ -242,20 +323,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

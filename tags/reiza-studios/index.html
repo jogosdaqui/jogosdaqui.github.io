@@ -84,6 +84,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,26 +105,14 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <h2>reiza-studios</h2>
 <ul>
 
   <li><a href="/2015/07/24/gamedev-brasileira-arrecada-mais-de-us-78-000-em-campanha-de-crowdsourcing">Gamedev brasileira arrecada mais de US$ 78.000 em campanha de crowdsourcing</a> (24/07/2015)</li>
 
   <li><a href="/2015/06/15/imagens-da-semana-11">Imagens da semana #11</a> (15/06/2015)</li>
+
+  <li><a href="/2015/06/01/imagens-da-semana-9">Imagens da semana #9</a> (01/06/2015)</li>
 
   <li><a href="/2015/05/25/imagens-da-semana-8">Imagens da semana #8</a> (25/05/2015)</li>
 
@@ -132,20 +126,6 @@
 
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

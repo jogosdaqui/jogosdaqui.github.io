@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Shangai</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -153,12 +159,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/01/31/shangai/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/31/shangai/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Com Shangai você pode jogar o clássico dominó chinês diretamente na internet.<br /><br />Na primeira vez que você vê o tabuleiro, o jogo pode parecer complexo, mas na verdade é simples. A regra básica é clicar em 2 peças idênticas para removê-las, apenas as peças totalmente visíveis e não bloqueadas por outras peças podem ser removidas.<br /><br />Shangai possui 4 modos de dificuldade: Clássico, Fácil, Médio e Difícil. Cada um deles monta o tabuleiro de forma diferente.<br /><br />Caso você tenha dificuldades no início do jogo, pode pedir auxílio no botão dica, assim o jogo mostra uma boa jogada.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -166,29 +173,33 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/01/31/shangai/Screenshot_334.png">
-          <img src="../../../../../images/galleries/2006/01/31/shangai/Screenshot_334.png"/>        
+        <li data-thumb="/images/galleries/2006/01/31/shangai/Screenshot_334.png">
+          <img src="/images/galleries/2006/01/31/shangai/Screenshot_334.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/31/shangai/Screenshot_336.png">
-          <img src="../../../../../images/galleries/2006/01/31/shangai/Screenshot_336.png"/>        
+        <li data-thumb="/images/galleries/2006/01/31/shangai/Screenshot_336.png">
+          <img src="/images/galleries/2006/01/31/shangai/Screenshot_336.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/31/shangai/Screenshot_333.png">
-          <img src="../../../../../images/galleries/2006/01/31/shangai/Screenshot_333.png"/>        
+        <li data-thumb="/images/galleries/2006/01/31/shangai/Screenshot_333.png">
+          <img src="/images/galleries/2006/01/31/shangai/Screenshot_333.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/31/shangai/Screenshot_335.png">
-          <img src="../../../../../images/galleries/2006/01/31/shangai/Screenshot_335.png"/>        
+        <li data-thumb="/images/galleries/2006/01/31/shangai/Screenshot_335.png">
+          <img src="/images/galleries/2006/01/31/shangai/Screenshot_335.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -210,6 +221,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -256,20 +268,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

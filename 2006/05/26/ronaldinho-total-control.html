@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Ronaldinho Total Control</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -163,7 +169,8 @@
  </center>
     <p>Prove que é o melhor jogador de futebol do mundo! Calce as chuteiras de Ronaldinho, seja ágil e entre no ritmo perfeito para manter a bola sempre no ar. Faça seqüências e combinações de embaixadinhas perfeitas para conseguir bônus, colecione itens para facilitar seu desempenho e conquiste a maior pontuação. Entre na Meantime Arena, coloque seu nome no hall da fama do ranking de Ronaldinho Controle Total e compita com jogadores do mundo inteiro!</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -171,37 +178,41 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_599.png">
-          <img src="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_599.png"/>        
+        <li data-thumb="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_599.png">
+          <img src="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_599.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_602.png">
-          <img src="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_602.png"/>        
+        <li data-thumb="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_602.png">
+          <img src="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_602.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_604.png">
-          <img src="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_604.png"/>        
+        <li data-thumb="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_604.png">
+          <img src="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_604.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_601.png">
-          <img src="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_601.png"/>        
+        <li data-thumb="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_601.png">
+          <img src="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_601.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_603.png">
-          <img src="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_603.png"/>        
+        <li data-thumb="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_603.png">
+          <img src="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_603.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_600.png">
-          <img src="../../../../../images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_600.png"/>        
+        <li data-thumb="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_600.png">
+          <img src="/images/galleries/2006/05/26/ronaldinho-total-control/Screenshot_600.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -223,6 +234,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -269,20 +281,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

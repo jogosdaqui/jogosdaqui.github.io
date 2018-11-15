@@ -98,6 +98,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +119,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -147,7 +139,21 @@
 <article class="post">
   <h1>Ottomax</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -175,7 +181,8 @@
 <p>Ao longo do game, o jogador deve estudar a situação da empresa e identificar oportunidades para depois aproveitar a chance de desenvolver seu próprio projeto. No fim do game o jogador recebe um relatório com uma análise completa de suas características empreendedoras.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -183,37 +190,41 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_4.jpg">
-          <img src="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_4.jpg">
+          <img src="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_8.jpg">
-          <img src="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_8.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_8.jpg">
+          <img src="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_8.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_7.jpg">
-          <img src="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_7.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_7.jpg">
+          <img src="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_7.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_2.jpg">
-          <img src="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_2.jpg">
+          <img src="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_3.jpg">
-          <img src="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_3.jpg">
+          <img src="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_9.jpg">
-          <img src="../../../../../images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_9.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_9.jpg">
+          <img src="/images/galleries/2005/11/03/ottomax/InsolitaStudios_Ottomax_9.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -235,6 +246,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -281,20 +293,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

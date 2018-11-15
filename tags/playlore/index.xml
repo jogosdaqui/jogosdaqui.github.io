@@ -3,7 +3,7 @@
  <title>Your Title - playlore</title>
  <link href="http://example.com/tags/playlore/index.xml" rel="self"/>
  <link href="http://example.com/tag/playlore.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/playlore.html</id>
  <author>
    <name>Author Here</name>
@@ -26,7 +26,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Riding Ground, game desenvolvido pela Preloud &lt;/span&gt;&lt;/center&gt;
 
@@ -41,7 +41,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -75,7 +75,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;../../../../images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
+        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 

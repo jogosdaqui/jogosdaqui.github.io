@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Cat Fighters</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -157,12 +163,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/08/04/cat-fighters/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/08/04/cat-fighters/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A busca pelo Gato de Bastet - um artefato que pode trazer grandes poderes para seu possuidor - vai reunir as cinco aventureiras mais lindas do planeta em uma missão, onde o objetivo é capturar e proteger esta relíquia sagrada!<br />O gosto por aventura é o que motiva as belas aventureiras a desafiarem umas as outras para conseguir o poderoso artefato.<br /><br /><br /><span style="font-weight: bold;">História</span><br />Trevor Baynes, um milionário excêntrico, está em busca do poderoso Gato de Bastet; seus verdadeiros objetivos, porém, estão ocultos pela sua forte personalidade. Baynes contrata cinco mulheres para resolver este caso e oferece uma recompensa para quem trouxer a relíquia. Seu objetivo está traçado e sua busca começa agora!<br /><br /><br /><span style="font-weight: bold;">Características</span><br />- 5 personagens de tirar o fôlego;<br />- 5 cenários para completar sua viagem;<br />- 2 modos de combate, incluindo o já clássico Modo Suicida;<br />- Recordes on-line, para mostrar a todos seu grande potencial;<br />- Desbloqueio de personagem ao fechar o jogo no nível difícil.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -170,41 +177,45 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_664.png">
-          <img src="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_664.png"/>        
+        <li data-thumb="/images/galleries/2006/08/04/cat-fighters/Screenshot_664.png">
+          <img src="/images/galleries/2006/08/04/cat-fighters/Screenshot_664.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_668.png">
-          <img src="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_668.png"/>        
+        <li data-thumb="/images/galleries/2006/08/04/cat-fighters/Screenshot_668.png">
+          <img src="/images/galleries/2006/08/04/cat-fighters/Screenshot_668.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_662.png">
-          <img src="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_662.png"/>        
+        <li data-thumb="/images/galleries/2006/08/04/cat-fighters/Screenshot_662.png">
+          <img src="/images/galleries/2006/08/04/cat-fighters/Screenshot_662.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_667.png">
-          <img src="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_667.png"/>        
+        <li data-thumb="/images/galleries/2006/08/04/cat-fighters/Screenshot_667.png">
+          <img src="/images/galleries/2006/08/04/cat-fighters/Screenshot_667.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_665.png">
-          <img src="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_665.png"/>        
+        <li data-thumb="/images/galleries/2006/08/04/cat-fighters/Screenshot_665.png">
+          <img src="/images/galleries/2006/08/04/cat-fighters/Screenshot_665.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_663.png">
-          <img src="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_663.png"/>        
+        <li data-thumb="/images/galleries/2006/08/04/cat-fighters/Screenshot_663.png">
+          <img src="/images/galleries/2006/08/04/cat-fighters/Screenshot_663.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_666.png">
-          <img src="../../../../../images/galleries/2006/08/04/cat-fighters/Screenshot_666.png"/>        
+        <li data-thumb="/images/galleries/2006/08/04/cat-fighters/Screenshot_666.png">
+          <img src="/images/galleries/2006/08/04/cat-fighters/Screenshot_666.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -226,6 +237,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -272,20 +284,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

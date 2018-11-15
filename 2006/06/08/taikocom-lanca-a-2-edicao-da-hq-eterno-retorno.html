@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Taikocom lança a 2° edição da HQ Eterno Retorno</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -168,7 +174,8 @@
 Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, também acredita que a Grafic Novel tem uma vital importância para compreender o intrincado universo do Taikodom e seus fundamentos e não economiza elogios para a publicação. "Os gráficos são maravilhosos. Apesar de trabalhar na área há alguns anos, fiquei na expectativa nas primeiras reuniões, pois o que os autores me apresentaram era algo totalmente novo, conceitos arrojados e infinitas possibilidades", conta o desenhista, que juntou o traço do mangá - um estilo de quadrinho oriental - com o desenho europeu para dar um diferencial na revista. "Quem leu o número Zero da série vai perceber que o número um está bem superior, não apenas na trama mais pela qualidade gráfica que se refina progressivamente", acrescenta.<br /><br />Esta nova edição da Graphic Novel narra as aventuras de Gao Jung, um ex-agente da polícia internacional antiterrorismo do século XXI que, após despertar cento e cinqüenta anos depois de sua morte, tem a difícil missão de enfrentar a imortalidade como um castigo. Assim como Gao, o leitor vai descobrir que viver e morrer à luz de um futuro tecnológico quase milagroso, mas irredutivelmente imperfeito, é muito mais que simplesmente fazer parte do jogo.<br /><br />O universo Taikodom foi criado e desenvolvido junto com o escritor Gerson Lodi-Ribeiro. A Graphic Novel tem o roteiro assinado pelo jornalista Roctavio de Castro, com argumentos de Tarqüínio Teles e Cristóvão Buzzarello, da Hoplon. O desenho e a arte final são do ilustrador Eduardo Ferrara, que desenvolveu projetos como Metal Metal Djambers, Antimatéria, Zuretas, ilustrações para RPG e editoriais. O download da edição pode ser feita no <a href="http://www.taikodom.com.br">www.taikodom.com.br</a>
 .</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -176,33 +183,37 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_626.png">
-          <img src="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_626.png"/>        
+        <li data-thumb="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_626.png">
+          <img src="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_626.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_628.png">
-          <img src="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_628.png"/>        
+        <li data-thumb="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_628.png">
+          <img src="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_628.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_629.png">
-          <img src="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_629.png"/>        
+        <li data-thumb="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_629.png">
+          <img src="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_629.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_627.png">
-          <img src="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_627.png"/>        
+        <li data-thumb="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_627.png">
+          <img src="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_627.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_625.png">
-          <img src="../../../../../images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_625.png"/>        
+        <li data-thumb="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_625.png">
+          <img src="/images/galleries/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno/Screenshot_625.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -224,6 +235,7 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
     });
   });
 </script>
+
 
   </div>
 
@@ -272,20 +284,6 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

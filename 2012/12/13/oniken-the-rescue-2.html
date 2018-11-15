@@ -101,6 +101,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@
 <article class="post">
   <h1>Oniken: The Rescue</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -183,7 +189,8 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  por U$4,99, disponível para Windows, Linux e Mac, sendo que o jogador pode baixa-lo para qualquer uma das três plataformas e ainda ganha a trilha sonora oficial e a versão digital do manual.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -191,21 +198,25 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2012/12/13/oniken-the-rescue-2/mission_jenny4_big.png">
-          <img src="../../../../../images/galleries/2012/12/13/oniken-the-rescue-2/mission_jenny4_big.png"/>        
+        <li data-thumb="/images/galleries/2012/12/13/oniken-the-rescue-2/mission_jenny4_big.png">
+          <img src="/images/galleries/2012/12/13/oniken-the-rescue-2/mission_jenny4_big.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2012/12/13/oniken-the-rescue-2/mission_jenny2_big.png">
-          <img src="../../../../../images/galleries/2012/12/13/oniken-the-rescue-2/mission_jenny2_big.png"/>        
+        <li data-thumb="/images/galleries/2012/12/13/oniken-the-rescue-2/mission_jenny2_big.png">
+          <img src="/images/galleries/2012/12/13/oniken-the-rescue-2/mission_jenny2_big.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -227,6 +238,7 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
     });
   });
 </script>
+
 
   </div>
 
@@ -287,20 +299,6 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

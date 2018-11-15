@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,7 +110,102 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
+      <article class="page">
+  <div class="entry">
+    <div class="posts">
+ 
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/29/petrakas-malabares-da-simplesware-games">Petrakas Malabares da SimplesWare Games</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A mineira SimplesWare Games, fundada em 2005, cria jogos para celular
+ e PC
+. Seu primeiro jogo publicado no jogodaqui é o inusitado Petrakas Malabares, um jogo de malabarismo.Veja o jogo…
+
+
+    </div>
+
+    <a href="/2006/06/29/petrakas-malabares-da-simplesware-games" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/21/brutomemo-druids-battle-of-magic">BrutoMemo, Druids: Battle of Magic</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Druids: Battle of Magic, é o primeiro jogo comercial da empresa BrutoMemo. Fundada em 2005, difundiu seis de seus jogos gratuitos em seu site.  A empresa tem mais dois jogos em andamento para serem finalizados este ano. Veja o novo jogo da BrutoMemo…
+
+
+    </div>
+
+    <a href="/2006/06/21/brutomemo-druids-battle-of-magic" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/20/vencedores-do-jogosbr-2006">Vencedores do JogosBR 2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Veja as listas dos vencedores dos concursos do JogosBR edição 2006:Demos JogáveisBrasilia Tropicalis (Thiago Salgado Aiache de Moraes)Conspiração Dumont (Guilherme Mattos Coutinho)Flora (Francisco Oliveira de Queiroz)Fórmula Galaxy (Artur Corrêa)Inferno (Alexandre Vrubel)Léx (Tiago Pinheiro Teixeira)Trem de Doido (Marcos André Penna Coutinho)Zumbi, o rei dos Palmares (Nicholas Lima de Souza)Lista de Reserva...
+    </div>
+
+    <a href="/2006/06/20/vencedores-do-jogosbr-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/20/anunciados-os-vencedores-do-jogosbr-2006">Anunciados os vencedores do JogosBR 2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A organização do JogosBR anunciou os vencedores da edição 2006 dos concursos de Demos Jogáveis e Jogos Completos de Baixo Orçamento.Veja os vencedores…
+
+
+    </div>
+
+    <a href="/2006/06/20/anunciados-os-vencedores-do-jogosbr-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -118,13 +219,7 @@
 </script>
 
 <br> 
-      <article class="page">
-
-  <h1></h1>
-
-  <div class="entry">
-    <div class="posts">
-
+    
     <article class="post">
 
     <h1><a href="/2006/06/19/dance-mania-finalista-do-java-masters">Dance Mania finalista do Java Masters</a></h1>
@@ -143,6 +238,8 @@
     <a href="/2006/06/19/dance-mania-finalista-do-java-masters" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/16/jogo-da-meantime-faz-sucesso-no-reino-unido">Jogo da Meantime faz sucesso no Reino Unido</a></h1>
@@ -161,6 +258,8 @@
     <a href="/2006/06/16/jogo-da-meantime-faz-sucesso-no-reino-unido" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/14/newsabragames-junho-2006">NewsAbragames - Junho/2006</a></h1>
@@ -183,6 +282,8 @@
     <a href="/2006/06/14/newsabragames-junho-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno">Taikocom lança a 2° edição da HQ Eterno Retorno</a></h1>
@@ -211,6 +312,8 @@
     <a href="/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/06/microways-limoes-na-copa">Microways, Limões na Copa</a></h1>
@@ -233,6 +336,8 @@
     <a href="/2006/06/06/microways-limoes-na-copa" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/05/bola-de-gude-ganha-estrela-de-ouro">Bola de Gude ganha "Estrela de Ouro"</a></h1>
@@ -249,80 +354,6 @@
     </div>
 
     <a href="/2006/06/05/bola-de-gude-ganha-estrela-de-ouro" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados">Demos Jogáveis do JogosBR, projetos classificados</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Após anunciar os 18 projetos classificados do Concurso de Jogos Completos de Baixo Orçamento, o JogosBR divulga a lista dos 36 projetos classificados para o Concurso de Demos Jogáveis.A comissão julgadora selecionará os 8 melhores projetos e mais 4 projetos para a lista de espera.Confira a lista dos 36 classificados:1...
-    </div>
-
-    <a href="/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/03/meantime-fecha-parceria-com-goal-mobile">Meantime fecha parceria com Goal Mobile</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Lançado há poucos dias, Ronaldinho Total Control da Meantime é o primeiro fruto da parceria entre a empresa brasileira e a Goal Mobile.A Goal Mobile é uma empresa focada na gestão da imagem de atletas de nível internacional e clubes para mídias digitais, especialmente telefones móveis e internet.Até o início...
-    </div>
-
-    <a href="/2006/06/03/meantime-fecha-parceria-com-goal-mobile" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/02/jogosbr-18-projetos-classificados">JogosBR, 18 projetos classificados</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.Veja a lista dos projetos classificados…
-
-
-    </div>
-
-    <a href="/2006/06/02/jogosbr-18-projetos-classificados" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados">Jogos Completos de Baixo Orçamento, 18 projetos classificados</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.Confira a lista dos 18 projetos classificados em ordem alfabética:1 -...
-    </div>
-
-    <a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -358,20 +389,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

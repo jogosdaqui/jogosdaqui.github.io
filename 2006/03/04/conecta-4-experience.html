@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Conecta 4 - Experience</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -163,7 +169,8 @@
     <p>Conecta 4 - Experience é um jogo de quebra-cabeça, onde o nome já diz a regra: o jogador deve conectar quatro amebas (isso mesmo, amebas) em linha, coluna ou diagonal.<br /><br />O grande desafio de Conecta 4 - Experience é que o jogador não joga sozinho como na maioria dos jogos de quebra-cabeça. As disputas são realizadas contra o computador, o jogador tenta conectar quatro amebas e evitar que o computador conecte as suas amebas, o computador faz o mesmo.<br /><br />A IA proporciona um bom desafio e faz aumentar o fator de diversão do jogo.<br /><br />Conecta 4 - Experience está disponível no portal <a href="http://www.gametrack.com.br" target="_blank">Gametrack</a>
 .</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -171,29 +178,33 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/03/04/conecta-4-experience/Screenshot_379.png">
-          <img src="../../../../../images/galleries/2006/03/04/conecta-4-experience/Screenshot_379.png"/>        
+        <li data-thumb="/images/galleries/2006/03/04/conecta-4-experience/Screenshot_379.png">
+          <img src="/images/galleries/2006/03/04/conecta-4-experience/Screenshot_379.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/04/conecta-4-experience/Screenshot_380.png">
-          <img src="../../../../../images/galleries/2006/03/04/conecta-4-experience/Screenshot_380.png"/>        
+        <li data-thumb="/images/galleries/2006/03/04/conecta-4-experience/Screenshot_380.png">
+          <img src="/images/galleries/2006/03/04/conecta-4-experience/Screenshot_380.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/04/conecta-4-experience/Screenshot_381.png">
-          <img src="../../../../../images/galleries/2006/03/04/conecta-4-experience/Screenshot_381.png"/>        
+        <li data-thumb="/images/galleries/2006/03/04/conecta-4-experience/Screenshot_381.png">
+          <img src="/images/galleries/2006/03/04/conecta-4-experience/Screenshot_381.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/04/conecta-4-experience/Screenshot_378.png">
-          <img src="../../../../../images/galleries/2006/03/04/conecta-4-experience/Screenshot_378.png"/>        
+        <li data-thumb="/images/galleries/2006/03/04/conecta-4-experience/Screenshot_378.png">
+          <img src="/images/galleries/2006/03/04/conecta-4-experience/Screenshot_378.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -215,6 +226,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -263,20 +275,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

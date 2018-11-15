@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,44 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/15/die-ponyrancher">Die Ponyrancher</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/10/15/die-ponyrancher/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Ponyrancher é um jogo de aventura em 3D para crianças com a temática sobre cavalos. Em Ponyrancher o jogador ganha um cavalo e com ele pode andar por vários ambientes vivendo inúmeras aventuras enquanto evolue seu eqüino e aprende a cavalgar, pular e etc. O jogador também pode comprar inúmeras...
+    </div>
+
+    <a href="/2005/10/15/die-ponyrancher" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/14/molecula">Molécula</a></h1>
@@ -144,7 +167,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/14/molecula/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/14/molecula/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -154,6 +177,8 @@
     <a href="/2005/10/14/molecula" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/13/shadows-of-malquidious">Shadows of Malquidious</a></h1>
@@ -171,7 +196,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/13/shadows-of-malquidious/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -181,6 +206,8 @@
     <a href="/2005/10/13/shadows-of-malquidious" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/13/futsim">FutSim</a></h1>
@@ -204,7 +231,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/13/futsim/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/13/futsim/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -214,6 +241,23 @@
     <a href="/2005/10/13/futsim" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/10/13/crimson-after-dusk">Crimson After Dusk</a></h1>
@@ -233,7 +277,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/13/crimson-after-dusk/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/13/crimson-after-dusk/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -243,6 +287,8 @@
     <a href="/2005/10/13/crimson-after-dusk" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/12/banana-joe">Banana Joe</a></h1>
@@ -256,7 +302,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/12/banana-joe/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/12/banana-joe/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -266,6 +312,8 @@
     <a href="/2005/10/12/banana-joe" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/11/jogo-da-meantime-em-voos-internacionais">Jogo da Meantime em voos internacionais</a></h1>
@@ -284,6 +332,8 @@
     <a href="/2005/10/11/jogo-da-meantime-em-voos-internacionais" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/11/adventures-of-zaak-the-little-wiz">Adventures of Zaak - The Little Wiz</a></h1>
@@ -303,7 +353,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -313,6 +363,8 @@
     <a href="/2005/10/11/adventures-of-zaak-the-little-wiz" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/10/whiskeria-paradiso">Whiskeria Paradiso</a></h1>
@@ -341,6 +393,8 @@
     <a href="/2005/10/10/whiskeria-paradiso" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/10/rc-racing">R/C Racing</a></h1>
@@ -358,7 +412,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/10/rc-racing/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/10/rc-racing/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -366,31 +420,6 @@
     </div>
 
     <a href="/2005/10/10/rc-racing" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/10/07/progoal">ProGoal</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/10/07/progoal/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Fazer gols de jogadas de bola parada (pênaltis, faltas diretas e cruzamentos) é o objetivo. Este divertido jogo é garantia de um bom passatempo em uma disputa contra a barreira, os zagueiros e o goleiro do time adversário, e ainda contra o vento e as condições climáticas. Na versão de...
-    </div>
-
-    <a href="/2005/10/07/progoal" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -426,20 +455,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

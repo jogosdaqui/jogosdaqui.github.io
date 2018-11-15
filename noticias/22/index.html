@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,80 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/14/estradas-esburacadas-a-toda-velocidade">Estradas Esburacadas a toda velocidade</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Uma semana de muitas novidades para o jogo Estradas Esburacadas
+ da SR-Games. A empresa acaba de liberar dezenas de novas imagens e dois novos vídeos do jogo em desenvolvimento.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/05/14/estradas-esburacadas-a-toda-velocidade" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/12/newsabragames-maio-2006">NewsAbragames - Maio/2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Lançada a edição de maio da NewsAbragames, a newsletter da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos.Nesta edição são apresentados vários eventos sobre jogos para os próximos meses, entre eles o EGR . As notícias na mídia no último mês. A premiação da Jinx como Melhor desenvolvedora de games brasileira.Leia...
+    </div>
+
+    <a href="/2006/05/12/newsabragames-maio-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/11/cobranca-de-penaltis-no-celular">Cobrança de pênaltis no celular</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Penalty Cup ou Show de bola
+, como era conhecido na época de seu desenvolvimento, é o jogo de cobrança de pênaltis da Meantime
+.O jogo permite disputas multiplayer através do Meantime Arena.Veja o jogo…
+
+
+    </div>
+
+    <a href="/2006/05/11/cobranca-de-penaltis-no-celular" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/inscricoes-encerradas-no-jogosbr">Inscrições encerradas no JogosBR</a></h1>
@@ -145,6 +204,23 @@
     <a href="/2006/05/10/inscricoes-encerradas-no-jogosbr" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/05/08/imagemacao-do-gametrack">Imagem&Ação do Gametrack</a></h1>
@@ -167,6 +243,8 @@
     <a href="/2006/05/08/imagemacao-do-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/08/gamegol-oficial-para-junho">GameGol oficial para junho</a></h1>
@@ -185,6 +263,8 @@
     <a href="/2006/05/08/gamegol-oficial-para-junho" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/06/espaco-informatica-lanca-winguel">Espaço Informática lança Winguel</a></h1>
@@ -207,6 +287,8 @@
     <a href="/2006/05/06/espaco-informatica-lanca-winguel" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/05/hoplon-vira-case-da-ibm">Hoplon vira case da IBM</a></h1>
@@ -237,6 +319,8 @@
     <a href="/2006/05/05/hoplon-vira-case-da-ibm" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/03/prorrogada-fase-beta-de-gamegol">Prorrogada fase Beta de GameGol</a></h1>
@@ -255,6 +339,8 @@
     <a href="/2006/05/03/prorrogada-fase-beta-de-gamegol" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/02/prorrogada-fase-beta-de-gamegol">Prorrogada fase Beta de GameGol</a></h1>
@@ -271,72 +357,6 @@
     </div>
 
     <a href="/2006/05/02/prorrogada-fase-beta-de-gamegol" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/04/29/novas-imagens-do-rpg-essence">Novas imagens do RPG Essence</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
- </center>
-    
-    Há muito tempo, magos construíram três portais para canalizar a essência da magia do universo.Este é o início da história de Essence, um RPG
- tático em desenvolvimento pela Palmsoft Tecnologia
-.A empresa liberou novas imagens e detalhes sobre o enredo do jogo.Confira a prévia…
-
-
-    </div>
-
-    <a href="/2006/04/29/novas-imagens-do-rpg-essence" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/04/28/pernambuco-e-destaque-no-trofeu-gameworld">Pernambuco é destaque no Troféu Gameworld</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Duas empresas do Porto Digital de Pernambuco, Meantime Mobile Creations
- e Jynx Playware
-, foram premiadas no 2º Troféu Gameworld.Leia mais…
-
-
-    </div>
-
-    <a href="/2006/04/28/pernambuco-e-destaque-no-trofeu-gameworld" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/04/28/novidades-na-palmsoft">Novidades na Palmsoft</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Previsto para entrar no mercado na primeira semana de maio, Golden West - Bang! Bang! é o próximo RPG a ser lançado pela PalmSoft Tecnologia . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa.Mais detalhes…...
-    </div>
-
-    <a href="/2006/04/28/novidades-na-palmsoft" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -372,20 +392,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

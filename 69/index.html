@@ -88,6 +88,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -103,95 +109,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/09/19/aventura-na-selva">Aventura na Selva</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-      <img src="../../../../../images/galleries/2005/09/19/aventura-na-selva/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Em Aventura na Selva o jogador controlará o personagem "Gibinha" (inspirado no apresentador de TV Gilbeto Barros) através de 12 fases com o objetivo de salvar os animais presos por um terrível canibal.
-
-
-    </div>
-
-    <a href="/2005/09/19/aventura-na-selva" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/19/amazonia">Amazônia</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/09/19/amazonia/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    O Amazônia é um jogo do tipo adventure, onde o principal objetivo é escapar da selva amazônica após um acidente aéreo. O jogador inicia a partida junto aos destroços do avião e vai agindo de acordo com a situação que se apresentar, sempre tendo como parâmetro de atitude uma situação...
-    </div>
-
-    <a href="/2005/09/19/amazonia" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/19/aeroporto-83">Aeroporto 83</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/09/19/aeroporto-83/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    A primeira versão deste jogo foi publicada na edição 22 da revista Micro Sistemas, lá pelo ano de 1983 - daí o número 83 no nome do dito cujo. Foi o primeiro jogo brasileiro, totalmente escrito em linguagem de máquina (o popular assembly) publicado em uma revista de circulação nacional....
-    </div>
-
-    <a href="/2005/09/19/aeroporto-83" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/09/19/acquaria-o-jogo">Acquaria O Jogo</a></h1>
@@ -218,6 +140,8 @@
     <a href="/2005/09/19/acquaria-o-jogo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/17/promocao-de-lancamento-do-jogosdaqui">Promoção de lançamento do jogosdaqui</a></h1>
@@ -236,6 +160,8 @@
     <a href="/2005/09/17/promocao-de-lancamento-do-jogosdaqui" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/17/outlive">Outlive</a></h1>
@@ -251,7 +177,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/17/outlive/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/17/outlive/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -261,6 +187,8 @@
     <a href="/2005/09/17/outlive" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/17/bem-vindo-ao-jogosdaqui">Bem vindo ao jogosdaqui</a></h1>
@@ -279,6 +207,23 @@
     <a href="/2005/09/17/bem-vindo-ao-jogosdaqui" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/08/27/mensalao-o-jogo">Mensalão, o Jogo</a></h1>
@@ -303,6 +248,8 @@
     <a href="/2005/08/27/mensalao-o-jogo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/08/27/erinia">Erinia</a></h1>
@@ -320,7 +267,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/08/27/erinia/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/08/27/erinia/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -330,6 +277,8 @@
     <a href="/2005/08/27/erinia" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/08/27/botzin">BOTZIN</a></h1>
@@ -349,7 +298,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/08/27/botzin/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/08/27/botzin/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -386,20 +335,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -104,6 +104,12 @@ O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas dif
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas dif
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas dif
 <article class="post">
   <h1>Vôlei de Praia</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -169,7 +175,7 @@ O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas dif
     
   
     
-      <img src="../../../../../images/galleries/2005/12/26/volei-de-praia/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/26/volei-de-praia/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal <a href="http://www.gametrack.com.br" target="_blank">Gametrack</a>
@@ -184,7 +190,8 @@ O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas dif
 <p>O jogo conta com 6 fases com dificuldade crescente. Perdendo apenas uma partida, perde-se o jogo, e isto acaba tornando a tarefa de chegar ao fim, muito difícil.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -192,29 +199,33 @@ O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas dif
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_2.jpg">
-          <img src="../../../../../images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_2.jpg">
+          <img src="/images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_4.jpg">
-          <img src="../../../../../images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_4.jpg">
+          <img src="/images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_3.jpg">
-          <img src="../../../../../images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_3.jpg">
+          <img src="/images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_1.jpg">
-          <img src="../../../../../images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_1.jpg">
+          <img src="/images/galleries/2005/12/26/volei-de-praia/DevWorks_GameTrack_VoleiDePraia_1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -236,6 +247,7 @@ O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas dif
     });
   });
 </script>
+
 
   </div>
 
@@ -286,20 +298,6 @@ O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas dif
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

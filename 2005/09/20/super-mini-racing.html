@@ -101,6 +101,12 @@ Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros
 <article class="post">
   <h1>Super Mini Racing</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -164,7 +170,7 @@ Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/super-mini-racing/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/super-mini-racing/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>O Super Mini Racing celebra a mais antiga e gostosa brincadeira do mundo: apostar corrida!</p>
@@ -176,7 +182,8 @@ Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros
 <p>Da mesma forma, os patrocinadores do Super Mini Racing acreditam que brincar de correr dentro de casa é a melhor, mais segura e não menos emocionante maneira de apostar corrida!</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -184,29 +191,33 @@ Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/super-mini-racing/superminiracing3.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/super-mini-racing/superminiracing3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/super-mini-racing/superminiracing3.jpg">
+          <img src="/images/galleries/2005/09/20/super-mini-racing/superminiracing3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/super-mini-racing/superminiracing4.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/super-mini-racing/superminiracing4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/super-mini-racing/superminiracing4.jpg">
+          <img src="/images/galleries/2005/09/20/super-mini-racing/superminiracing4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/super-mini-racing/superminiracing1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/super-mini-racing/superminiracing1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/super-mini-racing/superminiracing1.jpg">
+          <img src="/images/galleries/2005/09/20/super-mini-racing/superminiracing1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/super-mini-racing/superminiracing2.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/super-mini-racing/superminiracing2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/super-mini-racing/superminiracing2.jpg">
+          <img src="/images/galleries/2005/09/20/super-mini-racing/superminiracing2.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -228,6 +239,7 @@ Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros
     });
   });
 </script>
+
 
   </div>
 
@@ -274,20 +286,6 @@ Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

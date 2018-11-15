@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,92 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/03/24/fighters-of-caribbean">Fighters of Caribbean</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-      <img src="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/PalmSoft_FightersOfCaribbean_logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
     
-    Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos. Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará...
-    </div>
-
-    <a href="/2006/03/24/fighters-of-caribbean" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/23/eonsgames-ganha-premio-no-japao">EonsGames ganha prêmio no Japão</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    A empresa EonsGames Entertainment ganhou o 1o. lugar no 1st DoJa Application Contest promovido pela operadora de celular japonesa NTT Docomo.A EonsGames obteve a premiação na categoria "Virtual Pet Game" através do jogo Digibunny. Digibunny faz parte da Digifamily da EonsGames. Essa linha de jogos é baseada em animais de...
-    </div>
-
-    <a href="/2006/03/23/eonsgames-ganha-premio-no-japao" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/23/digibunny">Digibunny</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-      <img src="../../../../../images/galleries/2006/03/23/digibunny/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Digibunny é um jogo da série Digifamily da EonsGames Entertainment, nele o jogador trata de um belo bicho de estimação: um coelho. O bichinho tem que ser alimentado, deve tomar banho, brincar, receber carinho e remédio. Se não for cuidado, morre e deve ser baixado novamenteMas não pense que vai...
-    </div>
-
-    <a href="/2006/03/23/digibunny" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/03/23/coquetel-agora-no-celular">Coquetel, agora no celular</a></h1>
@@ -211,6 +136,8 @@
     <a href="/2006/03/23/coquetel-agora-no-celular" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/22/fruzzle">Fruzzle</a></h1>
@@ -234,7 +161,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/22/fruzzle/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/22/fruzzle/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -244,6 +171,8 @@
     <a href="/2006/03/22/fruzzle" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/22/fruzzle-o-sapo-da-icon-games">Fruzzle, o sapo da ICON Games</a></h1>
@@ -265,6 +194,8 @@
     <a href="/2006/03/22/fruzzle-o-sapo-da-icon-games" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/22/coquetel">Coquetel</a></h1>
@@ -278,7 +209,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/22/coquetel/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/22/coquetel/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -288,6 +219,23 @@
     <a href="/2006/03/22/coquetel" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/03/21/ideias-vencedoras-do-jogosbr-2005-06">Idéias vencedoras do JogosBR 2005/06</a></h1>
@@ -316,6 +264,8 @@ Para ler mais sobre as idéias vencedoras visite o site do JogosBR
     <a href="/2006/03/21/ideias-vencedoras-do-jogosbr-2005-06" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack">Rummikub entra em fase beta no Gametrack</a></h1>
@@ -337,6 +287,8 @@ Para ler mais sobre as idéias vencedoras visite o site do JogosBR
     <a href="/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/20/hoplon-e-palestrante-na-gdc-2006">Hoplon é palestrante na GDC 2006</a></h1>
@@ -358,6 +310,71 @@ Leia mais…
     </div>
 
     <a href="/2006/03/20/hoplon-e-palestrante-na-gdc-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/20/hoplon-a-primeira-empresa-brasileira-palestrante-na-cdg">Hoplon, a primeira empresa brasileira palestrante na CDG</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A tecnologia brasileira ganha destaque na GDC (Game Developers Conference 2006), que acontece nos dias 20 a 24 de março, em San Jose, na Califórnia. O presidente da Hoplon Infotainment , desenvolvedora do game Taikodon , Tarquínio Teles vai falar no dia 22, sobre a parceria entre a empresa catarinense...
+    </div>
+
+    <a href="/2006/03/20/hoplon-a-primeira-empresa-brasileira-palestrante-na-cdg" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/19/ryudragon-entra-na-6a-era">Ryudragon entra na 6Âª Era</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A 6ª Era do Ryudragon
+ inicia nesta segunda-feira às 18:00.Essa nova Era traz algumas novidades: novas unidades de combate, novas características para as origens e monitoração do feudo pelo celular.Confira mais em www.ryudragon.com.br
+.
+
+    </div>
+
+    <a href="/2006/03/19/ryudragon-entra-na-6a-era" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/17/moedas-de-ouro-no-erinia">Moedas de Ouro no Erinia</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Colecionadores de moedas de ouro visitarão a cidade de Tuorhence, no mundo de Erinia, em breve.Os colecionadores compram as moedas de ouro dos habitantes da ilha e na troca pagam com itens raros naquela região.Leia mais em Acontece em Tuorhence …
+
+
+    </div>
+
+    <a href="/2006/03/17/moedas-de-ouro-no-erinia" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -390,20 +407,6 @@ Leia mais…
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

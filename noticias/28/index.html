@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,75 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/02/hq-taikodom-numero-zero">HQ Taikodom Número Zero</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Está disponível para download no site do jogo Taikodom a história em quadrinhos "Convocação", este número especial é um prelúdio para a graphic novel "O Eterno Retorno" que será lançada em breve.A HQ apresenta desenhos de alta qualidade e a história segue o estilo do universo ficcional de Taikodom.Para quem...
+    </div>
+
+    <a href="/2006/03/02/hq-taikodom-numero-zero" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/23/mobile-mixer-e-meantime-apresentam-novidades-na-telexpo-2006">Mobile Mixer e Meantime apresentam novidades na Telexpo 2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Empresas se associam para ampliar base de oferta de projetos para plataformas móveis e demonstram nova ferramenta de gerenciamento de conteúdo.A Mobile Mixer entra em uma nova fase de operação com a entrada da Meantime Mobile Creations (integrante do Grupo C.E.S.A.R – Centro de Estudos e Sistemas Avançados do Recife)...
+    </div>
+
+    <a href="/2006/02/23/mobile-mixer-e-meantime-apresentam-novidades-na-telexpo-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/23/meantime-fecha-parceria-com-mixer">Meantime fecha parceria com Mixer</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A Meantime Mobile Creations, desenvolvedora e distribuidora de jogos para celular, fechou parceria com a Mixer, empresa do mercado audiovisual.A parceria visa a ampliação de projetos para plataformas móveis.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/02/23/meantime-fecha-parceria-com-mixer" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/23/confira-a-previa-do-wsg-web-soccer-game">Confira a Prévia do WSG - Web Soccer Game</a></h1>
@@ -144,6 +198,23 @@
     <a href="/2006/02/23/confira-a-previa-do-wsg-web-soccer-game" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/02/22/2-campeonato-de-war-no-gametrack">2° Campeonato de War no Gametrack</a></h1>
@@ -162,6 +233,8 @@
     <a href="/2006/02/22/2-campeonato-de-war-no-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/21/novidades-da-espaco-informatica">Novidades da Espaço Informática</a></h1>
@@ -180,6 +253,8 @@
     <a href="/2006/02/21/novidades-da-espaco-informatica" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/21/concursos-para-a-tgs-2006">Concursos para a TGS 2006</a></h1>
@@ -198,6 +273,8 @@
     <a href="/2006/02/21/concursos-para-a-tgs-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/20/por-um-punhado-de-credibilidade">Por um punhado de credibilidade</a></h1>
@@ -217,6 +294,8 @@
     <a href="/2006/02/20/por-um-punhado-de-credibilidade" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/14/concurso-de-ideias-do-jogosbr">Concurso de Idéias do JogosBR</a></h1>
@@ -235,6 +314,8 @@
     <a href="/2006/02/14/concurso-de-ideias-do-jogosbr" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/02/11/tilt-online-fecha-parceria">TILT online fecha parceria</a></h1>
@@ -255,69 +336,6 @@
     </div>
 
     <a href="/2006/02/11/tilt-online-fecha-parceria" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/08/newsabragames-fevereiro-2006">NewsAbragames - Fevereiro/2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Está no ar mais uma edição da NewsAbragames.A newsletter deste mês da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos, traz uma review sobre o jogo Die Pferbebande da empresa Oniria Entertainment , os destaques na imprensa, informações sobre o Concurso JogosBR , o lançamento da versão beta do jogo Imagem...
-    </div>
-
-    <a href="/2006/02/08/newsabragames-fevereiro-2006" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/03/mdev-jogos-para-celular">MDEV: jogos para celular</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    MDEV é uma distribuidora
- e desenvolvedora
- de jogos para celular
- genuinamente brasileira. A MDEV é do estado de Santa Catarina, assim como a PalmSoft Tecnologia
-, uma de suas parceiras.Rally dos Sertões 2005
- é o primeiro jogo da MDEV listado no jogosdaqui.
-
-    </div>
-
-    <a href="/2006/02/03/mdev-jogos-para-celular" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/01/30/continuacao-de-tank-mission-2">Continuação de Tank Mission 2</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A PalmSoft Tecnologia
- está desenvolvendo Tank Mission 3, terceiro jogo da famosa séria Tank Mission.Veja a prévia …
-
-
-    </div>
-
-    <a href="/2006/01/30/continuacao-de-tank-mission-2" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -353,20 +371,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

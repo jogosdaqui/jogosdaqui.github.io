@@ -84,6 +84,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,28 +105,12 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <h2>entrevista</h2>
 <ul>
 
   <li><a href="/2015/05/22/checkpoint-7">Checkpoint #7</a> (22/05/2015)</li>
 
   <li><a href="/2015/05/19/entrevista-fernando-paulo-criador-de-treeker">Entrevista: Fernando Paulo, criador de Treeker</a> (19/05/2015)</li>
-
-  <li><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a> (15/05/2015)</li>
 
   <li><a href="/2015/05/14/checkpoint-6">Checkpoint #6</a> (14/05/2015)</li>
 
@@ -150,20 +140,6 @@
 
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

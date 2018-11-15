@@ -203,6 +203,12 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -218,20 +224,6 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -252,7 +244,21 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
 <article class="post">
   <h1>Entrevista: Gametrack</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -300,7 +306,7 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
 </blockquote>
 
 <center>
-        <img src="../../../../images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg " />
+        <img src="/images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg " />
       </center>
 <center><span style="font-style:italic; font-size:small">Super Trunfo: mais um jogo famoso "portado" para o Gametrack </span></center>
 
@@ -315,7 +321,7 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
 </blockquote>
 
 <center>
-        <img src="../../../../images/galleries/2005/11/14/entrevista-gametrack/war.jpg " />
+        <img src="/images/galleries/2005/11/14/entrevista-gametrack/war.jpg " />
       </center>
 <center><span style="font-style:italic; font-size:small">WAR: o jogo de maior sucesso no Gametrack </span></center>
 
@@ -336,7 +342,8 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
 
 <p>Fique atento ao jogosdaqui para conferir em primeira mão os próximos lançamentos do portal Gametrack.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -344,45 +351,49 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_2.jpg">
-          <img src="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_2.jpg">
+          <img src="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_6.jpg">
-          <img src="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_6.jpg">
+          <img src="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg">
-          <img src="../../../../../images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg">
+          <img src="/images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_5.jpg">
-          <img src="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_5.jpg">
+          <img src="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_1.jpg">
-          <img src="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_1.jpg">
+          <img src="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_3.jpg">
-          <img src="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_3.jpg">
+          <img src="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/14/entrevista-gametrack/war.jpg">
-          <img src="../../../../../images/galleries/2005/11/14/entrevista-gametrack/war.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/14/entrevista-gametrack/war.jpg">
+          <img src="/images/galleries/2005/11/14/entrevista-gametrack/war.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_4.jpg">
-          <img src="../../../../../images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_4.jpg">
+          <img src="/images/galleries/2005/11/14/entrevista-gametrack/Gametrack_SingleplayerGames_4.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -404,6 +415,7 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
     });
   });
 </script>
+
 
   </div>
 
@@ -456,20 +468,6 @@ Quais os jogos de maior sucesso entre os jogadores do Gametrack?
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

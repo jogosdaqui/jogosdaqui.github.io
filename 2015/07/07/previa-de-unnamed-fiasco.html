@@ -167,6 +167,12 @@ Trailer de Unnamed Fiasco
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -182,20 +188,6 @@ Trailer de Unnamed Fiasco
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -216,7 +208,21 @@ Trailer de Unnamed Fiasco
 <article class="post">
   <h1>Prévia de Unnamed Fiasco</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -234,7 +240,7 @@ Trailer de Unnamed Fiasco
     
   
     
-      <img src="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>No filme Edge of Tomorrow (No Limite do Amanhã) de 2014 baseado na série de light novels All You Need Is Kill de Hiroshi Sakurazaka, o personagem de Tom Cruise, além de correr quase todo o filme como já é de praxe dos personagens do ator, também entra em contato com o sangue dos aliens inimigos e ganha a capacidade de controlar o tempo, mas de uma forma bem peculiar, toda vez que morre, acaba revivendo o mesmo dia.</p>
@@ -264,7 +270,8 @@ As plataformas que devem receber o game são o PC, através do <a href="http://s
         <iframe src="https://www.youtube.com/embed/IyG5rGC_L4w " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -272,33 +279,37 @@ As plataformas que devem receber o game são o PC, através do <a href="http://s
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_3.png">
-          <img src="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_3.png"/>        
+        <li data-thumb="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_3.png">
+          <img src="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_3.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_1.png">
-          <img src="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_1.png"/>        
+        <li data-thumb="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_1.png">
+          <img src="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_1.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_2.png">
-          <img src="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_2.png"/>        
+        <li data-thumb="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_2.png">
+          <img src="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_2.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_5.png">
-          <img src="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_5.png"/>        
+        <li data-thumb="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_5.png">
+          <img src="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_5.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_4.png">
-          <img src="../../../../../images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_4.png"/>        
+        <li data-thumb="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_4.png">
+          <img src="/images/galleries/2015/07/07/previa-de-unnamed-fiasco/UnnamedFiasco_4.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -320,6 +331,7 @@ As plataformas que devem receber o game são o PC, através do <a href="http://s
     });
   });
 </script>
+
 
   </div>
 
@@ -376,20 +388,6 @@ As plataformas que devem receber o game são o PC, através do <a href="http://s
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

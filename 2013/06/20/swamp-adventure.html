@@ -107,6 +107,12 @@ No jogo você controla um sapo saltitante e deve tentar comer o máximo de mosca
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -122,20 +128,6 @@ No jogo você controla um sapo saltitante e deve tentar comer o máximo de mosca
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -156,7 +148,21 @@ No jogo você controla um sapo saltitante e deve tentar comer o máximo de mosca
 <article class="post">
   <h1>Swamp Adventure</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -166,7 +172,7 @@ No jogo você controla um sapo saltitante e deve tentar comer o máximo de mosca
     
   
     
-      <img src="../../../../../images/galleries/2013/06/20/swamp-adventure/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/06/20/swamp-adventure/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Procurando um game casual e divertido para jogar no seu iOS ou Android? <a href="http://www.frozenlogicstudios.com/swampadventure.html" target="_blank">Swamp Adventure</a>
@@ -185,7 +191,8 @@ O jogo ainda conta com mais de 20 achievements para conquistar e leadearboards.<
 .
 </p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -193,21 +200,25 @@ O jogo ainda conta com mais de 20 achievements para conquistar e leadearboards.<
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2013/06/20/swamp-adventure/SwampAdventure_01.jpg">
-          <img src="../../../../../images/galleries/2013/06/20/swamp-adventure/SwampAdventure_01.jpg"/>        
+        <li data-thumb="/images/galleries/2013/06/20/swamp-adventure/SwampAdventure_01.jpg">
+          <img src="/images/galleries/2013/06/20/swamp-adventure/SwampAdventure_01.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/06/20/swamp-adventure/SwampAdventure_02.jpg">
-          <img src="../../../../../images/galleries/2013/06/20/swamp-adventure/SwampAdventure_02.jpg"/>        
+        <li data-thumb="/images/galleries/2013/06/20/swamp-adventure/SwampAdventure_02.jpg">
+          <img src="/images/galleries/2013/06/20/swamp-adventure/SwampAdventure_02.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -229,6 +240,7 @@ O jogo ainda conta com mais de 20 achievements para conquistar e leadearboards.<
     });
   });
 </script>
+
 
   </div>
 
@@ -281,20 +293,6 @@ O jogo ainda conta com mais de 20 achievements para conquistar e leadearboards.<
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

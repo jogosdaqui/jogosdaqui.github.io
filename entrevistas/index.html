@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>jogosdaqui – O maior banco de dados sobre os games desenvolvidos no Brasil</title>
+    <title>Entrevistas – jogosdaqui – O maior banco de dados sobre os games desenvolvidos no Brasil</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -19,6 +19,9 @@
 
     <meta name="author" content="jogosdaqui" />
 
+    
+    <meta property="og:title" content="Entrevistas" />
+    <meta property="twitter:title" content="Entrevistas" />
     
 
     
@@ -39,15 +42,15 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>jogosdaqui | O maior banco de dados sobre os games desenvolvidos no Brasil</title>
+<title>Entrevistas | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="jogosdaqui" />
+<meta property="og:title" content="Entrevistas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="O maior banco de dados sobre os games desenvolvidos no Brasil" />
 <meta property="og:description" content="O maior banco de dados sobre os games desenvolvidos no Brasil" />
 <meta property="og:site_name" content="jogosdaqui" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"/entrevistas/","headline":"jogosdaqui","description":"O maior banco de dados sobre os games desenvolvidos no Brasil","@context":"http://schema.org"}</script>
+{"@type":"WebPage","url":"/entrevistas/","headline":"Entrevistas","description":"O maior banco de dados sobre os games desenvolvidos no Brasil","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -84,6 +87,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,27 +108,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/19/entrevista-fernando-paulo-criador-de-treeker">Entrevista: Fernando Paulo, criador de Treeker</a></h1>
@@ -142,6 +137,8 @@
     <a href="/2015/05/19/entrevista-fernando-paulo-criador-de-treeker" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren">Entrevista: Alessandro Martinello, diretor criativo de Toren</a></h1>
@@ -160,6 +157,8 @@
     <a href="/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/22/entrevista-claudio-lins">Entrevista: Claudio Lins</a></h1>
@@ -184,6 +183,8 @@
     <a href="/2015/04/22/entrevista-claudio-lins" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2">Entrevista: Tiago Moraes da Ovni Studios (parte 2)</a></h1>
@@ -195,7 +196,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -205,6 +206,23 @@
     <a href="/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1">Entrevista: Tiago Moraes da Ovni Studios (parte 1)</a></h1>
@@ -216,7 +234,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -226,6 +244,8 @@
     <a href="/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/28/entrevista-palmsoft-tecnologia">Entrevista PalmSoft Tecnologia</a></h1>
@@ -244,6 +264,8 @@
     <a href="/2006/03/28/entrevista-palmsoft-tecnologia" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/14/entrevista-gametrack">Entrevista: Gametrack</a></h1>
@@ -278,6 +300,8 @@
     <a href="/2005/11/14/entrevista-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/26/entrevista-espaco-informatica">Entrevista: Espaço Informática</a></h1>
@@ -307,20 +331,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">
@@ -354,7 +364,7 @@
 		ga('create', 'UA-20179088-2', 'auto');
 		ga('send', 'pageview', {
 		  'page': '/entrevistas/index.html',
-		  'title': ''
+		  'title': 'Entrevistas'
 		});
 	</script>
 	<!-- End Google Analytics -->

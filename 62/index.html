@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,93 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/10/06/cataclism">Cataclism</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/10/06/cataclism/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    A organização terrorista Soldados do Apocalipse ameaçou o planeta  com  uma poderosa arma de  destruição em  massa e VOCÊ é o  único piloto capaz de  parar este  terrível plano. Nesta missão você vai enfrentar  toda  frota terrorista e evitar a  ameaça da  arma de destruição  em massa. Para ajudar na...
-    </div>
-
-    <a href="/2005/10/06/cataclism" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/10/06/arena-de-rodeio">Arena de Rodeio</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    SEGUUUUUURA PEÃO!!! Chegou a oportunidade que você esperava, de mostrar pras “Marias Breteiras” da sua rua quanta injustiça nunca terem te convidado pra Festa de Barretos. Este desafio na “Arena de Rodeio” está pronto pra inserção de logomarcas de empresas e começar a divertir novos “vaqueiros virtuais”, em “Game Zones”...
-    </div>
-
-    <a href="/2005/10/06/arena-de-rodeio" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/10/05/curtas-do-dia">Curtas do dia...</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Ontem foi lançado mais um jogo da TILT online, o Vudugame. Ele já se encontra disponível na nossa listagem, confira! No site do Erinia , a partir de agora, é possível saber o rank e a quantidade de pontos de guerra de seu personagem. Para isso, basta acessar a seção...
-    </div>
-
-    <a href="/2005/10/05/curtas-do-dia" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/10/04/vudugame">Vudugame</a></h1>
@@ -206,7 +130,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/04/vudugame/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/04/vudugame/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -216,6 +140,8 @@
     <a href="/2005/10/04/vudugame" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/04/novidades-no-jogosdaqui">Novidades no jogosdaqui</a></h1>
@@ -234,6 +160,8 @@
     <a href="/2005/10/04/novidades-no-jogosdaqui" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/04/eventos-para-o-mes-de-outubro">Eventos para o mês de outubro</a></h1>
@@ -261,6 +189,8 @@
     <a href="/2005/10/04/eventos-para-o-mes-de-outubro" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/03/evento-em-salvador">Evento em Salvador</a></h1>
@@ -279,6 +209,23 @@
     <a href="/2005/10/03/evento-em-salvador" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/10/02/ganhadores-da-segunda-semana">Ganhadores da segunda semana</a></h1>
@@ -297,6 +244,8 @@
     <a href="/2005/10/02/ganhadores-da-segunda-semana" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/01/othello">Othello</a></h1>
@@ -316,7 +265,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/01/othello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/01/othello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -326,6 +275,8 @@
     <a href="/2005/10/01/othello" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/01/impacto-alpha">Impacto Alpha</a></h1>
@@ -345,7 +296,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/01/impacto-alpha/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/01/impacto-alpha/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -353,6 +304,86 @@
     </div>
 
     <a href="/2005/10/01/impacto-alpha" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/30/workshop-de-jogos-digitais-na-educacao">Workshop de Jogos Digitais na Educação</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    O Workshop de Jogos Digitais na Educação trata-se de um evento que irá ocorrer paralelamente ao XVI Simpósio Brasileiro de Informática na Educação (SBIE 2005) e abordará as questões interdisciplinares envolvidas nos jogos digitais no âmbito educacional como ferramenta de ensino-aprendizagem, desde a Educação Infantil aos programas de pós-graduação. Na...
+    </div>
+
+    <a href="/2005/09/30/workshop-de-jogos-digitais-na-educacao" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/30/smart-panda">Smart Panda</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/30/smart-panda/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Conheça Smart Panda, um jogo diferente de tudo o que você já viu. Controle um simpático urso panda e tente resolver um a um todos os problemas matemáticos que surgem no alto da tela. Fácil? Não… Em Smart Panda, existem diversos inimigos que farão de tudo para atrapalhar você. Caranguejos,...
+    </div>
+
+    <a href="/2005/09/30/smart-panda" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/30/no-limite">No Limite</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/30/no-limite/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Este jogo foi baseado no programa de televisão No Limite, apresentado pela Rede Globo de Televisão no Brasil. O jogador assume o papel de um dos 12 participantes do programa que enfrentam os desafios do programa, caçando, pescando, procurando comida, fazendo fogo e se relacionando com os outros participantes. Além...
+    </div>
+
+    <a href="/2005/09/30/no-limite" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -385,20 +416,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

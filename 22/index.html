@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/02/12/legendary-heroes">Legendary Heroes</a></h1>
@@ -144,6 +139,8 @@
     <a href="/2012/02/12/legendary-heroes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/02/06/mahjong-max">Mahjong Max</a></h1>
@@ -158,14 +155,21 @@
   
     
   
+    
+  
+    
+      <img src="/images/galleries/2012/02/06/mahjong-max/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
-    A desenvolvedora brasileira Icon Games , conhecida por jogos como Bola de Gude , Fruzzle e Detetive Carioca , lançou em 2011 o game Mahjong Max . Mahjong Max é um puzzle, baseado num secular jogo de mesa chinês, onde o jogador encarna a personagem Valéria na tarefa de organizar...
+    A desenvolvedora brasileira Icon Games, conhecida por jogos como Bola de Gude, Fruzzle e Detetive Carioca, lançou em 2011 o game Mahjong Max. Mahjong Max é um puzzle, baseado num secular jogo de mesa chinês, onde o jogador encarna a personagem Valéria na tarefa de organizar uma exibição chinesa para...
     </div>
 
     <a href="/2012/02/06/mahjong-max" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/01/13/joga-brasil">Joga Brasil</a></h1>
@@ -183,7 +187,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2012/01/13/joga-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2012/01/13/joga-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -193,6 +197,8 @@
     <a href="/2012/01/13/joga-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/01/05/zigball">Zigball</a></h1>
@@ -217,6 +223,23 @@
     <a href="/2012/01/05/zigball" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2011/10/14/blluby">BLLUBY</a></h1>
@@ -234,16 +257,18 @@
     
   
     
-      <img src="../../../../../images/galleries/2011/10/14/blluby/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/10/14/blluby/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
-    Apesar de ter um gosto eclético para games e navegar bem entre todas as categorias, desde os games mais casuais até os mais hardcore, sempre tive uma predileção por puzzles. E foi por isso que recebi com grata surpresa o game BLLUBY, da brasileira Crazy Minds , para iPhone, iPod e...
+    Apesar de ter um gosto eclético para games e navegar bem entre todas as categorias, desde os games mais casuais até os mais hardcore, sempre tive uma predileção por puzzles. E foi por isso que recebi com grata surpresa o game BLLUBY, da brasileira Crazy Minds, para iPhone, iPod e iPad....
     </div>
 
     <a href="/2011/10/14/blluby" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/09/19/mega-drop-chiclets-evolution">Mega Drop Chiclets Evolution</a></h1>
@@ -255,7 +280,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/09/19/mega-drop-chiclets-evolution/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/09/19/mega-drop-chiclets-evolution/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -265,6 +290,8 @@
     <a href="/2011/09/19/mega-drop-chiclets-evolution" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/05/23/gamecraft-2011">GameCraft 2011</a></h1>
@@ -278,7 +305,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2011/05/23/gamecraft-2011/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/05/23/gamecraft-2011/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -288,6 +315,8 @@
     <a href="/2011/05/23/gamecraft-2011" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/04/27/previa-cannon-land">Prévia: Cannon Land</a></h1>
@@ -306,6 +335,8 @@
     <a href="/2011/04/27/previa-cannon-land" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/04/20/industrial-imperialism">Industrial Imperialism</a></h1>
@@ -330,6 +361,8 @@
     <a href="/2011/04/20/industrial-imperialism" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/04/14/file-games-rio-2011">FILE Games Rio 2011</a></h1>
@@ -341,7 +374,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/04/14/file-games-rio-2011/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/04/14/file-games-rio-2011/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -381,20 +414,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

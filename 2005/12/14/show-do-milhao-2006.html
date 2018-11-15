@@ -101,6 +101,12 @@ Depois de se tornar sucesso de vendas em todo o Brasil, com mais de 1.000.000 (u
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Depois de se tornar sucesso de vendas em todo o Brasil, com mais de 1.000.000 (u
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Depois de se tornar sucesso de vendas em todo o Brasil, com mais de 1.000.000 (u
 <article class="post">
   <h1>Show do Milhão 2006</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -160,7 +166,7 @@ Depois de se tornar sucesso de vendas em todo o Brasil, com mais de 1.000.000 (u
     
   
     
-      <img src="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/14/show-do-milhao-2006/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Agora com mais de 20.000 perguntas, e também no formato multiplayer, o jogo leva a emoção do consagrado programa de Silvio Santos para o computador !</p>
@@ -174,7 +180,8 @@ Os acessos ao jogo on-line serão comercializados através do site, em versões 
 A versão em CD-ROM traz inclusa uma chave para acesso ao modo on-line por 90 dias.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -182,29 +189,33 @@ A versão em CD-ROM traz inclusa uma chave para acesso ao modo on-line por 90 di
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_3.jpg">
-          <img src="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_3.jpg">
+          <img src="/images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_4.jpg">
-          <img src="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_4.jpg">
+          <img src="/images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_2.jpg">
-          <img src="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_2.jpg">
+          <img src="/images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_1.jpg">
-          <img src="../../../../../images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_1.jpg">
+          <img src="/images/galleries/2005/12/14/show-do-milhao-2006/CiaDoSoftware_ShowDoMilhao2006_1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -226,6 +237,7 @@ A versão em CD-ROM traz inclusa uma chave para acesso ao modo on-line por 90 di
     });
   });
 </script>
+
 
   </div>
 
@@ -272,20 +284,6 @@ A versão em CD-ROM traz inclusa uma chave para acesso ao modo on-line por 90 di
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Jogo da Sedução</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -161,12 +167,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/05/22/jogo-da-seducao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Você foi selecionado para entrar no jogo da sedução, no qual o participante deve ajudar a sua sedutora a ser a melhor entre todas. O jogo se divide em 3 mini-games, que contam pontos na disputa de mulher mais sedutora do Brasil.<br /><br />Strip: o jogador deve apertar o botão de ação no momento em que o mesmo achar que a barra de clímax estiver no topo máximo da determinada ação, lembrando que o topo pode variar conforme a ação. Quanto mais alto se acerta, mais pontos serão fornecidos.<br /><br />Dança: o jogador deve apertar o botão correto no momento em que o número correspondente passar sobre o círculo de validação, marcando assim pontos. Conforme for seu desempenho, sua pontuação irá aumentar.<br /><br />Escolher as roupas: para escolher as melhores roupas, e as mais sensuais, o jogador deve gastar uma determinada quantia de pontos, na qual varia conforme a roupa a ser escolhida; quanto melhor for o desempenho, mais chances de pegar a melhor roupa na loja. A roupa influencia na decisão da mulher mais sedutora.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -174,41 +181,45 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_586.png">
-          <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_586.png"/>        
+        <li data-thumb="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_586.png">
+          <img src="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_586.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_588.png">
-          <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_588.png"/>        
+        <li data-thumb="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_588.png">
+          <img src="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_588.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_584.png">
-          <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_584.png"/>        
+        <li data-thumb="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_584.png">
+          <img src="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_584.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_587.png">
-          <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_587.png"/>        
+        <li data-thumb="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_587.png">
+          <img src="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_587.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_585.png">
-          <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_585.png"/>        
+        <li data-thumb="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_585.png">
+          <img src="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_585.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_589.png">
-          <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_589.png"/>        
+        <li data-thumb="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_589.png">
+          <img src="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_589.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_583.png">
-          <img src="../../../../../images/galleries/2006/05/22/jogo-da-seducao/Screenshot_583.png"/>        
+        <li data-thumb="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_583.png">
+          <img src="/images/galleries/2006/05/22/jogo-da-seducao/Screenshot_583.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -230,6 +241,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -276,20 +288,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

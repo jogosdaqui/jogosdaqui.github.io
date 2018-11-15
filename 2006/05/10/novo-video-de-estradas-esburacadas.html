@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Novo vídeo de Estradas Esburacadas</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -175,7 +181,8 @@ Outra novidade do vídeo são os outdoors com publicidade, entre esses outdoors 
 <a target="_blank" href="http://www.srgames.net/Video_Videos_BR.avi">Veja o vídeo (23 MB)…</a></p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -183,45 +190,49 @@ Outra novidade do vídeo são os outdoors com publicidade, entre esses outdoors 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_527.png">
-          <img src="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_527.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_527.png">
+          <img src="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_527.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_530.png">
-          <img src="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_530.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_530.png">
+          <img src="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_530.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_529.png">
-          <img src="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_529.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_529.png">
+          <img src="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_529.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_531.png">
-          <img src="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_531.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_531.png">
+          <img src="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_531.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_532.png">
-          <img src="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_532.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_532.png">
+          <img src="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_532.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_528.png">
-          <img src="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_528.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_528.png">
+          <img src="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_528.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_533.png">
-          <img src="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_533.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_533.png">
+          <img src="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_533.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_526.png">
-          <img src="../../../../../images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_526.png"/>        
+        <li data-thumb="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_526.png">
+          <img src="/images/galleries/2006/05/10/novo-video-de-estradas-esburacadas/Screenshot_526.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -243,6 +254,7 @@ Outra novidade do vídeo são os outdoors com publicidade, entre esses outdoors 
     });
   });
 </script>
+
 
   </div>
 
@@ -287,20 +299,6 @@ Outra novidade do vídeo são os outdoors com publicidade, entre esses outdoors 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados">Demos Jogáveis do JogosBR, projetos classificados</a></h1>
@@ -138,6 +133,8 @@
     <a href="/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/03/meantime-fecha-parceria-com-goal-mobile">Meantime fecha parceria com Goal Mobile</a></h1>
@@ -156,6 +153,8 @@
     <a href="/2006/06/03/meantime-fecha-parceria-com-goal-mobile" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/02/jogosbr-18-projetos-classificados">JogosBR, 18 projetos classificados</a></h1>
@@ -176,6 +175,8 @@
     <a href="/2006/06/02/jogosbr-18-projetos-classificados" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados">Jogos Completos de Baixo Orçamento, 18 projetos classificados</a></h1>
@@ -194,6 +195,23 @@
     <a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/06/01/pergunte-para-a-sr-games">Pergunte para a SR-Games</a></h1>
@@ -212,6 +230,8 @@
     <a href="/2006/06/01/pergunte-para-a-sr-games" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/01/escolha-o-proximo-jogo-do-gametrack">Escolha o próximo jogo do Gametrack</a></h1>
@@ -234,6 +254,8 @@
     <a href="/2006/06/01/escolha-o-proximo-jogo-do-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/31/previa-de-cat-fighters">Prévia de Cat Fighters</a></h1>
@@ -256,6 +278,8 @@
     <a href="/2006/05/31/previa-de-cat-fighters" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/30/mais-de-war-of-malquidious">Mais de War of Malquidious</a></h1>
@@ -277,6 +301,8 @@
     <a href="/2006/05/30/mais-de-war-of-malquidious" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/29/ronaldinho-no-celular">Ronaldinho no celular</a></h1>
@@ -295,6 +321,8 @@
     <a href="/2006/05/29/ronaldinho-no-celular" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/27/pinogol-3d">Pinogol 3D</a></h1>
@@ -365,20 +393,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

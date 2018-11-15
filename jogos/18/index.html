@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,40 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/20/guimo">Guimo</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/20/guimo/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Durante o seu primeiro ano de atividade, a Southlogic Studios produziu um jogo de tiro 2D de plataformas chamado Guimo. Ele foi publicado no Brasil e na Europa em 1997. No sistema de Paithon, um grupo de seres que dão forma a uma civilização pacífica vive em um universo paralelo...
+    </div>
+
+    <a href="/2005/09/20/guimo" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/eleicoes-para-presidente">Eleições para presidente</a></h1>
@@ -138,7 +157,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/eleicoes-para-presidente/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/eleicoes-para-presidente/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -148,6 +167,8 @@
     <a href="/2005/09/20/eleicoes-para-presidente" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/desafio-na-floresta">Desafio na Floresta</a></h1>
@@ -161,7 +182,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/desafio-na-floresta/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/desafio-na-floresta/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -173,6 +194,8 @@
     <a href="/2005/09/20/desafio-na-floresta" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/cuana-toon">Cuana Toon</a></h1>
@@ -198,7 +221,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/cuana-toon/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/cuana-toon/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -208,6 +231,23 @@
     <a href="/2005/09/20/cuana-toon" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/contato">Contato</a></h1>
@@ -223,7 +263,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/contato/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/contato/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -237,6 +277,8 @@ Uma ótima opção de divertimento para toda a família.
     <a href="/2005/09/20/contato" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/christmas-magic">Christmas Magic</a></h1>
@@ -260,7 +302,7 @@ Uma ótima opção de divertimento para toda a família.
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/christmas-magic/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/christmas-magic/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -270,6 +312,8 @@ Uma ótima opção de divertimento para toda a família.
     <a href="/2005/09/20/christmas-magic" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/casa-dos-artistas">Casa dos Artistas</a></h1>
@@ -298,6 +342,8 @@ Uma ótima opção de divertimento para toda a família.
     <a href="/2005/09/20/casa-dos-artistas" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/buggy-racers">Buggy Racers</a></h1>
@@ -309,7 +355,7 @@ Uma ótima opção de divertimento para toda a família.
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/09/20/buggy-racers/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/buggy-racers/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -319,6 +365,8 @@ Uma ótima opção de divertimento para toda a família.
     <a href="/2005/09/20/buggy-racers" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/20/brasfoot">BrasFoot</a></h1>
@@ -332,7 +380,7 @@ Uma ótima opção de divertimento para toda a família.
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/brasfoot/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/brasfoot/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -342,6 +390,8 @@ Uma ótima opção de divertimento para toda a família.
     <a href="/2005/09/20/brasfoot" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/19/xuxa-e-os-duendes-2">Xuxa e os Duendes 2</a></h1>
@@ -366,39 +416,6 @@ Uma ótima opção de divertimento para toda a família.
     </div>
 
     <a href="/2005/09/19/xuxa-e-os-duendes-2" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/19/incidente-em-varginha">Incidente em Varginha</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/09/19/incidente-em-varginha/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    No jogo da brasileira Perceptum , uma verdadeira operação de guerra é montada para acobertar o pouso de um veículo alienígena. Frustrando as forças militares envolvidas, alguns extraterrestres fogem em direção à cidade de Varginha, MG, onde são vistos por várias testemunhas. Você é uma delas, o primeiro ser humano...
-    </div>
-
-    <a href="/2005/09/19/incidente-em-varginha" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -434,20 +451,6 @@ Uma ótima opção de divertimento para toda a família.
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

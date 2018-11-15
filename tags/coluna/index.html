@@ -84,6 +84,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,43 +105,41 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <h2>coluna</h2>
 <ul>
 
+  <li><a href="/2015/09/14/imagens-da-semana-13">Imagens da semana #13</a> (14/09/2015)</li>
+
   <li><a href="/2015/07/16/toren-primeiras-impresoes">Toren: primeiras impressões</a> (16/07/2015)</li>
+
+  <li><a href="/2015/06/22/imagens-da-semana-12">Imagens da semana #12</a> (22/06/2015)</li>
+
+  <li><a href="/2015/06/15/imagens-da-semana-11">Imagens da semana #11</a> (15/06/2015)</li>
+
+  <li><a href="/2015/06/08/imagens-da-semana-10">Imagens da semana #10</a> (08/06/2015)</li>
+
+  <li><a href="/2015/06/01/imagens-da-semana-9">Imagens da semana #9</a> (01/06/2015)</li>
+
+  <li><a href="/2015/05/25/imagens-da-semana-8">Imagens da semana #8</a> (25/05/2015)</li>
+
+  <li><a href="/2015/05/18/imagens-da-semana-7">Imagens da semana #7</a> (18/05/2015)</li>
+
+  <li><a href="/2015/05/11/imagens-da-semana-6">Imagens da semana #6</a> (11/05/2015)</li>
 
   <li><a href="/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins">Nova coluna no jogosdaqui: Insert Coins</a> (06/05/2015)</li>
 
+  <li><a href="/2015/05/04/imagens-da-semana-5">Imagens da semana #5</a> (04/05/2015)</li>
+
+  <li><a href="/2015/04/27/imagens-da-semana-4">Imagens da semana #4</a> (27/04/2015)</li>
+
+  <li><a href="/2015/04/20/imagens-da-semana-3">Imagens da semana #3</a> (20/04/2015)</li>
+
+  <li><a href="/2015/04/13/imagens-da-semana-2">Imagens da semana #2</a> (13/04/2015)</li>
+
+  <li><a href="/2015/04/06/imagens-da-semana-1">Imagens da semana #1</a> (06/04/2015)</li>
+
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

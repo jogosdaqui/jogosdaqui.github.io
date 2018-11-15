@@ -107,6 +107,12 @@ Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -122,20 +128,6 @@ Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -156,7 +148,21 @@ Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os 
 <article class="post">
   <h1>Pebolim 3D</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -170,7 +176,7 @@ Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os 
     
   
     
-      <img src="../../../../../images/galleries/2005/11/13/pebolim-3d/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/13/pebolim-3d/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Pebolim 3D traz toda a diversão do jogo real de pebolim e ainda mais.</p>
@@ -187,7 +193,8 @@ Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os 
 <p>O jogo também conta com um ranking dos melhores jogadores, mais um motivo pra você curtir o Pebolim 3D.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -195,25 +202,29 @@ Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/11/13/pebolim-3d/pebolim3D_04.jpg">
-          <img src="../../../../../images/galleries/2005/11/13/pebolim-3d/pebolim3D_04.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/13/pebolim-3d/pebolim3D_04.jpg">
+          <img src="/images/galleries/2005/11/13/pebolim-3d/pebolim3D_04.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/13/pebolim-3d/pebolim3D_02.jpg">
-          <img src="../../../../../images/galleries/2005/11/13/pebolim-3d/pebolim3D_02.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/13/pebolim-3d/pebolim3D_02.jpg">
+          <img src="/images/galleries/2005/11/13/pebolim-3d/pebolim3D_02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/13/pebolim-3d/pebolim3D_03.jpg">
-          <img src="../../../../../images/galleries/2005/11/13/pebolim-3d/pebolim3D_03.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/13/pebolim-3d/pebolim3D_03.jpg">
+          <img src="/images/galleries/2005/11/13/pebolim-3d/pebolim3D_03.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -235,6 +246,7 @@ Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os 
     });
   });
 </script>
+
 
   </div>
 
@@ -281,20 +293,6 @@ Para selecionar o taco utilize as teclas direcionais e com o mouse movimente os 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

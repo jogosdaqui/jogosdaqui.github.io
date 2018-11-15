@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,7 +110,112 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
+      <article class="page">
+  <div class="entry">
+    <div class="posts">
+ 
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2013/05/02/mr-bree-no-greenlight">Mr. Bree+ no Greenlight</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2013/05/02/mr-bree-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    &gt; Mr. Bree + &#233; um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incr&#237;vel aspecto visual e musical. &gt; S&#227;o 60 n&#237;veis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a hist&#243;ria do nosso her&#243;i, um porco fazendeiro, pai de fam&#237;lia,...
+    </div>
+
+    <a href="/2013/05/02/mr-bree-no-greenlight" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2013/04/29/dragon-raid">Dragon Raid</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+      <img src="/images/galleries/2013/04/29/dragon-raid/DragonRaid_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Em muitos livros de fantasia, principalmente os com temática medieval, os dragões são os grandes vilões. No game Dragon Raid da Dead Mushroom isso não é diferente, mas o jogador não estará no controle de um guerreiro que deveria combater os dragões, mas sim no controle de um dragão que...
+    </div>
+
+    <a href="/2013/04/29/dragon-raid" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2013/04/25/dino-jump">Dino Jump</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2013/04/25/dino-jump/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Dino Jump é um jogo casual de aventura para iPhone, iPod e iPad no qual o jogador controla Dino, um dinossauro que acabou preso no fundo de um vulcão. Enquanto escapa da lava, Dino deve coletar o máximo de DNA para comprar evoluções que garantem melhorias ao personagem, como a...
+    </div>
+
+    <a href="/2013/04/25/dino-jump" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls">Tiny butterflies e Skeletons Go Through Walls</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Apresento dois games do desenvolvedor independente Paulo Candolo Nogueira que já trabalha há um bom tempo com desenvolvimento de jogos e está se aventurando no mercado indie. Os jogos em questão são:Tiny butterflies e Skeletons Go Through Walls, que pelo nome podemos perceber que são games bem diferentes, sendo o...
+    </div>
+
+    <a href="/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -118,34 +229,7 @@
 </script>
 
 <br> 
-      <article class="page">
-
-  <h1></h1>
-
-  <div class="entry">
-    <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls">Tiny butterflies e Skeletons Go Through Walls</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
     
-      <img src="../../../../../images/galleries/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Apresento dois games do desenvolvedor independente Paulo Candolo Nogueira que já trabalha há um bom tempo com desenvolvimento de jogos e está se aventurando no mercado indie. Os jogos em questão são:Tiny butterflies e Skeletons Go Through Walls, que pelo nome podemos perceber que são games bem diferentes, sendo o...
-    </div>
-
-    <a href="/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2013/04/15/favela-wars-entra-em-fase-beta">Favela Wars entra em fase beta</a></h1>
@@ -159,7 +243,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/04/15/favela-wars-entra-em-fase-beta/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/15/favela-wars-entra-em-fase-beta/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -169,6 +253,8 @@
     <a href="/2013/04/15/favela-wars-entra-em-fase-beta" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/04/04/e-ai-game-e-cultura">E aí, Game é Cultura?</a></h1>
@@ -180,7 +266,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/04/04/e-ai-game-e-cultura/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/04/e-ai-game-e-cultura/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -190,6 +276,8 @@
     <a href="/2013/04/04/e-ai-game-e-cultura" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/03/21/c-bot">C-Bot</a></h1>
@@ -209,7 +297,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/03/21/c-bot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/03/21/c-bot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -219,6 +307,8 @@
     <a href="/2013/03/21/c-bot" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/03/18/esquadrao-patada">Esquadrão Patada</a></h1>
@@ -234,7 +324,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/03/18/esquadrao-patada/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/03/18/esquadrao-patada/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -244,6 +334,8 @@
     <a href="/2013/03/18/esquadrao-patada" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/03/11/crazy-bitsy-spider-kids-mode">Crazy Bitsy Spider - Kids Mode</a></h1>
@@ -268,6 +360,8 @@
     <a href="/2013/03/11/crazy-bitsy-spider-kids-mode" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/02/13/december-21st">December 21st</a></h1>
@@ -285,7 +379,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/02/13/december-21st/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/02/13/december-21st/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -293,76 +387,6 @@
     </div>
 
     <a href="/2013/02/13/december-21st" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2013/02/06/vibrant-recycling">Vibrant Recycling</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    Na mesma onda do Games For Change, a desenvolvedora gaúcha Cian Games criou o game ecológico Vibrant Recycling , nele o jogador deverá ajudar lixeiras de reciclagem a coletar os resíduos corretos. A ajuda é realizada apontando os braços retráteis das lixeiras em direção ao lixo que é lançado para...
-    </div>
-
-    <a href="/2013/02/06/vibrant-recycling" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2013/01/25/10-let-game-fun-o-livro">10 LET GAME$ = "FUN" (o livro)</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-      <img src="../../../../../images/galleries/2013/01/25/10-let-game-fun-o-livro/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Renato Degiovani , considerado o primeiro desenvolvedor brasileiro de games acaba de lançar seu mais novo projeto, abaixo a apresentação do 10 LET GAME$ = "FUN" pelas palavras do próprio Degiovani: 10 LET GAME$ = &quot;FUN&quot; (o livro) Depois de longos e tenebrosos anos militando na área de criação e...
-    </div>
-
-    <a href="/2013/01/25/10-let-game-fun-o-livro" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2013/01/23/tribot">TriboT</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2013/01/23/tribot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    SAUDACOES! EU SOU TRIBOT. DE ACORDO COM MINHAS ESPECIFICACOES, EU SOU UM BALANCE BOT DE PERNAS RETRATEIS DE CLASSE 2, S/N#3958388. ME DISSERAM QUE EU DEVERIA MOSTRAR MINHAS DIRETIVAS.&lt;/font&gt; [LISTANDO DIRETIVAS]&lt;/font&gt; PEGAR GEMS&lt;/font&gt; &gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt; &gt; - FICAR ESTILOSO&quot;&lt;/font&gt; Foi dessa maneira bem humorada que fomos apresentados...
-    </div>
-
-    <a href="/2013/01/23/tribot" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -398,20 +422,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,91 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/11/18/the-game-producer">The Game Producer</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/11/18/the-game-producer/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Pensando em ser um desenvolvedor de jogos para computador? Pretente entrar no mercado e ficar milionário? Quer se tornar um grande empresário do ramo? Então, antes de torrar seu suado dinheirinho, teste seu potencial como presidente de uma empresa de jogos neste incrível simulador de produtora de games, o The...
-    </div>
-
-    <a href="/2005/11/18/the-game-producer" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/18/pre-lancamento-the-game-producer-2-0">Pré lançamento - The Game Producer 2.0</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    A TILT online colocou hoje à disposição dos assinantes do club TILT, portadores do serial GOLd, Tool Key ou Playon licenciado a nova versão do jogo/simulador The Game Producer (2.0), integrado ao sistema Gameshop da TILT. Os jogadores sem licença oficial do jogo poderão jogá-lo normalmente, apenas não tendo acesso...
-    </div>
-
-    <a href="/2005/11/18/pre-lancamento-the-game-producer-2-0" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha">Dois jogos brasileiros no TOP 20 da Alemanha</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Seguindo a trajetória de outros jogos brasileiros lançados na Alemanha, Der Pferderennstall, da Espaço Informática e Die Pferdebande da Oniria Entertainment , continuam no TOP 20 da Alemanha. Der Pferderennstall há mais de 9 meses não sai do TOP 20 e agora se encontra no 15º lugar e Die Pferdebande,...
-    </div>
-
-    <a href="/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/11/17/chip-sera-lancado-no-brasil">Chip$ será lançado no Brasil</a></h1>
@@ -200,7 +126,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/11/17/chip-sera-lancado-no-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/17/chip-sera-lancado-no-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -210,6 +136,8 @@
     <a href="/2005/11/17/chip-sera-lancado-no-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/16/taikodom-sera-lancado-na-egs">Taikodom será lançado na EGS</a></h1>
@@ -228,6 +156,8 @@
     <a href="/2005/11/16/taikodom-sera-lancado-na-egs" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/16/previa-de-bola-de-gude">Prévia de Bola de Gude</a></h1>
@@ -264,6 +194,8 @@
     <a href="/2005/11/16/previa-de-bola-de-gude" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/16/em-primeira-mao-bola-de-gude">Em primeira mão: Bola de Gude</a></h1>
@@ -286,6 +218,23 @@ O jogo está prestes a ser lançado no exterior e aqui no Brasil.
     <a href="/2005/11/16/em-primeira-mao-bola-de-gude" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/11/16/chip">Chip$</a></h1>
@@ -303,7 +252,7 @@ O jogo está prestes a ser lançado no exterior e aqui no Brasil.
     
   
     
-      <img src="../../../../../images/galleries/2005/11/16/chip/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/16/chip/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -313,6 +262,8 @@ O jogo está prestes a ser lançado no exterior e aqui no Brasil.
     <a href="/2005/11/16/chip" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/15/comecam-as-venda-do-smart-panda">Começam as venda do Smart Panda</a></h1>
@@ -336,6 +287,8 @@ O jogo usa elementos de ação para ensinar operações matemáticas básicas de
     <a href="/2005/11/15/comecam-as-venda-do-smart-panda" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/14/sea-hunter">Sea Hunter</a></h1>
@@ -355,7 +308,7 @@ O jogo usa elementos de ação para ensinar operações matemáticas básicas de
     
   
     
-      <img src="../../../../../images/galleries/2005/11/14/sea-hunter/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/14/sea-hunter/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -363,6 +316,91 @@ O jogo usa elementos de ação para ensinar operações matemáticas básicas de
     </div>
 
     <a href="/2005/11/14/sea-hunter" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/14/mais-jogos-para-europa-em-2006">Mais jogos para Europa em 2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Conforme Joachim F. Meyer, da empresa alemã Caipirinha Games, o ano de 2006 promete ser ainda melhor que 2005 para as empresas brasileiras que desenvolvem jogos para a Europa. A expectativa é que se tenha entre 6 a 10 jogos brasileiros lançados, através da Caipirinha Games, no continente europeu. A...
+    </div>
+
+    <a href="/2005/11/14/mais-jogos-para-europa-em-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/14/entrevista-gametrack">Entrevista: Gametrack</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: Gametrack. O Gametrack é um portal produzido e mantido pela desenvolvedora brasileira Devworks Game Technology. Possui conteúdo exclusivo, como por exemplo a versão online do famoso WAR, jogo de tabuleiro da Grow que já fazia...
+    </div>
+
+    <a href="/2005/11/14/entrevista-gametrack" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/13/pebolim-3d">Pebolim 3D</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/11/13/pebolim-3d/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Pebolim 3D traz toda a diversão do jogo real de pebolim e ainda mais. Graças aos gráficos 3D você pode selecionar a melhor câmera para as partidas: visão lateral (igual a visão do jogo real), visão superior e visão seguindo a bola. Para selecionar o taco utilize as teclas direcionais...
+    </div>
+
+    <a href="/2005/11/13/pebolim-3d" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -395,20 +433,6 @@ O jogo usa elementos de ação para ensinar operações matemáticas básicas de
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -149,6 +149,12 @@ Exposição SPJAM 2013
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -164,20 +170,6 @@ Exposição SPJAM 2013
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -198,7 +190,21 @@ Exposição SPJAM 2013
 <article class="post">
   <h1>SPJam 2013</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -206,7 +212,7 @@ Exposição SPJAM 2013
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/05/06/spjam-2013/SPJam2013_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/05/06/spjam-2013/SPJam2013_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A terceira edição da <a href="http://www.spjam.com.br" target="_blank">SPJam </a>
@@ -230,7 +236,8 @@ Inscrições: 15 de junho a 15 de agosto</p>
 </ul>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -238,9 +245,8 @@ Inscrições: 15 de junho a 15 de agosto</p>
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -290,20 +296,6 @@ Inscrições: 15 de junho a 15 de agosto</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

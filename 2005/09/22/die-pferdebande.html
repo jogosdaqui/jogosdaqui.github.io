@@ -110,6 +110,12 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -125,20 +131,6 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -159,7 +151,21 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
 <article class="post">
   <h1>Die Pferdebande</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -183,7 +189,7 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
     
   
     
-      <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/22/die-pferdebande/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Die Pferdebande, baseado na série de livros homónima de Karin Müller.</p>
@@ -194,7 +200,8 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
         <iframe src="https://www.youtube.com/embed/XtfPujHtU3s " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -202,45 +209,49 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs7.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs7.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/die-pferdebande/screen_chirs7.jpg">
+          <img src="/images/galleries/2005/09/22/die-pferdebande/screen_chirs7.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs4.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/die-pferdebande/screen_chirs4.jpg">
+          <img src="/images/galleries/2005/09/22/die-pferdebande/screen_chirs4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs5.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/die-pferdebande/screen_chirs5.jpg">
+          <img src="/images/galleries/2005/09/22/die-pferdebande/screen_chirs5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs2.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/die-pferdebande/screen_chirs2.jpg">
+          <img src="/images/galleries/2005/09/22/die-pferdebande/screen_chirs2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs6.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/die-pferdebande/screen_chirs6.jpg">
+          <img src="/images/galleries/2005/09/22/die-pferdebande/screen_chirs6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chris1.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chris1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/die-pferdebande/screen_chris1.jpg">
+          <img src="/images/galleries/2005/09/22/die-pferdebande/screen_chris1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs3.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/die-pferdebande/screen_chirs3.jpg">
+          <img src="/images/galleries/2005/09/22/die-pferdebande/screen_chirs3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs8.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/die-pferdebande/screen_chirs8.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/die-pferdebande/screen_chirs8.jpg">
+          <img src="/images/galleries/2005/09/22/die-pferdebande/screen_chirs8.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -262,6 +273,7 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
     });
   });
 </script>
+
 
   </div>
 
@@ -308,20 +320,6 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -110,6 +110,12 @@ Você deve ajudar “Juca”, o herói, a descobrir o que há por traz dessa gra
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -125,20 +131,6 @@ Você deve ajudar “Juca”, o herói, a descobrir o que há por traz dessa gra
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -159,7 +151,21 @@ Você deve ajudar “Juca”, o herói, a descobrir o que há por traz dessa gra
 <article class="post">
   <h1>Cuana Toon</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -181,7 +187,7 @@ Você deve ajudar “Juca”, o herói, a descobrir o que há por traz dessa gra
     
   
     
-      <img src="../../../../../images/galleries/2005/09/20/cuana-toon/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/cuana-toon/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Cuana Toon é o primeiro jogo da Calibre.
@@ -192,7 +198,8 @@ Um game de aventura, que se passa em uma ilha conhecida como Cuana.</p>
 <p>Você deve ajudar “Juca”, o herói, a descobrir o que há por traz dessa grande conspiração.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -200,45 +207,49 @@ Um game de aventura, que se passa em uma ilha conhecida como Cuana.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/cuana-toon/img2_g1_q1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/cuana-toon/img2_g1_q1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/cuana-toon/img2_g1_q1.jpg">
+          <img src="/images/galleries/2005/09/20/cuana-toon/img2_g1_q1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/cuana-toon/cuanaToon.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/cuana-toon/cuanaToon.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/cuana-toon/cuanaToon.jpg">
+          <img src="/images/galleries/2005/09/20/cuana-toon/cuanaToon.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/cuana-toon/img6_g1_q1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/cuana-toon/img6_g1_q1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/cuana-toon/img6_g1_q1.jpg">
+          <img src="/images/galleries/2005/09/20/cuana-toon/img6_g1_q1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/cuana-toon/img3_g1_q1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/cuana-toon/img3_g1_q1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/cuana-toon/img3_g1_q1.jpg">
+          <img src="/images/galleries/2005/09/20/cuana-toon/img3_g1_q1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/cuana-toon/img1_g1_q1.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/cuana-toon/img1_g1_q1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/cuana-toon/img1_g1_q1.jpg">
+          <img src="/images/galleries/2005/09/20/cuana-toon/img1_g1_q1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/cuana-toon/img6_g1_q2.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/cuana-toon/img6_g1_q2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/cuana-toon/img6_g1_q2.jpg">
+          <img src="/images/galleries/2005/09/20/cuana-toon/img6_g1_q2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/cuana-toon/img5_g1_q2.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/cuana-toon/img5_g1_q2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/cuana-toon/img5_g1_q2.jpg">
+          <img src="/images/galleries/2005/09/20/cuana-toon/img5_g1_q2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/20/cuana-toon/img4_g1_q2.jpg">
-          <img src="../../../../../images/galleries/2005/09/20/cuana-toon/img4_g1_q2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/20/cuana-toon/img4_g1_q2.jpg">
+          <img src="/images/galleries/2005/09/20/cuana-toon/img4_g1_q2.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -260,6 +271,7 @@ Um game de aventura, que se passa em uma ilha conhecida como Cuana.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -304,20 +316,6 @@ Um game de aventura, que se passa em uma ilha conhecida como Cuana.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

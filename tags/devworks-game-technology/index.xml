@@ -3,7 +3,7 @@
  <title>Your Title - devworks-game-technology</title>
  <link href="http://example.com/tags/devworks-game-technology/index.xml" rel="self"/>
  <link href="http://example.com/tag/devworks-game-technology.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/devworks-game-technology.html</id>
  <author>
    <name>Author Here</name>
@@ -410,7 +410,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;../../../../images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg &quot; /&gt;
+        &lt;img src=&quot;/images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Trunfo: mais um jogo famoso &quot;portado&quot; para o Gametrack &lt;/span&gt;&lt;/center&gt;
 
@@ -425,7 +425,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;../../../../images/galleries/2005/11/14/entrevista-gametrack/war.jpg &quot; /&gt;
+        &lt;img src=&quot;/images/galleries/2005/11/14/entrevista-gametrack/war.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;WAR: o jogo de maior sucesso no Gametrack &lt;/span&gt;&lt;/center&gt;
 

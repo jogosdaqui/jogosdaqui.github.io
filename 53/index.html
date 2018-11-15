@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,88 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/12/07/newsabragames-dezembro2005">NewsAbragames - Dezembro/2005</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
- </center>
     
-    Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) acaba de divulgar a edição deste mês da sua newsletter. Nesta edição são tratados vários assuntos, como: O portal Gametrack e a EGS, além disso há também a enquete sobre publicidade e jogos, acesse e vote você também . Para quem ainda...
-    </div>
-
-    <a href="/2005/12/07/newsabragames-dezembro2005" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/12/07/aero-battle">Aero Battle</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
     
-  
-    
-      <img src="../../../../../images/galleries/2005/12/07/aero-battle/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Tyranny está pronto para se impor contra a Terra, liderado pelo The Nightmare Chimera Guardian, a aliança destruirá todos que a controlarem. Entretanto, uma última esperança ainda resta contra o domínio do maligno Chimera. Armada com seu avião, Red Falcon, você, nosso herói, será o único que pode impedir está...
-    </div>
-
-    <a href="/2005/12/07/aero-battle" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/12/05/taikodom-guerras-do-territorio">Taikodom, Guerras do Território</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A Hoplon Infotainment colocou no ar o hotsite: Taikodom - Guerras do Território.
-
-No hotsite existe uma breve apresentação sobre o jogo e o incrível universo de Taikodom
-, características, novas imagens e links para downloads.
-
-Confira o hotsite neste endereço: http://www.taikodom.com.br/hotsite_taiko
- .
-
-    </div>
-
-    <a href="/2005/12/05/taikodom-guerras-do-territorio" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/12/05/enquete-no-mundo-erinia">Enquete no Mundo Erinia</a></h1>
@@ -209,6 +138,8 @@ Para participar da enquente, clique aqui
     <a href="/2005/12/05/enquete-no-mundo-erinia" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/02/top-game-show-2006">Top Game Show 2006</a></h1>
@@ -227,6 +158,8 @@ Para participar da enquente, clique aqui
     <a href="/2005/12/02/top-game-show-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/02/lancamento-de-the-game-producer">Lançamento de The Game Producer</a></h1>
@@ -250,6 +183,8 @@ Confira aqui The Game Producer…
     <a href="/2005/12/02/lancamento-de-the-game-producer" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro">Evento Top Game Show 2006 no Rio de Janeiro</a></h1>
@@ -271,6 +206,23 @@ Leia mais…
     <a href="/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/12/01/pequeno-guardiao-do-tempo">Pequeno Guardião do Tempo</a></h1>
@@ -309,6 +261,8 @@ Leia mais…
     <a href="/2005/12/01/pequeno-guardiao-do-tempo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/30/winguel-novo-jogo-nacional">Winguel, novo jogo Nacional</a></h1>
@@ -327,6 +281,8 @@ Leia mais…
     <a href="/2005/11/30/winguel-novo-jogo-nacional" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/29/der-pferderennstall-lancado-na-franca">Der Pferderennstall lançado na França</a></h1>
@@ -343,6 +299,86 @@ Leia mais…
     </div>
 
     <a href="/2005/11/29/der-pferderennstall-lancado-na-franca" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/28/war">WAR</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2005/11/28/war/FavelaWars_logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    WAR, o famoso jogo de tabuleiro onde a estratégia decidia o rumo das jogadas, agora pode ser jogado online. Até 6 jogadores podem disputar uma partida, distribuindo suas tropas, atacando e conquistando os territórios inimigos. Enquanto o jogador aguarda para entrar em um jogo, pode conversar com os outros jogadores...
+    </div>
+
+    <a href="/2005/11/28/war" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/28/programadores-de-jogos-na-rede-globo">Programadores de jogos na Rede Globo</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    O Jornal Hoje, da Rede Globo, divulgou uma matéria sobre a profissão de programador de jogos no Brasil.
+Se você é apaixonado por jogos, precisa conferir a matéria neste link
+.
+
+    </div>
+
+    <a href="/2005/11/28/programadores-de-jogos-na-rede-globo" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/26/nishi-soul-mate">Nishi Soul Mate</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Nishi tem que encontrar uma namorada para levar para a festa da sua escola, mas ele não conhece ninguém que gostaria de ir com ele. Assim ele decide comprar um jornal para procurar alguém nos anúncios. Mesmo que todas as candidatas morem muito longe da casa de Nishi, ele decide...
+    </div>
+
+    <a href="/2005/11/26/nishi-soul-mate" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -375,20 +411,6 @@ Leia mais…
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

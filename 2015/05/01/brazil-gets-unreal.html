@@ -176,6 +176,12 @@ Mais informações em: https://www.unrealengine.com/blog/brazil-gets-unreal
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -191,20 +197,6 @@ Mais informações em: https://www.unrealengine.com/blog/brazil-gets-unreal
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -225,7 +217,21 @@ Mais informações em: https://www.unrealengine.com/blog/brazil-gets-unreal
 <article class="post">
   <h1>Brazil Gets Unreal</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -233,7 +239,7 @@ Mais informações em: https://www.unrealengine.com/blog/brazil-gets-unreal
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/01/brazil-gets-unreal/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/01/brazil-gets-unreal/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A Epic Games realizará em maio o Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal.</p>
@@ -266,7 +272,8 @@ Av. Washington Soares, 1321, Fortaleza-CE
 
 <p>Mais informações em: <a href="https://www.unrealengine.com/blog/brazil-gets-unreal" target="_blank">https://www.unrealengine.com/blog/brazil-gets-unreal</a></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -274,9 +281,8 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -330,20 +336,6 @@ Av. Washington Soares, 1321, Fortaleza-CE
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

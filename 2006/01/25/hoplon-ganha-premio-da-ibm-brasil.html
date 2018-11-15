@@ -98,6 +98,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -113,20 +119,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -147,7 +139,21 @@
 <article class="post">
   <h1>Hoplon ganha prêmio da IBM Brasil</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -155,14 +161,15 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/01/25/hoplon-ganha-premio-da-ibm-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/25/hoplon-ganha-premio-da-ibm-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Com o objetivo de incentivar a atuação dos ISVs (Independent Software Vendors) filiados ao programa PartnerWorld, a IBM Brasil premiou 15 parceiros de negócios que mais se destacaram no ano de 2005. Entre eles, a empresa catarinense <a href="/index.php?p=cl&amp;t=19&amp;idd=11">Hoplon Infotainment</a>
 , desenvolvedora do game <a href="/index.php?p=c&amp;id=48">Taikodom</a>
  e parceira Advanced - Industry-optimized da IBM, foi selecionada na categoria Mídia &amp; Entretenimento. “Nosso objetivo é atuar cada vez mais perto do ISV, oferecendo todo o suporte necessário para que o desenvolvedor obtenha o melhor proveito das soluções IBM, além de conhecimento sobre as novas tecnologias. Outro fator importante é a troca de experiências entre as empresas envolvidas no programa”, afirma Ruth Harada, gerente de alianças da área de Software da IBM Brasil.<br /><br />Segundo o presidente da Hoplon, Tarquínio Teles, diversas tecnologias da IBM foram fundamentais para o desenvolvimento do Taikodom. “Usamos as tecnologias da IBM como base para o nosso produto e essa premiação confirma que o Taikodom, mesmo ainda não tendo sido lançado, já é um produto extremamente inovador e de grande qualidade”, afirma Teles.<br /><br />Os parceiros de negócios que fazem parte do programa PartnerWorld estão divididos nas categorias Member, Advanced e Premier. De acordo com a categoria a que pertencem, as empresas parceiras recebem da IBM uma série de apoios e incentivos, como: acesso ao centro IBM de software para avaliação e ao virtual innovation center; download gratuito de softwares; catálogo de software (software access catalog); portal com recursos para aperfeiçoar suas habilidades técnicas e de vendas; acesso ao time mundial de venda IBM.<br /><br />O relacionamento da Hoplon com a IBM começou no final de 2003, quando dois dos fundadores da Hoplon assistiram um seminário da IBM sobre Grid Computing em São Paulo. Conversando durante o coffee-break com os palestrantes, descobriu-se um enorme potencial em usar ferramentas da IBM já consolidadas no mercado de TI (tecnologia da informação) para acelerar o desenvolvimento de games online como o Taikodom.<br /><br />A parceria foi firmada em 2004, com a adoção pela Hoplon de tecnologias IBM como DB2 e WebSphere, dando início a uma iniciativa que vem se estreitando cada vez mais, com diversas ações conjuntas em andamento e estudo, e que começa a chamar a atenção no Brasil e também no estrangeiro.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -170,9 +177,8 @@
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -220,20 +226,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

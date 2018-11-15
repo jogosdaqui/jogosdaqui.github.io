@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Hoplon vira case da IBM</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -168,7 +174,8 @@
 
 <p><br />Outro exemplo dos ganhos com esse novo modelo de desenvolvimento está o incremento de performance em 30% sobre a antiga plataforma Oracle. Além disso, os programadores poderão fazer ajustes mais rápidos, melhorando e expandindo o código do jogo. “Nós queríamos uma plataforma muito mais escalonável e flexível que os modelos existentes, e ficamos muito empolgados com as idéias que a IBM no apresentou”, diz Teles. A solução encontrada pela IBM partiu de uma demanda específica da Hoplon, e a multinacional ofereceu um produto "On Demand", que entre outras vantagens traz o pagamento mensal pelo uso, sem a necessidade de a Hoplon adquirir a solução.<br /><br /><br /><br />O Taikodom é um jogo multiplayer online de ação e tem como plano de fundo o ambiente espacial. O cenário em escala real com um universo persistente permite que todas as informações e eventos sejam constantemente armazenados e permaneçam influenciando as atitudes de todos os demais jogadores. No universo Taikodom o jogador pode ser o que quiser e sua missão é viajar, lutar, vender, liderar ou simplesmente sobreviver. A aventura se passa em 2252, em um mundo cheio de possibilidades, num universo em constante expansão. Atualmente, o game passa por uma segunda rodada de desenvolvimento. Os ajustes estão sendo feitos para atender as sugestões dos usuários, entre elas uma curva de aprendizado mais suave, interfaces mais intuitivas e maior presença do universo ficcional dentro do game. Para quem quiser testar gratuitamente o game basta se inscrever em www.taikodom.com.br</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -176,37 +183,41 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_493.png">
-          <img src="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_493.png"/>        
+        <li data-thumb="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_493.png">
+          <img src="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_493.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_494.png">
-          <img src="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_494.png"/>        
+        <li data-thumb="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_494.png">
+          <img src="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_494.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_492.png">
-          <img src="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_492.png"/>        
+        <li data-thumb="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_492.png">
+          <img src="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_492.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_495.png">
-          <img src="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_495.png"/>        
+        <li data-thumb="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_495.png">
+          <img src="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_495.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_496.png">
-          <img src="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_496.png"/>        
+        <li data-thumb="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_496.png">
+          <img src="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_496.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_491.png">
-          <img src="../../../../../images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_491.png"/>        
+        <li data-thumb="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_491.png">
+          <img src="/images/galleries/2006/05/05/hoplon-vira-case-da-ibm/Screenshot_491.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -228,6 +239,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -274,20 +286,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

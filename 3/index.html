@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/08/24/odallus-the-dark-call-primeiras-impressoes">Odallus - The Dark Call: primeiras impressões</a></h1>
@@ -131,16 +126,18 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/08/24/odallus-the-dark-call-primeiras-impressoes/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/08/24/odallus-the-dark-call-primeiras-impressoes/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
-    Falamos algumas vezes no jogosdaqui sobre o aclamado game de ação e exploração retrô da brasileira JoyMasher: Odallus - The Dark Call : Games brasileiros finalistas no BIG Festival 2015 Versão beta de Odallus - The Dark Call Lançamento de Odallus: The Dark Call Agora chegou a hora de conferirmos...
+    Falamos algumas vezes no jogosdaqui sobre o aclamado game de ação e exploração retrô da brasileira JoyMasher: Odallus - The Dark Call: Games brasileiros finalistas no BIG Festival 2015 Versão beta de Odallus - The Dark Call Lançamento de Odallus: The Dark Call Agora chegou a hora de conferirmos as...
     </div>
 
     <a href="/2015/08/24/odallus-the-dark-call-primeiras-impressoes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/08/20/racketboy-da-double-dash-studios">RacketBoy da Double Dash Studios</a></h1>
@@ -156,9 +153,7 @@
     
   
     
-  
-    
-      <img src="../../../../../images/galleries/2015/08/20/racketboy-da-double-dash-studios/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/08/20/racketboy-da-double-dash-studios/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -168,6 +163,8 @@
     <a href="/2015/08/20/racketboy-da-double-dash-studios" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos">Bundle de 30 games brasileiros totalmente gratuitos</a></h1>
@@ -186,6 +183,8 @@
     <a href="/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada">Horizon Chase se aproxima do grid de largada</a></h1>
@@ -200,14 +199,34 @@
   
     
   
+    
+      <img src="/images/galleries/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
-    Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da Aquiris Game Studio já tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão. Segundo a gamedev gaúcha, Horizon Chase será...
+    Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da Aquiris Game Studio á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão. Segundo a gamedev gaúcha, Horizon Chase será...
     </div>
 
     <a href="/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado">Chroma Squad Tactical RPG #004 - Potencial Ilimitado</a></h1>
@@ -219,7 +238,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -239,6 +258,8 @@ Playthrough Chroma Squad
     <a href="/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/08/06/games-brasileiros-com-desconto">Games brasileiros com desconto</a></h1>
@@ -250,7 +271,7 @@ Playthrough Chroma Squad
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/08/06/games-brasileiros-com-desconto/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/08/06/games-brasileiros-com-desconto/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -260,6 +281,8 @@ Playthrough Chroma Squad
     <a href="/2015/08/06/games-brasileiros-com-desconto" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/31/teaser-de-gameplay-de-horizon-chase">Teaser de gameplay de Horizon Chase</a></h1>
@@ -270,14 +293,19 @@ Playthrough Chroma Squad
 
 <center>
   
+    
+      <img src="/images/galleries/2015/07/31/teaser-de-gameplay-de-horizon-chase/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
-    Em maio fizemos uma prévia do game de corrida Horizon Chase , agora saiu do forno o tão esperado vídeo mostrando um pouco do gameplay do jogo da gaúcha Aquiris Game Studio. Confira abaixo o vídeo do game que deve ser lançado para consoles, mobile e PC. Gameplay de Horizon...
+    Em maio fizemos uma prévia do game de corrida Horizon Chase, agora saiu do forno o tão esperado vídeo mostrando um pouco do gameplay do jogo da gaúcha Aquiris Game Studio. Confira abaixo o vídeo do game que deve ser lançado para consoles, mobile e PC. Gameplay de Horizon Chase...
     </div>
 
     <a href="/2015/07/31/teaser-de-gameplay-de-horizon-chase" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/31/crowdfunding-de-99vidas-o-jogo">Crowdfunding de 99Vidas o jogo</a></h1>
@@ -291,7 +319,7 @@ Playthrough Chroma Squad
     
   
     
-      <img src="../../../../../images/galleries/2015/07/31/crowdfunding-de-99vidas-o-jogo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/31/crowdfunding-de-99vidas-o-jogo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -301,6 +329,8 @@ Playthrough Chroma Squad
     <a href="/2015/07/31/crowdfunding-de-99vidas-o-jogo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/30/previa-de-relic-hunters-zero">Prévia de Relic Hunters Zero</a></h1>
@@ -316,7 +346,7 @@ Playthrough Chroma Squad
     
   
     
-      <img src="../../../../../images/galleries/2015/07/30/previa-de-relic-hunters-zero/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/30/previa-de-relic-hunters-zero/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -326,6 +356,8 @@ Playthrough Chroma Squad
     <a href="/2015/07/30/previa-de-relic-hunters-zero" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento">Gryphon Knight Epic ganha data de lançamento</a></h1>
@@ -337,7 +369,7 @@ Playthrough Chroma Squad
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -377,20 +409,6 @@ Playthrough Chroma Squad
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

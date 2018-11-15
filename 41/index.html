@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,79 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/03/28/entrevista-palmsoft-tecnologia">Entrevista PalmSoft Tecnologia</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
- </center>
     
-    A PalmSoft Tecnologia é uma empresa catarinense desenvolvedora de inúmeros jogos para celular, entre eles estão: os famosos Crimson After Dusk e PalmSoft Drag Racer. O jogosdaqui entrevistou Dennis Kerr Coelho, 25 anos, diretor técnico da PalmSoft Tecnologia. Como surgiu a empresa? Dennis: A PalmSoft surgiu em 2002, e, inicialmente,...
-    </div>
-
-    <a href="/2006/03/28/entrevista-palmsoft-tecnologia" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/27/primeiro-brasileiro-no-espaco">Primeiro brasileiro no espaço</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
     
-    Para celebrar a primeira viagem espacial de um brasileiro, protagonizada por Marcos Pontes no próximo 30 de março, preparamos uma lista dos jogos que também nos levam ao espaço.Confira o especial…
-
-    </div>
-
-    <a href="/2006/03/27/primeiro-brasileiro-no-espaco" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/27/primeiras-imagens-de-capoeira">Primeiras imagens de Capoeira</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Capoeira, um dos 8 projetos vencedores para o desenvolvimento de uma demo jogável do JogosBR 2004, mostra suas primeiras imagens.Confira…
-
-
-    </div>
-
-    <a href="/2006/03/27/primeiras-imagens-de-capoeira" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/03/27/novo-site-da-tgs">Novo site da TGS</a></h1>
@@ -198,6 +136,8 @@
     <a href="/2006/03/27/novo-site-da-tgs" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/27/capoeira">Capoeira</a></h1>
@@ -224,6 +164,8 @@
     <a href="/2006/03/27/capoeira" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/27/brincando-com-a-memoria">Brincando com a Memória</a></h1>
@@ -248,6 +190,8 @@
     <a href="/2006/03/27/brincando-com-a-memoria" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/26/fruzzle-ganha-expansao">Fruzzle ganha expansão</a></h1>
@@ -266,6 +210,23 @@
     <a href="/2006/03/26/fruzzle-ganha-expansao" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/03/24/primeiro-brasileiro-no-espaco">Primeiro Brasileiro no Espaço</a></h1>
@@ -284,6 +245,8 @@
     <a href="/2006/03/24/primeiro-brasileiro-no-espaco" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/24/piratas-e-guerreiros-da-palmsoft">Piratas e guerreiros da PalmSoft</a></h1>
@@ -302,6 +265,8 @@
     <a href="/2006/03/24/piratas-e-guerreiros-da-palmsoft" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/24/gladiarena">Gladiarena</a></h1>
@@ -315,7 +280,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/24/gladiarena/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/24/gladiarena/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -323,6 +288,82 @@
     </div>
 
     <a href="/2006/03/24/gladiarena" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/24/fighters-of-caribbean">Fighters of Caribbean</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2006/03/24/fighters-of-caribbean/PalmSoft_FightersOfCaribbean_logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos. Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará...
+    </div>
+
+    <a href="/2006/03/24/fighters-of-caribbean" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/23/eonsgames-ganha-premio-no-japao">EonsGames ganha prêmio no Japão</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    A empresa EonsGames Entertainment ganhou o 1o. lugar no 1st DoJa Application Contest promovido pela operadora de celular japonesa NTT Docomo.A EonsGames obteve a premiação na categoria "Virtual Pet Game" através do jogo Digibunny. Digibunny faz parte da Digifamily da EonsGames. Essa linha de jogos é baseada em animais de...
+    </div>
+
+    <a href="/2006/03/23/eonsgames-ganha-premio-no-japao" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/23/digibunny">Digibunny</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2006/03/23/digibunny/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Digibunny é um jogo da série Digifamily da EonsGames Entertainment, nele o jogador trata de um belo bicho de estimação: um coelho. O bichinho tem que ser alimentado, deve tomar banho, brincar, receber carinho e remédio. Se não for cuidado, morre e deve ser baixado novamenteMas não pense que vai...
+    </div>
+
+    <a href="/2006/03/23/digibunny" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -355,20 +396,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

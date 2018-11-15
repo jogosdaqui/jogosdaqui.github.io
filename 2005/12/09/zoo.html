@@ -113,6 +113,12 @@ Você deverá percorrer o zoológico empurrando seu carrinho de comida e entrega
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -128,20 +134,6 @@ Você deverá percorrer o zoológico empurrando seu carrinho de comida e entrega
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -162,7 +154,21 @@ Você deverá percorrer o zoológico empurrando seu carrinho de comida e entrega
 <article class="post">
   <h1>Zôo</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -174,7 +180,7 @@ Você deverá percorrer o zoológico empurrando seu carrinho de comida e entrega
     
   
     
-      <img src="../../../../../images/galleries/2005/12/09/zoo/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/09/zoo/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Precisa-se de um zelador! Nós do zoológico <a href="http://www.devworks.com.br/celular/br/zoo.htm" target="_blank">Zôo</a>
@@ -186,7 +192,8 @@ Você deverá percorrer o zoológico empurrando seu carrinho de comida e entrega
 <p>Você deverá percorrer o zoológico empurrando seu carrinho de comida e entregando a comida na jaula de cada animal. O candidato deve gostar de desafios crescentes, pois estamos sempre comprando novos animais. Lembre-se, um animal bem alimentado é um animal feliz!</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -194,45 +201,49 @@ Você deverá percorrer o zoológico empurrando seu carrinho de comida e entrega
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/09/zoo/zooEscape_03.gif">
-          <img src="../../../../../images/galleries/2005/12/09/zoo/zooEscape_03.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/09/zoo/zooEscape_03.gif">
+          <img src="/images/galleries/2005/12/09/zoo/zooEscape_03.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/09/zoo/zoo001.jpg">
-          <img src="../../../../../images/galleries/2005/12/09/zoo/zoo001.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/09/zoo/zoo001.jpg">
+          <img src="/images/galleries/2005/12/09/zoo/zoo001.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/09/zoo/zooEscape_02.gif">
-          <img src="../../../../../images/galleries/2005/12/09/zoo/zooEscape_02.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/09/zoo/zooEscape_02.gif">
+          <img src="/images/galleries/2005/12/09/zoo/zooEscape_02.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/09/zoo/zoo003.jpg">
-          <img src="../../../../../images/galleries/2005/12/09/zoo/zoo003.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/09/zoo/zoo003.jpg">
+          <img src="/images/galleries/2005/12/09/zoo/zoo003.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/09/zoo/zooEscape_04.gif">
-          <img src="../../../../../images/galleries/2005/12/09/zoo/zooEscape_04.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/09/zoo/zooEscape_04.gif">
+          <img src="/images/galleries/2005/12/09/zoo/zooEscape_04.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/09/zoo/zooEscape.gif">
-          <img src="../../../../../images/galleries/2005/12/09/zoo/zooEscape.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/09/zoo/zooEscape.gif">
+          <img src="/images/galleries/2005/12/09/zoo/zooEscape.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/09/zoo/zooEscape_01.gif">
-          <img src="../../../../../images/galleries/2005/12/09/zoo/zooEscape_01.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/09/zoo/zooEscape_01.gif">
+          <img src="/images/galleries/2005/12/09/zoo/zooEscape_01.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/09/zoo/zoo002.jpg">
-          <img src="../../../../../images/galleries/2005/12/09/zoo/zoo002.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/09/zoo/zoo002.jpg">
+          <img src="/images/galleries/2005/12/09/zoo/zoo002.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -254,6 +265,7 @@ Você deverá percorrer o zoológico empurrando seu carrinho de comida e entrega
     });
   });
 </script>
+
 
   </div>
 
@@ -300,20 +312,6 @@ Você deverá percorrer o zoológico empurrando seu carrinho de comida e entrega
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

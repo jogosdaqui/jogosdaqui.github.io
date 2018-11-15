@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Play Gool</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -157,12 +163,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/08/03/play-gool/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/08/03/play-gool/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Um jogo de futebol, baseado na formula pênalti, aonde se tem como adversário o goleiro, a cada novo nível o goleiro vai ficando mais rápido e abilidoso, cabe a você tentar acompanhar o ritmo dele e superá-lo.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -170,29 +177,33 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/08/03/play-gool/Screenshot_661.png">
-          <img src="../../../../../images/galleries/2006/08/03/play-gool/Screenshot_661.png"/>        
+        <li data-thumb="/images/galleries/2006/08/03/play-gool/Screenshot_661.png">
+          <img src="/images/galleries/2006/08/03/play-gool/Screenshot_661.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/03/play-gool/Screenshot_658.png">
-          <img src="../../../../../images/galleries/2006/08/03/play-gool/Screenshot_658.png"/>        
+        <li data-thumb="/images/galleries/2006/08/03/play-gool/Screenshot_658.png">
+          <img src="/images/galleries/2006/08/03/play-gool/Screenshot_658.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/03/play-gool/Screenshot_660.png">
-          <img src="../../../../../images/galleries/2006/08/03/play-gool/Screenshot_660.png"/>        
+        <li data-thumb="/images/galleries/2006/08/03/play-gool/Screenshot_660.png">
+          <img src="/images/galleries/2006/08/03/play-gool/Screenshot_660.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/08/03/play-gool/Screenshot_659.png">
-          <img src="../../../../../images/galleries/2006/08/03/play-gool/Screenshot_659.png"/>        
+        <li data-thumb="/images/galleries/2006/08/03/play-gool/Screenshot_659.png">
+          <img src="/images/galleries/2006/08/03/play-gool/Screenshot_659.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -214,6 +225,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -260,20 +272,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

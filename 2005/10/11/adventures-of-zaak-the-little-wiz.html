@@ -104,6 +104,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@
 <article class="post">
   <h1>Adventures of Zaak - The Little Wiz</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -169,7 +175,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Uma mistura de puzzle e plataforma com Zaak, um desastrado aprendiz de feiticeiro, cuja missão é salvar as fadinhas capturadas pelo terrível Ás de Espadas. Zaak precisará lutar contra abóboras assassinas, escalar paredes, evitar armadilhas e usar sua magia com inteligência para passar por todos os níveis.</p>
@@ -178,7 +184,8 @@
 
 <center></center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -186,37 +193,41 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-6.gif">
-          <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-6.gif"/>        
+        <li data-thumb="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-6.gif">
+          <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-6.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-5.gif">
-          <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-5.gif"/>        
+        <li data-thumb="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-5.gif">
+          <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-5.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-2.gif">
-          <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-2.gif"/>        
+        <li data-thumb="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-2.gif">
+          <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-2.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-4.gif">
-          <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-4.gif"/>        
+        <li data-thumb="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-4.gif">
+          <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-4.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-1.gif">
-          <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-1.gif"/>        
+        <li data-thumb="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-1.gif">
+          <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-1.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-3.gif">
-          <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-3.gif"/>        
+        <li data-thumb="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-3.gif">
+          <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/Meantime_AdventuresofZaak-The-LittleWiz-3.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -238,6 +249,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -284,20 +296,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

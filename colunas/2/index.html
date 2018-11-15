@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,36 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/05/22/checkpoint-7">Checkpoint #7</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2015/05/22/checkpoint-7/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    #1 Confira o demo reel da Odin Game Studio #2 A Reiza Studios mostra em vídeo a pista de Kansai do Japão que entrará na próxima atualização de seu game de corrida Stock Car Extreme #3 Protomini Multimedia e a nova música Piña Colada para seu retrogame Bernie Needs Love...
+    </div>
+
+    <a href="/2015/05/22/checkpoint-7" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/18/imagens-da-semana-7">Imagens da semana #7</a></h1>
@@ -151,12 +166,14 @@
   
  </center>
     
-    #1 A JoyMasher avisando que Odallus também sairá em português” #2 O gamedev Daniel Merkel lembrando sobre três indie games brasileiros de destaque: Toren da Swordtales, Starlit Adventures da Rockhead Games e Chroma Squad da Behold Studios” #3 Pessoal da QUByte Interactive liberando o wallpaper The War Begun de seu...
+    #1 A JoyMasher avisando que Odallus também sairá em português #2 O gamedev Daniel Merkel lembrando sobre três indie games brasileiros de destaque: Toren da Swordtales, Starlit Adventures da Rockhead Games e Chroma Squad da Behold Studios #3 Pessoal da QUByte Interactive liberando o wallpaper The War Begun de seu...
     </div>
 
     <a href="/2015/05/18/imagens-da-semana-7" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/14/checkpoint-6">Checkpoint #6</a></h1>
@@ -175,6 +192,8 @@
     <a href="/2015/05/14/checkpoint-6" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/11/imagens-da-semana-6">Imagens da semana #6</a></h1>
@@ -201,20 +220,31 @@
   
     
   
-    
-  
-    
-  
-    
-  
  </center>
     
-    #1 Desenho da artista Amora B. para Haggis, protagonista do game Odallus da brasileira JoyMasher” #2 Pessoal da gaúcha CupCake Sweet Entertainment em Miami no evento eMerge Americas” #3 Equipe da Kimeric Labs marcando presença no evento Brasil Gets Unreal edição Rio de Janeiro” #4 Fan art de Rodrigo Mesquita...
+    #1 Desenho da artista Amora B. para Haggis, protagonista do game Odallus da brasileira JoyMasher #2 Pessoal da gaúcha CupCake Sweet Entertainment em Miami no evento eMerge Americas #3 Equipe da Kimeric Labs marcando presença no evento Brasil Gets Unreal edição Rio de Janeiro #4 Fan art de Rodrigo Mesquita...
     </div>
 
     <a href="/2015/05/11/imagens-da-semana-6" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/05/09/checkpoint-5">Checkpoint #5</a></h1>
@@ -226,7 +256,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/09/checkpoint-5/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/09/checkpoint-5/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -236,6 +266,8 @@
     <a href="/2015/05/09/checkpoint-5" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins">Nova coluna no jogosdaqui: Insert Coins</a></h1>
@@ -247,7 +279,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -257,6 +289,8 @@
     <a href="/2015/05/06/nova-coluna-no-jogosdaqui-insert-coins" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista">Insert Coins: Gryphon Knight Epic - Gameplay e Entrevista</a></h1>
@@ -268,7 +302,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -278,6 +312,8 @@
     <a href="/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/04/imagens-da-semana-5">Imagens da semana #5</a></h1>
@@ -300,12 +336,14 @@
   
  </center>
     
-    #1 Foto da equipe da Odin Game Studio em pleno testes do game Better later than DEAD” #2 Poster do novo game da Vortex Game Studios, Space Lander” #3 O game developer brasileiro Ed Lago, dando uma amostra de grandes games nacionais da atualidade: Chroma Squad da Behold Studios, Odallus...
+    #1 Foto da equipe da Odin Game Studio em pleno testes do game Better later than DEAD #2 Poster do novo game da Vortex Game Studios, Space Lander #3 O game developer brasileiro Ed Lago, dando uma amostra de grandes games nacionais da atualidade: Chroma Squad da Behold Studios, Odallus...
     </div>
 
     <a href="/2015/05/04/imagens-da-semana-5" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/02/checkpoint-4">Checkpoint #4</a></h1>
@@ -317,7 +355,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/02/checkpoint-4/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/02/checkpoint-4/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -327,6 +365,8 @@
     <a href="/2015/05/02/checkpoint-4" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/27/imagens-da-semana-4">Imagens da semana #4</a></h1>
@@ -353,28 +393,10 @@
   
  </center>
     
-    #1 A Behold Studios filmando o trailer de lançamento de Chroma Squad” #2 Mais imagens da produção do novo game da Mgaia Studio: Tiny Empire” #3 A QUbyte Interactive lembrando do primeiro modelo de 3D, criado em 2008 numa aula de pós graduação em programação e produção de jogos, esse...
+    #1 A Behold Studios filmando o trailer de lançamento de Chroma Squad #2 Mais imagens da produção do novo game da Mgaia Studio: Tiny Empire #3 A QUbyte Interactive lembrando do primeiro modelo de 3D, criado em 2008 numa aula de pós graduação em programação e produção de jogos, esse...
     </div>
 
     <a href="/2015/04/27/imagens-da-semana-4" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2015/04/26/checkpoint-3">Checkpoint #3</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    #1 Evento do Museu do Videogame Itinerante, onde os jogadores podem conhecer e jogar clássicos das décadas de 70, 80, 90 e 2000 #2 A equipe da Swordtales lembrando que o game Toren já pode ser adicionado a lista de desejos no Steam #3 Entrevistamos Claudio Lins, gamedev brasileiro do...
-    </div>
-
-    <a href="/2015/04/26/checkpoint-3" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -389,7 +411,7 @@
            
 
         
-            <li ><a href="/colunas/" title="">1</a></li>
+            <li ><a href="/colunas/" title="Colunas">1</a></li>
         
             <li  class="selected"><a href="/colunas/2/" title="">2</a></li>
         
@@ -406,20 +428,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

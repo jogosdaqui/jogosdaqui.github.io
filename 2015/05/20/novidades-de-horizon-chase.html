@@ -158,6 +158,12 @@ Esperamos lançar ele pro fim de junho, mas sem data confirmada ainda.
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -173,20 +179,6 @@ Esperamos lançar ele pro fim de junho, mas sem data confirmada ainda.
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -207,7 +199,21 @@ Esperamos lançar ele pro fim de junho, mas sem data confirmada ainda.
 <article class="post">
   <h1>Novidades de Horizon Chase</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -217,7 +223,7 @@ Esperamos lançar ele pro fim de junho, mas sem data confirmada ainda.
     
   
     
-      <img src="../../../../../images/galleries/2015/05/20/novidades-de-horizon-chase/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/20/novidades-de-horizon-chase/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>O game Horizon Chase da Aquiris Game Studio tem causado um “frisson” na comunidade gamer que aprecia games de corrida old-school, tanto pelo visual apurado quanto pela trilha sonora composta pelo mesmo compositor de clássicos como Top Gear.</p>
@@ -244,7 +250,8 @@ Esperamos lançar ele pro fim de junho, mas sem data confirmada ainda.
   <p>Enquanto o game não chega, o jeito é torcer para que a Aquiris libere mais imagens e vídeos para matar nossa curiosidade até o lançamento do game.</p>
 </blockquote>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -252,11 +259,15 @@ Esperamos lançar ele pro fim de junho, mas sem data confirmada ainda.
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
-      <img src="../../../../../images/galleries/2015/05/20/novidades-de-horizon-chase/novidades-de-horizon-chase1.jpg"/> 
+      <img src="/images/galleries/2015/05/20/novidades-de-horizon-chase/novidades-de-horizon-chase1.jpg"/> 
   
  </center>
+ 
+
 
 
   </div>
@@ -310,20 +321,6 @@ Esperamos lançar ele pro fim de junho, mas sem data confirmada ainda.
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Jankentris</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -156,7 +162,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/11/04/jankentris/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/11/04/jankentris/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Acredita-se que o famoso jogo pedra, papel e tesoura ou jakenpõ foi inventado no Japão no final do século 19, provavelmente tenha surgido baseado em dois games ainda mais antigos oriundos da China do século 17. No japão o game ficou conhecido como Jankenpon ou apenas Janken.</p>
@@ -177,7 +183,8 @@
 
 <p>Simples e original! Jankentris deve agradar em cheio os fãs de um bom puzzle.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -185,21 +192,25 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/11/04/jankentris/StarryPanda_Jankentris_04.png">
-          <img src="../../../../../images/galleries/2015/11/04/jankentris/StarryPanda_Jankentris_04.png"/>        
+        <li data-thumb="/images/galleries/2015/11/04/jankentris/StarryPanda_Jankentris_04.png">
+          <img src="/images/galleries/2015/11/04/jankentris/StarryPanda_Jankentris_04.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/11/04/jankentris/StarryPanda_Jankentris_02.png">
-          <img src="../../../../../images/galleries/2015/11/04/jankentris/StarryPanda_Jankentris_02.png"/>        
+        <li data-thumb="/images/galleries/2015/11/04/jankentris/StarryPanda_Jankentris_02.png">
+          <img src="/images/galleries/2015/11/04/jankentris/StarryPanda_Jankentris_02.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -221,6 +232,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -269,20 +281,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

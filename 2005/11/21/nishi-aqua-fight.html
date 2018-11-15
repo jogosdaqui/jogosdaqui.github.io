@@ -101,6 +101,12 @@ Você está no controle do navio TempusNavis, equipado com poderosos canhões e 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Você está no controle do navio TempusNavis, equipado com poderosos canhões e 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Você está no controle do navio TempusNavis, equipado com poderosos canhões e 
 <article class="post">
   <h1>Nishi Aqua Fight</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -173,7 +179,8 @@ Você está no controle do navio TempusNavis, equipado com poderosos canhões e 
 <p>Você está no controle do navio TempusNavis, equipado com poderosos canhões e propulsores a foguetes d’água. Embora fortemente protegido, o navio é surpreendentemente rápido e estável. A característica mais especial desta incrível máquina é a função de viagem no tempo, qual ajudará você em sua longa jornada.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -181,33 +188,37 @@ Você está no controle do navio TempusNavis, equipado com poderosos canhões e 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_5.gif">
-          <img src="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_5.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_5.gif">
+          <img src="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_5.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_4.gif">
-          <img src="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_4.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_4.gif">
+          <img src="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_4.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_3.gif">
-          <img src="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_3.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_3.gif">
+          <img src="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_3.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_6.gif">
-          <img src="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_6.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_6.gif">
+          <img src="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_6.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_2.gif">
-          <img src="../../../../../images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_2.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_2.gif">
+          <img src="/images/galleries/2005/11/21/nishi-aqua-fight/Z80Software_NishiAquaFight_2.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -229,6 +240,7 @@ Você está no controle do navio TempusNavis, equipado com poderosos canhões e 
     });
   });
 </script>
+
 
   </div>
 
@@ -273,20 +285,6 @@ Você está no controle do navio TempusNavis, equipado com poderosos canhões e 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

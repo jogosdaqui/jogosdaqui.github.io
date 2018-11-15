@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>jogosdaqui – O maior banco de dados sobre os games desenvolvidos no Brasil</title>
+    <title>Promoções – jogosdaqui – O maior banco de dados sobre os games desenvolvidos no Brasil</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -19,6 +19,9 @@
 
     <meta name="author" content="jogosdaqui" />
 
+    
+    <meta property="og:title" content="Promoções" />
+    <meta property="twitter:title" content="Promoções" />
     
 
     
@@ -39,15 +42,15 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>jogosdaqui | O maior banco de dados sobre os games desenvolvidos no Brasil</title>
+<title>Promoções | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="jogosdaqui" />
+<meta property="og:title" content="Promoções" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="O maior banco de dados sobre os games desenvolvidos no Brasil" />
 <meta property="og:description" content="O maior banco de dados sobre os games desenvolvidos no Brasil" />
 <meta property="og:site_name" content="jogosdaqui" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"/promocoes/","headline":"jogosdaqui","description":"O maior banco de dados sobre os games desenvolvidos no Brasil","@context":"http://schema.org"}</script>
+{"@type":"WebPage","url":"/promocoes/","headline":"Promoções","description":"O maior banco de dados sobre os games desenvolvidos no Brasil","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -84,6 +87,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,27 +108,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/13/promocao-do-game-space-lander">Promoção do game Space Lander</a></h1>
@@ -138,6 +133,8 @@
     <a href="/2015/05/13/promocao-do-game-space-lander" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/05/promocao-do-game-recruits-make-heroes-make-history">Promoção do game Recruits - Make Heroes. Make History.</a></h1>
@@ -156,6 +153,8 @@
     <a href="/2015/05/05/promocao-do-game-recruits-make-heroes-make-history" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/30/promocao-ano-10-assinatura-economica">Promoção Ano 10 = assinatura econômica</a></h1>
@@ -174,6 +173,8 @@
     <a href="/2006/01/30/promocao-ano-10-assinatura-economica" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/17/promocao-de-lancamento-do-jogosdaqui">Promoção de lançamento do jogosdaqui</a></h1>
@@ -199,20 +200,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">
@@ -246,7 +233,7 @@
 		ga('create', 'UA-20179088-2', 'auto');
 		ga('send', 'pageview', {
 		  'page': '/promocoes/index.html',
-		  'title': ''
+		  'title': 'Promoções'
 		});
 	</script>
 	<!-- End Google Analytics -->

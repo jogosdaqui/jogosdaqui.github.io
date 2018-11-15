@@ -107,6 +107,12 @@ O jogo que tem o lançamento planejado para o segundo semestre de 2011 para EUA,
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -122,20 +128,6 @@ O jogo que tem o lançamento planejado para o segundo semestre de 2011 para EUA,
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -156,7 +148,21 @@ O jogo que tem o lançamento planejado para o segundo semestre de 2011 para EUA,
 <article class="post">
   <h1>FPS da Aquiris gX em fase alpha</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -193,7 +199,8 @@ O jogo que tem o lançamento planejado para o segundo semestre de 2011 para EUA,
 <p>Confira abaixo mais algumas imagens do jogo em desenvolvimento:</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -201,41 +208,45 @@ O jogo que tem o lançamento planejado para o segundo semestre de 2011 para EUA,
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_06.jpg">
-          <img src="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_06.jpg"/>        
+        <li data-thumb="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_06.jpg">
+          <img src="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_06.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_02.jpg">
-          <img src="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_02.jpg"/>        
+        <li data-thumb="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_02.jpg">
+          <img src="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_01.jpg">
-          <img src="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_01.jpg"/>        
+        <li data-thumb="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_01.jpg">
+          <img src="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_01.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_04.jpg">
-          <img src="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_04.jpg"/>        
+        <li data-thumb="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_04.jpg">
+          <img src="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_04.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_05.jpg">
-          <img src="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_05.jpg"/>        
+        <li data-thumb="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_05.jpg">
+          <img src="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_05.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_07.jpg">
-          <img src="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_07.jpg"/>        
+        <li data-thumb="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_07.jpg">
+          <img src="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_07.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_03.jpg">
-          <img src="../../../../../images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_03.jpg"/>        
+        <li data-thumb="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_03.jpg">
+          <img src="/images/galleries/2011/03/01/fps-da-aquiris-gx-em-fase-alpha/aquirisFPS_03.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -257,6 +268,7 @@ O jogo que tem o lançamento planejado para o segundo semestre de 2011 para EUA,
     });
   });
 </script>
+
 
   </div>
 
@@ -305,20 +317,6 @@ O jogo que tem o lançamento planejado para o segundo semestre de 2011 para EUA,
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

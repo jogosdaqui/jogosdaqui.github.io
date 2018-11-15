@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,37 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/27/roko-loko-no-castelo-do-ratozinger">Roko-Loko no castelo do Ratozinger</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+ </center>
+    
+    Os personagens Roko-Loko e Adrina-Lina foram criados há quase dez anos pelo cartunista Marcio Baraldi, para a revista Rock Brigade, e depois de lançados dois livros de sucesso, chegou a hora dos personagens ganharem um game para PC. Ele se chama “Roko-Loko no castelo do Ratozinger” e é o primeiro...
+    </div>
+
+    <a href="/2005/09/27/roko-loko-no-castelo-do-ratozinger" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/27/programa-do-ratinho">Programa do Ratinho</a></h1>
@@ -155,6 +171,8 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     <a href="/2005/09/27/programa-do-ratinho" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/24/shoot-the-chief">Shoot The Chief</a></h1>
@@ -168,7 +186,7 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     
   
     
-      <img src="../../../../../images/galleries/2005/09/24/shoot-the-chief/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/24/shoot-the-chief/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -178,6 +196,8 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     <a href="/2005/09/24/shoot-the-chief" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/23/super-popcorn-machine">Super Popcorn Machine</a></h1>
@@ -191,7 +211,7 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     
   
     
-      <img src="../../../../../images/galleries/2005/09/23/super-popcorn-machine/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/23/super-popcorn-machine/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -201,6 +221,23 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     <a href="/2005/09/23/super-popcorn-machine" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/09/23/koko-arena">Koko Arena</a></h1>
@@ -224,7 +261,7 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     
   
     
-      <img src="../../../../../images/galleries/2005/09/23/koko-arena/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/23/koko-arena/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -234,6 +271,8 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     <a href="/2005/09/23/koko-arena" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/23/jokenpo">JoKenPo</a></h1>
@@ -266,6 +305,8 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     <a href="/2005/09/23/jokenpo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/23/hello">Hello!</a></h1>
@@ -289,7 +330,7 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     
   
     
-      <img src="../../../../../images/galleries/2005/09/23/hello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/23/hello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -299,6 +340,8 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     <a href="/2005/09/23/hello" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/23/cookie-chef">Cookie Chef</a></h1>
@@ -320,7 +363,7 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     
   
     
-      <img src="../../../../../images/galleries/2005/09/23/cookie-chef/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/23/cookie-chef/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -330,6 +373,8 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     <a href="/2005/09/23/cookie-chef" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/22/transportando-o-brasil">Transportando o Brasil</a></h1>
@@ -354,6 +399,8 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     <a href="/2005/09/22/transportando-o-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/22/o-monstruario">O Monstruário</a></h1>
@@ -367,7 +414,7 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     
   
     
-      <img src="../../../../../images/galleries/2005/09/22/o-monstruario/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/22/o-monstruario/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -375,30 +422,6 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
     </div>
 
     <a href="/2005/09/22/o-monstruario" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/22/o-enigma-da-esfinge">O Enigma da Esfinge</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    Gustavinho em O Enigma da Esfinge, o primeiro CD-ROM com intera&amp;ccedil lançado em 1996;ão entre personagens animados e seres humanos, um desenho animado interativo, com a divertida participação de Marisa Orth, no papel de Cleópatra. Um jogo (adventure), onde você comanda Gustavinho, um garoto irreverente, que volta no tempo e...
-    </div>
-
-    <a href="/2005/09/22/o-enigma-da-esfinge" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -434,20 +457,6 @@ Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e in
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

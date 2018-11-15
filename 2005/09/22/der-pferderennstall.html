@@ -182,6 +182,12 @@ Dezenas de horas de diversão
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -197,20 +203,6 @@ Dezenas de horas de diversão
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -231,7 +223,21 @@ Dezenas de horas de diversão
 <article class="post">
   <h1>Der Pferderennstall</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -289,7 +295,8 @@ Dezenas de horas de diversão</p>
         <iframe src="https://www.youtube.com/embed/25Na5NPFPks " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -297,49 +304,53 @@ Dezenas de horas de diversão</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag01.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag01.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag01.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag01.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag06.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag06.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag06.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag06.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag08.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag08.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag08.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag08.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag03.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag03.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag03.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag03.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag09.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag09.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag09.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag09.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag02.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag02.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag02.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag04.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag04.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag04.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag04.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag07.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag07.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag07.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag07.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag05.jpg">
-          <img src="../../../../../images/galleries/2005/09/22/der-pferderennstall/imag05.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/22/der-pferderennstall/imag05.jpg">
+          <img src="/images/galleries/2005/09/22/der-pferderennstall/imag05.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -361,6 +372,7 @@ Dezenas de horas de diversão</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -405,20 +417,6 @@ Dezenas de horas de diversão</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

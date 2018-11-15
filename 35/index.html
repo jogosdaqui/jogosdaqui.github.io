@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,25 +110,14 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
-    <h1><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo &#39;150 jogos daqui&#39;</a></h1>
+    <h1><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a></h1>
 
     <div class="entry">
      
@@ -130,403 +125,25 @@
 
 <center>
   
+    
+  
  </center>
     
-    Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos
- nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
+    Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.
 
+Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
 
-
-    
-        
-            
-
-            
-
-            
-
-            
-
-            
 
         
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-    &lt;/tbody&gt;
-
+      
 
     </div>
 
     <a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2006/05/18/150-jogos-daqui">150 jogos daqui</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
     
-    O jogosdaqui atingiu a marca de 150 jogos
- nacionais cadastrados no site.Para comemorar essa importante marca, criamos um quadro comemorativo com os 150 jogos.Veja …
-
-
-    </div>
-
-    <a href="/2006/05/18/150-jogos-daqui" class="read-more">Leia mais</a>
-    </article>
-
+    
     <article class="post">
 
     <h1><a href="/2006/05/17/taikodom-alfa-teste-2006">Taikodom, Alfa Teste 2006</a></h1>
@@ -545,6 +162,8 @@
     <a href="/2006/05/17/taikodom-alfa-teste-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/17/gamegol">GameGol</a></h1>
@@ -575,6 +194,8 @@
     <a href="/2006/05/17/gamegol" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/17/confira-o-gamegol">Confira o GameGol</a></h1>
@@ -596,6 +217,23 @@
     <a href="/2006/05/17/confira-o-gamegol" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/05/16/tupa">Tupã</a></h1>
@@ -615,7 +253,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/05/16/tupa/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/05/16/tupa/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -625,6 +263,8 @@
     <a href="/2006/05/16/tupa" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006">Prorrogado o resultado do JogosBR 2005/2006</a></h1>
@@ -643,6 +283,8 @@
     <a href="/2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/15/ludusware-comeca-suas-atividades">Ludusware começa suas atividades</a></h1>
@@ -667,6 +309,8 @@
     <a href="/2006/05/15/ludusware-comeca-suas-atividades" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/14/estradas-esburacadas-a-toda-velocidade">Estradas Esburacadas a toda velocidade</a></h1>
@@ -688,6 +332,8 @@
     <a href="/2006/05/14/estradas-esburacadas-a-toda-velocidade" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/12/newsabragames-maio-2006">NewsAbragames - Maio/2006</a></h1>
@@ -704,6 +350,86 @@
     </div>
 
     <a href="/2006/05/12/newsabragames-maio-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/12/estradas-esburacadas-a-toda-velocidade">Estradas Esburacadas a toda velocidade</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    A SR-Games liberou dezenas de imagens e dois novos vídeos sobre o jogo Estradas Esburacadas. Os novos vídeos mostram o parque Ibirapuera e as possibilidades de câmeras do jogo. Veja os vídeos neste link . Confiras as novas imagens que demonstram vários efeitos do jogo, como por exemplo o reflexo...
+    </div>
+
+    <a href="/2006/05/12/estradas-esburacadas-a-toda-velocidade" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -736,20 +462,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

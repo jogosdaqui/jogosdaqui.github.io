@@ -101,6 +101,12 @@ Então, tudo isso parecia não servir para nada, mas a partir de agora…
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Então, tudo isso parecia não servir para nada, mas a partir de agora…
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Então, tudo isso parecia não servir para nada, mas a partir de agora…
 <article class="post">
   <h1>Garatuja</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -164,7 +170,7 @@ Então, tudo isso parecia não servir para nada, mas a partir de agora…
     
   
     
-      <img src="../../../../../images/galleries/2005/11/23/garatuja/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/23/garatuja/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Lembra daquele monte de rabiscos que não se parecem com absolutamente nada? Sabe aquela sua maravilhosa habilidade com desenhos, principalmente usando mouse? Reconhece um “garatujista digital” só pela forma como ele desloca o cursor do mouse pela tela do monitor?</p>
@@ -177,7 +183,8 @@ Então, tudo isso parecia não servir para nada, mas a partir de agora…
 
 <p>Ah, e não se preocupe se não souber mesmo desenhar nada - o programa tem um recurso especial para esses casos, onde o desenhista coloca uma figura “por baixo” da prancheta e vai só decalcando. Moleza, não é?</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -185,29 +192,33 @@ Então, tudo isso parecia não servir para nada, mas a partir de agora…
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/11/23/garatuja/Tilt_Garatuja_1.gif">
-          <img src="../../../../../images/galleries/2005/11/23/garatuja/Tilt_Garatuja_1.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/23/garatuja/Tilt_Garatuja_1.gif">
+          <img src="/images/galleries/2005/11/23/garatuja/Tilt_Garatuja_1.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/23/garatuja/Tilt_Garatuja_4.gif">
-          <img src="../../../../../images/galleries/2005/11/23/garatuja/Tilt_Garatuja_4.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/23/garatuja/Tilt_Garatuja_4.gif">
+          <img src="/images/galleries/2005/11/23/garatuja/Tilt_Garatuja_4.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/23/garatuja/Tilt_Garatuja_2.gif">
-          <img src="../../../../../images/galleries/2005/11/23/garatuja/Tilt_Garatuja_2.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/23/garatuja/Tilt_Garatuja_2.gif">
+          <img src="/images/galleries/2005/11/23/garatuja/Tilt_Garatuja_2.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/23/garatuja/Tilt_Garatuja_3.gif">
-          <img src="../../../../../images/galleries/2005/11/23/garatuja/Tilt_Garatuja_3.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/23/garatuja/Tilt_Garatuja_3.gif">
+          <img src="/images/galleries/2005/11/23/garatuja/Tilt_Garatuja_3.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -229,6 +240,7 @@ Então, tudo isso parecia não servir para nada, mas a partir de agora…
     });
   });
 </script>
+
 
   </div>
 
@@ -275,20 +287,6 @@ Então, tudo isso parecia não servir para nada, mas a partir de agora…
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

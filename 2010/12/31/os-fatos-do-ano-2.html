@@ -12,34 +12,13 @@
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
-    <meta name="description" content="Perguntamos aos nossos leitores: &gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?".
-As respostas foram variadas, confira:
-
-Jogo Justo
-
-Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. 
-Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem.
-Site oficial
+    <meta name="description" content="Perguntamos aos nossos leitores:
 
 " />
-    <meta property="og:description" content="Perguntamos aos nossos leitores: &gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?".
-As respostas foram variadas, confira:
-
-Jogo Justo
-
-Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. 
-Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem.
-Site oficial
+    <meta property="og:description" content="Perguntamos aos nossos leitores:
 
 " />
-    <meta name="twitter:description" content="Perguntamos aos nossos leitores: &gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?".
-As respostas foram variadas, confira:
-
-Jogo Justo
-
-Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. 
-Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem.
-Site oficial
+    <meta name="twitter:description" content="Perguntamos aos nossos leitores:
 
 " />
     
@@ -73,13 +52,13 @@ Site oficial
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Os fatos do ano" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Perguntamos aos nossos leitores: &gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?&quot;. As respostas foram variadas, confira: Jogo Justo Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem. Site oficial" />
-<meta property="og:description" content="Perguntamos aos nossos leitores: &gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?&quot;. As respostas foram variadas, confira: Jogo Justo Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem. Site oficial" />
+<meta name="description" content="Perguntamos aos nossos leitores:" />
+<meta property="og:description" content="Perguntamos aos nossos leitores:" />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2010-12-31T00:00:00-02:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","url":"/2010/12/31/os-fatos-do-ano-2","headline":"Os fatos do ano","dateModified":"2010-12-31T00:00:00-02:00","datePublished":"2010-12-31T00:00:00-02:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2010/12/31/os-fatos-do-ano-2"},"description":"Perguntamos aos nossos leitores: &gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?&quot;. As respostas foram variadas, confira: Jogo Justo Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem. Site oficial","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2010/12/31/os-fatos-do-ano-2","headline":"Os fatos do ano","dateModified":"2010-12-31T00:00:00-02:00","datePublished":"2010-12-31T00:00:00-02:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2010/12/31/os-fatos-do-ano-2"},"description":"Perguntamos aos nossos leitores:","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -116,6 +95,12 @@ Site oficial
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -131,20 +116,6 @@ Site oficial
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -165,7 +136,21 @@ Site oficial
 <article class="post">
   <h1>Os fatos do ano</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -193,93 +178,116 @@ Site oficial
     
   
  </center>
-    <p>Perguntamos aos nossos leitores: <strong>&gt; Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?"</strong>.
-As respostas foram variadas, confira:</p>
+    <p>Perguntamos aos nossos leitores:</p>
 
-<p><strong>Jogo Justo</strong>
-<strong>
-Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. 
-Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem.
-<a href="http://www.jogojusto.com.br/" target="_blank">Site oficial</a></strong></p>
+<blockquote>
+  <p>Em 2010, quais foram os fatos mais relevantes em relação a indústria de desenvolvimento de games no Brasil?".</p>
+</blockquote>
 
-<p><a href="http://jogos.uol.com.br/ultnot/multi/2010/07/14/ult530u7924.jhtm" target="_blank">UOL Jogos - Projeto visa reduzir imposto de games de 80% para 15%</a></p>
+<p>As respostas foram variadas, confira:</p>
 
-<p><strong>Eventos de games</strong></p>
+<h2 id="jogo-justo">Jogo Justo</h2>
+<p>Projeto que pretende diminuir os impostos aplicados sobre os video games e relacionados. 
+Com o passar dos meses acabou aumentando sua amplitude de ação e deve trazer boas novidades para o ano que vem.</p>
 
+<ul>
+  <li><a href="http://www.jogojusto.com.br/">Site oficial</a></li>
+  <li><a href="http://jogos.uol.com.br/ultnot/multi/2010/07/14/ult530u7924.jhtm">UOL Jogos - Projeto visa reduzir imposto de games de 80% para 15%</a></li>
+</ul>
+
+<h2 id="eventos-de-games">Eventos de games</h2>
 <p>Neste ano tivemos diversos eventos sobre games no país, entre eles destaca-se o Brasil Game Show, que bateu recordes de público.
-A edição de 2011 está agendada para outubro e deve dobrar de tamanho e receber até 40 mil visitantes.
-<a href="http://www.brasilgameshow.com.br/" target="_blank">Site oficial</a></p>
+A edição de 2011 está agendada para outubro e deve dobrar de tamanho e receber até 40 mil visitantes.</p>
 
-<p><a href="http://jogos.uol.com.br/ultnot/multi/2010/11/21/ult530u8707.jhtm" target="_blank">UOL Jogos - Com "Mortal Kombat" e jogos de dança, Brasil Game Show movimenta RJ</a></p>
+<ul>
+  <li><a href="http://www.brasilgameshow.com.br/">Site oficial</a></li>
+  <li><a href="http://jogos.uol.com.br/ultnot/multi/2010/11/21/ult530u8707.jhtm">UOL Jogos - Com "Mortal Kombat" e jogos de dança, Brasil Game Show movimenta RJ</a></li>
+</ul>
 
-<p><strong>Mudança de estratégia para o Zeebo</strong></p>
+<h2 id="mudança-de-estratégia-para-o-zeebo">Mudança de estratégia para o Zeebo</h2>
+<p>Neste ano o Zeebo mudou seu foco: entretenimento para toda a família, acesso a internet através de sua rede 3G, novo teclado e parcerias com Disney e Maurício de Souza Produções.</p>
 
-<p>Neste ano o Zeebo mudou seu foco: entretenimento para toda a família, acesso a internet através de sua rede 3G, novo teclado e parcerias com Disney e Maurício de Souza Produções.
-<a href="http://www.zeebo.com.br/" target="_blank">Site oficial</a></p>
+<ul>
+  <li><a href="http://www.zeebo.com.br/">Site oficial</a></li>
+  <li><a href="http://jogos.uol.com.br/playstation3/ultnot/2010/09/01/ult530u8154.jhtm">UOL Jogos - Com nova filosofia, Zeebo ganha acesso à internet, jogos da Disney e Turma da Mônica</a></li>
+</ul>
 
-<p><a href="http://jogos.uol.com.br/playstation3/ultnot/2010/09/01/ult530u8154.jhtm" target="_blank">UOL Jogos - Com nova filosofia, Zeebo ganha acesso à internet, jogos da Disney e Turma da Mônica</a></p>
+<h2 id="jogos-para-iphoneipodipad">Jogos para iPhone/iPod/iPad</h2>
+<p>Durante o ano foi possível apreciar diversos lançamentos de games brasileiros para as plataformas da Apple, como:</p>
 
-<p><strong>Jogos para iPhone/iPod/iPad</strong>
-<strong>
-Durante o ano foi possível apreciar diversos lançamentos de games brasileiros para as plataformas da Apple, como:
-<a href="http://www.mylumaki.com/" target="_blank">Lumaki</a>
-, <a href="http://ovnistudios.com/dodgeballsafari" target="_blank">Dodgeball Safari</a>
-, <a href="http://www.thegravediggergame.com/" target="_blank">The Gravedigger</a>
- e <a href="http://www.julesunboxingtheworld.com/" target="_blank">Jules Unboxing the World</a>
-.
-<a href="http://jogos.uol.com.br/album/jogos_brasileiros_iphone_album.jhtm" target="_blank">UOL Jogos - Jogos brasileiros para iPhone</a></strong></p>
+<ul>
+  <li><a href="http://www.mylumaki.com/">Lumaki</a></li>
+  <li><a href="http://ovnistudios.com/dodgeballsafari">Dodgeball Safari</a></li>
+  <li><a href="http://www.thegravediggergame.com/">The Gravedigger</a></li>
+  <li><a href="http://www.julesunboxingtheworld.com/">Jules Unboxing the World</a></li>
+  <li><a href="http://jogos.uol.com.br/album/jogos_brasileiros_iphone_album.jhtm">UOL Jogos - Jogos brasileiros para iPhone</a></li>
+</ul>
 
-<p><strong>Freekscape: Escape From Hell</strong></p>
+<h2 id="freekscape-escape-from-hell">Freekscape: Escape From Hell</h2>
+<p>Além de ter sido mencionado como um dos games brasileiros mais jogados, Freekscape também entrou na lista de fatos do ano, pois foi o primeiro, e até o momento o único, game brasileiro para PSP.</p>
 
-<p>Além de ter sido mencionado como um dos games brasileiros mais jogados, Freekscape também entrou na lista de fatos do ano, pois foi o primeiro, e até o momento o único, game brasileiro para PSP.
-<a href="http://www.freekscape.com/" target="_blank">Site oficial</a></p>
+<ul>
+  <li><a href="http://www.freekscape.com/">Site oficial</a></li>
+</ul>
 
-<p><strong>PS3 lançado oficialmente no Brasil</strong>
-<strong>
-Depois de anos de vida, o PS3 é lançado oficialmente pela Sony no Brasil.
-<a href="http://jogos.uol.com.br/playstation3/ultnot/2010/08/11/ult4100u1790.jhtm" target="_blank">UOL Jogos - Por R$ 1.999, Sony Style começa a vender PS3 no Brasil</a></strong></p>
+<h2 id="ps3-lançado-oficialmente-no-brasil">PS3 lançado oficialmente no Brasil</h2>
+<p>Depois de anos de vida, o PS3 é lançado oficialmente pela Sony no Brasil.</p>
 
-<p><strong>Double Jump</strong></p>
+<ul>
+  <li><a href="http://jogos.uol.com.br/playstation3/ultnot/2010/08/11/ult4100u1790.jhtm">UOL Jogos - Por R$ 1.999, Sony Style começa a vender PS3 no Brasil</a></li>
+</ul>
 
+<h2 id="double-jump">Double Jump</h2>
 <p>Desenvolvedores brasileiros de games, que atuam na indústria, falando sobre games, produção e mercado.
-Além do blog, existe o podcast, onde discutem mais profundamente assuntos relacionados a indústria.
-<a href="http://www.doublejump.com.br" target="_blank">Site oficial</a></p>
+Além do blog, existe o podcast, onde discutem mais profundamente assuntos relacionados a indústria.</p>
 
-<p><strong>Novos estúdios</strong></p>
+<ul>
+  <li><a href="http://www.doublejump.com.br">Site oficial</a></li>
+</ul>
 
-<p>Novos estúdios surgiram por todos os cantos do país e estão produzindo e lançando games para diversas plataformas.
-<a href="http://goo.gl/PymUK" target="_blank">Mapa com as empresas brasileiras de desenvolvimento de jogos</a></p>
+<h2 id="novos-estúdios">Novos estúdios</h2>
+<p>Novos estúdios surgiram por todos os cantos do país e estão produzindo e lançando games para diversas plataformas.</p>
 
-<p><strong>e-Games</strong></p>
+<ul>
+  <li><a href="http://goo.gl/PymUK">Mapa com as empresas brasileiras de desenvolvimento de jogos</a></li>
+</ul>
 
-<p>Concurso realizado pelo Senac para incentivar a criação de games no Brasil. A segunda edição do concurso obteve ótimos resultados, tendo como vencedor o game Talbot’s Odyssey do estúdio <a href="http://studiominiboss.blogspot.com/2010/11/talbots-odyssey-wins-senac-e-games-2010.html" target="_blank">MiniBoss</a>
-.
-<a href="http://www3.sp.senac.br/hotsites/gd2/egames/" target="_blank">Site oficial</a></p>
+<h2 id="e-games">e-Games</h2>
+<p>Concurso realizado pelo Senac para incentivar a criação de games no Brasil. A segunda edição do concurso obteve ótimos resultados, tendo como vencedor o game Talbot’s Odyssey do estúdio <a href="http://studiominiboss.blogspot.com/2010/11/talbots-odyssey-wins-senac-e-games-2010.html">MiniBoss</a>.</p>
 
-<p><a href="http://jogos.uol.com.br/ultnot/multi/2010/10/21/ult530u8485.jhtm" target="_blank">UOL Jogos - Senac abre concurso para premiar novos talentos em produção de jogos no Brasil</a></p>
+<ul>
+  <li><a href="http://www3.sp.senac.br/hotsites/gd2/egames/">Site oficial</a></li>
+  <li><a href="http://jogos.uol.com.br/ultnot/multi/2010/10/21/ult530u8485.jhtm">UOL Jogos - Senac abre concurso para premiar novos talentos em produção de jogos no Brasil</a></li>
+  <li><a href="http://www.doublejump.com.br/archives/1838">DoubleJump - E-Games 2010</a></li>
+</ul>
 
-<p><a href="http://www.doublejump.com.br/archives/1838" target="_blank">DoubleJump - E-Games 2010</a></p>
+<h2 id="investida-da-blizzard-no-brasil">Investida da Blizzard no Brasil</h2>
+<p>A Blizzard abriu um escritório no país e começou suas operações com o lançamento de StarCraft II dublado em português. O game foi lançado com um evento para a imprensa e gamers.</p>
 
-<p><strong>Investida da Blizzard no Brasil</strong>
-<strong>
-A Blizzard abriu um escritório no país e começou suas operações com o lançamento de StarCraft II dublado em português. O game foi lançado com um evento para a imprensa e gamers.
-<a href="http://jogos.uol.com.br/pc/ultnot/2010/04/12/ult182u8357.jhtm" target="_blank">UOL Jogos - Blizzard prepara lançamento de "StarCraft II" no Brasil</a></strong></p>
+<ul>
+  <li><a href="http://jogos.uol.com.br/pc/ultnot/2010/04/12/ult182u8357.jhtm">UOL Jogos - Blizzard prepara lançamento de "StarCraft II" no Brasil</a></li>
+</ul>
 
-<p><strong>Saída dos estúdios de desenvolvimento da Ubisoft do Brasil</strong>
-Em 2008 a Ubisoft inaugurou seu primeiro estúdio de desenvolvimento de jogos no Brasil, porém em 2010 fechou todos os estúdios de desenvolvimento no Brasil, focando apenas na parte comercial.
-2008: <a href="http://jogos.uol.com.br/reportagens/ultnot/2008/06/24/ult2240u128.jhtm">UOL Jogos - Ubisoft inaugura estúdio de produção de jogos no Brasil</a></p>
+<h2 id="saída-dos-estúdios-de-desenvolvimento-da-ubisoft-do-brasil">Saída dos estúdios de desenvolvimento da Ubisoft do Brasil</h2>
+<p>Em 2008 a Ubisoft inaugurou seu primeiro estúdio de desenvolvimento de jogos no Brasil, porém em 2010 fechou todos os estúdios de desenvolvimento no Brasil, focando apenas na parte comercial.</p>
 
-<p>2010: <a href="http://jogos.uol.com.br/ultnot/multi/2010/09/30/ult530u8344.jhtm" target="_blank">UOL Jogos - Ubisoft fechará estúdios no Brasil até fim do ano e foca em distribuição e varejo</a></p>
+<ul>
+  <li>2008: <a href="http://jogos.uol.com.br/reportagens/ultnot/2008/06/24/ult2240u128.jhtm">UOL Jogos - Ubisoft inaugura estúdio de produção de jogos no Brasil</a></li>
+  <li>2010: <a href="http://jogos.uol.com.br/ultnot/multi/2010/09/30/ult530u8344.jhtm">UOL Jogos - Ubisoft fechará estúdios no Brasil até fim do ano e foca em distribuição e varejo</a></li>
+</ul>
 
-<p>StairLabs</p>
+<h2 id="stairlabs">StairLabs</h2>
+<p>O StairLabs promete dar uma ajuda para que criadores de games independentes consigam produzir e publicar seus games e transformá-los em produto.</p>
 
-<p>O StairLabs promete dar uma ajuda para que criadores de games independentes consigam produzir e publicar seus games e transformá-los em produto.
-<a href="http://www.stairslabs.com.br" target="_blank">Site oficial</a></p>
+<ul>
+  <li><a href="http://www.stairslabs.com.br">Site oficial</a></li>
+</ul>
 
 <p>Esses foram os fatos de 2010, segundo nossos leitores, para a indústria de desenvolvimento de jogos brasileira. Um grande ano, sem dúvida, mas que ficará pequeno quando 2011 estiver terminando.
-Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.</p>
+Esperamos que 2011 seja um ano ainda melhor para os games brasileiros</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -287,53 +295,57 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/iphone.png">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/iphone.png"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/iphone.png">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/iphone.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/playstation3.jpg">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/playstation3.jpg"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/playstation3.jpg">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/playstation3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/egames.jpg">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/egames.jpg"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/egames.jpg">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/egames.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/novosestudios.png">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/novosestudios.png"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/novosestudios.png">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/novosestudios.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/stairslabs.png">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/stairslabs.png"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/stairslabs.png">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/stairslabs.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/freekscape-2.jpg">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/freekscape-2.jpg"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/freekscape-2.jpg">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/freekscape-2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/zeebo.jpg">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/zeebo.jpg"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/zeebo.jpg">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/zeebo.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/doublejump.png">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/doublejump.png"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/doublejump.png">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/doublejump.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/blizzard.jpg">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/blizzard.jpg"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/blizzard.jpg">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/blizzard.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/jogojusto.png">
-          <img src="../../../../../images/galleries/2010/12/31/os-fatos-do-ano-2/jogojusto.png"/>        
+        <li data-thumb="/images/galleries/2010/12/31/os-fatos-do-ano-2/jogojusto.png">
+          <img src="/images/galleries/2010/12/31/os-fatos-do-ano-2/jogojusto.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -356,6 +368,7 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.</p>
   });
 </script>
 
+
   </div>
 
   <div class="date">
@@ -363,15 +376,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.</p>
   </div>
   <span>
     
-        <a href="/tags/ios" class="post-tag">ios</a>
-    
         <a href="/tags/miniboss" class="post-tag">miniboss</a>
     
         <a href="/tags/ovni-studios" class="post-tag">ovni-studios</a>
-    
-        <a href="/tags/ps3" class="post-tag">ps3</a>
-    
-        <a href="/tags/psp" class="post-tag">psp</a>
     
         <a href="/tags/bgs" class="post-tag">bgs</a>
     
@@ -382,8 +389,6 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.</p>
         <a href="/tags/e-games" class="post-tag">e-games</a>
     
         <a href="/tags/ubisoft" class="post-tag">ubisoft</a>
-    
-        <a href="/tags/concurso" class="post-tag">concurso</a>
     
 </span>
   <br>
@@ -421,20 +426,6 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

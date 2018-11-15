@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,90 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/18/preservacao">PreservAÇÃO</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/10/18/preservacao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Utilize sua Inteligência! Salve o Planeta Terra! Teste aqui seus conhecimentos sobre preservação ambiental. Este desafio “PreservAÇÃO” está pronto pra inserção de logomarcas de empresas e começar a divertir novos “gênios”, em “Game Zones” montados em feiras do setor agropecuário e ser distribuído em CD’s ou por “download” da internet...
+    </div>
+
+    <a href="/2005/10/18/preservacao" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/17/ultimos-ganhadores">Últimos ganhadores</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    stes são os últimos 5 ganhadores da promoção de lançamento do jogosdaqui.
+
+Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
+
+	Ectore Cecato - ececato
+	Elano vasconcelos - tarutaru
+	Paulo Roberto de Carvalho Júnior - paulorcjr
+	Ricardo Iagi - Ricardo
+	Thomas - dr_gori
+
+
+    </div>
+
+    <a href="/2005/10/17/ultimos-ganhadores" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online">Projeto experimental de Software Livre da TILT online</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Há muito tempo temos debatido o uso dos mecanismos do software livre em jogos comerciais. Algumas pessoas não aceitam a possibilidade deste mecanismo funcionar no caso específico de jogos. Outras simplesmente acreditam que, se funciona para o Linux, funciona para tudo mais (cura até unha encravada). A verdade é que,...
+    </div>
+
+    <a href="/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/14/abragames-lanca-newsletter-mensal">Abragames lança newsletter mensal</a></h1>
@@ -143,6 +212,23 @@
     <a href="/2005/10/14/abragames-lanca-newsletter-mensal" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/10/10/ganhadores-da-terceira-semana">Ganhadores da terceira semana</a></h1>
@@ -161,6 +247,8 @@
     <a href="/2005/10/10/ganhadores-da-terceira-semana" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/10/adventures-of-zaak-em-tres-continentes">Adventures of Zaak em três continentes</a></h1>
@@ -179,6 +267,8 @@
     <a href="/2005/10/10/adventures-of-zaak-em-tres-continentes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/05/curtas-do-dia">Curtas do dia...</a></h1>
@@ -197,6 +287,8 @@
     <a href="/2005/10/05/curtas-do-dia" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/04/novidades-no-jogosdaqui">Novidades no jogosdaqui</a></h1>
@@ -215,6 +307,8 @@
     <a href="/2005/10/04/novidades-no-jogosdaqui" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/02/ganhadores-da-segunda-semana">Ganhadores da segunda semana</a></h1>
@@ -233,6 +327,8 @@
     <a href="/2005/10/02/ganhadores-da-segunda-semana" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/30/meu-tio-matou-um-cara">Meu Tio Matou um Cara</a></h1>
@@ -249,60 +345,6 @@
     </div>
 
     <a href="/2005/09/30/meu-tio-matou-um-cara" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/27/novas-modificacoes-no-taikodom">Novas modificações no Taikodom</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    O jogo Taikodom recebeu nesta semana novas modificações em seu sistema para reduzir os bugs que aconteciam nos testes. Segundo as instruções e apontamentos realizados pelos próprios usuários inscritos no Beta Teste, foram detectados alguns defeitos que impediam a perfeita jogabilidade do Taikodom. Bugs que incomodam muito a comunidade, como...
-    </div>
-
-    <a href="/2005/09/27/novas-modificacoes-no-taikodom" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/26/parceria-com-rede-networks-beneficia-erinia">Parceria com Rede Networks beneficia Erinia</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A parceria fundada entre a Ignis Games e Rede Networks já beneficia os jogadores de Erinia em diversos aspectos. O jogo vem sofrendo vários ajustes no balanceamento, o sistema de pagamento já está funcionando normalmente e brevemente será feita uma atualização nos servidores. Além disto, para quem tem conexão discada,...
-    </div>
-
-    <a href="/2005/09/26/parceria-com-rede-networks-beneficia-erinia" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/26/ganhadores-da-primeira-semana">Ganhadores da primeira semana</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Aqui estão os ganhadores da primeira semana da promoção de lançamento do jogosdaqui. Cada ganhador receberá 1 número serial Gold oferecido pela TILT online. Thacio Garcia Scandaroli - Tonmy Vinicius Silva - julian Victor - victor Paulo Andrade - PauloAndrade Antonio Leite - antonioleite Se você ainda não se cadastrou,...
-    </div>
-
-    <a href="/2005/09/26/ganhadores-da-primeira-semana" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -338,20 +380,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

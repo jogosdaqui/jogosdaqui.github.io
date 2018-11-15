@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/06/05/splitplay-apresenta-bernie-needs-love">Splitplay apresenta: Bernie Needs Love</a></h1>
@@ -146,6 +141,8 @@
     <a href="/2014/06/05/splitplay-apresenta-bernie-needs-love" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/26/splitplay-apresenta-mr-bree">Splitplay apresenta: Mr. Bree+</a></h1>
@@ -170,6 +167,8 @@
     <a href="/2014/05/26/splitplay-apresenta-mr-bree" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/22/splitplay-apresenta-satellite-rush">Splitplay apresenta: Satellite Rush</a></h1>
@@ -194,6 +193,8 @@
     <a href="/2014/05/22/splitplay-apresenta-satellite-rush" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics">Novos vídeos de Better late than DEAD e Police Tactics</a></h1>
@@ -216,6 +217,23 @@
     <a href="/2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2014/05/13/escravo-nem-pensar">Escravo, nem pensar!</a></h1>
@@ -238,6 +256,8 @@
     <a href="/2014/05/13/escravo-nem-pensar" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store">Game da Aquiris fazendo bonito na App Store</a></h1>
@@ -249,7 +269,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -264,6 +284,8 @@ O jogo foi lançado semana passada para iOS.
     <a href="/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store">Cartoon Network Superstar Soccer lançado na App Store</a></h1>
@@ -275,7 +297,7 @@ O jogo foi lançado semana passada para iOS.
 <center>
   
     
-      <img src="../../../../../images/galleries/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -285,6 +307,8 @@ O jogo foi lançado semana passada para iOS.
     <a href="/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/05/choo-choo-like-a-hobo">Choo Choo Like a Hobo</a></h1>
@@ -296,7 +320,7 @@ O jogo foi lançado semana passada para iOS.
 <center>
   
     
-      <img src="../../../../../images/galleries/2014/05/05/choo-choo-like-a-hobo/ChooChooLikeAHobo_logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2014/05/05/choo-choo-like-a-hobo/ChooChooLikeAHobo_logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -306,6 +330,8 @@ O jogo foi lançado semana passada para iOS.
     <a href="/2014/05/05/choo-choo-like-a-hobo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/04/super-flappy-soccer-ball">Super Flappy Soccer Ball</a></h1>
@@ -317,7 +343,7 @@ O jogo foi lançado semana passada para iOS.
 <center>
   
     
-      <img src="../../../../../images/galleries/2014/05/04/super-flappy-soccer-ball/SuperFlappySoccerBall_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2014/05/04/super-flappy-soccer-ball/SuperFlappySoccerBall_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -327,6 +353,8 @@ O jogo foi lançado semana passada para iOS.
     <a href="/2014/05/04/super-flappy-soccer-ball" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/02/mr-bree-no-steam">Mr. Bree+ no Steam</a></h1>
@@ -338,11 +366,11 @@ O jogo foi lançado semana passada para iOS.
 <center>
   
     
-      <img src="../../../../../images/galleries/2014/05/02/mr-bree-no-steam/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2014/05/02/mr-bree-no-steam/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
-    A equipe da brasileira Taw Studio está de parabéns, pois após muito trabalho e dedicação na campanha Greenlight , seu fantástico game Mr. Bree+ foi finalmente lançado na Steam , a maior plataforma de distribuição de jogos do mundo! Para quem ainda não conhece Mr. Bree+, leia um pouco do...
+    A equipe da brasileira Taw Studio está de parabéns, pois após muito trabalho e dedicação na campanha Greenlight, seu fantástico game Mr. Bree+foi finalmente lançado na Steam, a maior plataforma de distribuição de jogos do mundo! Para quem ainda não conhece Mr. Bree+, leia um pouco do jogo descrito pela...
     </div>
 
     <a href="/2014/05/02/mr-bree-no-steam" class="read-more">Leia mais</a>
@@ -378,20 +406,6 @@ O jogo foi lançado semana passada para iOS.
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

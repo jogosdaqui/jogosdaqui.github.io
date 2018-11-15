@@ -104,6 +104,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@
 <article class="post">
   <h1>Novidades da Palmsoft</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -171,7 +177,8 @@
 <br /><br />As outras novidades da PalmSoft serão lançadas ainda antes. Nesta sexta-feira, dia 28, vão ao ar o Fórum e o Avalie o Jogo, duas novas atrações que prometem aumentar a interatividade no site da empresa.<br />No Fórum serão discutidos os jogos que já estão no mercado e os jogos em desenvolvimento. Também estará aberto para eventuais dúvidas que os jogadores possam ter em relação aos produtos desenvolvidos pela empresa, e assuntos diversos. Poderão participar das discussões usuários cadastrados no site mediante login e senha. O cadastro pode ser feito por qualquer internauta, dentro do próprio site.<br />A segunda novidade é a possibilidade de se avaliarem os jogos. Dentro da página de cada jogo, em uma coluna lateral, haverá o espaço “Avalie o Jogo”. Nele, o usuário poderá ver a média atual recebida pelo jogo e o número de votos recebidos. Sem precisar de cadastro, o internauta também poderá dar a própria nota para o jogo.<br /><br />Acesse o <a target="_blank" href="http://www.palmsoft.com.br">site da empresa</a>
 , confira as novidades e participe.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -179,9 +186,8 @@
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -233,20 +239,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

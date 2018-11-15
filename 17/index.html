@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/04/30/sos-mata-atlantica-o-jogo">SOS Mata Atlântica - O Jogo</a></h1>
@@ -146,6 +141,8 @@
     <a href="/2014/04/30/sos-mata-atlantica-o-jogo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/04/28/dash-games">DASH GAMES</a></h1>
@@ -157,7 +154,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2014/04/28/dash-games/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2014/04/28/dash-games/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -167,6 +164,8 @@
     <a href="/2014/04/28/dash-games" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/04/25/o-perfil-dos-jogadores">O perfil dos jogadores</a></h1>
@@ -185,6 +184,8 @@
     <a href="/2014/04/25/o-perfil-dos-jogadores" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/04/25/nhom">Nhom</a></h1>
@@ -209,6 +210,23 @@
     <a href="/2014/04/25/nhom" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2013/06/24/inscricoes-abertas-para-o-spjam-2013">Inscrições abertas para o SPJam 2013</a></h1>
@@ -220,7 +238,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/06/24/inscricoes-abertas-para-o-spjam-2013/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/06/24/inscricoes-abertas-para-o-spjam-2013/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -230,6 +248,8 @@
     <a href="/2013/06/24/inscricoes-abertas-para-o-spjam-2013" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/06/20/swamp-adventure">Swamp Adventure</a></h1>
@@ -243,7 +263,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/06/20/swamp-adventure/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/06/20/swamp-adventure/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -253,6 +273,8 @@
     <a href="/2013/06/20/swamp-adventure" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/06/17/v-de-vinagre">V de Vinagre</a></h1>
@@ -267,6 +289,9 @@
   
     
   
+    
+      <img src="/images/galleries/2013/06/17/v-de-vinagre/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
     A Flux Game Studio, vencedora no final de 2012 do concurso de Criação de Game de Educação Financeira da SBGames e Banco do Brasil, está antenada com que acontece no país, pois acaba de lançar o game V de Vinagre que ironiza a violência ocorrida nos últimos manifestos no RJ...
@@ -275,6 +300,8 @@
     <a href="/2013/06/17/v-de-vinagre" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/06/13/documentario-industria-de-games-no-brasil">Documentário "Indústria de Games no Brasil"</a></h1>
@@ -287,12 +314,14 @@
   
  </center>
     
-    O vídeo tem cerca 30 minutos e conta com a participação de Jeferson Valadares (EA Games), Carla Denise Castanho (Organizadora do SBGames 2012), Moacir Avelino Alves Junior (Presidente da ACI Games), Cleber Cristiano Prodanov (Secretário de Ciência, Inovação e Desenvolvimento Tecnológio do RS), Fred Vasconcelos (Vice presidente de Relações Institucionais...
+    O vídeo tem cerca 30 minutos e conta com a participação de: Jeferson Valadares (EA Games) Carla Denise Castanho (Organizadora do SBGames 2012) Moacir Avelino Alves Junior (Presidente da ACI Games) Cleber Cristiano Prodanov (Secretário de Ciência, Inovação e Desenvolvimento Tecnológio do RS) Fred Vasconcelos (Vice presidente de Relações Institucionais...
     </div>
 
     <a href="/2013/06/13/documentario-industria-de-games-no-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/06/10/soccer-free-kicks">Soccer Free Kicks</a></h1>
@@ -308,7 +337,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/06/10/soccer-free-kicks/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/06/10/soccer-free-kicks/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -318,6 +347,8 @@
     <a href="/2013/06/10/soccer-free-kicks" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/06/03/demo-do-mr-bree-no-greenlight">Demo do Mr. Bree+ no Greenlight</a></h1>
@@ -370,20 +401,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

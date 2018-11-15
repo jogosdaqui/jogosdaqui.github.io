@@ -158,6 +158,12 @@ Alpha trailer de Alkimya
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -173,20 +179,6 @@ Alpha trailer de Alkimya
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -207,7 +199,21 @@ Alpha trailer de Alkimya
 <article class="post">
   <h1>Prévia de Alkimya da Bad Minions</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -239,7 +245,7 @@ Alpha trailer de Alkimya
     
   
     
-      <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>O físico e matemático Isaac Newton, um dos cientistas mais importantes da história, pensador que definiu as leis que fundamentaram o que chamamos de mecânica clássica e a lei da gravitação universal poderia ser um consultor do próximo jogo da Bad Minions: Alkimya. Por que? Porque, além de matemático e físico, Newton era um grande estudioso e praticante da alquimia, tendo escrito e lido muito sobre o assunto, fato comprovado pelos mais de 150 livros sobre o tema encontrados na biblioteca particular dele após sua morte.</p>
@@ -266,7 +272,8 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
         <iframe src="https://www.youtube.com/embed/lWjMGFZAnD8 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -274,65 +281,69 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_11.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_11.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_11.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_11.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_7.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_7.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_7.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_7.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_6.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_6.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_6.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_6.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_2.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_2.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_2.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_2.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_14.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_14.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_14.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_14.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/previa-de-alkimya-da-bad-minions1.jpg">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/previa-de-alkimya-da-bad-minions1.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/previa-de-alkimya-da-bad-minions1.jpg">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/previa-de-alkimya-da-bad-minions1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_9.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_9.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_9.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_9.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_13.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_13.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_13.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_13.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_5.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_5.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_5.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_5.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_8.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_8.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_8.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_8.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_12.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_12.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_12.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_12.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_3.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_3.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_3.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_3.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_4.png">
-          <img src="../../../../../images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_4.png"/>        
+        <li data-thumb="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_4.png">
+          <img src="/images/galleries/2015/05/26/previa-de-alkimya-da-bad-minions/BadMinions_Alkimya_4.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -354,6 +365,7 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
     });
   });
 </script>
+
 
   </div>
 
@@ -406,20 +418,6 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -137,6 +137,12 @@ O jogo funciona como um chat entre os jogadores e na lista de participantes o ap
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -152,20 +158,6 @@ O jogo funciona como um chat entre os jogadores e na lista de participantes o ap
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -186,7 +178,21 @@ O jogo funciona como um chat entre os jogadores e na lista de participantes o ap
 <article class="post">
   <h1>Quiz Maker</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -194,7 +200,7 @@ O jogo funciona como um chat entre os jogadores e na lista de participantes o ap
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/09/20/quiz-maker/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/20/quiz-maker/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <ul>
@@ -217,7 +223,8 @@ O jogo funciona como um chat entre os jogadores e na lista de participantes o ap
 
 <p>O primeiro participante que pressionar o botão “eu sei a resposta…” passa a ter o direito de responder a questão. O apresentador julga então se ele acertou ou não a questão.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -225,11 +232,15 @@ O jogo funciona como um chat entre os jogadores e na lista de participantes o ap
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
-      <img src="../../../../../images/galleries/2005/09/20/quiz-maker/logo.gif"/> 
+      <img src="/images/galleries/2005/09/20/quiz-maker/logo.gif"/> 
   
  </center>
+ 
+
 
 
   </div>
@@ -277,20 +288,6 @@ O jogo funciona como um chat entre os jogadores e na lista de participantes o ap
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

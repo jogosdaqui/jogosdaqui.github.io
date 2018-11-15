@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,7 +110,105 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
+      <article class="page">
+  <div class="entry">
+    <div class="posts">
+ 
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/24/transicao-de-era-no-ryudragon">Transição de Era no Ryudragon</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    O RPG online Ryudragon , da Decadium Studios , entrou em transição de Era. Os vencedores da 6ª Era foram conhecidos e premiados.Do dia 25 de maio até 12 de junho o jogo estará na chamada Era Beta, onde todos os jogadores terão privilégios para testar as novidades da próxima...
+    </div>
+
+    <a href="/2006/05/24/transicao-de-era-no-ryudragon" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/23/enquete-qual-a-sua-area-preferida-no-jogosdaqui">Enquete: Qual a sua área preferida no jogosdaqui?</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Enquete nova no ar, queremos saber qual a área do jogosdaqui preferida por você. Dê a sua opinião.O resultado final da enquete anterior, "Com que frequência você joga no celular?":
+
+    39.45% Nunca
+    26.61% Raramente
+    19.27% Todos os dias
+    14.68% Sempre que sobra um tempo
+
+
+
+    </div>
+
+    <a href="/2006/05/23/enquete-qual-a-sua-area-preferida-no-jogosdaqui" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/22/palmsoft-coloca-a-seducao-em-jogo">PalmSoft coloca a sedução em jogo</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A PalmSoft
+ lançou o Jogo da Sedução, jogo com temática mais adulta, onde o jogador ajuda sua sedutora a ser eleita a mulher mais sedutora do país.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/05/22/palmsoft-coloca-a-seducao-em-jogo" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006">Lista de projetos do JogosBR 2005/2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    As listas de projetos enviados para os concursos do JogosBR 2005/2006 foi liberada, confira abaixo os gráficos de projetos por estado e as listas completas: Jogos Completos de Baixo Orçamento 1- A Traça Teca - Reconstruindo a História do BrasilImax Games Entretenimento - SP2- AnimaliensDogma Graphics - RJ3- As Aventuras...
+    </div>
+
+    <a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -118,13 +222,7 @@
 </script>
 
 <br> 
-      <article class="page">
-
-  <h1></h1>
-
-  <div class="entry">
-    <div class="posts">
-
+    
     <article class="post">
 
     <h1><a href="/2006/05/22/jogosbr-2005-2006-lista-de-projetos">JogosBR 2005/2006, lista de projetos</a></h1>
@@ -145,9 +243,11 @@
     <a href="/2006/05/22/jogosbr-2005-2006-lista-de-projetos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
-    <h1><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo &#39;150 jogos daqui&#39;</a></h1>
+    <h1><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a></h1>
 
     <div class="entry">
      
@@ -155,403 +255,25 @@
 
 <center>
   
+    
+  
  </center>
     
-    Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos
- nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
+    Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.
 
+Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.
 
-
-    
-        
-            
-
-            
-
-            
-
-            
-
-            
 
         
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-        
-            
-
-            
-
-            
-
-            
-
-            
-
-        
-    &lt;/tbody&gt;
-
+      
 
     </div>
 
     <a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2006/05/18/150-jogos-daqui">150 jogos daqui</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
     
-    O jogosdaqui atingiu a marca de 150 jogos
- nacionais cadastrados no site.Para comemorar essa importante marca, criamos um quadro comemorativo com os 150 jogos.Veja …
-
-
-    </div>
-
-    <a href="/2006/05/18/150-jogos-daqui" class="read-more">Leia mais</a>
-    </article>
-
+    
     <article class="post">
 
     <h1><a href="/2006/05/17/taikodom-alfa-teste-2006">Taikodom, Alfa Teste 2006</a></h1>
@@ -570,6 +292,8 @@
     <a href="/2006/05/17/taikodom-alfa-teste-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/17/confira-o-gamegol">Confira o GameGol</a></h1>
@@ -591,6 +315,8 @@
     <a href="/2006/05/17/confira-o-gamegol" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006">Prorrogado o resultado do JogosBR 2005/2006</a></h1>
@@ -609,6 +335,8 @@
     <a href="/2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/15/ludusware-comeca-suas-atividades">Ludusware começa suas atividades</a></h1>
@@ -631,67 +359,6 @@
     </div>
 
     <a href="/2006/05/15/ludusware-comeca-suas-atividades" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/05/14/estradas-esburacadas-a-toda-velocidade">Estradas Esburacadas a toda velocidade</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Uma semana de muitas novidades para o jogo Estradas Esburacadas
- da SR-Games. A empresa acaba de liberar dezenas de novas imagens e dois novos vídeos do jogo em desenvolvimento.Leia mais…
-
-
-    </div>
-
-    <a href="/2006/05/14/estradas-esburacadas-a-toda-velocidade" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/05/12/newsabragames-maio-2006">NewsAbragames - Maio/2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Lançada a edição de maio da NewsAbragames, a newsletter da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos.Nesta edição são apresentados vários eventos sobre jogos para os próximos meses, entre eles o EGR . As notícias na mídia no último mês. A premiação da Jinx como Melhor desenvolvedora de games brasileira.Leia...
-    </div>
-
-    <a href="/2006/05/12/newsabragames-maio-2006" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/05/11/cobranca-de-penaltis-no-celular">Cobrança de pênaltis no celular</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Penalty Cup ou Show de bola
-, como era conhecido na época de seu desenvolvimento, é o jogo de cobrança de pênaltis da Meantime
-.O jogo permite disputas multiplayer através do Meantime Arena.Veja o jogo…
-
-
-    </div>
-
-    <a href="/2006/05/11/cobranca-de-penaltis-no-celular" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -727,20 +394,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

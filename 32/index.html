@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/20/anunciados-os-vencedores-do-jogosbr-2006">Anunciados os vencedores do JogosBR 2006</a></h1>
@@ -140,6 +135,8 @@
     <a href="/2006/06/20/anunciados-os-vencedores-do-jogosbr-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/19/dance-mania">Dance Mania</a></h1>
@@ -161,7 +158,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/06/19/dance-mania/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/06/19/dance-mania/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -171,6 +168,8 @@
     <a href="/2006/06/19/dance-mania" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/19/dance-mania-finalista-do-java-masters">Dance Mania finalista do Java Masters</a></h1>
@@ -189,6 +188,8 @@
     <a href="/2006/06/19/dance-mania-finalista-do-java-masters" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/16/jogo-da-meantime-faz-sucesso-no-reino-unido">Jogo da Meantime faz sucesso no Reino Unido</a></h1>
@@ -207,6 +208,23 @@
     <a href="/2006/06/16/jogo-da-meantime-faz-sucesso-no-reino-unido" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/06/14/newsabragames-junho-2006">NewsAbragames - Junho/2006</a></h1>
@@ -229,6 +247,8 @@
     <a href="/2006/06/14/newsabragames-junho-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno">Taikocom lança a 2° edição da HQ Eterno Retorno</a></h1>
@@ -257,6 +277,8 @@
     <a href="/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/07/imagens-da-producao-do-rpg-essence">Imagens da produção do RPG Essence</a></h1>
@@ -284,6 +306,8 @@
     <a href="/2006/06/07/imagens-da-producao-do-rpg-essence" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/06/microways-limoes-na-copa">Microways, Limões na Copa</a></h1>
@@ -306,6 +330,8 @@
     <a href="/2006/06/06/microways-limoes-na-copa" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/06/limoes-na-copa">Limões na Copa</a></h1>
@@ -321,7 +347,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/06/06/limoes-na-copa/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/06/06/limoes-na-copa/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -331,6 +357,8 @@
     <a href="/2006/06/06/limoes-na-copa" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/06/05/bola-de-gude-ganha-estrela-de-ouro">Bola de Gude ganha "Estrela de Ouro"</a></h1>
@@ -379,20 +407,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

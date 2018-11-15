@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,73 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro">PalmSoft lança três jogos em janeiro</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A PalmSoft Tecnologia, empresa catarinense que desenvolve jogos para celular, está com três novidades. A primeira delas Shadows of Malquidious , RPG que ficou entre os 20 melhores jogos em um concurso da Sony Ericsson, e que começa a ser comercializado no Brasil. Nele, o jogador é envolvido em um...
+    </div>
+
+    <a href="/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/10/reestruturacao-na-hoplon">Reestruturação na Hoplon</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Como de costume, tenho boas e más notícias que gostaria de partilhar com vocês, nossos maiores apoiadores, em primeira mão. Em resumo, a excelente notícia é que nós, junto com nosso investidor, estamos renovando nosso compromisso de não colocar o Taikodom no mercado exceto como um produto de excelente qualidade...
+    </div>
+
+    <a href="/2006/01/10/reestruturacao-na-hoplon" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/06/ano-novo-jogos-novos">Ano novo, jogos novos</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Foram adicionados os dois primeiros jogos para este ano na nossa galeria, o Metablocks , terceiro colocado no Festival de Jogos Independentes e o Os Conquistadores , novo jogo da Dynamic Games que conta um pouco da história do primeiro rei de Portugal. Fiquem atentos, que novos jogos estão por...
+    </div>
+
+    <a href="/2006/01/06/ano-novo-jogos-novos" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/02/feliz-2006">Feliz 2006</a></h1>
@@ -146,6 +198,23 @@ Feliz 2006
     <a href="/2006/01/02/feliz-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/12/22/taikodom-faz-ajustes-finais">Taikodom faz ajustes finais</a></h1>
@@ -164,6 +233,8 @@ Feliz 2006
     <a href="/2005/12/22/taikodom-faz-ajustes-finais" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/22/novos-jogos-da-green-land-studios">Novos jogos da Green Land Studios</a></h1>
@@ -190,6 +261,8 @@ Você já pode conferir os dois jogos na galeria do jogosdaqui: Bate-Rebate
     <a href="/2005/12/22/novos-jogos-da-green-land-studios" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/21/iniciam-as-vendas-do-bola-de-gude">Iniciam as vendas do Bola de Gude</a></h1>
@@ -213,6 +286,8 @@ A versão completa do jogo pode ser comprada diretamente pela internet neste lin
     <a href="/2005/12/21/iniciam-as-vendas-do-bola-de-gude" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/19/enquete-no-gametrack">Enquete no Gametrack</a></h1>
@@ -237,6 +312,8 @@ Conheça mais sobre o Gametrack na entrevista
     <a href="/2005/12/19/enquete-no-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr">Lançado o site da 2ª edição do concurso JogosBr</a></h1>
@@ -265,6 +342,8 @@ Veja maiores detalhes no site www.jogosbr.org.br
     <a href="/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/16/erinia-a-guerra-dos-dois-dias">Erinia, A Guerra dos Dois Dias</a></h1>
@@ -281,82 +360,6 @@ Veja maiores detalhes no site www.jogosbr.org.br
     </div>
 
     <a href="/2005/12/16/erinia-a-guerra-dos-dois-dias" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/12/15/primeiras-imagens-de-os-conquistadores">Primeiras imagens de "Os Conquistadores"</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    A Dynamic Games liberou as primeiras imagens do jogo “Os Conquistadores”.
-
-Em Os Conquistadores você jogará na pele do 1° rei de Portugal, D. Afonso Henrique. O jogo promete muita ação em batalhas épicas.
-
-Aprecie 6 imagens do jogo em desenvolvimento:
-
-
-    </div>
-
-    <a href="/2005/12/15/primeiras-imagens-de-os-conquistadores" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/12/15/novas-imagens-de-taikodom">Novas imagens de Taikodom</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A Hoplon liberou mais 75 novas imagens de Taikodom.
-Confira as belas imagens no próprio site do jogo
-.
-
-Aproveite e entre
- no extraordinário universo do promissor Taikodom.
-
-    </div>
-
-    <a href="/2005/12/15/novas-imagens-de-taikodom" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/12/14/novo-show-do-milhao">Novo Show do Milhão</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Lançado o Show do Milhão 2006. O jogo conta com 20.000 perguntas divididas em vários assuntos. O modo multiplayer e o ranking online são as grandes novidades desta nova versão.Show do Milhão 2006 foi desenvolvido pela Green Land Studios e está sendo distribuído pela Cia. do Software Confira o jogo...
-    </div>
-
-    <a href="/2005/12/14/novo-show-do-milhao" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -392,20 +395,6 @@ Aproveite e entre
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

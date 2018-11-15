@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/12/thoroughbred-tycoon-da-espaco-informatica">Thoroughbred Tycoon da Espaço Informática</a></h1>
@@ -138,6 +133,8 @@
     <a href="/2006/09/12/thoroughbred-tycoon-da-espaco-informatica" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/06/mais-uma-previa-esquadrao-zumbi">Mais uma Prévia: Esquadrão Zumbi</a></h1>
@@ -156,6 +153,8 @@
     <a href="/2006/09/06/mais-uma-previa-esquadrao-zumbi" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/05/previa-de-omniscire">Prévia de OmniScire</a></h1>
@@ -177,6 +176,8 @@
     <a href="/2006/09/05/previa-de-omniscire" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/05/omniscire">OmniScire</a></h1>
@@ -253,6 +254,23 @@
     <a href="/2006/09/05/omniscire" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/09/05/esquadrao-zumbi">Esquadrão Zumbi</a></h1>
@@ -295,6 +313,8 @@
     <a href="/2006/09/05/esquadrao-zumbi" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/01/previa-de-a-zombie-nightmare">Prévia de A Zombie Nightmare</a></h1>
@@ -318,6 +338,8 @@
     <a href="/2006/09/01/previa-de-a-zombie-nightmare" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/01/a-zombie-nightmare">A Zombie Nightmare</a></h1>
@@ -342,6 +364,8 @@
     <a href="/2006/09/01/a-zombie-nightmare" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/08/25/programa-in-games">Programa IN Games</a></h1>
@@ -362,6 +386,8 @@
     <a href="/2006/08/25/programa-in-games" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/08/25/programa-in-games-na-grade-da-interativawebtv">Programa IN Games na grade da INTERATIVAWEBTV</a></h1>
@@ -380,6 +406,8 @@
     <a href="/2006/08/25/programa-in-games-na-grade-da-interativawebtv" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/08/25/newsabragames-agosto-2006">NewsAbragames Agosto/2006</a></h1>
@@ -428,20 +456,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

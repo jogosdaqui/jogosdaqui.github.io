@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,40 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/07/progoal">ProGoal</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/10/07/progoal/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Fazer gols de jogadas de bola parada (pênaltis, faltas diretas e cruzamentos) é o objetivo. Este divertido jogo é garantia de um bom passatempo em uma disputa contra a barreira, os zagueiros e o goleiro do time adversário, e ainda contra o vento e as condições climáticas. Na versão de...
+    </div>
+
+    <a href="/2005/10/07/progoal" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/06/cataclism">Cataclism</a></h1>
@@ -144,7 +163,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/06/cataclism/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/06/cataclism/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -154,6 +173,8 @@
     <a href="/2005/10/06/cataclism" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/06/arena-de-rodeio">Arena de Rodeio</a></h1>
@@ -178,6 +199,8 @@
     <a href="/2005/10/06/arena-de-rodeio" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/04/vudugame">Vudugame</a></h1>
@@ -193,7 +216,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/04/vudugame/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/04/vudugame/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -203,6 +226,23 @@
     <a href="/2005/10/04/vudugame" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/10/01/othello">Othello</a></h1>
@@ -222,7 +262,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/01/othello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/01/othello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -232,6 +272,8 @@
     <a href="/2005/10/01/othello" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/01/impacto-alpha">Impacto Alpha</a></h1>
@@ -251,7 +293,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/01/impacto-alpha/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/01/impacto-alpha/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -261,6 +303,8 @@
     <a href="/2005/10/01/impacto-alpha" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/30/smart-panda">Smart Panda</a></h1>
@@ -278,7 +322,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/30/smart-panda/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/30/smart-panda/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -288,6 +332,8 @@
     <a href="/2005/09/30/smart-panda" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/30/no-limite">No Limite</a></h1>
@@ -307,7 +353,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/30/no-limite/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/30/no-limite/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -317,6 +363,8 @@
     <a href="/2005/09/30/no-limite" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/28/show-do-milhao-junior">Show do Milhão Júnior</a></h1>
@@ -335,6 +383,8 @@
     <a href="/2005/09/28/show-do-milhao-junior" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/28/outgun">Outgun</a></h1>
@@ -350,7 +400,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/28/outgun/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/28/outgun/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -358,28 +408,6 @@
     </div>
 
     <a href="/2005/09/28/outgun" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/27/roko-loko-no-castelo-do-ratozinger">Roko-Loko no castelo do Ratozinger</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
- </center>
-    
-    Os personagens Roko-Loko e Adrina-Lina foram criados há quase dez anos pelo cartunista Marcio Baraldi, para a revista Rock Brigade, e depois de lançados dois livros de sucesso, chegou a hora dos personagens ganharem um game para PC. Ele se chama “Roko-Loko no castelo do Ratozinger” e é o primeiro...
-    </div>
-
-    <a href="/2005/09/27/roko-loko-no-castelo-do-ratozinger" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -415,20 +443,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

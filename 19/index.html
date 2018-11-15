@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/04/18/michel-telo-no-mundo">Michel Teló no Mundo</a></h1>
@@ -131,7 +126,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/04/18/michel-telo-no-mundo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/18/michel-telo-no-mundo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -141,6 +136,8 @@
     <a href="/2013/04/18/michel-telo-no-mundo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/04/15/favela-wars-entra-em-fase-beta">Favela Wars entra em fase beta</a></h1>
@@ -154,7 +151,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/04/15/favela-wars-entra-em-fase-beta/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/15/favela-wars-entra-em-fase-beta/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -164,6 +161,8 @@
     <a href="/2013/04/15/favela-wars-entra-em-fase-beta" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/04/11/heist-and-run">Heist and Run</a></h1>
@@ -181,7 +180,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/04/11/heist-and-run/HeistAndRun_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/11/heist-and-run/HeistAndRun_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -191,6 +190,8 @@
     <a href="/2013/04/11/heist-and-run" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/04/08/luke-at-the-stars">Luke at the Stars</a></h1>
@@ -205,6 +206,9 @@
   
     
   
+    
+      <img src="/images/galleries/2013/04/08/luke-at-the-stars/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
     Luke at the Stars é o primeiro game da Alpaca Team e, pelas imagens e vídeo abaixo, podemos perceber que o jogo promete fazer sucesso. No game o jogador controlará Luke, um garoto que, após uma pequena decepção amorosa, resolve procurar um lugar na cidade pra ver as estrelas, mas...
@@ -213,6 +217,23 @@
     <a href="/2013/04/08/luke-at-the-stars" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2013/04/04/e-ai-game-e-cultura">E aí, Game é Cultura?</a></h1>
@@ -224,7 +245,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/04/04/e-ai-game-e-cultura/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/04/e-ai-game-e-cultura/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -234,6 +255,8 @@
     <a href="/2013/04/04/e-ai-game-e-cultura" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/03/21/c-bot">C-Bot</a></h1>
@@ -253,7 +276,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/03/21/c-bot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/03/21/c-bot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -263,6 +286,8 @@
     <a href="/2013/03/21/c-bot" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/03/18/esquadrao-patada">Esquadrão Patada</a></h1>
@@ -278,7 +303,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/03/18/esquadrao-patada/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/03/18/esquadrao-patada/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -288,6 +313,8 @@
     <a href="/2013/03/18/esquadrao-patada" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/03/11/crazy-bitsy-spider-kids-mode">Crazy Bitsy Spider - Kids Mode</a></h1>
@@ -312,6 +339,8 @@
     <a href="/2013/03/11/crazy-bitsy-spider-kids-mode" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/02/13/december-21st">December 21st</a></h1>
@@ -329,7 +358,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/02/13/december-21st/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/02/13/december-21st/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -339,6 +368,8 @@
     <a href="/2013/02/13/december-21st" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/02/06/vibrant-recycling">Vibrant Recycling</a></h1>
@@ -393,20 +424,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

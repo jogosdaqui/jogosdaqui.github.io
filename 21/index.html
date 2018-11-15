@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/10/26/bgs-2012-alcanca-100-000-visitantes">BGS 2012 alcança 100.000 visitantes</a></h1>
@@ -131,8 +126,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2012/10/26/bgs-2012-alcanca-100-000-visitantes/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
+  
  </center>
     
     Dia 19 de outubro a organização da BGS (Brasil Game Show) liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina. Em 2012 a feira superou os 100.000 visitantes e movimentou por volta de R$ 50 milhões em negócios durante os 4...
@@ -141,6 +135,8 @@
     <a href="/2012/10/26/bgs-2012-alcanca-100-000-visitantes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/10/17/bubblin-2">Bubblin</a></h1>
@@ -165,6 +161,8 @@
     <a href="/2012/10/17/bubblin-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/10/11/shuffle-puzzle-2">Shuffle Puzzle</a></h1>
@@ -180,7 +178,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2012/10/11/shuffle-puzzle-2/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2012/10/11/shuffle-puzzle-2/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -190,6 +188,8 @@
     <a href="/2012/10/11/shuffle-puzzle-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/10/03/apoie-o-jogo-comboy">Apoie o jogo brasileiro Comboy vs Aliens vs Ninjas</a></h1>
@@ -218,6 +218,23 @@
     <a href="/2012/10/03/apoie-o-jogo-comboy" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2012/08/08/hipercubo">Hipercubo</a></h1>
@@ -231,17 +248,18 @@
     
   
     
-  
-    
-  
+      <img src="/images/galleries/2012/08/08/hipercubo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
-    Definição de Hipercubo da Wikipédia: &gt; Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos...
+    Definição de Hipercubo da Wikipédia: Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos de...
     </div>
 
     <a href="/2012/08/08/hipercubo" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/07/10/copaguinho-no-espaco">Copaguinho no Espaço</a></h1>
@@ -266,6 +284,8 @@
     <a href="/2012/07/10/copaguinho-no-espaco" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/06/07/spjam-2012">SPJam 2012</a></h1>
@@ -277,7 +297,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2012/06/07/spjam-2012/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2012/06/07/spjam-2012/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -287,6 +307,8 @@
     <a href="/2012/06/07/spjam-2012" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/04/11/meu-pianinho">Meu Pianinho</a></h1>
@@ -313,6 +335,8 @@
     <a href="/2012/04/11/meu-pianinho" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/02/28/delivery-box">Delivery Box</a></h1>
@@ -341,6 +365,8 @@
     <a href="/2012/02/28/delivery-box" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/02/16/pre-venda-de-out-there-somewhere">Pré-venda de Out There Somewhere</a></h1>
@@ -352,7 +378,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2012/02/16/pre-venda-de-out-there-somewhere/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2012/02/16/pre-venda-de-out-there-somewhere/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -392,20 +418,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

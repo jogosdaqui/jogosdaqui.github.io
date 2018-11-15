@@ -140,6 +140,12 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -155,20 +161,6 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -189,7 +181,21 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
 <article class="post">
   <h1>Prévia de TurboLink</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -235,7 +241,8 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
         <iframe src="https://www.youtube.com/embed/kAezcp3aBHs " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -243,53 +250,57 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/Salamander.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/Salamander.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/Salamander.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/Salamander.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/RuinedCity.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/RuinedCity.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/RuinedCity.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/RuinedCity.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ScreenSP03.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ScreenSP03.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/ScreenSP03.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/ScreenSP03.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ScreenSP04.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ScreenSP04.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/ScreenSP04.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/ScreenSP04.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/Shark.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/Shark.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/Shark.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/Shark.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ScreenMPP02.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ScreenMPP02.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/ScreenMPP02.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/ScreenMPP02.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ScreenMPP06.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ScreenMPP06.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/ScreenMPP06.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/ScreenMPP06.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ArchipelagoBG.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/ArchipelagoBG.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/ArchipelagoBG.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/ArchipelagoBG.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/SkycityBG.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/SkycityBG.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/SkycityBG.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/SkycityBG.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/03/previa-de-turbolink/AbyssBG.png">
-          <img src="../../../../../images/galleries/2015/04/03/previa-de-turbolink/AbyssBG.png"/>        
+        <li data-thumb="/images/galleries/2015/04/03/previa-de-turbolink/AbyssBG.png">
+          <img src="/images/galleries/2015/04/03/previa-de-turbolink/AbyssBG.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -311,6 +322,7 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
     });
   });
 </script>
+
 
   </div>
 
@@ -361,20 +373,6 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

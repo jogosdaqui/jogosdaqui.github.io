@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,50 +110,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll">Chroma Squad Tactical RPG #003 - DO A BARREL ROLL!</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-      <img src="../../../../../images/galleries/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    A galera do Insert Coins relembra a infância na série de playthrough Chroma Squad! Essa é a minha fantasia. Eu sou o HOMEM BARRIL e vou rolar por cima de vocês (afirma o Homem Barril) Confira o vídeo abaixo e veja como o estúdio ICTV se saiu no seu segundo...
-    </div>
-
-    <a href="/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2015/07/03/surge-a-game-academy-escola-online-focada-em-games">Surge a Game Academy, escola online focada em games</a></h1>
@@ -163,7 +132,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/07/03/surge-a-game-academy-escola-online-focada-em-games/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/03/surge-a-game-academy-escola-online-focada-em-games/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -173,6 +142,8 @@
     <a href="/2015/07/03/surge-a-game-academy-escola-online-focada-em-games" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/07/02/versao-beta-de-odallus-the-dark-call">Versão beta de Odallus - The Dark Call</a></h1>
@@ -184,7 +155,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/07/02/versao-beta-de-odallus-the-dark-call/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/07/02/versao-beta-de-odallus-the-dark-call/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -194,6 +165,8 @@
     <a href="/2015/07/02/versao-beta-de-odallus-the-dark-call" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/06/30/souking-nova-loja-de-games-brasileiros">Souking, nova loja de games brasileiros</a></h1>
@@ -209,7 +182,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -219,6 +192,8 @@
     <a href="/2015/06/30/souking-nova-loja-de-games-brasileiros" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica">Lançada versão PC de Carcará - Asas da Justiça</a></h1>
@@ -230,7 +205,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -240,6 +215,23 @@
     <a href="/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/06/05/playthrough-chroma-squad-tactical-rpg-002">Playthrough Chroma Squad - Tactical RPG #002</a></h1>
@@ -251,7 +243,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/06/05/playthrough-chroma-squad-tactical-rpg-002/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/06/05/playthrough-chroma-squad-tactical-rpg-002/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -271,6 +263,8 @@ Playthrough Chroma Squad
     <a href="/2015/06/05/playthrough-chroma-squad-tactical-rpg-002" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura">club TILT, Renato Degiovani fala sobre a abertura</a></h1>
@@ -282,7 +276,7 @@ Playthrough Chroma Squad
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -292,6 +286,8 @@ Playthrough Chroma Squad
     <a href="/2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/27/fan-arts-de-toren-da-swordtales">Fan arts de Toren da Swordtales</a></h1>
@@ -313,7 +309,7 @@ Playthrough Chroma Squad
     
   
     
-      <img src="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -323,6 +319,8 @@ Playthrough Chroma Squad
     <a href="/2015/05/27/fan-arts-de-toren-da-swordtales" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game">Ballistic Overkill, desenvolvedores falam sobre o game</a></h1>
@@ -334,7 +332,7 @@ Playthrough Chroma Squad
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -344,6 +342,8 @@ Playthrough Chroma Squad
     <a href="/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual">Simulador VRUM, da Think Box, com realidade virtual</a></h1>
@@ -355,7 +355,7 @@ Playthrough Chroma Squad
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -363,6 +363,31 @@ Playthrough Chroma Squad
     </div>
 
     <a href="/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/05/21/porcunipine-lancado-no-steam">Porcunipine lançado no Steam</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+      <img src="/images/galleries/2015/05/21/porcunipine-lancado-no-steam/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Acabamos de adicionar o Porcunipine da Big Green Pillow na lista de jogos do jogosdaqui, pois hoje é o grande dia de lançamento do game no Steam. O jogo está sendo publicado para PC pela publisher britânica Curve Digital. Para se ter uma ideia do trabalho da Curve Digital, entre...
+    </div>
+
+    <a href="/2015/05/21/porcunipine-lancado-no-steam" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -377,7 +402,7 @@ Playthrough Chroma Squad
            
 
         
-            <li ><a href="/noticias/" title="">1</a></li>
+            <li ><a href="/noticias/" title="Notícias">1</a></li>
         
             <li ><a href="/noticias/2/" title="">2</a></li>
         
@@ -398,20 +423,6 @@ Playthrough Chroma Squad
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/04/imagens-da-semana-5">Imagens da semana #5</a></h1>
@@ -142,12 +137,14 @@
   
  </center>
     
-    #1 Foto da equipe da Odin Game Studio em pleno testes do game Better later than DEAD” #2 Poster do novo game da Vortex Game Studios, Space Lander” #3 O game developer brasileiro Ed Lago, dando uma amostra de grandes games nacionais da atualidade: Chroma Squad da Behold Studios, Odallus...
+    #1 Foto da equipe da Odin Game Studio em pleno testes do game Better later than DEAD #2 Poster do novo game da Vortex Game Studios, Space Lander #3 O game developer brasileiro Ed Lago, dando uma amostra de grandes games nacionais da atualidade: Chroma Squad da Behold Studios, Odallus...
     </div>
 
     <a href="/2015/05/04/imagens-da-semana-5" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/03/toren-ganha-trailer-de-lancamento">Toren ganha trailer de lançamento</a></h1>
@@ -166,6 +163,8 @@
     <a href="/2015/05/03/toren-ganha-trailer-de-lancamento" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/02/checkpoint-4">Checkpoint #4</a></h1>
@@ -177,7 +176,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/02/checkpoint-4/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/02/checkpoint-4/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -187,6 +186,8 @@
     <a href="/2015/05/02/checkpoint-4" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/01/brazil-gets-unreal">Brazil Gets Unreal</a></h1>
@@ -198,7 +199,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/01/brazil-gets-unreal/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/01/brazil-gets-unreal/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -208,6 +209,23 @@
     <a href="/2015/05/01/brazil-gets-unreal" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/04/30/qubyte-interactive-produzindo-novo-game">QUByte Interactive produzindo novo game</a></h1>
@@ -219,16 +237,18 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/04/30/qubyte-interactive-produzindo-novo-game/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/04/30/qubyte-interactive-produzindo-novo-game/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
-    A paulista QUByte Interactive, conhecida pelo jogo HTR+ , anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U. Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou...
+    A paulista QUByte Interactive, conhecida pelo jogo HTR+, anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U. Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou apenas...
     </div>
 
     <a href="/2015/04/30/qubyte-interactive-produzindo-novo-game" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/30/chroma-squad-no-steam-o-dia-chegou">Chroma Squad no Steam, o dia chegou</a></h1>
@@ -247,6 +267,8 @@
     <a href="/2015/04/30/chroma-squad-no-steam-o-dia-chegou" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/29/labindie-divulga-jogo-indie-milford-heaven">Labindie divulga jogo indie Milford Heaven</a></h1>
@@ -269,6 +291,8 @@
     <a href="/2015/04/29/labindie-divulga-jogo-indie-milford-heaven" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/29/emerge-americas-tera-a-participacao-da-cupcake">eMerge Americas terá a participação da Cupcake</a></h1>
@@ -279,14 +303,18 @@
 
 <center>
   
+    
+  
  </center>
     
-    A gaúcha Cupcake Sweet Entertainment, que já apareceu aqui no jogosdaqui com o jogo Letra de Ouro, foi selecionada para participar do eMerge Americas, mega-evento de tecnologia que acontece entre os dias 1 e 5 de maio de 2015 em Miami, nos Estados Unidos. [caption id=”attachment_493” align=”aligncenter” width=”300”] Letra de...
+    A gaúcha Cupcake Sweet Entertainment, que já apareceu aqui no jogosdaqui com o jogo Letra de Ouro, foi selecionada para participar do eMerge Americas, mega-evento de tecnologia que acontece entre os dias 1 e 5 de maio de 2015 em Miami, nos Estados Unidos. Letra de Ouro, um dos games...
     </div>
 
     <a href="/2015/04/29/emerge-americas-tera-a-participacao-da-cupcake" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/28/phoenix-force">Phoenix Force</a></h1>
@@ -310,9 +338,8 @@
     
   
     
-  
-    
-  
+      <img src="/images/galleries/2015/04/28/phoenix-force/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
     Shoot ‘em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão...
@@ -321,6 +348,8 @@
     <a href="/2015/04/28/phoenix-force" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/28/infografico-quantos-games-brasileiros-voce-ja-jogou">Infográfico "Quantos games brasileiros você já jogou?"</a></h1>
@@ -369,20 +398,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

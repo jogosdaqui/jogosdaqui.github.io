@@ -84,6 +84,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -99,20 +105,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <h2>evento</h2>
 <ul>
 
@@ -126,15 +118,11 @@
 
   <li><a href="/2015/09/02/concurso-souking-power-up">Concurso Souking - Power UP</a> (02/09/2015)</li>
 
-  <li><a href="/2015/08/24/odallus-the-dark-call-primeiras-impressoes">Odallus - The Dark Call: primeiras impressões</a> (24/08/2015)</li>
-
   <li><a href="/2015/07/30/previa-de-relic-hunters-zero">Prévia de Relic Hunters Zero</a> (30/07/2015)</li>
 
   <li><a href="/2015/07/22/previa-de-fofuuu-da-beltri-studio">Prévia de Fófuuu da Beltri Studio</a> (22/07/2015)</li>
 
   <li><a href="/2015/07/01/previa-de-dengue-over-da-ilusis-interactive">Prévia de Dengue Over da Ilusis Interactive</a> (01/07/2015)</li>
-
-  <li><a href="/2015/06/22/imagens-da-semana-12">Imagens da semana #12</a> (22/06/2015)</li>
 
   <li><a href="/2015/06/20/previa-de-dog-duty-da-zanardi-liza">Prévia de Dog Duty da Zanardi & Liza</a> (20/06/2015)</li>
 
@@ -155,8 +143,6 @@
   <li><a href="/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia">VIII Gamepad – Seminário de Games e Tecnologia</a> (23/05/2015)</li>
 
   <li><a href="/2015/05/22/checkpoint-7">Checkpoint #7</a> (22/05/2015)</li>
-
-  <li><a href="/2015/05/18/imagens-da-semana-7">Imagens da semana #7</a> (18/05/2015)</li>
 
   <li><a href="/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015">Games brasileiros finalistas no BIG Festival 2015</a> (17/05/2015)</li>
 
@@ -186,17 +172,9 @@
 
   <li><a href="/2015/03/24/spjam-2015">SPJam 2015</a> (24/03/2015)</li>
 
-  <li><a href="/2014/05/02/mr-bree-no-steam">Mr. Bree+ no Steam</a> (02/05/2014)</li>
-
   <li><a href="/2013/06/24/inscricoes-abertas-para-o-spjam-2013">Inscrições abertas para o SPJam 2013</a> (24/06/2013)</li>
 
-  <li><a href="/2013/06/17/v-de-vinagre">V de Vinagre</a> (17/06/2013)</li>
-
-  <li><a href="/2013/06/13/documentario-industria-de-games-no-brasil">Documentário "Indústria de Games no Brasil"</a> (13/06/2013)</li>
-
   <li><a href="/2013/05/06/spjam-2013">SPJam 2013</a> (06/05/2013)</li>
-
-  <li><a href="/2012/10/26/bgs-2012-alcanca-100-000-visitantes">BGS 2012 alcança 100.000 visitantes</a> (26/10/2012)</li>
 
   <li><a href="/2012/08/08/hipercubo">Hipercubo</a> (08/08/2012)</li>
 
@@ -232,20 +210,6 @@
 
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

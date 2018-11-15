@@ -140,6 +140,12 @@ Gostou do vídeo? Veja mais em:
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -155,20 +161,6 @@ Gostou do vídeo? Veja mais em:
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -189,7 +181,21 @@ Gostou do vídeo? Veja mais em:
 <article class="post">
   <h1>Insert Coins: Gryphon Knight Epic - Gameplay e Entrevista</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -197,7 +203,7 @@ Gostou do vídeo? Veja mais em:
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>A Cyber Rhino Studios é um novo estúdio catarinense que tem como primeiro jogo o Gryphon Knight Epic. Aceito no Steam Greenlight e com objetivo atingido no seu kickstarter, mistura elementos de shumps clássicos e power-ups no melhor estilo Megaman com uma narrativa e temática que lembra os RPGs clássicos.</p>
@@ -218,7 +224,8 @@ Gostou do vídeo? Veja mais em:
 </li>
 </ul>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -226,9 +233,8 @@ Gostou do vídeo? Veja mais em:
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -288,20 +294,6 @@ Gostou do vídeo? Veja mais em:
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Jetski Race</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -156,7 +162,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/12/15/jetski-race/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/15/jetski-race/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Foi dada a largada! Prepare-se para muita água, obstáculos e manobras nessa excitante corrida de jetskis!</p>
@@ -165,7 +171,8 @@
 Jetski Race é pra quem gosta de esportes radicais no celular.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -173,29 +180,33 @@ Jetski Race é pra quem gosta de esportes radicais no celular.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/15/jetski-race/jetskiRace_04.jpg">
-          <img src="../../../../../images/galleries/2005/12/15/jetski-race/jetskiRace_04.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/15/jetski-race/jetskiRace_04.jpg">
+          <img src="/images/galleries/2005/12/15/jetski-race/jetskiRace_04.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/15/jetski-race/jetskiRace_02.jpg">
-          <img src="../../../../../images/galleries/2005/12/15/jetski-race/jetskiRace_02.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/15/jetski-race/jetskiRace_02.jpg">
+          <img src="/images/galleries/2005/12/15/jetski-race/jetskiRace_02.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/15/jetski-race/jetskiRace_01.jpg">
-          <img src="../../../../../images/galleries/2005/12/15/jetski-race/jetskiRace_01.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/15/jetski-race/jetskiRace_01.jpg">
+          <img src="/images/galleries/2005/12/15/jetski-race/jetskiRace_01.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/15/jetski-race/jetskiRace_03.jpg">
-          <img src="../../../../../images/galleries/2005/12/15/jetski-race/jetskiRace_03.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/15/jetski-race/jetskiRace_03.jpg">
+          <img src="/images/galleries/2005/12/15/jetski-race/jetskiRace_03.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -217,6 +228,7 @@ Jetski Race é pra quem gosta de esportes radicais no celular.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -265,20 +277,6 @@ Jetski Race é pra quem gosta de esportes radicais no celular.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

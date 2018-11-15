@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,38 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/07/aero-battle">Aero Battle</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+      <img src="/images/galleries/2005/12/07/aero-battle/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Tyranny está pronto para se impor contra a Terra, liderado pelo The Nightmare Chimera Guardian, a aliança destruirá todos que a controlarem. Entretanto, uma última esperança ainda resta contra o domínio do maligno Chimera. Armada com seu avião, Red Falcon, você, nosso herói, será o único que pode impedir está...
+    </div>
+
+    <a href="/2005/12/07/aero-battle" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/28/war">WAR</a></h1>
@@ -136,7 +153,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/11/28/war/FavelaWars_logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/28/war/FavelaWars_logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -146,6 +163,8 @@
     <a href="/2005/11/28/war" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/26/nishi-soul-mate">Nishi Soul Mate</a></h1>
@@ -178,6 +197,8 @@
     <a href="/2005/11/26/nishi-soul-mate" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/25/moscao-killer">Moscão Killer</a></h1>
@@ -191,7 +212,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/11/25/moscao-killer/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/25/moscao-killer/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -201,6 +222,23 @@
     <a href="/2005/11/25/moscao-killer" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/11/23/ryudragon">Ryudragon</a></h1>
@@ -222,7 +260,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/11/23/ryudragon/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/23/ryudragon/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -232,6 +270,8 @@
     <a href="/2005/11/23/ryudragon" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/23/garatuja">Garatuja</a></h1>
@@ -249,7 +289,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/11/23/garatuja/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/23/garatuja/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -259,6 +299,8 @@
     <a href="/2005/11/23/garatuja" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/21/nishi-aqua-fight">Nishi Aqua Fight</a></h1>
@@ -287,6 +329,8 @@
     <a href="/2005/11/21/nishi-aqua-fight" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/21/bola-de-gude">Bola de Gude</a></h1>
@@ -314,7 +358,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/21/bola-de-gude/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -324,6 +368,8 @@
     <a href="/2005/11/21/bola-de-gude" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/19/pato-possante">Pato Possante</a></h1>
@@ -337,7 +383,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/11/19/pato-possante/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/19/pato-possante/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -347,6 +393,8 @@
     <a href="/2005/11/19/pato-possante" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/18/the-game-producer">The Game Producer</a></h1>
@@ -364,7 +412,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/11/18/the-game-producer/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/18/the-game-producer/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -372,33 +420,6 @@
     </div>
 
     <a href="/2005/11/18/the-game-producer" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/16/chip">Chip$</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/11/16/chip/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Com duas opções de jogo, Chip$ oferece horas de pura diversão, combinando a emoção dos jogos de cassino com temas originais, repletos de gráficos vibrantes, som de primeira e desafios que exigem concentração e destreza. Chip$ é diversão garantida para toda a família e o fácil acesso também é um...
-    </div>
-
-    <a href="/2005/11/16/chip" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -434,20 +455,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

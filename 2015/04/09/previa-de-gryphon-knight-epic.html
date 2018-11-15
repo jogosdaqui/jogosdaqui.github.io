@@ -128,6 +128,12 @@ Aguardamos ansiosamente pela versão final do jogo e assim falaremos por complet
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -143,20 +149,6 @@ Aguardamos ansiosamente pela versão final do jogo e assim falaremos por complet
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -177,7 +169,21 @@ Aguardamos ansiosamente pela versão final do jogo e assim falaremos por complet
 <article class="post">
   <h1>Prévia de Gryphon Knight Epic</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -237,7 +243,8 @@ Aguardamos ansiosamente pela versão final do jogo e assim falaremos por complet
         <iframe src="https://www.youtube.com/embed/POOab7QKbsg " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -245,89 +252,93 @@ Aguardamos ansiosamente pela versão final do jogo e assim falaremos por complet
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_28.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_28.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_28.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_28.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_05.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_05.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_05.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_05.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_21.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_21.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_21.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_21.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_02.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_02.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_02.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_02.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_17.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_17.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_17.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_17.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_09.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_09.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_09.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_09.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_31.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_31.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_31.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_31.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_01.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_01.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_01.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_01.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_25.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_25.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_25.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_25.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_20.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_20.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_20.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_20.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_34.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_34.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_34.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_34.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_10.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_10.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_10.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_10.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_38.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_38.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_38.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_38.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_14.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_14.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_14.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_14.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_11.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_11.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_11.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_11.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_04.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_04.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_04.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_04.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_08.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_08.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_08.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_08.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_18.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_18.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_18.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_18.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_06.png">
-          <img src="../../../../../images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_06.png"/>        
+        <li data-thumb="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_06.png">
+          <img src="/images/galleries/2015/04/09/previa-de-gryphon-knight-epic/gke_06.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -349,6 +360,7 @@ Aguardamos ansiosamente pela versão final do jogo e assim falaremos por complet
     });
   });
 </script>
+
 
   </div>
 
@@ -403,20 +415,6 @@ Aguardamos ansiosamente pela versão final do jogo e assim falaremos por complet
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

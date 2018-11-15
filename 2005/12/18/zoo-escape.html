@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Zoo Escape</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -154,7 +160,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/12/18/zoo-escape/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/18/zoo-escape/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Nishi tem que recapturar os animais que escaparam do zoológico.</p>
@@ -164,7 +170,8 @@
 <p>Agilidade, perspicácia e muita atenção são essencias neste jogo, desde que o relógio é o maior inimigo de Nishi, ele deverá ainda ter cuidado para acertar os animais certos.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -172,29 +179,33 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/18/zoo-escape/zooEscape_03.gif">
-          <img src="../../../../../images/galleries/2005/12/18/zoo-escape/zooEscape_03.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/18/zoo-escape/zooEscape_03.gif">
+          <img src="/images/galleries/2005/12/18/zoo-escape/zooEscape_03.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/18/zoo-escape/zooEscape_02.gif">
-          <img src="../../../../../images/galleries/2005/12/18/zoo-escape/zooEscape_02.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/18/zoo-escape/zooEscape_02.gif">
+          <img src="/images/galleries/2005/12/18/zoo-escape/zooEscape_02.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/18/zoo-escape/zooEscape_04.gif">
-          <img src="../../../../../images/galleries/2005/12/18/zoo-escape/zooEscape_04.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/18/zoo-escape/zooEscape_04.gif">
+          <img src="/images/galleries/2005/12/18/zoo-escape/zooEscape_04.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/18/zoo-escape/zooEscape_01.gif">
-          <img src="../../../../../images/galleries/2005/12/18/zoo-escape/zooEscape_01.gif"/>        
+        <li data-thumb="/images/galleries/2005/12/18/zoo-escape/zooEscape_01.gif">
+          <img src="/images/galleries/2005/12/18/zoo-escape/zooEscape_01.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -216,6 +227,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -260,20 +272,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

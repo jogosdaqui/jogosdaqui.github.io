@@ -101,6 +101,12 @@ Então destrua-os com seu tanque. Mas fique esperto, eles também te querem mort
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -116,20 +122,6 @@ Então destrua-os com seu tanque. Mas fique esperto, eles também te querem mort
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -150,7 +142,21 @@ Então destrua-os com seu tanque. Mas fique esperto, eles também te querem mort
 <article class="post">
   <h1>Tank Mission 2</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -162,7 +168,7 @@ Então destrua-os com seu tanque. Mas fique esperto, eles também te querem mort
     
   
     
-      <img src="../../../../../images/galleries/2006/01/18/tank-mission-2/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/18/tank-mission-2/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Quer destruir todos os inimigos do seu caminho? Quer transformá-los em aço derretido?</p>
@@ -181,7 +187,8 @@ Com certeza sim.</p>
 <p>Tank Mission II, o jogo que trouxe novamente a vida o que fez de “Battle City” do Nintendo 8 bits um grande jogo.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -189,29 +196,33 @@ Com certeza sim.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_3.gif">
-          <img src="../../../../../images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_3.gif"/>        
+        <li data-thumb="/images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_3.gif">
+          <img src="/images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_3.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_4.gif">
-          <img src="../../../../../images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_4.gif"/>        
+        <li data-thumb="/images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_4.gif">
+          <img src="/images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_4.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_2.gif">
-          <img src="../../../../../images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_2.gif"/>        
+        <li data-thumb="/images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_2.gif">
+          <img src="/images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_2.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_1.gif">
-          <img src="../../../../../images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_1.gif"/>        
+        <li data-thumb="/images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_1.gif">
+          <img src="/images/galleries/2006/01/18/tank-mission-2/PalmSoft_TankMission2_1.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -233,6 +244,7 @@ Com certeza sim.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -281,20 +293,6 @@ Com certeza sim.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -212,6 +212,12 @@ Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unr
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -227,20 +233,6 @@ Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unr
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -261,7 +253,21 @@ Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unr
 <article class="post">
   <h1>Checkpoint #4</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -269,7 +275,7 @@ Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unr
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/02/checkpoint-4/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/02/checkpoint-4/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <h2 id="1">#1</h2>
@@ -314,7 +320,8 @@ Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unr
 <h2 id="14">#14</h2>
 <p><a href="/2015/05/01/brazil-gets-unreal/">Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal </a></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -322,9 +329,8 @@ Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unr
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -406,20 +412,6 @@ Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unr
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

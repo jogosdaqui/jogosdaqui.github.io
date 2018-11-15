@@ -146,6 +146,12 @@ Fique com imagens de Jet Thunder:
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -161,20 +167,6 @@ Fique com imagens de Jet Thunder:
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -195,7 +187,21 @@ Fique com imagens de Jet Thunder:
 <article class="post">
   <h1>Jet Thunder</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -219,7 +225,7 @@ Fique com imagens de Jet Thunder:
     
   
     
-      <img src="../../../../../images/galleries/2006/01/12/jet-thunder/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/01/12/jet-thunder/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Jet Thunder (título provisório) é um projeto de criação de um simulador de vôo realístico baseado na guerra aérea do Atlântico Sul, em 1982 - o conflito das Falklands/Malvinas. Está sendo desenvolvido por um grupo de entusiastas da aviação militar, em sua maioria localizados na América do Sul. Assim que estivermos plenamente organizados como um estúdio de desenvolvimento, sob o nome Thunderworks, mais informações sobre nós e nossos objetivos estarão disponíveis online, em um website institucional neste mesmo endereço.</p>
@@ -242,7 +248,8 @@ Fique com imagens de Jet Thunder:
 
 <h2 id="fique-com-imagens-de-jet-thunder">Fique com imagens de Jet Thunder:</h2>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -250,49 +257,53 @@ Fique com imagens de Jet Thunder:
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_9.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_9.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_9.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_9.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_4.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_4.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_4.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_1.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_1.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_1.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_2.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_2.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_2.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_7.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_7.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_7.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_7.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_5.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_5.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_5.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_3.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_3.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_3.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_8.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_8.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_8.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_8.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_6.jpg">
-          <img src="../../../../../images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_6.jpg"/>        
+        <li data-thumb="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_6.jpg">
+          <img src="/images/galleries/2006/01/12/jet-thunder/ThunderWorks_JetThunder_6.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -314,6 +325,7 @@ Fique com imagens de Jet Thunder:
     });
   });
 </script>
+
 
   </div>
 
@@ -358,20 +370,6 @@ Fique com imagens de Jet Thunder:
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

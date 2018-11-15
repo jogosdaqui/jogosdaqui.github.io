@@ -110,6 +110,12 @@ Segundo a Miris Mind, o game une elementos de combate beat ‘em up, com uma his
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -125,20 +131,6 @@ Segundo a Miris Mind, o game une elementos de combate beat ‘em up, com uma his
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -159,7 +151,21 @@ Segundo a Miris Mind, o game une elementos de combate beat ‘em up, com uma his
 <article class="post">
   <h1>Side Quest da Miris Mind no Greenlight</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -171,7 +177,7 @@ Segundo a Miris Mind, o game une elementos de combate beat ‘em up, com uma his
     
   
     
-      <img src="../../../../../images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Em tempos onde programas culinários como MasterChef fazem um grande sucesso, que tal um game onde o herói é o cozinheiro numa aventura épica? Essa é a proposta da paulistana <a href="http://www.mirismind.com/" target="_blank">Miris Mind</a>
@@ -195,7 +201,8 @@ no Steam.</p>
 
 <p>O jogo está programado para ser lançado no final de 2015, inicialmente para PC, MAC e Linux.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -203,25 +210,29 @@ no Steam.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_03.png">
-          <img src="../../../../../images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_03.png"/>        
+        <li data-thumb="/images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_03.png">
+          <img src="/images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_03.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_04.png">
-          <img src="../../../../../images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_04.png"/>        
+        <li data-thumb="/images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_04.png">
+          <img src="/images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_04.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_02.png">
-          <img src="../../../../../images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_02.png"/>        
+        <li data-thumb="/images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_02.png">
+          <img src="/images/galleries/2015/10/23/side-quest-da-miris-mind-no-greenlight/MirisMind_SideQuest_02.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -243,6 +254,7 @@ no Steam.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -299,20 +311,6 @@ no Steam.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

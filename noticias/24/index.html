@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,73 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/18/viaje-pelo-brasil-na-tela-do-celular">Viaje pelo Brasil na tela do celular</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Transit Brasil, o novo jogo para celular da Lúmen Technology , vai levar o jogador para viajar pelo Brasil na pele de Allan Cruz, um funcionário de uma famosa empresa de entregas rápidas. Com belos gráficos e muita diversão, Transit Brasil promete várias horas de desafio para completar as suas...
+    </div>
+
+    <a href="/2006/04/18/viaje-pelo-brasil-na-tela-do-celular" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/14/newsabragames-abril-2006">NewsAbragames - Abril/2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    No ar a última edição da NewsAbragames (newsletter mensal da Abragames - Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos).A edição de abril conta com a review do jogo de palavras cruzadas Coquetel da Délirus , os destaques da mídia no mês de março, a agenda de eventos sobre jogos para...
+    </div>
+
+    <a href="/2006/04/14/newsabragames-abril-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/13/anunciado-pinogol-3d-para-o-gametrack">Anunciado Pinogol 3D para o Gametrack</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A Devworks Game Technology liberou as primeiras informações do próximo jogo multiplayer do portal Gametrack .Pinogol 3D é um jogo de futebol de pinos 3D, onde cada jogador controla seu time de pinos com o objetivo de marcar gols contra o adversário.Em breve, no jogosdaqui, mais informações sobre Pinogol 3D....
+    </div>
+
+    <a href="/2006/04/13/anunciado-pinogol-3d-para-o-gametrack" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox">Southlogic participa de jogo para PS2 e Xbox</a></h1>
@@ -145,6 +197,23 @@
     <a href="/2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/04/12/memory-cube-da-fourx">Memory Cube da FourX</a></h1>
@@ -166,6 +235,8 @@
     <a href="/2006/04/12/memory-cube-da-fourx" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/11/melhorias-no-jogosdaqui">Melhorias no jogosdaqui</a></h1>
@@ -184,6 +255,8 @@
     <a href="/2006/04/11/melhorias-no-jogosdaqui" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/10/quentinha-sobre-estradas-esburacadas">Quentinha sobre Estradas Esburacadas</a></h1>
@@ -204,6 +277,8 @@
     <a href="/2006/04/10/quentinha-sobre-estradas-esburacadas" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/09/oa-games-inicia-a-fase-beta-de-gamegol">OÂ² Games inicia a fase beta de GameGol</a></h1>
@@ -224,6 +299,8 @@
     <a href="/2006/04/09/oa-games-inicia-a-fase-beta-de-gamegol" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/09/lancamento-gamegol-beta">Lançamento GameGol beta</a></h1>
@@ -242,6 +319,8 @@
     <a href="/2006/04/09/lancamento-gamegol-beta" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/04/brincando-com-a-memoria">Brincando com a Memória</a></h1>
@@ -259,65 +338,6 @@
     </div>
 
     <a href="/2006/04/04/brincando-com-a-memoria" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/30/jogosbr-prazo-final">JogosBR, prazo final</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Dia 3 de abril, próxima segunda-feira, é o prazo final para inscrições nos concursos de Desenvolvimento de Demos Jogavéis e de Jogos Completos do JogosBR 2005/2006.As empresas e profissionais que desejarem participar devem se inscrever no site www.jogosbr.org.br
-.
-
-    </div>
-
-    <a href="/2006/03/30/jogosbr-prazo-final" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/27/primeiro-brasileiro-no-espaco">Primeiro brasileiro no espaço</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Para celebrar a primeira viagem espacial de um brasileiro, protagonizada por Marcos Pontes no próximo 30 de março, preparamos uma lista dos jogos que também nos levam ao espaço.Confira o especial…
-
-    </div>
-
-    <a href="/2006/03/27/primeiro-brasileiro-no-espaco" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/27/primeiras-imagens-de-capoeira">Primeiras imagens de Capoeira</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Capoeira, um dos 8 projetos vencedores para o desenvolvimento de uma demo jogável do JogosBR 2004, mostra suas primeiras imagens.Confira…
-
-
-    </div>
-
-    <a href="/2006/03/27/primeiras-imagens-de-capoeira" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -353,20 +373,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -161,6 +161,12 @@ Dino Zone é um bom tower defense que adiciona novos elementos ao gênero e uma 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -176,20 +182,6 @@ Dino Zone é um bom tower defense que adiciona novos elementos ao gênero e uma 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -210,7 +202,21 @@ Dino Zone é um bom tower defense que adiciona novos elementos ao gênero e uma 
 <article class="post">
   <h1>Dino Zone</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -297,7 +303,8 @@ Dino Zone é um bom tower defense que adiciona novos elementos ao gênero e uma 
         <iframe src="https://www.youtube.com/embed/GxSYqFgxScY " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -305,121 +312,125 @@ Dino Zone é um bom tower defense que adiciona novos elementos ao gênero e uma 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_26.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_26.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_26.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_26.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_9.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_9.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_9.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_9.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_1.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_1.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_1.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_1.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_11.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_11.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_11.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_11.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_24.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_24.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_24.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_24.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_3.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_3.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_3.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_3.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_17.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_17.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_17.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_17.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_22.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_22.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_22.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_22.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_15.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_15.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_15.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_15.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_5.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_5.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_5.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_5.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_20.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_20.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_20.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_20.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_7.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_7.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_7.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_7.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_21.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_21.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_21.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_21.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_12.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_12.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_12.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_12.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_16.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_16.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_16.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_16.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_4.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_4.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_4.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_4.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_27.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_27.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_27.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_27.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_6.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_6.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_6.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_6.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_10.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_10.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_10.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_10.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_2.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_2.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_2.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_2.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_13.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_13.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_13.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_13.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_14.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_14.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_14.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_14.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_25.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_25.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_25.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_25.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_18.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_18.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_18.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_18.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_8.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_8.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_8.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_8.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_19.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_19.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_19.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_19.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_23.png">
-          <img src="../../../../../images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_23.png"/>        
+        <li data-thumb="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_23.png">
+          <img src="/images/galleries/2015/04/16/dino-zone/CatNigiri_DinoZone_23.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -441,6 +452,7 @@ Dino Zone é um bom tower defense que adiciona novos elementos ao gênero e uma 
     });
   });
 </script>
+
 
   </div>
 
@@ -493,20 +505,6 @@ Dino Zone é um bom tower defense que adiciona novos elementos ao gênero e uma 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

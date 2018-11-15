@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,79 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/09/27/gamecon">Gamecon</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-      <img src="../../../../../images/galleries/2005/09/27/gamecon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
     
-    Entre 15 e 16 de outubro de 2005 a segunda edição do Gamecon será realizada no Espaço Ferrovia , situado na Rua Dr. Almeida Lima, número 1219, no bairro da Móoca na Cidade de São Paulo. O Gamecon é um evento específico de games e tecnologia, sendo dividido em três...
-    </div>
-
-    <a href="/2005/09/27/gamecon" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/26/parceria-com-rede-networks-beneficia-erinia">Parceria com Rede Networks beneficia Erinia</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A parceria fundada entre a Ignis Games e Rede Networks já beneficia os jogadores de Erinia em diversos aspectos. O jogo vem sofrendo vários ajustes no balanceamento, o sistema de pagamento já está funcionando normalmente e brevemente será feita uma atualização nos servidores. Além disto, para quem tem conexão discada,...
-    </div>
-
-    <a href="/2005/09/26/parceria-com-rede-networks-beneficia-erinia" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/09/26/ganhadores-da-primeira-semana">Ganhadores da primeira semana</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Aqui estão os ganhadores da primeira semana da promoção de lançamento do jogosdaqui. Cada ganhador receberá 1 número serial Gold oferecido pela TILT online. Thacio Garcia Scandaroli - Tonmy Vinicius Silva - julian Victor - victor Paulo Andrade - PauloAndrade Antonio Leite - antonioleite Se você ainda não se cadastrou,...
-    </div>
-
-    <a href="/2005/09/26/ganhadores-da-primeira-semana" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/09/26/gametrack-portal-de-jogos-online">GameTrack - Portal de jogos online</a></h1>
@@ -195,6 +133,8 @@
     <a href="/2005/09/26/gametrack-portal-de-jogos-online" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/24/tilt-online-libera-game-console-playon-1-2">TILT online libera Game Console (playon) 1.2</a></h1>
@@ -213,6 +153,8 @@
     <a href="/2005/09/24/tilt-online-libera-game-console-playon-1-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/24/tilt-online-game-console-playon-1-2">TILT online :: Game Console (playon) 1.2</a></h1>
@@ -231,6 +173,8 @@
     <a href="/2005/09/24/tilt-online-game-console-playon-1-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/24/shoot-the-chief">Shoot The Chief</a></h1>
@@ -244,7 +188,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/24/shoot-the-chief/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/24/shoot-the-chief/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -254,6 +198,23 @@
     <a href="/2005/09/24/shoot-the-chief" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/09/24/a-fantastica-aventura-de-tales">A Fantástica Aventura de Tales</a></h1>
@@ -267,7 +228,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/24/a-fantastica-aventura-de-tales/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/24/a-fantastica-aventura-de-tales/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -277,6 +238,8 @@
     <a href="/2005/09/24/a-fantastica-aventura-de-tales" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/23/super-popcorn-machine">Super Popcorn Machine</a></h1>
@@ -290,7 +253,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/23/super-popcorn-machine/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/23/super-popcorn-machine/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -300,6 +263,8 @@
     <a href="/2005/09/23/super-popcorn-machine" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/09/23/koko-arena">Koko Arena</a></h1>
@@ -323,7 +288,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/09/23/koko-arena/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/23/koko-arena/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -331,6 +296,108 @@
     </div>
 
     <a href="/2005/09/23/koko-arena" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/23/jokenpo">JoKenPo</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Quem não conhece a famosa brincadeira pedra-papel-tesoura? Pois a Nology mais uma vez inovou e criou o JoKenPo, baseado no conceito desta brincadeira. Você será um dos personagens da trinca e seu objetivo é caçar todos os demais personagens que estão andando em um labirinto 3D. Se você for uma...
+    </div>
+
+    <a href="/2005/09/23/jokenpo" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/23/hello">Hello!</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/23/hello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    O Hello! é um jogo que une ação e estratégia, onde você deve estabelecer conexões telefônicas para eliminar os telefones que aparecem no tabuleiro. A regra é: não deixe a tela ser totalmente preenchida por telefones. Se você gosta de jogos que exigem velocidade e ação, escolha entre os modos...
+    </div>
+
+    <a href="/2005/09/23/hello" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/09/23/cookie-chef">Cookie Chef</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/09/23/cookie-chef/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Como o assistente do confeiteiro Ben, você trabalhará pesado para ajudá-lo a preparar biscoitos de forma rápida e eficiente. Se for bem sucedido, Ben irá certamente promover você a posições de maior responsabilidade dentro de sua confeitaria e, em mantendo o bom trabalho, você será um sério candidato ao posto...
+    </div>
+
+    <a href="/2005/09/23/cookie-chef" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -363,20 +430,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

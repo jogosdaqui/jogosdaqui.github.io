@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/02/06/lava-girl-demolition-puzzle">Lava Girl - Demolition Puzzle</a></h1>
@@ -134,6 +129,9 @@
   
     
   
+    
+      <img src="/images/galleries/2013/02/06/lava-girl-demolition-puzzle/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
     Lava Girl é um jogo gratuito para Android produzido pelo Studio Ho do brasileiro Daniel Minaré Ho. A aventura acontece em um cenário futurístico, no qual o planeta foi completamente coberto por área metropolitana. Com o esgotamento do espaço para novas cidades, a humanidade decide esfriar o magma abaixo da...
@@ -142,6 +140,8 @@
     <a href="/2013/02/06/lava-girl-demolition-puzzle" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/01/25/10-let-game-fun-o-livro">10 LET GAME$ = "FUN" (o livro)</a></h1>
@@ -153,7 +153,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/01/25/10-let-game-fun-o-livro/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/01/25/10-let-game-fun-o-livro/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -163,6 +163,8 @@
     <a href="/2013/01/25/10-let-game-fun-o-livro" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/01/23/tribot">TriboT</a></h1>
@@ -178,7 +180,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/01/23/tribot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/01/23/tribot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -188,6 +190,8 @@
     <a href="/2013/01/23/tribot" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012">Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</a></h1>
@@ -206,6 +210,23 @@
     <a href="/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2012/12/13/oniken-the-rescue-2">Oniken: The Rescue</a></h1>
@@ -228,6 +249,8 @@
     <a href="/2012/12/13/oniken-the-rescue-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/12/05/crazy-bitsy-spider-2">Crazy Bitsy Spider</a></h1>
@@ -252,6 +275,8 @@
     <a href="/2012/12/05/crazy-bitsy-spider-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/11/21/oniken-recebe-versao-para-mac-e-linux">Oniken recebe versão para Mac e Linux</a></h1>
@@ -278,6 +303,8 @@
     <a href="/2012/11/21/oniken-recebe-versao-para-mac-e-linux" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2">Ballistic entra em fase de beta teste</a></h1>
@@ -289,7 +316,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -299,6 +326,8 @@
     <a href="/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/11/07/vrum-aprendendo-sobre-o-transito">VRUM - Aprendendo sobre o trânsito</a></h1>
@@ -321,6 +350,8 @@
     <a href="/2012/11/07/vrum-aprendendo-sobre-o-transito" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/10/30/crystal-catcher">Crystal Catcher</a></h1>
@@ -340,10 +371,11 @@
     
   
     
-  
+      <img src="/images/galleries/2012/10/30/crystal-catcher/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
-    Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever Crystal Catcher , para iPhone e iPad, o último game da desenvolvedora brasileira Crazy Minds Game Studio , que já esteve no jogosdaqui com o puzzle BLLUBY. Em Crystal Catcher o jogador entra na pele… ou...
+    Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever Crystal Catcher, para iPhone e iPad, o último game da desenvolvedora brasileira Crazy Minds Game Studio, que já esteve no jogosdaqui com o puzzle BLLUBY. Em Crystal Catcher o jogador entra na pele… ou melhor, na...
     </div>
 
     <a href="/2012/10/30/crystal-catcher" class="read-more">Leia mais</a>
@@ -379,20 +411,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

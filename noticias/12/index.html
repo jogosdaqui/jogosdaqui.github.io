@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,7 +110,123 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
+      <article class="page">
+  <div class="entry">
+    <div class="posts">
+ 
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2012/10/17/bubblin-2">Bubblin</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Uma ideia simples, entretanto executada com maestria! Esse é o game Bubblin para iOS e Android da brasileria BivisSoft . A ideia: Controlar uma inocente bolha de sabão que cresce de tamanho toda vez que encosta nas bolhas da mesma cor e explode, num triste game over =[, ao encostar...
+    </div>
+
+    <a href="/2012/10/17/bubblin-2" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2012/10/11/shuffle-puzzle-2">Shuffle Puzzle</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2012/10/11/shuffle-puzzle-2/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Shuffle Puzzle é um jogo de quebra-cabeça onde o jogador deverá montar a imagem embaralhada movendo linhas ou colunas. As imagens seguem a temática do pacote onde estão e neste jogo há três pacotes: natureza, balões e grafite. A dificuldade inicialmente é a mínima possível com o objetivo de que...
+    </div>
+
+    <a href="/2012/10/11/shuffle-puzzle-2" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2012/10/03/apoie-o-jogo-comboy">Apoie o jogo brasileiro Comboy vs Aliens vs Ninjas</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    A desenvolvedora brasileira Dead Mushroom iniciou uma campanha de crowdfunding que visa arrecadar fundos para que seu game "Cowboy vs Aliens vs Ninjas" fique disponível de graça para iOS e Android, além de ajudar no desenvolvimento de uma versão para desktop. Como já é de praxe em campanhas crowdfunding, caso...
+    </div>
+
+    <a href="/2012/10/03/apoie-o-jogo-comboy" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2012/07/10/copaguinho-no-espaco">Copaguinho no Espaço</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Em seu primeiro game para iPad, a empresa brasileira Mkt Virtual desenvolveu em parceria com a Copag, maior fabricante de baralhos do Brasil, o game "Copaguinho no Espaço". No game o jogador controla o Super Copaguinho atrav&#233;s de 10 fases no melhor estilo dos cl&#225;ssicos jogos de nave shoot&#8217;em up....
+    </div>
+
+    <a href="/2012/07/10/copaguinho-no-espaco" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -118,13 +240,7 @@
 </script>
 
 <br> 
-      <article class="page">
-
-  <h1></h1>
-
-  <div class="entry">
-    <div class="posts">
-
+    
     <article class="post">
 
     <h1><a href="/2012/04/11/meu-pianinho">Meu Pianinho</a></h1>
@@ -151,6 +267,8 @@
     <a href="/2012/04/11/meu-pianinho" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/02/28/delivery-box">Delivery Box</a></h1>
@@ -179,6 +297,8 @@
     <a href="/2012/02/28/delivery-box" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/02/16/pre-venda-de-out-there-somewhere">Pré-venda de Out There Somewhere</a></h1>
@@ -190,7 +310,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2012/02/16/pre-venda-de-out-there-somewhere/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2012/02/16/pre-venda-de-out-there-somewhere/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -200,6 +320,8 @@
     <a href="/2012/02/16/pre-venda-de-out-there-somewhere" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/02/12/legendary-heroes">Legendary Heroes</a></h1>
@@ -224,6 +346,8 @@
     <a href="/2012/02/12/legendary-heroes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/01/13/joga-brasil">Joga Brasil</a></h1>
@@ -241,7 +365,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2012/01/13/joga-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2012/01/13/joga-brasil/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -251,6 +375,8 @@
     <a href="/2012/01/13/joga-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2012/01/05/zigball">Zigball</a></h1>
@@ -273,99 +399,6 @@
     </div>
 
     <a href="/2012/01/05/zigball" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2011/10/14/blluby">BLLUBY</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2011/10/14/blluby/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Apesar de ter um gosto eclético para games e navegar bem entre todas as categorias, desde os games mais casuais até os mais hardcore, sempre tive uma predileção por puzzles. E foi por isso que recebi com grata surpresa o game BLLUBY, da brasileira Crazy Minds , para iPhone, iPod e...
-    </div>
-
-    <a href="/2011/10/14/blluby" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2011/09/19/mega-drop-chiclets-evolution">Mega Drop Chiclets Evolution</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-      <img src="../../../../../images/galleries/2011/09/19/mega-drop-chiclets-evolution/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Já pensou em enfrentar a Mega Rampa? E que tal fazer isso num game para iPhone, IPad, Android mobile, Android tablets e Facebook? Essa é a proposta do game Mega Drop Chiclets Evolution da brasileira Ovni Studios em parceria com a McCann e Kraft Foods. A jogabilidade do game é...
-    </div>
-
-    <a href="/2011/09/19/mega-drop-chiclets-evolution" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2011/04/20/industrial-imperialism">Industrial Imperialism</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    &gt; Por Marcelo Andrade Tabone em colabora&#231;&#227;o para o jogosdaqui. O jogo Industrial Imperialism, da brasileira PalmSoft, foi considerado o primeiro MMO brasileiro gratuito baseado em web. Industrial Imperialism é um jogo de estratégia militar, onde o jogador tem que gerenciar uma cidade e comandar exércitos em tempo real. O...
-    </div>
-
-    <a href="/2011/04/20/industrial-imperialism" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2011/04/14/file-games-rio-2011">FILE Games Rio 2011</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-      <img src="../../../../../images/galleries/2011/04/14/file-games-rio-2011/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Entre os dias 11 de abril e 08 de maio a galera do Rio de Janeiro poderá visitar a FILE Games Rio 2011 "Eu quero jogar" no OI Futuro Flamego. O FILE (Festival Internacional de Linguagem Eletrônica) apresenta jogos e obras artísticas que refletem a cultura game em diversas áreas....
-    </div>
-
-    <a href="/2011/04/14/file-games-rio-2011" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -401,20 +434,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

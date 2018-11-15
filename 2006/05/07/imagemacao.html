@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Imagem&Ação</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -163,7 +169,8 @@
  </center>
     <p>Imagem&amp;Ação foi criado há 20 anos por um garçom de 24 anos de Seatle. O jogo sempre conquistou muitos fãs durante todos esses anos e foi trazido ao Brasil pela Grow. Imagem&amp;Ação é considerado um dos mais populares jogos do mundo, com mais de 30 milhões de cópias vendidas. <br /><br />O jogo online para Imagem&amp;Ação do portal Gametrack segue a mesma fórmula do jogo de tabuleiro: duas equipes, entre 4 a 8 jogadores,  tentam chegar com o seu peão na última casa do tabuleiro, para  movimentar o peão pelo tabuleiro um membro de cada equipe tem que fazer desenhos para que os outros participantes da equipe tentem, através do chat, adivinhar a palavra sorteada. As palavras sorteadas variam em 6 categorias:<br /><br />Pessoa, lugar ou animal (incluindo suas partes e características)<br />Objeto (coisas que podem ser vistas ou tocadas)<br />Ação (verbos ou expressões que designam uma ação)<br />Difícil (palavras ou expressões difíceis de todas as categorias)<br />Lazer (nomes de filmes, livros, esportes etc.)<br />Mix (palavras de qualquer categoria).<br /><br />As disputas podem ser feitas com as duas equipes tentando adivinhar a palavra ao mesmo tempo ou com cada equipe na sua vez.<br /><br />Imagem&amp;Ação do portal Gametrack conseguiu manter a diversão e alegria das partidas do jogo clássico. E não pense que você precisa ser desenhista para se dar bem em Imagem&amp;Ação, basta usar a criatividade e se divertir a vontade.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -171,37 +178,41 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_509.png">
-          <img src="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_509.png"/>        
+        <li data-thumb="/images/galleries/2006/05/07/imagemacao/Screenshot_509.png">
+          <img src="/images/galleries/2006/05/07/imagemacao/Screenshot_509.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_511.png">
-          <img src="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_511.png"/>        
+        <li data-thumb="/images/galleries/2006/05/07/imagemacao/Screenshot_511.png">
+          <img src="/images/galleries/2006/05/07/imagemacao/Screenshot_511.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_510.png">
-          <img src="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_510.png"/>        
+        <li data-thumb="/images/galleries/2006/05/07/imagemacao/Screenshot_510.png">
+          <img src="/images/galleries/2006/05/07/imagemacao/Screenshot_510.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_512.png">
-          <img src="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_512.png"/>        
+        <li data-thumb="/images/galleries/2006/05/07/imagemacao/Screenshot_512.png">
+          <img src="/images/galleries/2006/05/07/imagemacao/Screenshot_512.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_513.png">
-          <img src="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_513.png"/>        
+        <li data-thumb="/images/galleries/2006/05/07/imagemacao/Screenshot_513.png">
+          <img src="/images/galleries/2006/05/07/imagemacao/Screenshot_513.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_508.png">
-          <img src="../../../../../images/galleries/2006/05/07/imagemacao/Screenshot_508.png"/>        
+        <li data-thumb="/images/galleries/2006/05/07/imagemacao/Screenshot_508.png">
+          <img src="/images/galleries/2006/05/07/imagemacao/Screenshot_508.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -223,6 +234,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -271,20 +283,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>WSG - Web Soccer Game</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -156,7 +162,8 @@
     <p>WSG significa Web-Soccer Game, é um jogo baseado em turnos de futebol. Cada turno possui 30 (trinta) minutos e durante esse você administra seu time, arquiteta estratégias, treina jogadores, capacita seu técnico, negocia jogadores e desafia outros times.<br /><br />Para o jogador ter acesso aos comandos do jogo propriamente dito, é feito um cadastro no site do jogo, onde ele também poderá esta o adquirindo pra ter mais opções para tal.<br /><br />Feito isto ele estará de posse de um time, com um nome que ele definirá, onde ele dentre algumas opções podendo ser auxiliada pelo tutor, o usuário estará navegando pelo jogo e assim formando sua seleção os poucos.<br /><br />Confira algumas imagens do jogo em desenvolvimento:<br /><br /></p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -164,21 +171,25 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/02/23/wsg-web-soccer-game/Screenshot_373.png">
-          <img src="../../../../../images/galleries/2006/02/23/wsg-web-soccer-game/Screenshot_373.png"/>        
+        <li data-thumb="/images/galleries/2006/02/23/wsg-web-soccer-game/Screenshot_373.png">
+          <img src="/images/galleries/2006/02/23/wsg-web-soccer-game/Screenshot_373.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/02/23/wsg-web-soccer-game/Screenshot_374.png">
-          <img src="../../../../../images/galleries/2006/02/23/wsg-web-soccer-game/Screenshot_374.png"/>        
+        <li data-thumb="/images/galleries/2006/02/23/wsg-web-soccer-game/Screenshot_374.png">
+          <img src="/images/galleries/2006/02/23/wsg-web-soccer-game/Screenshot_374.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -200,6 +211,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -244,20 +256,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

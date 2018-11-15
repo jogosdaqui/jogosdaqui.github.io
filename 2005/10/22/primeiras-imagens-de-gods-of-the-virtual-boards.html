@@ -125,6 +125,12 @@ Fique com as imagens do jogo em desenvolvimento:
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -140,20 +146,6 @@ Fique com as imagens do jogo em desenvolvimento:
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -174,7 +166,21 @@ Fique com as imagens do jogo em desenvolvimento:
 <article class="post">
   <h1>Primeiras imagens de Gods of The Virtual Boards</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -229,7 +235,8 @@ O jogo está sendo desenvolvido pela Devworks Technology e tem previsão de lan�
 
 <center></center>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -237,81 +244,85 @@ O jogo está sendo desenvolvido pela Devworks Technology e tem previsão de lan�
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_24.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_24.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_24.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_24.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_16.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_16.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_16.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_16.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/4.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/4.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/3.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/3.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_20.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_20.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_20.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_20.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/6.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/6.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_22.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_22.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_22.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_22.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_19.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_19.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_19.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_19.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_23.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_23.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_23.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_23.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_18.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_18.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_18.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_18.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/7.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/7.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/7.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/7.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_17.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_17.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_17.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_17.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/5.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/5.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_14.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_14.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_14.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_14.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/2.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/2.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/1.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/1.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_21.jpg">
-          <img src="../../../../../images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_21.jpg"/>        
+        <li data-thumb="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_21.jpg">
+          <img src="/images/galleries/2005/10/22/primeiras-imagens-de-gods-of-the-virtual-boards/shot_21.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -333,6 +344,7 @@ O jogo está sendo desenvolvido pela Devworks Technology e tem previsão de lan�
     });
   });
 </script>
+
 
   </div>
 
@@ -379,20 +391,6 @@ O jogo está sendo desenvolvido pela Devworks Technology e tem previsão de lan�
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

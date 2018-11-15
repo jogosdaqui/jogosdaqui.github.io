@@ -104,6 +104,12 @@ Agora é com você marujo!
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ Agora é com você marujo!
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ Agora é com você marujo!
 <article class="post">
   <h1>Fighters of Caribbean</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -161,7 +167,7 @@ Agora é com você marujo!
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/PalmSoft_FightersOfCaribbean_logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/24/fighters-of-caribbean/PalmSoft_FightersOfCaribbean_logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos.</p>
@@ -170,7 +176,8 @@ Agora é com você marujo!
 
 <p>Agora é com você marujo!</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -178,25 +185,29 @@ Agora é com você marujo!
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_439.png">
-          <img src="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_439.png"/>        
+        <li data-thumb="/images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_439.png">
+          <img src="/images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_439.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_440.png">
-          <img src="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_440.png"/>        
+        <li data-thumb="/images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_440.png">
+          <img src="/images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_440.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_441.png">
-          <img src="../../../../../images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_441.png"/>        
+        <li data-thumb="/images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_441.png">
+          <img src="/images/galleries/2006/03/24/fighters-of-caribbean/Screenshot_441.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -218,6 +229,7 @@ Agora é com você marujo!
     });
   });
 </script>
+
 
   </div>
 
@@ -264,20 +276,6 @@ Agora é com você marujo!
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

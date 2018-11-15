@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,40 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/04/19/novidades-da-sr-games-e-estradas-esburacadas">Novidades da SR-Games e Estradas Esburacadas</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
- </center>
     
-    A SR-Games liberou algumas novidades sobre o jogo em construção Estradas Esburacadas ."…temos novidades sobre Estradas Esburacadas, agora os videos estão com o som real do jogo", afirma Sanderson, diretor de arte da SR-Games.Outra novidade é a nova sala de bate-papo no site da empresa. A sala está aberta para...
-    </div>
-
-    <a href="/2006/04/19/novidades-da-sr-games-e-estradas-esburacadas" class="read-more">Leia mais</a>
-    </article>
-
+    
     <article class="post">
 
     <h1><a href="/2006/04/18/viaje-pelo-brasil-na-tela-do-celular">Viaje pelo Brasil na tela do celular</a></h1>
@@ -156,6 +133,8 @@
     <a href="/2006/04/18/viaje-pelo-brasil-na-tela-do-celular" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/18/transit-brasil">Transit Brasil</a></h1>
@@ -173,7 +152,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/04/18/transit-brasil/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/04/18/transit-brasil/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -183,6 +162,8 @@
     <a href="/2006/04/18/transit-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/14/newsabragames-abril-2006">NewsAbragames - Abril/2006</a></h1>
@@ -201,6 +182,8 @@
     <a href="/2006/04/14/newsabragames-abril-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/13/anunciado-pinogol-3d-para-o-gametrack">Anunciado Pinogol 3D para o Gametrack</a></h1>
@@ -219,6 +202,23 @@
     <a href="/2006/04/13/anunciado-pinogol-3d-para-o-gametrack" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox">Southlogic participa de jogo para PS2 e Xbox</a></h1>
@@ -239,6 +239,8 @@
     <a href="/2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/12/memory-cube-da-fourx">Memory Cube da FourX</a></h1>
@@ -260,6 +262,8 @@
     <a href="/2006/04/12/memory-cube-da-fourx" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/11/memory-cube">Memory Cube</a></h1>
@@ -283,7 +287,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/04/11/memory-cube/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/04/11/memory-cube/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -293,6 +297,8 @@
     <a href="/2006/04/11/memory-cube" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/11/melhorias-no-jogosdaqui">Melhorias no jogosdaqui</a></h1>
@@ -311,6 +317,8 @@
     <a href="/2006/04/11/melhorias-no-jogosdaqui" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/10/quentinha-sobre-estradas-esburacadas">Quentinha sobre Estradas Esburacadas</a></h1>
@@ -329,6 +337,26 @@
     </div>
 
     <a href="/2006/04/10/quentinha-sobre-estradas-esburacadas" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/10/palestra-sobre-entretenimento-digital-na-tt">Palestra sobre Entretenimento Digital na T&T</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Para você que gosta de jogar, mas também deseja desenvolver jogos, a Technology &amp; Training uma instituição de ensino focada no desenvolvimento de jogos eletrônicos estará promovendo no dia 11/04/2006 no Rio de Janeiro uma palestra gratuíta sobre Entretenimento Digital, que estará abordando os seguintes tópicos: Que mercado &eacute; esse...
+    </div>
+
+    <a href="/2006/04/10/palestra-sobre-entretenimento-digital-na-tt" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -361,20 +389,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

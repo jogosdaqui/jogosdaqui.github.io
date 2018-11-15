@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,102 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/01/12/jet-thunder">Jet Thunder</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2006/01/12/jet-thunder/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Jet Thunder (título provisório) é um projeto de criação de um simulador de vôo realístico baseado na guerra aérea do Atlântico Sul, em 1982 - o conflito das Falklands/Malvinas. Está sendo desenvolvido por um grupo de entusiastas da aviação militar, em sua maioria localizados na América do Sul. Assim que...
-    </div>
-
-    <a href="/2006/01/12/jet-thunder" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/01/10/reestruturacao-na-hoplon">Reestruturação na Hoplon</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Como de costume, tenho boas e más notícias que gostaria de partilhar com vocês, nossos maiores apoiadores, em primeira mão. Em resumo, a excelente notícia é que nós, junto com nosso investidor, estamos renovando nosso compromisso de não colocar o Taikodom no mercado exceto como um produto de excelente qualidade...
-    </div>
-
-    <a href="/2006/01/10/reestruturacao-na-hoplon" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/01/06/metablocks">Metablocks</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2006/01/06/metablocks/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Divirta-se testanto sua coordenação e seu raciocínio lógico com esse jogo simples e eletrizante. Baseado no clássico “Tetris”, traz consigo várias e interessantes inovações. Metablocks é um jogo do gênero “puzzle”, onde o jogador manipula blocos (peças) coloridos em uma plataforma bidimensional de 16 por 16 posições, em dois modos...
-    </div>
-
-    <a href="/2006/01/06/metablocks" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/01/06/ano-novo-jogos-novos">Ano novo, jogos novos</a></h1>
@@ -218,6 +133,8 @@
     <a href="/2006/01/06/ano-novo-jogos-novos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/02/os-conquistadores">Os Conquistadores</a></h1>
@@ -246,6 +163,8 @@
     <a href="/2006/01/02/os-conquistadores" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/01/02/feliz-2006">Feliz 2006</a></h1>
@@ -267,6 +186,8 @@ Feliz 2006
     <a href="/2006/01/02/feliz-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/26/volei-de-praia">Vôlei de Praia</a></h1>
@@ -286,7 +207,7 @@ Feliz 2006
     
   
     
-      <img src="../../../../../images/galleries/2005/12/26/volei-de-praia/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/26/volei-de-praia/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -296,6 +217,23 @@ Feliz 2006
     <a href="/2005/12/26/volei-de-praia" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/12/22/taikodom-faz-ajustes-finais">Taikodom faz ajustes finais</a></h1>
@@ -314,6 +252,8 @@ Feliz 2006
     <a href="/2005/12/22/taikodom-faz-ajustes-finais" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/22/novos-jogos-da-green-land-studios">Novos jogos da Green Land Studios</a></h1>
@@ -340,6 +280,8 @@ Você já pode conferir os dois jogos na galeria do jogosdaqui: Bate-Rebate
     <a href="/2005/12/22/novos-jogos-da-green-land-studios" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/12/22/domino-chines">Dominó Chinês</a></h1>
@@ -353,7 +295,7 @@ Você já pode conferir os dois jogos na galeria do jogosdaqui: Bate-Rebate
     
   
     
-      <img src="../../../../../images/galleries/2005/12/22/domino-chines/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/22/domino-chines/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -361,6 +303,88 @@ Você já pode conferir os dois jogos na galeria do jogosdaqui: Bate-Rebate
     </div>
 
     <a href="/2005/12/22/domino-chines" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/22/bate-rebate">Bate-Rebate</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/12/22/bate-rebate/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D. Utilizando das muitas possibilidades que as novas dimensões trazem ao jogo, o estilo Arkanoid ganha um novo fôlego e inúmeras novas combinações para a jogabilidade, um exemplo disto...
+    </div>
+
+    <a href="/2005/12/22/bate-rebate" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/21/palmsoft-drag-racer">PalmSoft Drag Racer</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    PalmSoft Drag Racer é um jogo para celular onde o jogador disputa corridas de arrancadas com carros turbinados. Neste jogo da PalmSoft, com previsão de lançamento para janeiro de 2006, você poderá turbinar seu carro para ganhar as corridas e conseguir mais dinheiro para comprar outros carros e acessórios. Confira...
+    </div>
+
+    <a href="/2005/12/21/palmsoft-drag-racer" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/12/21/iniciam-as-vendas-do-bola-de-gude">Iniciam as vendas do Bola de Gude</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A produtora ICON Games colocou à venda o jogo Bola de Gude
+.
+
+A versão completa do jogo pode ser comprada diretamente pela internet neste link
+.
+
+    </div>
+
+    <a href="/2005/12/21/iniciam-as-vendas-do-bola-de-gude" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -393,20 +417,6 @@ Você já pode conferir os dois jogos na galeria do jogosdaqui: Bate-Rebate
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

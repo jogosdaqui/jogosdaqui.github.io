@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Universo Games 2006</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -151,7 +157,8 @@
  </center>
     <p>Universo Games Senac 2006 é um dos mais importantes eventos voltados para usuários de games, estudantes e profissionais das áreas de Comunicação, Artes, Tecnologia e Educação inseridos no mercado de games. <br /><br />A programação inclui um circuito de palestras, mesas redondas e oficinas que abordarão os mais diversos temas relacionados à Convergência dos Games – Jogos on-line.<br /><br />Conheça o futuro dos games, visite a exposição, participe das oficinas e assista às palestras.<br /><br />* <strong>Quando</strong>:  Período de 14 a 19 de agosto de 2006<br />Segunda a sexta-feira das 14h às 22h<br />Sábado das 10h às 16h<br /><br />Onde: Senac São Paulo - Unidade Lapa Tito<br />Rua: Tito, nº 54 - Vila Romana<br />05051-000 – São Paulo – SP<br />Telefone: (0xx11) 3868-6900<br />Fax: (0xx11) 3868-6988 <br /> <br />Mais informações em:  <a href="http://www.ead.sp.senac.br/hotsite/universogames2006/" target="_blank">http://www.ead.sp.senac.br/hotsite/universogames2006/</a></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -159,9 +166,8 @@
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -207,20 +213,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

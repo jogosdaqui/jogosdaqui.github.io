@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,107 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/10/13/futsim">FutSim</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/10/13/futsim/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    O FutSim é um jogo online onde o usuário assume o papel de um técnico de um clube de futebol. Único jogo do gênero no mundo onde os usuários podem ver as suas partidas ao vivo, também é o primeiro jogo com milhares de jogadores simultâneos (massively multiplayer online game)...
-    </div>
-
-    <a href="/2005/10/13/futsim" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/10/13/crimson-after-dusk">Crimson After Dusk</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/10/13/crimson-after-dusk/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Você é Alef Gusev, um vampiro que quase foi morto na guerra contra os homens-lobo. Muito ferido, você só sobreviveu graças a ajuda de um vampiro estrangeiro chamado Lord Vladistoff. Ele comandou um ataque massivo que destruiu os rebeldes do clã dos homens-lobo, trazendo ao país uma era de harmonia...
-    </div>
-
-    <a href="/2005/10/13/crimson-after-dusk" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/10/12/banana-joe">Banana Joe</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/10/12/banana-joe/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Bem vindo à floresta tropical! Banana Joe entrou numa fria por causa de uma gatinha, ou melhor, gorila, e agora você terá que ajudá-lo a sair dessa! Seu objetivo é se defender dos gorilas da tribo do pai de Kaya. Será que vale apanhar por uma bela gorila? Defenda-se dos...
-    </div>
-
-    <a href="/2005/10/12/banana-joe" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/10/11/jogo-da-meantime-em-voos-internacionais">Jogo da Meantime em voos internacionais</a></h1>
@@ -223,6 +133,8 @@
     <a href="/2005/10/11/jogo-da-meantime-em-voos-internacionais" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/11/adventures-of-zaak-the-little-wiz">Adventures of Zaak - The Little Wiz</a></h1>
@@ -242,7 +154,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/11/adventures-of-zaak-the-little-wiz/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -252,6 +164,8 @@
     <a href="/2005/10/11/adventures-of-zaak-the-little-wiz" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/10/whiskeria-paradiso">Whiskeria Paradiso</a></h1>
@@ -280,6 +194,8 @@
     <a href="/2005/10/10/whiskeria-paradiso" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/10/rc-racing">R/C Racing</a></h1>
@@ -297,7 +213,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/10/rc-racing/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/10/rc-racing/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -307,6 +223,23 @@
     <a href="/2005/10/10/rc-racing" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/10/10/ganhadores-da-terceira-semana">Ganhadores da terceira semana</a></h1>
@@ -325,6 +258,8 @@
     <a href="/2005/10/10/ganhadores-da-terceira-semana" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/10/adventures-of-zaak-em-tres-continentes">Adventures of Zaak em três continentes</a></h1>
@@ -343,6 +278,8 @@
     <a href="/2005/10/10/adventures-of-zaak-em-tres-continentes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/07/progoal">ProGoal</a></h1>
@@ -358,7 +295,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/07/progoal/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/07/progoal/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -366,6 +303,83 @@
     </div>
 
     <a href="/2005/10/07/progoal" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/06/cataclism">Cataclism</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/10/06/cataclism/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    A organização terrorista Soldados do Apocalipse ameaçou o planeta  com  uma poderosa arma de  destruição em  massa e VOCÊ é o  único piloto capaz de  parar este  terrível plano. Nesta missão você vai enfrentar  toda  frota terrorista e evitar a  ameaça da  arma de destruição  em massa. Para ajudar na...
+    </div>
+
+    <a href="/2005/10/06/cataclism" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/06/arena-de-rodeio">Arena de Rodeio</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    SEGUUUUUURA PEÃO!!! Chegou a oportunidade que você esperava, de mostrar pras “Marias Breteiras” da sua rua quanta injustiça nunca terem te convidado pra Festa de Barretos. Este desafio na “Arena de Rodeio” está pronto pra inserção de logomarcas de empresas e começar a divertir novos “vaqueiros virtuais”, em “Game Zones”...
+    </div>
+
+    <a href="/2005/10/06/arena-de-rodeio" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/05/curtas-do-dia">Curtas do dia...</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Ontem foi lançado mais um jogo da TILT online, o Vudugame. Ele já se encontra disponível na nossa listagem, confira! No site do Erinia , a partir de agora, é possível saber o rank e a quantidade de pontos de guerra de seu personagem. Para isso, basta acessar a seção...
+    </div>
+
+    <a href="/2005/10/05/curtas-do-dia" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -398,20 +412,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

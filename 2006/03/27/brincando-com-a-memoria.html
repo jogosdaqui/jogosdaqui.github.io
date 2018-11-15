@@ -95,6 +95,12 @@ Confira algumas imagens
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@ Confira algumas imagens
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@ Confira algumas imagens
 <article class="post">
   <h1>Brincando com a Memória</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -161,7 +167,8 @@ Confira algumas imagens
     <p>Brincando com a Memória é um jogo da memória educacional ecológico. Nele o jogador ajuda o guarda florestal Carlos a organizar suas cartas antes que os bandidos prendam os animais. Ao acertar um par de cartas o jogador pode acessar uma curiosidade sobre o bichinho apenas clicando sobre a carta. Desenvolvido e distribuido pela XD Soft.<br /><a href="http://www.xdsoft.com.br/"><br />Visite o site aqui</a>
 <br /><br />Confira algumas imagens<br /></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -169,25 +176,29 @@ Confira algumas imagens
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_465.png">
-          <img src="../../../../../images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_465.png"/>        
+        <li data-thumb="/images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_465.png">
+          <img src="/images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_465.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_466.png">
-          <img src="../../../../../images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_466.png"/>        
+        <li data-thumb="/images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_466.png">
+          <img src="/images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_466.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_464.png">
-          <img src="../../../../../images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_464.png"/>        
+        <li data-thumb="/images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_464.png">
+          <img src="/images/galleries/2006/03/27/brincando-com-a-memoria/Screenshot_464.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -209,6 +220,7 @@ Confira algumas imagens
     });
   });
 </script>
+
 
   </div>
 
@@ -253,20 +265,6 @@ Confira algumas imagens
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

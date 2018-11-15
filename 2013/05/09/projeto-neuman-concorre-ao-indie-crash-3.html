@@ -104,6 +104,12 @@ Essa é apresentação do projeto de pesquisa onde o psicólogo e doutorando da 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -119,20 +125,6 @@ Essa é apresentação do projeto de pesquisa onde o psicólogo e doutorando da 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -153,7 +145,21 @@ Essa é apresentação do projeto de pesquisa onde o psicólogo e doutorando da 
 <article class="post">
   <h1>Projeto Neuman concorre ao Indie Crash 3</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -175,7 +181,8 @@ Essa é apresentação do projeto de pesquisa onde o psicólogo e doutorando da 
 <p>Gostou do projeto? Então <a href="http://goo.gl/2SO9T" target="_blank">entre no Indie Crash e vote!</a></p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -183,21 +190,25 @@ Essa é apresentação do projeto de pesquisa onde o psicólogo e doutorando da 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3/ProjetoNeuman.png">
-          <img src="../../../../../images/galleries/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3/ProjetoNeuman.png"/>        
+        <li data-thumb="/images/galleries/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3/ProjetoNeuman.png">
+          <img src="/images/galleries/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3/ProjetoNeuman.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3/NeuroGamesLogo.png">
-          <img src="../../../../../images/galleries/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3/NeuroGamesLogo.png"/>        
+        <li data-thumb="/images/galleries/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3/NeuroGamesLogo.png">
+          <img src="/images/galleries/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3/NeuroGamesLogo.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -219,6 +230,7 @@ Essa é apresentação do projeto de pesquisa onde o psicólogo e doutorando da 
     });
   });
 </script>
+
 
   </div>
 
@@ -263,20 +275,6 @@ Essa é apresentação do projeto de pesquisa onde o psicólogo e doutorando da 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

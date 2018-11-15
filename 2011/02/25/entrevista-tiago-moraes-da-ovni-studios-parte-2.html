@@ -131,6 +131,12 @@ Tem mais novidade vindo por ai?
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -146,20 +152,6 @@ Tem mais novidade vindo por ai?
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -180,7 +172,21 @@ Tem mais novidade vindo por ai?
 <article class="post">
   <h1>Entrevista: Tiago Moraes da Ovni Studios (parte 2)</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -188,7 +194,7 @@ Tem mais novidade vindo por ai?
 <center>
   
     
-      <img src="../../../../../images/galleries/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p><a href="http://twitter.com/#!/own1e">@own1e</a> em colaboração para o jogosdaqui.</p>
@@ -215,7 +221,8 @@ Tem mais novidade vindo por ai?
   <p>Tiago Moraes:  A iniciativa do portal de vocês é interessante, parece que vai ser um canal muito legal dos jogos desenvolvidos aqui no Brasil. Não existe alguém que dê uma atenção especial pros jogos desenvolvidos aqui, que comece essas iniciativas de falar sobre o desenvolvimento nacional. Nós somos carentes de um canal especializado que fale de jogos feitos aqui, e com isso a gente passa a ter um canal para investir, soltar releases e não só olhar para fora. Essa barreira está caindo e a gente precisa desse canal de imprensa especializada, para que consigamos trabalhar com foco no Brasil.</p>
 </blockquote>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -223,9 +230,8 @@ Tem mais novidade vindo por ai?
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -281,20 +287,6 @@ Tem mais novidade vindo por ai?
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,40 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/04/10/palestra-sobre-entretenimento-digital-na-tt">Palestra sobre Entretenimento Digital na T&T</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
- </center>
     
-    Para você que gosta de jogar, mas também deseja desenvolver jogos, a Technology &amp; Training uma instituição de ensino focada no desenvolvimento de jogos eletrônicos estará promovendo no dia 11/04/2006 no Rio de Janeiro uma palestra gratuíta sobre Entretenimento Digital, que estará abordando os seguintes tópicos: Que mercado &eacute; esse...
-    </div>
-
-    <a href="/2006/04/10/palestra-sobre-entretenimento-digital-na-tt" class="read-more">Leia mais</a>
-    </article>
-
+    
     <article class="post">
 
     <h1><a href="/2006/04/09/oa-games-inicia-a-fase-beta-de-gamegol">OÂ² Games inicia a fase beta de GameGol</a></h1>
@@ -158,6 +135,8 @@
     <a href="/2006/04/09/oa-games-inicia-a-fase-beta-de-gamegol" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/09/lancamento-gamegol-beta">Lançamento GameGol beta</a></h1>
@@ -176,6 +155,8 @@
     <a href="/2006/04/09/lancamento-gamegol-beta" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/08/lance-livre">Lance Livre</a></h1>
@@ -187,7 +168,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/04/08/lance-livre/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/04/08/lance-livre/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -198,6 +179,8 @@
     <a href="/2006/04/08/lance-livre" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/04/04/brincando-com-a-memoria">Brincando com a Memória</a></h1>
@@ -217,6 +200,23 @@
     <a href="/2006/04/04/brincando-com-a-memoria" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/03/31/senninha-racing">Senninha Racing</a></h1>
@@ -232,7 +232,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/31/senninha-racing/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/31/senninha-racing/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -242,6 +242,8 @@
     <a href="/2006/03/31/senninha-racing" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/30/jogosbr-prazo-final">JogosBR, prazo final</a></h1>
@@ -262,54 +264,8 @@
     <a href="/2006/03/30/jogosbr-prazo-final" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2006/03/30/infobrasil-ti-telecom">InfoBrasil TI & Telecom</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
     
     
-    
-        
-            
-            
-&lt;/span&gt; 
-
-            
-        
-    &lt;/tbody&gt;
-
-
-    </div>
-
-    <a href="/2006/03/30/infobrasil-ti-telecom" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/30/evento-infobrasil-ti-telecom">Evento InfoBrasil TI & Telecom</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Este ano acontece a XXXII edição da InfoBrasil TI &amp; Telecom, no período de 10 a 13 de Abril, no Centro de Negócios do Sebrae-CE.Saiba mais…
-
-    </div>
-
-    <a href="/2006/03/30/evento-infobrasil-ti-telecom" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/03/29/estradas-esburacadas-mostra-seus-carros">Estradas Esburacadas mostra seus carros</a></h1>
@@ -350,6 +306,69 @@
     <a href="/2006/03/29/estradas-esburacadas-mostra-seus-carros" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/28/entrevista-palmsoft-tecnologia">Entrevista PalmSoft Tecnologia</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A PalmSoft Tecnologia é uma empresa catarinense desenvolvedora de inúmeros jogos para celular, entre eles estão: os famosos Crimson After Dusk e PalmSoft Drag Racer. O jogosdaqui entrevistou Dennis Kerr Coelho, 25 anos, diretor técnico da PalmSoft Tecnologia. Como surgiu a empresa? Dennis: A PalmSoft surgiu em 2002, e, inicialmente,...
+    </div>
+
+    <a href="/2006/03/28/entrevista-palmsoft-tecnologia" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/27/primeiro-brasileiro-no-espaco">Primeiro brasileiro no espaço</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Para celebrar a primeira viagem espacial de um brasileiro, protagonizada por Marcos Pontes no próximo 30 de março, preparamos uma lista dos jogos que também nos levam ao espaço.Confira o especial…
+
+    </div>
+
+    <a href="/2006/03/27/primeiro-brasileiro-no-espaco" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/27/primeiras-imagens-de-capoeira">Primeiras imagens de Capoeira</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Capoeira, um dos 8 projetos vencedores para o desenvolvimento de uma demo jogável do JogosBR 2004, mostra suas primeiras imagens.Confira…
+
+
+    </div>
+
+    <a href="/2006/03/27/primeiras-imagens-de-capoeira" class="read-more">Leia mais</a>
+    </article>
+
 </div>
 
 <!-- Pagination links -->
@@ -380,20 +399,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

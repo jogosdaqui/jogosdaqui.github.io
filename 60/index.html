@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,96 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/10/18/rain-of-fire">Rain of Fire</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-      <img src="../../../../../images/galleries/2005/10/18/rain-of-fire/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Num passado longínquo, Piros, o deus do fogo, apaixona-se por uma camponesa da vila de Valfa. Mas Jasmin trai sua confiança caindo de amores por um mortal. Com sede de vingança, Piros lança uma maldição: a cada 500 anos os Dragões Vermelhos cospem fogo afim de destruir o povoado. O...
-    </div>
-
-    <a href="/2005/10/18/rain-of-fire" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/10/18/preservacao">PreservAÇÃO</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/10/18/preservacao/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Utilize sua Inteligência! Salve o Planeta Terra! Teste aqui seus conhecimentos sobre preservação ambiental. Este desafio “PreservAÇÃO” está pronto pra inserção de logomarcas de empresas e começar a divertir novos “gênios”, em “Game Zones” montados em feiras do setor agropecuário e ser distribuído em CD’s ou por “download” da internet...
-    </div>
-
-    <a href="/2005/10/18/preservacao" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/10/18/meu-big-brother">Meu Big Brother</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    Meu Big Brother é um jogo baseado no reality show de maior audiência da televisão brasileira: Big Brother Brasil. O jogo interage em tempo real com o programa, podendo ser influenciado pelos eventos da casa. Os jogadores devem escolher um big brother para tomar conta, mantendo-o sempre limpo, bem-humorado, dando...
-    </div>
-
-    <a href="/2005/10/18/meu-big-brother" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/10/17/ultimos-ganhadores">Últimos ganhadores</a></h1>
@@ -222,6 +143,8 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     <a href="/2005/10/17/ultimos-ganhadores" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online">Projeto experimental de Software Livre da TILT online</a></h1>
@@ -240,6 +163,8 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     <a href="/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/15/riding-ground">Riding Ground</a></h1>
@@ -290,6 +215,8 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     <a href="/2005/10/15/riding-ground" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/15/die-ponyrancher">Die Ponyrancher</a></h1>
@@ -309,7 +236,7 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     
   
     
-      <img src="../../../../../images/galleries/2005/10/15/die-ponyrancher/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/15/die-ponyrancher/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -319,6 +246,23 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     <a href="/2005/10/15/die-ponyrancher" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/10/14/molecula">Molécula</a></h1>
@@ -338,7 +282,7 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     
   
     
-      <img src="../../../../../images/galleries/2005/10/14/molecula/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/14/molecula/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -348,6 +292,8 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     <a href="/2005/10/14/molecula" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/14/abragames-lanca-newsletter-mensal">Abragames lança newsletter mensal</a></h1>
@@ -366,6 +312,8 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     <a href="/2005/10/14/abragames-lanca-newsletter-mensal" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/13/shadows-of-malquidious">Shadows of Malquidious</a></h1>
@@ -383,7 +331,7 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     
   
     
-      <img src="../../../../../images/galleries/2005/10/13/shadows-of-malquidious/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/13/shadows-of-malquidious/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -391,6 +339,97 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     </div>
 
     <a href="/2005/10/13/shadows-of-malquidious" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/13/futsim">FutSim</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/10/13/futsim/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    O FutSim é um jogo online onde o usuário assume o papel de um técnico de um clube de futebol. Único jogo do gênero no mundo onde os usuários podem ver as suas partidas ao vivo, também é o primeiro jogo com milhares de jogadores simultâneos (massively multiplayer online game)...
+    </div>
+
+    <a href="/2005/10/13/futsim" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/13/crimson-after-dusk">Crimson After Dusk</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/10/13/crimson-after-dusk/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Você é Alef Gusev, um vampiro que quase foi morto na guerra contra os homens-lobo. Muito ferido, você só sobreviveu graças a ajuda de um vampiro estrangeiro chamado Lord Vladistoff. Ele comandou um ataque massivo que destruiu os rebeldes do clã dos homens-lobo, trazendo ao país uma era de harmonia...
+    </div>
+
+    <a href="/2005/10/13/crimson-after-dusk" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/12/banana-joe">Banana Joe</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+      <img src="/images/galleries/2005/10/12/banana-joe/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Bem vindo à floresta tropical! Banana Joe entrou numa fria por causa de uma gatinha, ou melhor, gorila, e agora você terá que ajudá-lo a sair dessa! Seu objetivo é se defender dos gorilas da tribo do pai de Kaya. Será que vale apanhar por uma bela gorila? Defenda-se dos...
+    </div>
+
+    <a href="/2005/10/12/banana-joe" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -423,20 +462,6 @@ Cada ganhador receberá 1 número serial Gold oferecido pela TILT online.
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

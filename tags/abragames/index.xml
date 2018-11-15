@@ -3,7 +3,7 @@
  <title>Your Title - abragames</title>
  <link href="http://example.com/tags/abragames/index.xml" rel="self"/>
  <link href="http://example.com/tag/abragames.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/abragames.html</id>
  <author>
    <name>Author Here</name>
@@ -78,7 +78,17 @@
    <link href="http://example.com/2013/06/13/documentario-industria-de-games-no-brasil"/>
    <updated>2013-06-13T00:00:00-03:00</updated>
    <id>http://example.com/2013/06/13/documentario-industria-de-games-no-brasil</id>
-   <content type="html">&lt;p&gt;O vídeo tem cerca 30 minutos e conta com a participação de Jeferson Valadares (EA Games), Carla Denise Castanho (Organizadora do SBGames 2012), Moacir Avelino Alves Junior (Presidente da ACI Games), Cleber Cristiano Prodanov (Secretário de Ciência, Inovação e Desenvolvimento Tecnológio do RS), Fred Vasconcelos (Vice presidente de Relações Institucionais da Abragames), Marsal Alves Branco (Coordenador do curso de Jogos Digitais da Feevale) e Juliano Alves (Gerente de Marketing da Intel Brasil).&lt;/p&gt;
+   <content type="html">&lt;p&gt;O vídeo tem cerca 30 minutos e conta com a participação de:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jeferson Valadares (EA Games)&lt;/li&gt;
+  &lt;li&gt;Carla Denise Castanho (Organizadora do SBGames 2012)&lt;/li&gt;
+  &lt;li&gt;Moacir Avelino Alves Junior (Presidente da ACI Games)&lt;/li&gt;
+  &lt;li&gt;Cleber Cristiano Prodanov (Secretário de Ciência, Inovação e Desenvolvimento Tecnológio do RS)&lt;/li&gt;
+  &lt;li&gt;Fred Vasconcelos (Vice presidente de Relações Institucionais da Abragames)&lt;/li&gt;
+  &lt;li&gt;Marsal Alves Branco (Coordenador do curso de Jogos Digitais da Feevale)&lt;/li&gt;
+  &lt;li&gt;Juliano Alves (Gerente de Marketing da Intel Brasil)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/GdFwB0y3s7M &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;

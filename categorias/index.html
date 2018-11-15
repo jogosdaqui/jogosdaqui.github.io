@@ -87,6 +87,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -102,24 +108,7 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1>Categorias</h1>
-
   <div class="entry">
     <ul>
     
@@ -136,13 +125,11 @@
         
             <li><a href="/2015/10/07/zombiezoid-zenith">ZombieZoid - Zenith</a></li>
         
+            <li><a href="/2015/09/25/pixuleco-o-jogo">Pixuleco - O Jogo</a></li>
+        
             <li><a href="/2015/09/09/rock-life">Rock Life</a></li>
         
             <li><a href="/2015/08/26/reord">ReOrd</a></li>
-        
-            <li><a href="/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada">Horizon Chase se aproxima do grid de largada</a></li>
-        
-            <li><a href="/2015/07/31/teaser-de-gameplay-de-horizon-chase">Teaser de gameplay de Horizon Chase</a></li>
         
             <li><a href="/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar">A Cidade Dos Que Descem Pela Escada: Terceiro Andar</a></li>
         
@@ -152,21 +139,21 @@
         
             <li><a href="/2015/05/20/sky-high-chickens">Sky High Chickens</a></li>
         
-            <li><a href="/2015/05/16/crystal-catcher-ganha-versao-para-android">Crystal Catcher ganha versão para Android</a></li>
+            <li><a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games">Starlit Adventures, novo lançamento da Rockhead Games</a></li>
         
-            <li><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a></li>
-        
-            <li><a href="/2015/04/30/qubyte-interactive-produzindo-novo-game">QUByte Interactive produzindo novo game</a></li>
+            <li><a href="/2015/05/13/space-lander">Space Lander</a></li>
         
             <li><a href="/2015/04/28/phoenix-force">Phoenix Force</a></li>
-        
-            <li><a href="/2015/04/23/lancado-a-demo-de-turbolink">Lançada a demo de TurboLink</a></li>
         
             <li><a href="/2015/04/10/calango-for-kids">Calango For Kids</a></li>
         
             <li><a href="/2015/04/08/tank-invaders">Tank Invaders</a></li>
         
             <li><a href="/2015/03/26/letra-de-ouro">Letra de Ouro</a></li>
+        
+            <li><a href="/2013/06/17/v-de-vinagre">V de Vinagre</a></li>
+        
+            <li><a href="/2013/05/13/biotest">BioTest</a></li>
         
             <li><a href="/2013/04/18/michel-telo-no-mundo">Michel Teló no Mundo</a></li>
         
@@ -178,7 +165,11 @@
         
             <li><a href="/2012/10/30/crystal-catcher">Crystal Catcher</a></li>
         
+            <li><a href="/2012/08/08/hipercubo">Hipercubo</a></li>
+        
             <li><a href="/2012/02/06/mahjong-max">Mahjong Max</a></li>
+        
+            <li><a href="/2011/10/14/blluby">BLLUBY</a></li>
         
             <li><a href="/2007/01/18/plush-poison">Plush Poison</a></li>
         
@@ -520,23 +511,21 @@
         
             <li><a href="/2015/09/30/xmile-e-playmove-firmam-parceria">Xmile e Playmove firmam parceria</a></li>
         
-            <li><a href="/2015/09/25/pixuleco-o-jogo">Pixuleco - O Jogo</a></li>
-        
             <li><a href="/2015/09/04/ballistic-overkill-devtalk-02">Ballistic Overkill - DevTalk #02</a></li>
         
             <li><a href="/2015/08/31/streaming-de-odallus-the-dark-call-no-twitch">Streaming de Odallus - The Dark call no Twitch</a></li>
         
             <li><a href="/2015/08/29/games-brasileiros-em-crowdfunding">Games brasileiros em crowdfunding</a></li>
         
-            <li><a href="/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs">Game brasileiro Paper Cat ajuda ONGs</a></li>
-        
-            <li><a href="/2015/08/20/racketboy-da-double-dash-studios">RacketBoy da Double Dash Studios</a></li>
-        
             <li><a href="/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos">Bundle de 30 games brasileiros totalmente gratuitos</a></li>
+        
+            <li><a href="/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada">Horizon Chase se aproxima do grid de largada</a></li>
         
             <li><a href="/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado">Chroma Squad Tactical RPG #004 - Potencial Ilimitado</a></li>
         
             <li><a href="/2015/08/06/games-brasileiros-com-desconto">Games brasileiros com desconto</a></li>
+        
+            <li><a href="/2015/07/31/teaser-de-gameplay-de-horizon-chase">Teaser de gameplay de Horizon Chase</a></li>
         
             <li><a href="/2015/07/31/crowdfunding-de-99vidas-o-jogo">Crowdfunding de 99Vidas o jogo</a></li>
         
@@ -580,11 +569,13 @@
         
             <li><a href="/2015/05/18/playthrough-chroma-squad-tactical-rpg-001">Playthrough Chroma Squad - Tactical RPG #001</a></li>
         
-            <li><a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games">Starlit Adventures, novo lançamento da Rockhead Games</a></li>
+            <li><a href="/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015">Games brasileiros finalistas no BIG Festival 2015</a></li>
+        
+            <li><a href="/2015/05/16/crystal-catcher-ganha-versao-para-android">Crystal Catcher ganha versão para Android</a></li>
+        
+            <li><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a></li>
         
             <li><a href="/2015/05/14/demo-reel-da-odin-game-studio">Demo Reel da Odin Game Studio</a></li>
-        
-            <li><a href="/2015/05/13/space-lander">Space Lander</a></li>
         
             <li><a href="/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim">Campanha do TurboLink no Collective está chegando ao fim</a></li>
         
@@ -600,6 +591,8 @@
         
             <li><a href="/2015/05/03/toren-ganha-trailer-de-lancamento">Toren ganha trailer de lançamento</a></li>
         
+            <li><a href="/2015/04/30/qubyte-interactive-produzindo-novo-game">QUByte Interactive produzindo novo game</a></li>
+        
             <li><a href="/2015/04/30/chroma-squad-no-steam-o-dia-chegou">Chroma Squad no Steam, o dia chegou</a></li>
         
             <li><a href="/2015/04/29/labindie-divulga-jogo-indie-milford-heaven">Labindie divulga jogo indie Milford Heaven</a></li>
@@ -609,6 +602,8 @@
             <li><a href="/2015/04/28/infografico-quantos-games-brasileiros-voce-ja-jogou">Infográfico "Quantos games brasileiros você já jogou?"</a></li>
         
             <li><a href="/2015/04/24/trailer-de-lancamento-de-chroma-squad">Trailer de lançamento de Chroma Squad</a></li>
+        
+            <li><a href="/2015/04/23/lancado-a-demo-de-turbolink">Lançada a demo de TurboLink</a></li>
         
             <li><a href="/2015/04/21/museu-do-videogame-itinerante">Museu do videogame Itinerante</a></li>
         
@@ -664,6 +659,8 @@
         
             <li><a href="/2014/05/04/super-flappy-soccer-ball">Super Flappy Soccer Ball</a></li>
         
+            <li><a href="/2014/05/02/mr-bree-no-steam">Mr. Bree+ no Steam</a></li>
+        
             <li><a href="/2014/04/30/sos-mata-atlantica-o-jogo">SOS Mata Atlântica - O Jogo</a></li>
         
             <li><a href="/2014/04/28/dash-games">DASH GAMES</a></li>
@@ -674,6 +671,8 @@
         
             <li><a href="/2013/06/20/swamp-adventure">Swamp Adventure</a></li>
         
+            <li><a href="/2013/06/13/documentario-industria-de-games-no-brasil">Documentário "Indústria de Games no Brasil"</a></li>
+        
             <li><a href="/2013/06/10/soccer-free-kicks">Soccer Free Kicks</a></li>
         
             <li><a href="/2013/06/03/demo-do-mr-bree-no-greenlight">Demo do Mr. Bree+ no Greenlight</a></li>
@@ -683,8 +682,6 @@
             <li><a href="/2013/05/27/campanha-do-soulbinder-no-catarse">Campanha do Soulbinder no Catarse</a></li>
         
             <li><a href="/2013/05/20/master-of-words">Master of Words</a></li>
-        
-            <li><a href="/2013/05/13/biotest">BioTest</a></li>
         
             <li><a href="/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3">Projeto Neuman concorre ao Indie Crash 3</a></li>
         
@@ -726,6 +723,8 @@
         
             <li><a href="/2012/11/07/vrum-aprendendo-sobre-o-transito">VRUM - Aprendendo sobre o trânsito</a></li>
         
+            <li><a href="/2012/10/26/bgs-2012-alcanca-100-000-visitantes">BGS 2012 alcança 100.000 visitantes</a></li>
+        
             <li><a href="/2012/10/17/bubblin-2">Bubblin</a></li>
         
             <li><a href="/2012/10/11/shuffle-puzzle-2">Shuffle Puzzle</a></li>
@@ -745,8 +744,6 @@
             <li><a href="/2012/01/13/joga-brasil">Joga Brasil</a></li>
         
             <li><a href="/2012/01/05/zigball">Zigball</a></li>
-        
-            <li><a href="/2011/10/14/blluby">BLLUBY</a></li>
         
             <li><a href="/2011/09/19/mega-drop-chiclets-evolution">Mega Drop Chiclets Evolution</a></li>
         
@@ -769,6 +766,8 @@
             <li><a href="/2011/01/21/jules-unboxing-the-world">Jules: Unboxing the World</a></li>
         
             <li><a href="/2011/01/07/memomax">MemoMax</a></li>
+        
+            <li><a href="/2010/12/31/os-fatos-do-ano-2">Os fatos do ano</a></li>
         
             <li><a href="/2010/12/27/dodgeball-safari">Dodgeball Safari</a></li>
         
@@ -916,9 +915,7 @@
         
             <li><a href="/2006/05/22/jogosbr-2005-2006-lista-de-projetos">JogosBR 2005/2006, lista de projetos</a></li>
         
-            <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo &#39;150 jogos daqui&#39;</a></li>
-        
-            <li><a href="/2006/05/18/150-jogos-daqui">150 jogos daqui</a></li>
+            <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a></li>
         
             <li><a href="/2006/05/17/taikodom-alfa-teste-2006">Taikodom, Alfa Teste 2006</a></li>
         
@@ -1254,13 +1251,9 @@
         
             <li><a href="/2015/09/02/concurso-souking-power-up">Concurso Souking - Power UP</a></li>
         
-            <li><a href="/2015/08/24/odallus-the-dark-call-primeiras-impressoes">Odallus - The Dark Call: primeiras impressões</a></li>
-        
             <li><a href="/2015/06/12/1o-minas-games-festival">1º Minas Games Festival</a></li>
         
             <li><a href="/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia">VIII Gamepad – Seminário de Games e Tecnologia</a></li>
-        
-            <li><a href="/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015">Games brasileiros finalistas no BIG Festival 2015</a></li>
         
             <li><a href="/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao">XIII SEJA (Semana de Entretenimento, Jogos e  Animação)</a></li>
         
@@ -1276,27 +1269,15 @@
         
             <li><a href="/2015/03/24/spjam-2015">SPJam 2015</a></li>
         
-            <li><a href="/2014/05/02/mr-bree-no-steam">Mr. Bree+ no Steam</a></li>
-        
             <li><a href="/2013/06/24/inscricoes-abertas-para-o-spjam-2013">Inscrições abertas para o SPJam 2013</a></li>
         
-            <li><a href="/2013/06/17/v-de-vinagre">V de Vinagre</a></li>
-        
-            <li><a href="/2013/06/13/documentario-industria-de-games-no-brasil">Documentário "Indústria de Games no Brasil"</a></li>
-        
             <li><a href="/2013/05/06/spjam-2013">SPJam 2013</a></li>
-        
-            <li><a href="/2012/10/26/bgs-2012-alcanca-100-000-visitantes">BGS 2012 alcança 100.000 visitantes</a></li>
-        
-            <li><a href="/2012/08/08/hipercubo">Hipercubo</a></li>
         
             <li><a href="/2012/06/07/spjam-2012">SPJam 2012</a></li>
         
             <li><a href="/2011/05/23/gamecraft-2011">GameCraft 2011</a></li>
         
             <li><a href="/2011/01/27/global-game-jam-2011-comeca-amanha">Global Game Jam 2011 começa amanhã</a></li>
-        
-            <li><a href="/2010/12/31/os-fatos-do-ano-2">Os fatos do ano</a></li>
         
             <li><a href="/2006/12/08/palestra-sobre-esquadrao-zumbi">Palestra sobre Esquadrão Zumbi</a></li>
         
@@ -1309,10 +1290,6 @@
             <li><a href="/2006/05/10/egr-ecossistema-de-games-do-recife">EGR (Ecossistema de games do Recife)</a></li>
         
             <li><a href="/2006/04/10/palestra-sobre-entretenimento-digital-na-tt">Palestra sobre Entretenimento Digital na T&T</a></li>
-        
-            <li><a href="/2006/03/30/infobrasil-ti-telecom">InfoBrasil TI & Telecom</a></li>
-        
-            <li><a href="/2006/03/30/evento-infobrasil-ti-telecom">Evento InfoBrasil TI & Telecom</a></li>
         
             <li><a href="/2005/12/14/palestra-pequeno-guardiao-do-tempo">Palestra Pequeno Guardião do Tempo</a></li>
         
@@ -1339,6 +1316,10 @@
     
         <li><a name="Preview">Preview</a>
         <ul>
+        
+            <li><a href="/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs">Game brasileiro Paper Cat ajuda ONGs</a></li>
+        
+            <li><a href="/2015/08/20/racketboy-da-double-dash-studios">RacketBoy da Double Dash Studios</a></li>
         
             <li><a href="/2015/07/30/previa-de-relic-hunters-zero">Prévia de Relic Hunters Zero</a></li>
         
@@ -1494,6 +1475,8 @@
         
             <li><a href="/2015/09/14/imagens-da-semana-13">Imagens da semana #13</a></li>
         
+            <li><a href="/2015/08/24/odallus-the-dark-call-primeiras-impressoes">Odallus - The Dark Call: primeiras impressões</a></li>
+        
             <li><a href="/2015/07/16/toren-primeiras-impresoes">Toren: primeiras impressões</a></li>
         
             <li><a href="/2015/06/22/imagens-da-semana-12">Imagens da semana #12</a></li>
@@ -1502,7 +1485,7 @@
         
             <li><a href="/2015/06/11/checkpoint-9">Checkpoint #9</a></li>
         
-            <li><a href="/2015/06/08/imagens-da-semana-10">Imagens da semana 10</a></li>
+            <li><a href="/2015/06/08/imagens-da-semana-10">Imagens da semana #10</a></li>
         
             <li><a href="/2015/06/01/imagens-da-semana-9">Imagens da semana #9</a></li>
         
@@ -1549,20 +1532,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a></h1>
@@ -131,7 +126,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -141,6 +136,8 @@
     <a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games">Starlit Adventures, novo lançamento da Rockhead Games</a></h1>
@@ -152,16 +149,18 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
-    Starlit Adventures é o novo game da gaúcha Rockhead Games , de jogos como Master of Words e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a Southlogic Studios, famosa por games como Guimo e Trophy Hunter 2003 . Lançamento...
+    Starlit Adventures é o novo game da gaúcha Rockhead Games, de jogos como Master of Words e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a Southlogic Studios, famosa por games como Guimo e Trophy Hunter 2003. Lançamento mundial A...
     </div>
 
     <a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/14/demo-reel-da-odin-game-studio">Demo Reel da Odin Game Studio</a></h1>
@@ -173,7 +172,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/14/demo-reel-da-odin-game-studio/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/14/demo-reel-da-odin-game-studio/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -183,6 +182,8 @@
     <a href="/2015/05/14/demo-reel-da-odin-game-studio" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/14/checkpoint-6">Checkpoint #6</a></h1>
@@ -201,6 +202,23 @@
     <a href="/2015/05/14/checkpoint-6" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/05/13/space-lander">Space Lander</a></h1>
@@ -226,15 +244,18 @@
     
   
     
-  
+      <img src="/images/galleries/2015/05/13/space-lander/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
-    [sc:Quote text=”Ground control to Major Tom Ground control to Major Tom Take your protein pills and put your helmet on Ground control to Major Tom Commencing countdown, engines on Check ignition, and may God’s love be with you” ] Assim começa a famosa música Space Oddity do cantor David Bowie,...
+    Ground control to Major Tom Ground control to Major Tom Take your protein pills and put your helmet on Ground control to Major Tom Commencing countdown, engines on Check ignition, and may God’s love be with you Assim começa a famosa música Space Oddity do cantor David Bowie, mesma música...
     </div>
 
     <a href="/2015/05/13/space-lander" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/13/promocao-do-game-space-lander">Promoção do game Space Lander</a></h1>
@@ -253,6 +274,8 @@
     <a href="/2015/05/13/promocao-do-game-space-lander" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio">Prévia de Horizon Chase da Aquiris Game Studio</a></h1>
@@ -275,12 +298,14 @@
   
  </center>
     
-    Antes de ler qualquer coisa sobre Horizon Chase , ouça a trilha sonora abaixo: Top Gear feelings! Certo? Quando no início do ano a Aquiris Game Studio anunciou que estaria trabalhando em um novo projeto para os amantes de games como Lotus Turbo Challenge, Outrun, Top Gear e Lamborghini American...
+    Antes de ler qualquer coisa sobre Horizon Chase, ouça a trilha sonora abaixo: Top Gear feelings! Certo? Quando no início do ano a Aquiris Game Studio anunciou que estaria trabalhando em um novo projeto para os amantes de games como Lotus Turbo Challenge, Outrun, Top Gear e Lamborghini American Challenge,...
     </div>
 
     <a href="/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren">Entrevista: Alessandro Martinello, diretor criativo de Toren</a></h1>
@@ -299,6 +324,8 @@
     <a href="/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/11/imagens-da-semana-6">Imagens da semana #6</a></h1>
@@ -325,20 +352,16 @@
   
     
   
-    
-  
-    
-  
-    
-  
  </center>
     
-    #1 Desenho da artista Amora B. para Haggis, protagonista do game Odallus da brasileira JoyMasher” #2 Pessoal da gaúcha CupCake Sweet Entertainment em Miami no evento eMerge Americas” #3 Equipe da Kimeric Labs marcando presença no evento Brasil Gets Unreal edição Rio de Janeiro” #4 Fan art de Rodrigo Mesquita...
+    #1 Desenho da artista Amora B. para Haggis, protagonista do game Odallus da brasileira JoyMasher #2 Pessoal da gaúcha CupCake Sweet Entertainment em Miami no evento eMerge Americas #3 Equipe da Kimeric Labs marcando presença no evento Brasil Gets Unreal edição Rio de Janeiro #4 Fan art de Rodrigo Mesquita...
     </div>
 
     <a href="/2015/05/11/imagens-da-semana-6" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim">Campanha do TurboLink no Collective está chegando ao fim</a></h1>
@@ -387,20 +410,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

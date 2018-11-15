@@ -119,6 +119,12 @@ Agora você pode ficar craque na bola de gude, sem ter que passar as tardes joga
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -134,20 +140,6 @@ Agora você pode ficar craque na bola de gude, sem ter que passar as tardes joga
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -168,7 +160,21 @@ Agora você pode ficar craque na bola de gude, sem ter que passar as tardes joga
 <article class="post">
   <h1>Bola de Gude</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -192,7 +198,7 @@ Agora você pode ficar craque na bola de gude, sem ter que passar as tardes joga
     
   
     
-      <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/21/bola-de-gude/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Você ainda joga bola de gude com a galera do bairro ou se lembra de quando fazia isso na infância?
@@ -206,7 +212,8 @@ Agora você pode fazer isso, sentado na frente do seu PC.</p>
 
 <p>Agora você pode ficar craque na bola de gude, sem ter que passar as tardes jogando na rua, com o jogo Bola de Gude você pode fazer isso da tela do seu computador.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -214,49 +221,53 @@ Agora você pode fazer isso, sentado na frente do seu PC.</p>
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_5.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_5.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_7.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_7.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_7.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_7.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_1.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_1.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_6.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_6.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_3.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_3.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_4.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_4.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_9.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_9.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_9.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_9.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_8.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_8.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_8.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_8.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_2.jpg">
-          <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_2.jpg">
+          <img src="/images/galleries/2005/11/21/bola-de-gude/IconGames_BolaDeGude_2.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -278,6 +289,7 @@ Agora você pode fazer isso, sentado na frente do seu PC.</p>
     });
   });
 </script>
+
 
   </div>
 
@@ -324,20 +336,6 @@ Agora você pode fazer isso, sentado na frente do seu PC.</p>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

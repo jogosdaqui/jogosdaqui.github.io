@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,7 +110,96 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
+      <article class="page">
+  <div class="entry">
+    <div class="posts">
+ 
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/11/21/newsabragames-novembro-2006">NewsAbragames Novembro/2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    No ar a edição de novembro da newsletter da Abragames. Neste mês a NewsAbragames inaugura um novo formato, mais interativo, proporcionando um contato maior entre a Abragames e os jogadores.Nesta edição uma review do jogo Ottomax da Insolita Studios , também veja como participar do Prêmio Criatividade no Combate à...
+    </div>
+
+    <a href="/2006/11/21/newsabragames-novembro-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/11/16/hoplon-apresenta-taikodom-em-portugal">Hoplon apresenta Taikodom em Portugal</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    No maior evento de ficção científica em língua portuguesa, Gerson Lodi-Ribeiro, um dos criadores do universo ficcional do Taikodom, e Tarqüínio Teles, presidente da Hoplon, vão apresentar o único projeto 100% brasileiro que mistura jogo, texto literário e história em quadrinhos. Nos próximos dias 16, 17, 18 e 19 de...
+    </div>
+
+    <a href="/2006/11/16/hoplon-apresenta-taikodom-em-portugal" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/10/17/southlogic-scooby-doo-whos-watching-who">Southlogic, Scooby-Doo! Who&#39;s Watching Who?</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A Southlogic Studios anunciou o lançamento mundial do jogo Scooby-Doo! Who’s Watching Who? para a plataforma PSP (PlayStation Portable). O game, publicado pela THQ e licenciado pela gigante de entretenimento mundial Warner Bros Interactive Entertainment, está disponível para venda nos Estados Unidos. O desenvolvimento do game foi feito pela Savage...
+    </div>
+
+    <a href="/2006/10/17/southlogic-scooby-doo-whos-watching-who" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/09/29/sbgames-2006-em-recife">SBGames 2006 em Recife</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A edição 2006 do evento que se consolidou como o maior evento do país para pesquisadores e desenvolvedores de jogos será realizada em Recife entre os dias 08 e 10 de novembro.Se você quer conhecer mais sobre como os jogos eletrônicos são produzidos, não pode perder a SBGames.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/09/29/sbgames-2006-em-recife" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -118,13 +213,7 @@
 </script>
 
 <br> 
-      <article class="page">
-
-  <h1></h1>
-
-  <div class="entry">
-    <div class="posts">
-
+    
     <article class="post">
 
     <h1><a href="/2006/09/22/jogos-da-palmsoft-na-brt-gsm-e-oi">Jogos da PalmSoft na BrT GSM e Oi</a></h1>
@@ -143,6 +232,8 @@
     <a href="/2006/09/22/jogos-da-palmsoft-na-brt-gsm-e-oi" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/21/aniversario-do-jogosdaqui-1-ano-de-muitos-jogos-nacionais">Aniversário do jogosdaqui, 1 ano de muitos jogos nacionais</a></h1>
@@ -161,6 +252,8 @@
     <a href="/2006/09/21/aniversario-do-jogosdaqui-1-ano-de-muitos-jogos-nacionais" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/19/oitava-era-de-ryudragon">Oitava Era de Ryudragon</a></h1>
@@ -186,6 +279,8 @@
     <a href="/2006/09/19/oitava-era-de-ryudragon" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/18/prorrogado-o-lancamento-de-danger-mission">Prorrogado o Lançamento de Danger Mission</a></h1>
@@ -206,6 +301,8 @@
     <a href="/2006/09/18/prorrogado-o-lancamento-de-danger-mission" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/15/newsabragames-setembro-2006">NewsAbragames Setembro/2006</a></h1>
@@ -224,6 +321,8 @@
     <a href="/2006/09/15/newsabragames-setembro-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/12/thoroughbred-tycoon-da-espaco-informatica">Thoroughbred Tycoon da Espaço Informática</a></h1>
@@ -240,80 +339,6 @@
     </div>
 
     <a href="/2006/09/12/thoroughbred-tycoon-da-espaco-informatica" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/09/06/mais-uma-previa-esquadrao-zumbi">Mais uma Prévia: Esquadrão Zumbi</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Quer ser um membro da polícia paulistana e ajudar a acabar com a onda de violência atual?Se você respondeu que sim, então precisa ler a prévia de Esquadrão Zumbi, jogo em desenvolvimento pela Edward Multmídia onde o jogador estará na pele de um membro da elite da polícia paulistana.Leia mais…...
-    </div>
-
-    <a href="/2006/09/06/mais-uma-previa-esquadrao-zumbi" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/08/25/programa-in-games">Programa IN Games</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Um programa de TV, sobre jogos eletrônicos, totalmente transmitido pela internet, essa é a proposta do programa In Games da INTERATIVAWEBTV.Leia mais…
-
-
-    </div>
-
-    <a href="/2006/08/25/programa-in-games" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/08/25/programa-in-games-na-grade-da-interativawebtv">Programa IN Games na grade da INTERATIVAWEBTV</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Um bate-papo dinâmico com a participação do público conectado ao chat será destaque na programação.É inegável o fato de que o mercado de games no Brasil tem a capacidade de crescer ainda mais. No entanto, já atraiu vários investimentos para o país. Porém, ainda não é o suficiente. Os olhos...
-    </div>
-
-    <a href="/2006/08/25/programa-in-games-na-grade-da-interativawebtv" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/08/25/newsabragames-agosto-2006">NewsAbragames Agosto/2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Mais uma edição da newsletter da Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) está disponível no site da associação.Em agosto a newsletter tem matérias sobre o jogo da Cidadania da Ene Solutions, Games Convention 2006, destaques na mídia, cursos e agendas para os próximos dias.A newsletter está disponível neste...
-    </div>
-
-    <a href="/2006/08/25/newsabragames-agosto-2006" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -349,20 +374,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

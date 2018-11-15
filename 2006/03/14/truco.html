@@ -92,6 +92,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -107,20 +113,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -141,7 +133,21 @@
 <article class="post">
   <h1>Truco</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -159,12 +165,13 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/03/14/truco/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/03/14/truco/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>O Truco do portal Gametrack é um jogo singleplayer que segue todas as regras do truco real.<br /><br />O jogo tem um charme especial por aliar um famoso jogo de carta com um estilo mais jovem. A trilha sonora, as imagens e animações seguem este estilo.<br /><br />No jogo você disputa as partidas contra uma dupla de jogadores controlados pelo computador e tem um parceiro de dupla, também controlado pelo computador, para realizar as jogadas.<br /><br />Todos os lances do truco estão no jogo. O jogador pode pedir truco e até passar dicas de como está a sua "mão" para o parceiro da dupla.<br /><br />Cada lance decisivo é acompanhado por uma animação dos jogadores da mesa..</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -172,37 +179,41 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2006/03/14/truco/Screenshot_420.png">
-          <img src="../../../../../images/galleries/2006/03/14/truco/Screenshot_420.png"/>        
+        <li data-thumb="/images/galleries/2006/03/14/truco/Screenshot_420.png">
+          <img src="/images/galleries/2006/03/14/truco/Screenshot_420.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/14/truco/Screenshot_415.png">
-          <img src="../../../../../images/galleries/2006/03/14/truco/Screenshot_415.png"/>        
+        <li data-thumb="/images/galleries/2006/03/14/truco/Screenshot_415.png">
+          <img src="/images/galleries/2006/03/14/truco/Screenshot_415.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/14/truco/Screenshot_416.png">
-          <img src="../../../../../images/galleries/2006/03/14/truco/Screenshot_416.png"/>        
+        <li data-thumb="/images/galleries/2006/03/14/truco/Screenshot_416.png">
+          <img src="/images/galleries/2006/03/14/truco/Screenshot_416.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/14/truco/Screenshot_417.png">
-          <img src="../../../../../images/galleries/2006/03/14/truco/Screenshot_417.png"/>        
+        <li data-thumb="/images/galleries/2006/03/14/truco/Screenshot_417.png">
+          <img src="/images/galleries/2006/03/14/truco/Screenshot_417.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/14/truco/Screenshot_418.png">
-          <img src="../../../../../images/galleries/2006/03/14/truco/Screenshot_418.png"/>        
+        <li data-thumb="/images/galleries/2006/03/14/truco/Screenshot_418.png">
+          <img src="/images/galleries/2006/03/14/truco/Screenshot_418.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2006/03/14/truco/Screenshot_419.png">
-          <img src="../../../../../images/galleries/2006/03/14/truco/Screenshot_419.png"/>        
+        <li data-thumb="/images/galleries/2006/03/14/truco/Screenshot_419.png">
+          <img src="/images/galleries/2006/03/14/truco/Screenshot_419.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -224,6 +235,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -272,20 +284,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

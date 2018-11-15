@@ -95,6 +95,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -110,20 +116,6 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -144,7 +136,21 @@
 <article class="post">
   <h1>Gold Hunter</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -156,7 +162,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/11/03/gold-hunter/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/03/gold-hunter/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Em Gold Hunter você estará na pele de um explorador em um ambiente urbano dominado pelo caos, onde sua missão e único objetivo é conseguir a maior quantidade de barras de ouro que encontrar pelo caminho pra garantir a sua sobrevivência. Você não está sozinho neste mundo hostil: ele guarda perigos e desafia suas habilidades em meio a labirintos, onde o inesperado está sempre por vir e robôs inimigos estão programados para lhe capturar.</p>
@@ -171,7 +177,8 @@
 </ul>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -179,29 +186,33 @@
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/gold-hunter/goldHunter2.gif">
-          <img src="../../../../../images/galleries/2005/11/03/gold-hunter/goldHunter2.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/03/gold-hunter/goldHunter2.gif">
+          <img src="/images/galleries/2005/11/03/gold-hunter/goldHunter2.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/gold-hunter/goldHunter3.gif">
-          <img src="../../../../../images/galleries/2005/11/03/gold-hunter/goldHunter3.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/03/gold-hunter/goldHunter3.gif">
+          <img src="/images/galleries/2005/11/03/gold-hunter/goldHunter3.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/gold-hunter/goldHunter5.gif">
-          <img src="../../../../../images/galleries/2005/11/03/gold-hunter/goldHunter5.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/03/gold-hunter/goldHunter5.gif">
+          <img src="/images/galleries/2005/11/03/gold-hunter/goldHunter5.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/11/03/gold-hunter/goldHunter4.gif">
-          <img src="../../../../../images/galleries/2005/11/03/gold-hunter/goldHunter4.gif"/>        
+        <li data-thumb="/images/galleries/2005/11/03/gold-hunter/goldHunter4.gif">
+          <img src="/images/galleries/2005/11/03/gold-hunter/goldHunter4.gif"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -223,6 +234,7 @@
     });
   });
 </script>
+
 
   </div>
 
@@ -267,20 +279,6 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

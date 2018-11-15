@@ -110,6 +110,12 @@ Em parceria com a brasileira OvniStudios
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -125,20 +131,6 @@ Em parceria com a brasileira OvniStudios
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -159,7 +151,21 @@ Em parceria com a brasileira OvniStudios
 <article class="post">
   <h1>SOS Mata Atlântica - O Jogo</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -203,7 +209,8 @@ e também <a href="http://apps.facebook.com/sosmataatlantica" target="_blank">Fa
 
 <p><span style="font-size: x-small;">&gt; (press-release)</span></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -211,29 +218,33 @@ e também <a href="http://apps.facebook.com/sosmataatlantica" target="_blank">Fa
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0005.png">
-          <img src="../../../../../images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0005.png"/>        
+        <li data-thumb="/images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0005.png">
+          <img src="/images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0005.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0001.png">
-          <img src="../../../../../images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0001.png"/>        
+        <li data-thumb="/images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0001.png">
+          <img src="/images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0001.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0003.png">
-          <img src="../../../../../images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0003.png"/>        
+        <li data-thumb="/images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0003.png">
+          <img src="/images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0003.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0002.png">
-          <img src="../../../../../images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0002.png"/>        
+        <li data-thumb="/images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0002.png">
+          <img src="/images/galleries/2014/04/30/sos-mata-atlantica-o-jogo/SOS_screen_shots_ipad0002.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -255,6 +266,7 @@ e também <a href="http://apps.facebook.com/sosmataatlantica" target="_blank">Fa
     });
   });
 </script>
+
 
   </div>
 
@@ -307,20 +319,6 @@ e também <a href="http://apps.facebook.com/sosmataatlantica" target="_blank">Fa
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

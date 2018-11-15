@@ -122,6 +122,12 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -137,20 +143,6 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -171,7 +163,21 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
 <article class="post">
   <h1>Entrevista: Claudio Lins</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -197,7 +203,7 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
 </blockquote>
 
 <center>
-        <img src="../../../../images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg " />
+        <img src="/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg " />
       </center>
 <center><span style="font-style:italic; font-size:small">Riding Ground, game desenvolvido pela Preloud </span></center>
 
@@ -212,7 +218,7 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
 </blockquote>
 
 <center>
-        <img src="../../../../images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png " />
+        <img src="/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png " />
       </center>
 <center><span style="font-style:italic; font-size:small">Doomed'n Damned </span></center>
 
@@ -246,7 +252,7 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
 </blockquote>
 
 <center>
-        <img src="../../../../images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png " />
+        <img src="/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png " />
       </center>
 <center><span style="font-style:italic; font-size:small">Super Doomed'n Damned </span></center>
 
@@ -275,7 +281,8 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
   <p>Não acho que os jogos nacionais devem tentar se espelhar nos Norte Americanos, nos AAA ou nos Japoneses. Mas sim continuar com essa identidade que eles estão criando de jogos indie com estilo e foco. Posso citar alguns amigos como o pessoal da Joymasher, Behold, entre outros estúdios que estão fazendo muita coisa legal. A ideia não é dominar o mundo com um mega titulo, a ideia é conquistar um espaço e um nicho fiel. É nisso que eu acredito.</p>
 </blockquote>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -283,25 +290,29 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png">
-          <img src="../../../../../images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png"/>        
+        <li data-thumb="/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png">
+          <img src="/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg">
-          <img src="../../../../../images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg"/>        
+        <li data-thumb="/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg">
+          <img src="/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png">
-          <img src="../../../../../images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png"/>        
+        <li data-thumb="/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png">
+          <img src="/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -323,6 +334,7 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
     });
   });
 </script>
+
 
   </div>
 
@@ -399,20 +411,6 @@ Fale um pouco da tua trajetória, como chegaste ao gamedev?
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

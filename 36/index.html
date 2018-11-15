@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,100 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2006/05/12/estradas-esburacadas-a-toda-velocidade">Estradas Esburacadas a toda velocidade</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
     
-  
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    A SR-Games liberou dezenas de imagens e dois novos vídeos sobre o jogo Estradas Esburacadas. Os novos vídeos mostram o parque Ibirapuera e as possibilidades de câmeras do jogo. Veja os vídeos neste link . Confiras as novas imagens que demonstram vários efeitos do jogo, como por exemplo o reflexo...
-    </div>
-
-    <a href="/2006/05/12/estradas-esburacadas-a-toda-velocidade" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2006/05/11/penalty-cup">Penalty Cup</a></h1>
@@ -213,7 +130,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/05/11/penalty-cup/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/05/11/penalty-cup/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -223,6 +140,8 @@
     <a href="/2006/05/11/penalty-cup" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/11/cobranca-de-penaltis-no-celular">Cobrança de pênaltis no celular</a></h1>
@@ -245,6 +164,8 @@
     <a href="/2006/05/11/cobranca-de-penaltis-no-celular" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005">Prévia: Incorporated, demo do JogosBR 2004/2005</a></h1>
@@ -265,6 +186,8 @@
     <a href="/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/novo-video-de-estradas-esburacadas">Novo vídeo de Estradas Esburacadas</a></h1>
@@ -299,6 +222,23 @@
     <a href="/2006/05/10/novo-video-de-estradas-esburacadas" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/inscricoes-encerradas-no-jogosbr">Inscrições encerradas no JogosBR</a></h1>
@@ -319,6 +259,8 @@
     <a href="/2006/05/10/inscricoes-encerradas-no-jogosbr" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/incorporated">Incorporated</a></h1>
@@ -361,6 +303,8 @@
     <a href="/2006/05/10/incorporated" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/evento-egr-ecossistema-de-games-do-recife">Evento: EGR (Ecossistema de games do Recife)</a></h1>
@@ -381,6 +325,8 @@
     <a href="/2006/05/10/evento-egr-ecossistema-de-games-do-recife" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/10/egr-ecossistema-de-games-do-recife">EGR (Ecossistema de games do Recife)</a></h1>
@@ -399,6 +345,8 @@
     <a href="/2006/05/10/egr-ecossistema-de-games-do-recife" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/05/08/imagemacao-do-gametrack">Imagem&Ação do Gametrack</a></h1>
@@ -419,6 +367,26 @@
     </div>
 
     <a href="/2006/05/08/imagemacao-do-gametrack" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/05/08/gamegol-oficial-para-junho">GameGol oficial para junho</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A O² Games anunciou para junho o lançamento da versão oficial de GameGol .No momento o GameGol está em fase beta e a empresa acaba de liberar os convites para participar desta fase. O jogador que deseja entrar no GameGol, deve apenas acessar o site do jogo e fazer o...
+    </div>
+
+    <a href="/2006/05/08/gamegol-oficial-para-junho" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -451,20 +419,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

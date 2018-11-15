@@ -116,6 +116,12 @@ O objetivo é simples: levar o bichinho Jules, uma espécie de coelho que carreg
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -131,20 +137,6 @@ O objetivo é simples: levar o bichinho Jules, uma espécie de coelho que carreg
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -165,7 +157,21 @@ O objetivo é simples: levar o bichinho Jules, uma espécie de coelho que carreg
 <article class="post">
   <h1>Jules: Unboxing the World</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -199,7 +205,8 @@ Não se deixe levar pelo nome estranho: Jules: Unboxing the World é mais divert
  trazer apenas algumas poucas informações sobre o jogo, sem qualquer referência a quem o produziu ou sobre outros projetos do estúdio. Apareçam, caras, queremos conhecer vocês.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -207,21 +214,25 @@ Não se deixe levar pelo nome estranho: Jules: Unboxing the World é mais divert
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2011/01/21/jules-unboxing-the-world/JulesUnboxingTheWorld_Jules.png">
-          <img src="../../../../../images/galleries/2011/01/21/jules-unboxing-the-world/JulesUnboxingTheWorld_Jules.png"/>        
+        <li data-thumb="/images/galleries/2011/01/21/jules-unboxing-the-world/JulesUnboxingTheWorld_Jules.png">
+          <img src="/images/galleries/2011/01/21/jules-unboxing-the-world/JulesUnboxingTheWorld_Jules.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2011/01/21/jules-unboxing-the-world/mzl.fdiakprk.480x480-75.jpg">
-          <img src="../../../../../images/galleries/2011/01/21/jules-unboxing-the-world/mzl.fdiakprk.480x480-75.jpg"/>        
+        <li data-thumb="/images/galleries/2011/01/21/jules-unboxing-the-world/mzl.fdiakprk.480x480-75.jpg">
+          <img src="/images/galleries/2011/01/21/jules-unboxing-the-world/mzl.fdiakprk.480x480-75.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -243,6 +254,7 @@ Não se deixe levar pelo nome estranho: Jules: Unboxing the World é mais divert
     });
   });
 </script>
+
 
   </div>
 
@@ -293,20 +305,6 @@ Não se deixe levar pelo nome estranho: Jules: Unboxing the World é mais divert
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

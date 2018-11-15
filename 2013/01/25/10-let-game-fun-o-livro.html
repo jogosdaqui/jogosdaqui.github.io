@@ -167,6 +167,12 @@ O conteúdo é dinâmico, ou seja, os primeiros capítulos começam a ser public
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -182,20 +188,6 @@ O conteúdo é dinâmico, ou seja, os primeiros capítulos começam a ser public
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -216,7 +208,21 @@ O conteúdo é dinâmico, ou seja, os primeiros capítulos começam a ser public
 <article class="post">
   <h1>10 LET GAME$ = "FUN" (o livro)</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -224,7 +230,7 @@ O conteúdo é dinâmico, ou seja, os primeiros capítulos começam a ser public
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/01/25/10-let-game-fun-o-livro/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/01/25/10-let-game-fun-o-livro/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p><a href="http://pt.wikipedia.org/wiki/Renato_Degiovani" target="_blank">Renato Degiovani</a>
@@ -254,7 +260,8 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
 <p>O conteúdo é dinâmico, ou seja, os primeiros capítulos começam a ser publicados agora; foi feito para ser lido online no seu micro, pad ou pod preferido. Tudo grátis.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -262,9 +269,8 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -314,20 +320,6 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

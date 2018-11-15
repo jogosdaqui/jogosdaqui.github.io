@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,76 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
-
-    <article class="post">
-
-    <h1><a href="/2005/11/23/game-party">Game Party</a></h1>
-
-    <div class="entry">
-     
  
 
-<center>
-  
- </center>
     
-    Se você mora em São Paulo e gostaria de conhecer os criadores de jogos brasileiros, então não perca a oportunidade de ir a Games Party, uma festa organizada pela ABRAGAMES (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) e patrocinada pela GameTV. “A festa vai acontecer na melhor balada da Zona...
-    </div>
-
-    <a href="/2005/11/23/game-party" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/23/decifre-a-garatuja-lancamento">Decifre a Garatuja - lançamento</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
     
-    A TILT online colocou à disposição dos assinantes do club TILT, portadores do serial GOLD, Tool Key ou Playon licenciado o seu mais novo lançamento: o jogo Garatuja, integrado ao sistema Gameshop. O propósito do jogo é “descobrir” ou tentar “adivinhar” a frase ou palavra escolhida por um jogador, baseado...
-    </div>
-
-    <a href="/2005/11/23/decifre-a-garatuja-lancamento" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/23/100-jogos-daqui">100 jogos daqui</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    É com grande satisfação que anunciamos a chegada à marca de 100 jogos nacionais cadastrados no jogosdaqui. Gostaríamos de parabenizar todos os criadores e distribuidores de jogos nacionais, pois, sem duvida, é com o trabalho sério e dedicado que levam a diversão para os jogadores deste Brasil. Esperamos que você,...
-    </div>
-
-    <a href="/2005/11/23/100-jogos-daqui" class="read-more">Leia mais</a>
-    </article>
-
     <article class="post">
 
     <h1><a href="/2005/11/22/gametrack-ganha-mais-2-jogos">Gametrack ganha mais 2 jogos</a></h1>
@@ -199,6 +140,8 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
     <a href="/2005/11/22/gametrack-ganha-mais-2-jogos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/21/seja-um-profissional-da-industria-de-jogos">Seja um profissional da indústria de jogos</a></h1>
@@ -217,6 +160,8 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
     <a href="/2005/11/21/seja-um-profissional-da-industria-de-jogos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/21/pesquisa-de-game-design">Pesquisa de Game Design</a></h1>
@@ -235,6 +180,8 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
     <a href="/2005/11/21/pesquisa-de-game-design" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/21/nishi-aqua-fight">Nishi Aqua Fight</a></h1>
@@ -263,6 +210,23 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
     <a href="/2005/11/21/nishi-aqua-fight" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/11/21/bola-de-gude">Bola de Gude</a></h1>
@@ -290,7 +254,7 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
     
   
     
-      <img src="../../../../../images/galleries/2005/11/21/bola-de-gude/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/21/bola-de-gude/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -300,6 +264,8 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
     <a href="/2005/11/21/bola-de-gude" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/19/pato-possante">Pato Possante</a></h1>
@@ -313,7 +279,7 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
     
   
     
-      <img src="../../../../../images/galleries/2005/11/19/pato-possante/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/19/pato-possante/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -323,6 +289,8 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
     <a href="/2005/11/19/pato-possante" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/19/acompanhe-o-taikodom-na-egs">Acompanhe o Taikodom na EGS</a></h1>
@@ -347,6 +315,81 @@ Leia mais sobre o Taikodom…
     </div>
 
     <a href="/2005/11/19/acompanhe-o-taikodom-na-egs" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/18/the-game-producer">The Game Producer</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+      <img src="/images/galleries/2005/11/18/the-game-producer/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Pensando em ser um desenvolvedor de jogos para computador? Pretente entrar no mercado e ficar milionário? Quer se tornar um grande empresário do ramo? Então, antes de torrar seu suado dinheirinho, teste seu potencial como presidente de uma empresa de jogos neste incrível simulador de produtora de games, o The...
+    </div>
+
+    <a href="/2005/11/18/the-game-producer" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/18/pre-lancamento-the-game-producer-2-0">Pré lançamento - The Game Producer 2.0</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    A TILT online colocou hoje à disposição dos assinantes do club TILT, portadores do serial GOLd, Tool Key ou Playon licenciado a nova versão do jogo/simulador The Game Producer (2.0), integrado ao sistema Gameshop da TILT. Os jogadores sem licença oficial do jogo poderão jogá-lo normalmente, apenas não tendo acesso...
+    </div>
+
+    <a href="/2005/11/18/pre-lancamento-the-game-producer-2-0" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha">Dois jogos brasileiros no TOP 20 da Alemanha</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Seguindo a trajetória de outros jogos brasileiros lançados na Alemanha, Der Pferderennstall, da Espaço Informática e Die Pferdebande da Oniria Entertainment , continuam no TOP 20 da Alemanha. Der Pferderennstall há mais de 9 meses não sai do TOP 20 e agora se encontra no 15º lugar e Die Pferdebande,...
+    </div>
+
+    <a href="/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -379,20 +422,6 @@ Leia mais sobre o Taikodom…
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

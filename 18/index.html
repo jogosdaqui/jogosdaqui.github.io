@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/05/30/invasao-dos-sleans">Invasão dos Sleans</a></h1>
@@ -144,6 +139,8 @@
     <a href="/2013/05/30/invasao-dos-sleans" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/05/27/campanha-do-soulbinder-no-catarse">Campanha do Soulbinder no Catarse</a></h1>
@@ -155,7 +152,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/05/27/campanha-do-soulbinder-no-catarse/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/05/27/campanha-do-soulbinder-no-catarse/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -165,6 +162,8 @@
     <a href="/2013/05/27/campanha-do-soulbinder-no-catarse" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/05/20/master-of-words">Master of Words</a></h1>
@@ -182,7 +181,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/05/20/master-of-words/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/05/20/master-of-words/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -192,6 +191,8 @@
     <a href="/2013/05/20/master-of-words" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/05/13/biotest">BioTest</a></h1>
@@ -207,7 +208,8 @@
     
   
     
-  
+      <img src="/images/galleries/2013/05/13/biotest/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      
  </center>
     
     BioTest foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP. Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile. BioTest é...
@@ -216,6 +218,23 @@
     <a href="/2013/05/13/biotest" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3">Projeto Neuman concorre ao Indie Crash 3</a></h1>
@@ -238,6 +257,8 @@
     <a href="/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/05/06/spjam-2013">SPJam 2013</a></h1>
@@ -249,7 +270,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/05/06/spjam-2013/SPJam2013_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/05/06/spjam-2013/SPJam2013_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -259,6 +280,8 @@
     <a href="/2013/05/06/spjam-2013" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/05/02/mr-bree-no-greenlight">Mr. Bree+ no Greenlight</a></h1>
@@ -274,7 +297,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/05/02/mr-bree-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/05/02/mr-bree-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -284,6 +307,8 @@
     <a href="/2013/05/02/mr-bree-no-greenlight" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/04/29/dragon-raid">Dragon Raid</a></h1>
@@ -297,7 +322,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2013/04/29/dragon-raid/DragonRaid_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/29/dragon-raid/DragonRaid_logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -307,6 +332,8 @@
     <a href="/2013/04/29/dragon-raid" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/04/25/dino-jump">Dino Jump</a></h1>
@@ -318,7 +345,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/04/25/dino-jump/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/25/dino-jump/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -328,6 +355,8 @@
     <a href="/2013/04/25/dino-jump" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls">Tiny butterflies e Skeletons Go Through Walls</a></h1>
@@ -339,7 +368,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -379,20 +408,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

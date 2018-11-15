@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/07/fan-arts-de-chroma-squad">Fan arts de Chroma Squad</a></h1>
@@ -151,12 +143,14 @@
   
  </center>
     
-    Com o grande lançamento de Chroma Squad no último dia 30, surgiram diversas imagens feitas por jogadores que aguardavam ansiosamente pelo game. O jogosdaqui selecionou as mais bonitas. Confira! Fan arts de Chroma Squad [caption id=”attachment_2666” align=”aligncenter” width=”600”] Washington Rayk - https://twitter.com/beholdstudios/status/580081873419788288 [/caption] [caption id=”attachment_2651” align=”aligncenter” width=”640”] Tamyres Iracet -...
+    Com o grande lançamento de Chroma Squad no último dia 30, surgiram diversas imagens feitas por jogadores que aguardavam ansiosamente pelo game. O jogosdaqui selecionou as mais bonitas. Confira! Fan arts de Chroma Squad Washington Rayk - https://twitter.com/beholdstudios/status/580081873419788288 Tamyres Iracet - https://twitter.com/TamyresIracet/status/593470007348228098 Dex Drakon - https://twitter.com/beholdstudios/status/593491602582183936 Betu - https://twitter.com/betuiau/status/593505782877917185 Memosky...
     </div>
 
     <a href="/2015/05/07/fan-arts-de-chroma-squad" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits">Revelado novo game da QUByte Interactive: Recruits</a></h1>
@@ -168,7 +162,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -178,6 +172,8 @@
     <a href="/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/05/03/toren-ganha-trailer-de-lancamento">Toren ganha trailer de lançamento</a></h1>
@@ -196,6 +192,46 @@
     <a href="/2015/05/03/toren-ganha-trailer-de-lancamento" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/04/30/qubyte-interactive-produzindo-novo-game">QUByte Interactive produzindo novo game</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2015/04/30/qubyte-interactive-produzindo-novo-game/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    A paulista QUByte Interactive, conhecida pelo jogo HTR+, anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U. Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou apenas...
+    </div>
+
+    <a href="/2015/04/30/qubyte-interactive-produzindo-novo-game" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/04/30/chroma-squad-no-steam-o-dia-chegou">Chroma Squad no Steam, o dia chegou</a></h1>
@@ -214,6 +250,8 @@
     <a href="/2015/04/30/chroma-squad-no-steam-o-dia-chegou" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/29/labindie-divulga-jogo-indie-milford-heaven">Labindie divulga jogo indie Milford Heaven</a></h1>
@@ -236,6 +274,8 @@
     <a href="/2015/04/29/labindie-divulga-jogo-indie-milford-heaven" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/29/emerge-americas-tera-a-participacao-da-cupcake">eMerge Americas terá a participação da Cupcake</a></h1>
@@ -246,14 +286,18 @@
 
 <center>
   
+    
+  
  </center>
     
-    A gaúcha Cupcake Sweet Entertainment, que já apareceu aqui no jogosdaqui com o jogo Letra de Ouro, foi selecionada para participar do eMerge Americas, mega-evento de tecnologia que acontece entre os dias 1 e 5 de maio de 2015 em Miami, nos Estados Unidos. [caption id=”attachment_493” align=”aligncenter” width=”300”] Letra de...
+    A gaúcha Cupcake Sweet Entertainment, que já apareceu aqui no jogosdaqui com o jogo Letra de Ouro, foi selecionada para participar do eMerge Americas, mega-evento de tecnologia que acontece entre os dias 1 e 5 de maio de 2015 em Miami, nos Estados Unidos. Letra de Ouro, um dos games...
     </div>
 
     <a href="/2015/04/29/emerge-americas-tera-a-participacao-da-cupcake" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/28/infografico-quantos-games-brasileiros-voce-ja-jogou">Infográfico "Quantos games brasileiros você já jogou?"</a></h1>
@@ -272,6 +316,8 @@
     <a href="/2015/04/28/infografico-quantos-games-brasileiros-voce-ja-jogou" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/04/24/trailer-de-lancamento-de-chroma-squad">Trailer de lançamento de Chroma Squad</a></h1>
@@ -290,30 +336,11 @@
     <a href="/2015/04/24/trailer-de-lancamento-de-chroma-squad" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
-    <h1><a href="/2015/04/21/museu-do-videogame-itinerante">Museu do videogame Itinerante</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-      <img src="../../../../../images/galleries/2015/04/21/museu-do-videogame-itinerante/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Reconhecido pelo Ibram (Instituto Brasileiro de Museus), o Museu do Videogame Itinerante é o primeiro museu do gênero do Brasil, onde os jogadores tem a oportunidade de conhecer 42 anos de evolução dos consoles de videogames e jogar os maiores clássicos do entretenimento digital das décadas de 70, 80, 90...
-    </div>
-
-    <a href="/2015/04/21/museu-do-videogame-itinerante" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2015/04/17/powerup-2">PowerUp #2</a></h1>
+    <h1><a href="/2015/04/23/lancado-a-demo-de-turbolink">Lançada a demo de TurboLink</a></h1>
 
     <div class="entry">
      
@@ -324,14 +351,29 @@
     
   
     
-      <img src="../../../../../images/galleries/2015/04/17/powerup-2/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
  </center>
     
-    PowerUp é um evento organizado pela ADjogosRS (Associação do Desenvolvedores de Jogos Digitais do Rio Grande do Sul) para incentivar alunos e profissionais da área de gamedev a participarem da Ludum Dare, game jam que tem sua nova temporada começando hoje. Durante o evento serão realizadas palestras com profissionais da...
+    No início do mês fizemos uma prévia de TurboLink, hoje a Division Five liberou a demo pública do game que está em votação no Collective da Square Enix. Os jogadores poderão testar a demo com um torneio de 6 pistas, 4 carros, suporte ao controle do Xbox 360 e a...
     </div>
 
-    <a href="/2015/04/17/powerup-2" class="read-more">Leia mais</a>
+    <a href="/2015/04/23/lancado-a-demo-de-turbolink" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -367,20 +409,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

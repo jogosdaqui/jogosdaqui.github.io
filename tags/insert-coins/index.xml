@@ -3,7 +3,7 @@
  <title>Your Title - insert-coins</title>
  <link href="http://example.com/tags/insert-coins/index.xml" rel="self"/>
  <link href="http://example.com/tag/insert-coins.html"/>
- <updated>2018-11-14T12:30:23-02:00</updated>
+ <updated>2018-11-15T10:15:39-02:00</updated>
  <id>http://example.com/tag/insert-coins.html</id>
  <author>
    <name>Author Here</name>
@@ -47,14 +47,13 @@ e se diverta vendo a galera do canal Insert Coins, parceiro do jogosdaqui, jogan
    <link href="http://example.com/2015/08/24/odallus-the-dark-call-primeiras-impressoes"/>
    <updated>2015-08-24T00:00:00-03:00</updated>
    <id>http://example.com/2015/08/24/odallus-the-dark-call-primeiras-impressoes</id>
-   <content type="html">&lt;p&gt;Falamos algumas vezes no jogosdaqui sobre o aclamado game de ação e exploração retrô da brasileira JoyMasher: &lt;a href=&quot;http://joymasher.com/odallus/&quot; target=&quot;_blank&quot;&gt;Odallus - The Dark Call&lt;/a&gt;
-:&lt;/p&gt;
+   <content type="html">&lt;p&gt;Falamos algumas vezes no jogosdaqui sobre o aclamado game de ação e exploração retrô da brasileira JoyMasher: &lt;a href=&quot;http://joymasher.com/odallus/&amp;quot;&quot;&gt;Odallus - The Dark Call&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Games brasileiros finalistas no BIG Festival 2015&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/2015/07/02/versao-beta-de-odallus-the-dark-call/&quot;&gt;Versão beta de Odallus - The Dark Call&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/2015/07/15/lancamento-de-odallus-the-dark-call/&quot;&gt;Lançamento de Odallus: The Dark Call&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Games brasileiros finalistas no BIG Festival 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/07/02/versao-beta-de-odallus-the-dark-call/&quot;&gt;Versão beta de Odallus - The Dark Call&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/07/15/lancamento-de-odallus-the-dark-call/&quot;&gt;Lançamento de Odallus: The Dark Call&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Agora chegou a hora de conferirmos as primeiras impressões da equipe do canal Insert Coins sobre a obra-prima da JoyMasher.&lt;/p&gt;
 
@@ -308,34 +307,6 @@ Confira o vídeo abaixo e veja como o estúdio ICTV e seu time de rangers irá d
         &lt;iframe src=&quot;https://www.youtube.com/embed/yzkLyFsZwTA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>Novo vídeo de gameplay de Gryphon Knight Epic</title>
-   <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
-   <updated>2015-05-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
-   <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&quot; target=&quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
- liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
-
-&lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt;
- e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
-
-&lt;p&gt;No vídeo podemos conferir diversas fases do game além de alguns chefões de encher a tela, literalmente.&lt;/p&gt;
-
-&lt;h2 id=&quot;veja-o-vídeo-de-gameplay-de-gryphon-knight-epic&quot;&gt;Veja o vídeo de gameplay de Gryphon Knight Epic&lt;/h2&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/0Eor3OJwsgE &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Além do vídeo acima, também já falamos do CKE em outros momentos:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;Prévia de Gryphon Knight Epic&lt;/a&gt;
-&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista/&quot;&gt;Insert Coins: Gryphon Knight Epic – Gameplay e Entrevista&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </content>
  </entry>
  

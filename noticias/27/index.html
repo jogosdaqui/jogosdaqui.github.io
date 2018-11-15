@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,75 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/11/jogosbr-inscricoes-e-regras">JogosBR :: Inscrições e regras</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    O prazo final para inscrição no Concurso de Idéias Originais para Jogos Eletrônicos, inserido na edição 2005/06 do JogosBR, foi prorrogado para 11 de março. Já as inscrições para os concursos de Desenvolvimento de Demos Jogáveis e de Jogos Completos podem ser feitas a partir de 16 de março até...
+    </div>
+
+    <a href="/2006/03/11/jogosbr-inscricoes-e-regras" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/10/newsabragames-marco-2006">NewsAbragames - Março/2006</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Lançada a edição Março/2006 da newsletter mensal da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos.Nesta edição os destaques são: os eventos CDG-RIO (Conferência de Desenvolvedores de Games), I Festival Universitário de Games e TGS - Top Game Show . Alguns cursos sobre desenvolvimento de jogos estão na seção cursos.A prorrogação...
+    </div>
+
+    <a href="/2006/03/10/newsabragames-marco-2006" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/03/09/jogosdaqui-e-destaque-no-estadao">jogosdaqui é destaque no Estadão</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Foi publicado no caderno Link do jornal Estadão, uma matéria falando do jogosdaqui.Leia a matéria…
+
+
+    </div>
+
+    <a href="/2006/03/09/jogosdaqui-e-destaque-no-estadao" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/06/winguel-na-europa-mars-to-earth">Winguel na Europa: Mars to Earth</a></h1>
@@ -143,6 +197,23 @@
     <a href="/2006/03/06/winguel-na-europa-mars-to-earth" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/03/06/nova-enquete">Nova enquete</a></h1>
@@ -161,6 +232,8 @@
     <a href="/2006/03/06/nova-enquete" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/05/seja-dono-de-uma-equipe-da-formula-1">Seja dono de uma equipe da Fórmula 1</a></h1>
@@ -181,6 +254,8 @@
     <a href="/2006/03/05/seja-dono-de-uma-equipe-da-formula-1" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento">PalmSoft, novos jogos em desenvolvimento</a></h1>
@@ -205,6 +280,8 @@
     <a href="/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/03/vestibular-para-desenvolver-jogos">Vestibular para desenvolver jogos</a></h1>
@@ -223,6 +300,8 @@
     <a href="/2006/03/03/vestibular-para-desenvolver-jogos" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/02/showroom-interativo-para-os-jogos-nacionais">Showroom interativo para os jogos nacionais</a></h1>
@@ -245,6 +324,8 @@
     <a href="/2006/03/02/showroom-interativo-para-os-jogos-nacionais" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/03/02/mostra-permanente-de-jogos-e-projetos-brasileiros">Mostra permanente de jogos e projetos brasileiros</a></h1>
@@ -261,62 +342,6 @@
     </div>
 
     <a href="/2006/03/02/mostra-permanente-de-jogos-e-projetos-brasileiros" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/03/02/hq-taikodom-numero-zero">HQ Taikodom Número Zero</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Está disponível para download no site do jogo Taikodom a história em quadrinhos "Convocação", este número especial é um prelúdio para a graphic novel "O Eterno Retorno" que será lançada em breve.A HQ apresenta desenhos de alta qualidade e a história segue o estilo do universo ficcional de Taikodom.Para quem...
-    </div>
-
-    <a href="/2006/03/02/hq-taikodom-numero-zero" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/23/mobile-mixer-e-meantime-apresentam-novidades-na-telexpo-2006">Mobile Mixer e Meantime apresentam novidades na Telexpo 2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Empresas se associam para ampliar base de oferta de projetos para plataformas móveis e demonstram nova ferramenta de gerenciamento de conteúdo.A Mobile Mixer entra em uma nova fase de operação com a entrada da Meantime Mobile Creations (integrante do Grupo C.E.S.A.R – Centro de Estudos e Sistemas Avançados do Recife)...
-    </div>
-
-    <a href="/2006/02/23/mobile-mixer-e-meantime-apresentam-novidades-na-telexpo-2006" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/02/23/meantime-fecha-parceria-com-mixer">Meantime fecha parceria com Mixer</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A Meantime Mobile Creations, desenvolvedora e distribuidora de jogos para celular, fechou parceria com a Mixer, empresa do mercado audiovisual.A parceria visa a ampliação de projetos para plataformas móveis.Leia mais…
-
-
-    </div>
-
-    <a href="/2006/02/23/meantime-fecha-parceria-com-mixer" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -352,20 +377,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

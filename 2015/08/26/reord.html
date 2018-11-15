@@ -113,6 +113,12 @@ O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -128,20 +134,6 @@ O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -162,7 +154,21 @@ O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o 
 <article class="post">
   <h1>ReOrd</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -174,7 +180,7 @@ O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o 
     
   
     
-      <img src="../../../../../images/galleries/2015/08/26/reord/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/08/26/reord/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?</p>
@@ -201,7 +207,8 @@ O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o 
 . Existe a possibilidade de uma versão para iOS no futuro, mas nada certo ainda.</p>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -209,25 +216,29 @@ O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_1.png">
-          <img src="../../../../../images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_1.png"/>        
+        <li data-thumb="/images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_1.png">
+          <img src="/images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_1.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_3.png">
-          <img src="../../../../../images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_3.png"/>        
+        <li data-thumb="/images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_3.png">
+          <img src="/images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_3.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_2.png">
-          <img src="../../../../../images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_2.png"/>        
+        <li data-thumb="/images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_2.png">
+          <img src="/images/galleries/2015/08/26/reord/RaphaelRodrigues_ReOrd_2.png"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -249,6 +260,7 @@ O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o 
     });
   });
 </script>
+
 
   </div>
 
@@ -303,20 +315,6 @@ O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

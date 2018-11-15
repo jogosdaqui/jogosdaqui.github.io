@@ -137,6 +137,12 @@ O game começou a ser desenvolvido há apenas um ano pela equipe composta por Le
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -152,20 +158,6 @@ O game começou a ser desenvolvido há apenas um ano pela equipe composta por Le
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -186,7 +178,21 @@ O game começou a ser desenvolvido há apenas um ano pela equipe composta por Le
 <article class="post">
   <h1>Prévia de Dog Duty da Zanardi & Liza</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -248,7 +254,8 @@ O game começou a ser desenvolvido há apenas um ano pela equipe composta por Le
 <p>O game foi um dos <a href="/2015/06/09/conheca-os-games-selecionados-no-big-starter/">8 selecionados</a>
  no BIG Starter 2015 do BIG Festival.</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -256,41 +263,45 @@ O game começou a ser desenvolvido há apenas um ano pela equipe composta por Le
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_animated.gif">
-          <img src="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_animated.gif"/>        
+        <li data-thumb="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_animated.gif">
+          <img src="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_animated.gif"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_6.png">
-          <img src="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_6.png"/>        
+        <li data-thumb="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_6.png">
+          <img src="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_6.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_5.png">
-          <img src="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_5.png"/>        
+        <li data-thumb="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_5.png">
+          <img src="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_5.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_4.jpg">
-          <img src="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_4.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_4.jpg">
+          <img src="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_2.png">
-          <img src="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_2.png"/>        
+        <li data-thumb="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_2.png">
+          <img src="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_2.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_7.png">
-          <img src="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_7.png"/>        
+        <li data-thumb="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_7.png">
+          <img src="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_7.png"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_1.jpg">
-          <img src="../../../../../images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_1.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_1.jpg">
+          <img src="/images/galleries/2015/06/20/previa-de-dog-duty-da-zanardi-liza/ZanardiLiza_DogDuty_1.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -312,6 +323,7 @@ O game começou a ser desenvolvido há apenas um ano pela equipe composta por Le
     });
   });
 </script>
+
 
   </div>
 
@@ -370,20 +382,6 @@ O game começou a ser desenvolvido há apenas um ano pela equipe composta por Le
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

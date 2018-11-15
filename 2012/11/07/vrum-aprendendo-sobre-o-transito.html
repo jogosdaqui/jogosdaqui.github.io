@@ -122,6 +122,12 @@ No game o jogador interpretar&#225; um jovem que acaba de fazer 18 anos e sonha 
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -137,20 +143,6 @@ No game o jogador interpretar&#225; um jovem que acaba de fazer 18 anos e sonha 
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -171,7 +163,21 @@ No game o jogador interpretar&#225; um jovem que acaba de fazer 18 anos e sonha 
 <article class="post">
   <h1>VRUM - Aprendendo sobre o trânsito</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -212,7 +218,8 @@ No game o jogador interpretar&#225; um jovem que acaba de fazer 18 anos e sonha 
  
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -220,21 +227,25 @@ No game o jogador interpretar&#225; um jovem que acaba de fazer 18 anos e sonha 
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2012/11/07/vrum-aprendendo-sobre-o-transito/VRUM7.jpg">
-          <img src="../../../../../images/galleries/2012/11/07/vrum-aprendendo-sobre-o-transito/VRUM7.jpg"/>        
+        <li data-thumb="/images/galleries/2012/11/07/vrum-aprendendo-sobre-o-transito/VRUM7.jpg">
+          <img src="/images/galleries/2012/11/07/vrum-aprendendo-sobre-o-transito/VRUM7.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2012/11/07/vrum-aprendendo-sobre-o-transito/VRUM8.jpg">
-          <img src="../../../../../images/galleries/2012/11/07/vrum-aprendendo-sobre-o-transito/VRUM8.jpg"/>        
+        <li data-thumb="/images/galleries/2012/11/07/vrum-aprendendo-sobre-o-transito/VRUM8.jpg">
+          <img src="/images/galleries/2012/11/07/vrum-aprendendo-sobre-o-transito/VRUM8.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -256,6 +267,7 @@ No game o jogador interpretar&#225; um jovem que acaba de fazer 18 anos e sonha 
     });
   });
 </script>
+
 
   </div>
 
@@ -304,20 +316,6 @@ No game o jogador interpretar&#225; um jovem que acaba de fazer 18 anos e sonha 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

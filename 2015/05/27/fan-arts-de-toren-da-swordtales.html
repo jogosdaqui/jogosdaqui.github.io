@@ -143,6 +143,12 @@ Fan arts de Toren
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -158,20 +164,6 @@ Fan arts de Toren
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -192,7 +184,21 @@ Fan arts de Toren
 <article class="post">
   <h1>Fan arts de Toren da Swordtales</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -210,7 +216,7 @@ Fan arts de Toren
     
   
     
-      <img src="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Quando os primeiros desenhos rupestres foram feitos na Caverna de Chauvet, na França, nascia a fan art, uma forma de homenagearmos aquilo que admiramos, no caso da caverna a admiração pela natureza, no caso dos desenhos desta página a admiração pelo game Toren da Swordtales que continua sendo um dos games indies do momento e tem agradado muita gente boa que também sabe desenhar muito bem. Confira algumas fan arts do jogo da protagonista Moonchild:</p>
@@ -232,7 +238,8 @@ Fan arts de Toren
  Antonio Abreu - <a href="https://twitter.com/Sophos5/status/600379999535915009">https://twitter.com/Sophos5/status/600379999535915009</a>
 [/caption]</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -240,33 +247,37 @@ Fan arts de Toren
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_JadeDaCosta.jpg">
-          <img src="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_JadeDaCosta.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_JadeDaCosta.jpg">
+          <img src="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_JadeDaCosta.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_AntonioAbreu.jpg">
-          <img src="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_AntonioAbreu.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_AntonioAbreu.jpg">
+          <img src="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_AntonioAbreu.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/ImagensDaSemana6_TorenFanArt-e1431299451667.jpg">
-          <img src="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/ImagensDaSemana6_TorenFanArt-e1431299451667.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/ImagensDaSemana6_TorenFanArt-e1431299451667.jpg">
+          <img src="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/ImagensDaSemana6_TorenFanArt-e1431299451667.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/ImagensDaSemana6_TorenFanArt.jpg">
-          <img src="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/ImagensDaSemana6_TorenFanArt.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/ImagensDaSemana6_TorenFanArt.jpg">
+          <img src="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/ImagensDaSemana6_TorenFanArt.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_Tsutomu.jpg">
-          <img src="../../../../../images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_Tsutomu.jpg"/>        
+        <li data-thumb="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_Tsutomu.jpg">
+          <img src="/images/galleries/2015/05/27/fan-arts-de-toren-da-swordtales/Toren_FanArts_Tsutomu.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -288,6 +299,7 @@ Fan arts de Toren
     });
   });
 </script>
+
 
   </div>
 
@@ -336,20 +348,6 @@ Fan arts de Toren
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

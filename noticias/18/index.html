@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,7 +110,98 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
+      <article class="page">
+  <div class="entry">
+    <div class="posts">
+ 
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/08/02/campeonato-de-rummikub-no-gametrack">Campeonato de Rummikub no Gametrack</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Será realizado nos dias 26 e 27 de agosto de 2006, a Etapa Online do Circuito  Brasileiro  de  Rummikub®, um dos jogos de tabuleiro mais vendidos do mundo. Essa etapa do circuito acontecerá no Gametrack.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/08/02/campeonato-de-rummikub-no-gametrack" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/08/02/advergames-migram-para-a-tv">Advergames migram para a TV</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Diversas empresas investem em advergames para promover suas marcas e produtos. Para a Copa de 2002, a Devworks desenvolveu o game "Pebolim " que esteve em destaque no site da Kaiser. O jogo em 3D imitava uma mesa de pebolim e permitia que o internauta representasse o Brasil em jogos...
+    </div>
+
+    <a href="/2006/08/02/advergames-migram-para-a-tv" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/08/01/campeonato-de-rummikub-no-gametrack">Campeonato de Rummikub no Gametrack</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Será realizado nos dias 26 e 27 de agosto de 2006, a Etapa Online do Circuito Brasileiro de Rummikub®, um dos jogos de tabuleiro mais vendidos do mundo. Essa etapa do circuito acontecerá no Gametrack (www.gametrack.com.br ). A Inscrição no campeonato é gratuita. Para se inscrever, é preciso se cadastrar...
+    </div>
+
+    <a href="/2006/08/01/campeonato-de-rummikub-no-gametrack" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/07/31/lancada-a-versao-oficial-de-game-gol">Lançada a versão oficial de Game Gol</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Após 3 meses de beta testes e mais de 12 mil inscritos, Game Gol foi oficialmente lançado.A meta da empresa O2 Games é de 72 mil usuários até o final de 2006.Leia mais…
+
+
+    </div>
+
+    <a href="/2006/07/31/lancada-a-versao-oficial-de-game-gol" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+        <br>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -118,13 +215,7 @@
 </script>
 
 <br> 
-      <article class="page">
-
-  <h1></h1>
-
-  <div class="entry">
-    <div class="posts">
-
+    
     <article class="post">
 
     <h1><a href="/2006/07/30/lancada-a-versao-oficial-de-game-gol">Lançada a versão oficial de Game Gol</a></h1>
@@ -143,6 +234,8 @@
     <a href="/2006/07/30/lancada-a-versao-oficial-de-game-gol" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/07/25/conheca-o-grand-pri">Conheça o Grand Pri</a></h1>
@@ -161,6 +254,8 @@
     <a href="/2006/07/25/conheca-o-grand-pri" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/07/21/newsabragames-julho-2006">NewsAbragames Julho/2006</a></h1>
@@ -179,6 +274,8 @@
     <a href="/2006/07/21/newsabragames-julho-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/07/18/parceria-meantime-e-instituto-ayrton-senna">Parceria: Meantime e Instituto Ayrton Senna</a></h1>
@@ -197,6 +294,8 @@
     <a href="/2006/07/18/parceria-meantime-e-instituto-ayrton-senna" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/07/13/fim-de-jogo-para-a-bitcrafters">Fim de jogo para a Bitcrafters</a></h1>
@@ -215,6 +314,8 @@
     <a href="/2006/07/13/fim-de-jogo-para-a-bitcrafters" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/07/05/gambler-saga-europe-championship">Gambler Saga - Europe Championship</a></h1>
@@ -231,86 +332,6 @@
     </div>
 
     <a href="/2006/07/05/gambler-saga-europe-championship" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/29/petrakas-malabares-da-simplesware-games">Petrakas Malabares da SimplesWare Games</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A mineira SimplesWare Games, fundada em 2005, cria jogos para celular
- e PC
-. Seu primeiro jogo publicado no jogodaqui é o inusitado Petrakas Malabares, um jogo de malabarismo.Veja o jogo…
-
-
-    </div>
-
-    <a href="/2006/06/29/petrakas-malabares-da-simplesware-games" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/21/brutomemo-druids-battle-of-magic">BrutoMemo, Druids: Battle of Magic</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Druids: Battle of Magic, é o primeiro jogo comercial da empresa BrutoMemo. Fundada em 2005, difundiu seis de seus jogos gratuitos em seu site.  A empresa tem mais dois jogos em andamento para serem finalizados este ano. Veja o novo jogo da BrutoMemo…
-
-
-    </div>
-
-    <a href="/2006/06/21/brutomemo-druids-battle-of-magic" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/20/vencedores-do-jogosbr-2006">Vencedores do JogosBR 2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Veja as listas dos vencedores dos concursos do JogosBR edição 2006:Demos JogáveisBrasilia Tropicalis (Thiago Salgado Aiache de Moraes)Conspiração Dumont (Guilherme Mattos Coutinho)Flora (Francisco Oliveira de Queiroz)Fórmula Galaxy (Artur Corrêa)Inferno (Alexandre Vrubel)Léx (Tiago Pinheiro Teixeira)Trem de Doido (Marcos André Penna Coutinho)Zumbi, o rei dos Palmares (Nicholas Lima de Souza)Lista de Reserva...
-    </div>
-
-    <a href="/2006/06/20/vencedores-do-jogosbr-2006" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/20/anunciados-os-vencedores-do-jogosbr-2006">Anunciados os vencedores do JogosBR 2006</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A organização do JogosBR anunciou os vencedores da edição 2006 dos concursos de Demos Jogáveis e Jogos Completos de Baixo Orçamento.Veja os vencedores…
-
-
-    </div>
-
-    <a href="/2006/06/20/anunciados-os-vencedores-do-jogosbr-2006" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -346,20 +367,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

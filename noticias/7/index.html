@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,59 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/03/25/teaser-de-fragmentorum-alba">Teaser de Fragmentorum Alba</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Fragmentorum Alba é o primeiro game da startup gaúcha Otus Game Studio. O jogo se passa em 1964, quando um professor britânico recebe uma mensagem gravada em uma fita. Conforme ele tenta desvendar o estranho conteúdo da gravação, coisas estranhas começam a acontecer, sempre relacionadas a eletrônicos e tecnologia. Acreditando...
+    </div>
+
+    <a href="/2015/03/25/teaser-de-fragmentorum-alba" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/03/23/a-vitima-de-ouro">A Vítima de Ouro</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Com saudades daqueles bons momentos jogando clássicos point and click como The Dig, Full Throttle e Day of Tentacle? O game brasileiro A Vítima de Ouro da Little Leds é uma boa pedida para viver novos momentos como aqueles. Na pele da jovem Elisabeth Fleur você terá que investigar o...
+    </div>
+
+    <a href="/2015/03/23/a-vitima-de-ouro" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2015/03/20/teaser-trailer-de-pants-off">Teaser Trailer de Pants Off!</a></h1>
@@ -136,7 +174,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2015/03/20/teaser-trailer-de-pants-off/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/03/20/teaser-trailer-de-pants-off/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -146,6 +184,8 @@
     <a href="/2015/03/20/teaser-trailer-de-pants-off" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2015/03/19/novo-video-de-play-test-de-htr">Novo vídeo de play test de HTR+</a></h1>
@@ -176,6 +216,23 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2015/03/19/novo-video-de-play-test-de-htr" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2014/11/18/tratamento-de-choque-2">Tratamento de Choque</a></h1>
@@ -198,6 +255,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2014/11/18/tratamento-de-choque-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/11/06/mmorpg-conquista-20-milhoes-de-jogadores-no-brasil">MMORPG conquista 20 milhões de jogadores no Brasil</a></h1>
@@ -226,6 +285,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2014/11/06/mmorpg-conquista-20-milhoes-de-jogadores-no-brasil" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2">Gladiadores de Belathron busca apoio no Catarse</a></h1>
@@ -248,6 +309,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2014/11/06/gladiadores-de-belathron-busca-apoio-no-catarse-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/06/18/splitplay-apresenta-htr-high-tech-racing">Splitplay apresenta: HTR+ High Tech Racing+</a></h1>
@@ -274,6 +337,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2014/06/18/splitplay-apresenta-htr-high-tech-racing" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/06/05/splitplay-apresenta-bernie-needs-love">Splitplay apresenta: Bernie Needs Love</a></h1>
@@ -300,6 +365,8 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     <a href="/2014/06/05/splitplay-apresenta-bernie-needs-love" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2014/05/26/splitplay-apresenta-mr-bree">Splitplay apresenta: Mr. Bree+</a></h1>
@@ -322,52 +389,6 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
     </div>
 
     <a href="/2014/05/26/splitplay-apresenta-mr-bree" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2014/05/22/splitplay-apresenta-satellite-rush">Splitplay apresenta: Satellite Rush</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    Por Kimeric Labs em colaboração para o jogosdaqui. O jogosdaqui convidou o Splitplay , primeiro site de compras online de indie games brasileiro, e as equipes das gamedevs brasileiras, com jogos na nova plataforma de distribuição, para apresentar os seus próprios games aos leitores do blog. O resultado é a...
-    </div>
-
-    <a href="/2014/05/22/splitplay-apresenta-satellite-rush" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics">Novos vídeos de Better late than DEAD e Police Tactics</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
- </center>
-    
-    A paulistana Odin Game Studio liberou dois vídeos mostrando um pouco dos testes de gampleay de seus games em desenvolvimento Better late than DEAD e Police Tactics . BLTD é um survival game onde o jogador terá que sobreviver em uma ilha remota totalmente isolado da civilização. O jogo inspira-se...
-    </div>
-
-    <a href="/2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -403,20 +424,6 @@ Para quem ainda não conhece o game, veja o vídeo da versão para PC:
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

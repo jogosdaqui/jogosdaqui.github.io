@@ -113,6 +113,12 @@ Segundo a equipe da loja online, um dos diferenciais será a busca de um maior e
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -128,20 +134,6 @@ Segundo a equipe da loja online, um dos diferenciais será a busca de um maior e
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -162,7 +154,21 @@ Segundo a equipe da loja online, um dos diferenciais será a busca de um maior e
 <article class="post">
   <h1>Souking, nova loja de games brasileiros</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -174,7 +180,7 @@ Segundo a equipe da loja online, um dos diferenciais será a busca de um maior e
     
   
     
-      <img src="../../../../../images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Hoje, 30 de junho entrará no ar a <a href="http://souking.com.br" target="_blank">Souking</a>
@@ -203,7 +209,8 @@ Segundo a equipe da loja online, um dos diferenciais será a busca de um maior e
 
 <p>O jogosdaqui deseja sucesso e vida a longa a Souking!</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -211,21 +218,25 @@ Segundo a equipe da loja online, um dos diferenciais será a busca de um maior e
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/Duaik_Aritana_01.jpg">
-          <img src="../../../../../images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/Duaik_Aritana_01.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/Duaik_Aritana_01.jpg">
+          <img src="/images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/Duaik_Aritana_01.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/Souking_socios.jpg">
-          <img src="../../../../../images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/Souking_socios.jpg"/>        
+        <li data-thumb="/images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/Souking_socios.jpg">
+          <img src="/images/galleries/2015/06/30/souking-nova-loja-de-games-brasileiros/Souking_socios.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -247,6 +258,7 @@ Segundo a equipe da loja online, um dos diferenciais será a busca de um maior e
     });
   });
 </script>
+
 
   </div>
 
@@ -293,20 +305,6 @@ Segundo a equipe da loja online, um dos diferenciais será a busca de um maior e
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

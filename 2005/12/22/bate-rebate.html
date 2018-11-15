@@ -119,6 +119,12 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -134,20 +140,6 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -168,7 +160,21 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
 <article class="post">
   <h1>Bate-Rebate</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -184,7 +190,7 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
     
   
     
-      <img src="../../../../../images/galleries/2005/12/22/bate-rebate/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/12/22/bate-rebate/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D.</p>
@@ -198,7 +204,8 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
 <p>Para jogar Bate-Rebate basta acessar o portal <a href="http://www.sbtdiversao.com.br/Jogos/JogoDetalhar.aspx?IdJogo=7" target="_blank">SBT Diversão</a>
 .</p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -206,61 +213,65 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_7.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_7.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_7.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_7.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_4.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_4.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_1.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_1.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_9.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_9.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_9.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_9.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_11.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_11.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_11.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_11.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_10.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_10.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_10.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_10.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_3.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_3.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_12.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_12.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_12.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_12.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_6.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_6.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_6.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_5.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_5.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_2.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_2.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_8.jpg">
-          <img src="../../../../../images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_8.jpg"/>        
+        <li data-thumb="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_8.jpg">
+          <img src="/images/galleries/2005/12/22/bate-rebate/GreenLandStudios_BateRebate_8.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -282,6 +293,7 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
     });
   });
 </script>
+
 
   </div>
 
@@ -330,20 +342,6 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

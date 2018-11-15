@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,56 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2011/04/27/previa-cannon-land">Prévia: Cannon Land</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Cannon Land é um arquipélago conquistado por Sir Muzzle, um dos piratas mais malucos a navegar pelos oceanos. Um dia, ele decidiu parar de saquear navios e portos e começou a construir armadilhas incríveis, para proteger os seus tesouros. A lenda diz que ele enloqueceu e morreu Cannon Land, e...
+    </div>
+
+    <a href="/2011/04/27/previa-cannon-land" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2011/04/06/previa-the-fish-dies-in-the-end">Prévia: The Fish Dies in the End</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+      <img src="/images/galleries/2011/04/06/previa-the-fish-dies-in-the-end/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Um pequeno peixe tentando sobreviver aos perigos do oceano, esse é o mote do game The Fish Dies in the End do desenvolvedor independente Gutenberg Neto . Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game Center, inimigos e obstáculos gerados de forma aleatória, garantido um novo...
+    </div>
+
+    <a href="/2011/04/06/previa-the-fish-dies-in-the-end" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2011/03/16/previa-legend-alive-rebirth-of-the-angels">Prévia: Legend Alive: rebirth of the angels</a></h1>
@@ -147,6 +182,8 @@
     <a href="/2011/03/16/previa-legend-alive-rebirth-of-the-angels" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2011/02/18/preview-de-talbots-odissey">Preview de Talbot&#39;s Odissey</a></h1>
@@ -169,6 +206,23 @@
     <a href="/2011/02/18/preview-de-talbots-odissey" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2007/01/18/shotgunsn-goblins-the-shamanll-die">Shotguns&#39;n Goblins - The Shaman&#39;ll Die</a></h1>
@@ -187,6 +241,8 @@
     <a href="/2007/01/18/shotgunsn-goblins-the-shamanll-die" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2007/01/18/previa-de-shotgunsn-goblins">Prévia de Shotguns&#39;n Goblins</a></h1>
@@ -208,6 +264,8 @@
     <a href="/2007/01/18/previa-de-shotgunsn-goblins" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/05/previa-de-omniscire">Prévia de OmniScire</a></h1>
@@ -229,6 +287,8 @@
     <a href="/2006/09/05/previa-de-omniscire" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/05/omniscire">OmniScire</a></h1>
@@ -305,6 +365,8 @@
     <a href="/2006/09/05/omniscire" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/05/esquadrao-zumbi">Esquadrão Zumbi</a></h1>
@@ -347,6 +409,8 @@
     <a href="/2006/09/05/esquadrao-zumbi" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/01/previa-de-a-zombie-nightmare">Prévia de A Zombie Nightmare</a></h1>
@@ -370,54 +434,6 @@
     <a href="/2006/09/01/previa-de-a-zombie-nightmare" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2006/09/01/a-zombie-nightmare">A Zombie Nightmare</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    Em "A Zombie Nightmare" da PalmSoft Tecnologia , o jogador estará na pele Tarquin Keister. Tarquin está de férias pela Europa, ao passar por uma pequena cidade faz uma parada no hotel da cidade, ao deixar a cidade descobre algo de estranho: uma horda de zumbis famintos e loucos por...
-    </div>
-
-    <a href="/2006/09/01/a-zombie-nightmare" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2006/06/30/previa-da-nova-versao-de-drag-racer">Prévia da nova versão de Drag Racer</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Drag Racer
-, um dos maiores sucessos da Palmsoft
-, ganhará uma nova versão. As várias novidades do jogo de corrida
- para celular
- estão entre novos pilotos, carros e cenários.Veja a prévia…
-
-
-    </div>
-
-    <a href="/2006/06/30/previa-da-nova-versao-de-drag-racer" class="read-more">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -430,7 +446,7 @@
            
 
         
-            <li ><a href="/previas/" title="">1</a></li>
+            <li ><a href="/previas/" title="Prévias">1</a></li>
         
             <li ><a href="/previas/2/" title="">2</a></li>
         
@@ -451,20 +467,6 @@
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

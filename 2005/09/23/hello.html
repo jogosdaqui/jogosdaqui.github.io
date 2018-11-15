@@ -143,6 +143,12 @@ Hello! é uma ótima opção de diversão para toda família! Veja porque:
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -158,20 +164,6 @@ Hello! é uma ótima opção de diversão para toda família! Veja porque:
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -192,7 +184,21 @@ Hello! é uma ótima opção de diversão para toda família! Veja porque:
 <article class="post">
   <h1>Hello!</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -212,7 +218,7 @@ Hello! é uma ótima opção de diversão para toda família! Veja porque:
     
   
     
-      <img src="../../../../../images/galleries/2005/09/23/hello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/09/23/hello/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>O Hello! é um jogo que une ação e estratégia, onde você deve estabelecer conexões telefônicas para eliminar os telefones que aparecem no tabuleiro. A regra é: não deixe a tela ser totalmente preenchida por telefones.</p>
@@ -234,7 +240,8 @@ Hello! é uma ótima opção de diversão para toda família! Veja porque:
 </ul>
 
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -242,37 +249,41 @@ Hello! é uma ótima opção de diversão para toda família! Veja porque:
  
 
 
+
+<h2>Galeria de imagens</h2>
 <center>
   
   <ul id="lightSlider">
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_3.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_3.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/hello/Nology_Hello_3.jpg">
+          <img src="/images/galleries/2005/09/23/hello/Nology_Hello_3.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_2.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_2.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/hello/Nology_Hello_2.jpg">
+          <img src="/images/galleries/2005/09/23/hello/Nology_Hello_2.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_1.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_1.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/hello/Nology_Hello_1.jpg">
+          <img src="/images/galleries/2005/09/23/hello/Nology_Hello_1.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_5.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_5.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/hello/Nology_Hello_5.jpg">
+          <img src="/images/galleries/2005/09/23/hello/Nology_Hello_5.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_4.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_4.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/hello/Nology_Hello_4.jpg">
+          <img src="/images/galleries/2005/09/23/hello/Nology_Hello_4.jpg"/>        
         </li>
     
-        <li data-thumb="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_6.jpg">
-          <img src="../../../../../images/galleries/2005/09/23/hello/Nology_Hello_6.jpg"/>        
+        <li data-thumb="/images/galleries/2005/09/23/hello/Nology_Hello_6.jpg">
+          <img src="/images/galleries/2005/09/23/hello/Nology_Hello_6.jpg"/>        
         </li>
     
   </ul>
   
  </center>
+ 
+
 
 
 <script type="text/javascript">
@@ -294,6 +305,7 @@ Hello! é uma ótima opção de diversão para toda família! Veja porque:
     });
   });
 </script>
+
 
   </div>
 
@@ -340,20 +352,6 @@ Hello! é uma ótima opção de diversão para toda família! Veja porque:
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

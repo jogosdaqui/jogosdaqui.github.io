@@ -110,6 +110,12 @@ Se voc&#234; &#233; da ind&#250;stria nacional de desenvolvimento de jogos e tem
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -125,20 +131,6 @@ Se voc&#234; &#233; da ind&#250;stria nacional de desenvolvimento de jogos e tem
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <style>
   iframe 
   {
@@ -159,7 +151,21 @@ Se voc&#234; &#233; da ind&#250;stria nacional de desenvolvimento de jogos e tem
 <article class="post">
   <h1>Blog jogosdaqui</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <br>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+  
   <div class="entry">
      
  
@@ -167,7 +173,7 @@ Se voc&#234; &#233; da ind&#250;stria nacional de desenvolvimento de jogos e tem
 <center>
   
     
-      <img src="../../../../../images/galleries/2010/11/17/blog-jogosdaqui-2/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2010/11/17/blog-jogosdaqui-2/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     <p>O jogosdaqui fechou uma parceria com o UOL Jogos e como resultado surgiu o "Blog jogosdaqui".
@@ -178,7 +184,8 @@ Neste blog postaremos notícias, prévias, análises e eventos relacionados aos 
  
 </p></p>
 
-     
+    
+ 
  
 
 <link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
@@ -186,9 +193,8 @@ Neste blog postaremos notícias, prévias, análises e eventos relacionados aos 
  
 
 
-<center>
-  
- </center>
+
+
 
 
   </div>
@@ -234,20 +240,6 @@ Neste blog postaremos notícias, prévias, análises e eventos relacionados aos 
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

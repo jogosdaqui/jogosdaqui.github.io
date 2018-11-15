@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,39 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/10/24/cubi">CUBi</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Seu objetivo é juntar as peças que caem sem deixar espaços entre elas. Sempre que uma linha é preenchida, ela será removida e todas as peças acima serão movidas para baixo. Posicione as peças corretamente para não permitir que elas cheguem no topo. Os melhores resultados serão listados no ranking...
+    </div>
+
+    <a href="/2005/10/24/cubi" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/21/jet-boarder">Jet Boarder</a></h1>
@@ -146,7 +164,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/21/jet-boarder/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/21/jet-boarder/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -156,6 +174,8 @@
     <a href="/2005/10/21/jet-boarder" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/20/come-come">Come-Come</a></h1>
@@ -169,7 +189,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/20/come-come/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/20/come-come/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -179,6 +199,8 @@
     <a href="/2005/10/20/come-come" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/19/warbots">Warbots</a></h1>
@@ -192,7 +214,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/19/warbots/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/19/warbots/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -202,6 +224,23 @@
     <a href="/2005/10/19/warbots" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/10/19/space-hero">Space Hero</a></h1>
@@ -219,7 +258,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/19/space-hero/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/19/space-hero/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -229,6 +268,8 @@
     <a href="/2005/10/19/space-hero" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/19/ice-post">Ice Post</a></h1>
@@ -242,7 +283,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2005/10/19/ice-post/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/19/ice-post/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -256,6 +297,8 @@ Ele deve enfrentar o frio e os obstáculos do caminho para atravessar a tempo ca
     <a href="/2005/10/19/ice-post" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/19/animal-rage">Animal Rage</a></h1>
@@ -267,7 +310,7 @@ Ele deve enfrentar o frio e os obstáculos do caminho para atravessar a tempo ca
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/10/19/animal-rage/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/19/animal-rage/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -277,6 +320,8 @@ Ele deve enfrentar o frio e os obstáculos do caminho para atravessar a tempo ca
     <a href="/2005/10/19/animal-rage" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/18/rain-of-fire">Rain of Fire</a></h1>
@@ -290,7 +335,7 @@ Ele deve enfrentar o frio e os obstáculos do caminho para atravessar a tempo ca
     
   
     
-      <img src="../../../../../images/galleries/2005/10/18/rain-of-fire/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/10/18/rain-of-fire/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -300,6 +345,8 @@ Ele deve enfrentar o frio e os obstáculos do caminho para atravessar a tempo ca
     <a href="/2005/10/18/rain-of-fire" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/18/meu-big-brother">Meu Big Brother</a></h1>
@@ -326,6 +373,8 @@ Ele deve enfrentar o frio e os obstáculos do caminho para atravessar a tempo ca
     <a href="/2005/10/18/meu-big-brother" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/10/15/riding-ground">Riding Ground</a></h1>
@@ -376,35 +425,6 @@ Ele deve enfrentar o frio e os obstáculos do caminho para atravessar a tempo ca
     <a href="/2005/10/15/riding-ground" class="read-more">Leia mais</a>
     </article>
 
-    <article class="post">
-
-    <h1><a href="/2005/10/15/die-ponyrancher">Die Ponyrancher</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="../../../../../images/galleries/2005/10/15/die-ponyrancher/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Ponyrancher é um jogo de aventura em 3D para crianças com a temática sobre cavalos. Em Ponyrancher o jogador ganha um cavalo e com ele pode andar por vários ambientes vivendo inúmeras aventuras enquanto evolue seu eqüino e aprende a cavalgar, pular e etc. O jogador também pode comprar inúmeras...
-    </div>
-
-    <a href="/2005/10/15/die-ponyrancher" class="read-more">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -438,20 +458,6 @@ Ele deve enfrentar o frio e os obstáculos do caminho para atravessar a tempo ca
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

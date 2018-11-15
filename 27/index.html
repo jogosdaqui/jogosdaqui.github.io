@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,22 +110,11 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <div class="posts">
+ 
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/11/10/bunny-smash">Bunny Smash</a></h1>
@@ -138,6 +133,8 @@
     <a href="/2006/11/10/bunny-smash" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/10/17/southlogic-scooby-doo-whos-watching-who">Southlogic, Scooby-Doo! Who&#39;s Watching Who?</a></h1>
@@ -156,6 +153,8 @@
     <a href="/2006/10/17/southlogic-scooby-doo-whos-watching-who" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/29/sbgames">SBGames</a></h1>
@@ -167,7 +166,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2006/09/29/sbgames/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/09/29/sbgames/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -177,6 +176,8 @@
     <a href="/2006/09/29/sbgames" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/29/sbgames-2006-em-recife">SBGames 2006 em Recife</a></h1>
@@ -197,6 +198,23 @@
     <a href="/2006/09/29/sbgames-2006-em-recife" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/09/22/jogos-da-palmsoft-na-brt-gsm-e-oi">Jogos da PalmSoft na BrT GSM e Oi</a></h1>
@@ -215,6 +233,8 @@
     <a href="/2006/09/22/jogos-da-palmsoft-na-brt-gsm-e-oi" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/21/aniversario-do-jogosdaqui-1-ano-de-muitos-jogos-nacionais">Aniversário do jogosdaqui, 1 ano de muitos jogos nacionais</a></h1>
@@ -233,6 +253,8 @@
     <a href="/2006/09/21/aniversario-do-jogosdaqui-1-ano-de-muitos-jogos-nacionais" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/19/oitava-era-de-ryudragon">Oitava Era de Ryudragon</a></h1>
@@ -258,6 +280,8 @@
     <a href="/2006/09/19/oitava-era-de-ryudragon" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/18/prorrogado-o-lancamento-de-danger-mission">Prorrogado o Lançamento de Danger Mission</a></h1>
@@ -278,6 +302,8 @@
     <a href="/2006/09/18/prorrogado-o-lancamento-de-danger-mission" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/15/newsabragames-setembro-2006">NewsAbragames Setembro/2006</a></h1>
@@ -296,6 +322,8 @@
     <a href="/2006/09/15/newsabragames-setembro-2006" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2006/09/12/thoroughbred-tycoon">Thoroughbred Tycoon</a></h1>
@@ -333,7 +361,7 @@
     
   
     
-      <img src="../../../../../images/galleries/2006/09/12/thoroughbred-tycoon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2006/09/12/thoroughbred-tycoon/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -373,20 +401,6 @@
     
 </ul>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

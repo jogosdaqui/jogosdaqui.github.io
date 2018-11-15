@@ -89,6 +89,12 @@
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          console.log(value);
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
       noResultsText: 'Nenhum resultado encontrado',
       limit: 20,
       sortMiddleware: function(a, b) {
@@ -104,27 +110,76 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
       <article class="page">
-
-  <h1></h1>
-
   <div class="entry">
     <div class="posts">
+ 
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/30/winguel-novo-jogo-nacional">Winguel, novo jogo Nacional</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    A empresa gaúcha Espaço informática está apresentando um novo jogo que será lançado na Europa e Brasil no primeiro trimestre de 2006. O jogo chama-se Winguel na verdade é um centro de atividades com cinco jogos, além de materiais extra como impressões e papéis de parede.Na história do jogo, Winguel...
+    </div>
+
+    <a href="/2005/11/30/winguel-novo-jogo-nacional" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/29/der-pferderennstall-lancado-na-franca">Der Pferderennstall lançado na França</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    Depois de grande sucesso na Alemanha, a Espaço Informática lança Der Pferderennstall na França, com o nome Hippodrome Tycoon. A versão brasileira, que se chamará Jóquei Clube, ainda está sem data de lançamento definida: “A Espaço produz jogos, mas hoje não trabalhamos com a distribuição. Estamos acertando os ultimos detalhes...
+    </div>
+
+    <a href="/2005/11/29/der-pferderennstall-lancado-na-franca" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2005/11/28/programadores-de-jogos-na-rede-globo">Programadores de jogos na Rede Globo</a></h1>
+
+    <div class="entry">
+     
+ 
+
+<center>
+  
+ </center>
+    
+    O Jornal Hoje, da Rede Globo, divulgou uma matéria sobre a profissão de programador de jogos no Brasil.
+Se você é apaixonado por jogos, precisa conferir a matéria neste link
+.
+
+    </div>
+
+    <a href="/2005/11/28/programadores-de-jogos-na-rede-globo" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/25/resultado-do-festival-de-jogos-independentes">Resultado do Festival de Jogos Independentes</a></h1>
@@ -143,6 +198,23 @@
     <a href="/2005/11/25/resultado-do-festival-de-jogos-independentes" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2005/11/25/moscao-killer-2-2">Moscão Killer 2.2</a></h1>
@@ -154,7 +226,7 @@
 <center>
   
     
-      <img src="../../../../../images/galleries/2005/11/25/moscao-killer-2-2/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/images/galleries/2005/11/25/moscao-killer-2-2/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
@@ -164,6 +236,8 @@
     <a href="/2005/11/25/moscao-killer-2-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/25/moscao-killer-2-2-2">Moscão Killer 2.2</a></h1>
@@ -182,6 +256,8 @@
     <a href="/2005/11/25/moscao-killer-2-2-2" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/23/jogos-em-debate">Jogos em debate</a></h1>
@@ -200,6 +276,8 @@
     <a href="/2005/11/23/jogos-em-debate" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/23/game-party">Game Party</a></h1>
@@ -218,6 +296,8 @@
     <a href="/2005/11/23/game-party" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/23/decifre-a-garatuja-lancamento">Decifre a Garatuja - lançamento</a></h1>
@@ -236,6 +316,8 @@
     <a href="/2005/11/23/decifre-a-garatuja-lancamento" class="read-more">Leia mais</a>
     </article>
 
+    
+    
     <article class="post">
 
     <h1><a href="/2005/11/23/100-jogos-daqui">100 jogos daqui</a></h1>
@@ -252,67 +334,6 @@
     </div>
 
     <a href="/2005/11/23/100-jogos-daqui" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/22/gametrack-ganha-mais-2-jogos">Gametrack ganha mais 2 jogos</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    O portal Gametrack
- acaba de ganhar mais dois novos jogos singleplayer: Dominó e Conecta 4.
-
-Os jogos estão disponíveis para os jogadores cadastrados no Gametrack e podem ser acessados diretamente pelo portal (www.gametrack.com.br
-).
-
-Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
-
-    </div>
-
-    <a href="/2005/11/22/gametrack-ganha-mais-2-jogos" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/21/seja-um-profissional-da-industria-de-jogos">Seja um profissional da indústria de jogos</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    Que tal trabalhar na indústria de jogos? Dois pré-requisitos são essencias: um é ser apaixonado por jogos e o outro é estudar muito, isso mesmo, desenvolver jogos demanda de um grande conhecimento técnico e artístico. Mas você não está sozinho nesta empreitada, existem muitos cursos sobre desenvolvimento de jogos espalhados...
-    </div>
-
-    <a href="/2005/11/21/seja-um-profissional-da-industria-de-jogos" class="read-more">Leia mais</a>
-    </article>
-
-    <article class="post">
-
-    <h1><a href="/2005/11/21/pesquisa-de-game-design">Pesquisa de Game Design</a></h1>
-
-    <div class="entry">
-     
- 
-
-<center>
-  
- </center>
-    
-    A turma de game design, da pos UVA, está fazendo uma pesquisa para mapear o interesse de grupos de jogadores/consumidores, em relação a um exercício proposto em aula. A idéia é detectar qual modelo de jogo seria mais interessante de ser desenvolvido, em função do gosto do consumidor brasileiro (média...
-    </div>
-
-    <a href="/2005/11/21/pesquisa-de-game-design" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -348,20 +369,6 @@ Em breve, você poderá ler sobre os dois jogos no jogosdaqui.
   </div>
 </article>
 
-      <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     </div>
   
     <div class="wrapper-footer">

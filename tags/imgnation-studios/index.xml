@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - imgnation-studios</title>
+ <link href="http://example.com/tags/imgnation-studios/index.xml" rel="self"/>
+ <link href="http://example.com/tag/imgnation-studios.html"/>
+ <updated>2018-11-15T10:15:39-02:00</updated>
+ <id>http://example.com/tag/imgnation-studios.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Imagens da semana #5</title>
+   <link href="http://example.com/2015/05/04/imagens-da-semana-5"/>
+   <updated>2015-05-04T00:00:00-03:00</updated>
+   <id>http://example.com/2015/05/04/imagens-da-semana-5</id>
+   <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/59271652605208985&quot;&gt;Foto da equipe da Odin Game Studio em pleno testes do game Better later than DEAD&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/OdinGameStudio_TestingBetterLaterThanDEAD.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/vortexstudios/status/59271970709192704&quot;&gt;Poster do novo game da Vortex Game Studios, Space Lander&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/VortexGameStudio_SpaceLander.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/edlago/status/59317275032119296&quot;&gt;O game developer brasileiro Ed Lago, dando uma amostra de grandes games nacionais da atualidade: Chroma Squad da Behold Studios, Odallus da JoyMasher, Dodge This da Imgnation Studios, Candy Maze da BigHut Games e Toren da Swordtales&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/EdLago_ExemplosHueBR.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/59360648002627993&quot;&gt;Um dia antes do lançamento a Behold Studios verificando se está tudo certo com o Chroma Squad&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/BeholdStudio_PreparingChromaSquadRelease.jpg &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/59378855788768051&quot;&gt;Pessoal da Mgaia Studio jogando o game Chroma Squad da Behold Studios&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;
+        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/MgaiaStudio_ChromaSquad.jpg &quot; /&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>
