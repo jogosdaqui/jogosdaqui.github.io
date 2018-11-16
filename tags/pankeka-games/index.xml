@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - pankeka-games</title>
- <link href="http://example.com/tags/pankeka-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/pankeka-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/pankeka-games.html</id>
+ <title>jogosdaqui - pankeka-games</title>
+ <link href="//tags/pankeka-games/index.xml" rel="self"/>
+ <link href="/tag/pankeka-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/pankeka-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Esquadrão Patada</title>
-   <link href="http://example.com/2013/03/18/esquadrao-patada"/>
+   <link href="//2013/03/18/esquadrao-patada"/>
    <updated>2013-03-18T00:00:00-03:00</updated>
-   <id>http://example.com/2013/03/18/esquadrao-patada</id>
+   <id>//2013/03/18/esquadrao-patada</id>
    <content type="html">&lt;p&gt;A desenvolvedora mato-grossense &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;
  já esteve no jogosdaqui em 2012 com seu puzzle para iOS, o game à época era &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-01-01_2012-01-31.html#2012_01-05_08_05_01-154784552-0&quot;&gt;Zigball&lt;/a&gt;
 . Agora é a vez de outro jogo para os aparelhos da Apple, esse também um puzzle: &lt;a href=&quot;http://www.pankekagames.com.br/esquadrao/&quot; target=&quot;_blank&quot;&gt;Esquadrão Patada&lt;/a&gt;
@@ -34,9 +34,9 @@
  
  <entry>
    <title>Zigball</title>
-   <link href="http://example.com/2012/01/05/zigball"/>
+   <link href="//2012/01/05/zigball"/>
    <updated>2012-01-05T00:00:00-02:00</updated>
-   <id>http://example.com/2012/01/05/zigball</id>
+   <id>//2012/01/05/zigball</id>
    <content type="html">&lt;p&gt;Em 2011 a produtora brasileira &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;
  debutou nos iDevices (iPhone, iPod Touch e iPad) com seu game &lt;a href=&quot;http://www.zigball.com/index_pt.html&quot; target=&quot;_blank&quot;&gt;Zigball&lt;/a&gt;
 .&lt;/p&gt;

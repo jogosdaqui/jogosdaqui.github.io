@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - vortex-game-studios</title>
- <link href="http://example.com/tags/vortex-game-studios/index.xml" rel="self"/>
- <link href="http://example.com/tag/vortex-game-studios.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/vortex-game-studios.html</id>
+ <title>jogosdaqui - vortex-game-studios</title>
+ <link href="//tags/vortex-game-studios/index.xml" rel="self"/>
+ <link href="/tag/vortex-game-studios.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/vortex-game-studios.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6"/>
+   <link href="//2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/14/checkpoint-6</id>
+   <id>//2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/CurveDigital/status/59775538841977241&quot;&gt;A Curve Digital anunciou que publicará o game Porcupine da Big Green Pillow ainda este mês&lt;/a&gt;&lt;/p&gt;
 
@@ -45,9 +45,9 @@
  
  <entry>
    <title>Space Lander</title>
-   <link href="http://example.com/2015/05/13/space-lander"/>
+   <link href="//2015/05/13/space-lander"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/13/space-lander</id>
+   <id>//2015/05/13/space-lander</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Ground control to Major Tom&lt;br /&gt;
 Ground control to Major Tom&lt;br /&gt;
@@ -93,9 +93,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Promoção do game Space Lander</title>
-   <link href="http://example.com/2015/05/13/promocao-do-game-space-lander"/>
+   <link href="//2015/05/13/promocao-do-game-space-lander"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/13/promocao-do-game-space-lander</id>
+   <id>//2015/05/13/promocao-do-game-space-lander</id>
    <content type="html">&lt;p&gt;A Vortex Game Studios nos enviou 9 chaves do seu &lt;a href=&quot;/2015/05/13/space-lander/&quot;&gt;novo game Space Lander&lt;/a&gt;
  para sortearmos entre nossos leitores.&lt;/p&gt;
 
@@ -118,95 +118,95 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Imagens da semana #5</title>
-   <link href="http://example.com/2015/05/04/imagens-da-semana-5"/>
+   <link href="//2015/05/04/imagens-da-semana-5"/>
    <updated>2015-05-04T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/04/imagens-da-semana-5</id>
+   <id>//2015/05/04/imagens-da-semana-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/59271652605208985&quot;&gt;Foto da equipe da Odin Game Studio em pleno testes do game Better later than DEAD&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/OdinGameStudio_TestingBetterLaterThanDEAD.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/OdinGameStudio_TestingBetterLaterThanDEAD.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/vortexstudios/status/59271970709192704&quot;&gt;Poster do novo game da Vortex Game Studios, Space Lander&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/VortexGameStudio_SpaceLander.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/VortexGameStudio_SpaceLander.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/edlago/status/59317275032119296&quot;&gt;O game developer brasileiro Ed Lago, dando uma amostra de grandes games nacionais da atualidade: Chroma Squad da Behold Studios, Odallus da JoyMasher, Dodge This da Imgnation Studios, Candy Maze da BigHut Games e Toren da Swordtales&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/EdLago_ExemplosHueBR.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/EdLago_ExemplosHueBR.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/59360648002627993&quot;&gt;Um dia antes do lançamento a Behold Studios verificando se está tudo certo com o Chroma Squad&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/BeholdStudio_PreparingChromaSquadRelease.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/BeholdStudio_PreparingChromaSquadRelease.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/59378855788768051&quot;&gt;Pessoal da Mgaia Studio jogando o game Chroma Squad da Behold Studios&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/MgaiaStudio_ChromaSquad.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/MgaiaStudio_ChromaSquad.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Imagens da semana #4</title>
-   <link href="http://example.com/2015/04/27/imagens-da-semana-4"/>
+   <link href="//2015/04/27/imagens-da-semana-4"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/27/imagens-da-semana-4</id>
+   <id>//2015/04/27/imagens-da-semana-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/59095331509502361&quot;&gt;A Behold Studios filmando o trailer de lançamento de Chroma Squad&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_ChromaSquadTrailer.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_ChromaSquadTrailer.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/59089309334548480&quot;&gt;Mais imagens da produção do novo game da Mgaia Studio: Tiny Empire&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_TinyEmpire.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_TinyEmpire.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=91937158478828&quot;&gt;A QUbyte Interactive lembrando do primeiro modelo de 3D, criado em 2008 numa aula de pós graduação em programação e produção de jogos, esse modelo deu origem a QUByte e ao game HTR&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_QUByteInteractive.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_QUByteInteractive.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.chromasquad.com&quot;&gt;Novas screenshots de Chroma Squad liberadas no site oficial do game&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_ChromaSquad.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_ChromaSquad.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/vortexstudios/status/59135126197232435&quot;&gt;A Vortex Game Studios preparando para lançar seu novo game: Space Lander, um simulador de voo 2D old-school&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_SpaceLander.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_SpaceLander.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/59210253502608179&quot;&gt;O game em desenvolvimento Shiny, da Garage 227, recebendo novos assets através da engine Unreal da Epic Games&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_Garage227.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_Garage227.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/TurboLinkGame/status/59243901766218547&quot;&gt;TurboLink da Division Five chega no Steam Greenlight&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_TurboLink.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/27/imagens-da-semana-4/ImagensDaSemana4_TurboLink.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>FILE Games Rio 2011</title>
-   <link href="http://example.com/2011/04/14/file-games-rio-2011"/>
+   <link href="//2011/04/14/file-games-rio-2011"/>
    <updated>2011-04-14T00:00:00-03:00</updated>
-   <id>http://example.com/2011/04/14/file-games-rio-2011</id>
+   <id>//2011/04/14/file-games-rio-2011</id>
    <content type="html">&lt;p&gt;Entre os dias 11 de abril e 08 de maio a galera do Rio de Janeiro poderá visitar a FILE Games Rio 2011 &quot;Eu quero jogar&quot; no OI Futuro Flamego.&lt;/p&gt;
 
 &lt;p&gt;O FILE (Festival Internacional de Linguagem Eletrônica) apresenta jogos e obras artísticas que refletem a cultura game em diversas áreas.&lt;/p&gt;
@@ -221,9 +221,9 @@ Mais em informações no &lt;a href=&quot;http://www.file.org.br&quot; target=&q
  
  <entry>
    <title>Novidades sobre My Country, My Name</title>
-   <link href="http://example.com/2011/03/28/novidades-sobre-my-country-my-name"/>
+   <link href="//2011/03/28/novidades-sobre-my-country-my-name"/>
    <updated>2011-03-28T00:00:00-03:00</updated>
-   <id>http://example.com/2011/03/28/novidades-sobre-my-country-my-name</id>
+   <id>//2011/03/28/novidades-sobre-my-country-my-name</id>
    <content type="html">&lt;p&gt;O produtor Alexandre Ribeiro de Sá, da empresa &lt;a href=&quot;http://vortexgamestudios.com.br&quot; target=&quot;_blank&quot;&gt;Vortex Game Studios&lt;/a&gt;
 , entrou em contato conosco trazendo duas novidades sobre o game em desenvolvimento My County, My Name.&lt;/p&gt;
 
@@ -242,9 +242,9 @@ Mais em informações no &lt;a href=&quot;http://www.file.org.br&quot; target=&q
  
  <entry>
    <title>Lançamento do beta de My Country, My Name</title>
-   <link href="http://example.com/2010/11/21/lancamento-do-beta-de-my-country-my-name"/>
+   <link href="//2010/11/21/lancamento-do-beta-de-my-country-my-name"/>
    <updated>2010-11-21T00:00:00-02:00</updated>
-   <id>http://example.com/2010/11/21/lancamento-do-beta-de-my-country-my-name</id>
+   <id>//2010/11/21/lancamento-do-beta-de-my-country-my-name</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://vortexgamestudios.com.br/&quot; target=&quot;_blank&quot;&gt;Vortex Game Studios&lt;/a&gt;
  realizará nesta segunda-feira, dia 22/11, o lançamento do beta de seu novo game de ação e estratégia para PC e MAC: &lt;strong&gt;My Country, My Name&lt;/strong&gt;.&lt;/p&gt;
 

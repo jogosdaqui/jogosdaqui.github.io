@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - continuum</title>
- <link href="http://example.com/tags/continuum/index.xml" rel="self"/>
- <link href="http://example.com/tag/continuum.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/continuum.html</id>
+ <title>jogosdaqui - continuum</title>
+ <link href="//tags/continuum/index.xml" rel="self"/>
+ <link href="/tag/continuum.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/continuum.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
@@ -170,9 +170,9 @@
  
  <entry>
    <title>Demos Jogáveis do JogosBR, projetos classificados</title>
-   <link href="http://example.com/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados"/>
+   <link href="//2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados"/>
    <updated>2006-06-04T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados</id>
+   <id>//2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados</id>
    <content type="html">&lt;p&gt;Após anunciar os &lt;a href=&quot;/index.php?p=c&amp;amp;id=417&quot;&gt;18 projetos classificados&lt;/a&gt;
  do Concurso de Jogos Completos de Baixo Orçamento, o JogosBR divulga a lista dos 36 projetos classificados para o Concurso de Demos Jogáveis.&lt;br /&gt;&lt;br /&gt;A comissão julgadora selecionará os 8 melhores projetos e mais 4 projetos para a lista de espera.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Confira a lista dos 36 classificados:&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;1 - 1000 Gols: Um Craque Virtual&lt;br /&gt;Helio Galvão Ciffoni&lt;br /&gt;Malisoft Tecnologies&lt;br /&gt;Curitiba - PR&lt;br /&gt;&lt;br /&gt;2 - Amazônia - O Feitiço das Águas&lt;br /&gt;Raphael Dias Duarte Fernandes&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;3 - Anagramas do Professor Corujoão&lt;br /&gt;João Magalhães Vieira de Mello Neto&lt;br /&gt;Icorp&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;4 - Aruanda: Aprendendo com os Orixás&lt;br /&gt;Alfredo Goés Villas-Bôas&lt;br /&gt;Itabuna - BA&lt;br /&gt;&lt;br /&gt;5 - AuZar, em Busca de Osíris&lt;br /&gt;João Ricardo Bittencourt&lt;br /&gt;Gravataí - RS&lt;br /&gt;&lt;br /&gt;6 - BiXo&lt;br /&gt;Rafael Heffer Cavaletti&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;7 - Brasilia Tropicalis&lt;br /&gt;Thiago Salgado Aiache de Moraes&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;8 - Cofre das Trevas&lt;br /&gt;Eric Morata&lt;br /&gt;Estúdio Luminar&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;9 - Conspiração Dumont&lt;br /&gt;Guilherme Mattos Coutinho&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;10 - Cool (Colegial OnLine)&lt;br /&gt;Rogério de Leon Pereira&lt;br /&gt;FourX Development Ltda&lt;br /&gt;Maringá - PR&lt;br /&gt;&lt;br /&gt;11 - Dó Ré Mi Fábula&lt;br /&gt;Maximiliano Selmi Marques&lt;br /&gt;São Carlos - SP&lt;br /&gt;&lt;br /&gt;12 - Escovadaço&lt;br /&gt;Luiz Edmundo Lopes Mizutani&lt;br /&gt;Edworld - Serviço de Informática&lt;br /&gt;São José dos Campos - SP&lt;br /&gt;&lt;br /&gt;13 - Fábrica de Tudo&lt;br /&gt;Rodrigo Monteiro Pedrosa&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;14 - Flora&lt;br /&gt;Francisco Oliveira de Queiroz&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;15 - Fórmula Galaxy&lt;br /&gt;Aguardando confirmação dos dados&lt;br /&gt;&lt;br /&gt;16 - Fuga de Anhatomirim&lt;br /&gt;Robson Jorge de Matos / Dennis Kerr Coelho&lt;br /&gt;PalmSoft Tecnologia e Desenvolvimentode Software LTDA&lt;br /&gt;Florianópolis - SC&lt;br /&gt;&lt;br /&gt;17 - Futebol de Botão&lt;br /&gt;José Lucio Mattos da Gama&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;18 - Inferno&lt;br /&gt;Alexandre Vrubel&lt;br /&gt;Continuum Entertainment Ltda.&lt;br /&gt;Curitiba - PR&lt;br /&gt;&lt;br /&gt;19 - Kalua: Start-Up Tycoon&lt;br /&gt;Winston George A. Petty&lt;br /&gt;Insólita Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;20 - Kuran&lt;br /&gt;Philip Sciangula Berick Mangione&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;21 - Léx&lt;br /&gt;Tiago Pinheiro Teixeira&lt;br /&gt;Interama Jogos Eletrônicos&lt;br /&gt;Vitória - ES&lt;br /&gt;&lt;br /&gt;22 - Memo Yumi, um Aprendiz do Horóscopo Chinês&lt;br /&gt;Denise Adriana Bandeira&lt;br /&gt;Malisoft Tecnologies&lt;br /&gt;Curitiba - PR&lt;br /&gt;&lt;br /&gt;23 - MúsicoSIM!&lt;br /&gt;Francisco José Fontes Filho&lt;br /&gt;Itabuna - BA&lt;br /&gt;&lt;br /&gt;24 - O Cara com a Pá&lt;br /&gt;Karen Zuliani Scaliaris / Silvia Regina Ferreira de Laurentiz&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;25 - Peixis! Uma Disputa Subaquática!&lt;br /&gt;Wallace Santos Lages&lt;br /&gt;Belo Horizonte-MG&lt;br /&gt;&lt;br /&gt;26 - Piolhos - um Jogo com os Pés na Cabeça&lt;br /&gt;Marcia Misawa Marcondes&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;27 - Pipa3D&lt;br /&gt;Julio Cesar Pescuite Goncalves Batista&lt;br /&gt;Campinas - SP&lt;br /&gt;&lt;br /&gt;28 - Prego Futebol&lt;br /&gt;Tereza Genoveva Nascimento Torezani&lt;br /&gt;Itabuna - BA&lt;br /&gt;&lt;br /&gt;29 - Projeto Fronteira&lt;br /&gt;Jorge Adriano Luna&lt;br /&gt;Londrina - PR&lt;br /&gt;&lt;br /&gt;30 - Roça em Pé de Guerra&lt;br /&gt;Márcio Rodrigo Viana Araújo&lt;br /&gt;Jaboatão dos Guararapes - PE&lt;br /&gt;&lt;br /&gt;31 - Santos Dumont - A Conquista do Ar&lt;br /&gt;Marcos Cuzziol&lt;br /&gt;Perceptum Software LTDA&lt;br /&gt;Santo André-SP&lt;br /&gt;&lt;br /&gt;32 - The Xtremers contra o Ciborgue DX&lt;br /&gt;Salus Feferman&lt;br /&gt;Tibet Filme&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;33 - Transeunte&lt;br /&gt;Vitor Gomes Rodrigues&lt;br /&gt;GreenLang Studios&lt;br /&gt;Guarujá - SP&lt;br /&gt;&lt;br /&gt;34 - Trem de Doido&lt;br /&gt;Marcos André Penna Coutinho&lt;br /&gt;Belo Horizonte - MG&lt;br /&gt;&lt;br /&gt;35 - Três Dentro, Três Fora&lt;br /&gt;Leonardo Gesteira Costa&lt;br /&gt;Manifesto Game Estúdio&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;36 - Zumbi, o Rei dos Palmares&lt;br /&gt;Nicholas Lima de Souza&lt;br /&gt;São Paulo - SP&lt;/p&gt;
 </content>
@@ -180,24 +180,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Primeiro Brasileiro no Espaço</title>
-   <link href="http://example.com/2006/03/24/primeiro-brasileiro-no-espaco"/>
+   <link href="//2006/03/24/primeiro-brasileiro-no-espaco"/>
    <updated>2006-03-24T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/24/primeiro-brasileiro-no-espaco</id>
+   <id>//2006/03/24/primeiro-brasileiro-no-espaco</id>
    <content type="html">&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;table width=&quot;416&quot; cellspacing=&quot;2&quot; cellpadding=&quot;1&quot; border=&quot;0&quot; style=&quot;text-align: left; margin-left: auto; margin-right: auto;&quot;&gt;
@@ -265,9 +265,9 @@
  
  <entry>
    <title>Mais jogos para Europa em 2006</title>
-   <link href="http://example.com/2005/11/14/mais-jogos-para-europa-em-2006"/>
+   <link href="//2005/11/14/mais-jogos-para-europa-em-2006"/>
    <updated>2005-11-14T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/14/mais-jogos-para-europa-em-2006</id>
+   <id>//2005/11/14/mais-jogos-para-europa-em-2006</id>
    <content type="html">&lt;p&gt;Conforme Joachim F. Meyer, da empresa alemã Caipirinha Games, o ano de 2006 promete ser ainda melhor que 2005 para as empresas brasileiras que desenvolvem jogos para a Europa. A expectativa é que se tenha entre 6 a 10 jogos brasileiros lançados, através da Caipirinha Games, no continente europeu.&lt;/p&gt;
 
 &lt;p&gt;A Caipirinha Games financia, co-produz e distribui apenas jogos de empresas brasileiras. Entre essas empresas estão Espaço Informática, Oniria Entertainment, Preloud, Ignis Games e Continuum.&lt;/p&gt;
@@ -276,9 +276,9 @@
  
  <entry>
    <title>Othello</title>
-   <link href="http://example.com/2005/10/01/othello"/>
+   <link href="//2005/10/01/othello"/>
    <updated>2005-10-01T00:00:00-03:00</updated>
-   <id>http://example.com/2005/10/01/othello</id>
+   <id>//2005/10/01/othello</id>
    <content type="html">&lt;p&gt;O Othello é um tradicional jogo de tabuleiro disputado por 2 oponentes, com o objetivo de conquistar o maior número possível de peças.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2005/10/othello4.jpg&quot;&gt;
@@ -291,9 +291,9 @@
  
  <entry>
    <title>Desafio na Floresta</title>
-   <link href="http://example.com/2005/09/20/desafio-na-floresta"/>
+   <link href="//2005/09/20/desafio-na-floresta"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/20/desafio-na-floresta</id>
+   <id>//2005/09/20/desafio-na-floresta</id>
    <content type="html">&lt;p&gt;Jogo infantil estilo plataforma, desenvolvido pela Continuum por contratação para uma editora brasileira, onde o jogador enfrenta muitos perigos, percorrendo diversas regiões do Brasil, em 12 fases de muita aventura.&lt;/p&gt;
 
 </content>
@@ -301,9 +301,9 @@
  
  <entry>
    <title>Outlive</title>
-   <link href="http://example.com/2005/09/17/outlive"/>
+   <link href="//2005/09/17/outlive"/>
    <updated>2005-09-17T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/17/outlive</id>
+   <id>//2005/09/17/outlive</id>
    <content type="html">&lt;p&gt;Outlive é um jogo de estratégia em tempo real, no qual o jogador deve gerenciar sua base e construir tropas para atacar seus adversários. O jogo possui uma avançada Inteligência Artificial, permitindo que uma pessoa possa disputar partidas contra até 7 exércitos controlados pelo computador. Em Outlive também é possível jogar contra outras pessoas, através de cabo serial, modem, rede local e internet.&lt;/p&gt;
 
 &lt;p&gt;As partidas realizadas através da rede local e internet suportam até 16 pessoas num mesmo jogo. As partidas disputadas pela internet utilizam o Continuum Game Server (CGS), um serviço de jogos oferecido gratuitamente pela Continuum, onde é possível encontrar outras pessoas para conversar e jogar Outlive, através de uma interface totalmente integrada ao jogo.Outlive foi o primeiro jogo da empresa Continuum de Curitiba.&lt;/p&gt;

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - ps4</title>
- <link href="http://example.com/tags/ps4/index.xml" rel="self"/>
- <link href="http://example.com/tag/ps4.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/ps4.html</id>
+ <title>jogosdaqui - ps4</title>
+ <link href="//tags/ps4/index.xml" rel="self"/>
+ <link href="/tag/ps4.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/ps4.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</title>
-   <link href="http://example.com/2018/11/14/blazing-chrome-vai-desafiar-jogadores"/>
+   <link href="//2018/11/14/blazing-chrome-vai-desafiar-jogadores"/>
    <updated>2018-11-14T00:00:00-02:00</updated>
-   <id>http://example.com/2018/11/14/blazing-chrome-vai-desafiar-jogadores</id>
+   <id>//2018/11/14/blazing-chrome-vai-desafiar-jogadores</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -31,7 +31,7 @@
 &lt;p&gt;Fãs de No More Heroes também podem mostrar seu amor por Blazing Chrome no jogo Travis Strikes Again: No More Heroes, para Nintendo Switch, usando a camiseta exclusiva. Você pode ver o design no &lt;a href=&quot;https://twitter.com/Grasshopper_JP/status/1060811401738899457&quot;&gt;twit original da Grasshopper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;
@@ -40,9 +40,9 @@
  
  <entry>
    <title>ZombieZoid - Zenith</title>
-   <link href="http://example.com/2015/10/07/zombiezoid-zenith"/>
+   <link href="//2015/10/07/zombiezoid-zenith"/>
    <updated>2015-10-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/10/07/zombiezoid-zenith</id>
+   <id>//2015/10/07/zombiezoid-zenith</id>
    <content type="html">&lt;p&gt;Se você é fã dos filmes de zumbi de George A. Romero, como os clássicos A Noite dos Mortos  Vivos (Night of the Living Dead) e Despertar dos Mortos (Dawn of the Dead), mas também gosta de um bom toque de humor como o filme Todo Mundo Quase Morto (Shaun of the Dead) de Edgar Wright, então o jogo que a brasileira Adhoc Games passou dois anos desenvolvendo foi feito pra você.&lt;/p&gt;
 
 &lt;h2 id=&quot;zombiezoid---zenith&quot;&gt;ZombieZoid - Zenith&lt;/h2&gt;
@@ -72,9 +72,9 @@
  
  <entry>
    <title>Game brasileiro Paper Cat ajuda ONGs</title>
-   <link href="http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
+   <link href="//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
    <updated>2015-08-25T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
+   <id>//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
    <content type="html">&lt;p&gt;Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa.&lt;/p&gt;
 
 &lt;p&gt;É nessa ideia que o game &lt;a href=&quot;http://papercatgame.tumblr.com/&quot;&gt;Paper Cat&lt;/a&gt; da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.&lt;/p&gt;
@@ -96,9 +96,9 @@
  
  <entry>
    <title>Horizon Chase se aproxima do grid de largada</title>
-   <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
+   <link href="//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
    <updated>2015-08-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
+   <id>//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
    <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot;&gt;Aquiris Game Studio&lt;/a&gt; á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
 
 &lt;p&gt;Segundo a gamedev gaúcha, Horizon Chase será um jogo premium, contendo 8 copas, 32 cidades, 73 pistas e 16 carros desbloqueáveis.&lt;/p&gt;
@@ -118,9 +118,9 @@
  
  <entry>
    <title>Crowdfunding de 99Vidas o jogo</title>
-   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
+   <link href="//2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
+   <id>//2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
    <content type="html">&lt;p&gt;O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat’em up, grandes clássicos e referências para qualquer game do gênero.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://99vidas.com.br/jogo&quot; target=&quot;_blank&quot;&gt;99Vidas o jogo&lt;/a&gt;
@@ -149,9 +149,9 @@
  
  <entry>
    <title>Começa o early access de Better late than DEAD</title>
-   <link href="http://example.com/2015/07/23/comeca-o-early-access-de-better-late-than-dead"/>
+   <link href="//2015/07/23/comeca-o-early-access-de-better-late-than-dead"/>
    <updated>2015-07-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/23/comeca-o-early-access-de-better-late-than-dead</id>
+   <id>//2015/07/23/comeca-o-early-access-de-better-late-than-dead</id>
    <content type="html">&lt;p&gt;O survival game Better late than DEAD que está sendo desenvolvido pela &lt;a href=&quot;http://odingamestudio.com.br/&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
  desde o início do ano começou seu early access no Steam hoje: &lt;a href=&quot;http://store.steampowered.com/app/352950&quot; target=&quot;_blank&quot;&gt;http://store.steampowered.com/app/352950&lt;/a&gt;&lt;/p&gt;
 
@@ -168,9 +168,9 @@
  
  <entry>
    <title>Prévia de Peronio Pop-Up Book da Ovni Studios</title>
-   <link href="http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
+   <link href="//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
    <updated>2015-06-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
+   <id>//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
    <content type="html">&lt;p&gt;A primeira evidência histórica de livros pop-up remonta para o ano 1240 quando o monge beneditino Matthew Paris criou tal artefato para ajudar outros monges a calcular os dias santos. Nos séculos seguintes livros pop-up foram utilizados por adultos para ilustrar teorias, ensinar anatomia, fazer predições astronômicas e criar códigos secretos. Somente no século 18 surgiram os primeiros livros pop-up com sua finalidade mais famosa nos dias atuais: divertir e ensinar crianças.&lt;/p&gt;
 
 &lt;p&gt;Séculos depois graças as tecnologias atuais e as sempre infinitas capacidade e criatividade humana, os livros pop-up podem evoluir a um novo patamar e é nesse estágio que conhecemos Peronio Pop-up Book da Ovni Studios.&lt;/p&gt;
@@ -210,9 +210,9 @@
  
  <entry>
    <title>Prévia de My Night Job da Webcore Games</title>
-   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games"/>
+   <link href="//2015/06/10/previa-de-my-night-job-da-webcore-games"/>
    <updated>2015-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
+   <id>//2015/06/10/previa-de-my-night-job-da-webcore-games</id>
    <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
 
 &lt;p&gt;Se quando você viu esses filmes ficou com vontade de pegar a serra elétrica, sua boomstick (a arma de cano-serrado), entrar numa casa mal-assombrada, detonar os demônios e salvar o dia no melhor estilo insano do herói Ash Williams, então o game que a Webcore Games está desenvolvendo matará sua vontade.&lt;/p&gt;
@@ -254,9 +254,9 @@
  
  <entry>
    <title>Entrevista: Fernando Paulo, criador de Treeker</title>
-   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
+   <link href="//2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
+   <id>//2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
    <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot;&gt;Blusoft Studios&lt;/a&gt;, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
 
 &lt;h2 id=&quot;para-contextualizar-o-leitor-conte-um-pouco-da-tua-história-no-gamedev&quot;&gt;Para contextualizar o leitor, conte um pouco da tua história no gamedev?&lt;/h2&gt;
@@ -270,7 +270,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker: Os Óculos Perdidos, game criado por Fernando Paulo &lt;/span&gt;&lt;/center&gt;
 
@@ -295,7 +295,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker e seu visual 3D estiloso &lt;/span&gt;&lt;/center&gt;
 
@@ -327,9 +327,9 @@
  
  <entry>
    <title>Entrevista: Alessandro Martinello, diretor criativo de Toren</title>
-   <link href="http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren"/>
+   <link href="//2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren"/>
    <updated>2015-05-12T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren</id>
+   <id>//2015/05/12/entrevista-alessandro-martinello-diretor-criativo-de-toren</id>
    <content type="html">&lt;p&gt;Depois de anos de espera, o dia chegou: &lt;a href=&quot;http://toren-game.com/&quot;&gt;Toren da gaúcha Swordtales&lt;/a&gt; será lançado hoje, 12 de maio de 2015, para PC e PS4. Certamente um dia que entrará para a história do gamedev brasileiro.&lt;/p&gt;
 
 &lt;p&gt;Resolvemos deixar a análise do game para outro momento, uma porque hoje será um dia de enxurrada de análises e opiniões sobre o game. 
@@ -390,9 +390,9 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
  
  <entry>
    <title>Toren ganha trailer de lançamento</title>
-   <link href="http://example.com/2015/05/03/toren-ganha-trailer-de-lancamento"/>
+   <link href="//2015/05/03/toren-ganha-trailer-de-lancamento"/>
    <updated>2015-05-03T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/03/toren-ganha-trailer-de-lancamento</id>
+   <id>//2015/05/03/toren-ganha-trailer-de-lancamento</id>
    <content type="html">&lt;p&gt;A Swordtales está preparando para o próximo dia 12 o lançamento para PS4 e PC de seu &lt;a href=&quot;http://toren-game.com/?lang=pt&quot; target=&quot;_blank&quot;&gt;game Toren&lt;/a&gt;
  .&lt;/p&gt;
 
@@ -411,9 +411,9 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
  
  <entry>
    <title>QUByte Interactive produzindo novo game</title>
-   <link href="http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game"/>
+   <link href="//2015/04/30/qubyte-interactive-produzindo-novo-game"/>
    <updated>2015-04-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game</id>
+   <id>//2015/04/30/qubyte-interactive-produzindo-novo-game</id>
    <content type="html">&lt;p&gt;A paulista QUByte Interactive, conhecida pelo jogo &lt;a href=&quot;/2014/06/18/splitplay-apresenta-htr-high-tech-racing/&amp;quot;&quot;&gt;HTR+&lt;/a&gt;, anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U.&lt;/p&gt;
 
 &lt;p&gt;Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou apenas um hotsite para acompanhar a contagem até o dia da revelação: &lt;a href=&quot;http://www.qubyteinteractive.com/games/newgame/&quot;&gt;http://www.qubyteinteractive.com/games/newgame/&lt;/a&gt;,&lt;/p&gt;
@@ -427,9 +427,9 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
  
  <entry>
    <title>Entrevista: Claudio Lins</title>
-   <link href="http://example.com/2015/04/22/entrevista-claudio-lins"/>
+   <link href="//2015/04/22/entrevista-claudio-lins"/>
    <updated>2015-04-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
+   <id>//2015/04/22/entrevista-claudio-lins</id>
    <content type="html">&lt;p&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-da-tua-trajetória-como-chegaste-ao-gamedev&quot;&gt;Fale um pouco da tua trajetória, como chegaste ao gamedev?&lt;/h2&gt;
@@ -442,7 +442,7 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Riding Ground, game desenvolvido pela Preloud &lt;/span&gt;&lt;/center&gt;
 
@@ -457,7 +457,7 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -491,7 +491,7 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 

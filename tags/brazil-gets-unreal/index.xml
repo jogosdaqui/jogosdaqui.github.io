@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - brazil-gets-unreal</title>
- <link href="http://example.com/tags/brazil-gets-unreal/index.xml" rel="self"/>
- <link href="http://example.com/tag/brazil-gets-unreal.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/brazil-gets-unreal.html</id>
+ <title>jogosdaqui - brazil-gets-unreal</title>
+ <link href="//tags/brazil-gets-unreal/index.xml" rel="self"/>
+ <link href="/tag/brazil-gets-unreal.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/brazil-gets-unreal.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis</title>
-   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
+   <link href="//2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
    <updated>2015-09-03T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
+   <id>//2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
    <content type="html">&lt;p&gt;Depois de visitar Rio de Janeiro, São Paulo, Recife e Fortaleza, chegou a hora do evento Brazil Gets Unreal, da  Epic Games, acontecer no sul do país.&lt;/p&gt;
 
 &lt;p&gt;O Brazil Gets Unreal é uma série de palestras mostrando casos de uso da engine Unreal, onde você verá exatamente como construir um jogo de tiro twin-stick para dispositivos móveis – completamente do zero – utilizando o Blueprint visual scripting system da Unreal Engine 4. Como Blueprints são facilmente aproveitados por todas as disciplinas do desenvolvimento de jogos, todos os artistas, designers e programadores são bem-vindos.&lt;/p&gt;
@@ -44,9 +44,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4"/>
+   <link href="//2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/02/checkpoint-4</id>
+   <id>//2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://gamereporter.uol.com.br/mundo-canibal-apocalipse-steam&quot;&gt;O game Mundo Canibal Apocalipse chega no Steam Greenlight. Jogo e voto obrigatórios para quem gosta do humor dos irmãos Piologo&lt;/a&gt;&lt;/p&gt;
 
@@ -93,9 +93,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Brazil Gets Unreal</title>
-   <link href="http://example.com/2015/05/01/brazil-gets-unreal"/>
+   <link href="//2015/05/01/brazil-gets-unreal"/>
    <updated>2015-05-01T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/01/brazil-gets-unreal</id>
+   <id>//2015/05/01/brazil-gets-unreal</id>
    <content type="html">&lt;p&gt;A Epic Games realizará em maio o Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal.&lt;/p&gt;
 
 &lt;p&gt;O evento terá 4 edições cada uma delas durante 6 horas, onde serão apresentados princípios fundamentais para desenvolver um game utilizando a última versão do popular motor gráfico.&lt;/p&gt;

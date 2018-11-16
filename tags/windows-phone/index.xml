@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - windows-phone</title>
- <link href="http://example.com/tags/windows-phone/index.xml" rel="self"/>
- <link href="http://example.com/tag/windows-phone.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/windows-phone.html</id>
+ <title>jogosdaqui - windows-phone</title>
+ <link href="//tags/windows-phone/index.xml" rel="self"/>
+ <link href="/tag/windows-phone.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/windows-phone.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Sheep Dreams Are Made of This</title>
-   <link href="http://example.com/2015/12/09/sheep-dreams-are-made-of-this"/>
+   <link href="//2015/12/09/sheep-dreams-are-made-of-this"/>
    <updated>2015-12-09T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/09/sheep-dreams-are-made-of-this</id>
+   <id>//2015/12/09/sheep-dreams-are-made-of-this</id>
    <content type="html">&lt;p&gt;O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.&lt;/p&gt;
 
 &lt;p&gt;Você controla um homem que tem o mesmo pesadelo toda noite há 17 anos, onde tudo que ele consegue fazer é correr, pular e coletar fragmentos de memórias há muito esquecidas.&lt;/p&gt;
@@ -37,9 +37,9 @@
  
  <entry>
    <title>Jogos Vorazes ganha game no estilo Super Trunfo</title>
-   <link href="http://example.com/2015/11/19/jogos-vorazes-ganha-game-de-cartas"/>
+   <link href="//2015/11/19/jogos-vorazes-ganha-game-de-cartas"/>
    <updated>2015-11-19T00:00:00-02:00</updated>
-   <id>http://example.com/2015/11/19/jogos-vorazes-ganha-game-de-cartas</id>
+   <id>//2015/11/19/jogos-vorazes-ganha-game-de-cartas</id>
    <content type="html">&lt;p&gt;A saga Jogos Vorazes, um dos maiores fenômenos do cinema nas últimas décadas, está agora também nas telinhas dos smartphones e tablets. Na semana em que o quarto e último filme estreia nos cinemas, Katniss, Peeta, Alma Coin, Presidente Snow e companhia são também os protagonistas do Jogos Vorazes Card Game, que chega gratuitamente nas lojas de aplicativos para celulares.&lt;/p&gt;
 
 &lt;h2 id=&quot;uma-mecânica-familiar&quot;&gt;Uma mecânica familiar&lt;/h2&gt;
@@ -69,9 +69,9 @@ Terminada a partida, o jogador vencedor ganha uma nova carta aleatória do monte
  
  <entry>
    <title>Max Quiz</title>
-   <link href="http://example.com/2015/10/16/max-quiz"/>
+   <link href="//2015/10/16/max-quiz"/>
    <updated>2015-10-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/10/16/max-quiz</id>
+   <id>//2015/10/16/max-quiz</id>
    <content type="html">&lt;p&gt;O casal de desenvolvedores independentes Glauber e Camila, que mesmo antes de se conhecerem já eram apaixonados por games, juntaram suas paixões e formaram a Maxlab Studios de São Paulo, empresa criadora do game &lt;a href=&quot;http://www.maxquiz.com/&quot; target=&quot;_blank&quot;&gt;Max Quiz&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -97,9 +97,9 @@ Terminada a partida, o jogador vencedor ganha uma nova carta aleatória do monte
  
  <entry>
    <title>Rock Life</title>
-   <link href="http://example.com/2015/09/09/rock-life"/>
+   <link href="//2015/09/09/rock-life"/>
    <updated>2015-09-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/09/rock-life</id>
+   <id>//2015/09/09/rock-life</id>
    <content type="html">&lt;p&gt;Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis?&lt;/p&gt;
 
 &lt;p&gt;Ser o guitarrista virtuoso de uma grande banda de rock já foi o sonho de muita gente.&lt;/p&gt;
@@ -129,9 +129,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>ReOrd</title>
-   <link href="http://example.com/2015/08/26/reord"/>
+   <link href="//2015/08/26/reord"/>
    <updated>2015-08-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/26/reord</id>
+   <id>//2015/08/26/reord</id>
    <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
 
 &lt;p&gt;Trazer esse gameplay simples de um brinquedo de infância para as telas mobile é a proposta do game ReOrd.&lt;/p&gt;
@@ -160,9 +160,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Phoenix Force</title>
-   <link href="http://example.com/2015/04/28/phoenix-force"/>
+   <link href="//2015/04/28/phoenix-force"/>
    <updated>2015-04-28T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/28/phoenix-force</id>
+   <id>//2015/04/28/phoenix-force</id>
    <content type="html">&lt;p&gt;Shoot ‘em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão final. Imaginou? Esse é o Phoenix Force da gaúcha Awoker Games que denomina o jogo como o primeiro Fantasy Boss Shooter Game.&lt;/p&gt;
 
 &lt;p&gt;Na história do game o jogador iniciará como a fênix de Fogo, chamada Fury que foi a primeira a renascer numa Terra primordial onde terá que enfrentar monstros e tentar resgatar as outras fênix: Cryo de Gelo, Tupã de Trovão, Gaia da Terra e Gast de Fantasma.&lt;/p&gt;
@@ -204,9 +204,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Tank Invaders atinge mais de 300 mil downloads</title>
-   <link href="http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads"/>
+   <link href="//2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads"/>
    <updated>2015-04-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
+   <id>//2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
    <content type="html">&lt;p&gt;Como diria o General Rogers: “Temos novidades do campo de batalha, soldado!”.&lt;/p&gt;
 
 &lt;p&gt;Na semana passada falamos de &lt;a href=&quot;/2015/04/08/tank-invaders&quot;&gt;Tank Invaders&lt;/a&gt;
@@ -221,9 +221,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Tank Invaders</title>
-   <link href="http://example.com/2015/04/08/tank-invaders"/>
+   <link href="//2015/04/08/tank-invaders"/>
    <updated>2015-04-08T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/08/tank-invaders</id>
+   <id>//2015/04/08/tank-invaders</id>
    <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt; e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt; você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.&lt;/p&gt;
 
 &lt;p&gt;A melhor definição o estilo do game Tank Invaders da Mgaia Studio é o que a própria empresa dá: o único FPS shoot’em up.  A visão do jogo, como pode ser visto nas imagens e vídeo abaixo é no  estilo de clássicos shoot’em up, entretanto você não vê a sua “nave”, pois a visão é primeira pessoa, então chegamos a definição de estilo dado pelo Mgaia.&lt;/p&gt;
@@ -250,9 +250,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Master of Words</title>
-   <link href="http://example.com/2013/05/20/master-of-words"/>
+   <link href="//2013/05/20/master-of-words"/>
    <updated>2013-05-20T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/20/master-of-words</id>
+   <id>//2013/05/20/master-of-words</id>
    <content type="html">&lt;p&gt;Deveria ter feito esse post sobre o &lt;a href=&quot;http://masterofwords.net/&quot; target=&quot;_blank&quot;&gt;Master of Words&lt;/a&gt;
 , da gaúcha &lt;a href=&quot;http://www.rockheadgames.com/&quot; target=&quot;_blank&quot;&gt;Rockhead Games&lt;/a&gt;
 , na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)&lt;/p&gt;

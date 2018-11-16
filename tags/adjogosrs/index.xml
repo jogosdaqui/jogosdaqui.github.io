@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - adjogosrs</title>
- <link href="http://example.com/tags/adjogosrs/index.xml" rel="self"/>
- <link href="http://example.com/tag/adjogosrs.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/adjogosrs.html</id>
+ <title>jogosdaqui - adjogosrs</title>
+ <link href="//tags/adjogosrs/index.xml" rel="self"/>
+ <link href="/tag/adjogosrs.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/adjogosrs.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #3</title>
-   <link href="http://example.com/2015/04/26/checkpoint-3"/>
+   <link href="//2015/04/26/checkpoint-3"/>
    <updated>2015-04-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/26/checkpoint-3</id>
+   <id>//2015/04/26/checkpoint-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/04/21/museu-do-videogame-itinerante&quot;&gt;Evento do Museu do Videogame Itinerante, onde os jogadores podem conhecer e jogar clássicos das décadas de 70, 80, 90 e 2000&lt;/a&gt;&lt;/p&gt;
 
@@ -39,9 +39,9 @@
  
  <entry>
    <title>Cobertura do evento PowerUp #2</title>
-   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2"/>
+   <link href="//2015/04/24/cobertura-do-evento-powerup-2"/>
    <updated>2015-04-24T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/24/cobertura-do-evento-powerup-2</id>
+   <id>//2015/04/24/cobertura-do-evento-powerup-2</id>
    <content type="html">&lt;p&gt;Quarta-feira na universade Feevale aconteceu a segunda edição do evento &lt;a title=&quot;PowerUp #2&quot; href=&quot;/2015/04/17/powerup-2/&quot;&gt;PowerUp&lt;/a&gt;
 , o jogosdaqui esteve lá para apreciar as palestras e alguns jogos que foram desenvolvidos durante a Ludum Dare.&lt;/p&gt;
 
@@ -78,9 +78,9 @@
  
  <entry>
    <title>Checkpoint #2</title>
-   <link href="http://example.com/2015/04/18/checkpoint-2"/>
+   <link href="//2015/04/18/checkpoint-2"/>
    <updated>2015-04-18T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/18/checkpoint-2</id>
+   <id>//2015/04/18/checkpoint-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/04/17/axis-game-day&quot;&gt;O evento AXIS Game Day, que acontece hoje, com diversas palestras de gamedevs brasileiros&lt;/a&gt;&lt;/p&gt;
 
@@ -98,9 +98,9 @@
  
  <entry>
    <title>PowerUp #2</title>
-   <link href="http://example.com/2015/04/17/powerup-2"/>
+   <link href="//2015/04/17/powerup-2"/>
    <updated>2015-04-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/17/powerup-2</id>
+   <id>//2015/04/17/powerup-2</id>
    <content type="html">&lt;p&gt;PowerUp é um evento organizado pela ADjogosRS (Associação do Desenvolvedores de Jogos Digitais do Rio Grande do Sul) para incentivar alunos e profissionais da área de gamedev a participarem da Ludum Dare, game jam que tem sua nova temporada começando hoje.&lt;/p&gt;
 
 &lt;p&gt;Durante o evento serão realizadas palestras com profissionais da área, além disso, quem participou da Ludum Dare poderá levar seus games para serem testados pelas empresas associadas.&lt;/p&gt;
@@ -123,9 +123,9 @@
  
  <entry>
    <title>DASH GAMES</title>
-   <link href="http://example.com/2014/04/28/dash-games"/>
+   <link href="//2014/04/28/dash-games"/>
    <updated>2014-04-28T00:00:00-03:00</updated>
-   <id>http://example.com/2014/04/28/dash-games</id>
+   <id>//2014/04/28/dash-games</id>
    <content type="html">&lt;p&gt;A Associação de Desenvolvedores de Jogos Digitais do Rio Grande do Sul - &lt;strong&gt;ADJOGOSRS&lt;/strong&gt; apresenta, em cooperação com a &lt;strong&gt;BITS 2014&lt;/strong&gt;, o &lt;strong&gt;DASH GAMES&lt;/strong&gt;, evento que será realizado de 13 a 15 de maio de 2014, durante a feira de Tecnologia da Informação e da Comunicação, no Centro de Eventos &lt;strong&gt;FIERGS&lt;/strong&gt;, em Porto Alegre (RS). Será o primeiro evento internacional – com convidados dos Estados Unidos, Finlândia, Chile e Argentina - voltado exclusivamente para a indústria de jogos Latino-Americana, e propõe o compartilhamento de informações sobre produção e mercado, para ampliar o conhecimento técnico entre estudantes, profissionais e desenvolvedoras.&lt;/p&gt;
 
 &lt;p&gt;Para Carlos Idiart, Presidente da ADJOGOSRS, o DASH GAMES criará novas oportunidades de negócios, incentivando o crescimento da indústria no RS. “Esse evento será um marco para o mercado do RS, pois a partir dele estaremos no mapa mundial de desenvolvedores de games. Já estamos sendo reconhecidos por varias empresas e investidores internacionais como possíveis parceiros e o DASH fortalecerá muito nosso ecossistema de produção”, afirma.&lt;/p&gt;

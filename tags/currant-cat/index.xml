@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - currant-cat</title>
- <link href="http://example.com/tags/currant-cat/index.xml" rel="self"/>
- <link href="http://example.com/tag/currant-cat.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/currant-cat.html</id>
+ <title>jogosdaqui - currant-cat</title>
+ <link href="//tags/currant-cat/index.xml" rel="self"/>
+ <link href="/tag/currant-cat.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/currant-cat.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Prévia: Cannon Land</title>
-   <link href="http://example.com/2011/04/27/previa-cannon-land"/>
+   <link href="//2011/04/27/previa-cannon-land"/>
    <updated>2011-04-27T00:00:00-03:00</updated>
-   <id>http://example.com/2011/04/27/previa-cannon-land</id>
+   <id>//2011/04/27/previa-cannon-land</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Cannon Land é um arquipélago conquistado por Sir Muzzle, um dos piratas mais malucos a navegar pelos oceanos. Um dia, ele decidiu parar de saquear navios e portos e começou a construir armadilhas incríveis, para proteger os seus tesouros. A lenda diz que ele enloqueceu e morreu Cannon Land, e suas armadilhas continuam funcionando até hoje. Muitos aventureiros tentaram passar pelas engenhocas de Muzzle, mas nenhum conseguiu, e a lenda foi ganhando força dia após dia…
 Duzentos anos depois, um menino decide sair para uma aventura! Com sua espada de madeira, e uma roupa de pirata feita pela sua avó, Chunkie está confiante de que conquistar o tesouro de Sir Muzzle e se transformar em um herói!&quot;

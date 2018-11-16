@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - sbt</title>
- <link href="http://example.com/tags/sbt/index.xml" rel="self"/>
- <link href="http://example.com/tag/sbt.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/sbt.html</id>
+ <title>jogosdaqui - sbt</title>
+ <link href="//tags/sbt/index.xml" rel="self"/>
+ <link href="/tag/sbt.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/sbt.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Lançamento mundial do jogo Xiaolin Showdown</title>
-   <link href="http://example.com/2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown"/>
+   <link href="//2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown"/>
    <updated>2006-11-24T00:00:00-02:00</updated>
-   <id>http://example.com/2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown</id>
+   <id>//2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown</id>
    <content type="html">&lt;p&gt;Lançamento mundial do jogo Xiaolin Showdown com participação da Southlogic Studios no dia 24 de novembro de 2006.&lt;br /&gt; &lt;br /&gt;O lançamento mundial do jogo &quot;Xiaolin Showdown&quot;, para as plataformas: PS2, DS, PSP e XBOX. O jogo é baseado no desenho animado da Warner Bros, que aqui no Brasil se chama Duelo Xiaolin. O desenho passa no canal do Cartoon Network, SBT e na Warner Channel nos EUA. A empresa gaucha Southlogic Studios, foi a responsável pela versão XBox do jogo. O desenvolvimento foi da BottleRocket e a distribuição da Konami.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;O jogo:&lt;/span&gt;&lt;br /&gt;O jogador guia um monge do kung fu e três guerreiros especialistas em artes marciais, em uma missão para encontrar e proteger os Shen-Gong-Wu, objetos místicos que dão superpoderes ao seu proprietário. Os vilões da parada são liderados Jack Spicer, que tem ao seu lado um exército de robôs e uma bruxa chamada Wuya.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -26,9 +26,9 @@
  
  <entry>
    <title>Novos jogos da Green Land Studios</title>
-   <link href="http://example.com/2005/12/22/novos-jogos-da-green-land-studios"/>
+   <link href="//2005/12/22/novos-jogos-da-green-land-studios"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/22/novos-jogos-da-green-land-studios</id>
+   <id>//2005/12/22/novos-jogos-da-green-land-studios</id>
    <content type="html">&lt;p&gt;A Green Land Studios lançou dois novos jogos: Bate-Rebate e Dominó Chinês.&lt;/p&gt;
 
 &lt;p&gt;Os dois jogos são distribuídos pelo SBT através do site &lt;a href=&quot;http://www.sbtdiversao.com.br&quot; target=&quot;_blank&quot;&gt;SBT Diversão&lt;/a&gt;
@@ -42,9 +42,9 @@
  
  <entry>
    <title>Dominó Chinês</title>
-   <link href="http://example.com/2005/12/22/domino-chines"/>
+   <link href="//2005/12/22/domino-chines"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/22/domino-chines</id>
+   <id>//2005/12/22/domino-chines</id>
    <content type="html">&lt;h2 id=&quot;dominó-chinês&quot;&gt;Dominó Chinês&lt;/h2&gt;
 &lt;p&gt;Difere do dominó clássico, onde o jogador deve colocar em sequência peças que possuem extremidades iguais. No jogo chinês as peças são desempilhadas e são feitas combinações com outras peças para avançar. Quando é feita a combinação correta o par de peças é eliminado.&lt;/p&gt;
 
@@ -58,9 +58,9 @@
  
  <entry>
    <title>Bate-Rebate</title>
-   <link href="http://example.com/2005/12/22/bate-rebate"/>
+   <link href="//2005/12/22/bate-rebate"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/22/bate-rebate</id>
+   <id>//2005/12/22/bate-rebate</id>
    <content type="html">&lt;p&gt;Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D.&lt;/p&gt;
 
 &lt;p&gt;Utilizando das muitas possibilidades que as novas dimensões trazem ao jogo, o estilo Arkanoid ganha um novo fôlego e inúmeras novas combinações para a jogabilidade, um exemplo disto são as fases onde vários blocos estão empilhados, algo impossível em jogos 2D do mesmo estilo.&lt;/p&gt;
@@ -76,9 +76,9 @@
  
  <entry>
    <title>Show do Milhão Júnior</title>
-   <link href="http://example.com/2005/09/28/show-do-milhao-junior"/>
+   <link href="//2005/09/28/show-do-milhao-junior"/>
    <updated>2005-09-28T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/28/show-do-milhao-junior</id>
+   <id>//2005/09/28/show-do-milhao-junior</id>
    <content type="html">&lt;p&gt;Todas as emoções do programa de televisão “Show do Milhão” do SBT com Silvio Santos estão neste cd.&lt;/p&gt;
 
 &lt;p&gt;As perguntas são narradas pelo próprio Silvio Santos, e as respostas são ilustradas, permitindo que a criança jogue sozinha ou acompanhada de seus pais.&lt;/p&gt;
@@ -90,9 +90,9 @@ Com Certeza você também será um vencedor!&lt;/p&gt;
  
  <entry>
    <title>Show do Milhão Colecionador</title>
-   <link href="http://example.com/2005/09/20/show-do-milhao-colecionador"/>
+   <link href="//2005/09/20/show-do-milhao-colecionador"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/20/show-do-milhao-colecionador</id>
+   <id>//2005/09/20/show-do-milhao-colecionador</id>
    <content type="html">&lt;p&gt;Todas as emoções do programa de televisão &quot;&lt;span style=&quot;font-weight: bold;&quot;&gt;Show do Milhão&lt;/span&gt;&quot; do SBT agora com as 4 edições em um só CD num total de 9000 perguntas. Brinque com &lt;span style=&quot;font-weight: bold;&quot;&gt;Silvio Santos&lt;/span&gt; no jogo mais excitante da TV Brasileira.&lt;/p&gt;
 
 &lt;p&gt;Os recursos disponíveis na TV também estão nesse jogo, e o jogador poderá pedir ajuda às cartas, à platéia, aos universitários, ou ainda pular três perguntas para alcançar a pontuação máxima de R$ 1.000.000,00 (fictícia)…&lt;/p&gt;

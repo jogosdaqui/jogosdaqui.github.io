@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - game-academy</title>
- <link href="http://example.com/tags/game-academy/index.xml" rel="self"/>
- <link href="http://example.com/tag/game-academy.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/game-academy.html</id>
+ <title>jogosdaqui - game-academy</title>
+ <link href="//tags/game-academy/index.xml" rel="self"/>
+ <link href="/tag/game-academy.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/game-academy.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Surge a Game Academy, escola online focada em games</title>
-   <link href="http://example.com/2015/07/03/surge-a-game-academy-escola-online-focada-em-games"/>
+   <link href="//2015/07/03/surge-a-game-academy-escola-online-focada-em-games"/>
    <updated>2015-07-03T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/03/surge-a-game-academy-escola-online-focada-em-games</id>
+   <id>//2015/07/03/surge-a-game-academy-escola-online-focada-em-games</id>
    <content type="html">&lt;p&gt;Hoje a internet facilita a vida de todos e a Game Academy aproveita essa oportunidade para facilitar ainda mais a vida das pessoas que buscam um futuro profissional criativo, divertido e altamente compensador. Criamos uma série de cursos online com o objetivo simples e direto de dar oportunidade e levar a expertise em planejamento, criação e desenvolvimento de games para estudantes, profissionais e entusiastas que sonham em produzir games e que antes não conseguiam por falta de acesso em relação ao idioma e custo elevado.&lt;/p&gt;
 
 &lt;p&gt;Os conteúdos foram desenvolvidos para maximizar o aprendizado relacionado a todas as etapas necessárias na construção e desenvolvimento de um game, cursos elaborados com base nas necessidades do mercado, que utilizam linguagens acessíveis e de fácil compreensão, sempre preocupados com novas tecnologias e formas de aplicá-las.&lt;/p&gt;

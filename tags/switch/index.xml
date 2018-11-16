@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - switch</title>
- <link href="http://example.com/tags/switch/index.xml" rel="self"/>
- <link href="http://example.com/tag/switch.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/switch.html</id>
+ <title>jogosdaqui - switch</title>
+ <link href="//tags/switch/index.xml" rel="self"/>
+ <link href="/tag/switch.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/switch.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</title>
-   <link href="http://example.com/2018/11/14/blazing-chrome-vai-desafiar-jogadores"/>
+   <link href="//2018/11/14/blazing-chrome-vai-desafiar-jogadores"/>
    <updated>2018-11-14T00:00:00-02:00</updated>
-   <id>http://example.com/2018/11/14/blazing-chrome-vai-desafiar-jogadores</id>
+   <id>//2018/11/14/blazing-chrome-vai-desafiar-jogadores</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -31,7 +31,7 @@
 &lt;p&gt;Fãs de No More Heroes também podem mostrar seu amor por Blazing Chrome no jogo Travis Strikes Again: No More Heroes, para Nintendo Switch, usando a camiseta exclusiva. Você pode ver o design no &lt;a href=&quot;https://twitter.com/Grasshopper_JP/status/1060811401738899457&quot;&gt;twit original da Grasshopper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;

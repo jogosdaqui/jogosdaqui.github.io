@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - imax-games</title>
- <link href="http://example.com/tags/imax-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/imax-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/imax-games.html</id>
+ <title>jogosdaqui - imax-games</title>
+ <link href="//tags/imax-games/index.xml" rel="self"/>
+ <link href="/tag/imax-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/imax-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>MemoMax</title>
-   <link href="http://example.com/2011/01/07/memomax"/>
+   <link href="//2011/01/07/memomax"/>
    <updated>2011-01-07T00:00:00-02:00</updated>
-   <id>http://example.com/2011/01/07/memomax</id>
+   <id>//2011/01/07/memomax</id>
    <content type="html">&lt;p&gt;A produtora iMAX Games lançou seu primeiro game para as plataformas portatéis da Apple.&lt;/p&gt;
 
 &lt;p&gt;MemoMax para iPad é um jogo da memória diferente, onde o jogador precisa encontrar pares iguais de carta, escolhendo uma carta do centro do tabuleiro e outra da &quot;moldura&quot; do tabuleiro. Toda vez que as cartas não são iguais, elas invertem de posição. Essa singela diferença torna o game muito mais dinâmico e desafiador.&lt;/p&gt;
@@ -28,27 +28,27 @@
  
  <entry>
    <title>Plush Poison</title>
-   <link href="http://example.com/2007/01/18/plush-poison"/>
+   <link href="//2007/01/18/plush-poison"/>
    <updated>2007-01-18T00:00:00-02:00</updated>
-   <id>http://example.com/2007/01/18/plush-poison</id>
+   <id>//2007/01/18/plush-poison</id>
    <content type="html">&lt;p&gt;Em Plush Poison o jogador deve acompanhar o som da dupla escolhida e prestar atenção no tempo. Para marcar pontos é preciso tocar no momento exato de cada nota musical.&lt;br /&gt;&lt;br /&gt;As teclas A, S, D e F representam cordas da sua guitarra. Você precisa tocar cada uma no momento correto para que o seu &quot;talentômetro&quot; esquente ao máximo, mas cuidado para não errar muito, pois assim o seu show terminará antes da hora.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Menininhas</title>
-   <link href="http://example.com/2007/01/17/menininhas"/>
+   <link href="//2007/01/17/menininhas"/>
    <updated>2007-01-17T00:00:00-02:00</updated>
-   <id>http://example.com/2007/01/17/menininhas</id>
+   <id>//2007/01/17/menininhas</id>
    <content type="html">&lt;p&gt;No jogo Menininhas a sua missão é juntar pelo menos três objetos iguais na mesma linha ou coluna, antes de esgotar o tempo, e  com isso acumular muitos pontos. &lt;br /&gt;&lt;br /&gt;Toda vez que o jogador consegue juntar mais de três objetos, ganha bônus. O jogador também ganha bônus quando consegue executar um combo. Combos são conquistados quando se junta objetos iguais em sequência.&lt;br /&gt;&lt;br /&gt;Você pode ver a sua posição no ranking on-line que marca as melhores pontuações.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Délirus e iMAX no Tilibra Zone</title>
-   <link href="http://example.com/2007/01/17/delirus-e-imax-no-tilibra-zone"/>
+   <link href="//2007/01/17/delirus-e-imax-no-tilibra-zone"/>
    <updated>2007-01-17T00:00:00-02:00</updated>
-   <id>http://example.com/2007/01/17/delirus-e-imax-no-tilibra-zone</id>
+   <id>//2007/01/17/delirus-e-imax-no-tilibra-zone</id>
    <content type="html">&lt;p&gt;Já está no ar o Tilibra Zone (&lt;a target=&quot;_blank&quot; href=&quot;http://www.tilibrazone.com.br&quot;&gt;www.tilibrazone.com.br&lt;/a&gt;
 ), hotsite promocional que concentra games baseados nos principais personagens dos produtos Tilibra, maior fabricante do setor de cadernos do Brasil.&lt;br /&gt;&lt;br /&gt;A partir desta semana, os internautas podem se divertir com os jogos das &lt;a href=&quot;/index.php?p=c&amp;amp;id=502&quot;&gt;Meninhas&lt;/a&gt;
  e &lt;a href=&quot;/index.php?p=c&amp;amp;id=507&quot;&gt;Plush Poison&lt;/a&gt;
@@ -64,18 +64,18 @@
  
  <entry>
    <title>Jogos Completos de Baixo Orçamento, 18 projetos classificados</title>
-   <link href="http://example.com/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados"/>
+   <link href="//2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados"/>
    <updated>2006-06-02T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados</id>
+   <id>//2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados</id>
    <content type="html">&lt;p&gt;O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.&lt;br /&gt;&lt;br /&gt;Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Confira a lista dos 18 projetos classificados em ordem alfabética:&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;1 - A Traça Teca - Reconstruindo a História do Brasil&lt;br /&gt;Maíra Valencise Gregolin&lt;br /&gt;Imax Games Entretenimento&lt;br /&gt;São Carlos - SP&lt;br /&gt;&lt;br /&gt;2 - As Aventuras de Kito, o Mico&lt;br /&gt;Augusto César Vilarim Pires&lt;br /&gt;Jynx Playware Ltda&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;3 - CaveDays&lt;br /&gt;Winston George A. Petty&lt;br /&gt;Insólita Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;4 - Deuses do Tabuleiro - O Juízo Final&lt;br /&gt;Archias Alves de Almeida Filho&lt;br /&gt;Devworks Game Technology&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;5 - Direção Furiosa&lt;br /&gt;Davi da Silva Prata&lt;br /&gt;Sant Computação Gráfica&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;6 - Estradas Esburacadas - São Paulo&lt;br /&gt;Sanderson Sousa de Farias&lt;br /&gt;SR-Games&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;7 - La Capitale&lt;br /&gt;Leonardo Pessoa de Moura&lt;br /&gt;Fundação de Fomento à Tecnologia e à Ciência - Virtualize Jogos Eletrônicos (Incubada)&lt;br /&gt;Salvador - BA&lt;br /&gt;&lt;br /&gt;8 - Lobo do Mar: Batalhas Navais para a Libertação da América do Sul&lt;br /&gt;Paulo Candido de Oliveira Filho&lt;br /&gt;Teiaoito Tecnologia Educacional Ltda&lt;br /&gt;São Paulo-SP&lt;br /&gt;&lt;br /&gt;9 - Maggie&lt;br /&gt;Luiz Manoel Gerosa&lt;br /&gt;Interama Jogos Eletrônicos&lt;br /&gt;Vitória-ES&lt;br /&gt;&lt;br /&gt;10 - O Detetive - O Caso Portinari&lt;br /&gt;Tiago Keller Ferreira&lt;br /&gt;Decadium Studios Ltda.&lt;br /&gt;Santa Maria - RS&lt;br /&gt;&lt;br /&gt;11 - Peixis! A disputa Subaquatica!&lt;br /&gt;Wallace Santos Lages&lt;br /&gt;Virsat Sistemas Comerciais&lt;br /&gt;Belo Horizonte - MG&lt;br /&gt;&lt;br /&gt;12 - Shotguns n Goblins - The Shaman will Dead&lt;br /&gt;João Ricardo Bittencourt&lt;br /&gt;Ludens Artis Serviços em Informática Ltda&lt;br /&gt;Gravataí - RS&lt;br /&gt;&lt;br /&gt;13 - Turminha Querubim - Karangas Turbinadas&lt;br /&gt;Clóvis Shimabukuro&lt;br /&gt;Licch - Criação e Desenvolvimento de Materiais Artísticos&lt;br /&gt;Londrina - PR&lt;br /&gt;&lt;br /&gt;14 - Universim&lt;br /&gt;Marco Túlio Caraciolo Ferreira Albuquerque&lt;br /&gt;Manifesto Game Studio&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;15 - V.T.O.L. (Vertical Take Off Landing)&lt;br /&gt;Wagner Carvalho&lt;br /&gt;GreenLang Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;16 - Villa Rica&lt;br /&gt;Alexandre Machado de Sá&lt;br /&gt;44 Bico Largo Multimídia&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;17 - Você é o Chefe (The Chief)&lt;br /&gt;Rogério de Leon Pereira&lt;br /&gt;FourX Development Ltda&lt;br /&gt;Maringá - PR&lt;br /&gt;&lt;br /&gt;18 - Warbots3D&lt;br /&gt;Sérgio Imperatriz&lt;br /&gt;Tempo Soluções em Informática LTDA&lt;br /&gt;Campinas - SP&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Lista de projetos do JogosBR 2005/2006</title>
-   <link href="http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
+   <link href="//2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
    <updated>2006-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
+   <id>//2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
    <content type="html">&lt;p&gt;As listas de projetos enviados para os concursos do JogosBR 2005/2006 foi liberada, confira abaixo os gráficos de projetos por estado e as listas completas:
 &lt;br /&gt;&lt;/p&gt;
 

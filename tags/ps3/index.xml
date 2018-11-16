@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - ps3</title>
- <link href="http://example.com/tags/ps3/index.xml" rel="self"/>
- <link href="http://example.com/tag/ps3.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/ps3.html</id>
+ <title>jogosdaqui - ps3</title>
+ <link href="//tags/ps3/index.xml" rel="self"/>
+ <link href="/tag/ps3.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/ps3.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Revelado novo game da QUByte Interactive: Recruits</title>
-   <link href="http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits"/>
+   <link href="//2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
+   <id>//2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
    <content type="html">&lt;p&gt;Semana passada &lt;a href=&quot;/2015/04/30/qubyte-interactive-produzindo-novo-game/&quot;&gt;anunciamos&lt;/a&gt;
  que a gamedev brasileira QUByte Interactive estava produzindo um novo game  de estratégia com muitos elementos de ação, inspirado em clássicos top-down shooter, como Cannon Fodder do SNES.&lt;/p&gt;
 
@@ -42,9 +42,9 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;

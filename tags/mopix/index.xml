@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - mopix</title>
- <link href="http://example.com/tags/mopix/index.xml" rel="self"/>
- <link href="http://example.com/tag/mopix.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/mopix.html</id>
+ <title>jogosdaqui - mopix</title>
+ <link href="//tags/mopix/index.xml" rel="self"/>
+ <link href="/tag/mopix.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/mopix.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Games brasileiros em crowdfunding</title>
-   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding"/>
+   <link href="//2015/08/29/games-brasileiros-em-crowdfunding"/>
    <updated>2015-08-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
+   <id>//2015/08/29/games-brasileiros-em-crowdfunding</id>
    <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
 Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Confira:&lt;/p&gt;
 
@@ -61,9 +61,9 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Crowdfunding de Magic Master atinge 25% da meta</title>
-   <link href="http://example.com/2015/07/16/crowdfunding-de-magic-master-atinge-25-da-meta"/>
+   <link href="//2015/07/16/crowdfunding-de-magic-master-atinge-25-da-meta"/>
    <updated>2015-07-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/16/crowdfunding-de-magic-master-atinge-25-da-meta</id>
+   <id>//2015/07/16/crowdfunding-de-magic-master-atinge-25-da-meta</id>
    <content type="html">&lt;p&gt;Há alguns dias falamos do início da campanha de &lt;a href=&quot;/2015/07/06/crowdfunding-de-magic-master/&quot;&gt;crowdfunding do game Master Magic&lt;/a&gt;
  da produtora brasileira Mopix. Hoje recebemos uma boa notícia: o jogo já atingiu 25% de sua meta na campanha que ainda tem 45 dias até seu deadline.&lt;/p&gt;
 
@@ -81,9 +81,9 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Crowdfunding de Magic Master</title>
-   <link href="http://example.com/2015/07/06/crowdfunding-de-magic-master"/>
+   <link href="//2015/07/06/crowdfunding-de-magic-master"/>
    <updated>2015-07-06T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/06/crowdfunding-de-magic-master</id>
+   <id>//2015/07/06/crowdfunding-de-magic-master</id>
    <content type="html">&lt;p&gt;A mineira &lt;a href=&quot;http://www.mopix.com.br&quot; target=&quot;_blank&quot;&gt;Mopix Games&lt;/a&gt;
  foi fundada em 2014 pelo professor de Jogos Digitais, Raoni Aldrich Dorim e tem um time composto por Alessandro Russo, programador e aluno de Dorim, e Marcelo Faria, diretor de marketing da empresa. O primeiro game da startup foi Pirate Clickers, lançado em mais de 130 países. Agora a empresa colocou seu novo projeto numa &lt;a href=&quot;http://www.kickante.com.br/campanhas/magic-master&quot; target=&quot;_blank&quot;&gt;campanha de crowdfunding&lt;/a&gt;
 , estamos falando de &lt;a href=&quot;http://www.kickante.com.br/campanhas/magic-master&quot; target=&quot;_blank&quot;&gt;Magic Master&lt;/a&gt;

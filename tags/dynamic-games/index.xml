@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - dynamic-games</title>
- <link href="http://example.com/tags/dynamic-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/dynamic-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/dynamic-games.html</id>
+ <title>jogosdaqui - dynamic-games</title>
+ <link href="//tags/dynamic-games/index.xml" rel="self"/>
+ <link href="/tag/dynamic-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/dynamic-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Ano novo, jogos novos</title>
-   <link href="http://example.com/2006/01/06/ano-novo-jogos-novos"/>
+   <link href="//2006/01/06/ano-novo-jogos-novos"/>
    <updated>2006-01-06T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/06/ano-novo-jogos-novos</id>
+   <id>//2006/01/06/ano-novo-jogos-novos</id>
    <content type="html">&lt;p&gt;Foram adicionados os dois primeiros jogos para este ano na nossa galeria, o &lt;a href=&quot;/2006/01/06/metablocks/&quot;&gt;Metablocks&lt;/a&gt;
 , terceiro colocado no Festival de Jogos Independentes e o &lt;a href=&quot;/2006/01/02/os-conquistadores/&quot;&gt;Os Conquistadores&lt;/a&gt;
 , novo jogo da Dynamic Games que conta um pouco da história do primeiro rei de Portugal.&lt;/p&gt;
@@ -24,9 +24,9 @@
  
  <entry>
    <title>Os Conquistadores</title>
-   <link href="http://example.com/2006/01/02/os-conquistadores"/>
+   <link href="//2006/01/02/os-conquistadores"/>
    <updated>2006-01-02T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/02/os-conquistadores</id>
+   <id>//2006/01/02/os-conquistadores</id>
    <content type="html">&lt;p&gt;Os Conquistadores  da &lt;a href=&quot;http://www.dynamicgames.com.br/&quot; target=&quot;_blank&quot;&gt;Dynamic Games&lt;/a&gt;
  é um jogo de muita ação 3D, e conta a história do 1º Rei de Portugal (D. Afonso Henriques).&lt;/p&gt;
 
@@ -41,9 +41,9 @@
  
  <entry>
    <title>Primeiras imagens de "Os Conquistadores"</title>
-   <link href="http://example.com/2005/12/15/primeiras-imagens-de-os-conquistadores"/>
+   <link href="//2005/12/15/primeiras-imagens-de-os-conquistadores"/>
    <updated>2005-12-15T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/15/primeiras-imagens-de-os-conquistadores</id>
+   <id>//2005/12/15/primeiras-imagens-de-os-conquistadores</id>
    <content type="html">&lt;p&gt;A Dynamic Games liberou as primeiras imagens do jogo “Os Conquistadores”.&lt;/p&gt;
 
 &lt;p&gt;Em Os Conquistadores você jogará na pele do 1° rei de Portugal, D. Afonso Henrique. O jogo promete muita ação em batalhas épicas.&lt;/p&gt;

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - awoker-games</title>
- <link href="http://example.com/tags/awoker-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/awoker-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/awoker-games.html</id>
+ <title>jogosdaqui - awoker-games</title>
+ <link href="//tags/awoker-games/index.xml" rel="self"/>
+ <link href="/tag/awoker-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/awoker-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4"/>
+   <link href="//2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/02/checkpoint-4</id>
+   <id>//2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://gamereporter.uol.com.br/mundo-canibal-apocalipse-steam&quot;&gt;O game Mundo Canibal Apocalipse chega no Steam Greenlight. Jogo e voto obrigatórios para quem gosta do humor dos irmãos Piologo&lt;/a&gt;&lt;/p&gt;
 
@@ -60,9 +60,9 @@
  
  <entry>
    <title>Phoenix Force</title>
-   <link href="http://example.com/2015/04/28/phoenix-force"/>
+   <link href="//2015/04/28/phoenix-force"/>
    <updated>2015-04-28T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/28/phoenix-force</id>
+   <id>//2015/04/28/phoenix-force</id>
    <content type="html">&lt;p&gt;Shoot ‘em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão final. Imaginou? Esse é o Phoenix Force da gaúcha Awoker Games que denomina o jogo como o primeiro Fantasy Boss Shooter Game.&lt;/p&gt;
 
 &lt;p&gt;Na história do game o jogador iniciará como a fênix de Fogo, chamada Fury que foi a primeira a renascer numa Terra primordial onde terá que enfrentar monstros e tentar resgatar as outras fênix: Cryo de Gelo, Tupã de Trovão, Gaia da Terra e Gast de Fantasma.&lt;/p&gt;

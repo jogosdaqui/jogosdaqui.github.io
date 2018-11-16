@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - cats-in-the-sky</title>
- <link href="http://example.com/tags/cats-in-the-sky/index.xml" rel="self"/>
- <link href="http://example.com/tag/cats-in-the-sky.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/cats-in-the-sky.html</id>
+ <title>jogosdaqui - cats-in-the-sky</title>
+ <link href="//tags/cats-in-the-sky/index.xml" rel="self"/>
+ <link href="/tag/cats-in-the-sky.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/cats-in-the-sky.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Totem Destroyer para plataformas móveis</title>
-   <link href="http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis"/>
+   <link href="//2011/01/26/totem-destroyer-para-plataformas-moveis"/>
    <updated>2011-01-26T00:00:00-02:00</updated>
-   <id>http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis</id>
+   <id>//2011/01/26/totem-destroyer-para-plataformas-moveis</id>
    <content type="html">&lt;p&gt;A produtora brasileira &lt;a href=&quot;http://www.catsinthesky.com.br/&quot; target=&quot;_blank&quot;&gt;Cats in the Sky&lt;/a&gt;
  anunciou que seu puzzle baseado em física, Totem Destroyer, será lançado para plataformas móveis, entre as já confirmadas estão: iPhone, iPad e celulares/tablets com o sistema operacional Android.&lt;/p&gt;
 
@@ -31,9 +31,9 @@
  
  <entry>
    <title>Totem Destroyer Deluxe</title>
-   <link href="http://example.com/2010/12/22/totem-destroyer-deluxe"/>
+   <link href="//2010/12/22/totem-destroyer-deluxe"/>
    <updated>2010-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/22/totem-destroyer-deluxe</id>
+   <id>//2010/12/22/totem-destroyer-deluxe</id>
    <content type="html">&lt;p&gt;Depois de lançar a versão para Mac e Windows de &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2010-12-05_2010-12-11.html#2010_12-06_18_52_16-154784552-0&quot; target=&quot;_self&quot;&gt;Cargo Delivery&lt;/a&gt;
 ,  a produtora brasileira Cats in the Sky lança o game Totem Destroyer Deluxe, terceiro game da franquia Totem Destroyer.&lt;/p&gt;
 
@@ -50,9 +50,9 @@
  
  <entry>
    <title>Trailer de lançamento de Cargo Delivery</title>
-   <link href="http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery"/>
+   <link href="//2010/12/06/trailer-de-lancamento-de-cargo-delivery"/>
    <updated>2010-12-06T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery</id>
+   <id>//2010/12/06/trailer-de-lancamento-de-cargo-delivery</id>
    <content type="html">&lt;p&gt;O estúdio Cats in the Sky liberou o trailer de lançamento do game Cargo Delivery.&lt;/p&gt;
 
 &lt;center&gt;

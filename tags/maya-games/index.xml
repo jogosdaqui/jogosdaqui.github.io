@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - maya-games</title>
- <link href="http://example.com/tags/maya-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/maya-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/maya-games.html</id>
+ <title>jogosdaqui - maya-games</title>
+ <link href="//tags/maya-games/index.xml" rel="self"/>
+ <link href="/tag/maya-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/maya-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Legendary Heroes</title>
-   <link href="http://example.com/2012/02/12/legendary-heroes"/>
+   <link href="//2012/02/12/legendary-heroes"/>
    <updated>2012-02-12T00:00:00-02:00</updated>
-   <id>http://example.com/2012/02/12/legendary-heroes</id>
+   <id>//2012/02/12/legendary-heroes</id>
    <content type="html">&lt;p&gt;O relativamente recente e popular gênero Action Real-Time Strategy combina muito bem com as interfaces de toque de iPods, iPhones e iPads. Sabendo disso, a empresa brasileira Maya Games lançou na App Store o game Legendary Heroes.&lt;/p&gt;
 
 &lt;p&gt;Legendary Heroes impressiona pela qualidade: os gráficos, sons e jogabilidade são muito bem polidos e garantem a diversão para os amantes desse estilo de game.&lt;/p&gt;

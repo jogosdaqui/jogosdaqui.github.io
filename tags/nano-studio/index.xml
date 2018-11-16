@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - nano-studio</title>
- <link href="http://example.com/tags/nano-studio/index.xml" rel="self"/>
- <link href="http://example.com/tag/nano-studio.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/nano-studio.html</id>
+ <title>jogosdaqui - nano-studio</title>
+ <link href="//tags/nano-studio/index.xml" rel="self"/>
+ <link href="/tag/nano-studio.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/nano-studio.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Favela Wars entra em fase beta</title>
-   <link href="http://example.com/2013/04/15/favela-wars-entra-em-fase-beta"/>
+   <link href="//2013/04/15/favela-wars-entra-em-fase-beta"/>
    <updated>2013-04-15T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/15/favela-wars-entra-em-fase-beta</id>
+   <id>//2013/04/15/favela-wars-entra-em-fase-beta</id>
    <content type="html">&lt;p&gt;O game &lt;a href=&quot;http://www.favelawars.com/br.html&quot; target=&quot;_blank&quot;&gt;Favela Wars&lt;/a&gt;
  da brasileira &lt;a href=&quot;http://www.nanostudio.com.br/&quot; target=&quot;_blank&quot;&gt;Nano Studio &lt;/a&gt;
 entra em sua fase beta depois de cerca de 1 ano de desenvolvimento.&lt;/p&gt;

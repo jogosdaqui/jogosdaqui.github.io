@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - overlord-game-studio</title>
- <link href="http://example.com/tags/overlord-game-studio/index.xml" rel="self"/>
- <link href="http://example.com/tag/overlord-game-studio.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/overlord-game-studio.html</id>
+ <title>jogosdaqui - overlord-game-studio</title>
+ <link href="//tags/overlord-game-studio/index.xml" rel="self"/>
+ <link href="/tag/overlord-game-studio.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/overlord-game-studio.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Games brasileiros em crowdfunding</title>
-   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding"/>
+   <link href="//2015/08/29/games-brasileiros-em-crowdfunding"/>
    <updated>2015-08-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
+   <id>//2015/08/29/games-brasileiros-em-crowdfunding</id>
    <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
 Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Confira:&lt;/p&gt;
 

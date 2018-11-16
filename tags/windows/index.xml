@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - windows</title>
- <link href="http://example.com/tags/windows/index.xml" rel="self"/>
- <link href="http://example.com/tag/windows.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/windows.html</id>
+ <title>jogosdaqui - windows</title>
+ <link href="//tags/windows/index.xml" rel="self"/>
+ <link href="/tag/windows.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/windows.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</title>
-   <link href="http://example.com/2018/11/14/blazing-chrome-vai-desafiar-jogadores"/>
+   <link href="//2018/11/14/blazing-chrome-vai-desafiar-jogadores"/>
    <updated>2018-11-14T00:00:00-02:00</updated>
-   <id>http://example.com/2018/11/14/blazing-chrome-vai-desafiar-jogadores</id>
+   <id>//2018/11/14/blazing-chrome-vai-desafiar-jogadores</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -31,7 +31,7 @@
 &lt;p&gt;Fãs de No More Heroes também podem mostrar seu amor por Blazing Chrome no jogo Travis Strikes Again: No More Heroes, para Nintendo Switch, usando a camiseta exclusiva. Você pode ver o design no &lt;a href=&quot;https://twitter.com/Grasshopper_JP/status/1060811401738899457&quot;&gt;twit original da Grasshopper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;
@@ -40,9 +40,9 @@
  
  <entry>
    <title>Death’s Life</title>
-   <link href="http://example.com/2016/03/16/deaths-life"/>
+   <link href="//2016/03/16/deaths-life"/>
    <updated>2016-03-16T00:00:00-03:00</updated>
-   <id>http://example.com/2016/03/16/deaths-life</id>
+   <id>//2016/03/16/deaths-life</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -70,9 +70,9 @@
  
  <entry>
    <title>Pesadelo - Regressão</title>
-   <link href="http://example.com/2015/12/02/pesadelo-regressao"/>
+   <link href="//2015/12/02/pesadelo-regressao"/>
    <updated>2015-12-02T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/02/pesadelo-regressao</id>
+   <id>//2015/12/02/pesadelo-regressao</id>
    <content type="html">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
 
 &lt;h2 id=&quot;teaser-de-pesadelo---regressão&quot;&gt;Teaser de Pesadelo - Regressão&lt;/h2&gt;
@@ -87,9 +87,9 @@
  
  <entry>
    <title>Max Quiz</title>
-   <link href="http://example.com/2015/10/16/max-quiz"/>
+   <link href="//2015/10/16/max-quiz"/>
    <updated>2015-10-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/10/16/max-quiz</id>
+   <id>//2015/10/16/max-quiz</id>
    <content type="html">&lt;p&gt;O casal de desenvolvedores independentes Glauber e Camila, que mesmo antes de se conhecerem já eram apaixonados por games, juntaram suas paixões e formaram a Maxlab Studios de São Paulo, empresa criadora do game &lt;a href=&quot;http://www.maxquiz.com/&quot; target=&quot;_blank&quot;&gt;Max Quiz&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -115,9 +115,9 @@
  
  <entry>
    <title>Rock Life</title>
-   <link href="http://example.com/2015/09/09/rock-life"/>
+   <link href="//2015/09/09/rock-life"/>
    <updated>2015-09-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/09/rock-life</id>
+   <id>//2015/09/09/rock-life</id>
    <content type="html">&lt;p&gt;Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis?&lt;/p&gt;
 
 &lt;p&gt;Ser o guitarrista virtuoso de uma grande banda de rock já foi o sonho de muita gente.&lt;/p&gt;
@@ -147,9 +147,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>ReOrd</title>
-   <link href="http://example.com/2015/08/26/reord"/>
+   <link href="//2015/08/26/reord"/>
    <updated>2015-08-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/26/reord</id>
+   <id>//2015/08/26/reord</id>
    <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
 
 &lt;p&gt;Trazer esse gameplay simples de um brinquedo de infância para as telas mobile é a proposta do game ReOrd.&lt;/p&gt;
@@ -178,9 +178,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Game brasileiro Paper Cat ajuda ONGs</title>
-   <link href="http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
+   <link href="//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
    <updated>2015-08-25T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
+   <id>//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
    <content type="html">&lt;p&gt;Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa.&lt;/p&gt;
 
 &lt;p&gt;É nessa ideia que o game &lt;a href=&quot;http://papercatgame.tumblr.com/&quot;&gt;Paper Cat&lt;/a&gt; da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.&lt;/p&gt;
@@ -202,9 +202,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>RacketBoy da Double Dash Studios</title>
-   <link href="http://example.com/2015/08/20/racketboy-da-double-dash-studios"/>
+   <link href="//2015/08/20/racketboy-da-double-dash-studios"/>
    <updated>2015-08-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/20/racketboy-da-double-dash-studios</id>
+   <id>//2015/08/20/racketboy-da-double-dash-studios</id>
    <content type="html">&lt;p&gt;Lembra de Breakout de 1972, clássico game que deu origem ao estilo de games de quebrar blocos, seguido por outros clássicos como Arkanoid de 1986?&lt;/p&gt;
 
 &lt;p&gt;O que talvez você não saiba é que o game de 72 para o Atari 2600 foi desenvolvido por Steve Wozniak com uma ajuda de Steve Jobs, isso mesmo, os fundadores da Apple.&lt;/p&gt;
@@ -238,9 +238,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Crowdfunding de 99Vidas o jogo</title>
-   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
+   <link href="//2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
+   <id>//2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
    <content type="html">&lt;p&gt;O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat’em up, grandes clássicos e referências para qualquer game do gênero.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://99vidas.com.br/jogo&quot; target=&quot;_blank&quot;&gt;99Vidas o jogo&lt;/a&gt;
@@ -269,9 +269,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Prévia de Relic Hunters Zero</title>
-   <link href="http://example.com/2015/07/30/previa-de-relic-hunters-zero"/>
+   <link href="//2015/07/30/previa-de-relic-hunters-zero"/>
    <updated>2015-07-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/30/previa-de-relic-hunters-zero</id>
+   <id>//2015/07/30/previa-de-relic-hunters-zero</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.roguesnail.com/relic-hunters-zero/&quot; target=&quot;_blank&quot;&gt;Relic Hunters Zero&lt;/a&gt;
  é o mais novo game da brasileira Rogue Snail. Pra quem não conhece, a Rogue Snail é a marca que o gamedev Mark Venturelli utiliza para seus games. No caso do RHZ, o artista foi Betu Souza, enquanto Venturelli trabalhava na programação e game design do projeto.&lt;/p&gt;
 
@@ -310,9 +310,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Prévia de Massive Madness da Ninja Garage Studio</title>
-   <link href="http://example.com/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio"/>
+   <link href="//2015/06/16/previa-de-massive-madness-da-ninja-garage-studio"/>
    <updated>2015-06-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio</id>
+   <id>//2015/06/16/previa-de-massive-madness-da-ninja-garage-studio</id>
    <content type="html">&lt;p&gt;ToeJam &amp;amp; Earl, game lançado em 1991 para o saudoso Mega-Drive, trazia dois personagens extraterrestres do planeta Funkotron, que colidem com a Terra e tem como missão buscar as partes de sua nave pelas 25 fases do game. Na época o jogo conquistou muitos fãs por sua originalidade, jogabilidade, estilo e trilha sonora funk composta por John Baker. A maior prova de seu sucesso é a recente &lt;a href=&quot;https://www.kickstarter.com/projects/1578116861/toejam-and-earl-back-in-the-groove/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarte&lt;/a&gt;
 r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produção do novo game.&lt;/p&gt;
 
@@ -349,9 +349,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Lançada versão PC de Carcará - Asas da Justiça</title>
-   <link href="http://example.com/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica"/>
+   <link href="//2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica"/>
    <updated>2015-06-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica</id>
+   <id>//2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica</id>
    <content type="html">&lt;p&gt;No final de maio &lt;a href=&quot;/2015/05/28/carcara-asas-da-justica/&quot;&gt;falamos do game Carcará - Asas da Justiça&lt;/a&gt;
  que, naquele momento, tinha versão apenas para Android.&lt;/p&gt;
 
@@ -373,9 +373,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Entrevista: Fernando Paulo, criador de Treeker</title>
-   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
+   <link href="//2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
+   <id>//2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
    <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot;&gt;Blusoft Studios&lt;/a&gt;, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
 
 &lt;h2 id=&quot;para-contextualizar-o-leitor-conte-um-pouco-da-tua-história-no-gamedev&quot;&gt;Para contextualizar o leitor, conte um pouco da tua história no gamedev?&lt;/h2&gt;
@@ -389,7 +389,7 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker: Os Óculos Perdidos, game criado por Fernando Paulo &lt;/span&gt;&lt;/center&gt;
 
@@ -414,7 +414,7 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker e seu visual 3D estiloso &lt;/span&gt;&lt;/center&gt;
 
@@ -446,9 +446,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Novo vídeo de gameplay de Gryphon Knight Epic</title>
-   <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
+   <link href="//2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
    <updated>2015-05-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
+   <id>//2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
    <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&amp;quot; target=&amp;quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt; liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
 
 &lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&amp;quot; target=&amp;quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt; e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
@@ -471,9 +471,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Lançada a demo de TurboLink</title>
-   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
+   <link href="//2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
+   <id>//2015/04/23/lancado-a-demo-de-turbolink</id>
    <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot;&gt;demo pública&lt;/a&gt; do game que está em votação no &lt;a href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Os jogadores poderão testar a demo com um torneio de 6 pistas, 4 carros, suporte ao controle do Xbox 360 e a implementação inicial da inteligência artificial do game.&lt;/p&gt;
@@ -486,9 +486,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Tank Invaders atinge mais de 300 mil downloads</title>
-   <link href="http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads"/>
+   <link href="//2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads"/>
    <updated>2015-04-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
+   <id>//2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
    <content type="html">&lt;p&gt;Como diria o General Rogers: “Temos novidades do campo de batalha, soldado!”.&lt;/p&gt;
 
 &lt;p&gt;Na semana passada falamos de &lt;a href=&quot;/2015/04/08/tank-invaders&quot;&gt;Tank Invaders&lt;/a&gt;
@@ -503,19 +503,12 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Splitplay apresenta: Bernie Needs Love</title>
-   <link href="http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love"/>
+   <link href="//2014/06/05/splitplay-apresenta-bernie-needs-love"/>
    <updated>2014-06-05T00:00:00-03:00</updated>
-   <id>http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Protomni Multimedia em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
+   <id>//2014/06/05/splitplay-apresenta-bernie-needs-love</id>
+   <content type="html">&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot;&gt;Bernie Needs Love&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot; target=&quot;_blank&quot;&gt;Bernie Needs Love&lt;/a&gt;
-!.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot; target=&quot;_blank&quot;&gt;Protomni Multimedia&lt;/a&gt;
-, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
+&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot;&gt;Protomni Multimedia&lt;/a&gt;, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
 
 &lt;p&gt;Em meados de 2012, tivemos a ideia de criar um jogo de plataforma que fosse simples, muito difícil e que retratasse cenários característicos da nossa cidade com a estética da era dos 4 e 8 bits. O objetivo de todas as fases é guiar Bernie até a namorada e evitar perigos que incluem pombos com disenteria, bueiros explosivos, áreas alagadas, foliões com incontinência urinária, assaltantes, tubulações d’água com vazamentos e assim por diante. Em dezembro desse mesmo ano, disponibilizamos o jogo por um preço promocional e, desde então, estamos acrescentando recursos e conteúdo com base não apenas no plano original, mas também no feedback dos jogadores.&lt;/p&gt;
 
@@ -527,23 +520,18 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
         &lt;iframe src=&quot;https://www.youtube.com/embed/t4eDKQ6KHNQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;Estamos no Greenlight&lt;/a&gt;
- e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;votem&lt;/a&gt;
-, deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
-&lt;div&gt;&lt;br /&gt;
-&lt;div&gt;&lt;br /&gt;
-&amp;gt; Gostou? Quer concorrer a chaves gratuitas do game?
-&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;Ent&amp;#227;o siga o jogosdaqui no Twitter.&lt;/a&gt;
-&lt;/strong&gt;
-&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;Estamos no Greenlight&lt;/a&gt; e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;votem&lt;/a&gt; deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
+
+&lt;p&gt;Gostou? Quer concorrer a chaves gratuitas do game?
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot;&gt;Então siga o jogosdaqui no Twitter.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Master of Words</title>
-   <link href="http://example.com/2013/05/20/master-of-words"/>
+   <link href="//2013/05/20/master-of-words"/>
    <updated>2013-05-20T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/20/master-of-words</id>
+   <id>//2013/05/20/master-of-words</id>
    <content type="html">&lt;p&gt;Deveria ter feito esse post sobre o &lt;a href=&quot;http://masterofwords.net/&quot; target=&quot;_blank&quot;&gt;Master of Words&lt;/a&gt;
 , da gaúcha &lt;a href=&quot;http://www.rockheadgames.com/&quot; target=&quot;_blank&quot;&gt;Rockhead Games&lt;/a&gt;
 , na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)&lt;/p&gt;
@@ -568,9 +556,9 @@ A Rockhead promente para breve uma versão Windows Phone.&lt;/p&gt;
  
  <entry>
    <title>Oniken: The Rescue</title>
-   <link href="http://example.com/2012/12/13/oniken-the-rescue-2"/>
+   <link href="//2012/12/13/oniken-the-rescue-2"/>
    <updated>2012-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/12/13/oniken-the-rescue-2</id>
+   <id>//2012/12/13/oniken-the-rescue-2</id>
    <content type="html">&lt;p&gt;Amanhã, dia 14 de dezembro, o game &lt;a href=&quot;http://oniken.net/&quot; target=&quot;_blank&quot;&gt;Oniken&lt;/a&gt;
  da &lt;a href=&quot;http://joymasher.com/&quot; target=&quot;_blank&quot;&gt;JoyMasher&lt;/a&gt;
  receberá uma nova missão: &lt;strong&gt;The Rescue&lt;/strong&gt; estará disponível para todos os jogadores que já possuem Oniken.&lt;/p&gt;
@@ -596,9 +584,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Oniken recebe versão para Mac e Linux</title>
-   <link href="http://example.com/2012/11/21/oniken-recebe-versao-para-mac-e-linux"/>
+   <link href="//2012/11/21/oniken-recebe-versao-para-mac-e-linux"/>
    <updated>2012-11-21T00:00:00-02:00</updated>
-   <id>http://example.com/2012/11/21/oniken-recebe-versao-para-mac-e-linux</id>
+   <id>//2012/11/21/oniken-recebe-versao-para-mac-e-linux</id>
    <content type="html">&lt;p&gt;O game brasileiro &lt;a href=&quot;http://oniken.net&quot; target=&quot;_blank&quot;&gt;Oniken&lt;/a&gt;
 , do grupo independente &lt;a href=&quot;http://joymasher.com &quot; target=&quot;_blank&quot;&gt;JoyMasher&lt;/a&gt;
 , que foi lançado em junho para Windows, recebe versões para Mac e Linux.&lt;/p&gt;
@@ -626,9 +614,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Mahjong Max</title>
-   <link href="http://example.com/2012/02/06/mahjong-max"/>
+   <link href="//2012/02/06/mahjong-max"/>
    <updated>2012-02-06T00:00:00-02:00</updated>
-   <id>http://example.com/2012/02/06/mahjong-max</id>
+   <id>//2012/02/06/mahjong-max</id>
    <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://www.icongames.com.br&quot;&gt;Icon Games&lt;/a&gt;, conhecida por jogos como &lt;a href=&quot;http://www.icongames.com.br/gude.htm&quot;&gt;Bola de Gude&lt;/a&gt;, &lt;a href=&quot;http://www.icongames.com.br/fruzzle-pt.htm&quot;&gt;Fruzzle&lt;/a&gt; e &lt;a href=&quot;http://www.icongames.com.br/detetive.htm&quot;&gt;Detetive Carioca&lt;/a&gt;, lançou em 2011 o game &lt;a href=&quot;http://www.icongames.com.br/mmax-pt.htm&quot;&gt;Mahjong Max&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Mahjong Max é um puzzle, baseado num secular jogo de mesa chinês, onde o jogador encarna a personagem Valéria na tarefa de organizar uma exibição chinesa para o Museu Cultura Internacional. Durante o jogo, Valéria viajará pela China resolvendo diversos puzzles.&lt;/p&gt;
@@ -647,9 +635,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Joga Brasil</title>
-   <link href="http://example.com/2012/01/13/joga-brasil"/>
+   <link href="//2012/01/13/joga-brasil"/>
    <updated>2012-01-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/01/13/joga-brasil</id>
+   <id>//2012/01/13/joga-brasil</id>
    <content type="html">&lt;p&gt;Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o &lt;a href=&quot;http://www.jogabrasil.com.br/&quot; target=&quot;_blank&quot;&gt;Joga Brasil&lt;/a&gt;
 , primeiro evento focado na divulgação de games produzidos por empresas nacionais. Como não poderia deixar de ser, o jogosdaqui apóia, e muito, esse tipo de iniciativa.&lt;/p&gt;
 
@@ -719,9 +707,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>FPS da Aquiris gX em fase alpha</title>
-   <link href="http://example.com/2011/03/01/fps-da-aquiris-gx-em-fase-alpha"/>
+   <link href="//2011/03/01/fps-da-aquiris-gx-em-fase-alpha"/>
    <updated>2011-03-01T00:00:00-03:00</updated>
-   <id>http://example.com/2011/03/01/fps-da-aquiris-gx-em-fase-alpha</id>
+   <id>//2011/03/01/fps-da-aquiris-gx-em-fase-alpha</id>
    <content type="html">&lt;p&gt;Entramos em contato com o produtor executivo da empresa brasileira Aquiris Game Experience, &lt;a href=&quot;http://twitter.com/The_Real_Rafael&quot; target=&quot;_blank&quot;&gt;Rafael Rodrigues&lt;/a&gt;
 , para sabermos como estava o andamento do FPS massivo, ainda sem nome, que a empresa está trabalhando. O game começou a ser desenvolvido &lt;a href=&quot;http://jogos.uol.com.br/pc/ultnot/2010/11/09/ult182u8621.jhtm&quot; target=&quot;_blank&quot;&gt;após a Aquiris fechar um contrato no final de 2010 com a publisher americana Aeria Games&lt;/a&gt;
 , especializada em games free-to-play. Abaixo você confere as novidades sobre o game.&lt;/p&gt;
@@ -741,9 +729,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Totem Destroyer para plataformas móveis</title>
-   <link href="http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis"/>
+   <link href="//2011/01/26/totem-destroyer-para-plataformas-moveis"/>
    <updated>2011-01-26T00:00:00-02:00</updated>
-   <id>http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis</id>
+   <id>//2011/01/26/totem-destroyer-para-plataformas-moveis</id>
    <content type="html">&lt;p&gt;A produtora brasileira &lt;a href=&quot;http://www.catsinthesky.com.br/&quot; target=&quot;_blank&quot;&gt;Cats in the Sky&lt;/a&gt;
  anunciou que seu puzzle baseado em física, Totem Destroyer, será lançado para plataformas móveis, entre as já confirmadas estão: iPhone, iPad e celulares/tablets com o sistema operacional Android.&lt;/p&gt;
 
@@ -761,9 +749,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Totem Destroyer Deluxe</title>
-   <link href="http://example.com/2010/12/22/totem-destroyer-deluxe"/>
+   <link href="//2010/12/22/totem-destroyer-deluxe"/>
    <updated>2010-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/22/totem-destroyer-deluxe</id>
+   <id>//2010/12/22/totem-destroyer-deluxe</id>
    <content type="html">&lt;p&gt;Depois de lançar a versão para Mac e Windows de &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2010-12-05_2010-12-11.html#2010_12-06_18_52_16-154784552-0&quot; target=&quot;_self&quot;&gt;Cargo Delivery&lt;/a&gt;
 ,  a produtora brasileira Cats in the Sky lança o game Totem Destroyer Deluxe, terceiro game da franquia Totem Destroyer.&lt;/p&gt;
 
@@ -780,9 +768,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Trailer de lançamento de Cargo Delivery</title>
-   <link href="http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery"/>
+   <link href="//2010/12/06/trailer-de-lancamento-de-cargo-delivery"/>
    <updated>2010-12-06T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery</id>
+   <id>//2010/12/06/trailer-de-lancamento-de-cargo-delivery</id>
    <content type="html">&lt;p&gt;O estúdio Cats in the Sky liberou o trailer de lançamento do game Cargo Delivery.&lt;/p&gt;
 
 &lt;center&gt;
@@ -801,9 +789,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Netherdeep</title>
-   <link href="http://example.com/2005/12/09/netherdeep"/>
+   <link href="//2005/12/09/netherdeep"/>
    <updated>2005-12-09T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/09/netherdeep</id>
+   <id>//2005/12/09/netherdeep</id>
    <content type="html">&lt;p&gt;Um MMORPG ambientado no continente antigo da América do Sul, onde o jogador poderá escolher qual profissão seguir e evoluir suas capacidades especiais. Guerras entre facções e reinos estarão no enredo do jogo, mas não se preocupe, você poderá contar com mais de 300 armas a sua escolha.&lt;/p&gt;
 
 &lt;p&gt;O jogo estará disponível para plataforma Windows, Linux e Mac.&lt;/p&gt;
@@ -817,9 +805,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Vudugame</title>
-   <link href="http://example.com/2005/10/04/vudugame"/>
+   <link href="//2005/10/04/vudugame"/>
    <updated>2005-10-04T00:00:00-03:00</updated>
-   <id>http://example.com/2005/10/04/vudugame</id>
+   <id>//2005/10/04/vudugame</id>
    <content type="html">&lt;p&gt;Sabe aquele vizinho chato, que implica com tudo o que você faz no final de semana, tipo ouvir rock paulera um pouquinho acima dos decibéis aceitáveis? E o que dizer daquele professor que persegue alunos acima da média? E o chefe, sempre pronto a reclamar quando você atrasa um minutinho, na pausa do café? E os políticos então? Os artistas mascarados, que esnobam o Vesgo e o Silvio. Ah, e não vamos esquecer do juiz ladrão, que como pudemos ver no noticiário recente, era ladrão mesmo.&lt;/p&gt;
 
 &lt;p&gt;Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um destino certo: Vudugame, o jogo da mandinga. Chegou a hora de virar a mesa e usar as forças da natureza e mais a moderna tecnologia de informática, para dar um basta nesta situação cavernosa. Como?&lt;/p&gt;
@@ -835,9 +823,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Hello!</title>
-   <link href="http://example.com/2005/09/23/hello"/>
+   <link href="//2005/09/23/hello"/>
    <updated>2005-09-23T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/23/hello</id>
+   <id>//2005/09/23/hello</id>
    <content type="html">&lt;p&gt;O Hello! é um jogo que une ação e estratégia, onde você deve estabelecer conexões telefônicas para eliminar os telefones que aparecem no tabuleiro. A regra é: não deixe a tela ser totalmente preenchida por telefones.&lt;/p&gt;
 
 &lt;center&gt;&lt;/center&gt;
@@ -861,9 +849,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Cookie Chef</title>
-   <link href="http://example.com/2005/09/23/cookie-chef"/>
+   <link href="//2005/09/23/cookie-chef"/>
    <updated>2005-09-23T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/23/cookie-chef</id>
+   <id>//2005/09/23/cookie-chef</id>
    <content type="html">&lt;p&gt;Como o assistente do confeiteiro Ben, você trabalhará pesado para ajudá-lo a preparar biscoitos de forma rápida e eficiente. Se for bem sucedido, Ben irá certamente promover você a posições de maior responsabilidade dentro de sua confeitaria e, em mantendo o bom trabalho, você será um sério candidato ao posto de Cookie Chef!&lt;/p&gt;
 
 &lt;center&gt;&lt;/center&gt;

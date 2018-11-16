@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - press-release</title>
- <link href="http://example.com/tags/press-release/index.xml" rel="self"/>
- <link href="http://example.com/tag/press-release.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/press-release.html</id>
+ <title>jogosdaqui - press-release</title>
+ <link href="//tags/press-release/index.xml" rel="self"/>
+ <link href="/tag/press-release.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/press-release.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</title>
-   <link href="http://example.com/2018/11/14/blazing-chrome-vai-desafiar-jogadores"/>
+   <link href="//2018/11/14/blazing-chrome-vai-desafiar-jogadores"/>
    <updated>2018-11-14T00:00:00-02:00</updated>
-   <id>http://example.com/2018/11/14/blazing-chrome-vai-desafiar-jogadores</id>
+   <id>//2018/11/14/blazing-chrome-vai-desafiar-jogadores</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -31,7 +31,7 @@
 &lt;p&gt;Fãs de No More Heroes também podem mostrar seu amor por Blazing Chrome no jogo Travis Strikes Again: No More Heroes, para Nintendo Switch, usando a camiseta exclusiva. Você pode ver o design no &lt;a href=&quot;https://twitter.com/Grasshopper_JP/status/1060811401738899457&quot;&gt;twit original da Grasshopper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;
@@ -40,9 +40,9 @@
  
  <entry>
    <title>Death’s Life</title>
-   <link href="http://example.com/2016/03/16/deaths-life"/>
+   <link href="//2016/03/16/deaths-life"/>
    <updated>2016-03-16T00:00:00-03:00</updated>
-   <id>http://example.com/2016/03/16/deaths-life</id>
+   <id>//2016/03/16/deaths-life</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -70,9 +70,9 @@
  
  <entry>
    <title>Sheep Master</title>
-   <link href="http://example.com/2015/12/29/sheep-master"/>
+   <link href="//2015/12/29/sheep-master"/>
    <updated>2015-12-29T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/29/sheep-master</id>
+   <id>//2015/12/29/sheep-master</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.sunlandstudios.com/sheepmaster/&quot;&gt;Sheep Master&lt;/a&gt; é um jogo de estratégia, com um gráfico incrível e missões a serem cumpridas para evoluir. Voltado para o público cristão de diversas idades: desde crianças que já sabem ler até adultos que gostam de se distrair e aprender mais sobre o cristianismo. O jogo tem grande potencial de alcance nacional e internacional, já que está sendo lançado em inglês e português.&lt;/p&gt;
 
 &lt;p&gt;O jogador é um pastor de ovelhas e deve administrar o rebanho para que ele se desenvolva em quantidade e qualidade. Para isso, é preciso arrecadar dinheiro com a produção de lã e leite, aumentar a infraestrutura da fazenda e cuidar da alimentação e proteção das ovelhas. O objetivo do jogo é o pastor tornar-se Sheep Master (Mestre das Ovelhas).&lt;/p&gt;
@@ -88,9 +88,9 @@
  
  <entry>
    <title>Sheep Dreams Are Made of This</title>
-   <link href="http://example.com/2015/12/09/sheep-dreams-are-made-of-this"/>
+   <link href="//2015/12/09/sheep-dreams-are-made-of-this"/>
    <updated>2015-12-09T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/09/sheep-dreams-are-made-of-this</id>
+   <id>//2015/12/09/sheep-dreams-are-made-of-this</id>
    <content type="html">&lt;p&gt;O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.&lt;/p&gt;
 
 &lt;p&gt;Você controla um homem que tem o mesmo pesadelo toda noite há 17 anos, onde tudo que ele consegue fazer é correr, pular e coletar fragmentos de memórias há muito esquecidas.&lt;/p&gt;
@@ -114,9 +114,9 @@
  
  <entry>
    <title>Pesadelo - Regressão</title>
-   <link href="http://example.com/2015/12/02/pesadelo-regressao"/>
+   <link href="//2015/12/02/pesadelo-regressao"/>
    <updated>2015-12-02T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/02/pesadelo-regressao</id>
+   <id>//2015/12/02/pesadelo-regressao</id>
    <content type="html">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
 
 &lt;h2 id=&quot;teaser-de-pesadelo---regressão&quot;&gt;Teaser de Pesadelo - Regressão&lt;/h2&gt;
@@ -131,9 +131,9 @@
  
  <entry>
    <title>TILT online :: Game Console (playon) 1.2</title>
-   <link href="http://example.com/2005/09/24/tilt-online-game-console-playon-1-2"/>
+   <link href="//2005/09/24/tilt-online-game-console-playon-1-2"/>
    <updated>2005-09-24T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/24/tilt-online-game-console-playon-1-2</id>
+   <id>//2005/09/24/tilt-online-game-console-playon-1-2</id>
    <content type="html">&lt;p&gt;A nova versão do &lt;span style=&quot;font-weight: bold;&quot;&gt;playon (1.2)&lt;/span&gt; foi projetada para operar de forma mais simples e dinâmica do que as versões anteriores, porém mantendo a mesma eficiência e a mesma filosofia de uso: simplificar todas as operações que antecedem ao ato de jogar, tais como baixar o jogo, criar uma pasta exclusiva para ele, descompactar o pacote zip, acessar a página oficial, liberar acesso (quando o jogo exige uma licença de uso), etc.&lt;/p&gt;
 
 &lt;p&gt;O playon busca trazer para os jogos casuais, jogos independentes, jogos pequenos e médios, a mesma dinâmica funcional dos webgames, ou seja, o usuário vê um jogo que lhe interessa, clica num link e está apto a jogá-lo.&lt;/p&gt;

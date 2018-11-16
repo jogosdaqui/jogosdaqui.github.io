@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - televisão</title>
- <link href="http://example.com/tags/televisao/index.xml" rel="self"/>
- <link href="http://example.com/tag/televisão.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/televisão.html</id>
+ <title>jogosdaqui - televisão</title>
+ <link href="//tags/televisao/index.xml" rel="self"/>
+ <link href="/tag/televisão.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/televisão.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>No Limite</title>
-   <link href="http://example.com/2005/09/30/no-limite"/>
+   <link href="//2005/09/30/no-limite"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/30/no-limite</id>
+   <id>//2005/09/30/no-limite</id>
    <content type="html">&lt;p&gt;Este jogo foi baseado no programa de televisão No Limite, apresentado pela Rede Globo de Televisão no Brasil.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2005/09/nolimite2.jpg&quot;&gt;
@@ -26,9 +26,9 @@
  
  <entry>
    <title>Show do Milhão Júnior</title>
-   <link href="http://example.com/2005/09/28/show-do-milhao-junior"/>
+   <link href="//2005/09/28/show-do-milhao-junior"/>
    <updated>2005-09-28T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/28/show-do-milhao-junior</id>
+   <id>//2005/09/28/show-do-milhao-junior</id>
    <content type="html">&lt;p&gt;Todas as emoções do programa de televisão “Show do Milhão” do SBT com Silvio Santos estão neste cd.&lt;/p&gt;
 
 &lt;p&gt;As perguntas são narradas pelo próprio Silvio Santos, e as respostas são ilustradas, permitindo que a criança jogue sozinha ou acompanhada de seus pais.&lt;/p&gt;
@@ -40,9 +40,9 @@ Com Certeza você também será um vencedor!&lt;/p&gt;
  
  <entry>
    <title>Programa do Ratinho</title>
-   <link href="http://example.com/2005/09/27/programa-do-ratinho"/>
+   <link href="//2005/09/27/programa-do-ratinho"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/27/programa-do-ratinho</id>
+   <id>//2005/09/27/programa-do-ratinho</id>
    <content type="html">&lt;p&gt;O Programa do Ratinho é o mais divertido da televisão brasileira.&lt;/p&gt;
 
 &lt;p&gt;Nesse jogo, voce ajudará o Ratinho a solucionar casos de DNA, separações e intrigas, vai brincar com jogos dos Sete Erros e se divertir muito com as musicas do programa.&lt;/p&gt;

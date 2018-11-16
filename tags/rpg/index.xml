@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - rpg</title>
- <link href="http://example.com/tags/rpg/index.xml" rel="self"/>
- <link href="http://example.com/tag/rpg.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/rpg.html</id>
+ <title>jogosdaqui - rpg</title>
+ <link href="//tags/rpg/index.xml" rel="self"/>
+ <link href="/tag/rpg.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/rpg.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Chroma Squad Tactical RPG #005 - Pulando a cerca</title>
-   <link href="http://example.com/2015/10/05/chroma-squad-tactical-rpg-005-pulando-a-cerca"/>
+   <link href="//2015/10/05/chroma-squad-tactical-rpg-005-pulando-a-cerca"/>
    <updated>2015-10-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/10/05/chroma-squad-tactical-rpg-005-pulando-a-cerca</id>
+   <id>//2015/10/05/chroma-squad-tactical-rpg-005-pulando-a-cerca</id>
    <content type="html">&lt;p&gt;A galera do &lt;a href=&quot;https://www.youtube.com/channel/UC0cCb4TkyLLo3NYbNpealRA&quot; target=&quot;_blank&quot;&gt;Insert Coins&lt;/a&gt;
  relembra a infância na série de playthrough Chroma Squad!&lt;/p&gt;
 
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Games brasileiros em crowdfunding</title>
-   <link href="http://example.com/2015/08/29/games-brasileiros-em-crowdfunding"/>
+   <link href="//2015/08/29/games-brasileiros-em-crowdfunding"/>
    <updated>2015-08-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/29/games-brasileiros-em-crowdfunding</id>
+   <id>//2015/08/29/games-brasileiros-em-crowdfunding</id>
    <content type="html">&lt;p&gt;Curioso sobre quais games brasileiros estão em crowdfunding?
 Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Confira:&lt;/p&gt;
 
@@ -79,9 +79,9 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Chroma Squad Tactical RPG #004 - Potencial Ilimitado</title>
-   <link href="http://example.com/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado"/>
+   <link href="//2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado"/>
    <updated>2015-08-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado</id>
+   <id>//2015/08/07/chroma-squad-tactical-rpg-004-potencial-ilimitado</id>
    <content type="html">&lt;p&gt;A galera do &lt;a href=&quot;https://www.youtube.com/channel/UC0cCb4TkyLLo3NYbNpealRA&quot; target=&quot;_blank&quot;&gt;Insert Coins&lt;/a&gt;
  relembra a infância na série de playthrough Chroma Squad!&lt;/p&gt;
 
@@ -97,9 +97,9 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Chroma Squad Tactical RPG #003 - DO A BARREL ROLL!</title>
-   <link href="http://example.com/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll"/>
+   <link href="//2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll"/>
    <updated>2015-07-04T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll</id>
+   <id>//2015/07/04/chroma-squad-tactical-rpg-003-do-a-barrel-roll</id>
    <content type="html">&lt;p&gt;A galera do &lt;a href=&quot;https://www.youtube.com/channel/UC0cCb4TkyLLo3NYbNpealRA&quot; target=&quot;_blank&quot;&gt;Insert Coins&lt;/a&gt;
  relembra a infância na série de playthrough Chroma Squad!&lt;/p&gt;
 
@@ -119,9 +119,9 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Playthrough Chroma Squad - Tactical RPG #002</title>
-   <link href="http://example.com/2015/06/05/playthrough-chroma-squad-tactical-rpg-002"/>
+   <link href="//2015/06/05/playthrough-chroma-squad-tactical-rpg-002"/>
    <updated>2015-06-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/05/playthrough-chroma-squad-tactical-rpg-002</id>
+   <id>//2015/06/05/playthrough-chroma-squad-tactical-rpg-002</id>
    <content type="html">&lt;p&gt;A galera do &lt;a href=&quot;https://www.youtube.com/channel/UC0cCb4TkyLLo3NYbNpealRA&quot; target=&quot;_blank&quot;&gt;Insert Coins&lt;/a&gt;
  relembra a infância na série de playthrough Chroma Squad!&lt;/p&gt;
 
@@ -137,15 +137,14 @@ Fizemos uma lista dos games que conhecemos que estão em campanha atualmente. Co
  
  <entry>
    <title>Prévia de Alkimya da Bad Minions</title>
-   <link href="http://example.com/2015/05/26/previa-de-alkimya-da-bad-minions"/>
+   <link href="//2015/05/26/previa-de-alkimya-da-bad-minions"/>
    <updated>2015-05-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/26/previa-de-alkimya-da-bad-minions</id>
+   <id>//2015/05/26/previa-de-alkimya-da-bad-minions</id>
    <content type="html">&lt;p&gt;O físico e matemático Isaac Newton, um dos cientistas mais importantes da história, pensador que definiu as leis que fundamentaram o que chamamos de mecânica clássica e a lei da gravitação universal poderia ser um consultor do próximo jogo da Bad Minions: Alkimya. Por que? Porque, além de matemático e físico, Newton era um grande estudioso e praticante da alquimia, tendo escrito e lido muito sobre o assunto, fato comprovado pelos mais de 150 livros sobre o tema encontrados na biblioteca particular dele após sua morte.&lt;/p&gt;
 
 &lt;h2 id=&quot;alquimia&quot;&gt;Alquimia&lt;/h2&gt;
 
-&lt;p&gt;Não somos alquimistas, mas sabemos ver quando um projeto em desenvolvimento tem tudo para se transmutar em um grande game e foi isso que percebemos ao ver o alpha trailer que a &lt;a href=&quot;http://www.badminions.com/&quot; target=&quot;_blank&quot;&gt;brasiliense Bad Minions &lt;/a&gt;
-liberou, junto com algumas imagens, mostrando como está ficando o seu novo projeto, um jogo de aventura e RPG baseado em títulos como Legend of Zelda, Diablo, Goof Troop e The Witcher. Dentro de um universo em que a base de tudo se resume em mistura, e a &lt;strong&gt;alquimia&lt;/strong&gt; sendo o centro da constituição de todas as coisas, daí o nome do game e a consultoria de Newton.&lt;/p&gt;
+&lt;p&gt;Não somos alquimistas, mas sabemos ver quando um projeto em desenvolvimento tem tudo para se transmutar em um grande game e foi isso que percebemos ao ver o alpha trailer que a brasiliense Bad Minions](http://www.badminions.com/) liberou, junto com algumas imagens, mostrando como está ficando o seu novo projeto, um jogo de aventura e RPG baseado em títulos como Legend of Zelda, Diablo, Goof Troop e The Witcher. Dentro de um universo em que a base de tudo se resume em mistura, e a &lt;strong&gt;alquimia&lt;/strong&gt; sendo o centro da constituição de todas as coisas, daí o nome do game e a consultoria de Newton.&lt;/p&gt;
 
 &lt;h2 id=&quot;história&quot;&gt;História&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -153,12 +152,16 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
-&lt;p&gt;Segundo a Bad Minions, &amp;gt; “Alkimya é um jogo de exploração com quebra-cabeças e mecânicas de batalhas estratégicas com monstros que possuem comportamentos próprios. Todas as suas habilidades são baseadas no conhecimento em alquimia que serão adquiridas ao longo da progressão do jogo, utilizando tanto para enfrentar seus inimigos quanto para solucionar os problemas que estarão em seu caminho.”&lt;/p&gt;
+&lt;p&gt;Segundo a Bad Minions,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Alkimya é um jogo de exploração com quebra-cabeças e mecânicas de batalhas estratégicas com monstros que possuem comportamentos próprios. Todas as suas habilidades são baseadas no conhecimento em alquimia que serão adquiridas ao longo da progressão do jogo, utilizando tanto para enfrentar seus inimigos quanto para solucionar os problemas que estarão em seu caminho.”&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
 &lt;p&gt;A empresa está negociando o lançamento de Alkimya para consoles, mas por enquanto a plataforma confirmada é o PC.&lt;/p&gt;
 
 &lt;p&gt;Pelas imagens e o trailer, podemos perceber a Bad Minions está trabalhando muito na qualidade do projeto, por essa razão o game tem previsão de lançamento para o final de 2016, mas essa data pode ser estendida caso a equipe de desenvolvimento precise polir mais o jogo.&lt;/p&gt;
+
 &lt;h2 id=&quot;alpha-trailer-de-alkimya&quot;&gt;Alpha trailer de Alkimya&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/lWjMGFZAnD8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -168,9 +171,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>Playthrough Chroma Squad - Tactical RPG #001</title>
-   <link href="http://example.com/2015/05/18/playthrough-chroma-squad-tactical-rpg-001"/>
+   <link href="//2015/05/18/playthrough-chroma-squad-tactical-rpg-001"/>
    <updated>2015-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/18/playthrough-chroma-squad-tactical-rpg-001</id>
+   <id>//2015/05/18/playthrough-chroma-squad-tactical-rpg-001</id>
    <content type="html">&lt;p&gt;A galera do &lt;a href=&quot;https://www.youtube.com/channel/UC0cCb4TkyLLo3NYbNpealRA&quot; target=&quot;_blank&quot;&gt;Insert Coins&lt;/a&gt;
  relembra a infância nessa nova série de Playthrough!&lt;/p&gt;
 
@@ -188,9 +191,9 @@ Confira o vídeo abaixo e veja como o estúdio ICTV e seu time de rangers irá d
  
  <entry>
    <title>Chroma Squad no Steam, o dia chegou</title>
-   <link href="http://example.com/2015/04/30/chroma-squad-no-steam-o-dia-chegou"/>
+   <link href="//2015/04/30/chroma-squad-no-steam-o-dia-chegou"/>
    <updated>2015-04-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/30/chroma-squad-no-steam-o-dia-chegou</id>
+   <id>//2015/04/30/chroma-squad-no-steam-o-dia-chegou</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/tags/behold-studios/&quot;&gt;Behold Studios&lt;/a&gt;
 , que já fez bonito com games como &lt;a href=&quot;http://beholdstudios.com.br/games/knights-of-pen-paper/&quot; target=&quot;_blank&quot;&gt;Knights of Pen &amp;amp; Paper&lt;/a&gt;
  e &lt;a href=&quot;http://beholdstudios.com.br/games/monster-jam/&quot; target=&quot;_blank&quot;&gt;Monster Jam&lt;/a&gt;
@@ -215,9 +218,9 @@ Confira o vídeo abaixo e veja como o estúdio ICTV e seu time de rangers irá d
  
  <entry>
    <title>Labindie divulga jogo indie Milford Heaven</title>
-   <link href="http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
+   <link href="//2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
    <updated>2015-04-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
+   <id>//2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
    <content type="html">&lt;p&gt;Para jogadores que curtem o estilo RPG roguelike point and click medieval, &lt;a href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot;&gt;Milford Heaven&lt;/a&gt; é uma excelente opção.&lt;/p&gt;
 
 &lt;p&gt;O jogador (você no caso), é um guerreiro treinado na arte das espadas, viaja de cidade em cidade procurando quem possa empregar seus serviços. Um dia você está acampando perto da cidade Milford Heaven e decide visitar a taberna. Ao chegar lá, fica surpreso pois a taberna está totalmente vazia, sem ninguém. Conversando com o estalajadeiro, fica sabendo que existe um vampiro chamado Luken e que seu castelo fica situado nas redondezas da cidade.&lt;/p&gt;
@@ -228,9 +231,9 @@ Confira o vídeo abaixo e veja como o estúdio ICTV e seu time de rangers irá d
  
  <entry>
    <title>Novos vídeos de Better late than DEAD e Police Tactics</title>
-   <link href="http://example.com/2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics"/>
+   <link href="//2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics"/>
    <updated>2014-05-15T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics</id>
+   <id>//2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics</id>
    <content type="html">&lt;p&gt;A paulistana &lt;a href=&quot;http://www.odingamestudio.com.br/&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
  liberou dois vídeos mostrando um pouco dos testes de gampleay de seus games em desenvolvimento &lt;a href=&quot;http://www.betterlatethandeadgame.com/&quot; target=&quot;_blank&quot;&gt;Better late than DEAD&lt;/a&gt;
  e &lt;a href=&quot;http://www.policetacticsgame.com/&quot; target=&quot;_blank&quot;&gt;Police Tactics&lt;/a&gt;
@@ -257,9 +260,9 @@ Pelas imagens que vemos nos v&amp;#237;deos, podemos aguardar grandes games da O
  
  <entry>
    <title>Campanha do Soulbinder no Catarse</title>
-   <link href="http://example.com/2013/05/27/campanha-do-soulbinder-no-catarse"/>
+   <link href="//2013/05/27/campanha-do-soulbinder-no-catarse"/>
    <updated>2013-05-27T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/27/campanha-do-soulbinder-no-catarse</id>
+   <id>//2013/05/27/campanha-do-soulbinder-no-catarse</id>
    <content type="html">&lt;p&gt;A brasileria &lt;a href=&quot;http://www.tendrils.com.br/&quot;&gt;Tendrils Entertainment&lt;/a&gt;
  começou sua &lt;a href=&quot;http://catarse.me/pt/soulbinder&quot; target=&quot;_blank&quot;&gt;campanha&lt;/a&gt;
  de crownfunding no site Catarse para a produção do RPG de exploração Soulbinder.&lt;/p&gt;
@@ -281,9 +284,9 @@ Pelas imagens que vemos nos v&amp;#237;deos, podemos aguardar grandes games da O
  
  <entry>
    <title>Oitava Era de Ryudragon</title>
-   <link href="http://example.com/2006/09/19/oitava-era-de-ryudragon"/>
+   <link href="//2006/09/19/oitava-era-de-ryudragon"/>
    <updated>2006-09-19T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/19/oitava-era-de-ryudragon</id>
+   <id>//2006/09/19/oitava-era-de-ryudragon</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=168&quot;&gt;Ryudragon&lt;/a&gt;
 , famoso jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=18&quot;&gt;RPG&lt;/a&gt;
  &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=10&quot;&gt;online&lt;/a&gt;
@@ -296,9 +299,9 @@ Pelas imagens que vemos nos v&amp;#237;deos, podemos aguardar grandes games da O
  
  <entry>
    <title>OmniScire</title>
-   <link href="http://example.com/2006/09/05/omniscire"/>
+   <link href="//2006/09/05/omniscire"/>
    <updated>2006-09-05T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/05/omniscire</id>
+   <id>//2006/09/05/omniscire</id>
    <content type="html">&lt;p&gt;A Oniria Entertainment, de &lt;a href=&quot;/index.php?p=c&amp;amp;id=81&quot;&gt;Impacto Alpha&lt;/a&gt;
  e &lt;a href=&quot;/index.php?p=c&amp;amp;id=51&quot;&gt;Die Pferdebande&lt;/a&gt;
 , está desenvolvendo um adventure mangá onde o jogador encontrará muitas características de RPG’s, entre eles, gerenciar personagens e combates estratégicos.&lt;br /&gt;&lt;br /&gt;Segundo a própria Oniria, OmniScire &quot;extrapola os limites dos adventures convencionais para narrar um conto de descobertas, romance, conspirações e intriga sob o olhar onisciente de uma famosa e reclusa universidade&quot;.&lt;br /&gt;&lt;br /&gt;Com imagens de tirar o fôlego e uma história envolvente, OmniScire promete agradar em cheio os fãs do estilo.&lt;br /&gt;&lt;br /&gt;É esperar e conferir.&lt;br /&gt;&lt;br /&gt;Enquanto o jogo não chega, confira algumas imagens e o vídeo do jogo em desenvolvimento.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.oniriasoft.com.br/movies/omni.mov&quot; target=&quot;_blank&quot;&gt;Vídeo (10 MB)&lt;/a&gt;
@@ -308,9 +311,9 @@ Pelas imagens que vemos nos v&amp;#237;deos, podemos aguardar grandes games da O
  
  <entry>
    <title>Taikocom lança a 2° edição da HQ Eterno Retorno</title>
-   <link href="http://example.com/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno"/>
+   <link href="//2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno"/>
    <updated>2006-06-08T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno</id>
+   <id>//2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno</id>
    <content type="html">&lt;p&gt;Depois de &quot;Convocação&quot;, edição número zero da mini-série, a catarinense Hoplon Infotainment acaba de lançar uma nova revista em quadrinhos baseada no game online desenvolvido pela empresa. Para os admiradores da versão HQ do game que ficaram com vontade de mais aventura, a nova edição da revista promete empolgar o leitor com muita ação. A idéia da publicação, que ganha um novo episódio a cada dois meses, é auxiliar o jogador a entender o universo do Taikodom. &quot;Num game massivo lidamos ao mesmo tempo com um público muito grande, em momentos distintos. A revista é uma oportunidade de falar diretamente com cada leitor, uma experiência individual e mais íntima , explica Tarqüínio Teles, presidente da Hoplon.&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
@@ -321,18 +324,18 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Imagens da produção do RPG Essence</title>
-   <link href="http://example.com/2006/06/07/imagens-da-producao-do-rpg-essence"/>
+   <link href="//2006/06/07/imagens-da-producao-do-rpg-essence"/>
    <updated>2006-06-07T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/07/imagens-da-producao-do-rpg-essence</id>
+   <id>//2006/06/07/imagens-da-producao-do-rpg-essence</id>
    <content type="html">&lt;p&gt;A Palmsoft liberou imagens do jogo em desenvolvimento Essence.  Nas imagens já podemos observar um cenário interno, um paladino e magos.&lt;br /&gt;&lt;br /&gt;Segundo a equipe da Palmsoft, Essence promete levar os jogos da empresa a um novo nível de qualidade.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Transição de Era no Ryudragon</title>
-   <link href="http://example.com/2006/05/24/transicao-de-era-no-ryudragon"/>
+   <link href="//2006/05/24/transicao-de-era-no-ryudragon"/>
    <updated>2006-05-24T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/24/transicao-de-era-no-ryudragon</id>
+   <id>//2006/05/24/transicao-de-era-no-ryudragon</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=18&quot;&gt;RPG&lt;/a&gt;
  &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=10&quot;&gt;online&lt;/a&gt;
  &lt;a href=&quot;/index.php?p=c&amp;amp;id=168&quot;&gt;Ryudragon&lt;/a&gt;
@@ -343,9 +346,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Novas imagens do RPG Essence</title>
-   <link href="http://example.com/2006/04/29/novas-imagens-do-rpg-essence"/>
+   <link href="//2006/04/29/novas-imagens-do-rpg-essence"/>
    <updated>2006-04-29T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/29/novas-imagens-do-rpg-essence</id>
+   <id>//2006/04/29/novas-imagens-do-rpg-essence</id>
    <content type="html">&lt;p&gt;Há muito tempo, magos construíram três portais para canalizar a essência da magia do universo.&lt;br /&gt;Este é o início da história de Essence, um &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=18&quot;&gt;RPG&lt;/a&gt;
  tático em desenvolvimento pela &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;Palmsoft Tecnologia&lt;/a&gt;
 .&lt;br /&gt;&lt;br /&gt;A empresa liberou novas imagens e detalhes sobre o enredo do jogo.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=368&quot;&gt;Confira a prévia…&lt;/a&gt;&lt;/p&gt;
@@ -355,9 +358,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Novidades na Palmsoft</title>
-   <link href="http://example.com/2006/04/28/novidades-na-palmsoft"/>
+   <link href="//2006/04/28/novidades-na-palmsoft"/>
    <updated>2006-04-28T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/28/novidades-na-palmsoft</id>
+   <id>//2006/04/28/novidades-na-palmsoft</id>
    <content type="html">&lt;p&gt;Previsto para entrar no mercado na primeira semana de maio, &lt;a href=&quot;../../../index.php?p=c&amp;amp;id=282&quot;&gt;Golden West - Bang! Bang!&lt;/a&gt;
  é o próximo RPG a ser lançado pela &lt;a href=&quot;../../../index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;PalmSoft Tecnologia&lt;/a&gt;
 . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=363&quot;&gt;Mais detalhes…&lt;/a&gt;&lt;/p&gt;
@@ -367,9 +370,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Novidades da Palmsoft</title>
-   <link href="http://example.com/2006/04/28/novidades-da-palmsoft"/>
+   <link href="//2006/04/28/novidades-da-palmsoft"/>
    <updated>2006-04-28T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/28/novidades-da-palmsoft</id>
+   <id>//2006/04/28/novidades-da-palmsoft</id>
    <content type="html">&lt;p&gt;Previsto para entrar no mercado na primeira semana de maio, &lt;a href=&quot;/index.php?p=c&amp;amp;id=282&quot;&gt;Golden West - Bang! Bang!&lt;/a&gt;
  é o próximo RPG a ser lançado pela &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;PalmSoft Tecnologia&lt;/a&gt;
 . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa.&lt;br /&gt;&lt;br /&gt;Em Golden West - Bang! Bang!, o jogador é remetido ao Velho Oeste americano, onde o sonho de encontrar ouro e tornar-se rico mistura-se com o desejo de vingança. Seu tio, um velho imigrante chinês, foi morto por protestar contra as injustiças no garimpo, mas lhe deixou um dos quatro pedaços do mapa da mina. Agora, cabe a você vingar a morte dele, encontrar as outras três partes, e tornar real o sonho americano. Publicado pela &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=61&quot;&gt;MDEV&lt;/a&gt;
@@ -384,9 +387,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Entrevista PalmSoft Tecnologia</title>
-   <link href="http://example.com/2006/03/28/entrevista-palmsoft-tecnologia"/>
+   <link href="//2006/03/28/entrevista-palmsoft-tecnologia"/>
    <updated>2006-03-28T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/28/entrevista-palmsoft-tecnologia</id>
+   <id>//2006/03/28/entrevista-palmsoft-tecnologia</id>
    <content type="html">&lt;p&gt;A PalmSoft Tecnologia é uma empresa catarinense desenvolvedora de inúmeros jogos para celular, entre eles estão: os famosos Crimson After Dusk e PalmSoft Drag Racer.&lt;/p&gt;
 
 &lt;p&gt;O jogosdaqui entrevistou Dennis Kerr Coelho, 25 anos, diretor técnico da PalmSoft Tecnologia.&lt;/p&gt;
@@ -462,9 +465,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>PalmSoft, novos jogos em desenvolvimento</title>
-   <link href="http://example.com/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento"/>
+   <link href="//2006/03/04/palmsoft-novos-jogos-em-desenvolvimento"/>
    <updated>2006-03-04T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento</id>
+   <id>//2006/03/04/palmsoft-novos-jogos-em-desenvolvimento</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;PalmSoft Tecnologia&lt;/a&gt;
  colocou no forno dois novos jogos: &lt;br /&gt;Inferi DII, jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=1&quot;&gt;ação&lt;/a&gt;
  com enredo baseado na mitologia grega e Essence um &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=18&quot;&gt;RPG&lt;/a&gt;
@@ -476,9 +479,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>War of Malquidious</title>
-   <link href="http://example.com/2006/01/23/war-of-malquidious-2"/>
+   <link href="//2006/01/23/war-of-malquidious-2"/>
    <updated>2006-01-23T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/23/war-of-malquidious-2</id>
+   <id>//2006/01/23/war-of-malquidious-2</id>
    <content type="html">&lt;p&gt;Um jogo no estilo RPG/Estratégia com batalhas em turnos, lembrando clássicos como Ogre Battle e Final Phantasy Tatics. O jogo chama atenção pelos gráficos bem caprichados, jogabilidade intuitiva e diversão.&lt;/p&gt;
 
 &lt;p&gt;Você é Dio, um jovem Tenente encarregado de comandar as tropas de Feltrano contra Malquidios, o Deus dos demônios. Durante o jogo você recebe suas missões e tem de lutar contra exércitos inimigos para alcançar seus objetivos.
@@ -495,9 +498,9 @@ A cada batalha ganha você recebe dinheiro e reforços para repor seus homens mo
  
  <entry>
    <title>PalmSoft lança três jogos em janeiro</title>
-   <link href="http://example.com/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro"/>
+   <link href="//2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro"/>
    <updated>2006-01-16T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro</id>
+   <id>//2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro</id>
    <content type="html">&lt;p&gt;A PalmSoft Tecnologia, empresa catarinense que desenvolve jogos para celular, está com três novidades. A primeira delas &lt;a href=&quot;/2005/10/13/shadows-of-malquidious/&quot;&gt;Shadows of Malquidious&lt;/a&gt;
 , RPG que ficou entre os 20 melhores jogos em um concurso da Sony Ericsson, e que começa a ser comercializado no Brasil. Nele, o jogador é envolvido em um ambiente de guerra, onde enfrenta um exército de mortos-vivos que tomou sua cidade natal e raptou todos os habitantes.&lt;/p&gt;
 
@@ -514,9 +517,9 @@ A cada batalha ganha você recebe dinheiro e reforços para repor seus homens mo
  
  <entry>
    <title>Prévia de War of Malquidious da PalmSoft</title>
-   <link href="http://example.com/2005/12/16/war-of-malquidious"/>
+   <link href="//2005/12/16/war-of-malquidious"/>
    <updated>2005-12-16T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/16/war-of-malquidious</id>
+   <id>//2005/12/16/war-of-malquidious</id>
    <content type="html">&lt;p&gt;War of Malquidious, o novo RPG tático para celular da PalmSoft Tecnologia.&lt;/p&gt;
 
 &lt;p&gt;O jogador controlará as tropas do reino de Feltrano na luta para restaurar a paz. Paz esta que foi quebrada pelo deus demônio conhecido como Malquidious.&lt;/p&gt;
@@ -532,9 +535,9 @@ A cada batalha ganha você recebe dinheiro e reforços para repor seus homens mo
  
  <entry>
    <title>Jogos em debate</title>
-   <link href="http://example.com/2005/11/23/jogos-em-debate"/>
+   <link href="//2005/11/23/jogos-em-debate"/>
    <updated>2005-11-23T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/23/jogos-em-debate</id>
+   <id>//2005/11/23/jogos-em-debate</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://www.hoplon.com/&quot;&gt;Hoplon Infotainment&lt;/a&gt;
  está chamando a atenção de todo o País. Na próxima quinta-feira, dia 24, o presidente da empresa, Tarqüínio Teles, estará participando de uma mesa redonda no Simpósio Brasileiro de Games (&lt;a href=&quot;http://sbgames.org/&quot;&gt;SBGames 2005&lt;/a&gt;
 ) junto com Marcelo Minutti (Brasil Telecom) e Julio Vieitez (Level Up/Ragnarok). O tema do debate será “Jogos on-line: mercado e desenvolvimento”. Tarqüínio recebeu o convite por ser o principal mentor do maior projeto de desenvolvimento de game executado no Brasil, o &lt;a href=&quot;/2005/09/21/taikodom/&quot;&gt;Taikodom&lt;/a&gt;
@@ -546,9 +549,9 @@ A cada batalha ganha você recebe dinheiro e reforços para repor seus homens mo
  
  <entry>
    <title>Taikodom será lançado na EGS</title>
-   <link href="http://example.com/2005/11/16/taikodom-sera-lancado-na-egs"/>
+   <link href="//2005/11/16/taikodom-sera-lancado-na-egs"/>
    <updated>2005-11-16T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/16/taikodom-sera-lancado-na-egs</id>
+   <id>//2005/11/16/taikodom-sera-lancado-na-egs</id>
    <content type="html">&lt;p&gt;Taikodom será lançado na EGS.&lt;/p&gt;
 
 &lt;p&gt;O primeiro game massive de ação totalmente desenvolvido no Brasil confirmou presença na EGS (Electronic Game Show), que acontecerá em São Paulo entre os dias 18 e 20 de novembro. O jogo, que já está na reta final, transporta seus usuários para o ano de 2.252, num universo em constante expansão.&lt;/p&gt;
@@ -573,9 +576,9 @@ A cada batalha ganha você recebe dinheiro e reforços para repor seus homens mo
  
  <entry>
    <title>Gamecon</title>
-   <link href="http://example.com/2005/09/27/gamecon"/>
+   <link href="//2005/09/27/gamecon"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/27/gamecon</id>
+   <id>//2005/09/27/gamecon</id>
    <content type="html">&lt;p&gt;Entre 15 e 16 de outubro de 2005 a segunda edição do Gamecon será realizada no Espaço Ferrovia , situado na Rua Dr. Almeida Lima, número 1219, no bairro da Móoca na Cidade de São Paulo.&lt;/p&gt;
 
 &lt;p&gt;O Gamecon é um evento específico de games e tecnologia, sendo dividido em três áreas distintas:&lt;/p&gt;
@@ -603,9 +606,9 @@ A cada batalha ganha você recebe dinheiro e reforços para repor seus homens mo
  
  <entry>
    <title>Parceria com Rede Networks beneficia Erinia</title>
-   <link href="http://example.com/2005/09/26/parceria-com-rede-networks-beneficia-erinia"/>
+   <link href="//2005/09/26/parceria-com-rede-networks-beneficia-erinia"/>
    <updated>2005-09-26T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/26/parceria-com-rede-networks-beneficia-erinia</id>
+   <id>//2005/09/26/parceria-com-rede-networks-beneficia-erinia</id>
    <content type="html">&lt;p&gt;A parceria fundada entre a Ignis Games e Rede Networks já beneficia os jogadores de Erinia em diversos aspectos. O jogo vem sofrendo vários ajustes no balanceamento, o sistema de pagamento já está funcionando normalmente e brevemente será feita uma atualização nos servidores. Além disto, para quem tem conexão discada, com o discador do Erinia, você ganha desconto na mensalidade.Erinia é um MMORPG ou também chamado de RPG Online que comporta centenas de pessoas jogando ao mesmo tempo. &lt;a href=&quot;http://www.erinia.com.br&quot;&gt;www.erinia.com.br&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -613,9 +616,9 @@ A cada batalha ganha você recebe dinheiro e reforços para repor seus homens mo
  
  <entry>
    <title>Erinia</title>
-   <link href="http://example.com/2005/08/27/erinia"/>
+   <link href="//2005/08/27/erinia"/>
    <updated>2005-08-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/08/27/erinia</id>
+   <id>//2005/08/27/erinia</id>
    <content type="html">&lt;p&gt;O Erinia é um jogo RPG (Role Playing Game – Jogo de Representação de Papéis) para computador, de uso massivo pela Internet. O jogo permite que milhares de pessoas joguem simultaneamente, interagindo em um mundo virtual persistente que evolui e se altera constantemente, mesmo quando eles não estão conectados ao jogo.&lt;/p&gt;
 
 &lt;p&gt;O enredo do jogo é inspirado em elementos do folclore brasileiro, adaptando os monstros imaginários de nossa cultura, lendas e mitos ao contexto dos jogos clássicos de RPG, oferecendo uma alternativa aos estilos de RPG medievais existentes atualmente, quase todos baseados na mitologia européia. Algumas das criaturas que podem ser citadas, são o Saci, a Caipora, o Boiuna, o Corpo Seco, o Mapinguari, o Labatut, o Gogó de Sola, entre outros&lt;/p&gt;

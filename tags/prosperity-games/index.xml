@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - prosperity-games</title>
- <link href="http://example.com/tags/prosperity-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/prosperity-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/prosperity-games.html</id>
+ <title>jogosdaqui - prosperity-games</title>
+ <link href="//tags/prosperity-games/index.xml" rel="self"/>
+ <link href="/tag/prosperity-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/prosperity-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Imagens da semana #12</title>
-   <link href="http://example.com/2015/06/22/imagens-da-semana-12"/>
+   <link href="//2015/06/22/imagens-da-semana-12"/>
    <updated>2015-06-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/22/imagens-da-semana-12</id>
+   <id>//2015/06/22/imagens-da-semana-12</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticGame/status/60909733429161984&quot;&gt;A Aquiris Game Studio convocando os jogadores de Ballistic para contribuir na classe The Vanguard&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_Ballistic.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_Ballistic.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=96067241732486&quot;&gt;O game HTR+ da QuByte Interactive vendido em caixinha na Alemanha&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_HTR.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_HTR.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/danielmerkel/status/61088221620224819&quot;&gt;A equipe da SouthBox trabalhando na UI do game Super Volley&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_SuperVolley.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_SuperVolley.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://instagram.com/p/4AjlVtGzGB&quot;&gt;O BIG Festival lembrando que o lançamento do game Full Metal Wars da brasileira Prosperity Games acontecerá durante o evento no dia 01/07&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_FullMetalWars.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_FullMetalWars.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/61228920312104960&quot;&gt;Screenshot da pista de Brighton Beach do game de corrida Horizon Chase&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_HorizonChase.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_HorizonChase.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Teaser Trailer de Full Metal Wars</title>
-   <link href="http://example.com/2015/04/01/teaser-trailer-de-full-metal-wars"/>
+   <link href="//2015/04/01/teaser-trailer-de-full-metal-wars"/>
    <updated>2015-04-01T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/01/teaser-trailer-de-full-metal-wars</id>
+   <id>//2015/04/01/teaser-trailer-de-full-metal-wars</id>
    <content type="html">&lt;p&gt;O game Full Metal Wars, da brasileira Prosperity Games de Campina Grande, conta com uma mistura de mitologia nórdica e de tecnologia para a criação de seu mundo fantástico.&lt;/p&gt;
 
 &lt;p&gt;O jogo, que está em closed-beta, será um free-to-play de estratégia.&lt;/p&gt;

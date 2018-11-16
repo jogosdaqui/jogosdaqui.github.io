@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - quadro-a-quadro</title>
- <link href="http://example.com/tags/quadro-a-quadro/index.xml" rel="self"/>
- <link href="http://example.com/tag/quadro-a-quadro.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/quadro-a-quadro.html</id>
+ <title>jogosdaqui - quadro-a-quadro</title>
+ <link href="//tags/quadro-a-quadro/index.xml" rel="self"/>
+ <link href="/tag/quadro-a-quadro.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/quadro-a-quadro.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Mikura Going Home</title>
-   <link href="http://example.com/2015/11/11/mikura-going-home"/>
+   <link href="//2015/11/11/mikura-going-home"/>
    <updated>2015-11-11T00:00:00-02:00</updated>
-   <id>http://example.com/2015/11/11/mikura-going-home</id>
+   <id>//2015/11/11/mikura-going-home</id>
    <content type="html">&lt;p&gt;Existem centenas de espécies de águas-vivas ou medusas, algumas delas são utilizadas na culinária, principalmente na ásia. Outras espécies na biotecnologia, onde os cientistas utilizam a proteína verde fluorescente existente em algumas variedades para tentar entender melhor como certos genes se manifestam em outros seres vivos.&lt;/p&gt;
 
 &lt;p&gt;Apesar de toda essa diversidade de águas-vivas que encontramos na natureza, nenhuma delas se compara a Mikura, pois ao contrário da maioria, Mikura não vivia nos oceanos, mas na Lua. Um dia ela caiu do nosso satélite natural e foi parar aqui na Terra.&lt;/p&gt;
@@ -28,7 +28,7 @@
 &lt;p&gt;O jogo conta com diversas fases, com direito a chefões e fases bônus.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/11/11/mikura-going-home/QuadroAQuadro_Mikura.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/11/11/mikura-going-home/QuadroAQuadro_Mikura.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;plataforma&quot;&gt;Plataforma&lt;/h2&gt;
@@ -45,9 +45,9 @@
  
  <entry>
    <title>Prévia de My Night Job da Webcore Games</title>
-   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games"/>
+   <link href="//2015/06/10/previa-de-my-night-job-da-webcore-games"/>
    <updated>2015-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
+   <id>//2015/06/10/previa-de-my-night-job-da-webcore-games</id>
    <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
 
 &lt;p&gt;Se quando você viu esses filmes ficou com vontade de pegar a serra elétrica, sua boomstick (a arma de cano-serrado), entrar numa casa mal-assombrada, detonar os demônios e salvar o dia no melhor estilo insano do herói Ash Williams, então o game que a Webcore Games está desenvolvendo matará sua vontade.&lt;/p&gt;

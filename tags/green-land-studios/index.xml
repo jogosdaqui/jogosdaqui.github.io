@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - green-land-studios</title>
- <link href="http://example.com/tags/green-land-studios/index.xml" rel="self"/>
- <link href="http://example.com/tag/green-land-studios.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/green-land-studios.html</id>
+ <title>jogosdaqui - green-land-studios</title>
+ <link href="//tags/green-land-studios/index.xml" rel="self"/>
+ <link href="/tag/green-land-studios.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/green-land-studios.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
@@ -170,18 +170,18 @@
  
  <entry>
    <title>Jogos Completos de Baixo Orçamento, 18 projetos classificados</title>
-   <link href="http://example.com/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados"/>
+   <link href="//2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados"/>
    <updated>2006-06-02T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados</id>
+   <id>//2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados</id>
    <content type="html">&lt;p&gt;O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.&lt;br /&gt;&lt;br /&gt;Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Confira a lista dos 18 projetos classificados em ordem alfabética:&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;1 - A Traça Teca - Reconstruindo a História do Brasil&lt;br /&gt;Maíra Valencise Gregolin&lt;br /&gt;Imax Games Entretenimento&lt;br /&gt;São Carlos - SP&lt;br /&gt;&lt;br /&gt;2 - As Aventuras de Kito, o Mico&lt;br /&gt;Augusto César Vilarim Pires&lt;br /&gt;Jynx Playware Ltda&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;3 - CaveDays&lt;br /&gt;Winston George A. Petty&lt;br /&gt;Insólita Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;4 - Deuses do Tabuleiro - O Juízo Final&lt;br /&gt;Archias Alves de Almeida Filho&lt;br /&gt;Devworks Game Technology&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;5 - Direção Furiosa&lt;br /&gt;Davi da Silva Prata&lt;br /&gt;Sant Computação Gráfica&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;6 - Estradas Esburacadas - São Paulo&lt;br /&gt;Sanderson Sousa de Farias&lt;br /&gt;SR-Games&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;7 - La Capitale&lt;br /&gt;Leonardo Pessoa de Moura&lt;br /&gt;Fundação de Fomento à Tecnologia e à Ciência - Virtualize Jogos Eletrônicos (Incubada)&lt;br /&gt;Salvador - BA&lt;br /&gt;&lt;br /&gt;8 - Lobo do Mar: Batalhas Navais para a Libertação da América do Sul&lt;br /&gt;Paulo Candido de Oliveira Filho&lt;br /&gt;Teiaoito Tecnologia Educacional Ltda&lt;br /&gt;São Paulo-SP&lt;br /&gt;&lt;br /&gt;9 - Maggie&lt;br /&gt;Luiz Manoel Gerosa&lt;br /&gt;Interama Jogos Eletrônicos&lt;br /&gt;Vitória-ES&lt;br /&gt;&lt;br /&gt;10 - O Detetive - O Caso Portinari&lt;br /&gt;Tiago Keller Ferreira&lt;br /&gt;Decadium Studios Ltda.&lt;br /&gt;Santa Maria - RS&lt;br /&gt;&lt;br /&gt;11 - Peixis! A disputa Subaquatica!&lt;br /&gt;Wallace Santos Lages&lt;br /&gt;Virsat Sistemas Comerciais&lt;br /&gt;Belo Horizonte - MG&lt;br /&gt;&lt;br /&gt;12 - Shotguns n Goblins - The Shaman will Dead&lt;br /&gt;João Ricardo Bittencourt&lt;br /&gt;Ludens Artis Serviços em Informática Ltda&lt;br /&gt;Gravataí - RS&lt;br /&gt;&lt;br /&gt;13 - Turminha Querubim - Karangas Turbinadas&lt;br /&gt;Clóvis Shimabukuro&lt;br /&gt;Licch - Criação e Desenvolvimento de Materiais Artísticos&lt;br /&gt;Londrina - PR&lt;br /&gt;&lt;br /&gt;14 - Universim&lt;br /&gt;Marco Túlio Caraciolo Ferreira Albuquerque&lt;br /&gt;Manifesto Game Studio&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;15 - V.T.O.L. (Vertical Take Off Landing)&lt;br /&gt;Wagner Carvalho&lt;br /&gt;GreenLang Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;16 - Villa Rica&lt;br /&gt;Alexandre Machado de Sá&lt;br /&gt;44 Bico Largo Multimídia&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;17 - Você é o Chefe (The Chief)&lt;br /&gt;Rogério de Leon Pereira&lt;br /&gt;FourX Development Ltda&lt;br /&gt;Maringá - PR&lt;br /&gt;&lt;br /&gt;18 - Warbots3D&lt;br /&gt;Sérgio Imperatriz&lt;br /&gt;Tempo Soluções em Informática LTDA&lt;br /&gt;Campinas - SP&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Lista de projetos do JogosBR 2005/2006</title>
-   <link href="http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
+   <link href="//2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
    <updated>2006-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
+   <id>//2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
    <content type="html">&lt;p&gt;As listas de projetos enviados para os concursos do JogosBR 2005/2006 foi liberada, confira abaixo os gráficos de projetos por estado e as listas completas:
 &lt;br /&gt;&lt;/p&gt;
 
@@ -200,24 +200,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Primeiro Brasileiro no Espaço</title>
-   <link href="http://example.com/2006/03/24/primeiro-brasileiro-no-espaco"/>
+   <link href="//2006/03/24/primeiro-brasileiro-no-espaco"/>
    <updated>2006-03-24T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/24/primeiro-brasileiro-no-espaco</id>
+   <id>//2006/03/24/primeiro-brasileiro-no-espaco</id>
    <content type="html">&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;table width=&quot;416&quot; cellspacing=&quot;2&quot; cellpadding=&quot;1&quot; border=&quot;0&quot; style=&quot;text-align: left; margin-left: auto; margin-right: auto;&quot;&gt;
@@ -285,9 +285,9 @@
  
  <entry>
    <title>Novos jogos da Green Land Studios</title>
-   <link href="http://example.com/2005/12/22/novos-jogos-da-green-land-studios"/>
+   <link href="//2005/12/22/novos-jogos-da-green-land-studios"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/22/novos-jogos-da-green-land-studios</id>
+   <id>//2005/12/22/novos-jogos-da-green-land-studios</id>
    <content type="html">&lt;p&gt;A Green Land Studios lançou dois novos jogos: Bate-Rebate e Dominó Chinês.&lt;/p&gt;
 
 &lt;p&gt;Os dois jogos são distribuídos pelo SBT através do site &lt;a href=&quot;http://www.sbtdiversao.com.br&quot; target=&quot;_blank&quot;&gt;SBT Diversão&lt;/a&gt;
@@ -301,9 +301,9 @@
  
  <entry>
    <title>Dominó Chinês</title>
-   <link href="http://example.com/2005/12/22/domino-chines"/>
+   <link href="//2005/12/22/domino-chines"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/22/domino-chines</id>
+   <id>//2005/12/22/domino-chines</id>
    <content type="html">&lt;h2 id=&quot;dominó-chinês&quot;&gt;Dominó Chinês&lt;/h2&gt;
 &lt;p&gt;Difere do dominó clássico, onde o jogador deve colocar em sequência peças que possuem extremidades iguais. No jogo chinês as peças são desempilhadas e são feitas combinações com outras peças para avançar. Quando é feita a combinação correta o par de peças é eliminado.&lt;/p&gt;
 
@@ -317,9 +317,9 @@
  
  <entry>
    <title>Bate-Rebate</title>
-   <link href="http://example.com/2005/12/22/bate-rebate"/>
+   <link href="//2005/12/22/bate-rebate"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/22/bate-rebate</id>
+   <id>//2005/12/22/bate-rebate</id>
    <content type="html">&lt;p&gt;Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D.&lt;/p&gt;
 
 &lt;p&gt;Utilizando das muitas possibilidades que as novas dimensões trazem ao jogo, o estilo Arkanoid ganha um novo fôlego e inúmeras novas combinações para a jogabilidade, um exemplo disto são as fases onde vários blocos estão empilhados, algo impossível em jogos 2D do mesmo estilo.&lt;/p&gt;
@@ -335,9 +335,9 @@
  
  <entry>
    <title>Novo Show do Milhão</title>
-   <link href="http://example.com/2005/12/14/novo-show-do-milhao"/>
+   <link href="//2005/12/14/novo-show-do-milhao"/>
    <updated>2005-12-14T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/14/novo-show-do-milhao</id>
+   <id>//2005/12/14/novo-show-do-milhao</id>
    <content type="html">&lt;p&gt;Lançado o Show do Milhão 2006. O jogo conta com 20.000 perguntas divididas em vários assuntos.
 O modo multiplayer e o ranking online são as grandes novidades desta nova versão.Show do Milhão 2006 foi desenvolvido pela Green Land Studios e está sendo distribuído pela Cia. do Software&lt;/p&gt;
 
@@ -347,9 +347,9 @@ O modo multiplayer e o ranking online são as grandes novidades desta nova vers�
  
  <entry>
    <title>V.T.O.L.</title>
-   <link href="http://example.com/2005/09/20/v-t-o-l"/>
+   <link href="//2005/09/20/v-t-o-l"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/20/v-t-o-l</id>
+   <id>//2005/09/20/v-t-o-l</id>
    <content type="html">&lt;p&gt;Um simulador de pouso espacial, com física real. Habilidade e estratégia são as armas para vencer neste jogo, para internet da Green Land Studios.&lt;/p&gt;
 
 &lt;p&gt;Divirta-se pilotando sua nave por vários cenários construídos com gráficos de última geração, de grutas subterrâneas a cidades espaciais, mas fique atento, o consumo de combustível é seu maior inimigo!&lt;/p&gt;
@@ -361,9 +361,9 @@ O modo multiplayer e o ranking online são as grandes novidades desta nova vers�
  
  <entry>
    <title>BOTZIN</title>
-   <link href="http://example.com/2005/08/27/botzin"/>
+   <link href="//2005/08/27/botzin"/>
    <updated>2005-08-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/08/27/botzin</id>
+   <id>//2005/08/27/botzin</id>
    <content type="html">&lt;p&gt;O primeiro game 3D de balística do Brasil.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;O game, inédito no Brasil é um jogo de estratégia que conta com 12 robôs que podem ser incrementados ao longo da partida com vários acessórios. Em cinco cenários diferentes, o jogador terá na artilharia, armas que vão desde um simples rifle de assalto a uma metralhadora de energia. Para acertar o inimigo, o jogador terá que calcular, por exemplo, a força e a angulação dos tiros, pois como se trata de um jogo em turnos, depois que o player fizer o movimento, é a vez do adversário. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - bitcrafters</title>
- <link href="http://example.com/tags/bitcrafters/index.xml" rel="self"/>
- <link href="http://example.com/tag/bitcrafters.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/bitcrafters.html</id>
+ <title>jogosdaqui - bitcrafters</title>
+ <link href="//tags/bitcrafters/index.xml" rel="self"/>
+ <link href="/tag/bitcrafters.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/bitcrafters.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Fim de jogo para a Bitcrafters</title>
-   <link href="http://example.com/2006/07/13/fim-de-jogo-para-a-bitcrafters"/>
+   <link href="//2006/07/13/fim-de-jogo-para-a-bitcrafters"/>
    <updated>2006-07-13T00:00:00-03:00</updated>
-   <id>http://example.com/2006/07/13/fim-de-jogo-para-a-bitcrafters</id>
+   <id>//2006/07/13/fim-de-jogo-para-a-bitcrafters</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=bitcrafters&quot;&gt;Bitcrafters&lt;/a&gt;
 , empresa fundada a cerca de dois anos, anunciou no seu site que está fechando as portas por tempo indeterminado.&lt;br /&gt;&lt;br /&gt;Durante este período, a Bitcrafters desenvolveu sua própria engine e produziu Jessy - Ein Zirkuspferd in Not. O jogo esteve na lista dos 20 mais vendidos da Alemanha.&lt;br /&gt;&lt;br /&gt;No final da nota, a empresa diz que existe a possibilidade de abrir as portas novamente no futuro.&lt;/p&gt;
 </content>
@@ -21,9 +21,9 @@
  
  <entry>
    <title>Dois jogos brasileiros no TOP 20 da Alemanha</title>
-   <link href="http://example.com/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha"/>
+   <link href="//2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha"/>
    <updated>2005-11-18T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha</id>
+   <id>//2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha</id>
    <content type="html">&lt;p&gt;Seguindo a trajetória de outros jogos brasileiros lançados na Alemanha, Der Pferderennstall, da &lt;a href=&quot;http://www.espacoinf.com&quot; target=&quot;_blank&quot;&gt;Espaço Informática&lt;/a&gt;
  e Die Pferdebande da&lt;a href=&quot;http://www.oniria.com.br/&quot; target=&quot;_blank&quot;&gt; Oniria Entertainment&lt;/a&gt;
 , continuam no TOP 20 da Alemanha.&lt;/p&gt;

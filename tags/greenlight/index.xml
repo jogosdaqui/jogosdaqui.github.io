@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - greenlight</title>
- <link href="http://example.com/tags/greenlight/index.xml" rel="self"/>
- <link href="http://example.com/tag/greenlight.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/greenlight.html</id>
+ <title>jogosdaqui - greenlight</title>
+ <link href="//tags/greenlight/index.xml" rel="self"/>
+ <link href="/tag/greenlight.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/greenlight.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Side Quest da Miris Mind no Greenlight</title>
-   <link href="http://example.com/2015/10/23/side-quest-da-miris-mind-no-greenlight"/>
+   <link href="//2015/10/23/side-quest-da-miris-mind-no-greenlight"/>
    <updated>2015-10-23T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/23/side-quest-da-miris-mind-no-greenlight</id>
+   <id>//2015/10/23/side-quest-da-miris-mind-no-greenlight</id>
    <content type="html">&lt;p&gt;Em tempos onde programas culinários como MasterChef fazem um grande sucesso, que tal um game onde o herói é o cozinheiro numa aventura épica? Essa é a proposta da paulistana &lt;a href=&quot;http://www.mirismind.com/&quot; target=&quot;_blank&quot;&gt;Miris Mind&lt;/a&gt;
  que está finalizando o desenvolvimento de seu novo game e iniciou sua campanha de &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=527592042&quot; target=&quot;_blank&quot;&gt;Greenlight &lt;/a&gt;
 no Steam.&lt;/p&gt;
@@ -39,9 +39,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Game brasileiro Paper Cat ajuda ONGs</title>
-   <link href="http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
+   <link href="//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
    <updated>2015-08-25T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
+   <id>//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
    <content type="html">&lt;p&gt;Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa.&lt;/p&gt;
 
 &lt;p&gt;É nessa ideia que o game &lt;a href=&quot;http://papercatgame.tumblr.com/&quot;&gt;Paper Cat&lt;/a&gt; da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.&lt;/p&gt;
@@ -63,9 +63,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Prévia de Cannibal da GameTek</title>
-   <link href="http://example.com/2015/05/19/previa-de-cannibal-da-gametek"/>
+   <link href="//2015/05/19/previa-de-cannibal-da-gametek"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/19/previa-de-cannibal-da-gametek</id>
+   <id>//2015/05/19/previa-de-cannibal-da-gametek</id>
    <content type="html">&lt;p&gt;A indie brasileira &lt;a href=&quot;http://www.gametekbrasil.com/&quot; target=&quot;_blank&quot;&gt;GameTek&lt;/a&gt;
  está há cerca de dois anos desenvolvendo seu primeiro game: Cannibal.&lt;/p&gt;
 
@@ -100,9 +100,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Entrevista: Fernando Paulo, criador de Treeker</title>
-   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
+   <link href="//2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
+   <id>//2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
    <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot;&gt;Blusoft Studios&lt;/a&gt;, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
 
 &lt;h2 id=&quot;para-contextualizar-o-leitor-conte-um-pouco-da-tua-história-no-gamedev&quot;&gt;Para contextualizar o leitor, conte um pouco da tua história no gamedev?&lt;/h2&gt;
@@ -116,7 +116,7 @@ no Steam.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker: Os Óculos Perdidos, game criado por Fernando Paulo &lt;/span&gt;&lt;/center&gt;
 
@@ -141,7 +141,7 @@ no Steam.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker e seu visual 3D estiloso &lt;/span&gt;&lt;/center&gt;
 
@@ -173,9 +173,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>XIII SEJA (Semana de Entretenimento, Jogos e  Animação)</title>
-   <link href="http://example.com/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao"/>
+   <link href="//2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao"/>
    <updated>2015-05-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao</id>
+   <id>//2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao</id>
    <content type="html">&lt;p&gt;A Semana de Entretenimento, Jogos e Animação (SEJA), promovida semestralmente pelo curso de Jogos Digitais da PUC - MG, chega na sua 13º edição tendo como destaque palestras sobre animação, artes, programação, experiências profissionais de ex-alunos, mercado de trabalho, serious games e mais, confira a programação abaixo:&lt;/p&gt;
 &lt;h2 id=&quot;programação-do-xiii-seja&quot;&gt;Programação do XIII SEJA&lt;/h2&gt;
 &lt;p&gt;Terça-feira - 19 de maio&lt;/p&gt;
@@ -233,9 +233,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Space Lander</title>
-   <link href="http://example.com/2015/05/13/space-lander"/>
+   <link href="//2015/05/13/space-lander"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/13/space-lander</id>
+   <id>//2015/05/13/space-lander</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Ground control to Major Tom&lt;br /&gt;
 Ground control to Major Tom&lt;br /&gt;
@@ -281,9 +281,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Campanha do TurboLink no Collective está chegando ao fim</title>
-   <link href="http://example.com/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim"/>
+   <link href="//2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim"/>
    <updated>2015-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim</id>
+   <id>//2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim</id>
    <content type="html">&lt;p&gt;A campanha do &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;game brasileiro TurboLink&lt;/a&gt;
  está chegando ao fim na plataforma Square Enix Collective, mas ainda faltam votos para que a produtora de Final Fantasy apóie o game na sua &lt;a href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;campanha no Kickstarter&lt;/a&gt;
 .&lt;/p&gt;
@@ -310,9 +310,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5"/>
+   <link href="//2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/09/checkpoint-5</id>
+   <id>//2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ICONGames/status/59452353241723289&quot;&gt;A Icon Games comemorando a marca de 180.000 downloads de seu game Escape from Alcatraz&lt;/a&gt;&lt;/p&gt;
 
@@ -356,9 +356,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Insert Coins: Gryphon Knight Epic - Gameplay e Entrevista</title>
-   <link href="http://example.com/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista"/>
+   <link href="//2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista"/>
    <updated>2015-05-06T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista</id>
+   <id>//2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista</id>
    <content type="html">&lt;p&gt;A Cyber Rhino Studios é um novo estúdio catarinense que tem como primeiro jogo o Gryphon Knight Epic. Aceito no Steam Greenlight e com objetivo atingido no seu kickstarter, mistura elementos de shumps clássicos e power-ups no melhor estilo Megaman com uma narrativa e temática que lembra os RPGs clássicos.&lt;/p&gt;
 
 &lt;p&gt;Nesse vídeo mostramos um gameplay exclusivo com a participação do programador Joe Junior, comentando detalhes da criação da empresa e do desenvolvimento do jogo.&lt;/p&gt;
@@ -381,9 +381,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>TurboLink aprovado no Steam Greenlight</title>
-   <link href="http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
+   <link href="//2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
+   <id>//2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
    <content type="html">&lt;p&gt;Acabamos de receber uma grande notícia: TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=429961096&quot; target=&quot;_blank&quot;&gt;Greenlight&lt;/a&gt;
 , ou seja, num futuro próximo devemos ter esse belo jogo de corrida high-tech no Steam.&lt;/p&gt;
 
@@ -411,9 +411,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Labindie divulga jogo indie Milford Heaven</title>
-   <link href="http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
+   <link href="//2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
    <updated>2015-04-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
+   <id>//2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
    <content type="html">&lt;p&gt;Para jogadores que curtem o estilo RPG roguelike point and click medieval, &lt;a href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot;&gt;Milford Heaven&lt;/a&gt; é uma excelente opção.&lt;/p&gt;
 
 &lt;p&gt;O jogador (você no caso), é um guerreiro treinado na arte das espadas, viaja de cidade em cidade procurando quem possa empregar seus serviços. Um dia você está acampando perto da cidade Milford Heaven e decide visitar a taberna. Ao chegar lá, fica surpreso pois a taberna está totalmente vazia, sem ninguém. Conversando com o estalajadeiro, fica sabendo que existe um vampiro chamado Luken e que seu castelo fica situado nas redondezas da cidade.&lt;/p&gt;
@@ -424,9 +424,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Prévia de Gryphon Knight Epic</title>
-   <link href="http://example.com/2015/04/09/previa-de-gryphon-knight-epic"/>
+   <link href="//2015/04/09/previa-de-gryphon-knight-epic"/>
    <updated>2015-04-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/09/previa-de-gryphon-knight-epic</id>
+   <id>//2015/04/09/previa-de-gryphon-knight-epic</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.cyberrhinostudios.com/&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
 , de Florianópolis, lançou no ano passado uma campanha no &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/&quot;&gt;Kickstarter&lt;/a&gt;
  para tornar o seu Gryphon Knight Epic, um medieval shmup, em realidade. Pouco tempo depois o game recebeu o Greenlight no Steam.&lt;/p&gt;
@@ -445,19 +445,12 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Splitplay apresenta: Bernie Needs Love</title>
-   <link href="http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love"/>
+   <link href="//2014/06/05/splitplay-apresenta-bernie-needs-love"/>
    <updated>2014-06-05T00:00:00-03:00</updated>
-   <id>http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Protomni Multimedia em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
+   <id>//2014/06/05/splitplay-apresenta-bernie-needs-love</id>
+   <content type="html">&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot;&gt;Bernie Needs Love&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot; target=&quot;_blank&quot;&gt;Bernie Needs Love&lt;/a&gt;
-!.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot; target=&quot;_blank&quot;&gt;Protomni Multimedia&lt;/a&gt;
-, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
+&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot;&gt;Protomni Multimedia&lt;/a&gt;, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
 
 &lt;p&gt;Em meados de 2012, tivemos a ideia de criar um jogo de plataforma que fosse simples, muito difícil e que retratasse cenários característicos da nossa cidade com a estética da era dos 4 e 8 bits. O objetivo de todas as fases é guiar Bernie até a namorada e evitar perigos que incluem pombos com disenteria, bueiros explosivos, áreas alagadas, foliões com incontinência urinária, assaltantes, tubulações d’água com vazamentos e assim por diante. Em dezembro desse mesmo ano, disponibilizamos o jogo por um preço promocional e, desde então, estamos acrescentando recursos e conteúdo com base não apenas no plano original, mas também no feedback dos jogadores.&lt;/p&gt;
 
@@ -469,23 +462,18 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/t4eDKQ6KHNQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;Estamos no Greenlight&lt;/a&gt;
- e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;votem&lt;/a&gt;
-, deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
-&lt;div&gt;&lt;br /&gt;
-&lt;div&gt;&lt;br /&gt;
-&amp;gt; Gostou? Quer concorrer a chaves gratuitas do game?
-&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;Ent&amp;#227;o siga o jogosdaqui no Twitter.&lt;/a&gt;
-&lt;/strong&gt;
-&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;Estamos no Greenlight&lt;/a&gt; e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;votem&lt;/a&gt; deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
+
+&lt;p&gt;Gostou? Quer concorrer a chaves gratuitas do game?
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot;&gt;Então siga o jogosdaqui no Twitter.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Demo do Mr. Bree+ no Greenlight</title>
-   <link href="http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight"/>
+   <link href="//2013/06/03/demo-do-mr-bree-no-greenlight"/>
    <updated>2013-06-03T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight</id>
+   <id>//2013/06/03/demo-do-mr-bree-no-greenlight</id>
    <content type="html">&lt;p&gt;O time da &lt;a href=&quot;http://tawstudio.com/&quot; target=&quot;_blank&quot;&gt;TawStudio&lt;/a&gt;
  deu mais um importante passo na sua  campanha no Greenlight para levar o game &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-02_19_08_27-154784552-0&quot; target=&quot;_blank&quot;&gt;Mr. Bree+&lt;/a&gt;
  ao Steam.&lt;/p&gt;
@@ -505,9 +493,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Mr. Bree+ no Greenlight</title>
-   <link href="http://example.com/2013/05/02/mr-bree-no-greenlight"/>
+   <link href="//2013/05/02/mr-bree-no-greenlight"/>
    <updated>2013-05-02T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/02/mr-bree-no-greenlight</id>
+   <id>//2013/05/02/mr-bree-no-greenlight</id>
    <content type="html">&lt;p style=&quot;text-align: left;&quot;&gt;&amp;gt; Mr. Bree + &amp;#233; um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incr&amp;#237;vel aspecto visual e musical.
 &lt;p style=&quot;text-align: left;&quot;&gt;&amp;gt; S&amp;#227;o 60 n&amp;#237;veis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a hist&amp;#243;ria do nosso her&amp;#243;i, um porco fazendeiro, pai de fam&amp;#237;lia, o Mr. Bree&amp;quot;
 &lt;p style=&quot;text-align: left;&quot;&gt; 
@@ -533,9 +521,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Oniken: The Rescue</title>
-   <link href="http://example.com/2012/12/13/oniken-the-rescue-2"/>
+   <link href="//2012/12/13/oniken-the-rescue-2"/>
    <updated>2012-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/12/13/oniken-the-rescue-2</id>
+   <id>//2012/12/13/oniken-the-rescue-2</id>
    <content type="html">&lt;p&gt;Amanhã, dia 14 de dezembro, o game &lt;a href=&quot;http://oniken.net/&quot; target=&quot;_blank&quot;&gt;Oniken&lt;/a&gt;
  da &lt;a href=&quot;http://joymasher.com/&quot; target=&quot;_blank&quot;&gt;JoyMasher&lt;/a&gt;
  receberá uma nova missão: &lt;strong&gt;The Rescue&lt;/strong&gt; estará disponível para todos os jogadores que já possuem Oniken.&lt;/p&gt;

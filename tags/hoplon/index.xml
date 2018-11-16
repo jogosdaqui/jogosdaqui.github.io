@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - hoplon</title>
- <link href="http://example.com/tags/hoplon/index.xml" rel="self"/>
- <link href="http://example.com/tag/hoplon.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/hoplon.html</id>
+ <title>jogosdaqui - hoplon</title>
+ <link href="//tags/hoplon/index.xml" rel="self"/>
+ <link href="/tag/hoplon.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/hoplon.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Documentário "A Mecânica do Jogo"</title>
-   <link href="http://example.com/2010/12/18/documentario-a-mecanica-do-jogo"/>
+   <link href="//2010/12/18/documentario-a-mecanica-do-jogo"/>
    <updated>2010-12-18T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/18/documentario-a-mecanica-do-jogo</id>
+   <id>//2010/12/18/documentario-a-mecanica-do-jogo</id>
    <content type="html">&lt;p&gt;“A Mecânica do Jogo” mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira.&lt;/p&gt;
 
 &lt;p&gt;O documentário tem uma ótima qualidade e possui depoimentos de diversas pessoas da indústria brasileira falando sobre  a cultura do brasileiro em relação ao games internacionais e nacionais, sobre as diferenças entre os mercados americano, europeu, japonês e o nosso, sobre os altos impostos e a pirataria, a saída da Ubisoft e muitos outros assuntos.&lt;/p&gt;
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
@@ -188,9 +188,9 @@
  
  <entry>
    <title>Hoplon apresenta Taikodom em Portugal</title>
-   <link href="http://example.com/2006/11/16/hoplon-apresenta-taikodom-em-portugal"/>
+   <link href="//2006/11/16/hoplon-apresenta-taikodom-em-portugal"/>
    <updated>2006-11-16T00:00:00-02:00</updated>
-   <id>http://example.com/2006/11/16/hoplon-apresenta-taikodom-em-portugal</id>
+   <id>//2006/11/16/hoplon-apresenta-taikodom-em-portugal</id>
    <content type="html">&lt;p&gt;No maior evento de ficção científica em língua portuguesa, Gerson Lodi-Ribeiro, um dos criadores do universo ficcional do Taikodom, e Tarqüínio Teles, presidente da Hoplon, vão apresentar o único projeto 100% brasileiro que mistura jogo, texto literário e história em quadrinhos.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;Nos próximos dias 16, 17, 18 e 19 de novembro, Lisboa receberá grandes nomes da ficção científica para participar do Fórum Fantástico, o maior evento do gênero em língua portuguesa. E na edição deste ano, os representantes brasileiros no evento serão Tarqüínio Teles, Presidente da Hoplon, e Gerson Lodi-Ribeiro, um dos escritores do game catarinense em desenvolvimento, o MMOG Taikodom.&lt;br /&gt;&lt;br /&gt;A participação do escritor consiste na exposição do universo do game, visto pelos portugueses como amplo e ousado. &quot;Os portugueses são ávidos leitores de literatura de ficção cientifica, e temos certeza que ficarão encantados com a amplitude, detalhamento e criatividade do universo criado pelos brasileiros&quot;, explica Tarqüínio Teles, presidente da Hoplon, empresa responsável pelo desenvolvimento do jogo on-line.&lt;br /&gt;&lt;br /&gt;Na seqüência, o Presidente da Hoplon, Tarqüínio Teles, um dos criadores do conceito original do Taikodom, apresentará o projeto do MMOG em si, através de vídeos do game em desenvolvimento, explicações concepts de arte, e falará do desafio de desenvolver um game desta dimensão totalmente em português, usando talentos e tecnologia brasileira.&lt;br /&gt;&lt;br /&gt;Segundo Tarqüínio, a exposição de um produto totalmente brasileiro em um mercado fora do país pode trazer grandes resultados. &quot;Acreditamos que brasileiros e portugueses podem formar uma grande comunidade de jogadores do Taikodom, podendo jogar juntos, num mesmo conjunto de servidores em português, aumentando assim o potencial de crescimento do game quando for lançado, e proporcionando mais diversão para todos&quot;, acredita Tarqüínio. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Mais informações podem ser obtidas diretamente no site do evento:&lt;br /&gt;&lt;a href=&quot;http://forumfantastico.wordpress.com/&quot; target=&quot;_blank&quot;&gt;http://forumfantastico.wordpress.com/&lt;/a&gt;&lt;/p&gt;
@@ -200,9 +200,9 @@
  
  <entry>
    <title>NewsAbragames - Junho/2006</title>
-   <link href="http://example.com/2006/06/14/newsabragames-junho-2006"/>
+   <link href="//2006/06/14/newsabragames-junho-2006"/>
    <updated>2006-06-14T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/14/newsabragames-junho-2006</id>
+   <id>//2006/06/14/newsabragames-junho-2006</id>
    <content type="html">&lt;p&gt;Lançada a edição de junho da newsletter da Associação Brasileira das Desenvolvedoras de Jogos Eletrônico.&lt;br /&gt;&lt;br /&gt;Veja na edição desse mês matérias sobre: Pinogol,  HQ Eterno Retorno do Taikodom, novas afiliadas a Abragames (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=interama&quot;&gt;Interama&lt;/a&gt;
  e &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=insolita&quot;&gt;Insolita Studios&lt;/a&gt;
 ), eventos e cursos.&lt;br /&gt;&lt;br /&gt;Leia mais em &lt;a href=&quot;http://www.abragames.com.br/newsletter/&quot; target=&quot;_blank&quot;&gt;www.abragames.com.br/newsletter&lt;/a&gt;&lt;/p&gt;
@@ -212,9 +212,9 @@
  
  <entry>
    <title>Taikocom lança a 2° edição da HQ Eterno Retorno</title>
-   <link href="http://example.com/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno"/>
+   <link href="//2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno"/>
    <updated>2006-06-08T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno</id>
+   <id>//2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno</id>
    <content type="html">&lt;p&gt;Depois de &quot;Convocação&quot;, edição número zero da mini-série, a catarinense Hoplon Infotainment acaba de lançar uma nova revista em quadrinhos baseada no game online desenvolvido pela empresa. Para os admiradores da versão HQ do game que ficaram com vontade de mais aventura, a nova edição da revista promete empolgar o leitor com muita ação. A idéia da publicação, que ganha um novo episódio a cada dois meses, é auxiliar o jogador a entender o universo do Taikodom. &quot;Num game massivo lidamos ao mesmo tempo com um público muito grande, em momentos distintos. A revista é uma oportunidade de falar diretamente com cada leitor, uma experiência individual e mais íntima , explica Tarqüínio Teles, presidente da Hoplon.&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
@@ -225,24 +225,24 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Taikodom, Alfa Teste 2006</title>
-   <link href="http://example.com/2006/05/17/taikodom-alfa-teste-2006"/>
+   <link href="//2006/05/17/taikodom-alfa-teste-2006"/>
    <updated>2006-05-17T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/17/taikodom-alfa-teste-2006</id>
+   <id>//2006/05/17/taikodom-alfa-teste-2006</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=11&quot;&gt;Hoplon&lt;/a&gt;
  está iniciando uma nova fase de testes no &lt;a href=&quot;/index.php?p=c&amp;amp;id=48&quot;&gt;Taikodom&lt;/a&gt;
 . Segundo a empresa, o objetivo principal desta versão é proporcionar ao jogador um começo de jogo mais fácil e apresentar o primeiro pacote de missões para o jogo, essa versão conta com 13 missões.&lt;br /&gt;&lt;br /&gt;Outras características que poderão ser testadas são os drones, seleção de armas, docagem automática e proteção contra PVP/PK no sistema solar.&lt;br /&gt;&lt;br /&gt;Confira mais detalhes no &lt;a href=&quot;http://www.taikodom.com.br&quot; target=&quot;_blank&quot;&gt;site do Taikdom&lt;/a&gt;
@@ -252,9 +252,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Hoplon vira case da IBM</title>
-   <link href="http://example.com/2006/05/05/hoplon-vira-case-da-ibm"/>
+   <link href="//2006/05/05/hoplon-vira-case-da-ibm"/>
    <updated>2006-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/05/hoplon-vira-case-da-ibm</id>
+   <id>//2006/05/05/hoplon-vira-case-da-ibm</id>
    <content type="html">&lt;p&gt;A catarinense Hoplon, responsável por desenvolver o game Taikodom, acaba de virar case mundial da IBM. O motivo é uma tentativa conjunta inovadora: permitir que todos os jogadores do game participem num mesmo shard (cópia do universo), ao invés da versão antiga onde eram separados em universos diferentes, com capacidade para 3 a 5 mil jogadores cada, e dar a este shard a capacidade de crescer sempre que for necessário para atender à chegada de novos jogadores.&lt;br /&gt;&lt;br /&gt;Normalmente, existem mais de uma instância do game completo, com todas as funções e alterações construídas em cada um. Isso gera uma infra-estrutura complexa, dispendiosa e subutilizada com cada instância rodando em diversos servidores diferentes.&lt;br /&gt;&lt;br /&gt;Mas esse problema, no que depender da parceria entre a Hoplon e a IBM, pode estar chegando ao fim. Para resolver a questão, a Hoplon, com apoio da IBM, está desenvolvendo uma solução que coloca todos os usuários em uma única plataforma, com estrutura modular e funções específicas. Por exemplo: um modelo físico controla como a nave se comporta para todos os jogadores que interagem em um determinado espaço do game, ambientado no espaço, enquanto um módulo bancário cuida de transferências monetárias. Além disso, a plataforma terá condições de crescer muito rapidamente para atender às mudanças constantes do número de usuários online, pois os recursos do jogo eletrônico serão liberados automaticamente quando os jogadores conectam e desconectam. Dentro desta solução &quot;On Demand&quot;, a empresa pagará apenas pelos recursos que forem efetivamente consumidos pelos jogadores. Desta forma, a conta passa a ser  proporcional ao tamanho do público e ao sucesso do Taikodom. Hoje, nas soluções tradicionais, é necessário estar constantemente comprando antecipadamente novos servidores para instalar aumentar a capacidade em atender blocos de jogadores simultâneos, bem como incluir novas funções, lugares e ações. São os chamados shards.&lt;br /&gt;&lt;br /&gt;O presidente da Hoplon, Tarqüínio Teles, explica que a nova solução é inovadora em âmbito mundial e válida para todo o mercado de desenvolvimento de jogos online. “A IBM está participando ativamente no projeto, disponibilizando tempo do seu pessoal, software e hardware para levarmos nosso produto ao mercado de maneira competitiva”, avalia.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;Outro exemplo dos ganhos com esse novo modelo de desenvolvimento está o incremento de performance em 30% sobre a antiga plataforma Oracle. Além disso, os programadores poderão fazer ajustes mais rápidos, melhorando e expandindo o código do jogo. “Nós queríamos uma plataforma muito mais escalonável e flexível que os modelos existentes, e ficamos muito empolgados com as idéias que a IBM no apresentou”, diz Teles. A solução encontrada pela IBM partiu de uma demanda específica da Hoplon, e a multinacional ofereceu um produto &quot;On Demand&quot;, que entre outras vantagens traz o pagamento mensal pelo uso, sem a necessidade de a Hoplon adquirir a solução.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;O Taikodom é um jogo multiplayer online de ação e tem como plano de fundo o ambiente espacial. O cenário em escala real com um universo persistente permite que todas as informações e eventos sejam constantemente armazenados e permaneçam influenciando as atitudes de todos os demais jogadores. No universo Taikodom o jogador pode ser o que quiser e sua missão é viajar, lutar, vender, liderar ou simplesmente sobreviver. A aventura se passa em 2252, em um mundo cheio de possibilidades, num universo em constante expansão. Atualmente, o game passa por uma segunda rodada de desenvolvimento. Os ajustes estão sendo feitos para atender as sugestões dos usuários, entre elas uma curva de aprendizado mais suave, interfaces mais intuitivas e maior presença do universo ficcional dentro do game. Para quem quiser testar gratuitamente o game basta se inscrever em www.taikodom.com.br&lt;/p&gt;
@@ -263,9 +263,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>NewsAbragames - Abril/2006</title>
-   <link href="http://example.com/2006/04/14/newsabragames-abril-2006"/>
+   <link href="//2006/04/14/newsabragames-abril-2006"/>
    <updated>2006-04-14T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/14/newsabragames-abril-2006</id>
+   <id>//2006/04/14/newsabragames-abril-2006</id>
    <content type="html">&lt;p&gt;No ar a última edição da NewsAbragames (newsletter mensal da Abragames - Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos).&lt;br /&gt;&lt;br /&gt;A edição de abril conta com a review do jogo de palavras cruzadas &lt;a href=&quot;/index.php?p=c&amp;amp;id=316&quot;&gt;Coquetel&lt;/a&gt;
  da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=40&quot;&gt;Délirus&lt;/a&gt;
 , os destaques da mídia no mês de março, a agenda de eventos sobre jogos para os próximos meses, a participação da catarinense &lt;a href=&quot;/index.php?p=c&amp;amp;id=311&quot;&gt;Hoplon na GDC&lt;/a&gt;
@@ -276,9 +276,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Primeiro Brasileiro no Espaço</title>
-   <link href="http://example.com/2006/03/24/primeiro-brasileiro-no-espaco"/>
+   <link href="//2006/03/24/primeiro-brasileiro-no-espaco"/>
    <updated>2006-03-24T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/24/primeiro-brasileiro-no-espaco</id>
+   <id>//2006/03/24/primeiro-brasileiro-no-espaco</id>
    <content type="html">&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;table width=&quot;416&quot; cellspacing=&quot;2&quot; cellpadding=&quot;1&quot; border=&quot;0&quot; style=&quot;text-align: left; margin-left: auto; margin-right: auto;&quot;&gt;
@@ -346,9 +346,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Hoplon é palestrante na GDC 2006</title>
-   <link href="http://example.com/2006/03/20/hoplon-e-palestrante-na-gdc-2006"/>
+   <link href="//2006/03/20/hoplon-e-palestrante-na-gdc-2006"/>
    <updated>2006-03-20T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/20/hoplon-e-palestrante-na-gdc-2006</id>
+   <id>//2006/03/20/hoplon-e-palestrante-na-gdc-2006</id>
    <content type="html">&lt;p&gt;Tarqüínio Teles, o presidente da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=11&quot;&gt;Hoplon Infotainment&lt;/a&gt;
 , desenvolvedora do MSG &lt;a href=&quot;/index.php?p=c&amp;amp;id=48&quot;&gt;Taikodom&lt;/a&gt;
 , dará uma palestra na GDC 2006. &lt;br /&gt;&lt;br /&gt;O presidente da Hoplon será o primeiro brasileiro a palestrar na GDC (Game Developers Conference 2006). O tema da palestra é a parceria entre Hoplon e IBM.&lt;br /&gt;&lt;/p&gt;
@@ -359,9 +359,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Hoplon, a primeira empresa brasileira palestrante na CDG</title>
-   <link href="http://example.com/2006/03/20/hoplon-a-primeira-empresa-brasileira-palestrante-na-cdg"/>
+   <link href="//2006/03/20/hoplon-a-primeira-empresa-brasileira-palestrante-na-cdg"/>
    <updated>2006-03-20T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/20/hoplon-a-primeira-empresa-brasileira-palestrante-na-cdg</id>
+   <id>//2006/03/20/hoplon-a-primeira-empresa-brasileira-palestrante-na-cdg</id>
    <content type="html">&lt;p&gt;A tecnologia brasileira ganha destaque na GDC (Game Developers Conference 2006), que acontece nos dias 20 a 24 de março, em San Jose, na Califórnia. O presidente da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=11&quot;&gt;Hoplon Infotainment&lt;/a&gt;
 , desenvolvedora do game &lt;a href=&quot;/index.php?p=c&amp;amp;id=48&quot;&gt;Taikodon&lt;/a&gt;
 , Tarquínio Teles vai falar no dia 22, sobre a parceria entre a empresa catarinense e a IBM, na palestra Postmortem of a Full 3D Action MMOG in 20 Months: How Crazy Brazilians Created a Single Shard Game that Traverses the Depths of Space (Desenvolvendo um MMOG de ação totalmente 3D em 20 meses: Como brasileiros loucos criaram um game de universo único que atravessa as profundezas do espaço).  &lt;br /&gt;
@@ -373,9 +373,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>HQ Taikodom Número Zero</title>
-   <link href="http://example.com/2006/03/02/hq-taikodom-numero-zero"/>
+   <link href="//2006/03/02/hq-taikodom-numero-zero"/>
    <updated>2006-03-02T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/02/hq-taikodom-numero-zero</id>
+   <id>//2006/03/02/hq-taikodom-numero-zero</id>
    <content type="html">&lt;p&gt;Está disponível para &lt;a target=&quot;_blank&quot; href=&quot;http://gn.taikodom.com.br/SerieZero/numero0/index.html&quot;&gt;download&lt;/a&gt;
  no site do jogo &lt;a href=&quot;/index.php?p=c&amp;amp;id=48&quot;&gt;Taikodom&lt;/a&gt;
  a história em quadrinhos &quot;Convocação&quot;, este número especial é um prelúdio para a graphic novel &quot;O Eterno Retorno&quot; que será lançada em breve.&lt;br /&gt;&lt;br /&gt;A HQ apresenta desenhos de alta qualidade e a história segue o estilo do universo ficcional de Taikodom.&lt;br /&gt;&lt;br /&gt;Para quem não conhece o universo Taikodom, esta é uma boa oportunidade para ingressar neste mundo..&lt;/p&gt;
@@ -384,9 +384,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Hoplon ganha prêmio da IBM Brasil</title>
-   <link href="http://example.com/2006/01/25/hoplon-ganha-premio-da-ibm-brasil"/>
+   <link href="//2006/01/25/hoplon-ganha-premio-da-ibm-brasil"/>
    <updated>2006-01-25T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/25/hoplon-ganha-premio-da-ibm-brasil</id>
+   <id>//2006/01/25/hoplon-ganha-premio-da-ibm-brasil</id>
    <content type="html">&lt;p&gt;Com o objetivo de incentivar a atuação dos ISVs (Independent Software Vendors) filiados ao programa PartnerWorld, a IBM Brasil premiou 15 parceiros de negócios que mais se destacaram no ano de 2005. Entre eles, a empresa catarinense &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=11&quot;&gt;Hoplon Infotainment&lt;/a&gt;
 , desenvolvedora do game &lt;a href=&quot;/index.php?p=c&amp;amp;id=48&quot;&gt;Taikodom&lt;/a&gt;
  e parceira Advanced - Industry-optimized da IBM, foi selecionada na categoria Mídia &amp;amp; Entretenimento. “Nosso objetivo é atuar cada vez mais perto do ISV, oferecendo todo o suporte necessário para que o desenvolvedor obtenha o melhor proveito das soluções IBM, além de conhecimento sobre as novas tecnologias. Outro fator importante é a troca de experiências entre as empresas envolvidas no programa”, afirma Ruth Harada, gerente de alianças da área de Software da IBM Brasil.&lt;br /&gt;&lt;br /&gt;Segundo o presidente da Hoplon, Tarquínio Teles, diversas tecnologias da IBM foram fundamentais para o desenvolvimento do Taikodom. “Usamos as tecnologias da IBM como base para o nosso produto e essa premiação confirma que o Taikodom, mesmo ainda não tendo sido lançado, já é um produto extremamente inovador e de grande qualidade”, afirma Teles.&lt;br /&gt;&lt;br /&gt;Os parceiros de negócios que fazem parte do programa PartnerWorld estão divididos nas categorias Member, Advanced e Premier. De acordo com a categoria a que pertencem, as empresas parceiras recebem da IBM uma série de apoios e incentivos, como: acesso ao centro IBM de software para avaliação e ao virtual innovation center; download gratuito de softwares; catálogo de software (software access catalog); portal com recursos para aperfeiçoar suas habilidades técnicas e de vendas; acesso ao time mundial de venda IBM.&lt;br /&gt;&lt;br /&gt;O relacionamento da Hoplon com a IBM começou no final de 2003, quando dois dos fundadores da Hoplon assistiram um seminário da IBM sobre Grid Computing em São Paulo. Conversando durante o coffee-break com os palestrantes, descobriu-se um enorme potencial em usar ferramentas da IBM já consolidadas no mercado de TI (tecnologia da informação) para acelerar o desenvolvimento de games online como o Taikodom.&lt;br /&gt;&lt;br /&gt;A parceria foi firmada em 2004, com a adoção pela Hoplon de tecnologias IBM como DB2 e WebSphere, dando início a uma iniciativa que vem se estreitando cada vez mais, com diversas ações conjuntas em andamento e estudo, e que começa a chamar a atenção no Brasil e também no estrangeiro.&lt;/p&gt;
@@ -395,9 +395,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Reestruturação na Hoplon</title>
-   <link href="http://example.com/2006/01/10/reestruturacao-na-hoplon"/>
+   <link href="//2006/01/10/reestruturacao-na-hoplon"/>
    <updated>2006-01-10T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/10/reestruturacao-na-hoplon</id>
+   <id>//2006/01/10/reestruturacao-na-hoplon</id>
    <content type="html">&lt;p&gt;Como de costume, tenho boas e más notícias que gostaria de partilhar com vocês, nossos maiores apoiadores, em primeira mão. Em resumo, a excelente notícia é que nós, junto com nosso investidor, estamos renovando nosso compromisso de não colocar o Taikodom no mercado exceto como um produto de excelente qualidade e capaz de satisfazer tanto vocês, que desde há muito participam conosco de seu desenvolvimento, como outros milhares de pessoas maravilhosas como vocês no Brasil, e, quem sabe um dia, no mundo.&lt;/p&gt;
 
 &lt;p&gt;Por conta disso, teremos que atrasar mais uma vez o lançamento do Taikodom. Por dois motivos:&lt;/p&gt;
@@ -427,9 +427,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Taikodom faz ajustes finais</title>
-   <link href="http://example.com/2005/12/22/taikodom-faz-ajustes-finais"/>
+   <link href="//2005/12/22/taikodom-faz-ajustes-finais"/>
    <updated>2005-12-22T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/22/taikodom-faz-ajustes-finais</id>
+   <id>//2005/12/22/taikodom-faz-ajustes-finais</id>
    <content type="html">&lt;p&gt;Depois de um pré-lançamento ocorrido na EGS (Electronic Game Show), em São Paulo, no mês de novembro, o Taikodom, game massive de ação totalmente elaborado e executado no Brasil, está entrando na reta final antes do seu lançamento comercial.&lt;/p&gt;
 
 &lt;p&gt;O momento agora, segundo Tarquínio Teles, presidente da Hoplon, empresa desenvolvedora do game, é de fazer uma série de ajustes antes de colocar o Taikodom finalmente no mercado. “A experiência na EGS nos fez olhar de novo para o produto. Estamos fazendo uma revisão completa, já que tivemos algumas dificuldades técnicas, e acreditamos também torná-lo ainda mais completo e divertido”, afirma Teles.&lt;/p&gt;
@@ -442,9 +442,9 @@ Eduardo Ferrara, ilustrador da revista que está há 17 anos neste mercado, tamb
  
  <entry>
    <title>Novas imagens de Taikodom</title>
-   <link href="http://example.com/2005/12/15/novas-imagens-de-taikodom"/>
+   <link href="//2005/12/15/novas-imagens-de-taikodom"/>
    <updated>2005-12-15T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/15/novas-imagens-de-taikodom</id>
+   <id>//2005/12/15/novas-imagens-de-taikodom</id>
    <content type="html">&lt;p&gt;A Hoplon liberou mais 75 novas imagens de Taikodom.
 Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br/index.jsp?pg=main_galeria&quot; target=&quot;_blank&quot;&gt;site do jogo&lt;/a&gt;
 .&lt;/p&gt;
@@ -456,9 +456,9 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Taikodom, Guerras do Território</title>
-   <link href="http://example.com/2005/12/05/taikodom-guerras-do-territorio"/>
+   <link href="//2005/12/05/taikodom-guerras-do-territorio"/>
    <updated>2005-12-05T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/05/taikodom-guerras-do-territorio</id>
+   <id>//2005/12/05/taikodom-guerras-do-territorio</id>
    <content type="html">&lt;p&gt;A Hoplon Infotainment colocou no ar o hotsite: &lt;a href=&quot;http://www.taikodom.com.br/hotsite_taiko&quot; target=&quot;_blank&quot;&gt;Taikodom - Guerras do Território.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;No hotsite existe uma breve apresentação sobre o jogo e o incrível universo de &lt;a href=&quot;/2005/09/21/taikodom/&quot;&gt;Taikodom&lt;/a&gt;
@@ -471,9 +471,9 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Jogos em debate</title>
-   <link href="http://example.com/2005/11/23/jogos-em-debate"/>
+   <link href="//2005/11/23/jogos-em-debate"/>
    <updated>2005-11-23T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/23/jogos-em-debate</id>
+   <id>//2005/11/23/jogos-em-debate</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://www.hoplon.com/&quot;&gt;Hoplon Infotainment&lt;/a&gt;
  está chamando a atenção de todo o País. Na próxima quinta-feira, dia 24, o presidente da empresa, Tarqüínio Teles, estará participando de uma mesa redonda no Simpósio Brasileiro de Games (&lt;a href=&quot;http://sbgames.org/&quot;&gt;SBGames 2005&lt;/a&gt;
 ) junto com Marcelo Minutti (Brasil Telecom) e Julio Vieitez (Level Up/Ragnarok). O tema do debate será “Jogos on-line: mercado e desenvolvimento”. Tarqüínio recebeu o convite por ser o principal mentor do maior projeto de desenvolvimento de game executado no Brasil, o &lt;a href=&quot;/2005/09/21/taikodom/&quot;&gt;Taikodom&lt;/a&gt;
@@ -485,9 +485,9 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Acompanhe o Taikodom na EGS</title>
-   <link href="http://example.com/2005/11/19/acompanhe-o-taikodom-na-egs"/>
+   <link href="//2005/11/19/acompanhe-o-taikodom-na-egs"/>
    <updated>2005-11-19T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/19/acompanhe-o-taikodom-na-egs</id>
+   <id>//2005/11/19/acompanhe-o-taikodom-na-egs</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.taikodom.com.br/hot_egs/index.jsp?pg=dia2/home&quot; target=&quot;_blank&quot;&gt;hotsite Taikodom na EGS&lt;/a&gt;
  mostra como anda a movimentação do público no estande da Hoplon&amp;lt; na feira EGS.&lt;/p&gt;
 
@@ -501,9 +501,9 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Taikodom será lançado na EGS</title>
-   <link href="http://example.com/2005/11/16/taikodom-sera-lancado-na-egs"/>
+   <link href="//2005/11/16/taikodom-sera-lancado-na-egs"/>
    <updated>2005-11-16T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/16/taikodom-sera-lancado-na-egs</id>
+   <id>//2005/11/16/taikodom-sera-lancado-na-egs</id>
    <content type="html">&lt;p&gt;Taikodom será lançado na EGS.&lt;/p&gt;
 
 &lt;p&gt;O primeiro game massive de ação totalmente desenvolvido no Brasil confirmou presença na EGS (Electronic Game Show), que acontecerá em São Paulo entre os dias 18 e 20 de novembro. O jogo, que já está na reta final, transporta seus usuários para o ano de 2.252, num universo em constante expansão.&lt;/p&gt;
@@ -528,9 +528,9 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Curtas do dia...</title>
-   <link href="http://example.com/2005/10/05/curtas-do-dia"/>
+   <link href="//2005/10/05/curtas-do-dia"/>
    <updated>2005-10-05T00:00:00-03:00</updated>
-   <id>http://example.com/2005/10/05/curtas-do-dia</id>
+   <id>//2005/10/05/curtas-do-dia</id>
    <content type="html">&lt;ul&gt;
 &lt;ul&gt;
 	&lt;li style=&quot;text-align: justify;&quot;&gt;Ontem foi lançado mais um jogo da TILT online, o Vudugame. Ele já se encontra disponível na nossa listagem, confira!&lt;/li&gt;
@@ -545,9 +545,9 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Novas modificações no Taikodom</title>
-   <link href="http://example.com/2005/09/27/novas-modificacoes-no-taikodom"/>
+   <link href="//2005/09/27/novas-modificacoes-no-taikodom"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/27/novas-modificacoes-no-taikodom</id>
+   <id>//2005/09/27/novas-modificacoes-no-taikodom</id>
    <content type="html">&lt;p&gt;O jogo Taikodom recebeu nesta semana novas modificações em seu sistema para reduzir os bugs que aconteciam nos testes. Segundo as instruções e apontamentos realizados pelos próprios usuários inscritos no Beta Teste, foram detectados alguns defeitos que impediam a perfeita jogabilidade do Taikodom. Bugs que incomodam muito a comunidade, como a Inteligência Artificial para navegação, estão recebendo atenção especial da equipe para melhorar a experiência no universo.Taikodom é um jogo multiplayer online e está atualmente em beta aberto, ou seja, todos os interessados podem testar o jogo fazendo o download pelo site &lt;a href=&quot;http://www.taikodom.com.br&quot;&gt;www.taikodom.com.br&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -555,9 +555,9 @@ Confira as belas imagens no próprio &lt;a href=&quot;http://www.taikodom.com.br
  
  <entry>
    <title>Taikodom</title>
-   <link href="http://example.com/2005/09/21/taikodom"/>
+   <link href="//2005/09/21/taikodom"/>
    <updated>2005-09-21T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/21/taikodom</id>
+   <id>//2005/09/21/taikodom</id>
    <content type="html">&lt;p&gt;Taikodom é um Massively Multiplayer Online Game (MMO) baseado no universo desenvolvido pela Hoplon e o escritor de ficção científica Gerson Lodi-Ribeiro.&lt;/p&gt;
 
 &lt;p&gt;É um game de ação em escala real, onde os jogadores terão a liberdade para pilotar naves, se organizar em corporações, enfim viver. Viver em um mundo novo onde viagens entre estações espaciais, imortalidade, construção de habitats artificiais e colônias humanas nas órbitas e superfícies de planetas e asteróides são coisas rotineiras. Sua conduta e relação social determinam o que você vai ser. Pirata, patrulheiro, explorador, minerador, repórter, transportador, caçador de recompensas… Os recursos são infinitos e há uma vasta galáxia a explorar, com milhares de jogadores competindo e cooperando entre si. Seus objetivos podem ser tão simples como vagar pelo espaço, ou até construir mega-corporações espaciais.&lt;/p&gt;

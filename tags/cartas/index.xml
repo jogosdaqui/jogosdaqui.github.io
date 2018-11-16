@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - cartas</title>
- <link href="http://example.com/tags/cartas/index.xml" rel="self"/>
- <link href="http://example.com/tag/cartas.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/cartas.html</id>
+ <title>jogosdaqui - cartas</title>
+ <link href="//tags/cartas/index.xml" rel="self"/>
+ <link href="/tag/cartas.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/cartas.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Jogos Vorazes ganha game no estilo Super Trunfo</title>
-   <link href="http://example.com/2015/11/19/jogos-vorazes-ganha-game-de-cartas"/>
+   <link href="//2015/11/19/jogos-vorazes-ganha-game-de-cartas"/>
    <updated>2015-11-19T00:00:00-02:00</updated>
-   <id>http://example.com/2015/11/19/jogos-vorazes-ganha-game-de-cartas</id>
+   <id>//2015/11/19/jogos-vorazes-ganha-game-de-cartas</id>
    <content type="html">&lt;p&gt;A saga Jogos Vorazes, um dos maiores fenômenos do cinema nas últimas décadas, está agora também nas telinhas dos smartphones e tablets. Na semana em que o quarto e último filme estreia nos cinemas, Katniss, Peeta, Alma Coin, Presidente Snow e companhia são também os protagonistas do Jogos Vorazes Card Game, que chega gratuitamente nas lojas de aplicativos para celulares.&lt;/p&gt;
 
 &lt;h2 id=&quot;uma-mecânica-familiar&quot;&gt;Uma mecânica familiar&lt;/h2&gt;

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - pixtoy</title>
- <link href="http://example.com/tags/pixtoy/index.xml" rel="self"/>
- <link href="http://example.com/tag/pixtoy.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/pixtoy.html</id>
+ <title>jogosdaqui - pixtoy</title>
+ <link href="//tags/pixtoy/index.xml" rel="self"/>
+ <link href="/tag/pixtoy.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/pixtoy.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>War Dogs</title>
-   <link href="http://example.com/2015/10/22/war-dogs"/>
+   <link href="//2015/10/22/war-dogs"/>
    <updated>2015-10-22T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/22/war-dogs</id>
+   <id>//2015/10/22/war-dogs</id>
    <content type="html">&lt;p&gt;Que tal misturar um pouco da jogabilidade de Streets Of Rage e Final Fight, adicionando a jogabilidade de beat ‘em up 3D de games como Fighting Force (PS1 e N64)? E se os lutadores forem mutantes humanoides com cabeça de cachorro num mundo após uma guerra nuclear? Essa é a proposta de War Dogs, game da &lt;a href=&quot;http://pixtoy.com/br/&quot; target=&quot;_blank&quot;&gt;Pixtoy&lt;/a&gt;
 , de Vitória, Espírito Santo.&lt;/p&gt;
 

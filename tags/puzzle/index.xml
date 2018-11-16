@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - puzzle</title>
- <link href="http://example.com/tags/puzzle/index.xml" rel="self"/>
- <link href="http://example.com/tag/puzzle.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/puzzle.html</id>
+ <title>jogosdaqui - puzzle</title>
+ <link href="//tags/puzzle/index.xml" rel="self"/>
+ <link href="/tag/puzzle.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/puzzle.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>ReOrd</title>
-   <link href="http://example.com/2015/08/26/reord"/>
+   <link href="//2015/08/26/reord"/>
    <updated>2015-08-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/26/reord</id>
+   <id>//2015/08/26/reord</id>
    <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
 
 &lt;p&gt;Trazer esse gameplay simples de um brinquedo de infância para as telas mobile é a proposta do game ReOrd.&lt;/p&gt;
@@ -42,9 +42,9 @@
  
  <entry>
    <title>Esquadrão Patada</title>
-   <link href="http://example.com/2013/03/18/esquadrao-patada"/>
+   <link href="//2013/03/18/esquadrao-patada"/>
    <updated>2013-03-18T00:00:00-03:00</updated>
-   <id>http://example.com/2013/03/18/esquadrao-patada</id>
+   <id>//2013/03/18/esquadrao-patada</id>
    <content type="html">&lt;p&gt;A desenvolvedora mato-grossense &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;
  já esteve no jogosdaqui em 2012 com seu puzzle para iOS, o game à época era &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-01-01_2012-01-31.html#2012_01-05_08_05_01-154784552-0&quot;&gt;Zigball&lt;/a&gt;
 . Agora é a vez de outro jogo para os aparelhos da Apple, esse também um puzzle: &lt;a href=&quot;http://www.pankekagames.com.br/esquadrao/&quot; target=&quot;_blank&quot;&gt;Esquadrão Patada&lt;/a&gt;
@@ -65,9 +65,9 @@
  
  <entry>
    <title>BLLUBY</title>
-   <link href="http://example.com/2011/10/14/blluby"/>
+   <link href="//2011/10/14/blluby"/>
    <updated>2011-10-14T00:00:00-03:00</updated>
-   <id>http://example.com/2011/10/14/blluby</id>
+   <id>//2011/10/14/blluby</id>
    <content type="html">&lt;p&gt;Apesar de ter um gosto eclético para games e navegar bem entre todas as categorias, desde os games mais casuais até os mais hardcore, sempre tive uma predileção por puzzles. E foi por isso que recebi com grata surpresa o game BLLUBY, da brasileira &lt;a href=&quot;http://site.crazyminds.net/&quot;&gt;Crazy Minds&lt;/a&gt;, para iPhone, iPod e iPad.&lt;/p&gt;
 
 &lt;h2 id=&quot;blluby&quot;&gt;BLLUBY&lt;/h2&gt;
@@ -115,24 +115,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Metablocks</title>
-   <link href="http://example.com/2006/01/06/metablocks"/>
+   <link href="//2006/01/06/metablocks"/>
    <updated>2006-01-06T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/06/metablocks</id>
+   <id>//2006/01/06/metablocks</id>
    <content type="html">&lt;p&gt;Divirta-se testanto sua coordenação e seu raciocínio lógico com esse jogo simples e eletrizante. Baseado no clássico “Tetris”, traz consigo várias e interessantes inovações.&lt;/p&gt;
 
 &lt;p&gt;Metablocks é um jogo do gênero “puzzle”, onde o jogador manipula blocos (peças) coloridos em uma plataforma bidimensional de 16 por 16 posições, em dois modos de jogo: Modo Aventura e Modo Lógico.&lt;/p&gt;
@@ -146,9 +146,9 @@
  
  <entry>
    <title>Bears & Bees</title>
-   <link href="http://example.com/2005/12/17/bears-bees"/>
+   <link href="//2005/12/17/bears-bees"/>
    <updated>2005-12-17T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/17/bears-bees</id>
+   <id>//2005/12/17/bears-bees</id>
    <content type="html">&lt;p&gt;Bears &amp;amp; Bees da &lt;a href=&quot;http://www.devworks.com.br/&quot; target=&quot;_blank&quot;&gt;DevWorks &lt;/a&gt;
 éum jogo estilo quebra-cabeça onde o jogador precisa alimentar um urso feroz e faminto com mel, muito mel.&lt;/p&gt;
 
@@ -163,9 +163,9 @@
  
  <entry>
    <title>Prévia de Winguel</title>
-   <link href="http://example.com/2005/12/07/previa-de-winguel"/>
+   <link href="//2005/12/07/previa-de-winguel"/>
    <updated>2005-12-07T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/07/previa-de-winguel</id>
+   <id>//2005/12/07/previa-de-winguel</id>
    <content type="html">&lt;p&gt;Winguel é um simpático alienígena que, ao passear por Marte, encontra uma sonda terráquea e resolve devolvê-la aos humanos na terra.&lt;/p&gt;
 
 &lt;p&gt;Ao chegar em órbita terrestre, a nave de Winguel é atacada pela WUC (World UFO Control).&lt;/p&gt;
@@ -206,9 +206,9 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Casseta & Planeta - Quebra-Cabeça</title>
-   <link href="http://example.com/2005/11/07/casseta-planeta-quebra-cabeca"/>
+   <link href="//2005/11/07/casseta-planeta-quebra-cabeca"/>
    <updated>2005-11-07T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/07/casseta-planeta-quebra-cabeca</id>
+   <id>//2005/11/07/casseta-planeta-quebra-cabeca</id>
    <content type="html">&lt;p&gt;Casseta &amp;amp; Planeta - Quebra-Cabeça é mais uma dos &lt;a href=&quot;http://www.casseta.com.br/&quot; target=&quot;_blank&quot;&gt;Cassetas&lt;/a&gt;
 ! O tempo corre rápido e você tem que competir contra o relógio para ganhar mais e mais pontos usando as figuras carimbadas da TV para montar um quebra cabeças. Você pode formar a imagem usando um tempo progressivo ou optar por testar suas habilidades em um desafio! Nele encontra o nível mais difícil do jogo e terá um minuto para unir as peças embaralhadas.&lt;/p&gt;
 
@@ -224,9 +224,9 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Sudoku</title>
-   <link href="http://example.com/2005/10/25/sudoku"/>
+   <link href="//2005/10/25/sudoku"/>
    <updated>2005-10-25T00:00:00-02:00</updated>
-   <id>http://example.com/2005/10/25/sudoku</id>
+   <id>//2005/10/25/sudoku</id>
    <content type="html">&lt;p&gt;Sudoku, ou Su-doku, é simples, divertido e um amigável quebra-cabeça japonês. Sudoku usa números, mas matemática não é necessária, e por isso ele é tão popular. Tudo que você precisa fazer é aprender as regras e começar a jogar.&lt;/p&gt;
 
 &lt;p&gt;Sudoku estimula a mente e a lógica que existe em cada um de nós. Pessoas que jogam Sudoku, melhoram a memória, limpam a mente, muitas vezes previnem doenças do cérebro, como por exemplo Alzheimer.&lt;/p&gt;
@@ -237,9 +237,9 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Super Popcorn Machine</title>
-   <link href="http://example.com/2005/09/23/super-popcorn-machine"/>
+   <link href="//2005/09/23/super-popcorn-machine"/>
    <updated>2005-09-23T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/23/super-popcorn-machine</id>
+   <id>//2005/09/23/super-popcorn-machine</id>
    <content type="html">&lt;p&gt;Você é capaz de estourar as pipocas de dois recipientes que estão em uma balança e mantê-los equilibrados ao mesmo tempo? Este é o grande desafio deste novo jogo de puzzle da Nology!&lt;/p&gt;
 
 &lt;p&gt;Muita diversão está esperando você nestes três incríveis modos de jogo. Tente encarar o ritmo divertido e veloz do modo Action e teste sua inteligência nos modos Puzzle e Strategy!&lt;/p&gt;

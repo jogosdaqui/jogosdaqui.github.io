@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - xbox</title>
- <link href="http://example.com/tags/xbox/index.xml" rel="self"/>
- <link href="http://example.com/tag/xbox.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/xbox.html</id>
+ <title>jogosdaqui - xbox</title>
+ <link href="//tags/xbox/index.xml" rel="self"/>
+ <link href="/tag/xbox.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/xbox.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Horizon Chase se aproxima do grid de largada</title>
-   <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
+   <link href="//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
    <updated>2015-08-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
+   <id>//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
    <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot;&gt;Aquiris Game Studio&lt;/a&gt; á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
 
 &lt;p&gt;Segundo a gamedev gaúcha, Horizon Chase será um jogo premium, contendo 8 copas, 32 cidades, 73 pistas e 16 carros desbloqueáveis.&lt;/p&gt;
@@ -33,9 +33,9 @@
  
  <entry>
    <title>Crowdfunding de 99Vidas o jogo</title>
-   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
+   <link href="//2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
+   <id>//2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
    <content type="html">&lt;p&gt;O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat’em up, grandes clássicos e referências para qualquer game do gênero.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://99vidas.com.br/jogo&quot; target=&quot;_blank&quot;&gt;99Vidas o jogo&lt;/a&gt;
@@ -64,9 +64,9 @@
  
  <entry>
    <title>Prévia de Unnamed Fiasco</title>
-   <link href="http://example.com/2015/07/07/previa-de-unnamed-fiasco"/>
+   <link href="//2015/07/07/previa-de-unnamed-fiasco"/>
    <updated>2015-07-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/07/previa-de-unnamed-fiasco</id>
+   <id>//2015/07/07/previa-de-unnamed-fiasco</id>
    <content type="html">&lt;p&gt;No filme Edge of Tomorrow (No Limite do Amanhã) de 2014 baseado na série de light novels All You Need Is Kill de Hiroshi Sakurazaka, o personagem de Tom Cruise, além de correr quase todo o filme como já é de praxe dos personagens do ator, também entra em contato com o sangue dos aliens inimigos e ganha a capacidade de controlar o tempo, mas de uma forma bem peculiar, toda vez que morre, acaba revivendo o mesmo dia.&lt;/p&gt;
 
 &lt;p&gt;Agora imagine que ao invés de reviver o mesmo dia, toda vez que você morresse um clone seu seria criado e mimetizaria seu comportamento anterior no campo de batalha? Essa é a premissa do gameplay do game em desenvolvimento &lt;a href=&quot;http://unnamedfiasco.com/&quot; target=&quot;_blank&quot;&gt;Unnamed Fiasco&lt;/a&gt;
@@ -98,9 +98,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Prévia de My Night Job da Webcore Games</title>
-   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games"/>
+   <link href="//2015/06/10/previa-de-my-night-job-da-webcore-games"/>
    <updated>2015-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
+   <id>//2015/06/10/previa-de-my-night-job-da-webcore-games</id>
    <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
 
 &lt;p&gt;Se quando você viu esses filmes ficou com vontade de pegar a serra elétrica, sua boomstick (a arma de cano-serrado), entrar numa casa mal-assombrada, detonar os demônios e salvar o dia no melhor estilo insano do herói Ash Williams, então o game que a Webcore Games está desenvolvendo matará sua vontade.&lt;/p&gt;
@@ -142,9 +142,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Revelado novo game da QUByte Interactive: Recruits</title>
-   <link href="http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits"/>
+   <link href="//2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
+   <id>//2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
    <content type="html">&lt;p&gt;Semana passada &lt;a href=&quot;/2015/04/30/qubyte-interactive-produzindo-novo-game/&quot;&gt;anunciamos&lt;/a&gt;
  que a gamedev brasileira QUByte Interactive estava produzindo um novo game  de estratégia com muitos elementos de ação, inspirado em clássicos top-down shooter, como Cannon Fodder do SNES.&lt;/p&gt;
 
@@ -173,9 +173,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>QUByte Interactive produzindo novo game</title>
-   <link href="http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game"/>
+   <link href="//2015/04/30/qubyte-interactive-produzindo-novo-game"/>
    <updated>2015-04-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/30/qubyte-interactive-produzindo-novo-game</id>
+   <id>//2015/04/30/qubyte-interactive-produzindo-novo-game</id>
    <content type="html">&lt;p&gt;A paulista QUByte Interactive, conhecida pelo jogo &lt;a href=&quot;/2014/06/18/splitplay-apresenta-htr-high-tech-racing/&amp;quot;&quot;&gt;HTR+&lt;/a&gt;, anunciou que está produzindo um novo game que será colocado em pre-order nas lojas onlines brasileiras e depois será lançado para PS4, Xbox e Wii U.&lt;/p&gt;
 
 &lt;p&gt;Por enquanto, o que é exatamente o jogo é um mistério, pois a empresa lançou apenas um hotsite para acompanhar a contagem até o dia da revelação: &lt;a href=&quot;http://www.qubyteinteractive.com/games/newgame/&quot;&gt;http://www.qubyteinteractive.com/games/newgame/&lt;/a&gt;,&lt;/p&gt;
@@ -189,9 +189,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Entrevista: Claudio Lins</title>
-   <link href="http://example.com/2015/04/22/entrevista-claudio-lins"/>
+   <link href="//2015/04/22/entrevista-claudio-lins"/>
    <updated>2015-04-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
+   <id>//2015/04/22/entrevista-claudio-lins</id>
    <content type="html">&lt;p&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-da-tua-trajetória-como-chegaste-ao-gamedev&quot;&gt;Fale um pouco da tua trajetória, como chegaste ao gamedev?&lt;/h2&gt;
@@ -204,7 +204,7 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Riding Ground, game desenvolvido pela Preloud &lt;/span&gt;&lt;/center&gt;
 
@@ -219,7 +219,7 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -253,7 +253,7 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -286,9 +286,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Museu do videogame Itinerante</title>
-   <link href="http://example.com/2015/04/21/museu-do-videogame-itinerante"/>
+   <link href="//2015/04/21/museu-do-videogame-itinerante"/>
    <updated>2015-04-21T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/21/museu-do-videogame-itinerante</id>
+   <id>//2015/04/21/museu-do-videogame-itinerante</id>
    <content type="html">&lt;p&gt;Reconhecido pelo Ibram (Instituto Brasileiro de Museus), o Museu do Videogame Itinerante é o primeiro museu do gênero do Brasil, onde os jogadores tem a oportunidade de conhecer 42 anos de evolução dos consoles de videogames e jogar os maiores clássicos do entretenimento digital das décadas de 70, 80, 90 e 2000.&lt;/p&gt;
 
 &lt;p&gt;Durante o evento os jogadores poderão conhecer ou reencontrar videogames que fizeram história como o Telejogo Philco-Ford (1977), Atari 2600 (1976), Nintendinho 8 bits (1985), Master System (1986), Mega Drive (1988), Super Nintendo (1990), Nintendo 64 (1996), Game Cube (2001), Sega Dreamcast (1998), Xbox (2001), Playstation 1 (1994), entre outros. Os consoles modernos, como Wii U, Xbox One e PlayStation 4 também estarão presentes.&lt;/p&gt;
@@ -310,9 +310,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Lançamento mundial do jogo Xiaolin Showdown</title>
-   <link href="http://example.com/2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown"/>
+   <link href="//2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown"/>
    <updated>2006-11-24T00:00:00-02:00</updated>
-   <id>http://example.com/2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown</id>
+   <id>//2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown</id>
    <content type="html">&lt;p&gt;Lançamento mundial do jogo Xiaolin Showdown com participação da Southlogic Studios no dia 24 de novembro de 2006.&lt;br /&gt; &lt;br /&gt;O lançamento mundial do jogo &quot;Xiaolin Showdown&quot;, para as plataformas: PS2, DS, PSP e XBOX. O jogo é baseado no desenho animado da Warner Bros, que aqui no Brasil se chama Duelo Xiaolin. O desenho passa no canal do Cartoon Network, SBT e na Warner Channel nos EUA. A empresa gaucha Southlogic Studios, foi a responsável pela versão XBox do jogo. O desenvolvimento foi da BottleRocket e a distribuição da Konami.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;O jogo:&lt;/span&gt;&lt;br /&gt;O jogador guia um monge do kung fu e três guerreiros especialistas em artes marciais, em uma missão para encontrar e proteger os Shen-Gong-Wu, objetos místicos que dão superpoderes ao seu proprietário. Os vilões da parada são liderados Jack Spicer, que tem ao seu lado um exército de robôs e uma bruxa chamada Wuya.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -325,9 +325,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Southlogic participa de jogo para PS2 e Xbox</title>
-   <link href="http://example.com/2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox"/>
+   <link href="//2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox"/>
    <updated>2006-04-12T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox</id>
+   <id>//2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=25&quot;&gt;Southlogic&lt;/a&gt;
  foi parceira da empresa Eutechnyx no desenvolvimento dos níveis do jogo para PlayStation 2 e Xbox: Hummer Badlands.&lt;br /&gt;&lt;br /&gt;Hummer Badlands é distribuído pela Global Star Software, uma subdivisão da Take 2 Interactive.&lt;/p&gt;
 </content>

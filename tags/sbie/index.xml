@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - sbie</title>
- <link href="http://example.com/tags/sbie/index.xml" rel="self"/>
- <link href="http://example.com/tag/sbie.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/sbie.html</id>
+ <title>jogosdaqui - sbie</title>
+ <link href="//tags/sbie/index.xml" rel="self"/>
+ <link href="/tag/sbie.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/sbie.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Workshop de Jogos Digitais na Educação</title>
-   <link href="http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao"/>
+   <link href="//2005/09/30/workshop-de-jogos-digitais-na-educacao"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
+   <id>//2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
    <content type="html">&lt;p&gt;O Workshop de Jogos Digitais na Educação trata-se de um evento que irá ocorrer paralelamente ao XVI Simpósio Brasileiro de Informática na Educação (SBIE 2005) e abordará as questões interdisciplinares envolvidas nos jogos digitais no âmbito educacional como ferramenta de ensino-aprendizagem, desde a Educação Infantil aos programas de pós-graduação.&lt;/p&gt;
 
 &lt;p&gt;Na atualidade ampliou-se a discussão referentes as potencialidades mercadológicas e pedagógicas dos jogos digitais. Os aprendizes do século XXI estão integrados com uma realidade pós-industrial, com novos valores evivenciando o ciberespaço. Diante desta realidade torna-se necessário repensar as metodologias de ensino-aprendizagem adotadas nos ambientes acadêmicos da Educação Infantil até aos programas de pós-graduação. Neste contexto os jogos digitais recebem destaque pelo fato de serem considerados excelentes ferramentas motivadoras que poderão ser adotadas como uma metodologia de ensino-aprendizagem. Desde os primórdios da Informática na Educação que os jogos educativos estão em pauta, entretanto tal ferramenta precisa ser revisada através de uma abordagem contemporânea e transdisciplinar que adequa-se a este aprendiz do século XXI, resgatando o sentido original dos jogos que trata-se da ludicidade, do prazer, tornando-se menos didatizantes e conteudistas e tornando-os verdadeiros artefatos culturais potencializadores de Inclusão Digital. É importante destacar que entende-se como jogo qualquer software interativo, imersivo e lúdico (é fundamental que seja divertido) com objetivos pedagógicos explícitos ou implícitos.&lt;/p&gt;

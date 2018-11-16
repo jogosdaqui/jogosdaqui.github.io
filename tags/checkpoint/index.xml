@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - checkpoint</title>
- <link href="http://example.com/tags/checkpoint/index.xml" rel="self"/>
- <link href="http://example.com/tag/checkpoint.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/checkpoint.html</id>
+ <title>jogosdaqui - checkpoint</title>
+ <link href="//tags/checkpoint/index.xml" rel="self"/>
+ <link href="/tag/checkpoint.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/checkpoint.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9"/>
+   <link href="//2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/11/checkpoint-9</id>
+   <id>//2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar&quot;&gt;Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar&lt;/a&gt;&lt;/p&gt;
 
@@ -57,9 +57,9 @@
  
  <entry>
    <title>Checkpoint #8</title>
-   <link href="http://example.com/2015/05/29/checkpoint-8"/>
+   <link href="//2015/05/29/checkpoint-8"/>
    <updated>2015-05-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/29/checkpoint-8</id>
+   <id>//2015/05/29/checkpoint-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/updates/25536644&quot;&gt;Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight&lt;/a&gt;&lt;/p&gt;
 
@@ -94,9 +94,9 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7"/>
+   <link href="//2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/22/checkpoint-7</id>
+   <id>//2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/14/demo-reel-da-odin-game-studio/&quot;&gt;Confira o demo reel da Odin Game Studio&lt;/a&gt;&lt;/p&gt;
 
@@ -169,9 +169,9 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6"/>
+   <link href="//2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/14/checkpoint-6</id>
+   <id>//2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/CurveDigital/status/59775538841977241&quot;&gt;A Curve Digital anunciou que publicará o game Porcupine da Big Green Pillow ainda este mês&lt;/a&gt;&lt;/p&gt;
 
@@ -203,9 +203,9 @@
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5"/>
+   <link href="//2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/09/checkpoint-5</id>
+   <id>//2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ICONGames/status/59452353241723289&quot;&gt;A Icon Games comemorando a marca de 180.000 downloads de seu game Escape from Alcatraz&lt;/a&gt;&lt;/p&gt;
 
@@ -249,9 +249,9 @@
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4"/>
+   <link href="//2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/02/checkpoint-4</id>
+   <id>//2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://gamereporter.uol.com.br/mundo-canibal-apocalipse-steam&quot;&gt;O game Mundo Canibal Apocalipse chega no Steam Greenlight. Jogo e voto obrigatórios para quem gosta do humor dos irmãos Piologo&lt;/a&gt;&lt;/p&gt;
 
@@ -298,9 +298,9 @@
  
  <entry>
    <title>Checkpoint #3</title>
-   <link href="http://example.com/2015/04/26/checkpoint-3"/>
+   <link href="//2015/04/26/checkpoint-3"/>
    <updated>2015-04-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/26/checkpoint-3</id>
+   <id>//2015/04/26/checkpoint-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/04/21/museu-do-videogame-itinerante&quot;&gt;Evento do Museu do Videogame Itinerante, onde os jogadores podem conhecer e jogar clássicos das décadas de 70, 80, 90 e 2000&lt;/a&gt;&lt;/p&gt;
 
@@ -326,9 +326,9 @@
  
  <entry>
    <title>Checkpoint #2</title>
-   <link href="http://example.com/2015/04/18/checkpoint-2"/>
+   <link href="//2015/04/18/checkpoint-2"/>
    <updated>2015-04-18T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/18/checkpoint-2</id>
+   <id>//2015/04/18/checkpoint-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/04/17/axis-game-day&quot;&gt;O evento AXIS Game Day, que acontece hoje, com diversas palestras de gamedevs brasileiros&lt;/a&gt;&lt;/p&gt;
 
@@ -346,9 +346,9 @@
  
  <entry>
    <title>Checkpoint #1</title>
-   <link href="http://example.com/2015/04/16/checkpoint-1"/>
+   <link href="//2015/04/16/checkpoint-1"/>
    <updated>2015-04-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/16/checkpoint-1</id>
+   <id>//2015/04/16/checkpoint-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/TawStudio/status/58853869170393088&quot;&gt;A homenagem do pessoal da Taw Studio a seu co-fundador, diretor e game designer Lucas Jock, falecido no último dia 13&lt;/a&gt;&lt;/p&gt;
 

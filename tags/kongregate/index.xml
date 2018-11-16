@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - kongregate</title>
- <link href="http://example.com/tags/kongregate/index.xml" rel="self"/>
- <link href="http://example.com/tag/kongregate.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/kongregate.html</id>
+ <title>jogosdaqui - kongregate</title>
+ <link href="//tags/kongregate/index.xml" rel="self"/>
+ <link href="/tag/kongregate.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/kongregate.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Porcunipine</title>
-   <link href="http://example.com/2015/05/21/porcunipine"/>
+   <link href="//2015/05/21/porcunipine"/>
    <updated>2015-05-21T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/21/porcunipine</id>
+   <id>//2015/05/21/porcunipine</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;“Lembro com muito carinho,
  que um dia já foram lindos porcos-espinho.&lt;/p&gt;

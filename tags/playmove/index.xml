@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - playmove</title>
- <link href="http://example.com/tags/playmove/index.xml" rel="self"/>
- <link href="http://example.com/tag/playmove.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/playmove.html</id>
+ <title>jogosdaqui - playmove</title>
+ <link href="//tags/playmove/index.xml" rel="self"/>
+ <link href="/tag/playmove.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/playmove.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Xmile e Playmove firmam parceria</title>
-   <link href="http://example.com/2015/09/30/xmile-e-playmove-firmam-parceria"/>
+   <link href="//2015/09/30/xmile-e-playmove-firmam-parceria"/>
    <updated>2015-09-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/30/xmile-e-playmove-firmam-parceria</id>
+   <id>//2015/09/30/xmile-e-playmove-firmam-parceria</id>
    <content type="html">&lt;p&gt;Em julho passado &lt;a href=&quot;/2015/07/20/playtable-busca-desenvolvedores/&quot;&gt;falamos aqui no jogosdaqui&lt;/a&gt;
  que a catarinense PlayMove estava abrindo o cadastro para empresas interessadas em produzir jogos para sua PlayTable, primeira mesa digital com jogos educativos do Brasil.&lt;/p&gt;
 
@@ -56,9 +56,9 @@
  
  <entry>
    <title>PlayTable busca desenvolvedores</title>
-   <link href="http://example.com/2015/07/20/playtable-busca-desenvolvedores"/>
+   <link href="//2015/07/20/playtable-busca-desenvolvedores"/>
    <updated>2015-07-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/20/playtable-busca-desenvolvedores</id>
+   <id>//2015/07/20/playtable-busca-desenvolvedores</id>
    <content type="html">&lt;p&gt;A  Playmove de Blumenau, Santa Catarina, empresa desenvolvedora da &lt;a href=&quot;http://playtable.com.br/&quot; target=&quot;_blank&quot;&gt;PlayTable&lt;/a&gt;
 , a primeira mesa digital com jogos educativos do Brasil, começou o cadastramento de gamedevs para criação de jogos focados na educação infantil e nos primeiros anos do ensino fundamental.&lt;/p&gt;
 

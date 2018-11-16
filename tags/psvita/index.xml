@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - psvita</title>
- <link href="http://example.com/tags/psvita/index.xml" rel="self"/>
- <link href="http://example.com/tag/psvita.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/psvita.html</id>
+ <title>jogosdaqui - psvita</title>
+ <link href="//tags/psvita/index.xml" rel="self"/>
+ <link href="/tag/psvita.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/psvita.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Prévia de Dog Duty da Zanardi & Liza</title>
-   <link href="http://example.com/2015/06/20/previa-de-dog-duty-da-zanardi-liza"/>
+   <link href="//2015/06/20/previa-de-dog-duty-da-zanardi-liza"/>
    <updated>2015-06-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/20/previa-de-dog-duty-da-zanardi-liza</id>
+   <id>//2015/06/20/previa-de-dog-duty-da-zanardi-liza</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Seu propósito: defender a liberdade humana contra a Organização Cobra, um impiedoso grupo terrorista determinado a dominar o mundo&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -58,9 +58,9 @@
  
  <entry>
    <title>Prévia de Starlit Adventures</title>
-   <link href="http://example.com/2015/04/27/previa-de-starlit-adventures"/>
+   <link href="//2015/04/27/previa-de-starlit-adventures"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/27/previa-de-starlit-adventures</id>
+   <id>//2015/04/27/previa-de-starlit-adventures</id>
    <content type="html">&lt;p&gt;No último evento PowerUp tivemos a grata surpresa de ver algumas imagens e vídeos do novo jogo da Rockhead Games, o &lt;a href=&quot;http://starlitadventures.com&quot; target=&quot;_blank&quot;&gt;Startlit Adventures&lt;/a&gt;
 , um game de aventura-plataforma para smartphones, tablets e PS Vita.&lt;/p&gt;
 
@@ -80,9 +80,9 @@
  
  <entry>
    <title>Entrevista: Claudio Lins</title>
-   <link href="http://example.com/2015/04/22/entrevista-claudio-lins"/>
+   <link href="//2015/04/22/entrevista-claudio-lins"/>
    <updated>2015-04-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
+   <id>//2015/04/22/entrevista-claudio-lins</id>
    <content type="html">&lt;p&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-da-tua-trajetória-como-chegaste-ao-gamedev&quot;&gt;Fale um pouco da tua trajetória, como chegaste ao gamedev?&lt;/h2&gt;
@@ -95,7 +95,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Riding Ground, game desenvolvido pela Preloud &lt;/span&gt;&lt;/center&gt;
 
@@ -110,7 +110,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -144,7 +144,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 

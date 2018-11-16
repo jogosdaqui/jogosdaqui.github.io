@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - e-games</title>
- <link href="http://example.com/tags/e-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/e-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/e-games.html</id>
+ <title>jogosdaqui - e-games</title>
+ <link href="//tags/e-games/index.xml" rel="self"/>
+ <link href="/tag/e-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/e-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Os fatos do ano</title>
-   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2"/>
+   <link href="//2010/12/31/os-fatos-do-ano-2"/>
    <updated>2010-12-31T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/31/os-fatos-do-ano-2</id>
+   <id>//2010/12/31/os-fatos-do-ano-2</id>
    <content type="html">&lt;p&gt;Perguntamos aos nossos leitores:&lt;/p&gt;
 
 &lt;blockquote&gt;

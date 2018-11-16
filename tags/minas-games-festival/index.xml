@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - minas-games-festival</title>
- <link href="http://example.com/tags/minas-games-festival/index.xml" rel="self"/>
- <link href="http://example.com/tag/minas-games-festival.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/minas-games-festival.html</id>
+ <title>jogosdaqui - minas-games-festival</title>
+ <link href="//tags/minas-games-festival/index.xml" rel="self"/>
+ <link href="/tag/minas-games-festival.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/minas-games-festival.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>1º Minas Games Festival</title>
-   <link href="http://example.com/2015/06/12/1o-minas-games-festival"/>
+   <link href="//2015/06/12/1o-minas-games-festival"/>
    <updated>2015-06-12T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/12/1o-minas-games-festival</id>
+   <id>//2015/06/12/1o-minas-games-festival</id>
    <content type="html">&lt;p&gt;Em junho, durante quatro dias acontecerá em Belo Horizonte o 1º Minas Games Festival, evento que contará com várias atrações, como palestras, game jam, exposição de indie games, concurso de cosplay e oficinas.&lt;/p&gt;
 
 &lt;p&gt;O evento é totalmente gratuito e promete colocar Minas no mapa dos grandes eventos nacionais da área.&lt;/p&gt;

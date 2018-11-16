@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - icon-games</title>
- <link href="http://example.com/tags/icon-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/icon-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/icon-games.html</id>
+ <title>jogosdaqui - icon-games</title>
+ <link href="//tags/icon-games/index.xml" rel="self"/>
+ <link href="/tag/icon-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/icon-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Pixuleco - O Jogo</title>
-   <link href="http://example.com/2015/09/25/pixuleco-o-jogo"/>
+   <link href="//2015/09/25/pixuleco-o-jogo"/>
    <updated>2015-09-25T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/25/pixuleco-o-jogo</id>
+   <id>//2015/09/25/pixuleco-o-jogo</id>
    <content type="html">&lt;p&gt;A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a  palavra em um dos seu depoimentos, quando se referiu à propinas.&lt;/p&gt;
 
 &lt;h2 id=&quot;pixuleco-o-jogo&quot;&gt;Pixuleco, O jogo&lt;/h2&gt;
@@ -32,9 +32,9 @@
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5"/>
+   <link href="//2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/09/checkpoint-5</id>
+   <id>//2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ICONGames/status/59452353241723289&quot;&gt;A Icon Games comemorando a marca de 180.000 downloads de seu game Escape from Alcatraz&lt;/a&gt;&lt;/p&gt;
 
@@ -78,9 +78,9 @@
  
  <entry>
    <title>Mahjong Max</title>
-   <link href="http://example.com/2012/02/06/mahjong-max"/>
+   <link href="//2012/02/06/mahjong-max"/>
    <updated>2012-02-06T00:00:00-02:00</updated>
-   <id>http://example.com/2012/02/06/mahjong-max</id>
+   <id>//2012/02/06/mahjong-max</id>
    <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://www.icongames.com.br&quot;&gt;Icon Games&lt;/a&gt;, conhecida por jogos como &lt;a href=&quot;http://www.icongames.com.br/gude.htm&quot;&gt;Bola de Gude&lt;/a&gt;, &lt;a href=&quot;http://www.icongames.com.br/fruzzle-pt.htm&quot;&gt;Fruzzle&lt;/a&gt; e &lt;a href=&quot;http://www.icongames.com.br/detetive.htm&quot;&gt;Detetive Carioca&lt;/a&gt;, lançou em 2011 o game &lt;a href=&quot;http://www.icongames.com.br/mmax-pt.htm&quot;&gt;Mahjong Max&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Mahjong Max é um puzzle, baseado num secular jogo de mesa chinês, onde o jogador encarna a personagem Valéria na tarefa de organizar uma exibição chinesa para o Museu Cultura Internacional. Durante o jogo, Valéria viajará pela China resolvendo diversos puzzles.&lt;/p&gt;
@@ -99,9 +99,9 @@
  
  <entry>
    <title>Joga Brasil</title>
-   <link href="http://example.com/2012/01/13/joga-brasil"/>
+   <link href="//2012/01/13/joga-brasil"/>
    <updated>2012-01-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/01/13/joga-brasil</id>
+   <id>//2012/01/13/joga-brasil</id>
    <content type="html">&lt;p&gt;Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o &lt;a href=&quot;http://www.jogabrasil.com.br/&quot; target=&quot;_blank&quot;&gt;Joga Brasil&lt;/a&gt;
 , primeiro evento focado na divulgação de games produzidos por empresas nacionais. Como não poderia deixar de ser, o jogosdaqui apóia, e muito, esse tipo de iniciativa.&lt;/p&gt;
 
@@ -171,9 +171,9 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
@@ -330,9 +330,9 @@
  
  <entry>
    <title>Bola de Gude ganha "Estrela de Ouro"</title>
-   <link href="http://example.com/2006/06/05/bola-de-gude-ganha-estrela-de-ouro"/>
+   <link href="//2006/06/05/bola-de-gude-ganha-estrela-de-ouro"/>
    <updated>2006-06-05T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/05/bola-de-gude-ganha-estrela-de-ouro</id>
+   <id>//2006/06/05/bola-de-gude-ganha-estrela-de-ouro</id>
    <content type="html">&lt;p&gt;O jogo &lt;a href=&quot;/index.php?p=c&amp;amp;id=163&quot;&gt;Bola de Gude&lt;/a&gt;
  da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=34&quot;&gt;ICON Games&lt;/a&gt;
  arrebatou mais um prêmio do site Bytten (&lt;a href=&quot;http://www.bytten.com&quot; target=&quot;_blank&quot;&gt;www.bytten.com&lt;/a&gt;
@@ -343,24 +343,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>ICON Games ganha prêmio no exterior</title>
-   <link href="http://example.com/2006/04/27/icon-games-ganha-premio-no-exterior"/>
+   <link href="//2006/04/27/icon-games-ganha-premio-no-exterior"/>
    <updated>2006-04-27T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/27/icon-games-ganha-premio-no-exterior</id>
+   <id>//2006/04/27/icon-games-ganha-premio-no-exterior</id>
    <content type="html">&lt;p&gt;O jogo &lt;a href=&quot;/index.php?p=c&amp;amp;id=163&quot;&gt;Bola de Gude&lt;/a&gt;
 , da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=34&quot;&gt;ICON Games&lt;/a&gt;
 ,  recebeu o prêmio de &quot;Jogo mais Original&quot; do site Bytten (&lt;a onclick=&quot;return top.js.OpenExtLink(window,event,this)&quot; href=&quot;http://www.bytten.com/&quot; target=&quot;_blank&quot;&gt;www.bytten.com&lt;/a&gt;
@@ -371,9 +371,9 @@
  
  <entry>
    <title>Fruzzle ganha expansão</title>
-   <link href="http://example.com/2006/03/26/fruzzle-ganha-expansao"/>
+   <link href="//2006/03/26/fruzzle-ganha-expansao"/>
    <updated>2006-03-26T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/26/fruzzle-ganha-expansao</id>
+   <id>//2006/03/26/fruzzle-ganha-expansao</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=34&quot;&gt;ICON Games&lt;/a&gt;
  lançou a primeira expansão para o seu mais novo jogo. &lt;a href=&quot;/index.php?p=c&amp;amp;id=314&quot;&gt;Fruzzle&lt;/a&gt;
  recebeu um novo modo de jogo. Agora, além de decifrar o quebra-cabeça da fase, o jogador tem que correr contra o relógio para encerrar a fase no tempo previsto.&lt;br /&gt;&lt;br /&gt;Para quem já possui o jogo, basta visitar o &lt;a target=&quot;_blank&quot; href=&quot;http://icongames.sites.uol.com.br/fruzzle-pt.htm&quot;&gt;site&lt;/a&gt;
@@ -383,9 +383,9 @@
  
  <entry>
    <title>Fruzzle</title>
-   <link href="http://example.com/2006/03/22/fruzzle"/>
+   <link href="//2006/03/22/fruzzle"/>
    <updated>2006-03-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/22/fruzzle</id>
+   <id>//2006/03/22/fruzzle</id>
    <content type="html">&lt;dl&gt;
   &lt;dt&gt;Fruzzle traz a marca registrada da &lt;a href=&quot;/index.php?p=c&amp;amp;id=163&quot;&gt;ICON Games&lt;/a&gt;&lt;/dt&gt;
   &lt;dd&gt;jogos casuais originais.&lt;br /&gt;&lt;br /&gt;Em Fruzzle você é um simpático sapinho que deve pular sobre todos os pontos flutuantes existentes em um lago que somem assim que você o deixa, mas tem um problema: como todo sapo, ele não pula pra trás, então você tem que pensar bem antes de cada movimento. O sapinho pode pular somente para frente e para os lados.&lt;br /&gt;&lt;br /&gt;O jogo possui mais de 50 fases, todas elas são geradas aleatoriamente, o que garante sempre uma fase diferente a cada tentativa.&lt;br /&gt;&lt;br /&gt;Os gráficos 3D do jogo seguem o estilo de outro jogo da ICON Games, o &lt;a href=&quot;/index.php?p=c&amp;amp;id=163&quot;&gt;Bola de Gude&lt;/a&gt;
@@ -396,9 +396,9 @@
  
  <entry>
    <title>Fruzzle, o sapo da ICON Games</title>
-   <link href="http://example.com/2006/03/22/fruzzle-o-sapo-da-icon-games"/>
+   <link href="//2006/03/22/fruzzle-o-sapo-da-icon-games"/>
    <updated>2006-03-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/22/fruzzle-o-sapo-da-icon-games</id>
+   <id>//2006/03/22/fruzzle-o-sapo-da-icon-games</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=34&quot;&gt;ICON Games&lt;/a&gt;
 , conhecida pelo jogo Bola de Gude, lança o Fruzzle, um jogo de quebra-cabeça muito original, onde um simpático sapinho precisa pular em vários pontos de um lago até eliminar todas as posições possíveis.&lt;br /&gt;&lt;br /&gt;Fruzzle: desafio e diversão garantidos&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=314&quot;&gt;Confira …&lt;/a&gt;&lt;/p&gt;
 
@@ -407,9 +407,9 @@
  
  <entry>
    <title>Prévia de Fruzzle</title>
-   <link href="http://example.com/2006/03/07/previa-de-fruzzle"/>
+   <link href="//2006/03/07/previa-de-fruzzle"/>
    <updated>2006-03-07T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/07/previa-de-fruzzle</id>
+   <id>//2006/03/07/previa-de-fruzzle</id>
    <content type="html">&lt;p&gt;Um jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=12&quot;&gt;quebra-cabeça&lt;/a&gt;
  e muita estratégia, este é o próximo lançamento da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=34&quot;&gt;ICON Games&lt;/a&gt;
 .&lt;br /&gt;&lt;br /&gt;Fruzzle é um sapo que deve pular por todos pontos flutuantes de um lago, mas jamais pode voltar, pois todos os pontos por onde passa afundam.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=294&quot;&gt;Veja a prévia…&lt;/a&gt;&lt;/p&gt;
@@ -419,9 +419,9 @@
  
  <entry>
    <title>Fruzzle</title>
-   <link href="http://example.com/2006/03/07/fruzzle"/>
+   <link href="//2006/03/07/fruzzle"/>
    <updated>2006-03-07T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/07/fruzzle</id>
+   <id>//2006/03/07/fruzzle</id>
    <content type="html">&lt;p&gt;O próximo jogo da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=34&quot;&gt;ICON Games&lt;/a&gt;
  vai colocar muita gente pra pular. &lt;br /&gt;&lt;br /&gt;Em Fruzzle o jogador assume o papel de um sapo que deve pular em todos os blocos sobre a água, porém cada bloco afunda logo que o sapo sai de cima. Estratégia será a palavra chave para vencer as mais de 50 fases deste &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=12&quot;&gt;quebra-cabeça&lt;/a&gt;
  totalmente em 3D. Outra característica interessante: todas as fases são geradas aleatóriamente, então toda vez que jogar será uma nova experiência.&lt;br /&gt;&lt;br /&gt;O jogo será lançado na CDG-Rio 2006.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -430,9 +430,9 @@
  
  <entry>
    <title>Iniciam as vendas do Bola de Gude</title>
-   <link href="http://example.com/2005/12/21/iniciam-as-vendas-do-bola-de-gude"/>
+   <link href="//2005/12/21/iniciam-as-vendas-do-bola-de-gude"/>
    <updated>2005-12-21T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/21/iniciam-as-vendas-do-bola-de-gude</id>
+   <id>//2005/12/21/iniciam-as-vendas-do-bola-de-gude</id>
    <content type="html">&lt;p&gt;A produtora ICON Games colocou à venda o jogo &lt;a href=&quot;/2005/11/21/bola-de-gude/&quot;&gt;Bola de Gude&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -443,9 +443,9 @@
  
  <entry>
    <title>Resultado do Festival de Jogos Independentes</title>
-   <link href="http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes"/>
+   <link href="//2005/11/25/resultado-do-festival-de-jogos-independentes"/>
    <updated>2005-11-25T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes</id>
+   <id>//2005/11/25/resultado-do-festival-de-jogos-independentes</id>
    <content type="html">&lt;p&gt;Segundo Rodrigo Damazio, Chair do Festival de Jogos Independentes do SBGames 2005, o resultado da premiação foi:&lt;/p&gt;
 
 &lt;p&gt;1o. Lugar com 33% dos votos - &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo&lt;/a&gt;&lt;/p&gt;
@@ -470,9 +470,9 @@
  
  <entry>
    <title>Bola de Gude</title>
-   <link href="http://example.com/2005/11/21/bola-de-gude"/>
+   <link href="//2005/11/21/bola-de-gude"/>
    <updated>2005-11-21T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/21/bola-de-gude</id>
+   <id>//2005/11/21/bola-de-gude</id>
    <content type="html">&lt;p&gt;Você ainda joga bola de gude com a galera do bairro ou se lembra de quando fazia isso na infância?
 Agora você pode fazer isso, sentado na frente do seu PC.&lt;/p&gt;
 
@@ -488,9 +488,9 @@ Agora você pode fazer isso, sentado na frente do seu PC.&lt;/p&gt;
  
  <entry>
    <title>Prévia de Bola de Gude</title>
-   <link href="http://example.com/2005/11/16/previa-de-bola-de-gude"/>
+   <link href="//2005/11/16/previa-de-bola-de-gude"/>
    <updated>2005-11-16T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/16/previa-de-bola-de-gude</id>
+   <id>//2005/11/16/previa-de-bola-de-gude</id>
    <content type="html">&lt;p&gt;SLotman, game designer, desenvolveu o jogo por quase 1 ano. Em breve será lançado oficialmente.&lt;/p&gt;
 
 &lt;p&gt;Para quem já está acostumado em jogar bola de gude (ou lembra dos jogos da infância), o jogo será diversão garantida com seus dois modos: “mata-mata” e “búlica”.&lt;/p&gt;
@@ -516,9 +516,9 @@ Agora você pode fazer isso, sentado na frente do seu PC.&lt;/p&gt;
  
  <entry>
    <title>Em primeira mão: Bola de Gude</title>
-   <link href="http://example.com/2005/11/16/em-primeira-mao-bola-de-gude"/>
+   <link href="//2005/11/16/em-primeira-mao-bola-de-gude"/>
    <updated>2005-11-16T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/16/em-primeira-mao-bola-de-gude</id>
+   <id>//2005/11/16/em-primeira-mao-bola-de-gude</id>
    <content type="html">&lt;p&gt;Belos gráficos 3D e uma jogabilidade inovadora, é o que podemos esperar pela &lt;a href=&quot;/2005/11/16/previa-de-bola-de-gude/&quot;&gt;prévia de Bola de Gude&lt;/a&gt;
 .&lt;/p&gt;
 

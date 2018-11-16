@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - itchio</title>
- <link href="http://example.com/tags/itchio/index.xml" rel="self"/>
- <link href="http://example.com/tag/itchio.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/itchio.html</id>
+ <title>jogosdaqui - itchio</title>
+ <link href="//tags/itchio/index.xml" rel="self"/>
+ <link href="/tag/itchio.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/itchio.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Death’s Life</title>
-   <link href="http://example.com/2016/03/16/deaths-life"/>
+   <link href="//2016/03/16/deaths-life"/>
    <updated>2016-03-16T00:00:00-03:00</updated>
-   <id>http://example.com/2016/03/16/deaths-life</id>
+   <id>//2016/03/16/deaths-life</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.&lt;/p&gt;
 &lt;/blockquote&gt;

@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - miniboss</title>
- <link href="http://example.com/tags/miniboss/index.xml" rel="self"/>
- <link href="http://example.com/tag/miniboss.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/miniboss.html</id>
+ <title>jogosdaqui - miniboss</title>
+ <link href="//tags/miniboss/index.xml" rel="self"/>
+ <link href="/tag/miniboss.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/miniboss.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Imagens da semana #11</title>
-   <link href="http://example.com/2015/06/15/imagens-da-semana-11"/>
+   <link href="//2015/06/15/imagens-da-semana-11"/>
    <updated>2015-06-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/15/imagens-da-semana-11</id>
+   <id>//2015/06/15/imagens-da-semana-11</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Danilo_Noites/status/60829012477494886&quot;&gt;Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Odallus_OutThereSomewhere.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Odallus_OutThereSomewhere.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/deds_rodrigues/status/60830036458517299&quot;&gt;André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_OdallusFanArt.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_OdallusFanArt.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/60858426514042060&quot;&gt;Novos renders sendo trabalhados pela equipe da Reiza Studios&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_ReizaStudios.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_ReizaStudios.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/60897524521148416&quot;&gt;A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_NinjaGarage_Priscilla.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_NinjaGarage_Priscilla.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60949836833581056&quot;&gt;Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_MgaiaStudio_DiaDosNamorados.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_MgaiaStudio_DiaDosNamorados.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/60975960647521484&quot;&gt;Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_HorizonChase_India.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_HorizonChase_India.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Pré-venda de Out There Somewhere</title>
-   <link href="http://example.com/2012/02/16/pre-venda-de-out-there-somewhere"/>
+   <link href="//2012/02/16/pre-venda-de-out-there-somewhere"/>
    <updated>2012-02-16T00:00:00-02:00</updated>
-   <id>http://example.com/2012/02/16/pre-venda-de-out-there-somewhere</id>
+   <id>//2012/02/16/pre-venda-de-out-there-somewhere</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://studiominiboss.com/?lang=pt&quot; target=&quot;_blank&quot;&gt;MiniBoss Studio&lt;/a&gt;
 , desenvolvedora indie, conhecida por games como &lt;a href=&quot;http://studiominiboss.com/planetary-plan-c/&quot; target=&quot;_blank&quot;&gt;Planetary Plan C&lt;/a&gt;
 , &lt;a href=&quot;http://studiominiboss.com/down-goes-the-phoenix/&quot; target=&quot;_blank&quot;&gt;Down Goes the Phoenix&lt;/a&gt;
@@ -82,9 +82,9 @@
  
  <entry>
    <title>Preview de Talbot&#39;s Odissey</title>
-   <link href="http://example.com/2011/02/18/preview-de-talbots-odissey"/>
+   <link href="//2011/02/18/preview-de-talbots-odissey"/>
    <updated>2011-02-18T00:00:00-02:00</updated>
-   <id>http://example.com/2011/02/18/preview-de-talbots-odissey</id>
+   <id>//2011/02/18/preview-de-talbots-odissey</id>
    <content type="html">&lt;font size=&quot;2&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Luiz Damasceno (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/lcdjr&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@lcdjr&lt;/span&gt;&lt;/a&gt;
 &amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olabora&amp;#231;&amp;#227;o para o jogosdaqui.&lt;/span&gt;&lt;/font&gt;
 
@@ -112,9 +112,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Os fatos do ano</title>
-   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2"/>
+   <link href="//2010/12/31/os-fatos-do-ano-2"/>
    <updated>2010-12-31T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/31/os-fatos-do-ano-2</id>
+   <id>//2010/12/31/os-fatos-do-ano-2</id>
    <content type="html">&lt;p&gt;Perguntamos aos nossos leitores:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -227,9 +227,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;

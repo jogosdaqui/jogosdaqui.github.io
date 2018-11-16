@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - spjam</title>
- <link href="http://example.com/tags/spjam/index.xml" rel="self"/>
- <link href="http://example.com/tag/spjam.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/spjam.html</id>
+ <title>jogosdaqui - spjam</title>
+ <link href="//tags/spjam/index.xml" rel="self"/>
+ <link href="/tag/spjam.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/spjam.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>SPJam 2015</title>
-   <link href="http://example.com/2015/03/24/spjam-2015"/>
+   <link href="//2015/03/24/spjam-2015"/>
    <updated>2015-03-24T00:00:00-03:00</updated>
-   <id>http://example.com/2015/03/24/spjam-2015</id>
+   <id>//2015/03/24/spjam-2015</id>
    <content type="html">&lt;p&gt;Em 2015 a SPJam completa 5 anos reunindo desenvolvedores de jogos, tanto entusiastas como profissionais, para desenvolverem um jogo inédito dentro do período de 48 horas.&lt;/p&gt;
 
 &lt;p&gt;Durante essa meia década de existência muitos jogos foram criados no evento, como podemos ver no &lt;a href=&quot;http://spjam.com.br/jogos/&quot;&gt;site oficial da game jam&lt;/a&gt;
@@ -46,9 +46,9 @@
  
  <entry>
    <title>Inscrições abertas para o SPJam 2013</title>
-   <link href="http://example.com/2013/06/24/inscricoes-abertas-para-o-spjam-2013"/>
+   <link href="//2013/06/24/inscricoes-abertas-para-o-spjam-2013"/>
    <updated>2013-06-24T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/24/inscricoes-abertas-para-o-spjam-2013</id>
+   <id>//2013/06/24/inscricoes-abertas-para-o-spjam-2013</id>
    <content type="html">&lt;p&gt;Em &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-06_19_14_52-154784552-0&quot; target=&quot;_blank&quot;&gt;maio&lt;/a&gt;
  comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação.&lt;/p&gt;
 
@@ -62,9 +62,9 @@ Nessa edição a Vortex Games Studio, realizadora do evento, espera reunir 300 p
  
  <entry>
    <title>SPJam 2013</title>
-   <link href="http://example.com/2013/05/06/spjam-2013"/>
+   <link href="//2013/05/06/spjam-2013"/>
    <updated>2013-05-06T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/06/spjam-2013</id>
+   <id>//2013/05/06/spjam-2013</id>
    <content type="html">&lt;p&gt;A terceira edição da &lt;a href=&quot;http://www.spjam.com.br&quot; target=&quot;_blank&quot;&gt;SPJam &lt;/a&gt;
 (Maratona Paulista de Desenvolvimento de Jogos) será composta por duas etapas. A primeira delas, a Gamejam, reunirá entre os dias 30 de agosto e 01 de setembro desenvolvedores de jogos para a criação de novas ideias em apenas 48 horas.
 Após a etapa da maratona, o evento entrará na fase de exposição, durante o segundo semestre, onde os jogos serão expostos juntamente com obras de artistas convidados.&lt;/p&gt;
@@ -90,9 +90,9 @@ Inscrições: 15 de junho a 15 de agosto&lt;/p&gt;
  
  <entry>
    <title>SPJam 2012</title>
-   <link href="http://example.com/2012/06/07/spjam-2012"/>
+   <link href="//2012/06/07/spjam-2012"/>
    <updated>2012-06-07T00:00:00-03:00</updated>
-   <id>http://example.com/2012/06/07/spjam-2012</id>
+   <id>//2012/06/07/spjam-2012</id>
    <content type="html">&lt;p&gt;No início de junho foram abertas as inscrições do &lt;strong&gt;SPJam 2012&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;O &lt;strong&gt;SPjam&lt;/strong&gt;, Maratona Paulista de Desenvolvimento de Jogos, teve sua primeira edição em 2011 reunindo cerca 120 apaixonados em &lt;strong&gt;desenvolvimento de jogos&lt;/strong&gt;, sejam eles videogames ou jogos de tabuleiro, card-games ou RPGs de mesa, para mostrarem o que podem fazer durante &lt;strong&gt;48 horas&lt;/strong&gt;. Em 2012 a organização do evento pretende reunir mais de 200 participantes.

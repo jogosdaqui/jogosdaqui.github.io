@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-15T17:22:51-02:00</updated><id>/feed.xml</id><title type="html">jogosdaqui</title><subtitle>A maior fonte colaborativa sobre games desenvolvidos no Brasil</subtitle><entry><title type="html">jogosdaqui: open source e colaborativo</title><link href="/2018/11/15/jogosdaqui-open-source-e-colaborativo" rel="alternate" type="text/html" title="jogosdaqui: open source e colaborativo" /><published>2018-11-15T00:00:00-02:00</published><updated>2018-11-15T00:00:00-02:00</updated><id>/2018/11/15/jogosdaqui-open-source-e-colaborativo</id><content type="html" xml:base="/2018/11/15/jogosdaqui-open-source-e-colaborativo">&lt;h2 id=&quot;um-pouco-de-história&quot;&gt;Um pouco de história&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-16T12:51:55-02:00</updated><id>/feed.xml</id><title type="html">jogosdaqui</title><subtitle>A maior fonte colaborativa sobre games desenvolvidos no Brasil</subtitle><entry><title type="html">jogosdaqui: open source e colaborativo</title><link href="/2018/11/15/jogosdaqui-open-source-e-colaborativo" rel="alternate" type="text/html" title="jogosdaqui: open source e colaborativo" /><published>2018-11-15T00:00:00-02:00</published><updated>2018-11-15T00:00:00-02:00</updated><id>/2018/11/15/jogosdaqui-open-source-e-colaborativo</id><content type="html" xml:base="/2018/11/15/jogosdaqui-open-source-e-colaborativo">&lt;h2 id=&quot;um-pouco-de-história&quot;&gt;Um pouco de história&lt;/h2&gt;
 &lt;p&gt;O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2018/11/15/jogosdaqui-open-source-e-colaborativo/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2018/11/15/jogosdaqui-open-source-e-colaborativo/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;open-source&quot;&gt;Open Source&lt;/h2&gt;
@@ -10,9 +10,9 @@
 
 &lt;p&gt;Atualmente temos as seguintes estatísticas:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Notícias: 359&lt;/li&gt;
-  &lt;li&gt;Prévias: 64&lt;/li&gt;
-  &lt;li&gt;Jogos: 192&lt;/li&gt;
+  &lt;li&gt;Notícias: 358&lt;/li&gt;
+  &lt;li&gt;Prévias: 65&lt;/li&gt;
+  &lt;li&gt;Jogos: 199&lt;/li&gt;
   &lt;li&gt;Entrevistas: 8&lt;/li&gt;
   &lt;li&gt;Eventos: 34&lt;/li&gt;
   &lt;li&gt;Colunas: 26&lt;/li&gt;
@@ -21,9 +21,9 @@
 &lt;p&gt;Todo esse material está disponível no &lt;a href=&quot;https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll&quot;&gt;GitHub do jogosdaqui&lt;/a&gt;, permitindo que qualquer pessoa possa colaborar com melhoria nos conteúdos, formatação, definição de tags etc.&lt;/p&gt;
 
 &lt;h2 id=&quot;colaborativo&quot;&gt;Colaborativo&lt;/h2&gt;
-&lt;p&gt;Espero que tornando-o open source, o jogosdaqui também comece a receber novos conteúdos de forma colaborativa através da comunidade de jogadores e desenvolvedores de games nacionais.&lt;/p&gt;
+&lt;p&gt;Tornando o jogosdaqui open source, o site poderá receber novos conteúdos de forma colaborativa através da comunidade de jogadores e desenvolvedores de games nacionais.&lt;/p&gt;
 
-&lt;p&gt;Existem formas de desenvolvedores e não desenvolvedores colaborarem com o jogosdaqui, veja em mais detalhes na &lt;a href=&quot;/colabore&quot;&gt;nossa página Colabore&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Existem formas de desenvolvedores e não desenvolvedores colaborarem com o jogosdaqui, veja em mais detalhes na nossa página &lt;a href=&quot;/colabore&quot;&gt;Colabore&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;agradecimentos&quot;&gt;Agradecimentos&lt;/h2&gt;
 &lt;p&gt;Gostaria de agradecer a todos que colaboraram e incentivaram o jogosdaqui todos esses anos: muito obrigado!&lt;/p&gt;
@@ -35,7 +35,7 @@
   &lt;li&gt;Sulema Muñoz Andreassy&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Espero que gostem da iniciativa e que também venham em algum momento colaborar.&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Espero que gostem da iniciativa e que também venham em algum momento a colaborar.&lt;br /&gt;
 Forca sempre!&lt;br /&gt;
 Diego Giacomelli&lt;/em&gt;&lt;/p&gt;</content><author><name>Diego Giacomelli</name></author><category term="open-source" /><summary type="html">Um pouco de história O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.</summary></entry><entry><title type="html">Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</title><link href="/2018/11/14/blazing-chrome-vai-desafiar-jogadores" rel="alternate" type="text/html" title="Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019" /><published>2018-11-14T00:00:00-02:00</published><updated>2018-11-14T00:00:00-02:00</updated><id>/2018/11/14/blazing-chrome-vai-desafiar-jogadores</id><content type="html" xml:base="/2018/11/14/blazing-chrome-vai-desafiar-jogadores">&lt;blockquote&gt;
   &lt;p&gt;Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas&lt;/p&gt;
@@ -54,10 +54,10 @@ Diego Giacomelli&lt;/em&gt;&lt;/p&gt;</content><author><name>Diego Giacomelli</n
 &lt;p&gt;Fãs de No More Heroes também podem mostrar seu amor por Blazing Chrome no jogo Travis Strikes Again: No More Heroes, para Nintendo Switch, usando a camiseta exclusiva. Você pode ver o design no &lt;a href=&quot;https://twitter.com/Grasshopper_JP/status/1060811401738899457&quot;&gt;twit original da Grasshopper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="joymasher" /><category term="press-release" /><category term="switch" /><category term="ps4" /><category term="windows" /><summary type="html">Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas</summary></entry><entry><title type="html">Death’s Life</title><link href="/2016/03/16/deaths-life" rel="alternate" type="text/html" title="Death’s Life" /><published>2016-03-16T00:00:00-03:00</published><updated>2016-03-16T00:00:00-03:00</updated><id>/2016/03/16/deaths-life</id><content type="html" xml:base="/2016/03/16/deaths-life">&lt;blockquote&gt;
+&lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;</content><author><name>Joymasher</name></author><category term="joymasher" /><category term="press-release" /><category term="switch" /><category term="ps4" /><category term="windows" /><summary type="html">Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas</summary></entry><entry><title type="html">Death’s Life</title><link href="/2016/03/16/deaths-life" rel="alternate" type="text/html" title="Death’s Life" /><published>2016-03-16T00:00:00-03:00</published><updated>2016-03-16T00:00:00-03:00</updated><id>/2016/03/16/deaths-life</id><content type="html" xml:base="/2016/03/16/deaths-life">&lt;blockquote&gt;
   &lt;p&gt;Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -148,7 +148,7 @@ Terminada a partida, o jogador vencedor ganha uma nova carta aleatória do monte
 &lt;p&gt;O jogo conta com diversas fases, com direito a chefões e fases bônus.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/11/11/mikura-going-home/QuadroAQuadro_Mikura.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/11/11/mikura-going-home/QuadroAQuadro_Mikura.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;plataforma&quot;&gt;Plataforma&lt;/h2&gt;

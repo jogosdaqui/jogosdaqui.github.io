@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - demo-reel</title>
- <link href="http://example.com/tags/demo-reel/index.xml" rel="self"/>
- <link href="http://example.com/tag/demo-reel.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/demo-reel.html</id>
+ <title>jogosdaqui - demo-reel</title>
+ <link href="//tags/demo-reel/index.xml" rel="self"/>
+ <link href="/tag/demo-reel.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/demo-reel.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Demo Reel da Odin Game Studio</title>
-   <link href="http://example.com/2015/05/14/demo-reel-da-odin-game-studio"/>
+   <link href="//2015/05/14/demo-reel-da-odin-game-studio"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/14/demo-reel-da-odin-game-studio</id>
+   <id>//2015/05/14/demo-reel-da-odin-game-studio</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
 , gamedev brasileira conhecida por games como &lt;a title=&quot;Heist and Run&quot; href=&quot;/2013/04/11/heist-and-run/&quot;&gt;Heist and Run&lt;/a&gt;
 , liberou um demo reel com alguns de seus games produzidos e em produção até o momento.&lt;/p&gt;

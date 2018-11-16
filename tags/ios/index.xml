@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - ios</title>
- <link href="http://example.com/tags/ios/index.xml" rel="self"/>
- <link href="http://example.com/tag/ios.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/ios.html</id>
+ <title>jogosdaqui - ios</title>
+ <link href="//tags/ios/index.xml" rel="self"/>
+ <link href="/tag/ios.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/ios.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Sheep Master</title>
-   <link href="http://example.com/2015/12/29/sheep-master"/>
+   <link href="//2015/12/29/sheep-master"/>
    <updated>2015-12-29T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/29/sheep-master</id>
+   <id>//2015/12/29/sheep-master</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.sunlandstudios.com/sheepmaster/&quot;&gt;Sheep Master&lt;/a&gt; é um jogo de estratégia, com um gráfico incrível e missões a serem cumpridas para evoluir. Voltado para o público cristão de diversas idades: desde crianças que já sabem ler até adultos que gostam de se distrair e aprender mais sobre o cristianismo. O jogo tem grande potencial de alcance nacional e internacional, já que está sendo lançado em inglês e português.&lt;/p&gt;
 
 &lt;p&gt;O jogador é um pastor de ovelhas e deve administrar o rebanho para que ele se desenvolva em quantidade e qualidade. Para isso, é preciso arrecadar dinheiro com a produção de lã e leite, aumentar a infraestrutura da fazenda e cuidar da alimentação e proteção das ovelhas. O objetivo do jogo é o pastor tornar-se Sheep Master (Mestre das Ovelhas).&lt;/p&gt;
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Sheep Dreams Are Made of This</title>
-   <link href="http://example.com/2015/12/09/sheep-dreams-are-made-of-this"/>
+   <link href="//2015/12/09/sheep-dreams-are-made-of-this"/>
    <updated>2015-12-09T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/09/sheep-dreams-are-made-of-this</id>
+   <id>//2015/12/09/sheep-dreams-are-made-of-this</id>
    <content type="html">&lt;p&gt;O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.&lt;/p&gt;
 
 &lt;p&gt;Você controla um homem que tem o mesmo pesadelo toda noite há 17 anos, onde tudo que ele consegue fazer é correr, pular e coletar fragmentos de memórias há muito esquecidas.&lt;/p&gt;
@@ -55,9 +55,9 @@
  
  <entry>
    <title>Jogos Vorazes ganha game no estilo Super Trunfo</title>
-   <link href="http://example.com/2015/11/19/jogos-vorazes-ganha-game-de-cartas"/>
+   <link href="//2015/11/19/jogos-vorazes-ganha-game-de-cartas"/>
    <updated>2015-11-19T00:00:00-02:00</updated>
-   <id>http://example.com/2015/11/19/jogos-vorazes-ganha-game-de-cartas</id>
+   <id>//2015/11/19/jogos-vorazes-ganha-game-de-cartas</id>
    <content type="html">&lt;p&gt;A saga Jogos Vorazes, um dos maiores fenômenos do cinema nas últimas décadas, está agora também nas telinhas dos smartphones e tablets. Na semana em que o quarto e último filme estreia nos cinemas, Katniss, Peeta, Alma Coin, Presidente Snow e companhia são também os protagonistas do Jogos Vorazes Card Game, que chega gratuitamente nas lojas de aplicativos para celulares.&lt;/p&gt;
 
 &lt;h2 id=&quot;uma-mecânica-familiar&quot;&gt;Uma mecânica familiar&lt;/h2&gt;
@@ -87,9 +87,9 @@ Terminada a partida, o jogador vencedor ganha uma nova carta aleatória do monte
  
  <entry>
    <title>Mikura Going Home</title>
-   <link href="http://example.com/2015/11/11/mikura-going-home"/>
+   <link href="//2015/11/11/mikura-going-home"/>
    <updated>2015-11-11T00:00:00-02:00</updated>
-   <id>http://example.com/2015/11/11/mikura-going-home</id>
+   <id>//2015/11/11/mikura-going-home</id>
    <content type="html">&lt;p&gt;Existem centenas de espécies de águas-vivas ou medusas, algumas delas são utilizadas na culinária, principalmente na ásia. Outras espécies na biotecnologia, onde os cientistas utilizam a proteína verde fluorescente existente em algumas variedades para tentar entender melhor como certos genes se manifestam em outros seres vivos.&lt;/p&gt;
 
 &lt;p&gt;Apesar de toda essa diversidade de águas-vivas que encontramos na natureza, nenhuma delas se compara a Mikura, pois ao contrário da maioria, Mikura não vivia nos oceanos, mas na Lua. Um dia ela caiu do nosso satélite natural e foi parar aqui na Terra.&lt;/p&gt;
@@ -104,7 +104,7 @@ Terminada a partida, o jogador vencedor ganha uma nova carta aleatória do monte
 &lt;p&gt;O jogo conta com diversas fases, com direito a chefões e fases bônus.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/11/11/mikura-going-home/QuadroAQuadro_Mikura.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/11/11/mikura-going-home/QuadroAQuadro_Mikura.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;plataforma&quot;&gt;Plataforma&lt;/h2&gt;
@@ -121,9 +121,9 @@ Terminada a partida, o jogador vencedor ganha uma nova carta aleatória do monte
  
  <entry>
    <title>Finalistas do Festival de Jogos Independentes do SBGames 2015</title>
-   <link href="http://example.com/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015"/>
+   <link href="//2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015"/>
    <updated>2015-10-26T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015</id>
+   <id>//2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015</id>
    <content type="html">&lt;p&gt;A organização do Festival de Jogos Independentes do &lt;a href=&quot;http://www.sbgames.org/sbgames2015&quot; target=&quot;_blank&quot;&gt;SBGames 2015&lt;/a&gt;
  &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=882614481814106&quot; target=&quot;_blank&quot;&gt;anunciou os games finalistas&lt;/a&gt;
  que estarão em exposição no evento que acontecerá entre 11 e 13 de novembro em Teresina/PI.&lt;/p&gt;
@@ -300,9 +300,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>War Dogs</title>
-   <link href="http://example.com/2015/10/22/war-dogs"/>
+   <link href="//2015/10/22/war-dogs"/>
    <updated>2015-10-22T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/22/war-dogs</id>
+   <id>//2015/10/22/war-dogs</id>
    <content type="html">&lt;p&gt;Que tal misturar um pouco da jogabilidade de Streets Of Rage e Final Fight, adicionando a jogabilidade de beat ‘em up 3D de games como Fighting Force (PS1 e N64)? E se os lutadores forem mutantes humanoides com cabeça de cachorro num mundo após uma guerra nuclear? Essa é a proposta de War Dogs, game da &lt;a href=&quot;http://pixtoy.com/br/&quot; target=&quot;_blank&quot;&gt;Pixtoy&lt;/a&gt;
 , de Vitória, Espírito Santo.&lt;/p&gt;
 
@@ -324,9 +324,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Max Quiz</title>
-   <link href="http://example.com/2015/10/16/max-quiz"/>
+   <link href="//2015/10/16/max-quiz"/>
    <updated>2015-10-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/10/16/max-quiz</id>
+   <id>//2015/10/16/max-quiz</id>
    <content type="html">&lt;p&gt;O casal de desenvolvedores independentes Glauber e Camila, que mesmo antes de se conhecerem já eram apaixonados por games, juntaram suas paixões e formaram a Maxlab Studios de São Paulo, empresa criadora do game &lt;a href=&quot;http://www.maxquiz.com/&quot; target=&quot;_blank&quot;&gt;Max Quiz&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -352,9 +352,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Rock Life</title>
-   <link href="http://example.com/2015/09/09/rock-life"/>
+   <link href="//2015/09/09/rock-life"/>
    <updated>2015-09-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/09/rock-life</id>
+   <id>//2015/09/09/rock-life</id>
    <content type="html">&lt;p&gt;Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis?&lt;/p&gt;
 
 &lt;p&gt;Ser o guitarrista virtuoso de uma grande banda de rock já foi o sonho de muita gente.&lt;/p&gt;
@@ -384,9 +384,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>ReOrd</title>
-   <link href="http://example.com/2015/08/26/reord"/>
+   <link href="//2015/08/26/reord"/>
    <updated>2015-08-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/26/reord</id>
+   <id>//2015/08/26/reord</id>
    <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
 
 &lt;p&gt;Trazer esse gameplay simples de um brinquedo de infância para as telas mobile é a proposta do game ReOrd.&lt;/p&gt;
@@ -415,9 +415,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Horizon Chase se aproxima do grid de largada</title>
-   <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
+   <link href="//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
    <updated>2015-08-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
+   <id>//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
    <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot;&gt;Aquiris Game Studio&lt;/a&gt; á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
 
 &lt;p&gt;Segundo a gamedev gaúcha, Horizon Chase será um jogo premium, contendo 8 copas, 32 cidades, 73 pistas e 16 carros desbloqueáveis.&lt;/p&gt;
@@ -437,9 +437,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Prévia de Fófuuu da Beltri Studio</title>
-   <link href="http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
+   <link href="//2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
    <updated>2015-07-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
+   <id>//2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
    <content type="html">&lt;p&gt;Alexander Graham Bell, famoso inventor do telefone, que na verdade comprou o protótipo da invenção do italiano Antonio Meucci, era um especialista em fala, influenciado pelo pai Alexander Melville Bell, que trabalhava com a correção da fala. Em 1872 fundou nos EUA uma escola que utilizava o método de pronuncia desenvolvido por seu pai em suas aulas. No ano seguinte começou a lecionar Fisiologia Vocal na universidade de Boston, nesse mesmo ano iniciou suas pesquisas para  utilizar a eletricidade na transmissão de sons e o resto é história.&lt;/p&gt;
 
 &lt;p&gt;Qual a razão de falar de Bell na introdução de um game? Boas invenções sempre nos ajudaram a superar grandes desafios, assim foi com o telefone e assim será com o&lt;a href=&quot;http://fofuuu.com/&quot; target=&quot;_blank&quot;&gt; game educativo Fófuuu&lt;/a&gt;
@@ -487,9 +487,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Prévia de Peronio Pop-Up Book da Ovni Studios</title>
-   <link href="http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
+   <link href="//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
    <updated>2015-06-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
+   <id>//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
    <content type="html">&lt;p&gt;A primeira evidência histórica de livros pop-up remonta para o ano 1240 quando o monge beneditino Matthew Paris criou tal artefato para ajudar outros monges a calcular os dias santos. Nos séculos seguintes livros pop-up foram utilizados por adultos para ilustrar teorias, ensinar anatomia, fazer predições astronômicas e criar códigos secretos. Somente no século 18 surgiram os primeiros livros pop-up com sua finalidade mais famosa nos dias atuais: divertir e ensinar crianças.&lt;/p&gt;
 
 &lt;p&gt;Séculos depois graças as tecnologias atuais e as sempre infinitas capacidade e criatividade humana, os livros pop-up podem evoluir a um novo patamar e é nesse estágio que conhecemos Peronio Pop-up Book da Ovni Studios.&lt;/p&gt;
@@ -529,9 +529,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>A Cidade Dos Que Descem Pela Escada: Terceiro Andar</title>
-   <link href="http://example.com/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar"/>
+   <link href="//2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar"/>
    <updated>2015-05-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar</id>
+   <id>//2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar</id>
    <content type="html">&lt;p&gt;O primeiro livro que tive contato foi &lt;a href=&quot;http://www.ziraldo.com/livros/juvenal.htm&quot; target=&quot;_blank&quot;&gt;O Joelho Juvenal, do mestre Ziraldo&lt;/a&gt;
 . Lembro-me com carinho da capa e de algumas partes da história deste livro que me introduziu a leitura e foi o primeiro desta estrada que ainda tenho muito a percorrer.&lt;/p&gt;
 
@@ -571,9 +571,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Novidades de Horizon Chase</title>
-   <link href="http://example.com/2015/05/20/novidades-de-horizon-chase"/>
+   <link href="//2015/05/20/novidades-de-horizon-chase"/>
    <updated>2015-05-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/20/novidades-de-horizon-chase</id>
+   <id>//2015/05/20/novidades-de-horizon-chase</id>
    <content type="html">&lt;p&gt;O game Horizon Chase da Aquiris Game Studio tem causado um “frisson” na comunidade gamer que aprecia games de corrida old-school, tanto pelo visual apurado quanto pela trilha sonora composta pelo mesmo compositor de clássicos como Top Gear.&lt;/p&gt;
 
 &lt;center&gt;
@@ -602,9 +602,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Crystal Catcher ganha versão para Android</title>
-   <link href="http://example.com/2015/05/16/crystal-catcher-ganha-versao-para-android"/>
+   <link href="//2015/05/16/crystal-catcher-ganha-versao-para-android"/>
    <updated>2015-05-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/16/crystal-catcher-ganha-versao-para-android</id>
+   <id>//2015/05/16/crystal-catcher-ganha-versao-para-android</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever Crystal Catcher, para iPhone e iPad.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -623,9 +623,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Starlit Adventures, novo lançamento da Rockhead Games</title>
-   <link href="http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games"/>
+   <link href="//2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games</id>
+   <id>//2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.starlitadventures.com/&quot;&gt;Starlit Adventures&lt;/a&gt; é o novo game da gaúcha &lt;a href=&quot;http://rockheadgames.com/&quot;&gt;Rockhead Games&lt;/a&gt;, de jogos como &lt;a href=&quot;/2013/05/20/master-of-words/&quot;&gt;Master of Words&lt;/a&gt; e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a Southlogic Studios, famosa por games como &lt;a href=&quot;/2005/09/20/guimo/&quot;&gt;Guimo&lt;/a&gt; e &lt;a href=&quot;/2005/09/20/trophy-hunter-2003/&quot;&gt;Trophy Hunter 2003&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;lançamento-mundial&quot;&gt;Lançamento mundial&lt;/h2&gt;
@@ -665,9 +665,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Phoenix Force</title>
-   <link href="http://example.com/2015/04/28/phoenix-force"/>
+   <link href="//2015/04/28/phoenix-force"/>
    <updated>2015-04-28T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/28/phoenix-force</id>
+   <id>//2015/04/28/phoenix-force</id>
    <content type="html">&lt;p&gt;Shoot ‘em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão final. Imaginou? Esse é o Phoenix Force da gaúcha Awoker Games que denomina o jogo como o primeiro Fantasy Boss Shooter Game.&lt;/p&gt;
 
 &lt;p&gt;Na história do game o jogador iniciará como a fênix de Fogo, chamada Fury que foi a primeira a renascer numa Terra primordial onde terá que enfrentar monstros e tentar resgatar as outras fênix: Cryo de Gelo, Tupã de Trovão, Gaia da Terra e Gast de Fantasma.&lt;/p&gt;
@@ -709,9 +709,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Dino Zone</title>
-   <link href="http://example.com/2015/04/16/dino-zone"/>
+   <link href="//2015/04/16/dino-zone"/>
    <updated>2015-04-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/16/dino-zone</id>
+   <id>//2015/04/16/dino-zone</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Um pequeno grupo de cientistas viaja no tempo, de volta ao período Cretáceo e tem que enfrentar o professor Nigel Racik e sua horda de dinossauros.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -741,9 +741,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Tank Invaders atinge mais de 300 mil downloads</title>
-   <link href="http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads"/>
+   <link href="//2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads"/>
    <updated>2015-04-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
+   <id>//2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads</id>
    <content type="html">&lt;p&gt;Como diria o General Rogers: “Temos novidades do campo de batalha, soldado!”.&lt;/p&gt;
 
 &lt;p&gt;Na semana passada falamos de &lt;a href=&quot;/2015/04/08/tank-invaders&quot;&gt;Tank Invaders&lt;/a&gt;
@@ -758,9 +758,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Calango For Kids</title>
-   <link href="http://example.com/2015/04/10/calango-for-kids"/>
+   <link href="//2015/04/10/calango-for-kids"/>
    <updated>2015-04-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/10/calango-for-kids</id>
+   <id>//2015/04/10/calango-for-kids</id>
    <content type="html">&lt;p&gt;Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do &lt;a href=&quot;http://www.scicast.com.br/&quot;&gt;SciCast&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -786,9 +786,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Tank Invaders</title>
-   <link href="http://example.com/2015/04/08/tank-invaders"/>
+   <link href="//2015/04/08/tank-invaders"/>
    <updated>2015-04-08T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/08/tank-invaders</id>
+   <id>//2015/04/08/tank-invaders</id>
    <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt; e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt; você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.&lt;/p&gt;
 
 &lt;p&gt;A melhor definição o estilo do game Tank Invaders da Mgaia Studio é o que a própria empresa dá: o único FPS shoot’em up.  A visão do jogo, como pode ser visto nas imagens e vídeo abaixo é no  estilo de clássicos shoot’em up, entretanto você não vê a sua “nave”, pois a visão é primeira pessoa, então chegamos a definição de estilo dado pelo Mgaia.&lt;/p&gt;
@@ -815,9 +815,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Letra de Ouro</title>
-   <link href="http://example.com/2015/03/26/letra-de-ouro"/>
+   <link href="//2015/03/26/letra-de-ouro"/>
    <updated>2015-03-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/03/26/letra-de-ouro</id>
+   <id>//2015/03/26/letra-de-ouro</id>
    <content type="html">&lt;p&gt;Quem nunca jogou um caça palavras que atire a primeira a letra!&lt;/p&gt;
 
 &lt;p&gt;Sabendo disso a startup gaúcha &lt;a href=&quot;http://www.cupcakese.com&quot;&gt;Cupcake Sweet Entertainment&lt;/a&gt;
@@ -835,9 +835,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Game da Aquiris fazendo bonito na App Store</title>
-   <link href="http://example.com/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store"/>
+   <link href="//2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store"/>
    <updated>2014-05-12T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store</id>
+   <id>//2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store/&quot;&gt;Carton Network Superstar Soccer&lt;/a&gt;
 , desenvolvido pela &lt;a href=&quot;http://www.aquiris.com.br/?lang=pt_BR&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
 , atingiu o primeiro lugar geral em diversas App Stores da América Latina:&lt;/p&gt;
@@ -848,9 +848,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Cartoon Network Superstar Soccer lançado na App Store</title>
-   <link href="http://example.com/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store"/>
+   <link href="//2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store"/>
    <updated>2014-05-08T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store</id>
+   <id>//2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store</id>
    <content type="html">&lt;p&gt;O divertido game Cartoon Network Superstar Soccer, desenvolvido pela empresa brasileira &lt;a href=&quot;http://www.aquiris.com.br/?lang=pt_BR&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
 , acaba de ganhar sua versão para &lt;a href=&quot;https://itunes.apple.com/br/app/cn-superstar-soccer/id839550780?l=en&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
 .&lt;/p&gt;
@@ -869,9 +869,9 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Choo Choo Like a Hobo</title>
-   <link href="http://example.com/2014/05/05/choo-choo-like-a-hobo"/>
+   <link href="//2014/05/05/choo-choo-like-a-hobo"/>
    <updated>2014-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/05/choo-choo-like-a-hobo</id>
+   <id>//2014/05/05/choo-choo-like-a-hobo</id>
    <content type="html">&lt;p&gt;Choo Choo Like a Hobo é um jogo simples sobre um mendigo viajando para a cidade da sopa (é sua comida favorita).&lt;/p&gt;
 
 &lt;p&gt;Quando ele não consegue dinheiro para a passagem, ele pega o seu trole de vara e sai loucamente pelos trilhos em busca de seu destino. Só que os trilhos não são completamente seguros, pois é onde vive a Locomotiva Choo Choo que gosta muito de atropelar pessoas.&lt;/p&gt;
@@ -895,36 +895,30 @@ iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quo
  
  <entry>
    <title>Super Flappy Soccer Ball</title>
-   <link href="http://example.com/2014/05/04/super-flappy-soccer-ball"/>
+   <link href="//2014/05/04/super-flappy-soccer-ball"/>
    <updated>2014-05-04T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/04/super-flappy-soccer-ball</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Thiago Brayner em colaboração para o jogosdaqui.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;É indiscutível que o jogo mais comentado desse ano, até agora, foi Flappy Bird criado pelo desenvolvedor vietnamita Dong Nguyen. Durante semanas o jogo se manteve no topo da lista dos mais baixado, tanto na AppStore como na Google Play. Após declarar que estava recebendo uma média de U$ 50.000 diários em propaganda, Dong deixou todos em choque ao declarar em seu Twitter que não suportava mais a situação e que havia decidido retirar o jogo das lojas.&lt;/p&gt;
+   <id>//2014/05/04/super-flappy-soccer-ball</id>
+   <content type="html">&lt;p&gt;É indiscutível que o jogo mais comentado desse ano, até agora, foi Flappy Bird criado pelo desenvolvedor vietnamita Dong Nguyen. Durante semanas o jogo se manteve no topo da lista dos mais baixado, tanto na AppStore como na Google Play. Após declarar que estava recebendo uma média de U$ 50.000 diários em propaganda, Dong deixou todos em choque ao declarar em seu Twitter que não suportava mais a situação e que havia decidido retirar o jogo das lojas.&lt;/p&gt;
 
 &lt;p&gt;O jogo teve um impacto significativo no mundo dos aplicativos mobile, pois com uma mecânica simples porém desafiadora conquistou milhões de jogadores casuais. Nos meses que se seguiram dezenas de cópias surgiram nas lojas online tentando copiar fielmente o jogo original e suprir o vazio deixado por Dong.&lt;/p&gt;
 
-&lt;p&gt;Nessa semana, uma empresa brasileira, com o intuito de celebrar a chegada da Copa do Mundo no Brasil lançou uma releitura do aplicativo Flappy Bird chamado Super Flappy Soccer Ball. Sem se limitar apenas a copiar a dinâmica do jogo, a &lt;a href=&quot;http://www.odientertainment.com/&quot; target=&quot;_blank&quot;&gt;ODI Entertainment&lt;/a&gt;
- manteve a dinâmica desafiadora do jogo conseguindo valorizar ainda mais a habilidade do jogador e diminuir o fator sorte presente na maioria dos jogos desse gênero. O jogo está disponível na &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.odientertainment.superflappysoccerball&quot; target=&quot;_blank&quot;&gt;Google Play&lt;/a&gt;
- e muito em breve será lançado  também na App Store.&lt;/p&gt;
+&lt;p&gt;Nessa semana, uma empresa brasileira, com o intuito de celebrar a chegada da Copa do Mundo no Brasil lançou uma releitura do aplicativo Flappy Bird chamado Super Flappy Soccer Ball. Sem se limitar apenas a copiar a dinâmica do jogo, a &lt;a href=&quot;http://www.odientertainment.com/&amp;quot;&quot;&gt;ODI Entertainment&lt;/a&gt; manteve a dinâmica desafiadora do jogo conseguindo valorizar ainda mais a habilidade do jogador e diminuir o fator sorte presente na maioria dos jogos desse gênero. O jogo está disponível na &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.odientertainment.superflappysoccerball&amp;quot;&quot;&gt;Google Play&lt;/a&gt; e muito em breve será lançado  também na App Store.&lt;/p&gt;
 
-&lt;p&gt;A ODI, &lt;a href=&quot;http://www.odientertainment.com/projetos/&quot; target=&quot;_blank&quot;&gt;que possui outros jogos&lt;/a&gt;
-, pretende usar o Super Flappy Soccer Ball como um teste para seus próximos lançamentos como o Tap and Run: escape from Nautillus. Entretanto, se o jogo emplacar nos downloads a empresa investirá em novas features que tornem o jogo ainda mais interessante.&lt;/p&gt;
+&lt;p&gt;A ODI, &lt;a href=&quot;http://www.odientertainment.com/projetos/&quot;&gt;que possui outros jogos&lt;/a&gt; , pretende usar o Super Flappy Soccer Ball como um teste para seus próximos lançamentos como o Tap and Run: escape from Nautillus. Entretanto, se o jogo emplacar nos downloads a empresa investirá em novas features que tornem o jogo ainda mais interessante.&lt;/p&gt;
 
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/VGsXLa84bUI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Gostou? Então acesse o &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.odientertainment.superflappysoccerball&quot; target=&quot;_blank&quot;&gt;Google Play &lt;/a&gt;
-e diverta-se.&lt;/p&gt;
+&lt;p&gt;Gostou? Então acesse o &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.odientertainment.superflappysoccerball&amp;quot;&quot;&gt;Google Play &lt;/a&gt; e diverta-se.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>SOS Mata Atlântica - O Jogo</title>
-   <link href="http://example.com/2014/04/30/sos-mata-atlantica-o-jogo"/>
+   <link href="//2014/04/30/sos-mata-atlantica-o-jogo"/>
    <updated>2014-04-30T00:00:00-03:00</updated>
-   <id>http://example.com/2014/04/30/sos-mata-atlantica-o-jogo</id>
+   <id>//2014/04/30/sos-mata-atlantica-o-jogo</id>
    <content type="html">&lt;p&gt;Restam apenas 8,5% da Mata Atlântica original e essa floresta, que é a mais ameaçada do Brasil, continua a ser desmatada.&lt;/p&gt;
 
 &lt;p&gt;Pensando nisso, a Fundação SOS Mata Atlântica encontrou uma forma divertida e interativa para conscientizar as pessoas e permitir que todos possam fazer a sua parte.&lt;/p&gt;
@@ -957,9 +951,9 @@ e também &lt;a href=&quot;http://apps.facebook.com/sosmataatlantica&quot; targe
  
  <entry>
    <title>Swamp Adventure</title>
-   <link href="http://example.com/2013/06/20/swamp-adventure"/>
+   <link href="//2013/06/20/swamp-adventure"/>
    <updated>2013-06-20T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/20/swamp-adventure</id>
+   <id>//2013/06/20/swamp-adventure</id>
    <content type="html">&lt;p&gt;Procurando um game casual e divertido para jogar no seu iOS ou Android? &lt;a href=&quot;http://www.frozenlogicstudios.com/swampadventure.html&quot; target=&quot;_blank&quot;&gt;Swamp Adventure&lt;/a&gt;
  da &lt;a href=&quot;http://www.frozenlogicstudios.com&quot;&gt;Frozen Logic Studios&lt;/a&gt;
  é uma boa pedida.&lt;/p&gt;
@@ -980,9 +974,9 @@ O jogo ainda conta com mais de 20 achievements para conquistar e leadearboards.&
  
  <entry>
    <title>Soccer Free Kicks</title>
-   <link href="http://example.com/2013/06/10/soccer-free-kicks"/>
+   <link href="//2013/06/10/soccer-free-kicks"/>
    <updated>2013-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/10/soccer-free-kicks</id>
+   <id>//2013/06/10/soccer-free-kicks</id>
    <content type="html">&lt;p&gt;Como a palavra do momento é futebol, apresento o game &lt;a href=&quot;http://www.frozenlogicstudios.com/soccerfreekicks.html&quot; target=&quot;_blank&quot;&gt;Soccer Free Kicks&lt;/a&gt;
  da brasileria &lt;a href=&quot;http://www.frozenlogicstudios.com/&quot; target=&quot;_blank&quot;&gt;Frozen Logic Studios&lt;/a&gt;
 , onde o jogador pode praticar lances livres e testar sua destreza futebolística.&lt;/p&gt;
@@ -1000,9 +994,9 @@ O jogo ainda conta com mais de 20 achievements para conquistar e leadearboards.&
  
  <entry>
    <title>Invasão dos Sleans</title>
-   <link href="http://example.com/2013/05/30/invasao-dos-sleans"/>
+   <link href="//2013/05/30/invasao-dos-sleans"/>
    <updated>2013-05-30T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/30/invasao-dos-sleans</id>
+   <id>//2013/05/30/invasao-dos-sleans</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.ludosfactory.com.br/&quot; target=&quot;_blank&quot;&gt;Ludos Factory&lt;/a&gt;
 , um estúdio indie formado por Egon Ribeiro e Marcel Casarini, lançou seu primeiro game: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.LudoFactory.Sleans&amp;amp;hl=pt_BR&quot; target=&quot;_blank&quot;&gt;Invasão dos Sleans.&lt;/a&gt;&lt;/p&gt;
 
@@ -1025,9 +1019,9 @@ O jogo ainda conta com mais de 20 achievements para conquistar e leadearboards.&
  
  <entry>
    <title>Master of Words</title>
-   <link href="http://example.com/2013/05/20/master-of-words"/>
+   <link href="//2013/05/20/master-of-words"/>
    <updated>2013-05-20T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/20/master-of-words</id>
+   <id>//2013/05/20/master-of-words</id>
    <content type="html">&lt;p&gt;Deveria ter feito esse post sobre o &lt;a href=&quot;http://masterofwords.net/&quot; target=&quot;_blank&quot;&gt;Master of Words&lt;/a&gt;
 , da gaúcha &lt;a href=&quot;http://www.rockheadgames.com/&quot; target=&quot;_blank&quot;&gt;Rockhead Games&lt;/a&gt;
 , na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)&lt;/p&gt;
@@ -1052,9 +1046,9 @@ A Rockhead promente para breve uma versão Windows Phone.&lt;/p&gt;
  
  <entry>
    <title>BioTest</title>
-   <link href="http://example.com/2013/05/13/biotest"/>
+   <link href="//2013/05/13/biotest"/>
    <updated>2013-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/13/biotest</id>
+   <id>//2013/05/13/biotest</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.biotest-app.com/&quot;&gt;BioTest&lt;/a&gt; foi desenvolvido pelo LTE (Laboratório de Tecnologia Educacional do Instituto de Biologia da UNICAMP) e é o primeiro game para iOS e Android licenciado pela UNICAMP.&lt;/p&gt;
 
 &lt;p&gt;Nas últimas duas décadas o LTE tem desenvolvido softwares didáticos e jogos educacionais e agora está lançado seu primeiro game mobile.&lt;/p&gt;
@@ -1072,9 +1066,9 @@ A Rockhead promente para breve uma versão Windows Phone.&lt;/p&gt;
  
  <entry>
    <title>Dragon Raid</title>
-   <link href="http://example.com/2013/04/29/dragon-raid"/>
+   <link href="//2013/04/29/dragon-raid"/>
    <updated>2013-04-29T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/29/dragon-raid</id>
+   <id>//2013/04/29/dragon-raid</id>
    <content type="html">&lt;p&gt;Em muitos livros de fantasia, principalmente os com temática medieval, os dragões são os grandes vilões. No game &lt;a href=&quot;http://www.deadmushroom.com/?portfolio=dragon-raid&quot; target=&quot;_blank&quot;&gt;Dragon Raid&lt;/a&gt;
  da &lt;a href=&quot;http://www.deadmushroom.com/&quot; target=&quot;_blank&quot;&gt;Dead Mushroom&lt;/a&gt;
  isso não é diferente, mas o jogador não estará no controle de um guerreiro que deveria combater os dragões, mas sim no controle de um dragão que cansou de ser apenas caçado e tem como missão destruir tudo que aparece na sua frente.&lt;/p&gt;
@@ -1099,9 +1093,9 @@ Além do dragão vermelho, ainda é possível adquirir um dragão chinês que ad
  
  <entry>
    <title>Dino Jump</title>
-   <link href="http://example.com/2013/04/25/dino-jump"/>
+   <link href="//2013/04/25/dino-jump"/>
    <updated>2013-04-25T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/25/dino-jump</id>
+   <id>//2013/04/25/dino-jump</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Dino Jump é um jogo casual de aventura para iPhone, iPod e iPad no qual o jogador controla Dino, um dinossauro que acabou preso no fundo de um vulcão. Enquanto escapa da lava, Dino deve coletar o máximo de DNA para comprar evoluções que garantem melhorias ao personagem, como a habilidade de voar ou de usar chifres para se defender de inimigos. O jogo contém 6 diferentes regiões, cada uma com 10 níveis repletas de perigos e armadilhas, e os jogadores que chegarem ao fim do jogo são premiados com um modo infinito, no qual o objetivo é sobreviver a maior quantidade de tempo possível.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1123,9 +1117,9 @@ O game ainda conta&lt;span style=&quot;color: #222222; font-family: arial, sans-
  
  <entry>
    <title>Tiny butterflies e Skeletons Go Through Walls</title>
-   <link href="http://example.com/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls"/>
+   <link href="//2013/04/22/tiny-butterflies-e-skeletons-go-through-walls"/>
    <updated>2013-04-22T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/22/tiny-butterflies-e-skeletons-go-through-walls</id>
+   <id>//2013/04/22/tiny-butterflies-e-skeletons-go-through-walls</id>
    <content type="html">&lt;p&gt;Apresento dois games do desenvolvedor independente Paulo Candolo Nogueira que já trabalha há um bom tempo com desenvolvimento de jogos e está se aventurando no mercado indie.&lt;/p&gt;
 
 &lt;p&gt;Os jogos em questão são:Tiny butterflies e Skeletons Go Through Walls, que pelo nome podemos perceber que são games bem diferentes, sendo o primeiro um action puzzle e o segundo um game estilo survival horror.&lt;/p&gt;
@@ -1144,9 +1138,9 @@ O game ainda conta&lt;span style=&quot;color: #222222; font-family: arial, sans-
  
  <entry>
    <title>Michel Teló no Mundo</title>
-   <link href="http://example.com/2013/04/18/michel-telo-no-mundo"/>
+   <link href="//2013/04/18/michel-telo-no-mundo"/>
    <updated>2013-04-18T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/18/michel-telo-no-mundo</id>
+   <id>//2013/04/18/michel-telo-no-mundo</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;https://www.facebook.com/doubleleft&quot; target=&quot;_blank&quot;&gt;Doubleleft&lt;/a&gt;
 , desenvolvedora paulista conhecida pelos games &lt;a href=&quot;http://doubleleft.com/garbageman/&quot; target=&quot;_blank&quot;&gt;Garbageman&lt;/a&gt;
  e &lt;a href=&quot;http://bbdreamland.com/&quot; target=&quot;_blank&quot;&gt;Bob Burnquist’s Dreamland&lt;/a&gt;
@@ -1170,9 +1164,9 @@ O game ainda conta&lt;span style=&quot;color: #222222; font-family: arial, sans-
  
  <entry>
    <title>Favela Wars entra em fase beta</title>
-   <link href="http://example.com/2013/04/15/favela-wars-entra-em-fase-beta"/>
+   <link href="//2013/04/15/favela-wars-entra-em-fase-beta"/>
    <updated>2013-04-15T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/15/favela-wars-entra-em-fase-beta</id>
+   <id>//2013/04/15/favela-wars-entra-em-fase-beta</id>
    <content type="html">&lt;p&gt;O game &lt;a href=&quot;http://www.favelawars.com/br.html&quot; target=&quot;_blank&quot;&gt;Favela Wars&lt;/a&gt;
  da brasileira &lt;a href=&quot;http://www.nanostudio.com.br/&quot; target=&quot;_blank&quot;&gt;Nano Studio &lt;/a&gt;
 entra em sua fase beta depois de cerca de 1 ano de desenvolvimento.&lt;/p&gt;
@@ -1200,9 +1194,9 @@ Cada partida dura em torno de 15 minutos e a guerra só termina quando todos os 
  
  <entry>
    <title>Heist and Run</title>
-   <link href="http://example.com/2013/04/11/heist-and-run"/>
+   <link href="//2013/04/11/heist-and-run"/>
    <updated>2013-04-11T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/11/heist-and-run</id>
+   <id>//2013/04/11/heist-and-run</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br/&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
  estréia no mundo mobile com o game Heist and Run.&lt;/p&gt;
 
@@ -1231,9 +1225,9 @@ Cada partida dura em torno de 15 minutos e a guerra só termina quando todos os 
  
  <entry>
    <title>C-Bot</title>
-   <link href="http://example.com/2013/03/21/c-bot"/>
+   <link href="//2013/03/21/c-bot"/>
    <updated>2013-03-21T00:00:00-03:00</updated>
-   <id>http://example.com/2013/03/21/c-bot</id>
+   <id>//2013/03/21/c-bot</id>
    <content type="html">&lt;p&gt;No puzzle C-Bot da &lt;a href=&quot;http://www.cubefactory.com.br/&quot; target=&quot;_blank&quot;&gt;Cube Factory&lt;/a&gt;
  o jogador controla um robô que pode basicamente andar para trás e para frente. Para realizar outros movimentos, como pular, atirar, correr e inverter a gravidade (isso mesmo &quot;Inverter a gravidade&quot;) será preciso coletar cubos de energia espalhados pelo laboratório onde o robô foi criado e onde ele acabou de acordar sem saber muito bem o que está acontecendo.&lt;/p&gt;
 
@@ -1256,9 +1250,9 @@ Um &quot;must-have&quot;!&lt;/p&gt;
  
  <entry>
    <title>Esquadrão Patada</title>
-   <link href="http://example.com/2013/03/18/esquadrao-patada"/>
+   <link href="//2013/03/18/esquadrao-patada"/>
    <updated>2013-03-18T00:00:00-03:00</updated>
-   <id>http://example.com/2013/03/18/esquadrao-patada</id>
+   <id>//2013/03/18/esquadrao-patada</id>
    <content type="html">&lt;p&gt;A desenvolvedora mato-grossense &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;
  já esteve no jogosdaqui em 2012 com seu puzzle para iOS, o game à época era &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-01-01_2012-01-31.html#2012_01-05_08_05_01-154784552-0&quot;&gt;Zigball&lt;/a&gt;
 . Agora é a vez de outro jogo para os aparelhos da Apple, esse também um puzzle: &lt;a href=&quot;http://www.pankekagames.com.br/esquadrao/&quot; target=&quot;_blank&quot;&gt;Esquadrão Patada&lt;/a&gt;
@@ -1279,9 +1273,9 @@ Um &quot;must-have&quot;!&lt;/p&gt;
  
  <entry>
    <title>Crazy Bitsy Spider - Kids Mode</title>
-   <link href="http://example.com/2013/03/11/crazy-bitsy-spider-kids-mode"/>
+   <link href="//2013/03/11/crazy-bitsy-spider-kids-mode"/>
    <updated>2013-03-11T00:00:00-03:00</updated>
-   <id>http://example.com/2013/03/11/crazy-bitsy-spider-kids-mode</id>
+   <id>//2013/03/11/crazy-bitsy-spider-kids-mode</id>
    <content type="html">&lt;p&gt;A brasileira &lt;a href=&quot;http://www.deadmushroom.com/&quot; target=&quot;_blank&quot;&gt;Dead Mushroom&lt;/a&gt;
  atualizou seu action puzzle &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2012-12-01_2012-12-31.html#2012_12-05_18_55_07-154784552-0&quot; target=&quot;_self&quot;&gt;Crazy Bitsy Spider&lt;/a&gt;
  e a atualização vem acompanhada de um novo modo de jogo, chamado &quot;Kids Mode&quot;.&lt;/p&gt;
@@ -1303,9 +1297,9 @@ Um &quot;must-have&quot;!&lt;/p&gt;
  
  <entry>
    <title>December 21st</title>
-   <link href="http://example.com/2013/02/13/december-21st"/>
+   <link href="//2013/02/13/december-21st"/>
    <updated>2013-02-13T00:00:00-02:00</updated>
-   <id>http://example.com/2013/02/13/december-21st</id>
+   <id>//2013/02/13/december-21st</id>
    <content type="html">&lt;p&gt;Como um fã de bom puzzles, sempre fico feliz ao jogar games como o December 21st da brasileira &lt;a href=&quot;http://www.keeplay.com&quot; target=&quot;_blank&quot;&gt;Keeplay&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -1325,9 +1319,9 @@ Um &quot;must-have&quot;!&lt;/p&gt;
  
  <entry>
    <title>TriboT</title>
-   <link href="http://example.com/2013/01/23/tribot"/>
+   <link href="//2013/01/23/tribot"/>
    <updated>2013-01-23T00:00:00-02:00</updated>
-   <id>http://example.com/2013/01/23/tribot</id>
+   <id>//2013/01/23/tribot</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;SAUDACOES! EU SOU TRIBOT. DE ACORDO COM MINHAS ESPECIFICACOES, EU SOU UM BALANCE BOT DE PERNAS RETRATEIS DE CLASSE 2, S/N#3958388. ME DISSERAM QUE EU DEVERIA MOSTRAR MINHAS DIRETIVAS.&amp;lt;/font&amp;gt;
 [LISTANDO DIRETIVAS]&amp;lt;/font&amp;gt;&lt;/p&gt;
@@ -1374,9 +1368,9 @@ Com controles precisos e gr&amp;#225;ficos 3D competentes, TriboT &amp;#233; a p
  
  <entry>
    <title>Crazy Bitsy Spider</title>
-   <link href="http://example.com/2012/12/05/crazy-bitsy-spider-2"/>
+   <link href="//2012/12/05/crazy-bitsy-spider-2"/>
    <updated>2012-12-05T00:00:00-02:00</updated>
-   <id>http://example.com/2012/12/05/crazy-bitsy-spider-2</id>
+   <id>//2012/12/05/crazy-bitsy-spider-2</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.deadmushroom.com/?page_id=27&quot; target=&quot;_blank&quot;&gt;Crazy Bitsy Spider&lt;/a&gt;
  é um action puzzle para iOS e Android, da brasileira &lt;a href=&quot;http://www.deadmushroom.com/&quot; target=&quot;_blank&quot;&gt;Dead Mushroom&lt;/a&gt;
 , onde o jogador controla uma simpática aranha que deve  construir suas teias e capturar os diversos insetos que passam pelo cenário. O desafio está em se alimentar de uma variedade determinada de insetos a cada fase para progredir no jogo, tudo isso com uma trilha sonora no melhor estilo Bob Mcferrin, trilha essa que dá o tom ao jogo, e gráficos cartoon caprichados.&lt;/p&gt;
@@ -1404,9 +1398,9 @@ Com controles precisos e gr&amp;#225;ficos 3D competentes, TriboT &amp;#233; a p
  
  <entry>
    <title>Crystal Catcher</title>
-   <link href="http://example.com/2012/10/30/crystal-catcher"/>
+   <link href="//2012/10/30/crystal-catcher"/>
    <updated>2012-10-30T00:00:00-02:00</updated>
-   <id>http://example.com/2012/10/30/crystal-catcher</id>
+   <id>//2012/10/30/crystal-catcher</id>
    <content type="html">&lt;p&gt;Um runner com uma pitada de puzzle! Essa é a melhor maneira para descrever &lt;a href=&quot;http://site.crazyminds.net/p/crystal-catcher.html&quot;&gt;Crystal Catcher&lt;/a&gt;, para iPhone e iPad, o último game da desenvolvedora brasileira &lt;a href=&quot;http://site.crazyminds.net&quot;&gt;Crazy Minds Game Studio&lt;/a&gt;, que já esteve no jogosdaqui com o puzzle BLLUBY.&lt;/p&gt;
 
 &lt;p&gt;Em Crystal Catcher o jogador entra na pele… ou melhor, na lata de um robô que precisa conseguir combustível para a sua nave. O combustível da nave? Os cristais espalhados pelo caminho do robô-bola-usain-bolt.&lt;/p&gt;
@@ -1448,9 +1442,9 @@ Com controles precisos e gr&amp;#225;ficos 3D competentes, TriboT &amp;#233; a p
  
  <entry>
    <title>Bubblin</title>
-   <link href="http://example.com/2012/10/17/bubblin-2"/>
+   <link href="//2012/10/17/bubblin-2"/>
    <updated>2012-10-17T00:00:00-03:00</updated>
-   <id>http://example.com/2012/10/17/bubblin-2</id>
+   <id>//2012/10/17/bubblin-2</id>
    <content type="html">&lt;p&gt;Uma ideia simples, entretanto executada com maestria! Esse é o game &lt;a href=&quot;http://www.bivissoft.com/projeto-bubblin.php&quot; target=&quot;_blank&quot;&gt;Bubblin&lt;/a&gt;
  para iOS e Android da brasileria &lt;a href=&quot;http://www.bivissoft.com/&quot; target=&quot;_blank&quot;&gt;BivisSoft&lt;/a&gt;
 .&lt;/p&gt;
@@ -1485,9 +1479,9 @@ Além dos power-ups, ainda existem pequenas bolhas que passam em uma &quot;corre
  
  <entry>
    <title>Shuffle Puzzle</title>
-   <link href="http://example.com/2012/10/11/shuffle-puzzle-2"/>
+   <link href="//2012/10/11/shuffle-puzzle-2"/>
    <updated>2012-10-11T00:00:00-03:00</updated>
-   <id>http://example.com/2012/10/11/shuffle-puzzle-2</id>
+   <id>//2012/10/11/shuffle-puzzle-2</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Shuffle Puzzle é um jogo de quebra-cabeça onde o jogador deverá montar a imagem embaralhada movendo linhas ou colunas.  As imagens seguem a temática do pacote onde estão e neste jogo há três pacotes: natureza, balões e grafite.  A dificuldade inicialmente é a mínima possível com o objetivo de que o jogador perceba como os passos devem ser feitos para reordenar a  imagem e também para ensiná-lo o novo tipo de gameplay. A medida que novas figuras são resolvidas, matrizes 4x4 ficam mais frequentes e  matrizes 3x3 mais difíceis.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1510,9 +1504,9 @@ Além dos power-ups, ainda existem pequenas bolhas que passam em uma &quot;corre
  
  <entry>
    <title>Apoie o jogo brasileiro Comboy vs Aliens vs Ninjas</title>
-   <link href="http://example.com/2012/10/03/apoie-o-jogo-comboy"/>
+   <link href="//2012/10/03/apoie-o-jogo-comboy"/>
    <updated>2012-10-03T00:00:00-03:00</updated>
-   <id>http://example.com/2012/10/03/apoie-o-jogo-comboy</id>
+   <id>//2012/10/03/apoie-o-jogo-comboy</id>
    <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&gt;Dead Mushroom&lt;/a&gt;
  iniciou uma campanha de crowdfunding que visa arrecadar fundos para que seu game &lt;a href=&quot;http://www.indiegogo.com/cowboyvs&quot; target=&quot;_blank&quot;&gt;&quot;Cowboy vs Aliens vs Ninjas&quot;&lt;/a&gt;
  fique disponível de graça para iOS e Android, além de ajudar no desenvolvimento de uma versão para desktop.&lt;/p&gt;
@@ -1538,9 +1532,9 @@ A &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&g
  
  <entry>
    <title>Hipercubo</title>
-   <link href="http://example.com/2012/08/08/hipercubo"/>
+   <link href="//2012/08/08/hipercubo"/>
    <updated>2012-08-08T00:00:00-03:00</updated>
-   <id>http://example.com/2012/08/08/hipercubo</id>
+   <id>//2012/08/08/hipercubo</id>
    <content type="html">&lt;p&gt;Definição de Hipercubo da Wikipédia:&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos de mesmo tamanho e comprimento.&quot;&lt;/p&gt;
@@ -1562,9 +1556,9 @@ A &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&g
  
  <entry>
    <title>Copaguinho no Espaço</title>
-   <link href="http://example.com/2012/07/10/copaguinho-no-espaco"/>
+   <link href="//2012/07/10/copaguinho-no-espaco"/>
    <updated>2012-07-10T00:00:00-03:00</updated>
-   <id>http://example.com/2012/07/10/copaguinho-no-espaco</id>
+   <id>//2012/07/10/copaguinho-no-espaco</id>
    <content type="html">&lt;p&gt;Em seu primeiro game para iPad, a empresa brasileira &lt;span style=&quot;color: #222222; font-family: arial, sans-serif; font-size: 13px;&quot;&gt;Mkt Virtual desenvolveu em parceria com a Copag, maior fabricante de baralhos do Brasil, o game &quot;Copaguinho no Espaço&quot;.&lt;/span&gt;&lt;/p&gt;
 
 &lt;font face=&quot;arial, sans-serif&quot; size=&quot;2&quot; color=&quot;#222222&quot;&gt;No game o jogador controla o Super Copaguinho atrav&amp;#233;s de 10 fases no melhor estilo dos cl&amp;#225;ssicos jogos de nave shoot&amp;#8217;em up.&lt;/font&gt;
@@ -1584,9 +1578,9 @@ A &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&g
  
  <entry>
    <title>Meu Pianinho</title>
-   <link href="http://example.com/2012/04/11/meu-pianinho"/>
+   <link href="//2012/04/11/meu-pianinho"/>
    <updated>2012-04-11T00:00:00-03:00</updated>
-   <id>http://example.com/2012/04/11/meu-pianinho</id>
+   <id>//2012/04/11/meu-pianinho</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://whitevortex.com&quot; target=&quot;_blank&quot;&gt;White Vortex&lt;/a&gt;
  de Brasília estreou no mercado de games com o belo game educacional &lt;a href=&quot;http://whitevortex.com/pt/lista-jogos/jogos/73-aprender-brincando-meu-pianinho&quot; target=&quot;_blank&quot;&gt;Meu Pianinho&lt;/a&gt;
 , disponível para iPad e dispositivos Android.&lt;/p&gt;
@@ -1612,9 +1606,9 @@ A &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&g
  
  <entry>
    <title>Delivery Box</title>
-   <link href="http://example.com/2012/02/28/delivery-box"/>
+   <link href="//2012/02/28/delivery-box"/>
    <updated>2012-02-28T00:00:00-03:00</updated>
-   <id>http://example.com/2012/02/28/delivery-box</id>
+   <id>//2012/02/28/delivery-box</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.yottaapps.com.br/aplicativos/delivery-box/&quot; target=&quot;_blank&quot;&gt;Delivery Box&lt;/a&gt;
  foi o primeiro game da brasileira &lt;a href=&quot;http://www.yottaapps.com.br&quot;&gt;Yotta Apps&lt;/a&gt;
  para iPad, lançado em 2011, apresenta o desafio de atravessar um carro de brinquedo, carregado de bloquinhos de madeira, por um percurso também montando por mais blocos de madeira. O objetivo é chegar o mais rápido possível ao final do percurso, deixando cair o menor número de blocos possíveis da caçamba.&lt;/p&gt;
@@ -1634,9 +1628,9 @@ A &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&g
  
  <entry>
    <title>Legendary Heroes</title>
-   <link href="http://example.com/2012/02/12/legendary-heroes"/>
+   <link href="//2012/02/12/legendary-heroes"/>
    <updated>2012-02-12T00:00:00-02:00</updated>
-   <id>http://example.com/2012/02/12/legendary-heroes</id>
+   <id>//2012/02/12/legendary-heroes</id>
    <content type="html">&lt;p&gt;O relativamente recente e popular gênero Action Real-Time Strategy combina muito bem com as interfaces de toque de iPods, iPhones e iPads. Sabendo disso, a empresa brasileira Maya Games lançou na App Store o game Legendary Heroes.&lt;/p&gt;
 
 &lt;p&gt;Legendary Heroes impressiona pela qualidade: os gráficos, sons e jogabilidade são muito bem polidos e garantem a diversão para os amantes desse estilo de game.&lt;/p&gt;
@@ -1658,9 +1652,9 @@ A &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&g
  
  <entry>
    <title>Joga Brasil</title>
-   <link href="http://example.com/2012/01/13/joga-brasil"/>
+   <link href="//2012/01/13/joga-brasil"/>
    <updated>2012-01-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/01/13/joga-brasil</id>
+   <id>//2012/01/13/joga-brasil</id>
    <content type="html">&lt;p&gt;Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o &lt;a href=&quot;http://www.jogabrasil.com.br/&quot; target=&quot;_blank&quot;&gt;Joga Brasil&lt;/a&gt;
 , primeiro evento focado na divulgação de games produzidos por empresas nacionais. Como não poderia deixar de ser, o jogosdaqui apóia, e muito, esse tipo de iniciativa.&lt;/p&gt;
 
@@ -1730,9 +1724,9 @@ A &lt;a href=&quot;http://www.deadmushroom.com&quot; target=&quot;_blank&quot;&g
  
  <entry>
    <title>Zigball</title>
-   <link href="http://example.com/2012/01/05/zigball"/>
+   <link href="//2012/01/05/zigball"/>
    <updated>2012-01-05T00:00:00-02:00</updated>
-   <id>http://example.com/2012/01/05/zigball</id>
+   <id>//2012/01/05/zigball</id>
    <content type="html">&lt;p&gt;Em 2011 a produtora brasileira &lt;a href=&quot;http://www.pankekagames.com.br/&quot; target=&quot;_blank&quot;&gt;Pankeka Games&lt;/a&gt;
  debutou nos iDevices (iPhone, iPod Touch e iPad) com seu game &lt;a href=&quot;http://www.zigball.com/index_pt.html&quot; target=&quot;_blank&quot;&gt;Zigball&lt;/a&gt;
 .&lt;/p&gt;
@@ -1754,9 +1748,9 @@ Quando o jogador atinge um bom recorde, pode mostrar o seu feito ao mundo atrav&
  
  <entry>
    <title>BLLUBY</title>
-   <link href="http://example.com/2011/10/14/blluby"/>
+   <link href="//2011/10/14/blluby"/>
    <updated>2011-10-14T00:00:00-03:00</updated>
-   <id>http://example.com/2011/10/14/blluby</id>
+   <id>//2011/10/14/blluby</id>
    <content type="html">&lt;p&gt;Apesar de ter um gosto eclético para games e navegar bem entre todas as categorias, desde os games mais casuais até os mais hardcore, sempre tive uma predileção por puzzles. E foi por isso que recebi com grata surpresa o game BLLUBY, da brasileira &lt;a href=&quot;http://site.crazyminds.net/&quot;&gt;Crazy Minds&lt;/a&gt;, para iPhone, iPod e iPad.&lt;/p&gt;
 
 &lt;h2 id=&quot;blluby&quot;&gt;BLLUBY&lt;/h2&gt;
@@ -1804,9 +1798,9 @@ Quando o jogador atinge um bom recorde, pode mostrar o seu feito ao mundo atrav&
  
  <entry>
    <title>Mega Drop Chiclets Evolution</title>
-   <link href="http://example.com/2011/09/19/mega-drop-chiclets-evolution"/>
+   <link href="//2011/09/19/mega-drop-chiclets-evolution"/>
    <updated>2011-09-19T00:00:00-03:00</updated>
-   <id>http://example.com/2011/09/19/mega-drop-chiclets-evolution</id>
+   <id>//2011/09/19/mega-drop-chiclets-evolution</id>
    <content type="html">&lt;p&gt;Já pensou em enfrentar a Mega Rampa? E que tal fazer isso num game para iPhone, IPad, Android mobile, Android tablets e Facebook?&lt;/p&gt;
 
 &lt;p&gt;Essa é a proposta do game Mega Drop Chiclets Evolution da brasileira Ovni Studios em parceria com a McCann e Kraft Foods.
@@ -1825,9 +1819,9 @@ A jogabilidade do game é simples: suba no alto da Mega Rampa, escolha força e 
  
  <entry>
    <title>GameCraft 2011</title>
-   <link href="http://example.com/2011/05/23/gamecraft-2011"/>
+   <link href="//2011/05/23/gamecraft-2011"/>
    <updated>2011-05-23T00:00:00-03:00</updated>
-   <id>http://example.com/2011/05/23/gamecraft-2011</id>
+   <id>//2011/05/23/gamecraft-2011</id>
    <content type="html">&lt;p&gt;Nos dias 16 e 17 de junho acontecerá no Rio de Janeiro o GameCraft 2011, evento focado no desenvolvimento de jogos eletrônicos.&lt;/p&gt;
 
 &lt;p&gt;O GameCraft contará com diversos palestrantes, entre os já confirmados estão:&lt;/p&gt;
@@ -1846,9 +1840,9 @@ Mais informações na página oficial &lt;a href=&quot;http://devoidgames.com/ga
  
  <entry>
    <title>Prévia: Cannon Land</title>
-   <link href="http://example.com/2011/04/27/previa-cannon-land"/>
+   <link href="//2011/04/27/previa-cannon-land"/>
    <updated>2011-04-27T00:00:00-03:00</updated>
-   <id>http://example.com/2011/04/27/previa-cannon-land</id>
+   <id>//2011/04/27/previa-cannon-land</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Cannon Land é um arquipélago conquistado por Sir Muzzle, um dos piratas mais malucos a navegar pelos oceanos. Um dia, ele decidiu parar de saquear navios e portos e começou a construir armadilhas incríveis, para proteger os seus tesouros. A lenda diz que ele enloqueceu e morreu Cannon Land, e suas armadilhas continuam funcionando até hoje. Muitos aventureiros tentaram passar pelas engenhocas de Muzzle, mas nenhum conseguiu, e a lenda foi ganhando força dia após dia…
 Duzentos anos depois, um menino decide sair para uma aventura! Com sua espada de madeira, e uma roupa de pirata feita pela sua avó, Chunkie está confiante de que conquistar o tesouro de Sir Muzzle e se transformar em um herói!&quot;
@@ -1879,9 +1873,9 @@ Conhe&amp;#231;a mais do jogo no &lt;a href=&quot;http://www.currantcat.com/cann
  
  <entry>
    <title>Prévia: The Fish Dies in the End</title>
-   <link href="http://example.com/2011/04/06/previa-the-fish-dies-in-the-end"/>
+   <link href="//2011/04/06/previa-the-fish-dies-in-the-end"/>
    <updated>2011-04-06T00:00:00-03:00</updated>
-   <id>http://example.com/2011/04/06/previa-the-fish-dies-in-the-end</id>
+   <id>//2011/04/06/previa-the-fish-dies-in-the-end</id>
    <content type="html">&lt;p&gt;Um pequeno peixe tentando sobreviver aos perigos do oceano, esse é o mote do game &lt;a href=&quot;http://www.thefishdies.com/&quot; target=&quot;_blank&quot;&gt;The Fish Dies in the End&lt;/a&gt;
  do desenvolvedor independente &lt;span style=&quot;font-family: arial, sans-serif; font-size: 13px; border-collapse: collapse;&quot;&gt;&lt;a href=&quot;http://twitter.com/gutenbergn&quot; target=&quot;_blank&quot;&gt;Gutenberg Neto&lt;/a&gt;
 .&lt;/span&gt;&lt;/p&gt;
@@ -1900,9 +1894,9 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
  
  <entry>
    <title>Prévia: Legend Alive: rebirth of the angels</title>
-   <link href="http://example.com/2011/03/16/previa-legend-alive-rebirth-of-the-angels"/>
+   <link href="//2011/03/16/previa-legend-alive-rebirth-of-the-angels"/>
    <updated>2011-03-16T00:00:00-03:00</updated>
-   <id>http://example.com/2011/03/16/previa-legend-alive-rebirth-of-the-angels</id>
+   <id>//2011/03/16/previa-legend-alive-rebirth-of-the-angels</id>
    <content type="html">&lt;p&gt;Um mundo politeísta onde deuses estão em guerra e as batalhas são travadas por guerreiros reencarnados, esse é o plano de fundo do game &lt;a href=&quot;http://www.legend-alive.com/&quot; target=&quot;_blank&quot;&gt;Legend Alive: rebirth of the angels&lt;/a&gt;
  que está sendo desenvolvido pela empresa brasileira Dynamic Light de Brasília.&lt;/p&gt;
 
@@ -1921,12 +1915,10 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
  
  <entry>
    <title>Entrevista: Tiago Moraes da Ovni Studios (parte 2)</title>
-   <link href="http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2"/>
+   <link href="//2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2"/>
    <updated>2011-02-25T00:00:00-03:00</updated>
-   <id>http://example.com/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot;&gt;@own1e&lt;/a&gt; em colaboração para o jogosdaqui.&lt;/p&gt;
-
-&lt;p&gt;Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.&lt;/p&gt;
+   <id>//2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2</id>
+   <content type="html">&lt;p&gt;Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.&lt;/p&gt;
 
 &lt;h2 id=&quot;sobre-os-jogos-de-vocês-apresente-o-que-vocês-já-fizeram&quot;&gt;Sobre os jogos de vocês, apresente o que vocês já fizeram&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -1952,9 +1944,9 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
  
  <entry>
    <title>Project Manolo</title>
-   <link href="http://example.com/2011/02/11/project-manolo"/>
+   <link href="//2011/02/11/project-manolo"/>
    <updated>2011-02-11T00:00:00-02:00</updated>
-   <id>http://example.com/2011/02/11/project-manolo</id>
+   <id>//2011/02/11/project-manolo</id>
    <content type="html">&lt;p&gt;É comum vermos pequenas equipes de desenvolvimento de jogos, principalmente de outros países, criarem protótipos ou conceitos de games e, com isso, buscar a colaboração de outros profissionais, como modeladores 3D, animadores, ilustradores, game designers, e até investidores. Um bom exemplo disso é o game dinamarquês &quot;Limbo&quot;, onde os dois sócios-fundadores da empresa Playdead criaram um video com o conceito do que seria o game e jogaram na internet, logo apareceram diversos colaboradores e alguns publishers interessados no game. O resto da história já conhecemos: &lt;a href=&quot;http://jogos.uol.com.br/xbox360/ultnot/2010/08/20/ult4101u2667.jhtm&quot; target=&quot;_blank&quot;&gt;Independente, &quot;Limbo&quot; vendeu mais de 300 mil unidades&lt;/a&gt;
 .
 Foi com essa mesma intenção de conseguir colaboradores e investidores que o desenvolvedor independente Matheus Borges Alves criou o &quot;Project Manolo&quot; um protótipo de game para dispositivos móveis (iOS/Android). No protótipo &quot;Manolo&quot;, livremente inspirado em Super Mario Galaxy, podemos observar todo o potencial do conceito do game rodando nos dispositivos móveis:&lt;/p&gt;
@@ -1973,12 +1965,10 @@ Quem sabe um dia anunciaremos o lançamento do game nascido deste projeto. É es
  
  <entry>
    <title>Entrevista: Tiago Moraes da Ovni Studios (parte 1)</title>
-   <link href="http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1"/>
+   <link href="//2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1"/>
    <updated>2011-02-09T00:00:00-02:00</updated>
-   <id>http://example.com/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot;&gt;@own1e&lt;/a&gt; em colaboração para o jogosdaqui.&lt;/p&gt;
-
-&lt;p&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/p&gt;
+   <id>//2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1</id>
+   <content type="html">&lt;p&gt;Estúdio fundado há pouco mais de um ano, mas já com projetos de empresas como Fiat e editora Abril: esta é a Ovni Studios, sediada em São Paulo. Fomos atrás do cabeça da companhia, Tiago Moraes, para saber mais sobre a indústria e o mercado nacional e internacional, além das perspectivas para o futuro. Na primeira parte, um apanhado sobre o começo dele no desenvolvimento de jogos, a dura realidade do Brasil e até uns pitacos na Gameloft.&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-de-você-e-do-seu-trabalho-na-ovni&quot;&gt;Fale um pouco de você e do seu trabalho na Ovni&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -2036,9 +2026,9 @@ Quem sabe um dia anunciaremos o lançamento do game nascido deste projeto. É es
  
  <entry>
    <title>O gari é o herói</title>
-   <link href="http://example.com/2011/02/07/o-gari-e-o-heroi"/>
+   <link href="//2011/02/07/o-gari-e-o-heroi"/>
    <updated>2011-02-07T00:00:00-02:00</updated>
-   <id>http://example.com/2011/02/07/o-gari-e-o-heroi</id>
+   <id>//2011/02/07/o-gari-e-o-heroi</id>
    <content type="html">&lt;p&gt;Em &lt;a href=&quot;http://doubleleft.com/garbageman/&quot; target=&quot;_blank&quot;&gt;Garbageman&lt;/a&gt;
 , da produtora brasileira &lt;a href=&quot;http://doubleleft.com/&quot; target=&quot;_blank&quot;&gt;Doubleleft&lt;/a&gt;
 , um gari torna-se o herói de um simpático e divertido game para iPod Touch, iPhone e iPad.&lt;/p&gt;
@@ -2060,9 +2050,9 @@ Para ajudar o jogador existem alguns bônus, como um bullet-time para facilitar 
  
  <entry>
    <title>Totem Destroyer para plataformas móveis</title>
-   <link href="http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis"/>
+   <link href="//2011/01/26/totem-destroyer-para-plataformas-moveis"/>
    <updated>2011-01-26T00:00:00-02:00</updated>
-   <id>http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis</id>
+   <id>//2011/01/26/totem-destroyer-para-plataformas-moveis</id>
    <content type="html">&lt;p&gt;A produtora brasileira &lt;a href=&quot;http://www.catsinthesky.com.br/&quot; target=&quot;_blank&quot;&gt;Cats in the Sky&lt;/a&gt;
  anunciou que seu puzzle baseado em física, Totem Destroyer, será lançado para plataformas móveis, entre as já confirmadas estão: iPhone, iPad e celulares/tablets com o sistema operacional Android.&lt;/p&gt;
 
@@ -2080,9 +2070,9 @@ Para ajudar o jogador existem alguns bônus, como um bullet-time para facilitar 
  
  <entry>
    <title>Jules: Unboxing the World</title>
-   <link href="http://example.com/2011/01/21/jules-unboxing-the-world"/>
+   <link href="//2011/01/21/jules-unboxing-the-world"/>
    <updated>2011-01-21T00:00:00-02:00</updated>
-   <id>http://example.com/2011/01/21/jules-unboxing-the-world</id>
+   <id>//2011/01/21/jules-unboxing-the-world</id>
    <content type="html">&lt;font size=&quot;2&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Daniel Mello (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/own1e&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@own1e&lt;/span&gt;&lt;/a&gt;
 &amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olabora&amp;#231;&amp;#227;o para o jogosdaqui.&lt;/span&gt;&lt;/font&gt;
 &lt;blockquote&gt;
@@ -2109,9 +2099,9 @@ Não se deixe levar pelo nome estranho: Jules: Unboxing the World é mais divert
  
  <entry>
    <title>MemoMax</title>
-   <link href="http://example.com/2011/01/07/memomax"/>
+   <link href="//2011/01/07/memomax"/>
    <updated>2011-01-07T00:00:00-02:00</updated>
-   <id>http://example.com/2011/01/07/memomax</id>
+   <id>//2011/01/07/memomax</id>
    <content type="html">&lt;p&gt;A produtora iMAX Games lançou seu primeiro game para as plataformas portatéis da Apple.&lt;/p&gt;
 
 &lt;p&gt;MemoMax para iPad é um jogo da memória diferente, onde o jogador precisa encontrar pares iguais de carta, escolhendo uma carta do centro do tabuleiro e outra da &quot;moldura&quot; do tabuleiro. Toda vez que as cartas não são iguais, elas invertem de posição. Essa singela diferença torna o game muito mais dinâmico e desafiador.&lt;/p&gt;
@@ -2126,9 +2116,9 @@ Não se deixe levar pelo nome estranho: Jules: Unboxing the World é mais divert
  
  <entry>
    <title>Dodgeball Safari</title>
-   <link href="http://example.com/2010/12/27/dodgeball-safari"/>
+   <link href="//2010/12/27/dodgeball-safari"/>
    <updated>2010-12-27T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/27/dodgeball-safari</id>
+   <id>//2010/12/27/dodgeball-safari</id>
    <content type="html">&lt;p&gt;A Ovni Studios, conhecida pelo desenvolvimento de games como &lt;a href=&quot;http://www.ovnistudios.com/colorrace&quot; target=&quot;_blank&quot;&gt;Fiat Uno Color Race&lt;/a&gt;
  e &lt;a href=&quot;http://www.ovnistudios.com/placarcup&quot; target=&quot;_blank&quot;&gt;Copa Placar&lt;/a&gt;
 , tem um ótimo motivo para comemorar nas festas de final de ano, pois acaba de lançar o seu primeiro game próprio, com propriedade intelectual 100% do estúdio. Estamos falando do game &lt;a href=&quot;http://www.ovnistudios.com/dodgeballsafari&quot; target=&quot;_blank&quot;&gt;Dodgeball Safari&lt;/a&gt;
@@ -2152,9 +2142,9 @@ O game est&amp;#225; dispon&amp;#237;vel na &lt;a href=&quot;http://itunes.apple
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
@@ -2311,9 +2301,9 @@ O game est&amp;#225; dispon&amp;#237;vel na &lt;a href=&quot;http://itunes.apple
  
  <entry>
    <title>Novo vídeo de Super Roommates</title>
-   <link href="http://example.com/2010/11/29/novo-video-de-super-roommates-2"/>
+   <link href="//2010/11/29/novo-video-de-super-roommates-2"/>
    <updated>2010-11-29T00:00:00-02:00</updated>
-   <id>http://example.com/2010/11/29/novo-video-de-super-roommates-2</id>
+   <id>//2010/11/29/novo-video-de-super-roommates-2</id>
    <content type="html">&lt;p&gt;A brasileira Behold Studios, conhecida pelo seu RTS para iPhone &lt;a href=&quot;http://goo.gl/TZos1&quot; target=&quot;_blank&quot;&gt;&quot;The Gravedigger&quot;&lt;/a&gt;
 , liberou um novo vídeo  sobre seu game para Facebook &quot;Super Roommates&quot;.
 No vídeo podemos conferir mais do gameplay do game.&lt;/p&gt;
@@ -2326,9 +2316,9 @@ No vídeo podemos conferir mais do gameplay do game.&lt;/p&gt;
  
  <entry>
    <title>Em desenvolvimento: Macaco Grande</title>
-   <link href="http://example.com/2010/11/23/em-desenvolvimento-macaco-grande-2"/>
+   <link href="//2010/11/23/em-desenvolvimento-macaco-grande-2"/>
    <updated>2010-11-23T00:00:00-02:00</updated>
-   <id>http://example.com/2010/11/23/em-desenvolvimento-macaco-grande-2</id>
+   <id>//2010/11/23/em-desenvolvimento-macaco-grande-2</id>
    <content type="html">&lt;p&gt;Um jogo no melhor estilo retro, trazendo de volta a jogabilidade simples e ágil dos primeiros jogos, com personagens, a conquistarem sucesso nos arcades&lt;/p&gt;
 
 &lt;p&gt;É isso que promete o game “Macaco Grande”, que está sendo desenvolvido pela &lt;a href=&quot;http://arcaica-pfp.blogspot.com/&quot; target=&quot;_blank&quot;&gt;Arcaica&lt;/a&gt;

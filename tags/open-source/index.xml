@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - open-source</title>
- <link href="http://example.com/tags/open-source/index.xml" rel="self"/>
- <link href="http://example.com/tag/open-source.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/open-source.html</id>
+ <title>jogosdaqui - open-source</title>
+ <link href="//tags/open-source/index.xml" rel="self"/>
+ <link href="/tag/open-source.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/open-source.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>jogosdaqui: open source e colaborativo</title>
-   <link href="http://example.com/2018/11/15/jogosdaqui-open-source-e-colaborativo"/>
+   <link href="//2018/11/15/jogosdaqui-open-source-e-colaborativo"/>
    <updated>2018-11-15T00:00:00-02:00</updated>
-   <id>http://example.com/2018/11/15/jogosdaqui-open-source-e-colaborativo</id>
+   <id>//2018/11/15/jogosdaqui-open-source-e-colaborativo</id>
    <content type="html">&lt;h2 id=&quot;um-pouco-de-história&quot;&gt;Um pouco de história&lt;/h2&gt;
 &lt;p&gt;O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2018/11/15/jogosdaqui-open-source-e-colaborativo/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2018/11/15/jogosdaqui-open-source-e-colaborativo/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;open-source&quot;&gt;Open Source&lt;/h2&gt;
@@ -26,9 +26,9 @@
 
 &lt;p&gt;Atualmente temos as seguintes estatísticas:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Notícias: 359&lt;/li&gt;
-  &lt;li&gt;Prévias: 64&lt;/li&gt;
-  &lt;li&gt;Jogos: 192&lt;/li&gt;
+  &lt;li&gt;Notícias: 358&lt;/li&gt;
+  &lt;li&gt;Prévias: 65&lt;/li&gt;
+  &lt;li&gt;Jogos: 199&lt;/li&gt;
   &lt;li&gt;Entrevistas: 8&lt;/li&gt;
   &lt;li&gt;Eventos: 34&lt;/li&gt;
   &lt;li&gt;Colunas: 26&lt;/li&gt;
@@ -37,9 +37,9 @@
 &lt;p&gt;Todo esse material está disponível no &lt;a href=&quot;https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll&quot;&gt;GitHub do jogosdaqui&lt;/a&gt;, permitindo que qualquer pessoa possa colaborar com melhoria nos conteúdos, formatação, definição de tags etc.&lt;/p&gt;
 
 &lt;h2 id=&quot;colaborativo&quot;&gt;Colaborativo&lt;/h2&gt;
-&lt;p&gt;Espero que tornando-o open source, o jogosdaqui também comece a receber novos conteúdos de forma colaborativa através da comunidade de jogadores e desenvolvedores de games nacionais.&lt;/p&gt;
+&lt;p&gt;Tornando o jogosdaqui open source, o site poderá receber novos conteúdos de forma colaborativa através da comunidade de jogadores e desenvolvedores de games nacionais.&lt;/p&gt;
 
-&lt;p&gt;Existem formas de desenvolvedores e não desenvolvedores colaborarem com o jogosdaqui, veja em mais detalhes na &lt;a href=&quot;/colabore&quot;&gt;nossa página Colabore&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Existem formas de desenvolvedores e não desenvolvedores colaborarem com o jogosdaqui, veja em mais detalhes na nossa página &lt;a href=&quot;/colabore&quot;&gt;Colabore&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;agradecimentos&quot;&gt;Agradecimentos&lt;/h2&gt;
 &lt;p&gt;Gostaria de agradecer a todos que colaboraram e incentivaram o jogosdaqui todos esses anos: muito obrigado!&lt;/p&gt;
@@ -51,7 +51,7 @@
   &lt;li&gt;Sulema Muñoz Andreassy&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;Espero que gostem da iniciativa e que também venham em algum momento colaborar.&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Espero que gostem da iniciativa e que também venham em algum momento a colaborar.&lt;br /&gt;
 Forca sempre!&lt;br /&gt;
 Diego Giacomelli&lt;/em&gt;&lt;/p&gt;
 </content>
@@ -59,9 +59,9 @@ Diego Giacomelli&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>Projeto experimental de Software Livre da TILT online</title>
-   <link href="http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online"/>
+   <link href="//2005/10/17/projeto-experimental-de-software-livre-da-tilt-online"/>
    <updated>2005-10-17T00:00:00-02:00</updated>
-   <id>http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online</id>
+   <id>//2005/10/17/projeto-experimental-de-software-livre-da-tilt-online</id>
    <content type="html">&lt;p&gt;Há muito tempo temos debatido o uso dos mecanismos do software livre em jogos comerciais. Algumas pessoas não aceitam a possibilidade deste mecanismo funcionar no caso específico de jogos. Outras simplesmente acreditam que, se funciona para o Linux, funciona para tudo mais (cura até unha encravada).&lt;/p&gt;
 
 &lt;p&gt;A verdade é que, funcionando ou não funcionando, ninguém até hoje teve paciência ou coragem para testar de verdade esse sistema, ou seja, expor o fonte de um núcleo de programa de forma a permitir que ele evolua em regime aberto, cooperativo, sem custos de licenciamento e ainda assim permitindo variações comerciais (onde qualquer pessoa possa ganhar o seu sustento).&lt;/p&gt;
@@ -84,9 +84,9 @@ Diego Giacomelli&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>Workshop de Jogos Digitais na Educação</title>
-   <link href="http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao"/>
+   <link href="//2005/09/30/workshop-de-jogos-digitais-na-educacao"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
+   <id>//2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
    <content type="html">&lt;p&gt;O Workshop de Jogos Digitais na Educação trata-se de um evento que irá ocorrer paralelamente ao XVI Simpósio Brasileiro de Informática na Educação (SBIE 2005) e abordará as questões interdisciplinares envolvidas nos jogos digitais no âmbito educacional como ferramenta de ensino-aprendizagem, desde a Educação Infantil aos programas de pós-graduação.&lt;/p&gt;
 
 &lt;p&gt;Na atualidade ampliou-se a discussão referentes as potencialidades mercadológicas e pedagógicas dos jogos digitais. Os aprendizes do século XXI estão integrados com uma realidade pós-industrial, com novos valores evivenciando o ciberespaço. Diante desta realidade torna-se necessário repensar as metodologias de ensino-aprendizagem adotadas nos ambientes acadêmicos da Educação Infantil até aos programas de pós-graduação. Neste contexto os jogos digitais recebem destaque pelo fato de serem considerados excelentes ferramentas motivadoras que poderão ser adotadas como uma metodologia de ensino-aprendizagem. Desde os primórdios da Informática na Educação que os jogos educativos estão em pauta, entretanto tal ferramenta precisa ser revisada através de uma abordagem contemporânea e transdisciplinar que adequa-se a este aprendiz do século XXI, resgatando o sentido original dos jogos que trata-se da ludicidade, do prazer, tornando-se menos didatizantes e conteudistas e tornando-os verdadeiros artefatos culturais potencializadores de Inclusão Digital. É importante destacar que entende-se como jogo qualquer software interativo, imersivo e lúdico (é fundamental que seja divertido) com objetivos pedagógicos explícitos ou implícitos.&lt;/p&gt;
@@ -116,9 +116,9 @@ Diego Giacomelli&lt;/em&gt;&lt;/p&gt;
  
  <entry>
    <title>Outgun</title>
-   <link href="http://example.com/2005/09/28/outgun"/>
+   <link href="//2005/09/28/outgun"/>
    <updated>2005-09-28T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/28/outgun</id>
+   <id>//2005/09/28/outgun</id>
    <content type="html">&lt;p&gt;Outgun é um jogo multijogador simples de captura de bandeira com gráficos 2D para ser jogado em uma rede. Até 32 jogadores são suportados em uma partida com 16 jogadores em cada um dos dois times. Após iniciar o jogo, basta usar o menu para localizar servidores onde é possível jogar on-line.&lt;/p&gt;
 
 &lt;p&gt;O conceito de Outgun é visto freqüentemente: Os jogadores são divididos em duas equipes cujo o objetivo é pegar a bandeira inimiga e a trazer para a sua própria bandeira. A equipe com a maioria de capturas da bandeira ganha a partida.&lt;/p&gt;

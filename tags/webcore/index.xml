@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - webcore</title>
- <link href="http://example.com/tags/webcore/index.xml" rel="self"/>
- <link href="http://example.com/tag/webcore.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/webcore.html</id>
+ <title>jogosdaqui - webcore</title>
+ <link href="//tags/webcore/index.xml" rel="self"/>
+ <link href="/tag/webcore.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/webcore.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9"/>
+   <link href="//2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/11/checkpoint-9</id>
+   <id>//2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar&quot;&gt;Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar&lt;/a&gt;&lt;/p&gt;
 
@@ -57,9 +57,9 @@
  
  <entry>
    <title>Prévia de My Night Job da Webcore Games</title>
-   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games"/>
+   <link href="//2015/06/10/previa-de-my-night-job-da-webcore-games"/>
    <updated>2015-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
+   <id>//2015/06/10/previa-de-my-night-job-da-webcore-games</id>
    <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
 
 &lt;p&gt;Se quando você viu esses filmes ficou com vontade de pegar a serra elétrica, sua boomstick (a arma de cano-serrado), entrar numa casa mal-assombrada, detonar os demônios e salvar o dia no melhor estilo insano do herói Ash Williams, então o game que a Webcore Games está desenvolvendo matará sua vontade.&lt;/p&gt;
@@ -101,9 +101,9 @@
  
  <entry>
    <title>Conheça os games selecionados no BIG Starter 2015</title>
-   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
+   <link href="//2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
    <updated>2015-06-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
+   <id>//2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;
 , evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.&lt;/p&gt;
 
@@ -155,9 +155,9 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;

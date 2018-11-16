@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - ps2</title>
- <link href="http://example.com/tags/ps2/index.xml" rel="self"/>
- <link href="http://example.com/tag/ps2.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/ps2.html</id>
+ <title>jogosdaqui - ps2</title>
+ <link href="//tags/ps2/index.xml" rel="self"/>
+ <link href="/tag/ps2.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/ps2.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Lançamento mundial do jogo Xiaolin Showdown</title>
-   <link href="http://example.com/2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown"/>
+   <link href="//2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown"/>
    <updated>2006-11-24T00:00:00-02:00</updated>
-   <id>http://example.com/2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown</id>
+   <id>//2006/11/24/lancamento-mundial-do-jogo-xiaolin-showdown</id>
    <content type="html">&lt;p&gt;Lançamento mundial do jogo Xiaolin Showdown com participação da Southlogic Studios no dia 24 de novembro de 2006.&lt;br /&gt; &lt;br /&gt;O lançamento mundial do jogo &quot;Xiaolin Showdown&quot;, para as plataformas: PS2, DS, PSP e XBOX. O jogo é baseado no desenho animado da Warner Bros, que aqui no Brasil se chama Duelo Xiaolin. O desenho passa no canal do Cartoon Network, SBT e na Warner Channel nos EUA. A empresa gaucha Southlogic Studios, foi a responsável pela versão XBox do jogo. O desenvolvimento foi da BottleRocket e a distribuição da Konami.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;O jogo:&lt;/span&gt;&lt;br /&gt;O jogador guia um monge do kung fu e três guerreiros especialistas em artes marciais, em uma missão para encontrar e proteger os Shen-Gong-Wu, objetos místicos que dão superpoderes ao seu proprietário. Os vilões da parada são liderados Jack Spicer, que tem ao seu lado um exército de robôs e uma bruxa chamada Wuya.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -26,9 +26,9 @@
  
  <entry>
    <title>Southlogic participa de jogo para PS2 e Xbox</title>
-   <link href="http://example.com/2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox"/>
+   <link href="//2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox"/>
    <updated>2006-04-12T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox</id>
+   <id>//2006/04/12/southlogic-participa-de-jogo-para-ps2-e-xbox</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=25&quot;&gt;Southlogic&lt;/a&gt;
  foi parceira da empresa Eutechnyx no desenvolvimento dos níveis do jogo para PlayStation 2 e Xbox: Hummer Badlands.&lt;br /&gt;&lt;br /&gt;Hummer Badlands é distribuído pela Global Star Software, uma subdivisão da Take 2 Interactive.&lt;/p&gt;
 </content>

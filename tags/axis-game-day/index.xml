@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - axis-game-day</title>
- <link href="http://example.com/tags/axis-game-day/index.xml" rel="self"/>
- <link href="http://example.com/tag/axis-game-day.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/axis-game-day.html</id>
+ <title>jogosdaqui - axis-game-day</title>
+ <link href="//tags/axis-game-day/index.xml" rel="self"/>
+ <link href="/tag/axis-game-day.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/axis-game-day.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #2</title>
-   <link href="http://example.com/2015/04/18/checkpoint-2"/>
+   <link href="//2015/04/18/checkpoint-2"/>
    <updated>2015-04-18T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/18/checkpoint-2</id>
+   <id>//2015/04/18/checkpoint-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/04/17/axis-game-day&quot;&gt;O evento AXIS Game Day, que acontece hoje, com diversas palestras de gamedevs brasileiros&lt;/a&gt;&lt;/p&gt;
 
@@ -31,9 +31,9 @@
  
  <entry>
    <title>Axis Game Day</title>
-   <link href="http://example.com/2015/04/17/axis-game-day"/>
+   <link href="//2015/04/17/axis-game-day"/>
    <updated>2015-04-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/17/axis-game-day</id>
+   <id>//2015/04/17/axis-game-day</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.axis.art.br&quot; target=&quot;_blank&quot;&gt;AXIS-Gnomon School of Visual Effects&lt;/a&gt;
  realizará amanhã, dia 18/04/15, o AXIS Game Day.&lt;/p&gt;
 

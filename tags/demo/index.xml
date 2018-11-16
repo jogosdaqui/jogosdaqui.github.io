@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - demo</title>
- <link href="http://example.com/tags/demo/index.xml" rel="self"/>
- <link href="http://example.com/tag/demo.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/demo.html</id>
+ <title>jogosdaqui - demo</title>
+ <link href="//tags/demo/index.xml" rel="self"/>
+ <link href="/tag/demo.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/demo.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>ZombieZoid - Zenith</title>
-   <link href="http://example.com/2015/10/07/zombiezoid-zenith"/>
+   <link href="//2015/10/07/zombiezoid-zenith"/>
    <updated>2015-10-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/10/07/zombiezoid-zenith</id>
+   <id>//2015/10/07/zombiezoid-zenith</id>
    <content type="html">&lt;p&gt;Se você é fã dos filmes de zumbi de George A. Romero, como os clássicos A Noite dos Mortos  Vivos (Night of the Living Dead) e Despertar dos Mortos (Dawn of the Dead), mas também gosta de um bom toque de humor como o filme Todo Mundo Quase Morto (Shaun of the Dead) de Edgar Wright, então o jogo que a brasileira Adhoc Games passou dois anos desenvolvendo foi feito pra você.&lt;/p&gt;
 
 &lt;h2 id=&quot;zombiezoid---zenith&quot;&gt;ZombieZoid - Zenith&lt;/h2&gt;
@@ -43,9 +43,9 @@
  
  <entry>
    <title>RacketBoy da Double Dash Studios</title>
-   <link href="http://example.com/2015/08/20/racketboy-da-double-dash-studios"/>
+   <link href="//2015/08/20/racketboy-da-double-dash-studios"/>
    <updated>2015-08-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/20/racketboy-da-double-dash-studios</id>
+   <id>//2015/08/20/racketboy-da-double-dash-studios</id>
    <content type="html">&lt;p&gt;Lembra de Breakout de 1972, clássico game que deu origem ao estilo de games de quebrar blocos, seguido por outros clássicos como Arkanoid de 1986?&lt;/p&gt;
 
 &lt;p&gt;O que talvez você não saiba é que o game de 72 para o Atari 2600 foi desenvolvido por Steve Wozniak com uma ajuda de Steve Jobs, isso mesmo, os fundadores da Apple.&lt;/p&gt;
@@ -79,9 +79,9 @@
  
  <entry>
    <title>Bundle de 30 games brasileiros totalmente gratuitos</title>
-   <link href="http://example.com/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos"/>
+   <link href="//2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos"/>
    <updated>2015-08-18T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos</id>
+   <id>//2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.splitplay.com/&quot; target=&quot;_blank&quot;&gt;Splitplay&lt;/a&gt;
  começa hoje a promoção de 30 games brasileiros que somados custam mais de R$ 120,00, mas que entre as 10:00 e as 16:00 estarão completamente gratuitos.&lt;/p&gt;
 
@@ -113,9 +113,9 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Crowdfunding de 99Vidas o jogo</title>
-   <link href="http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
+   <link href="//2015/07/31/crowdfunding-de-99vidas-o-jogo"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
+   <id>//2015/07/31/crowdfunding-de-99vidas-o-jogo</id>
    <content type="html">&lt;p&gt;O que Final Fight, Double Dragon e Streets of Rage tem em comum com o novo projeto da brasileira QUByte Interactive? Todos eles são games do estilo beat’em up, grandes clássicos e referências para qualquer game do gênero.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://99vidas.com.br/jogo&quot; target=&quot;_blank&quot;&gt;99Vidas o jogo&lt;/a&gt;
@@ -144,9 +144,9 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Crowdfunding de Satellite Rush</title>
-   <link href="http://example.com/2015/07/21/crowdfunding-de-satellite-rush"/>
+   <link href="//2015/07/21/crowdfunding-de-satellite-rush"/>
    <updated>2015-07-21T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/21/crowdfunding-de-satellite-rush</id>
+   <id>//2015/07/21/crowdfunding-de-satellite-rush</id>
    <content type="html">&lt;p&gt;Quando postamos sobre &lt;a href=&quot;/2014/05/22/splitplay-apresenta-satellite-rush/&quot; target=&quot;_blank&quot;&gt;Satellite Rush&lt;/a&gt;
  em 2014, o game da carioca Kimeric Labs estava apenas iniciando sua pre-order na loja brasileira &lt;a href=&quot;http://www.splitplay.com.br&quot; target=&quot;_blank&quot;&gt;SplitPlay&lt;/a&gt;
 , agora a gamedev indie está buscando financiamento coletivo através do &lt;a href=&quot;https://www.kickstarter.com/projects/680602475/satellite-rush-sci-fi-roguelike-shooter&quot; target=&quot;_blank&quot;&gt;Kickstarter&lt;/a&gt;
@@ -178,9 +178,9 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Demo Reel da Odin Game Studio</title>
-   <link href="http://example.com/2015/05/14/demo-reel-da-odin-game-studio"/>
+   <link href="//2015/05/14/demo-reel-da-odin-game-studio"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/14/demo-reel-da-odin-game-studio</id>
+   <id>//2015/05/14/demo-reel-da-odin-game-studio</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
 , gamedev brasileira conhecida por games como &lt;a title=&quot;Heist and Run&quot; href=&quot;/2013/04/11/heist-and-run/&quot;&gt;Heist and Run&lt;/a&gt;
 , liberou um demo reel com alguns de seus games produzidos e em produção até o momento.&lt;/p&gt;
@@ -202,9 +202,9 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>TurboLink aprovado no Steam Greenlight</title>
-   <link href="http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
+   <link href="//2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
+   <id>//2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
    <content type="html">&lt;p&gt;Acabamos de receber uma grande notícia: TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=429961096&quot; target=&quot;_blank&quot;&gt;Greenlight&lt;/a&gt;
 , ou seja, num futuro próximo devemos ter esse belo jogo de corrida high-tech no Steam.&lt;/p&gt;
 
@@ -232,9 +232,9 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>Lançada a demo de TurboLink</title>
-   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
+   <link href="//2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
+   <id>//2015/04/23/lancado-a-demo-de-turbolink</id>
    <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot;&gt;demo pública&lt;/a&gt; do game que está em votação no &lt;a href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Os jogadores poderão testar a demo com um torneio de 6 pistas, 4 carros, suporte ao controle do Xbox 360 e a implementação inicial da inteligência artificial do game.&lt;/p&gt;
@@ -247,9 +247,9 @@ Podcast99 Vidas - O Jogo:Demo&lt;/p&gt;
  
  <entry>
    <title>BRING #4 - Mostra Brasiliense de Indie Games</title>
-   <link href="http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games"/>
+   <link href="//2015/04/07/bring-4-mostra-brasiliense-de-indie-games"/>
    <updated>2015-04-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games</id>
+   <id>//2015/04/07/bring-4-mostra-brasiliense-de-indie-games</id>
    <content type="html">&lt;p&gt;A BRING, Mostra Brasiliense de Indie Games chega na sua quarta edição que será realizada na Indie House da Behold Studios, Otus Game Studio e BadMinions, estúdios que resolveram compartilhar um espaço comum de trabalho.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Para os jogadores:&lt;/strong&gt;
@@ -276,9 +276,9 @@ Prazo para inscrição dos jogos é 08 de abril. Podem ser inscritos jogos em al
  
  <entry>
    <title>Demo do Mr. Bree+ no Greenlight</title>
-   <link href="http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight"/>
+   <link href="//2013/06/03/demo-do-mr-bree-no-greenlight"/>
    <updated>2013-06-03T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight</id>
+   <id>//2013/06/03/demo-do-mr-bree-no-greenlight</id>
    <content type="html">&lt;p&gt;O time da &lt;a href=&quot;http://tawstudio.com/&quot; target=&quot;_blank&quot;&gt;TawStudio&lt;/a&gt;
  deu mais um importante passo na sua  campanha no Greenlight para levar o game &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-02_19_08_27-154784552-0&quot; target=&quot;_blank&quot;&gt;Mr. Bree+&lt;/a&gt;
  ao Steam.&lt;/p&gt;
@@ -298,9 +298,9 @@ Prazo para inscrição dos jogos é 08 de abril. Podem ser inscritos jogos em al
  
  <entry>
    <title>Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</title>
-   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
+   <link href="//2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
    <updated>2013-01-02T00:00:00-02:00</updated>
-   <id>http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
+   <id>//2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
    <content type="html">&lt;p&gt;No final de 2012 fizemos uma enquete perguntando &amp;gt; Quais games desenvolvidos no Brasil você jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.
 &lt;br /&gt; Para mostrar o resultado a vocês, montamos a lista abaixo mostrando um vídeo de cada um dos games.&lt;br /&gt;
 Confiram!
@@ -374,9 +374,9 @@ Confiram!
  
  <entry>
    <title>Novidades sobre My Country, My Name</title>
-   <link href="http://example.com/2011/03/28/novidades-sobre-my-country-my-name"/>
+   <link href="//2011/03/28/novidades-sobre-my-country-my-name"/>
    <updated>2011-03-28T00:00:00-03:00</updated>
-   <id>http://example.com/2011/03/28/novidades-sobre-my-country-my-name</id>
+   <id>//2011/03/28/novidades-sobre-my-country-my-name</id>
    <content type="html">&lt;p&gt;O produtor Alexandre Ribeiro de Sá, da empresa &lt;a href=&quot;http://vortexgamestudios.com.br&quot; target=&quot;_blank&quot;&gt;Vortex Game Studios&lt;/a&gt;
 , entrou em contato conosco trazendo duas novidades sobre o game em desenvolvimento My County, My Name.&lt;/p&gt;
 
@@ -395,9 +395,9 @@ Confiram!
  
  <entry>
    <title>Preview de Talbot&#39;s Odissey</title>
-   <link href="http://example.com/2011/02/18/preview-de-talbots-odissey"/>
+   <link href="//2011/02/18/preview-de-talbots-odissey"/>
    <updated>2011-02-18T00:00:00-02:00</updated>
-   <id>http://example.com/2011/02/18/preview-de-talbots-odissey</id>
+   <id>//2011/02/18/preview-de-talbots-odissey</id>
    <content type="html">&lt;font size=&quot;2&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Luiz Damasceno (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/lcdjr&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@lcdjr&lt;/span&gt;&lt;/a&gt;
 &amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olabora&amp;#231;&amp;#227;o para o jogosdaqui.&lt;/span&gt;&lt;/font&gt;
 
@@ -425,9 +425,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Totem Destroyer para plataformas móveis</title>
-   <link href="http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis"/>
+   <link href="//2011/01/26/totem-destroyer-para-plataformas-moveis"/>
    <updated>2011-01-26T00:00:00-02:00</updated>
-   <id>http://example.com/2011/01/26/totem-destroyer-para-plataformas-moveis</id>
+   <id>//2011/01/26/totem-destroyer-para-plataformas-moveis</id>
    <content type="html">&lt;p&gt;A produtora brasileira &lt;a href=&quot;http://www.catsinthesky.com.br/&quot; target=&quot;_blank&quot;&gt;Cats in the Sky&lt;/a&gt;
  anunciou que seu puzzle baseado em física, Totem Destroyer, será lançado para plataformas móveis, entre as já confirmadas estão: iPhone, iPad e celulares/tablets com o sistema operacional Android.&lt;/p&gt;
 
@@ -445,9 +445,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Trailer de lançamento de Cargo Delivery</title>
-   <link href="http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery"/>
+   <link href="//2010/12/06/trailer-de-lancamento-de-cargo-delivery"/>
    <updated>2010-12-06T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/06/trailer-de-lancamento-de-cargo-delivery</id>
+   <id>//2010/12/06/trailer-de-lancamento-de-cargo-delivery</id>
    <content type="html">&lt;p&gt;O estúdio Cats in the Sky liberou o trailer de lançamento do game Cargo Delivery.&lt;/p&gt;
 
 &lt;center&gt;
@@ -466,9 +466,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Esquadrão Zumbi</title>
-   <link href="http://example.com/2006/09/05/esquadrao-zumbi"/>
+   <link href="//2006/09/05/esquadrao-zumbi"/>
    <updated>2006-09-05T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/05/esquadrao-zumbi</id>
+   <id>//2006/09/05/esquadrao-zumbi</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=65&quot;&gt;Edward Multimídia&lt;/a&gt;
  está produzindo um jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=17&quot;&gt;tiro em 1a pessoa&lt;/a&gt;
  multiplayer onde esquadrões de elite da polícia paulistana, como: Garra, Goe, Rota, Tropa de Choque e Resgate enfrentam facções criminosas bem conhecidas da população brasileira.&lt;br /&gt; &lt;br /&gt; Entre os cenários estão estacão Sé do metrô, agências bancárias, conjunto cingapura, shopping centers e penitenciárias.&lt;br /&gt; &lt;br /&gt; Ainda sem previsão de lançamento, Esquadrão Zumbi deve ganhar uma versão demo até o fim de setembro.&lt;br /&gt; &lt;br /&gt; Veja algumas imagens do jogo em desenvolvimento:&lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
@@ -477,9 +477,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Lista de projetos do JogosBR 2005/2006</title>
-   <link href="http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
+   <link href="//2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
    <updated>2006-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
+   <id>//2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
    <content type="html">&lt;p&gt;As listas de projetos enviados para os concursos do JogosBR 2005/2006 foi liberada, confira abaixo os gráficos de projetos por estado e as listas completas:
 &lt;br /&gt;&lt;/p&gt;
 
@@ -498,18 +498,18 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prorrogado o resultado do JogosBR 2005/2006</title>
-   <link href="http://example.com/2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006"/>
+   <link href="//2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006"/>
    <updated>2006-05-16T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006</id>
+   <id>//2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006</id>
    <content type="html">&lt;p&gt;Previsto para o dia 19 de maio, o resultado dos Concursos de Demo Jogável e Jogos de Baixo Orçamento do JogosBR será prorrogado até o dia 07 de junho.&lt;br /&gt;&lt;br /&gt;Uma das razões da prorrogação é a suspensão do julgamento dos projetos, por dois dias, em razão dos últimos acontecimentos na cidade de São Paulo.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Ludusware começa suas atividades</title>
-   <link href="http://example.com/2006/05/15/ludusware-comeca-suas-atividades"/>
+   <link href="//2006/05/15/ludusware-comeca-suas-atividades"/>
    <updated>2006-05-15T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/15/ludusware-comeca-suas-atividades</id>
+   <id>//2006/05/15/ludusware-comeca-suas-atividades</id>
    <content type="html">&lt;p&gt;A empresa Ludusware - Eletronic Entertainment Solutions, uma das mais novas empresas brasileiras de desenvolvimento de jogos, iniciou suas atividades no início deste mês.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;A empresa, focada no desenvolvimento de jogos 3D para &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idp=1&quot;&gt;PC&lt;/a&gt;
@@ -520,9 +520,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia: Incorporated, demo do JogosBR 2004/2005</title>
-   <link href="http://example.com/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005"/>
+   <link href="//2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005</id>
+   <id>//2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005</id>
    <content type="html">&lt;p&gt;Incorporated foi um dos projetos vencedores para a produção de uma demo jogável no JogosBR 2004/2005.&lt;br /&gt;&lt;br /&gt;A empresa Interama, responsável pela demo, acaba de liberar informações e um vídeo sobre a demo.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=380&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -530,9 +530,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Inscrições encerradas no JogosBR</title>
-   <link href="http://example.com/2006/05/10/inscricoes-encerradas-no-jogosbr"/>
+   <link href="//2006/05/10/inscricoes-encerradas-no-jogosbr"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/10/inscricoes-encerradas-no-jogosbr</id>
+   <id>//2006/05/10/inscricoes-encerradas-no-jogosbr</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=jogosbr&quot;&gt;JogosBR&lt;/a&gt;
  encerrou, a meia-noite, as inscrições para os Concursos de Demo Jogável e Jogos de Baixo Orçamento.&lt;br /&gt;Os projetos serão avaliados por uma comissão julgadora.&lt;br /&gt;&lt;br /&gt;Agora é esperar o dia 19 de maio, para conhecermos os vencedores.&lt;/p&gt;
 </content>
@@ -540,9 +540,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Incorporated</title>
-   <link href="http://example.com/2006/05/10/incorporated"/>
+   <link href="//2006/05/10/incorporated"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/10/incorporated</id>
+   <id>//2006/05/10/incorporated</id>
    <content type="html">&lt;p&gt;A empresa Interama foi formada a partir do projeto &quot;Emprego Maluco&quot;, um dos projetos vencedores para produção de uma demo jogável do JogosBR do ano passado.&lt;br /&gt;&lt;br /&gt;Incorporated era conhecido na época da aprovação do JogosBR como &quot;Emprego Maluco&quot;, porém o nome foi alterado por razões comerciais e de direitos autorais.&lt;br /&gt;&lt;br /&gt;Este é o primeiro jogo da empresa, que também já fechou outros projetos para esse ano.&lt;br /&gt;&lt;br /&gt;Incorporated é um simulador de carreiras empresariais, onde o jogador cria um personagem que começa como estagiário numa grande empresa. O personagem progride em sua carreira de acordo com seu desempenho profissional, medido pelos relacionamentos com os colegas e pelo rápido cumprimento dos trabalhos. Vive desde momentos de pressão a situações cômicas do dia-a-dia empresarial. O objetivo é se aposentar na Presidência da empresa.&lt;br /&gt;&lt;br /&gt;Na demo finalizada pela Interama para o JogosBR, o jogador vivencia o início de sua carreira, como estagiário da empresa. O demo acaba com sua promoção ou demissão.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
 Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra qualidade na movimentação da câmera e na animação dos personagens, além de uma ótima interface.&lt;br /&gt;&lt;br /&gt;Aos poucos, as demos do primeiro JogosBR vão mostrando ao que vieram, e pelo que podemos ver por Incorporated teremos boas e belas novidades em breve.&lt;br /&gt;&lt;/p&gt;
 
@@ -554,9 +554,9 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>Primeiras imagens de Capoeira</title>
-   <link href="http://example.com/2006/03/27/primeiras-imagens-de-capoeira"/>
+   <link href="//2006/03/27/primeiras-imagens-de-capoeira"/>
    <updated>2006-03-27T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/27/primeiras-imagens-de-capoeira</id>
+   <id>//2006/03/27/primeiras-imagens-de-capoeira</id>
    <content type="html">&lt;p&gt;Capoeira, um dos 8 projetos vencedores para o desenvolvimento de uma demo jogável do JogosBR 2004, mostra suas primeiras imagens.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=328&quot;&gt;Confira…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -564,27 +564,27 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>Capoeira</title>
-   <link href="http://example.com/2006/03/27/capoeira"/>
+   <link href="//2006/03/27/capoeira"/>
    <updated>2006-03-27T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/27/capoeira</id>
+   <id>//2006/03/27/capoeira</id>
    <content type="html">&lt;p&gt;Capoeira foi um dos 8 projetos vencedores para o desenvolvimento de uma demo jogável do JogosBR de 2004.&lt;br /&gt;&lt;br /&gt;Segundo Andre Ivankio Hauer Ploszaj, coordenador do projeto, as 4 imagens abaixo não são da fase atual de desenvolvimento da demo. &lt;br /&gt;&lt;br /&gt;Pelo que podemos ver nessas imagens preliminares, o projeto promete tornar-se um belo jogo.&lt;br /&gt;&lt;br /&gt;Em breve devem ser publicadas novas imagens de Capoeira.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Concurso de Idéias do JogosBR</title>
-   <link href="http://example.com/2006/02/14/concurso-de-ideias-do-jogosbr"/>
+   <link href="//2006/02/14/concurso-de-ideias-do-jogosbr"/>
    <updated>2006-02-14T00:00:00-02:00</updated>
-   <id>http://example.com/2006/02/14/concurso-de-ideias-do-jogosbr</id>
+   <id>//2006/02/14/concurso-de-ideias-do-jogosbr</id>
    <content type="html">&lt;p&gt;Se você além de gostar de jogar, também é criativo e gostaria de publicar uma idéia de algum jogo, então corra que &lt;span style=&quot;font-weight: bold;&quot;&gt;amanhã&lt;/span&gt; (15/02) é último dia para inscrever ela na Segunda Edição do Concurso JogosBR - 2005/06. Agora se você, além disto, também gostaria de desenvolver um DEMO de jogo, então fique ligado que a inscrição para esta categoria irá iniciar no dia 2 de março (02/03).&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.jogosbr.org.br/&quot;&gt;Acesse já o site do JogosBR cliquando aqui&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Prévia de Winguel</title>
-   <link href="http://example.com/2005/12/07/previa-de-winguel"/>
+   <link href="//2005/12/07/previa-de-winguel"/>
    <updated>2005-12-07T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/07/previa-de-winguel</id>
+   <id>//2005/12/07/previa-de-winguel</id>
    <content type="html">&lt;p&gt;Winguel é um simpático alienígena que, ao passear por Marte, encontra uma sonda terráquea e resolve devolvê-la aos humanos na terra.&lt;/p&gt;
 
 &lt;p&gt;Ao chegar em órbita terrestre, a nave de Winguel é atacada pela WUC (World UFO Control).&lt;/p&gt;
@@ -625,9 +625,9 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Winguel, novo jogo Nacional</title>
-   <link href="http://example.com/2005/11/30/winguel-novo-jogo-nacional"/>
+   <link href="//2005/11/30/winguel-novo-jogo-nacional"/>
    <updated>2005-11-30T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/30/winguel-novo-jogo-nacional</id>
+   <id>//2005/11/30/winguel-novo-jogo-nacional</id>
    <content type="html">&lt;p&gt;A empresa gaúcha Espaço informática está apresentando um novo jogo que será lançado na Europa e Brasil no primeiro trimestre de 2006. O jogo chama-se Winguel na verdade é um centro de atividades com cinco jogos, além de materiais extra como impressões e papéis de parede.Na história do jogo, Winguel é um alien que encontra uma das sondas humanas que hoje estão explorando o planeta de Marte. Winguel resolve devolver o objeto para a Terra, mas quando se aproxima de nosso planeta é pego pelos radares da WUC (Controle Mundial de Ovinis), que resolvem atacá-lo. A nave de Winguel é acertada por um míssil da WUC e se parte em alguns pedaços. Você precisa ajudar Winguel a recuperar as peças da nave, e assim voltar para casa. Vencendo todos jogos você recupera todas as peças.&lt;/p&gt;
 
 &lt;p&gt;Os cinco jogos que compõe o pacote têm estilos e jogabilidade diferentes, mas em comum tem a facilidade de jogo. Projetado para jogadores casuais de todas as idades acima de seis anos, o jogo não apresenta violência explícita. Entre os games encontramos algumas releituras de antigos jogos que foram sucesso, só que agora com uma roupagem nova, em um visual completamente 3D. Jogos de labirinto, onde você tem que evitar os agentes da WUC, recolher itens e chaves para completar as fases, além de bônus para aumentar sua pontuação. Completando o pacote na seção de extras, que são liberados com a conclusão dos jogos, o usuário encontra wallpapers, desenhos para colorir e modelos para recortar e colar, que irão aumentar ainda mais a diversão da garotada.&lt;/p&gt;
@@ -657,9 +657,9 @@ No Brasil, apesar de ter sido anunciado para o final de Setembro o jogo acabou n
  
  <entry>
    <title>Matchball Tennis</title>
-   <link href="http://example.com/2005/09/20/matchball-tennis"/>
+   <link href="//2005/09/20/matchball-tennis"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/20/matchball-tennis</id>
+   <id>//2005/09/20/matchball-tennis</id>
    <content type="html">&lt;p&gt;Jogo de tênis desenvolvido pela empresa gaúcha Espaço Informática para o mercado brasileiro e europeu.
 &lt;span style=&quot;font-weight: bold;&quot;&gt;Jogabilidade Total
 &lt;/span&gt;Matchball apresenta uma nova maneira de controle, onde guias, que auxiliam o seu jogo, são apresentadas de forma sem precedentes. Você observa guias que auxiliam sua mira, e outros indicadores que auxiliam no seu posicionamento em quadra. Você pode jogar pelo teclado, mouse, joystick e ainda pode configurar as teclas se preferir.&lt;/p&gt;

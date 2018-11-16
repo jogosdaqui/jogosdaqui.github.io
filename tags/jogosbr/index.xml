@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - jogosbr</title>
- <link href="http://example.com/tags/jogosbr/index.xml" rel="self"/>
- <link href="http://example.com/tag/jogosbr.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/jogosbr.html</id>
+ <title>jogosdaqui - jogosbr</title>
+ <link href="//tags/jogosbr/index.xml" rel="self"/>
+ <link href="/tag/jogosbr.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/jogosbr.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>JogosBR anuncia Lançamento das demos</title>
-   <link href="http://example.com/2006/12/01/jogosbr-anuncia-lancamento-das-demos"/>
+   <link href="//2006/12/01/jogosbr-anuncia-lancamento-das-demos"/>
    <updated>2006-12-01T00:00:00-02:00</updated>
-   <id>http://example.com/2006/12/01/jogosbr-anuncia-lancamento-das-demos</id>
+   <id>//2006/12/01/jogosbr-anuncia-lancamento-das-demos</id>
    <content type="html">&lt;p&gt;Depois de alguns meses sem notícias, a coordenação do &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=jogosbr&quot;&gt;JogosBR&lt;/a&gt;
  anunciou, no site do concurso, que o evento de lançamento das demos jogáveis e dos jogos completos de baixo orçamento está previsto para o período entre final de janeiro e início de fevereiro de 2007.&lt;br /&gt;&lt;br /&gt;Segundo a mesma nota, a Educine juntamente com o Ministério da Cultura estará buscando o recurso para a realização do mesmo.&lt;/p&gt;
 </content>
@@ -21,18 +21,18 @@
  
  <entry>
    <title>Vencedores do JogosBR 2006</title>
-   <link href="http://example.com/2006/06/20/vencedores-do-jogosbr-2006"/>
+   <link href="//2006/06/20/vencedores-do-jogosbr-2006"/>
    <updated>2006-06-20T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/20/vencedores-do-jogosbr-2006</id>
+   <id>//2006/06/20/vencedores-do-jogosbr-2006</id>
    <content type="html">&lt;p&gt;Veja as listas dos vencedores dos concursos do JogosBR edição 2006:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Demos Jogáveis&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Brasilia Tropicalis (Thiago Salgado Aiache de Moraes)&lt;br /&gt;Conspiração Dumont (Guilherme Mattos Coutinho)&lt;br /&gt;Flora    (Francisco Oliveira de Queiroz)&lt;br /&gt;Fórmula Galaxy (Artur Corrêa)&lt;br /&gt;Inferno (Alexandre Vrubel)&lt;br /&gt;Léx (Tiago Pinheiro Teixeira)&lt;br /&gt;Trem de Doido (Marcos André Penna Coutinho)&lt;br /&gt;Zumbi, o rei dos Palmares (Nicholas Lima de Souza)&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Lista de Reserva    &lt;/span&gt;&lt;br /&gt;Amazônia - O Feitiço das Águas (Raphael Dias Duarte Fernandes)&lt;br /&gt;Projeto FRONTEIRA (Jorge Adriano Luna)&lt;br /&gt;Roça em Pé de Guerra (Márcio Rodrigo Viana Araújo)&lt;br /&gt;Santos Dumont - A Conquista do Ar (Marcos Cuzziol)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Jogos Completos de Baixo Orçamento&lt;/span&gt;&lt;br /&gt;Deuses do Tabuleiro - O Juízo Final (Archias Alves de Almeida Filho)&lt;br /&gt;Peixis! A disputa subaquatica! (Wallace Santos Lages)&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Lista de Reserva    &lt;/span&gt;&lt;br /&gt;CaveDays (Winston George A. Petty)&lt;br /&gt;Maggie (Luiz Manoel Gerosa)&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Anunciados os vencedores do JogosBR 2006</title>
-   <link href="http://example.com/2006/06/20/anunciados-os-vencedores-do-jogosbr-2006"/>
+   <link href="//2006/06/20/anunciados-os-vencedores-do-jogosbr-2006"/>
    <updated>2006-06-20T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/20/anunciados-os-vencedores-do-jogosbr-2006</id>
+   <id>//2006/06/20/anunciados-os-vencedores-do-jogosbr-2006</id>
    <content type="html">&lt;p&gt;A organização do JogosBR anunciou os vencedores da edição 2006 dos concursos de Demos Jogáveis e Jogos Completos de Baixo Orçamento.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=434&quot;&gt;Veja os vencedores…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -40,9 +40,9 @@
  
  <entry>
    <title>Demos Jogáveis do JogosBR, projetos classificados</title>
-   <link href="http://example.com/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados"/>
+   <link href="//2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados"/>
    <updated>2006-06-04T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados</id>
+   <id>//2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados</id>
    <content type="html">&lt;p&gt;Após anunciar os &lt;a href=&quot;/index.php?p=c&amp;amp;id=417&quot;&gt;18 projetos classificados&lt;/a&gt;
  do Concurso de Jogos Completos de Baixo Orçamento, o JogosBR divulga a lista dos 36 projetos classificados para o Concurso de Demos Jogáveis.&lt;br /&gt;&lt;br /&gt;A comissão julgadora selecionará os 8 melhores projetos e mais 4 projetos para a lista de espera.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Confira a lista dos 36 classificados:&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;1 - 1000 Gols: Um Craque Virtual&lt;br /&gt;Helio Galvão Ciffoni&lt;br /&gt;Malisoft Tecnologies&lt;br /&gt;Curitiba - PR&lt;br /&gt;&lt;br /&gt;2 - Amazônia - O Feitiço das Águas&lt;br /&gt;Raphael Dias Duarte Fernandes&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;3 - Anagramas do Professor Corujoão&lt;br /&gt;João Magalhães Vieira de Mello Neto&lt;br /&gt;Icorp&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;4 - Aruanda: Aprendendo com os Orixás&lt;br /&gt;Alfredo Goés Villas-Bôas&lt;br /&gt;Itabuna - BA&lt;br /&gt;&lt;br /&gt;5 - AuZar, em Busca de Osíris&lt;br /&gt;João Ricardo Bittencourt&lt;br /&gt;Gravataí - RS&lt;br /&gt;&lt;br /&gt;6 - BiXo&lt;br /&gt;Rafael Heffer Cavaletti&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;7 - Brasilia Tropicalis&lt;br /&gt;Thiago Salgado Aiache de Moraes&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;8 - Cofre das Trevas&lt;br /&gt;Eric Morata&lt;br /&gt;Estúdio Luminar&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;9 - Conspiração Dumont&lt;br /&gt;Guilherme Mattos Coutinho&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;10 - Cool (Colegial OnLine)&lt;br /&gt;Rogério de Leon Pereira&lt;br /&gt;FourX Development Ltda&lt;br /&gt;Maringá - PR&lt;br /&gt;&lt;br /&gt;11 - Dó Ré Mi Fábula&lt;br /&gt;Maximiliano Selmi Marques&lt;br /&gt;São Carlos - SP&lt;br /&gt;&lt;br /&gt;12 - Escovadaço&lt;br /&gt;Luiz Edmundo Lopes Mizutani&lt;br /&gt;Edworld - Serviço de Informática&lt;br /&gt;São José dos Campos - SP&lt;br /&gt;&lt;br /&gt;13 - Fábrica de Tudo&lt;br /&gt;Rodrigo Monteiro Pedrosa&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;14 - Flora&lt;br /&gt;Francisco Oliveira de Queiroz&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;15 - Fórmula Galaxy&lt;br /&gt;Aguardando confirmação dos dados&lt;br /&gt;&lt;br /&gt;16 - Fuga de Anhatomirim&lt;br /&gt;Robson Jorge de Matos / Dennis Kerr Coelho&lt;br /&gt;PalmSoft Tecnologia e Desenvolvimentode Software LTDA&lt;br /&gt;Florianópolis - SC&lt;br /&gt;&lt;br /&gt;17 - Futebol de Botão&lt;br /&gt;José Lucio Mattos da Gama&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;18 - Inferno&lt;br /&gt;Alexandre Vrubel&lt;br /&gt;Continuum Entertainment Ltda.&lt;br /&gt;Curitiba - PR&lt;br /&gt;&lt;br /&gt;19 - Kalua: Start-Up Tycoon&lt;br /&gt;Winston George A. Petty&lt;br /&gt;Insólita Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;20 - Kuran&lt;br /&gt;Philip Sciangula Berick Mangione&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;21 - Léx&lt;br /&gt;Tiago Pinheiro Teixeira&lt;br /&gt;Interama Jogos Eletrônicos&lt;br /&gt;Vitória - ES&lt;br /&gt;&lt;br /&gt;22 - Memo Yumi, um Aprendiz do Horóscopo Chinês&lt;br /&gt;Denise Adriana Bandeira&lt;br /&gt;Malisoft Tecnologies&lt;br /&gt;Curitiba - PR&lt;br /&gt;&lt;br /&gt;23 - MúsicoSIM!&lt;br /&gt;Francisco José Fontes Filho&lt;br /&gt;Itabuna - BA&lt;br /&gt;&lt;br /&gt;24 - O Cara com a Pá&lt;br /&gt;Karen Zuliani Scaliaris / Silvia Regina Ferreira de Laurentiz&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;25 - Peixis! Uma Disputa Subaquática!&lt;br /&gt;Wallace Santos Lages&lt;br /&gt;Belo Horizonte-MG&lt;br /&gt;&lt;br /&gt;26 - Piolhos - um Jogo com os Pés na Cabeça&lt;br /&gt;Marcia Misawa Marcondes&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;27 - Pipa3D&lt;br /&gt;Julio Cesar Pescuite Goncalves Batista&lt;br /&gt;Campinas - SP&lt;br /&gt;&lt;br /&gt;28 - Prego Futebol&lt;br /&gt;Tereza Genoveva Nascimento Torezani&lt;br /&gt;Itabuna - BA&lt;br /&gt;&lt;br /&gt;29 - Projeto Fronteira&lt;br /&gt;Jorge Adriano Luna&lt;br /&gt;Londrina - PR&lt;br /&gt;&lt;br /&gt;30 - Roça em Pé de Guerra&lt;br /&gt;Márcio Rodrigo Viana Araújo&lt;br /&gt;Jaboatão dos Guararapes - PE&lt;br /&gt;&lt;br /&gt;31 - Santos Dumont - A Conquista do Ar&lt;br /&gt;Marcos Cuzziol&lt;br /&gt;Perceptum Software LTDA&lt;br /&gt;Santo André-SP&lt;br /&gt;&lt;br /&gt;32 - The Xtremers contra o Ciborgue DX&lt;br /&gt;Salus Feferman&lt;br /&gt;Tibet Filme&lt;br /&gt;Rio de Janeiro - RJ&lt;br /&gt;&lt;br /&gt;33 - Transeunte&lt;br /&gt;Vitor Gomes Rodrigues&lt;br /&gt;GreenLang Studios&lt;br /&gt;Guarujá - SP&lt;br /&gt;&lt;br /&gt;34 - Trem de Doido&lt;br /&gt;Marcos André Penna Coutinho&lt;br /&gt;Belo Horizonte - MG&lt;br /&gt;&lt;br /&gt;35 - Três Dentro, Três Fora&lt;br /&gt;Leonardo Gesteira Costa&lt;br /&gt;Manifesto Game Estúdio&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;36 - Zumbi, o Rei dos Palmares&lt;br /&gt;Nicholas Lima de Souza&lt;br /&gt;São Paulo - SP&lt;/p&gt;
 </content>
@@ -50,9 +50,9 @@
  
  <entry>
    <title>JogosBR, 18 projetos classificados</title>
-   <link href="http://example.com/2006/06/02/jogosbr-18-projetos-classificados"/>
+   <link href="//2006/06/02/jogosbr-18-projetos-classificados"/>
    <updated>2006-06-02T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/02/jogosbr-18-projetos-classificados</id>
+   <id>//2006/06/02/jogosbr-18-projetos-classificados</id>
    <content type="html">&lt;p&gt;O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.&lt;br /&gt;&lt;br /&gt;Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=417&quot;&gt;Veja a lista dos projetos classificados…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -60,18 +60,18 @@
  
  <entry>
    <title>Jogos Completos de Baixo Orçamento, 18 projetos classificados</title>
-   <link href="http://example.com/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados"/>
+   <link href="//2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados"/>
    <updated>2006-06-02T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados</id>
+   <id>//2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados</id>
    <content type="html">&lt;p&gt;O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.&lt;br /&gt;&lt;br /&gt;Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Confira a lista dos 18 projetos classificados em ordem alfabética:&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;1 - A Traça Teca - Reconstruindo a História do Brasil&lt;br /&gt;Maíra Valencise Gregolin&lt;br /&gt;Imax Games Entretenimento&lt;br /&gt;São Carlos - SP&lt;br /&gt;&lt;br /&gt;2 - As Aventuras de Kito, o Mico&lt;br /&gt;Augusto César Vilarim Pires&lt;br /&gt;Jynx Playware Ltda&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;3 - CaveDays&lt;br /&gt;Winston George A. Petty&lt;br /&gt;Insólita Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;4 - Deuses do Tabuleiro - O Juízo Final&lt;br /&gt;Archias Alves de Almeida Filho&lt;br /&gt;Devworks Game Technology&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;5 - Direção Furiosa&lt;br /&gt;Davi da Silva Prata&lt;br /&gt;Sant Computação Gráfica&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;6 - Estradas Esburacadas - São Paulo&lt;br /&gt;Sanderson Sousa de Farias&lt;br /&gt;SR-Games&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;7 - La Capitale&lt;br /&gt;Leonardo Pessoa de Moura&lt;br /&gt;Fundação de Fomento à Tecnologia e à Ciência - Virtualize Jogos Eletrônicos (Incubada)&lt;br /&gt;Salvador - BA&lt;br /&gt;&lt;br /&gt;8 - Lobo do Mar: Batalhas Navais para a Libertação da América do Sul&lt;br /&gt;Paulo Candido de Oliveira Filho&lt;br /&gt;Teiaoito Tecnologia Educacional Ltda&lt;br /&gt;São Paulo-SP&lt;br /&gt;&lt;br /&gt;9 - Maggie&lt;br /&gt;Luiz Manoel Gerosa&lt;br /&gt;Interama Jogos Eletrônicos&lt;br /&gt;Vitória-ES&lt;br /&gt;&lt;br /&gt;10 - O Detetive - O Caso Portinari&lt;br /&gt;Tiago Keller Ferreira&lt;br /&gt;Decadium Studios Ltda.&lt;br /&gt;Santa Maria - RS&lt;br /&gt;&lt;br /&gt;11 - Peixis! A disputa Subaquatica!&lt;br /&gt;Wallace Santos Lages&lt;br /&gt;Virsat Sistemas Comerciais&lt;br /&gt;Belo Horizonte - MG&lt;br /&gt;&lt;br /&gt;12 - Shotguns n Goblins - The Shaman will Dead&lt;br /&gt;João Ricardo Bittencourt&lt;br /&gt;Ludens Artis Serviços em Informática Ltda&lt;br /&gt;Gravataí - RS&lt;br /&gt;&lt;br /&gt;13 - Turminha Querubim - Karangas Turbinadas&lt;br /&gt;Clóvis Shimabukuro&lt;br /&gt;Licch - Criação e Desenvolvimento de Materiais Artísticos&lt;br /&gt;Londrina - PR&lt;br /&gt;&lt;br /&gt;14 - Universim&lt;br /&gt;Marco Túlio Caraciolo Ferreira Albuquerque&lt;br /&gt;Manifesto Game Studio&lt;br /&gt;Recife - PE&lt;br /&gt;&lt;br /&gt;15 - V.T.O.L. (Vertical Take Off Landing)&lt;br /&gt;Wagner Carvalho&lt;br /&gt;GreenLang Studios&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;16 - Villa Rica&lt;br /&gt;Alexandre Machado de Sá&lt;br /&gt;44 Bico Largo Multimídia&lt;br /&gt;São Paulo - SP&lt;br /&gt;&lt;br /&gt;17 - Você é o Chefe (The Chief)&lt;br /&gt;Rogério de Leon Pereira&lt;br /&gt;FourX Development Ltda&lt;br /&gt;Maringá - PR&lt;br /&gt;&lt;br /&gt;18 - Warbots3D&lt;br /&gt;Sérgio Imperatriz&lt;br /&gt;Tempo Soluções em Informática LTDA&lt;br /&gt;Campinas - SP&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Lista de projetos do JogosBR 2005/2006</title>
-   <link href="http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
+   <link href="//2006/05/22/lista-de-projetos-do-jogosbr-2005-2006"/>
    <updated>2006-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
+   <id>//2006/05/22/lista-de-projetos-do-jogosbr-2005-2006</id>
    <content type="html">&lt;p&gt;As listas de projetos enviados para os concursos do JogosBR 2005/2006 foi liberada, confira abaixo os gráficos de projetos por estado e as listas completas:
 &lt;br /&gt;&lt;/p&gt;
 
@@ -90,9 +90,9 @@
  
  <entry>
    <title>JogosBR 2005/2006, lista de projetos</title>
-   <link href="http://example.com/2006/05/22/jogosbr-2005-2006-lista-de-projetos"/>
+   <link href="//2006/05/22/jogosbr-2005-2006-lista-de-projetos"/>
    <updated>2006-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/22/jogosbr-2005-2006-lista-de-projetos</id>
+   <id>//2006/05/22/jogosbr-2005-2006-lista-de-projetos</id>
    <content type="html">&lt;p&gt;O JogosBR liberou as relações de projetos enviados para os concursos de Projetos de Demos Jogáveis e Jogos Completos de Baixo Orçamento.&lt;br /&gt;&lt;br /&gt;Dia 7 de junho serão conhecidos os projetos vencedores dessas listas.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=400&quot;&gt;Veja as listas …&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -100,18 +100,18 @@
  
  <entry>
    <title>Prorrogado o resultado do JogosBR 2005/2006</title>
-   <link href="http://example.com/2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006"/>
+   <link href="//2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006"/>
    <updated>2006-05-16T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006</id>
+   <id>//2006/05/16/prorrogado-o-resultado-do-jogosbr-2005-2006</id>
    <content type="html">&lt;p&gt;Previsto para o dia 19 de maio, o resultado dos Concursos de Demo Jogável e Jogos de Baixo Orçamento do JogosBR será prorrogado até o dia 07 de junho.&lt;br /&gt;&lt;br /&gt;Uma das razões da prorrogação é a suspensão do julgamento dos projetos, por dois dias, em razão dos últimos acontecimentos na cidade de São Paulo.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Prévia: Incorporated, demo do JogosBR 2004/2005</title>
-   <link href="http://example.com/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005"/>
+   <link href="//2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005</id>
+   <id>//2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005</id>
    <content type="html">&lt;p&gt;Incorporated foi um dos projetos vencedores para a produção de uma demo jogável no JogosBR 2004/2005.&lt;br /&gt;&lt;br /&gt;A empresa Interama, responsável pela demo, acaba de liberar informações e um vídeo sobre a demo.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=380&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -119,9 +119,9 @@
  
  <entry>
    <title>Inscrições encerradas no JogosBR</title>
-   <link href="http://example.com/2006/05/10/inscricoes-encerradas-no-jogosbr"/>
+   <link href="//2006/05/10/inscricoes-encerradas-no-jogosbr"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/10/inscricoes-encerradas-no-jogosbr</id>
+   <id>//2006/05/10/inscricoes-encerradas-no-jogosbr</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=jogosbr&quot;&gt;JogosBR&lt;/a&gt;
  encerrou, a meia-noite, as inscrições para os Concursos de Demo Jogável e Jogos de Baixo Orçamento.&lt;br /&gt;Os projetos serão avaliados por uma comissão julgadora.&lt;br /&gt;&lt;br /&gt;Agora é esperar o dia 19 de maio, para conhecermos os vencedores.&lt;/p&gt;
 </content>
@@ -129,9 +129,9 @@
  
  <entry>
    <title>Incorporated</title>
-   <link href="http://example.com/2006/05/10/incorporated"/>
+   <link href="//2006/05/10/incorporated"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/10/incorporated</id>
+   <id>//2006/05/10/incorporated</id>
    <content type="html">&lt;p&gt;A empresa Interama foi formada a partir do projeto &quot;Emprego Maluco&quot;, um dos projetos vencedores para produção de uma demo jogável do JogosBR do ano passado.&lt;br /&gt;&lt;br /&gt;Incorporated era conhecido na época da aprovação do JogosBR como &quot;Emprego Maluco&quot;, porém o nome foi alterado por razões comerciais e de direitos autorais.&lt;br /&gt;&lt;br /&gt;Este é o primeiro jogo da empresa, que também já fechou outros projetos para esse ano.&lt;br /&gt;&lt;br /&gt;Incorporated é um simulador de carreiras empresariais, onde o jogador cria um personagem que começa como estagiário numa grande empresa. O personagem progride em sua carreira de acordo com seu desempenho profissional, medido pelos relacionamentos com os colegas e pelo rápido cumprimento dos trabalhos. Vive desde momentos de pressão a situações cômicas do dia-a-dia empresarial. O objetivo é se aposentar na Presidência da empresa.&lt;br /&gt;&lt;br /&gt;Na demo finalizada pela Interama para o JogosBR, o jogador vivencia o início de sua carreira, como estagiário da empresa. O demo acaba com sua promoção ou demissão.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
 Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra qualidade na movimentação da câmera e na animação dos personagens, além de uma ótima interface.&lt;br /&gt;&lt;br /&gt;Aos poucos, as demos do primeiro JogosBR vão mostrando ao que vieram, e pelo que podemos ver por Incorporated teremos boas e belas novidades em breve.&lt;br /&gt;&lt;/p&gt;
 
@@ -143,27 +143,27 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>JogosBR: demos jogáveis 2004/2005</title>
-   <link href="http://example.com/2006/04/28/jogosbr-demos-jogaveis-2004-2005"/>
+   <link href="//2006/04/28/jogosbr-demos-jogaveis-2004-2005"/>
    <updated>2006-04-28T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/28/jogosbr-demos-jogaveis-2004-2005</id>
+   <id>//2006/04/28/jogosbr-demos-jogaveis-2004-2005</id>
    <content type="html">&lt;p&gt;O JogosBR anunciou em seu site, informações sobre as demos do primeiro concurso (2004/2005) de demos jogáveis.&lt;br /&gt;&lt;br /&gt;Segundo a coordenação do JogosBR, as demos foram entregues pelas equipes e agora estão passando por um processo de análise. A empresa Knum 3D avaliará as demos e, caso necessário, as equipes terão um prazo para pequenas correções antes da liberação ao público.&lt;br /&gt;&lt;br /&gt;O &lt;span style=&quot;font-weight: bold; color: rgb(255, 153, 0);&quot;&gt;jogosdaqui&lt;/span&gt; estará acompanhando de perto qualquer novidade sobre as demos, fique ligado!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Comunicado da Abragames</title>
-   <link href="http://example.com/2006/04/25/comunicado-da-abragames"/>
+   <link href="//2006/04/25/comunicado-da-abragames"/>
    <updated>2006-04-25T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/25/comunicado-da-abragames</id>
+   <id>//2006/04/25/comunicado-da-abragames</id>
    <content type="html">&lt;p&gt;A ABRAGAMES publicou um comunicado se posicionando a respeito do concurso JogosBR 2006.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.abragames.com.br/docs/comunicado_jogosbr.html&quot;&gt;Leia o comunicado aqui…&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>JogosBR, prazo final</title>
-   <link href="http://example.com/2006/03/30/jogosbr-prazo-final"/>
+   <link href="//2006/03/30/jogosbr-prazo-final"/>
    <updated>2006-03-30T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/30/jogosbr-prazo-final</id>
+   <id>//2006/03/30/jogosbr-prazo-final</id>
    <content type="html">&lt;p&gt;Dia 3 de abril, próxima segunda-feira, é o prazo final para inscrições nos concursos de Desenvolvimento de Demos Jogavéis e de Jogos Completos do JogosBR 2005/2006.&lt;br /&gt;&lt;br /&gt;As empresas e profissionais que desejarem participar devem se inscrever no site &lt;a href=&quot;http://www.jogosbr.org.br&quot; target=&quot;_blank&quot;&gt;www.jogosbr.org.br&lt;/a&gt;
 .&lt;/p&gt;
 </content>
@@ -171,9 +171,9 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>Primeiras imagens de Capoeira</title>
-   <link href="http://example.com/2006/03/27/primeiras-imagens-de-capoeira"/>
+   <link href="//2006/03/27/primeiras-imagens-de-capoeira"/>
    <updated>2006-03-27T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/27/primeiras-imagens-de-capoeira</id>
+   <id>//2006/03/27/primeiras-imagens-de-capoeira</id>
    <content type="html">&lt;p&gt;Capoeira, um dos 8 projetos vencedores para o desenvolvimento de uma demo jogável do JogosBR 2004, mostra suas primeiras imagens.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=328&quot;&gt;Confira…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -181,18 +181,18 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>Capoeira</title>
-   <link href="http://example.com/2006/03/27/capoeira"/>
+   <link href="//2006/03/27/capoeira"/>
    <updated>2006-03-27T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/27/capoeira</id>
+   <id>//2006/03/27/capoeira</id>
    <content type="html">&lt;p&gt;Capoeira foi um dos 8 projetos vencedores para o desenvolvimento de uma demo jogável do JogosBR de 2004.&lt;br /&gt;&lt;br /&gt;Segundo Andre Ivankio Hauer Ploszaj, coordenador do projeto, as 4 imagens abaixo não são da fase atual de desenvolvimento da demo. &lt;br /&gt;&lt;br /&gt;Pelo que podemos ver nessas imagens preliminares, o projeto promete tornar-se um belo jogo.&lt;br /&gt;&lt;br /&gt;Em breve devem ser publicadas novas imagens de Capoeira.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Idéias vencedoras do JogosBR 2005/06</title>
-   <link href="http://example.com/2006/03/21/ideias-vencedoras-do-jogosbr-2005-06"/>
+   <link href="//2006/03/21/ideias-vencedoras-do-jogosbr-2005-06"/>
    <updated>2006-03-21T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/21/ideias-vencedoras-do-jogosbr-2005-06</id>
+   <id>//2006/03/21/ideias-vencedoras-do-jogosbr-2005-06</id>
    <content type="html">&lt;p&gt;O JogosBR publicou as 36 idéias vencedoras do Concurso de Idéias Originais do JogosBR 2005/06.&lt;br /&gt;&lt;br /&gt;Entre os títulos mais criativos e originais estão:&lt;br /&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Carnaval&lt;/li&gt;
@@ -208,9 +208,9 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>Prazos de inscrições no JogosBR</title>
-   <link href="http://example.com/2006/03/11/prazos-de-inscricoes-no-jogosbr"/>
+   <link href="//2006/03/11/prazos-de-inscricoes-no-jogosbr"/>
    <updated>2006-03-11T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/11/prazos-de-inscricoes-no-jogosbr</id>
+   <id>//2006/03/11/prazos-de-inscricoes-no-jogosbr</id>
    <content type="html">&lt;p&gt;As inscrições para os concursos de Desenvolvimento de Demos Jogáveis e de Jogos Completos podem ser feitas a partir de 16 de março até 3 de abril.&lt;br /&gt;&lt;br /&gt;Encerra hoje o prazo para as inscrições no Concurso de Idéias Originais para Jogos Eletrônicos, se você tem uma grande idéia, é última chance.&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=300&quot;&gt;&lt;br /&gt;Leia mais sobre o JogosBR…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -218,9 +218,9 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>JogosBR :: Inscrições e regras</title>
-   <link href="http://example.com/2006/03/11/jogosbr-inscricoes-e-regras"/>
+   <link href="//2006/03/11/jogosbr-inscricoes-e-regras"/>
    <updated>2006-03-11T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/11/jogosbr-inscricoes-e-regras</id>
+   <id>//2006/03/11/jogosbr-inscricoes-e-regras</id>
    <content type="html">&lt;p&gt;O prazo final para inscrição no Concurso de Idéias Originais para Jogos Eletrônicos, inserido na edição 2005/06 do JogosBR, foi prorrogado para &lt;span style=&quot;font-weight: bold;&quot;&gt;11 de março&lt;/span&gt;. Já as inscrições para os concursos de Desenvolvimento de Demos Jogáveis e de Jogos Completos podem ser feitas a partir de &lt;span style=&quot;font-weight: bold;&quot;&gt;16 de março até 3 de abril&lt;/span&gt;. Para participar é preciso se cadastrar no site &lt;a target=&quot;_blank&quot; href=&quot;http://www.jogosbr.org.br&quot;&gt;www.jogosbr.org.br&lt;/a&gt;
  e preencher formulários específicos.&lt;br /&gt;&lt;br /&gt;Esta edição do JogosBR está divida em três concursos: &lt;br /&gt;&lt;/p&gt;
 
@@ -239,9 +239,9 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>NewsAbragames - Março/2006</title>
-   <link href="http://example.com/2006/03/10/newsabragames-marco-2006"/>
+   <link href="//2006/03/10/newsabragames-marco-2006"/>
    <updated>2006-03-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/10/newsabragames-marco-2006</id>
+   <id>//2006/03/10/newsabragames-marco-2006</id>
    <content type="html">&lt;p&gt;Lançada a edição Março/2006 da newsletter mensal da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos.&lt;br /&gt;&lt;br /&gt;Nesta edição os destaques são: os eventos CDG-RIO (Conferência de Desenvolvedores de Games), I Festival Universitário de Games e &lt;a href=&quot;/index.php?p=c&amp;amp;id=189&quot;&gt;TGS - Top Game Show&lt;/a&gt;
 . Alguns cursos sobre desenvolvimento de jogos estão na seção cursos.&lt;br /&gt;&lt;br /&gt;A prorrogação do prazo de inscrição para o JogosBR também ganha destaque e &quot;Um impulso aos Advergames&quot;, uma coluna de opinião de Reinaldo Normand, Gerente-geral da divisão mobile Tec Toy.&lt;br /&gt;&lt;br /&gt;E na seção publicação o destaque do mês é o &lt;span style=&quot;color: rgb(255, 153, 0); font-weight: bold;&quot;&gt;jogosdaqui&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.abragames.com.br/newsletter/&quot;&gt;Saiba mais sobre NewsAbragames…&lt;/a&gt;&lt;/p&gt;
 
@@ -250,18 +250,18 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>Concurso de Idéias do JogosBR</title>
-   <link href="http://example.com/2006/02/14/concurso-de-ideias-do-jogosbr"/>
+   <link href="//2006/02/14/concurso-de-ideias-do-jogosbr"/>
    <updated>2006-02-14T00:00:00-02:00</updated>
-   <id>http://example.com/2006/02/14/concurso-de-ideias-do-jogosbr</id>
+   <id>//2006/02/14/concurso-de-ideias-do-jogosbr</id>
    <content type="html">&lt;p&gt;Se você além de gostar de jogar, também é criativo e gostaria de publicar uma idéia de algum jogo, então corra que &lt;span style=&quot;font-weight: bold;&quot;&gt;amanhã&lt;/span&gt; (15/02) é último dia para inscrever ela na Segunda Edição do Concurso JogosBR - 2005/06. Agora se você, além disto, também gostaria de desenvolver um DEMO de jogo, então fique ligado que a inscrição para esta categoria irá iniciar no dia 2 de março (02/03).&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.jogosbr.org.br/&quot;&gt;Acesse já o site do JogosBR cliquando aqui&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>NewsAbragames - Fevereiro/2006</title>
-   <link href="http://example.com/2006/02/08/newsabragames-fevereiro-2006"/>
+   <link href="//2006/02/08/newsabragames-fevereiro-2006"/>
    <updated>2006-02-08T00:00:00-02:00</updated>
-   <id>http://example.com/2006/02/08/newsabragames-fevereiro-2006</id>
+   <id>//2006/02/08/newsabragames-fevereiro-2006</id>
    <content type="html">&lt;p&gt;Está no ar mais uma edição da NewsAbragames.&lt;br /&gt;&lt;br /&gt;A newsletter deste mês da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos, traz uma review sobre o jogo &lt;a href=&quot;/index.php?p=c&amp;amp;id=51&quot;&gt;Die Pferbebande&lt;/a&gt;
  da empresa &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=19&quot;&gt;Oniria Entertainment&lt;/a&gt;
 , os destaques na imprensa, informações sobre o &lt;a href=&quot;/index.php?p=c&amp;amp;id=212&quot;&gt;Concurso JogosBR&lt;/a&gt;
@@ -274,9 +274,9 @@ Pelo que se pode ver no vídeo liberado pela Interama, Incorporated mostra quali
  
  <entry>
    <title>Lançado o site da 2ª edição do concurso JogosBr</title>
-   <link href="http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr"/>
+   <link href="//2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr"/>
    <updated>2005-12-18T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr</id>
+   <id>//2005/12/18/lancado-o-site-da-2a-edicao-do-concurso-jogosbr</id>
    <content type="html">&lt;p&gt;O Ministério da Cultura lançou oficialmente o site da segunda edição do concurso JogosBr.&lt;/p&gt;
 
 &lt;p&gt;Este ano o JogosBr estará dividido em 3 concursos:&lt;/p&gt;
@@ -292,9 +292,9 @@ Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
  
  <entry>
    <title>Segunda edição do concurso JogosBr</title>
-   <link href="http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr"/>
+   <link href="//2005/11/02/segunda-edicao-do-concurso-jogosbr"/>
    <updated>2005-11-02T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/02/segunda-edicao-do-concurso-jogosbr</id>
+   <id>//2005/11/02/segunda-edicao-do-concurso-jogosbr</id>
    <content type="html">&lt;p&gt;Em novembro será lançado o “Segundo Concurso de Idéias Originais E Demos de Jogos Eletrônicos - JogosBr”. O Concurso tem como objetivo estimular o desenvolvimento de jogos eletrônicos (ou games) no mercado nacional.&lt;/p&gt;
 
 &lt;p&gt;Qualquer pessoa física residente no Brasil pode participar, sem limite de idade ou qualquer outro requisito.&lt;/p&gt;
@@ -306,9 +306,9 @@ Desenvolvimento de Jogos Completos de Baixo Orçamento&lt;/p&gt;
  
  <entry>
    <title>Interama: empresa criada com recursos do JogosBR</title>
-   <link href="http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr"/>
+   <link href="//2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr"/>
    <updated>2005-10-21T00:00:00-02:00</updated>
-   <id>http://example.com/2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr</id>
+   <id>//2005/10/21/interama-empresa-criada-com-recursos-do-jogosbr</id>
    <content type="html">&lt;p&gt;Os jogadores brasileiros em breve poderão curtir os jogos de uma nova empresa brasileira, a &lt;span style=&quot;font-weight: bold;&quot;&gt;Interama&lt;/span&gt;, que pretende ser uma inovadora desenvolvedora de jogos 3D. Seu objetivo é lançar jogos diferentes, ousados, que vão além do comum. É explorar novos temas e novas fronteiras.&lt;/p&gt;
 
 &lt;p&gt;A empresa foi formada a partir do patrocínio do Ministério da Cultura, após vencer a etapa final do concurso JogosBR.&lt;/p&gt;

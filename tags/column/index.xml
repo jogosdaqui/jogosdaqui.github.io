@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - column</title>
- <link href="http://example.com/tags/column/index.xml" rel="self"/>
- <link href="http://example.com/tag/column.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/column.html</id>
+ <title>jogosdaqui - column</title>
+ <link href="//tags/column/index.xml" rel="self"/>
+ <link href="/tag/column.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/column.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Odallus - The Dark Call: primeiras impressões</title>
-   <link href="http://example.com/2015/08/24/odallus-the-dark-call-primeiras-impressoes"/>
+   <link href="//2015/08/24/odallus-the-dark-call-primeiras-impressoes"/>
    <updated>2015-08-24T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/24/odallus-the-dark-call-primeiras-impressoes</id>
+   <id>//2015/08/24/odallus-the-dark-call-primeiras-impressoes</id>
    <content type="html">&lt;p&gt;Falamos algumas vezes no jogosdaqui sobre o aclamado game de ação e exploração retrô da brasileira JoyMasher: &lt;a href=&quot;http://joymasher.com/odallus/&amp;quot;&quot;&gt;Odallus - The Dark Call&lt;/a&gt;:&lt;/p&gt;
 
 &lt;ul&gt;

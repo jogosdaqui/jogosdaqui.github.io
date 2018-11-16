@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - cube-factory</title>
- <link href="http://example.com/tags/cube-factory/index.xml" rel="self"/>
- <link href="http://example.com/tag/cube-factory.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/cube-factory.html</id>
+ <title>jogosdaqui - cube-factory</title>
+ <link href="//tags/cube-factory/index.xml" rel="self"/>
+ <link href="/tag/cube-factory.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/cube-factory.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>C-Bot</title>
-   <link href="http://example.com/2013/03/21/c-bot"/>
+   <link href="//2013/03/21/c-bot"/>
    <updated>2013-03-21T00:00:00-03:00</updated>
-   <id>http://example.com/2013/03/21/c-bot</id>
+   <id>//2013/03/21/c-bot</id>
    <content type="html">&lt;p&gt;No puzzle C-Bot da &lt;a href=&quot;http://www.cubefactory.com.br/&quot; target=&quot;_blank&quot;&gt;Cube Factory&lt;/a&gt;
  o jogador controla um robô que pode basicamente andar para trás e para frente. Para realizar outros movimentos, como pular, atirar, correr e inverter a gravidade (isso mesmo &quot;Inverter a gravidade&quot;) será preciso coletar cubos de energia espalhados pelo laboratório onde o robô foi criado e onde ele acabou de acordar sem saber muito bem o que está acontecendo.&lt;/p&gt;
 

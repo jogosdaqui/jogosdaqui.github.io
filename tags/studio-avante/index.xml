@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - studio-avante</title>
- <link href="http://example.com/tags/studio-avante/index.xml" rel="self"/>
- <link href="http://example.com/tag/studio-avante.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/studio-avante.html</id>
+ <title>jogosdaqui - studio-avante</title>
+ <link href="//tags/studio-avante/index.xml" rel="self"/>
+ <link href="/tag/studio-avante.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/studio-avante.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</title>
-   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
+   <link href="//2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
    <updated>2013-01-02T00:00:00-02:00</updated>
-   <id>http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
+   <id>//2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
    <content type="html">&lt;p&gt;No final de 2012 fizemos uma enquete perguntando &amp;gt; Quais games desenvolvidos no Brasil você jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.
 &lt;br /&gt; Para mostrar o resultado a vocês, montamos a lista abaixo mostrando um vídeo de cada um dos games.&lt;br /&gt;
 Confiram!
@@ -87,9 +87,9 @@ Confiram!
  
  <entry>
    <title>Hipercubo</title>
-   <link href="http://example.com/2012/08/08/hipercubo"/>
+   <link href="//2012/08/08/hipercubo"/>
    <updated>2012-08-08T00:00:00-03:00</updated>
-   <id>http://example.com/2012/08/08/hipercubo</id>
+   <id>//2012/08/08/hipercubo</id>
    <content type="html">&lt;p&gt;Definição de Hipercubo da Wikipédia:&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos de mesmo tamanho e comprimento.&quot;&lt;/p&gt;

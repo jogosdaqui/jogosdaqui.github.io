@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - keeplay</title>
- <link href="http://example.com/tags/keeplay/index.xml" rel="self"/>
- <link href="http://example.com/tag/keeplay.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/keeplay.html</id>
+ <title>jogosdaqui - keeplay</title>
+ <link href="//tags/keeplay/index.xml" rel="self"/>
+ <link href="/tag/keeplay.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/keeplay.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>December 21st</title>
-   <link href="http://example.com/2013/02/13/december-21st"/>
+   <link href="//2013/02/13/december-21st"/>
    <updated>2013-02-13T00:00:00-02:00</updated>
-   <id>http://example.com/2013/02/13/december-21st</id>
+   <id>//2013/02/13/december-21st</id>
    <content type="html">&lt;p&gt;Como um fã de bom puzzles, sempre fico feliz ao jogar games como o December 21st da brasileira &lt;a href=&quot;http://www.keeplay.com&quot; target=&quot;_blank&quot;&gt;Keeplay&lt;/a&gt;
 .&lt;/p&gt;
 

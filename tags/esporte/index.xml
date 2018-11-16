@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - esporte</title>
- <link href="http://example.com/tags/esporte/index.xml" rel="self"/>
- <link href="http://example.com/tag/esporte.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/esporte.html</id>
+ <title>jogosdaqui - esporte</title>
+ <link href="//tags/esporte/index.xml" rel="self"/>
+ <link href="/tag/esporte.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/esporte.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Vôlei de Praia</title>
-   <link href="http://example.com/2005/12/26/volei-de-praia"/>
+   <link href="//2005/12/26/volei-de-praia"/>
    <updated>2005-12-26T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/26/volei-de-praia</id>
+   <id>//2005/12/26/volei-de-praia</id>
    <content type="html">&lt;p&gt;Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal &lt;a href=&quot;http://www.gametrack.com.br&quot; target=&quot;_blank&quot;&gt;Gametrack&lt;/a&gt;
 . Vôlei de Praia faz o maior sucesso entre os jogadores do portal.&lt;/p&gt;
 
@@ -45,9 +45,9 @@
  
  <entry>
    <title>Jetski Race</title>
-   <link href="http://example.com/2005/12/15/jetski-race"/>
+   <link href="//2005/12/15/jetski-race"/>
    <updated>2005-12-15T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/15/jetski-race</id>
+   <id>//2005/12/15/jetski-race</id>
    <content type="html">&lt;p&gt;Foi dada a largada! Prepare-se para muita água, obstáculos e manobras nessa excitante corrida de jetskis!&lt;/p&gt;
 
 &lt;p&gt;Vença seus oponentes ou teste suas habilidades correndo contra o tempo.
@@ -58,9 +58,9 @@ Jetski Race é pra quem gosta de esportes radicais no celular.&lt;/p&gt;
  
  <entry>
    <title>Entrevista: Gametrack</title>
-   <link href="http://example.com/2005/11/14/entrevista-gametrack"/>
+   <link href="//2005/11/14/entrevista-gametrack"/>
    <updated>2005-11-14T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/14/entrevista-gametrack</id>
+   <id>//2005/11/14/entrevista-gametrack</id>
    <content type="html">&lt;p&gt;Em agosto deste ano foi lançado o 1° portal de jogos banda larga do Brasil: &lt;a href=&quot;http://www.gametrack.com.br&quot;&gt;Gametrack&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;O Gametrack é um portal produzido e mantido pela desenvolvedora brasileira Devworks Game Technology. Possui conteúdo exclusivo, como por exemplo a versão online do famoso WAR, jogo de tabuleiro da Grow que já fazia muito sucesso na sua forma convencional e que vem mantendo esse sucesso na forma online.&lt;/p&gt;
@@ -85,7 +85,7 @@ Jetski Race é pra quem gosta de esportes radicais no celular.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2005/11/14/entrevista-gametrack/superTrunfo.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2005/11/14/entrevista-gametrack/superTrunfo.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Trunfo: mais um jogo famoso &quot;portado&quot; para o Gametrack &lt;/span&gt;&lt;/center&gt;
 
@@ -100,7 +100,7 @@ Jetski Race é pra quem gosta de esportes radicais no celular.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2005/11/14/entrevista-gametrack/war.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2005/11/14/entrevista-gametrack/war.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;WAR: o jogo de maior sucesso no Gametrack &lt;/span&gt;&lt;/center&gt;
 

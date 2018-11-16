@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - elfland-studios</title>
- <link href="http://example.com/tags/elfland-studios/index.xml" rel="self"/>
- <link href="http://example.com/tag/elfland-studios.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/elfland-studios.html</id>
+ <title>jogosdaqui - elfland-studios</title>
+ <link href="//tags/elfland-studios/index.xml" rel="self"/>
+ <link href="/tag/elfland-studios.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/elfland-studios.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Força Andrômeda - Operação Tempestade</title>
-   <link href="http://example.com/2005/10/25/forca-andromeda-operacao-tempestade"/>
+   <link href="//2005/10/25/forca-andromeda-operacao-tempestade"/>
    <updated>2005-10-25T00:00:00-02:00</updated>
-   <id>http://example.com/2005/10/25/forca-andromeda-operacao-tempestade</id>
+   <id>//2005/10/25/forca-andromeda-operacao-tempestade</id>
    <content type="html">&lt;p&gt;No game Força Andrômeda - Operação Tempestade, da &lt;a href=&quot;http://www.elfland.com.br/&quot; target=&quot;_blank&quot;&gt;Elfland Studios&lt;/a&gt;
 , Atlântida sempre foi um planeta em perfeita harmonia, até detectarem uma grande força invasora  Vórtice vindo em sua direção! Os Vórtices são conhecidos como saqueadores e escravizadores de populações inteiras.&lt;/p&gt;
 

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - minichimera-game-studio</title>
- <link href="http://example.com/tags/minichimera-game-studio/index.xml" rel="self"/>
- <link href="http://example.com/tag/minichimera-game-studio.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/minichimera-game-studio.html</id>
+ <title>jogosdaqui - minichimera-game-studio</title>
+ <link href="//tags/minichimera-game-studio/index.xml" rel="self"/>
+ <link href="/tag/minichimera-game-studio.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/minichimera-game-studio.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Sheep Dreams Are Made of This</title>
-   <link href="http://example.com/2015/12/09/sheep-dreams-are-made-of-this"/>
+   <link href="//2015/12/09/sheep-dreams-are-made-of-this"/>
    <updated>2015-12-09T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/09/sheep-dreams-are-made-of-this</id>
+   <id>//2015/12/09/sheep-dreams-are-made-of-this</id>
    <content type="html">&lt;p&gt;O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.&lt;/p&gt;
 
 &lt;p&gt;Você controla um homem que tem o mesmo pesadelo toda noite há 17 anos, onde tudo que ele consegue fazer é correr, pular e coletar fragmentos de memórias há muito esquecidas.&lt;/p&gt;

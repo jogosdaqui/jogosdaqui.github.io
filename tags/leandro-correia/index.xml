@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - leandro-correia</title>
- <link href="http://example.com/tags/leandro-correia/index.xml" rel="self"/>
- <link href="http://example.com/tag/leandro-correia.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/leandro-correia.html</id>
+ <title>jogosdaqui - leandro-correia</title>
+ <link href="//tags/leandro-correia/index.xml" rel="self"/>
+ <link href="/tag/leandro-correia.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/leandro-correia.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Começam as venda do Smart Panda</title>
-   <link href="http://example.com/2005/11/15/comecam-as-venda-do-smart-panda"/>
+   <link href="//2005/11/15/comecam-as-venda-do-smart-panda"/>
    <updated>2005-11-15T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/15/comecam-as-venda-do-smart-panda</id>
+   <id>//2005/11/15/comecam-as-venda-do-smart-panda</id>
    <content type="html">&lt;p&gt;Nesta terça-feira, 15 de novembro, foi posto a venda o jogo educacional &lt;a href=&quot;/2005/09/30/smart-panda/&quot;&gt;Smart Panda&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -39,9 +39,9 @@
  
  <entry>
    <title>Skooter</title>
-   <link href="http://example.com/2005/11/05/skooter"/>
+   <link href="//2005/11/05/skooter"/>
    <updated>2005-11-05T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/05/skooter</id>
+   <id>//2005/11/05/skooter</id>
    <content type="html">&lt;p&gt;Ele é o remake de um antigo jogo para os computadores de 8 bits da linha MSX. Este remake foi feito da maneira mais fiel possível ao original, com uma pequena modificação nos gráficos. O objetivo deste jogo é simples: controle seu robô Skooter e pegue os quatro ítens da pista para completar cada um dos dezesseis níveis que compõem o jogo. Um super quebra-cabeças.&lt;/p&gt;
 
 &lt;p&gt;Para jogar Skooter, use as setas e espaço (também suporta joysticks). Espaço destrói blocos verdes. Blocos vermelhos não podem ser destruídos. Blocos com setas movem-se sozinhos. Blocos com diamantes podem ser empurrados. Setas azuis empurram ítens (somente quando não estão bloqueadas).&lt;/p&gt;
@@ -51,9 +51,9 @@
  
  <entry>
    <title>Jet Boarder</title>
-   <link href="http://example.com/2005/10/21/jet-boarder"/>
+   <link href="//2005/10/21/jet-boarder"/>
    <updated>2005-10-21T00:00:00-02:00</updated>
-   <id>http://example.com/2005/10/21/jet-boarder</id>
+   <id>//2005/10/21/jet-boarder</id>
    <content type="html">&lt;p&gt;Este é Jet Boarder, um jogo de corrida com uma característica interessante: ele utiliza apenas uma única tecla para os controles.&lt;/p&gt;
 
 &lt;p&gt;Foi criado para a One Switch Competition, uma competição para jogos de uma tecla da Retroremakes e One Switch UK. A idéia é tornar jogos mais acessíveis para deficientes físicos (o que não quer dizer que Jet Boarder seja fácil).&lt;/p&gt;
@@ -74,9 +74,9 @@
  
  <entry>
    <title>Smart Panda</title>
-   <link href="http://example.com/2005/09/30/smart-panda"/>
+   <link href="//2005/09/30/smart-panda"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/30/smart-panda</id>
+   <id>//2005/09/30/smart-panda</id>
    <content type="html">&lt;p&gt;Conheça Smart Panda, um jogo diferente de tudo o que você já viu. Controle um simpático urso panda e tente resolver um a um todos os problemas matemáticos que surgem no alto da tela. Fácil? Não…&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2005/09/LeandroCorreia_SmartPanda_2.jpg&quot;&gt;

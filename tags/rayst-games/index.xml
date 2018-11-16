@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - rayst-games</title>
- <link href="http://example.com/tags/rayst-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/rayst-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/rayst-games.html</id>
+ <title>jogosdaqui - rayst-games</title>
+ <link href="//tags/rayst-games/index.xml" rel="self"/>
+ <link href="/tag/rayst-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/rayst-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Shuffle Puzzle</title>
-   <link href="http://example.com/2012/10/11/shuffle-puzzle-2"/>
+   <link href="//2012/10/11/shuffle-puzzle-2"/>
    <updated>2012-10-11T00:00:00-03:00</updated>
-   <id>http://example.com/2012/10/11/shuffle-puzzle-2</id>
+   <id>//2012/10/11/shuffle-puzzle-2</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Shuffle Puzzle é um jogo de quebra-cabeça onde o jogador deverá montar a imagem embaralhada movendo linhas ou colunas.  As imagens seguem a temática do pacote onde estão e neste jogo há três pacotes: natureza, balões e grafite.  A dificuldade inicialmente é a mínima possível com o objetivo de que o jogador perceba como os passos devem ser feitos para reordenar a  imagem e também para ensiná-lo o novo tipo de gameplay. A medida que novas figuras são resolvidas, matrizes 4x4 ficam mais frequentes e  matrizes 3x3 mais difíceis.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;

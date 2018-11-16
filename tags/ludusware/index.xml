@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - ludusware</title>
- <link href="http://example.com/tags/ludusware/index.xml" rel="self"/>
- <link href="http://example.com/tag/ludusware.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/ludusware.html</id>
+ <title>jogosdaqui - ludusware</title>
+ <link href="//tags/ludusware/index.xml" rel="self"/>
+ <link href="/tag/ludusware.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/ludusware.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Ludusware começa suas atividades</title>
-   <link href="http://example.com/2006/05/15/ludusware-comeca-suas-atividades"/>
+   <link href="//2006/05/15/ludusware-comeca-suas-atividades"/>
    <updated>2006-05-15T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/15/ludusware-comeca-suas-atividades</id>
+   <id>//2006/05/15/ludusware-comeca-suas-atividades</id>
    <content type="html">&lt;p&gt;A empresa Ludusware - Eletronic Entertainment Solutions, uma das mais novas empresas brasileiras de desenvolvimento de jogos, iniciou suas atividades no início deste mês.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;A empresa, focada no desenvolvimento de jogos 3D para &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idp=1&quot;&gt;PC&lt;/a&gt;
@@ -24,9 +24,9 @@
  
  <entry>
    <title>EGR (Ecossistema de games do Recife)</title>
-   <link href="http://example.com/2006/05/10/egr-ecossistema-de-games-do-recife"/>
+   <link href="//2006/05/10/egr-ecossistema-de-games-do-recife"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/10/egr-ecossistema-de-games-do-recife</id>
+   <id>//2006/05/10/egr-ecossistema-de-games-do-recife</id>
    <content type="html">&lt;p&gt;&lt;big&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Vai acontecer dia 20 de maio,  das 10 &amp;aacute;s 14 horas a EGR (Ecossistema de games do Recife), o primeiro evento  relacionado a desenvolvimento de jogos no Recife. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot; style=&quot;font-weight: bold;&quot;&gt;&lt;big&gt;Como vai  funcionar? &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;O evento ter&amp;aacute; uma dura&amp;ccedil;&amp;atilde;o de 4h, onde algumas empresas  de Recife ir&amp;atilde;o falar um pouco sobre seu dia a dia, sobre ferramentas,  tecnologias e etc. O evento tamb&amp;eacute;m abranger&amp;aacute; um pouco sobre a historia das  empresas de desenvolvimento de em Recife e falar um pouco a respeito do  lan&amp;ccedil;amento de um curso t&amp;eacute;cnico sobre desenvolvimento de jogos, que em parceria  com o Ibratec estar&amp;aacute; comecando a partir de Agosto. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot; style=&quot;font-weight: bold;&quot;&gt;&lt;big&gt;Onde vai  ser? &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Na Livraria Cultura, Bairro do Recife (Ao lado do Pa&amp;ccedil;o  Alfandega).&lt;br /&gt;20 de Maio, das 10 &amp;aacute;s 14hs.&lt;br /&gt;&lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Estar&amp;aacute;  palestrando pessoas como: Geber Ramalho (CIn-UFPE), Claudio Lins (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=45&quot;&gt;Preloud&lt;/a&gt;
 ),  Scylla Costa (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=43&quot;&gt;Jynx&lt;/a&gt;
 ), Mauricio Carvalho (ICORP), Mabuse (CESAR), Pedro Henrique  (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=41&quot;&gt;Meantime&lt;/a&gt;

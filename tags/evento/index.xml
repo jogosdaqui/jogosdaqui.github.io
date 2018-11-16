@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - evento</title>
- <link href="http://example.com/tags/evento/index.xml" rel="self"/>
- <link href="http://example.com/tag/evento.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/evento.html</id>
+ <title>jogosdaqui - evento</title>
+ <link href="//tags/evento/index.xml" rel="self"/>
+ <link href="/tag/evento.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/evento.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Finalistas do Festival de Jogos Independentes do SBGames 2015</title>
-   <link href="http://example.com/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015"/>
+   <link href="//2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015"/>
    <updated>2015-10-26T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015</id>
+   <id>//2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015</id>
    <content type="html">&lt;p&gt;A organização do Festival de Jogos Independentes do &lt;a href=&quot;http://www.sbgames.org/sbgames2015&quot; target=&quot;_blank&quot;&gt;SBGames 2015&lt;/a&gt;
  &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=882614481814106&quot; target=&quot;_blank&quot;&gt;anunciou os games finalistas&lt;/a&gt;
  que estarão em exposição no evento que acontecerá entre 11 e 13 de novembro em Teresina/PI.&lt;/p&gt;
@@ -190,9 +190,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>War Dogs</title>
-   <link href="http://example.com/2015/10/22/war-dogs"/>
+   <link href="//2015/10/22/war-dogs"/>
    <updated>2015-10-22T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/22/war-dogs</id>
+   <id>//2015/10/22/war-dogs</id>
    <content type="html">&lt;p&gt;Que tal misturar um pouco da jogabilidade de Streets Of Rage e Final Fight, adicionando a jogabilidade de beat ‘em up 3D de games como Fighting Force (PS1 e N64)? E se os lutadores forem mutantes humanoides com cabeça de cachorro num mundo após uma guerra nuclear? Essa é a proposta de War Dogs, game da &lt;a href=&quot;http://pixtoy.com/br/&quot; target=&quot;_blank&quot;&gt;Pixtoy&lt;/a&gt;
 , de Vitória, Espírito Santo.&lt;/p&gt;
 
@@ -214,9 +214,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>1º HackaJam</title>
-   <link href="http://example.com/2015/09/22/1o-hackajam"/>
+   <link href="//2015/09/22/1o-hackajam"/>
    <updated>2015-09-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/22/1o-hackajam</id>
+   <id>//2015/09/22/1o-hackajam</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;https://games.acate.com.br/vertical/games/sobre-a-vertical-games&quot; target=&quot;_blank&quot;&gt;Vertical Games da Associação Catarinense de Empresas de Tecnologia (ACATE)&lt;/a&gt;
  que concentra 17 empresas desenvolvedoras de jogos em Santa Catarina realizará no final de setembro uma mistura de Hackathon com GameJam.&lt;/p&gt;
 
@@ -250,9 +250,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis</title>
-   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
+   <link href="//2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
    <updated>2015-09-03T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
+   <id>//2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
    <content type="html">&lt;p&gt;Depois de visitar Rio de Janeiro, São Paulo, Recife e Fortaleza, chegou a hora do evento Brazil Gets Unreal, da  Epic Games, acontecer no sul do país.&lt;/p&gt;
 
 &lt;p&gt;O Brazil Gets Unreal é uma série de palestras mostrando casos de uso da engine Unreal, onde você verá exatamente como construir um jogo de tiro twin-stick para dispositivos móveis – completamente do zero – utilizando o Blueprint visual scripting system da Unreal Engine 4. Como Blueprints são facilmente aproveitados por todas as disciplinas do desenvolvimento de jogos, todos os artistas, designers e programadores são bem-vindos.&lt;/p&gt;
@@ -283,9 +283,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Concurso Souking - Power UP</title>
-   <link href="http://example.com/2015/09/02/concurso-souking-power-up"/>
+   <link href="//2015/09/02/concurso-souking-power-up"/>
    <updated>2015-09-02T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/02/concurso-souking-power-up</id>
+   <id>//2015/09/02/concurso-souking-power-up</id>
    <content type="html">&lt;h2 id=&quot;3ª-power-up&quot;&gt;3ª Power UP&lt;/h2&gt;
 &lt;p&gt;No dia 25 de agosto ocorreu a 3ª edição da Power UP, evento promovido pela Associação de Desenvolvedores de Jogos Digitais do Rio Grande do Sul (ADJOGOS-RS), que tem como objetivo o desenvolvimento dos portfólios dos estudantes de jogos digitais do Rio Grande do Sul através da avaliação de seus projetos pelas empresas associadas, incluindo jogos desenvolvidos tanto para a &amp;gt; Ludum Dare como também jogos próprios.&lt;/p&gt;
 
@@ -320,9 +320,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Prévia de Relic Hunters Zero</title>
-   <link href="http://example.com/2015/07/30/previa-de-relic-hunters-zero"/>
+   <link href="//2015/07/30/previa-de-relic-hunters-zero"/>
    <updated>2015-07-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/30/previa-de-relic-hunters-zero</id>
+   <id>//2015/07/30/previa-de-relic-hunters-zero</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.roguesnail.com/relic-hunters-zero/&quot; target=&quot;_blank&quot;&gt;Relic Hunters Zero&lt;/a&gt;
  é o mais novo game da brasileira Rogue Snail. Pra quem não conhece, a Rogue Snail é a marca que o gamedev Mark Venturelli utiliza para seus games. No caso do RHZ, o artista foi Betu Souza, enquanto Venturelli trabalhava na programação e game design do projeto.&lt;/p&gt;
 
@@ -361,9 +361,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Prévia de Fófuuu da Beltri Studio</title>
-   <link href="http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
+   <link href="//2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
    <updated>2015-07-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
+   <id>//2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
    <content type="html">&lt;p&gt;Alexander Graham Bell, famoso inventor do telefone, que na verdade comprou o protótipo da invenção do italiano Antonio Meucci, era um especialista em fala, influenciado pelo pai Alexander Melville Bell, que trabalhava com a correção da fala. Em 1872 fundou nos EUA uma escola que utilizava o método de pronuncia desenvolvido por seu pai em suas aulas. No ano seguinte começou a lecionar Fisiologia Vocal na universidade de Boston, nesse mesmo ano iniciou suas pesquisas para  utilizar a eletricidade na transmissão de sons e o resto é história.&lt;/p&gt;
 
 &lt;p&gt;Qual a razão de falar de Bell na introdução de um game? Boas invenções sempre nos ajudaram a superar grandes desafios, assim foi com o telefone e assim será com o&lt;a href=&quot;http://fofuuu.com/&quot; target=&quot;_blank&quot;&gt; game educativo Fófuuu&lt;/a&gt;
@@ -411,9 +411,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Prévia de Dengue Over da Ilusis Interactive</title>
-   <link href="http://example.com/2015/07/01/previa-de-dengue-over-da-ilusis-interactive"/>
+   <link href="//2015/07/01/previa-de-dengue-over-da-ilusis-interactive"/>
    <updated>2015-07-01T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/01/previa-de-dengue-over-da-ilusis-interactive</id>
+   <id>//2015/07/01/previa-de-dengue-over-da-ilusis-interactive</id>
    <content type="html">&lt;p&gt;Com um nome de origem egípcia, o famigerado mosquito transmissor da dengue, o Aedes aegypti, também é transmissor da febre amarela urbana e foi por transmitir essa segunda doença que o Brasil adotou rígidas medidas de controle por aproximadamente 3 anos e que culminaram em 1958 no país sendo considerado pela OMS um território livre do vetor, entretanto outras áreas do nosso continente não estavam livres da praga o que acabou levando ao ressurgimento do mosquito no país na década de 60.&lt;/p&gt;
 
 &lt;h2 id=&quot;dengue-over&quot;&gt;Dengue Over&lt;/h2&gt;
@@ -438,9 +438,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Prévia de Dog Duty da Zanardi & Liza</title>
-   <link href="http://example.com/2015/06/20/previa-de-dog-duty-da-zanardi-liza"/>
+   <link href="//2015/06/20/previa-de-dog-duty-da-zanardi-liza"/>
    <updated>2015-06-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/20/previa-de-dog-duty-da-zanardi-liza</id>
+   <id>//2015/06/20/previa-de-dog-duty-da-zanardi-liza</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Seu propósito: defender a liberdade humana contra a Organização Cobra, um impiedoso grupo terrorista determinado a dominar o mundo&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -485,9 +485,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Prévia de Peronio Pop-Up Book da Ovni Studios</title>
-   <link href="http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
+   <link href="//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
    <updated>2015-06-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
+   <id>//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
    <content type="html">&lt;p&gt;A primeira evidência histórica de livros pop-up remonta para o ano 1240 quando o monge beneditino Matthew Paris criou tal artefato para ajudar outros monges a calcular os dias santos. Nos séculos seguintes livros pop-up foram utilizados por adultos para ilustrar teorias, ensinar anatomia, fazer predições astronômicas e criar códigos secretos. Somente no século 18 surgiram os primeiros livros pop-up com sua finalidade mais famosa nos dias atuais: divertir e ensinar crianças.&lt;/p&gt;
 
 &lt;p&gt;Séculos depois graças as tecnologias atuais e as sempre infinitas capacidade e criatividade humana, os livros pop-up podem evoluir a um novo patamar e é nesse estágio que conhecemos Peronio Pop-up Book da Ovni Studios.&lt;/p&gt;
@@ -527,9 +527,9 @@ Mais informações em: &lt;a href=&quot;http://www.eventbrite.com/e/brazil-gets-
  
  <entry>
    <title>Prévia de Massive Madness da Ninja Garage Studio</title>
-   <link href="http://example.com/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio"/>
+   <link href="//2015/06/16/previa-de-massive-madness-da-ninja-garage-studio"/>
    <updated>2015-06-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio</id>
+   <id>//2015/06/16/previa-de-massive-madness-da-ninja-garage-studio</id>
    <content type="html">&lt;p&gt;ToeJam &amp;amp; Earl, game lançado em 1991 para o saudoso Mega-Drive, trazia dois personagens extraterrestres do planeta Funkotron, que colidem com a Terra e tem como missão buscar as partes de sua nave pelas 25 fases do game. Na época o jogo conquistou muitos fãs por sua originalidade, jogabilidade, estilo e trilha sonora funk composta por John Baker. A maior prova de seu sucesso é a recente &lt;a href=&quot;https://www.kickstarter.com/projects/1578116861/toejam-and-earl-back-in-the-groove/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarte&lt;/a&gt;
 r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produção do novo game.&lt;/p&gt;
 
@@ -566,9 +566,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>1º Minas Games Festival</title>
-   <link href="http://example.com/2015/06/12/1o-minas-games-festival"/>
+   <link href="//2015/06/12/1o-minas-games-festival"/>
    <updated>2015-06-12T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/12/1o-minas-games-festival</id>
+   <id>//2015/06/12/1o-minas-games-festival</id>
    <content type="html">&lt;p&gt;Em junho, durante quatro dias acontecerá em Belo Horizonte o 1º Minas Games Festival, evento que contará com várias atrações, como palestras, game jam, exposição de indie games, concurso de cosplay e oficinas.&lt;/p&gt;
 
 &lt;p&gt;O evento é totalmente gratuito e promete colocar Minas no mapa dos grandes eventos nacionais da área.&lt;/p&gt;
@@ -629,9 +629,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Prévia de My Night Job da Webcore Games</title>
-   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games"/>
+   <link href="//2015/06/10/previa-de-my-night-job-da-webcore-games"/>
    <updated>2015-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
+   <id>//2015/06/10/previa-de-my-night-job-da-webcore-games</id>
    <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
 
 &lt;p&gt;Se quando você viu esses filmes ficou com vontade de pegar a serra elétrica, sua boomstick (a arma de cano-serrado), entrar numa casa mal-assombrada, detonar os demônios e salvar o dia no melhor estilo insano do herói Ash Williams, então o game que a Webcore Games está desenvolvendo matará sua vontade.&lt;/p&gt;
@@ -673,9 +673,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Conheça os games selecionados no BIG Starter 2015</title>
-   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
+   <link href="//2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
    <updated>2015-06-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
+   <id>//2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;
 , evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.&lt;/p&gt;
 
@@ -727,9 +727,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>VIII Gamepad – Seminário de Games e Tecnologia</title>
-   <link href="http://example.com/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia"/>
+   <link href="//2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia"/>
    <updated>2015-05-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia</id>
+   <id>//2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia</id>
    <content type="html">&lt;p&gt;O VIII GAMEPAD – Seminário de Games e Tecnologia contará com apresentação de papers, mostra de jogos, palestras e workshops.&lt;/p&gt;
 
 &lt;p&gt;Dentre os palestrantes teremos: Cristiano Silva da Samsung, Tiago Rech e Klos Cunha da Ottus Game Studio falando do game &lt;a href=&quot;/2015/03/25/teaser-de-fragmentorum-alba/&quot;&gt;Fragmentorum Alba&lt;/a&gt;
@@ -771,9 +771,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Games brasileiros finalistas no BIG Festival 2015</title>
-   <link href="http://example.com/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015"/>
+   <link href="//2015/05/17/games-brasileiros-finalistas-no-big-festival-2015"/>
    <updated>2015-05-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015</id>
+   <id>//2015/05/17/games-brasileiros-finalistas-no-big-festival-2015</id>
    <content type="html">&lt;p&gt;A organização do &lt;a href=&quot;/2015/03/27/big-festival-2015/&quot;&gt;BIG Festival&lt;/a&gt;, primeiro e único festival de jogos independentes da América Latina, revelou durante a semana os finalistas da edição de 2015.&lt;/p&gt;
 
 &lt;p&gt;Apesar de ser um evento de âmbito continental, o festival, por ser realizado no Brasil, tem uma categoria chamada “Revelação Brasil”, que privilegia os games produzidos no país, onde podemos conferir vários jogos daqui bem conhecidos.&lt;/p&gt;
@@ -904,9 +904,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>XIII SEJA (Semana de Entretenimento, Jogos e  Animação)</title>
-   <link href="http://example.com/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao"/>
+   <link href="//2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao"/>
    <updated>2015-05-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao</id>
+   <id>//2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao</id>
    <content type="html">&lt;p&gt;A Semana de Entretenimento, Jogos e Animação (SEJA), promovida semestralmente pelo curso de Jogos Digitais da PUC - MG, chega na sua 13º edição tendo como destaque palestras sobre animação, artes, programação, experiências profissionais de ex-alunos, mercado de trabalho, serious games e mais, confira a programação abaixo:&lt;/p&gt;
 &lt;h2 id=&quot;programação-do-xiii-seja&quot;&gt;Programação do XIII SEJA&lt;/h2&gt;
 &lt;p&gt;Terça-feira - 19 de maio&lt;/p&gt;
@@ -964,9 +964,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Brazil Gets Unreal</title>
-   <link href="http://example.com/2015/05/01/brazil-gets-unreal"/>
+   <link href="//2015/05/01/brazil-gets-unreal"/>
    <updated>2015-05-01T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/01/brazil-gets-unreal</id>
+   <id>//2015/05/01/brazil-gets-unreal</id>
    <content type="html">&lt;p&gt;A Epic Games realizará em maio o Brazil Gets Unreal, uma série de palestras mostrando casos de uso da engine Unreal.&lt;/p&gt;
 
 &lt;p&gt;O evento terá 4 edições cada uma delas durante 6 horas, onde serão apresentados princípios fundamentais para desenvolver um game utilizando a última versão do popular motor gráfico.&lt;/p&gt;
@@ -1001,9 +1001,9 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Prévia de Starlit Adventures</title>
-   <link href="http://example.com/2015/04/27/previa-de-starlit-adventures"/>
+   <link href="//2015/04/27/previa-de-starlit-adventures"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/27/previa-de-starlit-adventures</id>
+   <id>//2015/04/27/previa-de-starlit-adventures</id>
    <content type="html">&lt;p&gt;No último evento PowerUp tivemos a grata surpresa de ver algumas imagens e vídeos do novo jogo da Rockhead Games, o &lt;a href=&quot;http://starlitadventures.com&quot; target=&quot;_blank&quot;&gt;Startlit Adventures&lt;/a&gt;
 , um game de aventura-plataforma para smartphones, tablets e PS Vita.&lt;/p&gt;
 
@@ -1023,9 +1023,9 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Cobertura do evento PowerUp #2</title>
-   <link href="http://example.com/2015/04/24/cobertura-do-evento-powerup-2"/>
+   <link href="//2015/04/24/cobertura-do-evento-powerup-2"/>
    <updated>2015-04-24T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/24/cobertura-do-evento-powerup-2</id>
+   <id>//2015/04/24/cobertura-do-evento-powerup-2</id>
    <content type="html">&lt;p&gt;Quarta-feira na universade Feevale aconteceu a segunda edição do evento &lt;a title=&quot;PowerUp #2&quot; href=&quot;/2015/04/17/powerup-2/&quot;&gt;PowerUp&lt;/a&gt;
 , o jogosdaqui esteve lá para apreciar as palestras e alguns jogos que foram desenvolvidos durante a Ludum Dare.&lt;/p&gt;
 
@@ -1062,9 +1062,9 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Axis Game Day</title>
-   <link href="http://example.com/2015/04/17/axis-game-day"/>
+   <link href="//2015/04/17/axis-game-day"/>
    <updated>2015-04-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/17/axis-game-day</id>
+   <id>//2015/04/17/axis-game-day</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.axis.art.br&quot; target=&quot;_blank&quot;&gt;AXIS-Gnomon School of Visual Effects&lt;/a&gt;
  realizará amanhã, dia 18/04/15, o AXIS Game Day.&lt;/p&gt;
 
@@ -1084,9 +1084,9 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Calango For Kids</title>
-   <link href="http://example.com/2015/04/10/calango-for-kids"/>
+   <link href="//2015/04/10/calango-for-kids"/>
    <updated>2015-04-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/10/calango-for-kids</id>
+   <id>//2015/04/10/calango-for-kids</id>
    <content type="html">&lt;p&gt;Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do &lt;a href=&quot;http://www.scicast.com.br/&quot;&gt;SciCast&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1112,9 +1112,9 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>Tank Invaders</title>
-   <link href="http://example.com/2015/04/08/tank-invaders"/>
+   <link href="//2015/04/08/tank-invaders"/>
    <updated>2015-04-08T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/08/tank-invaders</id>
+   <id>//2015/04/08/tank-invaders</id>
    <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt; e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt; você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.&lt;/p&gt;
 
 &lt;p&gt;A melhor definição o estilo do game Tank Invaders da Mgaia Studio é o que a própria empresa dá: o único FPS shoot’em up.  A visão do jogo, como pode ser visto nas imagens e vídeo abaixo é no  estilo de clássicos shoot’em up, entretanto você não vê a sua “nave”, pois a visão é primeira pessoa, então chegamos a definição de estilo dado pelo Mgaia.&lt;/p&gt;
@@ -1141,9 +1141,9 @@ Av. Washington Soares, 1321, Fortaleza-CE
  
  <entry>
    <title>BRING #4 - Mostra Brasiliense de Indie Games</title>
-   <link href="http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games"/>
+   <link href="//2015/04/07/bring-4-mostra-brasiliense-de-indie-games"/>
    <updated>2015-04-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/07/bring-4-mostra-brasiliense-de-indie-games</id>
+   <id>//2015/04/07/bring-4-mostra-brasiliense-de-indie-games</id>
    <content type="html">&lt;p&gt;A BRING, Mostra Brasiliense de Indie Games chega na sua quarta edição que será realizada na Indie House da Behold Studios, Otus Game Studio e BadMinions, estúdios que resolveram compartilhar um espaço comum de trabalho.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Para os jogadores:&lt;/strong&gt;
@@ -1170,9 +1170,9 @@ Prazo para inscrição dos jogos é 08 de abril. Podem ser inscritos jogos em al
  
  <entry>
    <title>BIG Festival 2015 </title>
-   <link href="http://example.com/2015/03/27/big-festival-2015"/>
+   <link href="//2015/03/27/big-festival-2015"/>
    <updated>2015-03-27T00:00:00-03:00</updated>
-   <id>http://example.com/2015/03/27/big-festival-2015</id>
+   <id>//2015/03/27/big-festival-2015</id>
    <content type="html">&lt;p&gt;O BIG que chega na sua 3º edição em 2015 é o primeiro e único festival de jogos independentes da América Latina. A cada edição expõe os melhores jogos independentes daquele ano de desenvolvedores do mundo inteiro.&lt;/p&gt;
 
 &lt;p&gt;Todos os jogos finalistas estarão disponíveis para serem jogados durante o festival. Alguns deles também estarão disponíveis online.&lt;/p&gt;
@@ -1195,9 +1195,9 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>SPJam 2015</title>
-   <link href="http://example.com/2015/03/24/spjam-2015"/>
+   <link href="//2015/03/24/spjam-2015"/>
    <updated>2015-03-24T00:00:00-03:00</updated>
-   <id>http://example.com/2015/03/24/spjam-2015</id>
+   <id>//2015/03/24/spjam-2015</id>
    <content type="html">&lt;p&gt;Em 2015 a SPJam completa 5 anos reunindo desenvolvedores de jogos, tanto entusiastas como profissionais, para desenvolverem um jogo inédito dentro do período de 48 horas.&lt;/p&gt;
 
 &lt;p&gt;Durante essa meia década de existência muitos jogos foram criados no evento, como podemos ver no &lt;a href=&quot;http://spjam.com.br/jogos/&quot;&gt;site oficial da game jam&lt;/a&gt;
@@ -1230,9 +1230,9 @@ O festival acontece entre 27 de junho a 5 de julho de 2015 no Centro Cultural S�
  
  <entry>
    <title>Inscrições abertas para o SPJam 2013</title>
-   <link href="http://example.com/2013/06/24/inscricoes-abertas-para-o-spjam-2013"/>
+   <link href="//2013/06/24/inscricoes-abertas-para-o-spjam-2013"/>
    <updated>2013-06-24T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/24/inscricoes-abertas-para-o-spjam-2013</id>
+   <id>//2013/06/24/inscricoes-abertas-para-o-spjam-2013</id>
    <content type="html">&lt;p&gt;Em &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-06_19_14_52-154784552-0&quot; target=&quot;_blank&quot;&gt;maio&lt;/a&gt;
  comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação.&lt;/p&gt;
 
@@ -1246,9 +1246,9 @@ Nessa edição a Vortex Games Studio, realizadora do evento, espera reunir 300 p
  
  <entry>
    <title>SPJam 2013</title>
-   <link href="http://example.com/2013/05/06/spjam-2013"/>
+   <link href="//2013/05/06/spjam-2013"/>
    <updated>2013-05-06T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/06/spjam-2013</id>
+   <id>//2013/05/06/spjam-2013</id>
    <content type="html">&lt;p&gt;A terceira edição da &lt;a href=&quot;http://www.spjam.com.br&quot; target=&quot;_blank&quot;&gt;SPJam &lt;/a&gt;
 (Maratona Paulista de Desenvolvimento de Jogos) será composta por duas etapas. A primeira delas, a Gamejam, reunirá entre os dias 30 de agosto e 01 de setembro desenvolvedores de jogos para a criação de novas ideias em apenas 48 horas.
 Após a etapa da maratona, o evento entrará na fase de exposição, durante o segundo semestre, onde os jogos serão expostos juntamente com obras de artistas convidados.&lt;/p&gt;
@@ -1274,9 +1274,9 @@ Inscrições: 15 de junho a 15 de agosto&lt;/p&gt;
  
  <entry>
    <title>Hipercubo</title>
-   <link href="http://example.com/2012/08/08/hipercubo"/>
+   <link href="//2012/08/08/hipercubo"/>
    <updated>2012-08-08T00:00:00-03:00</updated>
-   <id>http://example.com/2012/08/08/hipercubo</id>
+   <id>//2012/08/08/hipercubo</id>
    <content type="html">&lt;p&gt;Definição de Hipercubo da Wikipédia:&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos de mesmo tamanho e comprimento.&quot;&lt;/p&gt;
@@ -1298,9 +1298,9 @@ Inscrições: 15 de junho a 15 de agosto&lt;/p&gt;
  
  <entry>
    <title>SPJam 2012</title>
-   <link href="http://example.com/2012/06/07/spjam-2012"/>
+   <link href="//2012/06/07/spjam-2012"/>
    <updated>2012-06-07T00:00:00-03:00</updated>
-   <id>http://example.com/2012/06/07/spjam-2012</id>
+   <id>//2012/06/07/spjam-2012</id>
    <content type="html">&lt;p&gt;No início de junho foram abertas as inscrições do &lt;strong&gt;SPJam 2012&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;O &lt;strong&gt;SPjam&lt;/strong&gt;, Maratona Paulista de Desenvolvimento de Jogos, teve sua primeira edição em 2011 reunindo cerca 120 apaixonados em &lt;strong&gt;desenvolvimento de jogos&lt;/strong&gt;, sejam eles videogames ou jogos de tabuleiro, card-games ou RPGs de mesa, para mostrarem o que podem fazer durante &lt;strong&gt;48 horas&lt;/strong&gt;. Em 2012 a organização do evento pretende reunir mais de 200 participantes.
@@ -1322,9 +1322,9 @@ O objetivo do evento é proporcionar que seus participantes produzam um jogo peq
  
  <entry>
    <title>GameCraft 2011</title>
-   <link href="http://example.com/2011/05/23/gamecraft-2011"/>
+   <link href="//2011/05/23/gamecraft-2011"/>
    <updated>2011-05-23T00:00:00-03:00</updated>
-   <id>http://example.com/2011/05/23/gamecraft-2011</id>
+   <id>//2011/05/23/gamecraft-2011</id>
    <content type="html">&lt;p&gt;Nos dias 16 e 17 de junho acontecerá no Rio de Janeiro o GameCraft 2011, evento focado no desenvolvimento de jogos eletrônicos.&lt;/p&gt;
 
 &lt;p&gt;O GameCraft contará com diversos palestrantes, entre os já confirmados estão:&lt;/p&gt;
@@ -1343,9 +1343,9 @@ Mais informações na página oficial &lt;a href=&quot;http://devoidgames.com/ga
  
  <entry>
    <title>Global Game Jam 2011 começa amanhã</title>
-   <link href="http://example.com/2011/01/27/global-game-jam-2011-comeca-amanha"/>
+   <link href="//2011/01/27/global-game-jam-2011-comeca-amanha"/>
    <updated>2011-01-27T00:00:00-02:00</updated>
-   <id>http://example.com/2011/01/27/global-game-jam-2011-comeca-amanha</id>
+   <id>//2011/01/27/global-game-jam-2011-comeca-amanha</id>
    <content type="html">&lt;p&gt;O Global Game Jam 2011, terceira edição da maratona de desenvolvimento de jogos independentes que ocorre em mais de 40 países, acontecerá este fim de semana (28/01 a 30/01).&lt;/p&gt;
 
 &lt;p&gt;No Brasil o evento ocorre em diversas localidades, entre elas está Curitiba, onde a PUCPR será a sede do evento na cidade. A estimativa é que cerca de 100 desenvolvedores (artistas, programadores, designers, músicos, professores e estudantes) dediquem o fim de semana ao desenvolvimento de jogos.
@@ -1359,9 +1359,9 @@ Um exemplo da magnitude do evento são os dados da edição de 2010, onde mais d
  
  <entry>
    <title>Os fatos do ano</title>
-   <link href="http://example.com/2010/12/31/os-fatos-do-ano-2"/>
+   <link href="//2010/12/31/os-fatos-do-ano-2"/>
    <updated>2010-12-31T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/31/os-fatos-do-ano-2</id>
+   <id>//2010/12/31/os-fatos-do-ano-2</id>
    <content type="html">&lt;p&gt;Perguntamos aos nossos leitores:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1474,9 +1474,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>SBGames</title>
-   <link href="http://example.com/2006/09/29/sbgames"/>
+   <link href="//2006/09/29/sbgames"/>
    <updated>2006-09-29T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/29/sbgames</id>
+   <id>//2006/09/29/sbgames</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;br /&gt;&lt;/span&gt;
 &lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -1490,9 +1490,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>SBGames 2006 em Recife</title>
-   <link href="http://example.com/2006/09/29/sbgames-2006-em-recife"/>
+   <link href="//2006/09/29/sbgames-2006-em-recife"/>
    <updated>2006-09-29T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/29/sbgames-2006-em-recife</id>
+   <id>//2006/09/29/sbgames-2006-em-recife</id>
    <content type="html">&lt;p&gt;A edição 2006 do evento que se consolidou como o maior evento do país para pesquisadores e desenvolvedores de jogos será realizada em Recife entre os dias 08 e 10 de novembro.&lt;br /&gt;&lt;br /&gt;Se você quer conhecer mais sobre como os jogos eletrônicos são produzidos, não pode perder a SBGames.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=485&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -1500,9 +1500,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>Palestra Pequeno Guardião do Tempo</title>
-   <link href="http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo"/>
+   <link href="//2005/12/14/palestra-pequeno-guardiao-do-tempo"/>
    <updated>2005-12-14T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo</id>
+   <id>//2005/12/14/palestra-pequeno-guardiao-do-tempo</id>
    <content type="html">&lt;p&gt;Os desenvolvedores do jogo &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo,&lt;/a&gt;
  campeão do Festival de Jogos Independentes do SBGames 2005, estarão numa palestra na Universidade Veiga de Almeida dia 17 de dezembro.&lt;/p&gt;
 
@@ -1515,9 +1515,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>Top Game Show 2006</title>
-   <link href="http://example.com/2005/12/02/top-game-show-2006"/>
+   <link href="//2005/12/02/top-game-show-2006"/>
    <updated>2005-12-02T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/02/top-game-show-2006</id>
+   <id>//2005/12/02/top-game-show-2006</id>
    <content type="html">&lt;h2 id=&quot;o-que-é&quot;&gt;O que é?&lt;/h2&gt;
 
 &lt;p&gt;A TGS 2006 - Top Game Show - marcará um diferencial no mundo dos negócios de jogos, ampliando o mercado de consumo, fortalecendo as marcas junto ao público-alvo, através de um evento diferenciado, interativo e gerador de negócios. O objetivo é promover a populariedade do mercado de jogos para o grande público do Rio de Janeiro, ativando uma praça potencial das mais promissoras do mercado, numa visionária relação entre tendências, grandes marcas e clientes.&lt;/p&gt;
@@ -1539,9 +1539,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>Resultado do Festival de Jogos Independentes</title>
-   <link href="http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes"/>
+   <link href="//2005/11/25/resultado-do-festival-de-jogos-independentes"/>
    <updated>2005-11-25T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes</id>
+   <id>//2005/11/25/resultado-do-festival-de-jogos-independentes</id>
    <content type="html">&lt;p&gt;Segundo Rodrigo Damazio, Chair do Festival de Jogos Independentes do SBGames 2005, o resultado da premiação foi:&lt;/p&gt;
 
 &lt;p&gt;1o. Lugar com 33% dos votos - &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo&lt;/a&gt;&lt;/p&gt;
@@ -1566,9 +1566,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>Jogos em debate</title>
-   <link href="http://example.com/2005/11/23/jogos-em-debate"/>
+   <link href="//2005/11/23/jogos-em-debate"/>
    <updated>2005-11-23T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/23/jogos-em-debate</id>
+   <id>//2005/11/23/jogos-em-debate</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://www.hoplon.com/&quot;&gt;Hoplon Infotainment&lt;/a&gt;
  está chamando a atenção de todo o País. Na próxima quinta-feira, dia 24, o presidente da empresa, Tarqüínio Teles, estará participando de uma mesa redonda no Simpósio Brasileiro de Games (&lt;a href=&quot;http://sbgames.org/&quot;&gt;SBGames 2005&lt;/a&gt;
 ) junto com Marcelo Minutti (Brasil Telecom) e Julio Vieitez (Level Up/Ragnarok). O tema do debate será “Jogos on-line: mercado e desenvolvimento”. Tarqüínio recebeu o convite por ser o principal mentor do maior projeto de desenvolvimento de game executado no Brasil, o &lt;a href=&quot;/2005/09/21/taikodom/&quot;&gt;Taikodom&lt;/a&gt;
@@ -1580,9 +1580,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>Eventos de novembro</title>
-   <link href="http://example.com/2005/11/11/eventos-de-novembro"/>
+   <link href="//2005/11/11/eventos-de-novembro"/>
    <updated>2005-11-11T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/11/eventos-de-novembro</id>
+   <id>//2005/11/11/eventos-de-novembro</id>
    <content type="html">&lt;p&gt;Confira os eventos para o mês de novembro:&lt;/p&gt;
 
 &lt;ul style=&quot;text-align: justify;&quot;&gt;
@@ -1598,9 +1598,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>Eventos para o mês de outubro</title>
-   <link href="http://example.com/2005/10/04/eventos-para-o-mes-de-outubro"/>
+   <link href="//2005/10/04/eventos-para-o-mes-de-outubro"/>
    <updated>2005-10-04T00:00:00-03:00</updated>
-   <id>http://example.com/2005/10/04/eventos-para-o-mes-de-outubro</id>
+   <id>//2005/10/04/eventos-para-o-mes-de-outubro</id>
    <content type="html">&lt;p&gt;Fique atento aos eventos que irão acontecer neste mês de outubro:&lt;/p&gt;
 
 &lt;ul style=&quot;text-align: justify;&quot;&gt;
@@ -1615,9 +1615,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>Workshop de Jogos Digitais na Educação</title>
-   <link href="http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao"/>
+   <link href="//2005/09/30/workshop-de-jogos-digitais-na-educacao"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
+   <id>//2005/09/30/workshop-de-jogos-digitais-na-educacao</id>
    <content type="html">&lt;p&gt;O Workshop de Jogos Digitais na Educação trata-se de um evento que irá ocorrer paralelamente ao XVI Simpósio Brasileiro de Informática na Educação (SBIE 2005) e abordará as questões interdisciplinares envolvidas nos jogos digitais no âmbito educacional como ferramenta de ensino-aprendizagem, desde a Educação Infantil aos programas de pós-graduação.&lt;/p&gt;
 
 &lt;p&gt;Na atualidade ampliou-se a discussão referentes as potencialidades mercadológicas e pedagógicas dos jogos digitais. Os aprendizes do século XXI estão integrados com uma realidade pós-industrial, com novos valores evivenciando o ciberespaço. Diante desta realidade torna-se necessário repensar as metodologias de ensino-aprendizagem adotadas nos ambientes acadêmicos da Educação Infantil até aos programas de pós-graduação. Neste contexto os jogos digitais recebem destaque pelo fato de serem considerados excelentes ferramentas motivadoras que poderão ser adotadas como uma metodologia de ensino-aprendizagem. Desde os primórdios da Informática na Educação que os jogos educativos estão em pauta, entretanto tal ferramenta precisa ser revisada através de uma abordagem contemporânea e transdisciplinar que adequa-se a este aprendiz do século XXI, resgatando o sentido original dos jogos que trata-se da ludicidade, do prazer, tornando-se menos didatizantes e conteudistas e tornando-os verdadeiros artefatos culturais potencializadores de Inclusão Digital. É importante destacar que entende-se como jogo qualquer software interativo, imersivo e lúdico (é fundamental que seja divertido) com objetivos pedagógicos explícitos ou implícitos.&lt;/p&gt;
@@ -1647,9 +1647,9 @@ Esperamos que 2011 seja um ano ainda melhor para os games brasileiros&lt;/p&gt;
  
  <entry>
    <title>SBGames 2005</title>
-   <link href="http://example.com/2005/09/27/sbgames-2005"/>
+   <link href="//2005/09/27/sbgames-2005"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/27/sbgames-2005</id>
+   <id>//2005/09/27/sbgames-2005</id>
    <content type="html">&lt;tr&gt;
 
 O Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital será realizado entre 23 e 25 de novembro de 2005 em São Paulo.
@@ -1674,9 +1674,9 @@ O evento reuni outros quatro eventos: Wjogos, Game Art, In2Games e Festival de J
  
  <entry>
    <title>Gamecon</title>
-   <link href="http://example.com/2005/09/27/gamecon"/>
+   <link href="//2005/09/27/gamecon"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/27/gamecon</id>
+   <id>//2005/09/27/gamecon</id>
    <content type="html">&lt;p&gt;Entre 15 e 16 de outubro de 2005 a segunda edição do Gamecon será realizada no Espaço Ferrovia , situado na Rua Dr. Almeida Lima, número 1219, no bairro da Móoca na Cidade de São Paulo.&lt;/p&gt;
 
 &lt;p&gt;O Gamecon é um evento específico de games e tecnologia, sendo dividido em três áreas distintas:&lt;/p&gt;

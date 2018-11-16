@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - ttomax</title>
- <link href="http://example.com/tags/ttomax/index.xml" rel="self"/>
- <link href="http://example.com/tag/ttomax.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/ttomax.html</id>
+ <title>jogosdaqui - ttomax</title>
+ <link href="//tags/ttomax/index.xml" rel="self"/>
+ <link href="/tag/ttomax.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/ttomax.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
@@ -170,9 +170,9 @@
  
  <entry>
    <title>NewsAbragames Novembro/2006</title>
-   <link href="http://example.com/2006/11/21/newsabragames-novembro-2006"/>
+   <link href="//2006/11/21/newsabragames-novembro-2006"/>
    <updated>2006-11-21T00:00:00-02:00</updated>
-   <id>http://example.com/2006/11/21/newsabragames-novembro-2006</id>
+   <id>//2006/11/21/newsabragames-novembro-2006</id>
    <content type="html">&lt;p&gt;No ar a edição de novembro da newsletter da Abragames. Neste mês a NewsAbragames inaugura um novo formato, mais interativo, proporcionando um contato maior entre a Abragames e os jogadores.&lt;br /&gt;&lt;br /&gt;Nesta edição uma review do jogo &lt;a href=&quot;/index.php?p=c&amp;amp;id=136&quot;&gt;Ottomax&lt;/a&gt;
  da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=48&quot;&gt;Insolita Studios&lt;/a&gt;
 , também veja como participar do Prêmio Criatividade no Combate à Pirataria e confira os destaques na mídia sobre desenvolvimento de jogos no Brasil.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.dcoder.com.br//abragames/index.php&quot; target=&quot;_blank&quot;&gt;Acesse a newsletter…&lt;/a&gt;&lt;/p&gt;
@@ -182,24 +182,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Ottomax</title>
-   <link href="http://example.com/2005/11/03/ottomax"/>
+   <link href="//2005/11/03/ottomax"/>
    <updated>2005-11-03T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/03/ottomax</id>
+   <id>//2005/11/03/ottomax</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://ottomax.com.br/&quot; target=&quot;_blank&quot;&gt;Ottomax&lt;/a&gt;
  é um game que simula um ambiente empresarial, onde o jogador conhece e pratica suas habilidades empreendedoras. Quinze características são abordadas e avaliadas durante o game, que conta com um conteúdo exclusivo recheado de arte, animações e trilha sonora originais. O jogador interage com a história, decidindo o dia-a-dia do protagonista tentando levar a empresa ao sucesso. No final do game, cada jogador tem acesso a um relatório personalizado que analisa o caminho percorrido dentro do jogo e apresenta o seu perfil empreendedor.&lt;/p&gt;
 

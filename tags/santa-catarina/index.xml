@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - santa-catarina</title>
- <link href="http://example.com/tags/santa-catarina/index.xml" rel="self"/>
- <link href="http://example.com/tag/santa-catarina.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/santa-catarina.html</id>
+ <title>jogosdaqui - santa-catarina</title>
+ <link href="//tags/santa-catarina/index.xml" rel="self"/>
+ <link href="/tag/santa-catarina.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/santa-catarina.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis</title>
-   <link href="http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
+   <link href="//2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis"/>
    <updated>2015-09-03T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
+   <id>//2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis</id>
    <content type="html">&lt;p&gt;Depois de visitar Rio de Janeiro, São Paulo, Recife e Fortaleza, chegou a hora do evento Brazil Gets Unreal, da  Epic Games, acontecer no sul do país.&lt;/p&gt;
 
 &lt;p&gt;O Brazil Gets Unreal é uma série de palestras mostrando casos de uso da engine Unreal, onde você verá exatamente como construir um jogo de tiro twin-stick para dispositivos móveis – completamente do zero – utilizando o Blueprint visual scripting system da Unreal Engine 4. Como Blueprints são facilmente aproveitados por todas as disciplinas do desenvolvimento de jogos, todos os artistas, designers e programadores são bem-vindos.&lt;/p&gt;

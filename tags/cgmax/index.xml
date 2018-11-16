@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - cgmax</title>
- <link href="http://example.com/tags/cgmax/index.xml" rel="self"/>
- <link href="http://example.com/tag/cgmax.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/cgmax.html</id>
+ <title>jogosdaqui - cgmax</title>
+ <link href="//tags/cgmax/index.xml" rel="self"/>
+ <link href="/tag/cgmax.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/cgmax.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Vestibular para desenvolver jogos</title>
-   <link href="http://example.com/2006/03/03/vestibular-para-desenvolver-jogos"/>
+   <link href="//2006/03/03/vestibular-para-desenvolver-jogos"/>
    <updated>2006-03-03T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/03/vestibular-para-desenvolver-jogos</id>
+   <id>//2006/03/03/vestibular-para-desenvolver-jogos</id>
    <content type="html">&lt;p&gt;Cada vez mais, apaixonados por jogos decidem não apenas jogar, mas também desenvolver jogos profissionalmente.&lt;br /&gt;&lt;br /&gt;Muitas universidades do país oferecem cursos superiores focados no desenvolvimento de jogos, um exemplo é a Universidade Veiga de Almeida que acaba de abrir as inscrições para o vestibular da graduação Tecnológica &lt;a href=&quot;http://www.cgmax.com.br/index.php?option=com_content&amp;amp;task=blogcategory&amp;amp;id=94&amp;amp;Itemid=58&quot; target=&quot;_blank&quot;&gt;&quot;Ilustração e Animação Digital&quot;&lt;/a&gt;
 . Os candidatos do vestibular concorrem a vários tipos de bolsas, algumas até integrais.&lt;br /&gt;&lt;br /&gt;Se você sempre desejou transformar suas idéias em jogos, esse pode ser o início de tudo.&lt;br /&gt;&lt;br /&gt;Mais detalhes em &lt;a target=&quot;_blank&quot; href=&quot;http://www.cgmax.com.br&quot;&gt;www.cgmax.com.br&lt;/a&gt;
 .&lt;/p&gt;
@@ -22,9 +22,9 @@
  
  <entry>
    <title>Palestra Pequeno Guardião do Tempo</title>
-   <link href="http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo"/>
+   <link href="//2005/12/14/palestra-pequeno-guardiao-do-tempo"/>
    <updated>2005-12-14T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo</id>
+   <id>//2005/12/14/palestra-pequeno-guardiao-do-tempo</id>
    <content type="html">&lt;p&gt;Os desenvolvedores do jogo &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo,&lt;/a&gt;
  campeão do Festival de Jogos Independentes do SBGames 2005, estarão numa palestra na Universidade Veiga de Almeida dia 17 de dezembro.&lt;/p&gt;
 
@@ -37,9 +37,9 @@
  
  <entry>
    <title>Seja um profissional da indústria de jogos</title>
-   <link href="http://example.com/2005/11/21/seja-um-profissional-da-industria-de-jogos"/>
+   <link href="//2005/11/21/seja-um-profissional-da-industria-de-jogos"/>
    <updated>2005-11-21T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/21/seja-um-profissional-da-industria-de-jogos</id>
+   <id>//2005/11/21/seja-um-profissional-da-industria-de-jogos</id>
    <content type="html">&lt;h2 id=&quot;que-tal-trabalhar-na-indústria-de-jogos&quot;&gt;Que tal trabalhar na indústria de jogos?&lt;/h2&gt;
 &lt;p&gt;Dois pré-requisitos são essencias: um é ser apaixonado por jogos e o outro é estudar muito, isso mesmo, desenvolver jogos demanda de um grande conhecimento técnico e artístico.&lt;/p&gt;
 

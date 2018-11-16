@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - corrida</title>
- <link href="http://example.com/tags/corrida/index.xml" rel="self"/>
- <link href="http://example.com/tag/corrida.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/corrida.html</id>
+ <title>jogosdaqui - corrida</title>
+ <link href="//tags/corrida/index.xml" rel="self"/>
+ <link href="/tag/corrida.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/corrida.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Horizon Chase se aproxima do grid de largada</title>
-   <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
+   <link href="//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
    <updated>2015-08-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
+   <id>//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
    <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot;&gt;Aquiris Game Studio&lt;/a&gt; á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
 
 &lt;p&gt;Segundo a gamedev gaúcha, Horizon Chase será um jogo premium, contendo 8 copas, 32 cidades, 73 pistas e 16 carros desbloqueáveis.&lt;/p&gt;
@@ -33,9 +33,9 @@
  
  <entry>
    <title>Teaser de gameplay de Horizon Chase</title>
-   <link href="http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
+   <link href="//2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
+   <id>//2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
    <content type="html">&lt;p&gt;Em maio fizemos uma &lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/&quot;&gt;prévia do game de corrida Horizon Chase&lt;/a&gt;, agora saiu do forno o tão esperado vídeo mostrando um pouco do gameplay do jogo da gaúcha Aquiris Game Studio.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o vídeo do game que deve ser lançado para consoles, mobile e PC.&lt;/p&gt;
@@ -49,9 +49,9 @@
  
  <entry>
    <title>Novidades de Horizon Chase</title>
-   <link href="http://example.com/2015/05/20/novidades-de-horizon-chase"/>
+   <link href="//2015/05/20/novidades-de-horizon-chase"/>
    <updated>2015-05-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/20/novidades-de-horizon-chase</id>
+   <id>//2015/05/20/novidades-de-horizon-chase</id>
    <content type="html">&lt;p&gt;O game Horizon Chase da Aquiris Game Studio tem causado um “frisson” na comunidade gamer que aprecia games de corrida old-school, tanto pelo visual apurado quanto pela trilha sonora composta pelo mesmo compositor de clássicos como Top Gear.&lt;/p&gt;
 
 &lt;center&gt;
@@ -80,9 +80,9 @@
  
  <entry>
    <title>Prévia de Horizon Chase da Aquiris Game Studio</title>
-   <link href="http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
+   <link href="//2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
+   <id>//2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
    <content type="html">&lt;p&gt;Antes de ler qualquer coisa sobre &lt;a href=&quot;http://horizonchase.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Horizon Chase&lt;/a&gt;, ouça a trilha sonora abaixo:&lt;/p&gt;
 
 &lt;center&gt;
@@ -119,9 +119,9 @@
  
  <entry>
    <title>Joga Brasil</title>
-   <link href="http://example.com/2012/01/13/joga-brasil"/>
+   <link href="//2012/01/13/joga-brasil"/>
    <updated>2012-01-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/01/13/joga-brasil</id>
+   <id>//2012/01/13/joga-brasil</id>
    <content type="html">&lt;p&gt;Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o &lt;a href=&quot;http://www.jogabrasil.com.br/&quot; target=&quot;_blank&quot;&gt;Joga Brasil&lt;/a&gt;
 , primeiro evento focado na divulgação de games produzidos por empresas nacionais. Como não poderia deixar de ser, o jogosdaqui apóia, e muito, esse tipo de iniciativa.&lt;/p&gt;
 
@@ -191,24 +191,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Ayrton Senna&#39;s Best Lap</title>
-   <link href="http://example.com/2006/04/22/ayrton-sennas-best-lap"/>
+   <link href="//2006/04/22/ayrton-sennas-best-lap"/>
    <updated>2006-04-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/22/ayrton-sennas-best-lap</id>
+   <id>//2006/04/22/ayrton-sennas-best-lap</id>
    <content type="html">&lt;p&gt;Ligue os motores e se prepare! A volta de classificação está prestes a começar, e você deve usar toda a sua experiência e precisão, e ter nervos de aço para alcançar a Pole Position.&lt;/p&gt;
 
 &lt;p&gt;Ayrton Senna’s Best Lap mistura estilos de corrida e coordenação, proporcionando uma experiência de jogo única que vai acelerar seu celular! Às suas marcas, assuma o controle de um dos mais velozes carros de corrida do mundo, e pilote em vários circuitos tentando ganhar a Pole Position e quebrar todos os recordes! A conexão com a Mobile Arena torna a competição ainda mais acirrada, possibilitando a disputa por excelência com milhares de jogadores ao redor do mundo.&lt;/p&gt;
@@ -217,9 +217,9 @@
  
  <entry>
    <title>Super Mini Racing</title>
-   <link href="http://example.com/2005/09/20/super-mini-racing"/>
+   <link href="//2005/09/20/super-mini-racing"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/20/super-mini-racing</id>
+   <id>//2005/09/20/super-mini-racing</id>
    <content type="html">&lt;p&gt;O Super Mini Racing celebra a mais antiga e gostosa brincadeira do mundo: apostar corrida!&lt;/p&gt;
 
 &lt;p&gt;Ele é o primeiro simulador de corridas em 3D desenvolvido no Brasil. Com carros miniaturizados que percorrem pistas instaladas no quarto e no jardim de uma grande casa virtual, passando por obstáculos como piscina, lareira, móveis, etc, o Super Mini Racing é uma maneira saudável de brincar com a velocidade, sem a violência da maioria dos videogames produzidos com esse tema.&lt;/p&gt;

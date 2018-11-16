@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - zeeppo</title>
- <link href="http://example.com/tags/zeeppo/index.xml" rel="self"/>
- <link href="http://example.com/tag/zeeppo.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/zeeppo.html</id>
+ <title>jogosdaqui - zeeppo</title>
+ <link href="//tags/zeeppo/index.xml" rel="self"/>
+ <link href="/tag/zeeppo.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/zeeppo.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Rock Life</title>
-   <link href="http://example.com/2015/09/09/rock-life"/>
+   <link href="//2015/09/09/rock-life"/>
    <updated>2015-09-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/09/rock-life</id>
+   <id>//2015/09/09/rock-life</id>
    <content type="html">&lt;p&gt;Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis?&lt;/p&gt;
 
 &lt;p&gt;Ser o guitarrista virtuoso de uma grande banda de rock já foi o sonho de muita gente.&lt;/p&gt;

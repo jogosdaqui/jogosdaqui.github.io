@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - sbgames</title>
- <link href="http://example.com/tags/sbgames/index.xml" rel="self"/>
- <link href="http://example.com/tag/sbgames.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/sbgames.html</id>
+ <title>jogosdaqui - sbgames</title>
+ <link href="//tags/sbgames/index.xml" rel="self"/>
+ <link href="/tag/sbgames.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/sbgames.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Finalistas do Festival de Jogos Independentes do SBGames 2015</title>
-   <link href="http://example.com/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015"/>
+   <link href="//2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015"/>
    <updated>2015-10-26T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015</id>
+   <id>//2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015</id>
    <content type="html">&lt;p&gt;A organização do Festival de Jogos Independentes do &lt;a href=&quot;http://www.sbgames.org/sbgames2015&quot; target=&quot;_blank&quot;&gt;SBGames 2015&lt;/a&gt;
  &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=882614481814106&quot; target=&quot;_blank&quot;&gt;anunciou os games finalistas&lt;/a&gt;
  que estarão em exposição no evento que acontecerá entre 11 e 13 de novembro em Teresina/PI.&lt;/p&gt;
@@ -190,9 +190,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Calango For Kids</title>
-   <link href="http://example.com/2015/04/10/calango-for-kids"/>
+   <link href="//2015/04/10/calango-for-kids"/>
    <updated>2015-04-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/10/calango-for-kids</id>
+   <id>//2015/04/10/calango-for-kids</id>
    <content type="html">&lt;p&gt;Ao ver o game Calango For Kids, da gaúcha Tinfoil Hat Studios, me lembrei do slogan do &lt;a href=&quot;http://www.scicast.com.br/&quot;&gt;SciCast&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -218,9 +218,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Tank Invaders</title>
-   <link href="http://example.com/2015/04/08/tank-invaders"/>
+   <link href="//2015/04/08/tank-invaders"/>
    <updated>2015-04-08T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/08/tank-invaders</id>
+   <id>//2015/04/08/tank-invaders</id>
    <content type="html">&lt;p&gt;No jogo para &lt;a href=&quot;https://itunes.apple.com/app/id815229338&quot;&gt;iOS&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.mothergaia.tank&quot;&gt;Android&lt;/a&gt; e &lt;a href=&quot;http://windowsphone.com/s?appid=c24702ff-0328-45d8-b28a-6c3d178fa9eb&quot;&gt;Windows Phone&lt;/a&gt; você é um soldado no controle de mísseis, metralhadoras, pulsos eletromagnéticos, armas nucleares e uma infinidade de power-ups. Seu objetivo é destruir Terror, o maligno líder militar das forças inimigas.&lt;/p&gt;
 
 &lt;p&gt;A melhor definição o estilo do game Tank Invaders da Mgaia Studio é o que a própria empresa dá: o único FPS shoot’em up.  A visão do jogo, como pode ser visto nas imagens e vídeo abaixo é no  estilo de clássicos shoot’em up, entretanto você não vê a sua “nave”, pois a visão é primeira pessoa, então chegamos a definição de estilo dado pelo Mgaia.&lt;/p&gt;
@@ -247,9 +247,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>V de Vinagre</title>
-   <link href="http://example.com/2013/06/17/v-de-vinagre"/>
+   <link href="//2013/06/17/v-de-vinagre"/>
    <updated>2013-06-17T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/17/v-de-vinagre</id>
+   <id>//2013/06/17/v-de-vinagre</id>
    <content type="html">&lt;p&gt;A Flux Game Studio, vencedora no final de 2012 do concurso de Criação de Game de Educação Financeira da SBGames e Banco do Brasil, está antenada com que acontece no país, pois acaba de lançar o game &lt;a href=&quot;https://apps.facebook.com/vdevinagre/&quot;&gt;V de Vinagre&lt;/a&gt; que ironiza a violência ocorrida nos últimos manifestos no RJ e SP.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -274,9 +274,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Documentário "Indústria de Games no Brasil"</title>
-   <link href="http://example.com/2013/06/13/documentario-industria-de-games-no-brasil"/>
+   <link href="//2013/06/13/documentario-industria-de-games-no-brasil"/>
    <updated>2013-06-13T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/13/documentario-industria-de-games-no-brasil</id>
+   <id>//2013/06/13/documentario-industria-de-games-no-brasil</id>
    <content type="html">&lt;p&gt;O vídeo tem cerca 30 minutos e conta com a participação de:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -299,9 +299,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Hipercubo</title>
-   <link href="http://example.com/2012/08/08/hipercubo"/>
+   <link href="//2012/08/08/hipercubo"/>
    <updated>2012-08-08T00:00:00-03:00</updated>
-   <id>http://example.com/2012/08/08/hipercubo</id>
+   <id>//2012/08/08/hipercubo</id>
    <content type="html">&lt;p&gt;Definição de Hipercubo da Wikipédia:&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Em geometria, entende-se por hipercubo um análogo n-dimensional do quadrado (n=2) e do cubo (n=3). Todo hipercubo é fechado, compacto e convexo, cujo esqueleto é formado por grupos de segmentos paralelos alinhados em cada dimensão do espaço, formando ângulos retos com os outros segmentos de mesmo tamanho e comprimento.&quot;&lt;/p&gt;
@@ -323,9 +323,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>SBGames</title>
-   <link href="http://example.com/2006/09/29/sbgames"/>
+   <link href="//2006/09/29/sbgames"/>
    <updated>2006-09-29T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/29/sbgames</id>
+   <id>//2006/09/29/sbgames</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;br /&gt;&lt;/span&gt;
 &lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -339,9 +339,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>SBGames 2006 em Recife</title>
-   <link href="http://example.com/2006/09/29/sbgames-2006-em-recife"/>
+   <link href="//2006/09/29/sbgames-2006-em-recife"/>
    <updated>2006-09-29T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/29/sbgames-2006-em-recife</id>
+   <id>//2006/09/29/sbgames-2006-em-recife</id>
    <content type="html">&lt;p&gt;A edição 2006 do evento que se consolidou como o maior evento do país para pesquisadores e desenvolvedores de jogos será realizada em Recife entre os dias 08 e 10 de novembro.&lt;br /&gt;&lt;br /&gt;Se você quer conhecer mais sobre como os jogos eletrônicos são produzidos, não pode perder a SBGames.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=485&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -349,9 +349,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Palestra Pequeno Guardião do Tempo</title>
-   <link href="http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo"/>
+   <link href="//2005/12/14/palestra-pequeno-guardiao-do-tempo"/>
    <updated>2005-12-14T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/14/palestra-pequeno-guardiao-do-tempo</id>
+   <id>//2005/12/14/palestra-pequeno-guardiao-do-tempo</id>
    <content type="html">&lt;p&gt;Os desenvolvedores do jogo &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo,&lt;/a&gt;
  campeão do Festival de Jogos Independentes do SBGames 2005, estarão numa palestra na Universidade Veiga de Almeida dia 17 de dezembro.&lt;/p&gt;
 
@@ -364,9 +364,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Resultado do Festival de Jogos Independentes</title>
-   <link href="http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes"/>
+   <link href="//2005/11/25/resultado-do-festival-de-jogos-independentes"/>
    <updated>2005-11-25T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes</id>
+   <id>//2005/11/25/resultado-do-festival-de-jogos-independentes</id>
    <content type="html">&lt;p&gt;Segundo Rodrigo Damazio, Chair do Festival de Jogos Independentes do SBGames 2005, o resultado da premiação foi:&lt;/p&gt;
 
 &lt;p&gt;1o. Lugar com 33% dos votos - &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo&lt;/a&gt;&lt;/p&gt;
@@ -391,9 +391,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Jogos em debate</title>
-   <link href="http://example.com/2005/11/23/jogos-em-debate"/>
+   <link href="//2005/11/23/jogos-em-debate"/>
    <updated>2005-11-23T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/23/jogos-em-debate</id>
+   <id>//2005/11/23/jogos-em-debate</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://www.hoplon.com/&quot;&gt;Hoplon Infotainment&lt;/a&gt;
  está chamando a atenção de todo o País. Na próxima quinta-feira, dia 24, o presidente da empresa, Tarqüínio Teles, estará participando de uma mesa redonda no Simpósio Brasileiro de Games (&lt;a href=&quot;http://sbgames.org/&quot;&gt;SBGames 2005&lt;/a&gt;
 ) junto com Marcelo Minutti (Brasil Telecom) e Julio Vieitez (Level Up/Ragnarok). O tema do debate será “Jogos on-line: mercado e desenvolvimento”. Tarqüínio recebeu o convite por ser o principal mentor do maior projeto de desenvolvimento de game executado no Brasil, o &lt;a href=&quot;/2005/09/21/taikodom/&quot;&gt;Taikodom&lt;/a&gt;
@@ -405,9 +405,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>Eventos de novembro</title>
-   <link href="http://example.com/2005/11/11/eventos-de-novembro"/>
+   <link href="//2005/11/11/eventos-de-novembro"/>
    <updated>2005-11-11T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/11/eventos-de-novembro</id>
+   <id>//2005/11/11/eventos-de-novembro</id>
    <content type="html">&lt;p&gt;Confira os eventos para o mês de novembro:&lt;/p&gt;
 
 &lt;ul style=&quot;text-align: justify;&quot;&gt;
@@ -423,9 +423,9 @@ Warlock’s Tower - PC&lt;/p&gt;
  
  <entry>
    <title>SBGames 2005</title>
-   <link href="http://example.com/2005/09/27/sbgames-2005"/>
+   <link href="//2005/09/27/sbgames-2005"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/27/sbgames-2005</id>
+   <id>//2005/09/27/sbgames-2005</id>
    <content type="html">&lt;tr&gt;
 
 O Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital será realizado entre 23 e 25 de novembro de 2005 em São Paulo.

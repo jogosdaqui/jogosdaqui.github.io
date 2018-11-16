@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - rts</title>
- <link href="http://example.com/tags/rts/index.xml" rel="self"/>
- <link href="http://example.com/tag/rts.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/rts.html</id>
+ <title>jogosdaqui - rts</title>
+ <link href="//tags/rts/index.xml" rel="self"/>
+ <link href="/tag/rts.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/rts.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Dino Zone</title>
-   <link href="http://example.com/2015/04/16/dino-zone"/>
+   <link href="//2015/04/16/dino-zone"/>
    <updated>2015-04-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/16/dino-zone</id>
+   <id>//2015/04/16/dino-zone</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Um pequeno grupo de cientistas viaja no tempo, de volta ao período Cretáceo e tem que enfrentar o professor Nigel Racik e sua horda de dinossauros.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -43,9 +43,9 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
@@ -202,9 +202,9 @@
  
  <entry>
    <title>Novo vídeo de Super Roommates</title>
-   <link href="http://example.com/2010/11/29/novo-video-de-super-roommates-2"/>
+   <link href="//2010/11/29/novo-video-de-super-roommates-2"/>
    <updated>2010-11-29T00:00:00-02:00</updated>
-   <id>http://example.com/2010/11/29/novo-video-de-super-roommates-2</id>
+   <id>//2010/11/29/novo-video-de-super-roommates-2</id>
    <content type="html">&lt;p&gt;A brasileira Behold Studios, conhecida pelo seu RTS para iPhone &lt;a href=&quot;http://goo.gl/TZos1&quot; target=&quot;_blank&quot;&gt;&quot;The Gravedigger&quot;&lt;/a&gt;
 , liberou um novo vídeo  sobre seu game para Facebook &quot;Super Roommates&quot;.
 No vídeo podemos conferir mais do gameplay do game.&lt;/p&gt;
@@ -217,24 +217,24 @@ No vídeo podemos conferir mais do gameplay do game.&lt;/p&gt;
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Primeiro Brasileiro no Espaço</title>
-   <link href="http://example.com/2006/03/24/primeiro-brasileiro-no-espaco"/>
+   <link href="//2006/03/24/primeiro-brasileiro-no-espaco"/>
    <updated>2006-03-24T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/24/primeiro-brasileiro-no-espaco</id>
+   <id>//2006/03/24/primeiro-brasileiro-no-espaco</id>
    <content type="html">&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;table width=&quot;416&quot; cellspacing=&quot;2&quot; cellpadding=&quot;1&quot; border=&quot;0&quot; style=&quot;text-align: left; margin-left: auto; margin-right: auto;&quot;&gt;
@@ -302,9 +302,9 @@ No vídeo podemos conferir mais do gameplay do game.&lt;/p&gt;
  
  <entry>
    <title>Outlive</title>
-   <link href="http://example.com/2005/09/17/outlive"/>
+   <link href="//2005/09/17/outlive"/>
    <updated>2005-09-17T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/17/outlive</id>
+   <id>//2005/09/17/outlive</id>
    <content type="html">&lt;p&gt;Outlive é um jogo de estratégia em tempo real, no qual o jogador deve gerenciar sua base e construir tropas para atacar seus adversários. O jogo possui uma avançada Inteligência Artificial, permitindo que uma pessoa possa disputar partidas contra até 7 exércitos controlados pelo computador. Em Outlive também é possível jogar contra outras pessoas, através de cabo serial, modem, rede local e internet.&lt;/p&gt;
 
 &lt;p&gt;As partidas realizadas através da rede local e internet suportam até 16 pessoas num mesmo jogo. As partidas disputadas pela internet utilizam o Continuum Game Server (CGS), um serviço de jogos oferecido gratuitamente pela Continuum, onde é possível encontrar outras pessoas para conversar e jogar Outlive, através de uma interface totalmente integrada ao jogo.Outlive foi o primeiro jogo da empresa Continuum de Curitiba.&lt;/p&gt;

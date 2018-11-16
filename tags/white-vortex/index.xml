@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - white-vortex</title>
- <link href="http://example.com/tags/white-vortex/index.xml" rel="self"/>
- <link href="http://example.com/tag/white-vortex.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/white-vortex.html</id>
+ <title>jogosdaqui - white-vortex</title>
+ <link href="//tags/white-vortex/index.xml" rel="self"/>
+ <link href="/tag/white-vortex.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/white-vortex.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Meu Pianinho</title>
-   <link href="http://example.com/2012/04/11/meu-pianinho"/>
+   <link href="//2012/04/11/meu-pianinho"/>
    <updated>2012-04-11T00:00:00-03:00</updated>
-   <id>http://example.com/2012/04/11/meu-pianinho</id>
+   <id>//2012/04/11/meu-pianinho</id>
    <content type="html">&lt;p&gt;A empresa &lt;a href=&quot;http://whitevortex.com&quot; target=&quot;_blank&quot;&gt;White Vortex&lt;/a&gt;
  de Brasília estreou no mercado de games com o belo game educacional &lt;a href=&quot;http://whitevortex.com/pt/lista-jogos/jogos/73-aprender-brincando-meu-pianinho&quot; target=&quot;_blank&quot;&gt;Meu Pianinho&lt;/a&gt;
 , disponível para iPad e dispositivos Android.&lt;/p&gt;

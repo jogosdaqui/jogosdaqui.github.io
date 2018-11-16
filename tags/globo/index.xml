@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - globo</title>
- <link href="http://example.com/tags/globo/index.xml" rel="self"/>
- <link href="http://example.com/tag/globo.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/globo.html</id>
+ <title>jogosdaqui - globo</title>
+ <link href="//tags/globo/index.xml" rel="self"/>
+ <link href="/tag/globo.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/globo.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Programadores de jogos na Rede Globo</title>
-   <link href="http://example.com/2005/11/28/programadores-de-jogos-na-rede-globo"/>
+   <link href="//2005/11/28/programadores-de-jogos-na-rede-globo"/>
    <updated>2005-11-28T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/28/programadores-de-jogos-na-rede-globo</id>
+   <id>//2005/11/28/programadores-de-jogos-na-rede-globo</id>
    <content type="html">&lt;p&gt;O Jornal Hoje, da Rede Globo, divulgou uma matéria sobre a profissão de programador de jogos no Brasil.
 Se você é apaixonado por jogos, precisa conferir a matéria neste &lt;a href=&quot;http://jornalhoje.globo.com/JHoje/0,19125,VJP0-3074-124409,00.html#&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt;
 .&lt;/p&gt;
@@ -22,9 +22,9 @@ Se você é apaixonado por jogos, precisa conferir a matéria neste &lt;a href=&
  
  <entry>
    <title>No Limite</title>
-   <link href="http://example.com/2005/09/30/no-limite"/>
+   <link href="//2005/09/30/no-limite"/>
    <updated>2005-09-30T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/30/no-limite</id>
+   <id>//2005/09/30/no-limite</id>
    <content type="html">&lt;p&gt;Este jogo foi baseado no programa de televisão No Limite, apresentado pela Rede Globo de Televisão no Brasil.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2005/09/nolimite2.jpg&quot;&gt;
@@ -37,9 +37,9 @@ Se você é apaixonado por jogos, precisa conferir a matéria neste &lt;a href=&
  
  <entry>
    <title>Big Brother Brasil</title>
-   <link href="http://example.com/2005/09/19/big-brother-brasil"/>
+   <link href="//2005/09/19/big-brother-brasil"/>
    <updated>2005-09-19T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/19/big-brother-brasil</id>
+   <id>//2005/09/19/big-brother-brasil</id>
    <content type="html">&lt;p&gt;O jogo Big Brother Brasil foi baseado no programa de televisão de grande sucesso em vários países do mundo e que também teve um grande sucesso pelas ondas da Rede Globo.&lt;/p&gt;
 
 &lt;p&gt;O jogador pode entrar neste &quot;virtual reality show&quot; como um dos 12 personagens disponíveis, cada um com suas próprias características pessoais.&lt;/p&gt;

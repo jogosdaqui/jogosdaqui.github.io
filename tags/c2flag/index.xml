@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - c2flag</title>
- <link href="http://example.com/tags/c2flag/index.xml" rel="self"/>
- <link href="http://example.com/tag/c2flag.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/c2flag.html</id>
+ <title>jogosdaqui - c2flag</title>
+ <link href="//tags/c2flag/index.xml" rel="self"/>
+ <link href="/tag/c2flag.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/c2flag.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Dino Jump</title>
-   <link href="http://example.com/2013/04/25/dino-jump"/>
+   <link href="//2013/04/25/dino-jump"/>
    <updated>2013-04-25T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/25/dino-jump</id>
+   <id>//2013/04/25/dino-jump</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Dino Jump é um jogo casual de aventura para iPhone, iPod e iPad no qual o jogador controla Dino, um dinossauro que acabou preso no fundo de um vulcão. Enquanto escapa da lava, Dino deve coletar o máximo de DNA para comprar evoluções que garantem melhorias ao personagem, como a habilidade de voar ou de usar chifres para se defender de inimigos. O jogo contém 6 diferentes regiões, cada uma com 10 níveis repletas de perigos e armadilhas, e os jogadores que chegarem ao fim do jogo são premiados com um modo infinito, no qual o objetivo é sobreviver a maior quantidade de tempo possível.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;

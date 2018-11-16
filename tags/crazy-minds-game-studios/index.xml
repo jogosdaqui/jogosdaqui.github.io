@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - crazy-minds-game-studios</title>
- <link href="http://example.com/tags/crazy-minds-game-studios/index.xml" rel="self"/>
- <link href="http://example.com/tag/crazy-minds-game-studios.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/crazy-minds-game-studios.html</id>
+ <title>jogosdaqui - crazy-minds-game-studios</title>
+ <link href="//tags/crazy-minds-game-studios/index.xml" rel="self"/>
+ <link href="/tag/crazy-minds-game-studios.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/crazy-minds-game-studios.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #8</title>
-   <link href="http://example.com/2015/05/29/checkpoint-8"/>
+   <link href="//2015/05/29/checkpoint-8"/>
    <updated>2015-05-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/29/checkpoint-8</id>
+   <id>//2015/05/29/checkpoint-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/updates/25536644&quot;&gt;Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight&lt;/a&gt;&lt;/p&gt;
 
@@ -48,9 +48,9 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7"/>
+   <link href="//2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/22/checkpoint-7</id>
+   <id>//2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/14/demo-reel-da-odin-game-studio/&quot;&gt;Confira o demo reel da Odin Game Studio&lt;/a&gt;&lt;/p&gt;
 

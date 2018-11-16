@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - labindie</title>
- <link href="http://example.com/tags/labindie/index.xml" rel="self"/>
- <link href="http://example.com/tag/labindie.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/labindie.html</id>
+ <title>jogosdaqui - labindie</title>
+ <link href="//tags/labindie/index.xml" rel="self"/>
+ <link href="/tag/labindie.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/labindie.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6"/>
+   <link href="//2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/14/checkpoint-6</id>
+   <id>//2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/CurveDigital/status/59775538841977241&quot;&gt;A Curve Digital anunciou que publicará o game Porcupine da Big Green Pillow ainda este mês&lt;/a&gt;&lt;/p&gt;
 
@@ -45,9 +45,9 @@
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4"/>
+   <link href="//2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/02/checkpoint-4</id>
+   <id>//2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://gamereporter.uol.com.br/mundo-canibal-apocalipse-steam&quot;&gt;O game Mundo Canibal Apocalipse chega no Steam Greenlight. Jogo e voto obrigatórios para quem gosta do humor dos irmãos Piologo&lt;/a&gt;&lt;/p&gt;
 
@@ -94,9 +94,9 @@
  
  <entry>
    <title>Labindie divulga jogo indie Milford Heaven</title>
-   <link href="http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
+   <link href="//2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
    <updated>2015-04-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
+   <id>//2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
    <content type="html">&lt;p&gt;Para jogadores que curtem o estilo RPG roguelike point and click medieval, &lt;a href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot;&gt;Milford Heaven&lt;/a&gt; é uma excelente opção.&lt;/p&gt;
 
 &lt;p&gt;O jogador (você no caso), é um guerreiro treinado na arte das espadas, viaja de cidade em cidade procurando quem possa empregar seus serviços. Um dia você está acampando perto da cidade Milford Heaven e decide visitar a taberna. Ao chegar lá, fica surpreso pois a taberna está totalmente vazia, sem ninguém. Conversando com o estalajadeiro, fica sabendo que existe um vampiro chamado Luken e que seu castelo fica situado nas redondezas da cidade.&lt;/p&gt;

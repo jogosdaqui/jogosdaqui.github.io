@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - real-one-arcade</title>
- <link href="http://example.com/tags/real-one-arcade/index.xml" rel="self"/>
- <link href="http://example.com/tag/real-one-arcade.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/real-one-arcade.html</id>
+ <title>jogosdaqui - real-one-arcade</title>
+ <link href="//tags/real-one-arcade/index.xml" rel="self"/>
+ <link href="/tag/real-one-arcade.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/real-one-arcade.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Chip$ será lançado no Brasil</title>
-   <link href="http://example.com/2005/11/17/chip-sera-lancado-no-brasil"/>
+   <link href="//2005/11/17/chip-sera-lancado-no-brasil"/>
    <updated>2005-11-17T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/17/chip-sera-lancado-no-brasil</id>
+   <id>//2005/11/17/chip-sera-lancado-no-brasil</id>
    <content type="html">&lt;p&gt;O jogo &lt;a href=&quot;/2005/11/16/chip/&quot;&gt;Chip$&lt;/a&gt;
  será lançado em breve no Brasil, informa Alexandre Perucia, co-fundador da Nology Software.&lt;/p&gt;
 

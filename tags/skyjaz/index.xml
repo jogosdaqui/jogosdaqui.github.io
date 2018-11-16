@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - skyjaz</title>
- <link href="http://example.com/tags/skyjaz/index.xml" rel="self"/>
- <link href="http://example.com/tag/skyjaz.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/skyjaz.html</id>
+ <title>jogosdaqui - skyjaz</title>
+ <link href="//tags/skyjaz/index.xml" rel="self"/>
+ <link href="/tag/skyjaz.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/skyjaz.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Pesadelo - Regressão</title>
-   <link href="http://example.com/2015/12/02/pesadelo-regressao"/>
+   <link href="//2015/12/02/pesadelo-regressao"/>
    <updated>2015-12-02T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/02/pesadelo-regressao</id>
+   <id>//2015/12/02/pesadelo-regressao</id>
    <content type="html">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
 
 &lt;h2 id=&quot;teaser-de-pesadelo---regressão&quot;&gt;Teaser de Pesadelo - Regressão&lt;/h2&gt;

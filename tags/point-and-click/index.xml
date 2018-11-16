@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - point-and-click</title>
- <link href="http://example.com/tags/point-and-click/index.xml" rel="self"/>
- <link href="http://example.com/tag/point-and-click.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/point-and-click.html</id>
+ <title>jogosdaqui - point-and-click</title>
+ <link href="//tags/point-and-click/index.xml" rel="self"/>
+ <link href="/tag/point-and-click.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/point-and-click.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Escravo, nem pensar!</title>
-   <link href="http://example.com/2014/05/13/escravo-nem-pensar"/>
+   <link href="//2014/05/13/escravo-nem-pensar"/>
    <updated>2014-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/13/escravo-nem-pensar</id>
+   <id>//2014/05/13/escravo-nem-pensar</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.fluxgamestudio.com/&quot; target=&quot;_blank&quot;&gt;Flux Game Studio&lt;/a&gt;
  lança, nesta terça-feira, o primeiro jogo digital que aborda o trabalho escravo contemporâneo no Brasil em meio urbano e rural. 
 A dinâmica do game permite que o jogador seja responsável por conduzir a trajetória de um trabalhador, que deixa sua cidade natal em busca de melhores condições de vida e acaba sendo explorado. Individualmente, o jogador deverá fazer escolhas para que consiga escapar dessa situação.&lt;/p&gt;

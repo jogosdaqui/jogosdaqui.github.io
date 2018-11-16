@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - gamecon</title>
- <link href="http://example.com/tags/gamecon/index.xml" rel="self"/>
- <link href="http://example.com/tag/gamecon.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/gamecon.html</id>
+ <title>jogosdaqui - gamecon</title>
+ <link href="//tags/gamecon/index.xml" rel="self"/>
+ <link href="/tag/gamecon.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/gamecon.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Eventos para o mês de outubro</title>
-   <link href="http://example.com/2005/10/04/eventos-para-o-mes-de-outubro"/>
+   <link href="//2005/10/04/eventos-para-o-mes-de-outubro"/>
    <updated>2005-10-04T00:00:00-03:00</updated>
-   <id>http://example.com/2005/10/04/eventos-para-o-mes-de-outubro</id>
+   <id>//2005/10/04/eventos-para-o-mes-de-outubro</id>
    <content type="html">&lt;p&gt;Fique atento aos eventos que irão acontecer neste mês de outubro:&lt;/p&gt;
 
 &lt;ul style=&quot;text-align: justify;&quot;&gt;
@@ -28,9 +28,9 @@
  
  <entry>
    <title>Gamecon</title>
-   <link href="http://example.com/2005/09/27/gamecon"/>
+   <link href="//2005/09/27/gamecon"/>
    <updated>2005-09-27T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/27/gamecon</id>
+   <id>//2005/09/27/gamecon</id>
    <content type="html">&lt;p&gt;Entre 15 e 16 de outubro de 2005 a segunda edição do Gamecon será realizada no Espaço Ferrovia , situado na Rua Dr. Almeida Lima, número 1219, no bairro da Móoca na Cidade de São Paulo.&lt;/p&gt;
 
 &lt;p&gt;O Gamecon é um evento específico de games e tecnologia, sendo dividido em três áreas distintas:&lt;/p&gt;

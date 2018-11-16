@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - linux</title>
- <link href="http://example.com/tags/linux/index.xml" rel="self"/>
- <link href="http://example.com/tag/linux.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/linux.html</id>
+ <title>jogosdaqui - linux</title>
+ <link href="//tags/linux/index.xml" rel="self"/>
+ <link href="/tag/linux.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/linux.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Side Quest da Miris Mind no Greenlight</title>
-   <link href="http://example.com/2015/10/23/side-quest-da-miris-mind-no-greenlight"/>
+   <link href="//2015/10/23/side-quest-da-miris-mind-no-greenlight"/>
    <updated>2015-10-23T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/23/side-quest-da-miris-mind-no-greenlight</id>
+   <id>//2015/10/23/side-quest-da-miris-mind-no-greenlight</id>
    <content type="html">&lt;p&gt;Em tempos onde programas culinários como MasterChef fazem um grande sucesso, que tal um game onde o herói é o cozinheiro numa aventura épica? Essa é a proposta da paulistana &lt;a href=&quot;http://www.mirismind.com/&quot; target=&quot;_blank&quot;&gt;Miris Mind&lt;/a&gt;
  que está finalizando o desenvolvimento de seu novo game e iniciou sua campanha de &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=527592042&quot; target=&quot;_blank&quot;&gt;Greenlight &lt;/a&gt;
 no Steam.&lt;/p&gt;
@@ -39,9 +39,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>RacketBoy da Double Dash Studios</title>
-   <link href="http://example.com/2015/08/20/racketboy-da-double-dash-studios"/>
+   <link href="//2015/08/20/racketboy-da-double-dash-studios"/>
    <updated>2015-08-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/20/racketboy-da-double-dash-studios</id>
+   <id>//2015/08/20/racketboy-da-double-dash-studios</id>
    <content type="html">&lt;p&gt;Lembra de Breakout de 1972, clássico game que deu origem ao estilo de games de quebrar blocos, seguido por outros clássicos como Arkanoid de 1986?&lt;/p&gt;
 
 &lt;p&gt;O que talvez você não saiba é que o game de 72 para o Atari 2600 foi desenvolvido por Steve Wozniak com uma ajuda de Steve Jobs, isso mesmo, os fundadores da Apple.&lt;/p&gt;
@@ -75,9 +75,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Prévia de Relic Hunters Zero</title>
-   <link href="http://example.com/2015/07/30/previa-de-relic-hunters-zero"/>
+   <link href="//2015/07/30/previa-de-relic-hunters-zero"/>
    <updated>2015-07-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/30/previa-de-relic-hunters-zero</id>
+   <id>//2015/07/30/previa-de-relic-hunters-zero</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.roguesnail.com/relic-hunters-zero/&quot; target=&quot;_blank&quot;&gt;Relic Hunters Zero&lt;/a&gt;
  é o mais novo game da brasileira Rogue Snail. Pra quem não conhece, a Rogue Snail é a marca que o gamedev Mark Venturelli utiliza para seus games. No caso do RHZ, o artista foi Betu Souza, enquanto Venturelli trabalhava na programação e game design do projeto.&lt;/p&gt;
 
@@ -116,9 +116,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Prévia de Fófuuu da Beltri Studio</title>
-   <link href="http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
+   <link href="//2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
    <updated>2015-07-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
+   <id>//2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
    <content type="html">&lt;p&gt;Alexander Graham Bell, famoso inventor do telefone, que na verdade comprou o protótipo da invenção do italiano Antonio Meucci, era um especialista em fala, influenciado pelo pai Alexander Melville Bell, que trabalhava com a correção da fala. Em 1872 fundou nos EUA uma escola que utilizava o método de pronuncia desenvolvido por seu pai em suas aulas. No ano seguinte começou a lecionar Fisiologia Vocal na universidade de Boston, nesse mesmo ano iniciou suas pesquisas para  utilizar a eletricidade na transmissão de sons e o resto é história.&lt;/p&gt;
 
 &lt;p&gt;Qual a razão de falar de Bell na introdução de um game? Boas invenções sempre nos ajudaram a superar grandes desafios, assim foi com o telefone e assim será com o&lt;a href=&quot;http://fofuuu.com/&quot; target=&quot;_blank&quot;&gt; game educativo Fófuuu&lt;/a&gt;
@@ -166,9 +166,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Lançada versão PC de Carcará - Asas da Justiça</title>
-   <link href="http://example.com/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica"/>
+   <link href="//2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica"/>
    <updated>2015-06-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica</id>
+   <id>//2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica</id>
    <content type="html">&lt;p&gt;No final de maio &lt;a href=&quot;/2015/05/28/carcara-asas-da-justica/&quot;&gt;falamos do game Carcará - Asas da Justiça&lt;/a&gt;
  que, naquele momento, tinha versão apenas para Android.&lt;/p&gt;
 
@@ -190,9 +190,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Novo vídeo de gameplay de Gryphon Knight Epic</title>
-   <link href="http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
+   <link href="//2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic"/>
    <updated>2015-05-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
+   <id>//2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic</id>
    <content type="html">&lt;p&gt;A equipe de desenvolvimento da &lt;a href=&quot;http://www.cyberrhinostudios.com&amp;quot; target=&amp;quot;_blank&quot;&gt;Cyber Rhino Studios&lt;/a&gt; liberou um novo vídeo de gameplay do seu shoot ‘em up Gryphon Knight Epic.&lt;/p&gt;
 
 &lt;p&gt;A GKE arrecadou mais de US$ 19.000 durante sua &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/description&amp;quot; target=&amp;quot;_blank&quot;&gt;campanha no Kickstarter&lt;/a&gt; e deverá ser lançado para Windows, Mac e Linux.&lt;/p&gt;
@@ -215,9 +215,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Lançada a demo de TurboLink</title>
-   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
+   <link href="//2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
+   <id>//2015/04/23/lancado-a-demo-de-turbolink</id>
    <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot;&gt;demo pública&lt;/a&gt; do game que está em votação no &lt;a href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Os jogadores poderão testar a demo com um torneio de 6 pistas, 4 carros, suporte ao controle do Xbox 360 e a implementação inicial da inteligência artificial do game.&lt;/p&gt;
@@ -230,19 +230,12 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Splitplay apresenta: Bernie Needs Love</title>
-   <link href="http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love"/>
+   <link href="//2014/06/05/splitplay-apresenta-bernie-needs-love"/>
    <updated>2014-06-05T00:00:00-03:00</updated>
-   <id>http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Protomni Multimedia em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
+   <id>//2014/06/05/splitplay-apresenta-bernie-needs-love</id>
+   <content type="html">&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot;&gt;Bernie Needs Love&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot; target=&quot;_blank&quot;&gt;Bernie Needs Love&lt;/a&gt;
-!.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot; target=&quot;_blank&quot;&gt;Protomni Multimedia&lt;/a&gt;
-, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
+&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot;&gt;Protomni Multimedia&lt;/a&gt;, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
 
 &lt;p&gt;Em meados de 2012, tivemos a ideia de criar um jogo de plataforma que fosse simples, muito difícil e que retratasse cenários característicos da nossa cidade com a estética da era dos 4 e 8 bits. O objetivo de todas as fases é guiar Bernie até a namorada e evitar perigos que incluem pombos com disenteria, bueiros explosivos, áreas alagadas, foliões com incontinência urinária, assaltantes, tubulações d’água com vazamentos e assim por diante. Em dezembro desse mesmo ano, disponibilizamos o jogo por um preço promocional e, desde então, estamos acrescentando recursos e conteúdo com base não apenas no plano original, mas também no feedback dos jogadores.&lt;/p&gt;
 
@@ -254,23 +247,18 @@ no Steam.&lt;/p&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/t4eDKQ6KHNQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;Estamos no Greenlight&lt;/a&gt;
- e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;votem&lt;/a&gt;
-, deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
-&lt;div&gt;&lt;br /&gt;
-&lt;div&gt;&lt;br /&gt;
-&amp;gt; Gostou? Quer concorrer a chaves gratuitas do game?
-&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;Ent&amp;#227;o siga o jogosdaqui no Twitter.&lt;/a&gt;
-&lt;/strong&gt;
-&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;Estamos no Greenlight&lt;/a&gt; e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;votem&lt;/a&gt; deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
+
+&lt;p&gt;Gostou? Quer concorrer a chaves gratuitas do game?
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot;&gt;Então siga o jogosdaqui no Twitter.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Oniken: The Rescue</title>
-   <link href="http://example.com/2012/12/13/oniken-the-rescue-2"/>
+   <link href="//2012/12/13/oniken-the-rescue-2"/>
    <updated>2012-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/12/13/oniken-the-rescue-2</id>
+   <id>//2012/12/13/oniken-the-rescue-2</id>
    <content type="html">&lt;p&gt;Amanhã, dia 14 de dezembro, o game &lt;a href=&quot;http://oniken.net/&quot; target=&quot;_blank&quot;&gt;Oniken&lt;/a&gt;
  da &lt;a href=&quot;http://joymasher.com/&quot; target=&quot;_blank&quot;&gt;JoyMasher&lt;/a&gt;
  receberá uma nova missão: &lt;strong&gt;The Rescue&lt;/strong&gt; estará disponível para todos os jogadores que já possuem Oniken.&lt;/p&gt;
@@ -296,9 +284,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Oniken recebe versão para Mac e Linux</title>
-   <link href="http://example.com/2012/11/21/oniken-recebe-versao-para-mac-e-linux"/>
+   <link href="//2012/11/21/oniken-recebe-versao-para-mac-e-linux"/>
    <updated>2012-11-21T00:00:00-02:00</updated>
-   <id>http://example.com/2012/11/21/oniken-recebe-versao-para-mac-e-linux</id>
+   <id>//2012/11/21/oniken-recebe-versao-para-mac-e-linux</id>
    <content type="html">&lt;p&gt;O game brasileiro &lt;a href=&quot;http://oniken.net&quot; target=&quot;_blank&quot;&gt;Oniken&lt;/a&gt;
 , do grupo independente &lt;a href=&quot;http://joymasher.com &quot; target=&quot;_blank&quot;&gt;JoyMasher&lt;/a&gt;
 , que foi lançado em junho para Windows, recebe versões para Mac e Linux.&lt;/p&gt;
@@ -326,9 +314,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Joga Brasil</title>
-   <link href="http://example.com/2012/01/13/joga-brasil"/>
+   <link href="//2012/01/13/joga-brasil"/>
    <updated>2012-01-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/01/13/joga-brasil</id>
+   <id>//2012/01/13/joga-brasil</id>
    <content type="html">&lt;p&gt;Como muito de vocês já devem saber nos dias 28 e 29 de janeiro acontecerá no Rio de Janeiro, nas dependências da Faculdade CCAA, o &lt;a href=&quot;http://www.jogabrasil.com.br/&quot; target=&quot;_blank&quot;&gt;Joga Brasil&lt;/a&gt;
 , primeiro evento focado na divulgação de games produzidos por empresas nacionais. Como não poderia deixar de ser, o jogosdaqui apóia, e muito, esse tipo de iniciativa.&lt;/p&gt;
 
@@ -398,9 +386,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Netherdeep</title>
-   <link href="http://example.com/2005/12/09/netherdeep"/>
+   <link href="//2005/12/09/netherdeep"/>
    <updated>2005-12-09T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/09/netherdeep</id>
+   <id>//2005/12/09/netherdeep</id>
    <content type="html">&lt;p&gt;Um MMORPG ambientado no continente antigo da América do Sul, onde o jogador poderá escolher qual profissão seguir e evoluir suas capacidades especiais. Guerras entre facções e reinos estarão no enredo do jogo, mas não se preocupe, você poderá contar com mais de 300 armas a sua escolha.&lt;/p&gt;
 
 &lt;p&gt;O jogo estará disponível para plataforma Windows, Linux e Mac.&lt;/p&gt;
@@ -414,9 +402,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Resultado do Festival de Jogos Independentes</title>
-   <link href="http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes"/>
+   <link href="//2005/11/25/resultado-do-festival-de-jogos-independentes"/>
    <updated>2005-11-25T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes</id>
+   <id>//2005/11/25/resultado-do-festival-de-jogos-independentes</id>
    <content type="html">&lt;p&gt;Segundo Rodrigo Damazio, Chair do Festival de Jogos Independentes do SBGames 2005, o resultado da premiação foi:&lt;/p&gt;
 
 &lt;p&gt;1o. Lugar com 33% dos votos - &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo&lt;/a&gt;&lt;/p&gt;
@@ -441,9 +429,9 @@ Ainda não conhece Oniken? Então essa é mais uma chance, o game está a venda 
  
  <entry>
    <title>Projeto experimental de Software Livre da TILT online</title>
-   <link href="http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online"/>
+   <link href="//2005/10/17/projeto-experimental-de-software-livre-da-tilt-online"/>
    <updated>2005-10-17T00:00:00-02:00</updated>
-   <id>http://example.com/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online</id>
+   <id>//2005/10/17/projeto-experimental-de-software-livre-da-tilt-online</id>
    <content type="html">&lt;p&gt;Há muito tempo temos debatido o uso dos mecanismos do software livre em jogos comerciais. Algumas pessoas não aceitam a possibilidade deste mecanismo funcionar no caso específico de jogos. Outras simplesmente acreditam que, se funciona para o Linux, funciona para tudo mais (cura até unha encravada).&lt;/p&gt;
 
 &lt;p&gt;A verdade é que, funcionando ou não funcionando, ninguém até hoje teve paciência ou coragem para testar de verdade esse sistema, ou seja, expor o fonte de um núcleo de programa de forma a permitir que ele evolua em regime aberto, cooperativo, sem custos de licenciamento e ainda assim permitindo variações comerciais (onde qualquer pessoa possa ganhar o seu sustento).&lt;/p&gt;

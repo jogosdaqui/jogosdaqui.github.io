@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - invent4</title>
- <link href="http://example.com/tags/invent4/index.xml" rel="self"/>
- <link href="http://example.com/tag/invent4.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/invent4.html</id>
+ <title>jogosdaqui - invent4</title>
+ <link href="//tags/invent4/index.xml" rel="self"/>
+ <link href="/tag/invent4.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/invent4.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Imagens da semana #3</title>
-   <link href="http://example.com/2015/04/20/imagens-da-semana-3"/>
+   <link href="//2015/04/20/imagens-da-semana-3"/>
    <updated>2015-04-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/20/imagens-da-semana-3</id>
+   <id>//2015/04/20/imagens-da-semana-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/TorenGame/status/58765465763735142&quot;&gt;Na primeira imagem da semana ficamos com a arte ‘The Tower’ do game brasileiro Toren.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/TorenTheTower.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/TorenTheTower.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;Foto do evento BRING #4 realizado no sábado dia 11/04/15 na Indie House da Behold Studios, Otus Game Studio e BadMinions.&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/Bring41.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/Bring41.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Lipedal/status/58798187501415219&quot;&gt;Project Retro Racer que está em desenvolvimento pela Aquiris Game Studio dando razão pela expectativa dos fãs de games como Top Gear.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/ProjectRetroRacer.jpg  &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/ProjectRetroRacer.jpg  &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/58801268791063347&quot;&gt;Uma singela concept art do rei maluco do game em desenvolvimento Tiny Empire da Mgaia Studios.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/MadKingTinyEmprite.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/MadKingTinyEmprite.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/58841659310683340&quot;&gt;A Behold Studios demonstrando a evolução do game Chroma Squad de 2013 a 2015.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/ChromaSquad2013vs2015.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/ChromaSquad2013vs2015.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/58877890474518118&quot;&gt;Behold e Chroma Squad novamente, agora anunciando a página oficial do game no Steam&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/ChromaSquadStema.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/ChromaSquadStema.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/58909434572853248&quot;&gt;A versão final da Hammer Machine do game Shiny da Garage 227 Studios.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/HammerMachineShinyGame.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/HammerMachineShinyGame.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Invent4/status/58910634103527014&quot;&gt;A gaúcha Invent4 celebrando o desenvolvimento da sequência de seu game Bad Rats.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/BadRats2.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/BadRats2.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/BsimRacing/status/58956347315313049&quot;&gt;Na última imagem da semana, ficamos com uma screenshot do game Formula Truck, da Reiza Studios, que teve sua versão 1.25 lançada.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/FormulaTruck125.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/FormulaTruck125.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Checkpoint #2</title>
-   <link href="http://example.com/2015/04/18/checkpoint-2"/>
+   <link href="//2015/04/18/checkpoint-2"/>
    <updated>2015-04-18T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/18/checkpoint-2</id>
+   <id>//2015/04/18/checkpoint-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/04/17/axis-game-day&quot;&gt;O evento AXIS Game Day, que acontece hoje, com diversas palestras de gamedevs brasileiros&lt;/a&gt;&lt;/p&gt;
 
@@ -92,9 +92,9 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;

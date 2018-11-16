@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - aquiris-game-studio</title>
- <link href="http://example.com/tags/aquiris-game-studio/index.xml" rel="self"/>
- <link href="http://example.com/tag/aquiris-game-studio.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/aquiris-game-studio.html</id>
+ <title>jogosdaqui - aquiris-game-studio</title>
+ <link href="//tags/aquiris-game-studio/index.xml" rel="self"/>
+ <link href="/tag/aquiris-game-studio.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/aquiris-game-studio.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Imagens da semana #13</title>
-   <link href="http://example.com/2015/09/14/imagens-da-semana-13"/>
+   <link href="//2015/09/14/imagens-da-semana-13"/>
    <updated>2015-09-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/14/imagens-da-semana-13</id>
+   <id>//2015/09/14/imagens-da-semana-13</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/betuiau/status/640987759080030208&quot;&gt;O artista Betu Souza apresentando a NPC do novo modo endless do game Relic Hunters Zero&lt;/a&gt;&lt;/p&gt;
 &lt;video width=&quot;640&quot; height=&quot;360&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
-          &lt;source src=&quot;/images/galleries/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_RelicHuntersZero.mp4 &quot; type=&quot;video/mp4&quot; /&gt;
+          &lt;source src=&quot;/assets/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_RelicHuntersZero.mp4 &quot; type=&quot;video/mp4&quot; /&gt;
           Your browser does not support the video tag.
        &lt;/video&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/saint11/status/641026578399502336&quot;&gt;O artista e programador Pedro Medeiros mostra um pouco da arte do game canadense Skytorn, onde ele e a brasileira Amora B. fazem parte da equipe de desenvolvimento&lt;/a&gt;&lt;/p&gt;
 &lt;video width=&quot;640&quot; height=&quot;360&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
-          &lt;source src=&quot;/images/galleries/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_SkyTorn.mp4 &quot; type=&quot;video/mp4&quot; /&gt;
+          &lt;source src=&quot;/assets/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_SkyTorn.mp4 &quot; type=&quot;video/mp4&quot; /&gt;
           Your browser does not support the video tag.
        &lt;/video&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/BlackRvrStudios/status/64125266263846092&quot;&gt;A Black River Studios de Manaus com uma screenshot de seu game que será anunciado no próximo dia 21&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_BlackRiverStudios.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_BlackRiverStudios.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/64142784923321958&quot;&gt;JoyMasher comentando sobre a Blood Armor para os corajosos que enfrentarem o modo Veteran no game Odallus&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_JoyMasher.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_JoyMasher.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/641719892643815424&quot;&gt;A Mgaia Studio com seus os elfos da floresta, se preparando para um novo update de seu game Tiny Empire&lt;/a&gt;&lt;/p&gt;
 &lt;video width=&quot;640&quot; height=&quot;360&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
-          &lt;source src=&quot;/images/galleries/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_MgaiaStudio_TinyEmpire.mp4 &quot; type=&quot;video/mp4&quot; /&gt;
+          &lt;source src=&quot;/assets/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_MgaiaStudio_TinyEmpire.mp4 &quot; type=&quot;video/mp4&quot; /&gt;
           Your browser does not support the video tag.
        &lt;/video&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/_double_dash/status/642055362334605312&quot;&gt;RacketBoy da Double Dash mostrando um dos seus movimentos&lt;/a&gt;&lt;/p&gt;
 &lt;video width=&quot;640&quot; height=&quot;360&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
-          &lt;source src=&quot;/images/galleries/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_DoubleDash_RacketBoy.mp4 &quot; type=&quot;video/mp4&quot; /&gt;
+          &lt;source src=&quot;/assets/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_DoubleDash_RacketBoy.mp4 &quot; type=&quot;video/mp4&quot; /&gt;
           Your browser does not support the video tag.
        &lt;/video&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/64218689308660121&quot;&gt;A Iduna Game Studio revela o redesign feito no cenário do game Mustach In Hell&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_IdunaGameStudio_MustacheInTheHell.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_IdunaGameStudio_MustacheInTheHell.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticBr/status/64245930808565760&quot;&gt;Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aquiris anunciou que a versão F2P será fechada&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_Aquiris_Ballistic.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/09/14/imagens-da-semana-13/ImagensDaSemana13_Aquiris_Ballistic.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Ballistic Overkill - DevTalk #02</title>
-   <link href="http://example.com/2015/09/04/ballistic-overkill-devtalk-02"/>
+   <link href="//2015/09/04/ballistic-overkill-devtalk-02"/>
    <updated>2015-09-04T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/04/ballistic-overkill-devtalk-02</id>
+   <id>//2015/09/04/ballistic-overkill-devtalk-02</id>
    <content type="html">&lt;p&gt;A Aquiris Game Studio liberou o DevTalk #02 do &lt;a href=&quot;http://store.steampowered.com/app/296300/&quot; target=&quot;_blank&quot;&gt;Ballistic Overkill&lt;/a&gt;
 , no vídeo podemos ver Jesús Fabre (PR), Jean Ruas (Game Master) e Amilton Diesel (Diretor de Arte Técnico) falando sobre fase beta, early access no steam, criação da história do game pela comunidade, a evolução das cores do jogo e a utilização da técnica de construção procedural de texturas Substance que permitiu reduzir consideravelmente o tamanho dos arquivos de mapa do Ballistic.&lt;/p&gt;
 
@@ -85,9 +85,9 @@
  
  <entry>
    <title>Horizon Chase se aproxima do grid de largada</title>
-   <link href="http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
+   <link href="//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
    <updated>2015-08-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
+   <id>//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
    <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot;&gt;Aquiris Game Studio&lt;/a&gt; á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
 
 &lt;p&gt;Segundo a gamedev gaúcha, Horizon Chase será um jogo premium, contendo 8 copas, 32 cidades, 73 pistas e 16 carros desbloqueáveis.&lt;/p&gt;
@@ -107,9 +107,9 @@
  
  <entry>
    <title>Teaser de gameplay de Horizon Chase</title>
-   <link href="http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
+   <link href="//2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
+   <id>//2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
    <content type="html">&lt;p&gt;Em maio fizemos uma &lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/&quot;&gt;prévia do game de corrida Horizon Chase&lt;/a&gt;, agora saiu do forno o tão esperado vídeo mostrando um pouco do gameplay do jogo da gaúcha Aquiris Game Studio.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o vídeo do game que deve ser lançado para consoles, mobile e PC.&lt;/p&gt;
@@ -123,89 +123,89 @@
  
  <entry>
    <title>Imagens da semana #12</title>
-   <link href="http://example.com/2015/06/22/imagens-da-semana-12"/>
+   <link href="//2015/06/22/imagens-da-semana-12"/>
    <updated>2015-06-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/22/imagens-da-semana-12</id>
+   <id>//2015/06/22/imagens-da-semana-12</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/BallisticGame/status/60909733429161984&quot;&gt;A Aquiris Game Studio convocando os jogadores de Ballistic para contribuir na classe The Vanguard&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_Ballistic.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_Ballistic.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=96067241732486&quot;&gt;O game HTR+ da QuByte Interactive vendido em caixinha na Alemanha&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_HTR.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_HTR.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/danielmerkel/status/61088221620224819&quot;&gt;A equipe da SouthBox trabalhando na UI do game Super Volley&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_SuperVolley.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_SuperVolley.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://instagram.com/p/4AjlVtGzGB&quot;&gt;O BIG Festival lembrando que o lançamento do game Full Metal Wars da brasileira Prosperity Games acontecerá durante o evento no dia 01/07&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_FullMetalWars.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_FullMetalWars.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/61228920312104960&quot;&gt;Screenshot da pista de Brighton Beach do game de corrida Horizon Chase&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_HorizonChase.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/22/imagens-da-semana-12/ImagensDaSemana12_HorizonChase.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Imagens da semana #11</title>
-   <link href="http://example.com/2015/06/15/imagens-da-semana-11"/>
+   <link href="//2015/06/15/imagens-da-semana-11"/>
    <updated>2015-06-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/15/imagens-da-semana-11</id>
+   <id>//2015/06/15/imagens-da-semana-11</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Danilo_Noites/status/60829012477494886&quot;&gt;Danilo Dias da JoyMasher mostrando uma brincadeira no texto de Odallus ao utilizar o termo Out There Somewhere, nome do game do Studio MiniBoss”&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Odallus_OutThereSomewhere.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_Odallus_OutThereSomewhere.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/deds_rodrigues/status/60830036458517299&quot;&gt;André Rodrigues da Big Green Pillow e sua fantástica fan art de Odallus&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_OdallusFanArt.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_OdallusFanArt.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/60858426514042060&quot;&gt;Novos renders sendo trabalhados pela equipe da Reiza Studios&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_ReizaStudios.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_ReizaStudios.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/60897524521148416&quot;&gt;A Ninja Garage Studio mostrando o concept art da personagem Priscilla, the mushroom monster para o game Massive Madness&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_NinjaGarage_Priscilla.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_NinjaGarage_Priscilla.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60949836833581056&quot;&gt;Os personagens do game Tiny Empire da Mgaia Studio comemorando o Dia dos Namorados&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_MgaiaStudio_DiaDosNamorados.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_MgaiaStudio_DiaDosNamorados.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/60975960647521484&quot;&gt;Screenshot da pista indiana The Valley of Flowers do game em desenvolvimento Horizon Chase&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_HorizonChase_India.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/15/imagens-da-semana-11/ImagensDaSemana11_HorizonChase_India.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9"/>
+   <link href="//2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/11/checkpoint-9</id>
+   <id>//2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar&quot;&gt;Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar&lt;/a&gt;&lt;/p&gt;
 
@@ -249,95 +249,95 @@
  
  <entry>
    <title>Imagens da semana #10</title>
-   <link href="http://example.com/2015/06/08/imagens-da-semana-10"/>
+   <link href="//2015/06/08/imagens-da-semana-10"/>
    <updated>2015-06-08T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/08/imagens-da-semana-10</id>
+   <id>//2015/06/08/imagens-da-semana-10</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/gametek_brasil/status/60540813063429324&quot;&gt;O game Cannibal da GameTek recebe o novo mapa Vila Micena&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_GameTek_Canibal.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_GameTek_Canibal.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/danielmerkel/status/60574938986960896&quot;&gt;Daniel Merkel divulgando a nova marca da indie South Box Game Studio&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_DanielMerkel_SouthBox.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_DanielMerkel_SouthBox.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/60618134049760051&quot;&gt;A Behold Studio lembrando que os personagens Mr. Beaver e ET que aparecem no Chroma Squad são de games anteriores da empresa&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_BeholdStudios_ChromaSquad.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_BeholdStudios_ChromaSquad.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/60721223538407833&quot;&gt;Screenshot da pista de São Francisco do game em desenvolvimento Horizon Chase&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_AquirisGameStudio_HorizonChase.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_AquirisGameStudio_HorizonChase.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/zanardiliza/status/60736836580875059&quot;&gt;Concept Art de Hugo Vaz para o game Dog Duty do studio Zanardi &amp;amp; Liza&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_ZanardiAndLiza_DogDuty.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_ZanardiAndLiza_DogDuty.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/60749873536765952&quot;&gt;A Ninja Garage mostrando seu apoio a 19ª Parada do Orgulho LGBT&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_NinjaGarage_MassiveMadness_ParadaLGBT.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/08/imagens-da-semana-10/ImagensDaSemana10_NinjaGarage_MassiveMadness_ParadaLGBT.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Imagens da semana #9</title>
-   <link href="http://example.com/2015/06/01/imagens-da-semana-9"/>
+   <link href="//2015/06/01/imagens-da-semana-9"/>
    <updated>2015-06-01T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/01/imagens-da-semana-9</id>
+   <id>//2015/06/01/imagens-da-semana-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/60414279507551027&quot;&gt;A concept art de uma galinha mecanizada feita pelo pessoal da Ninja Garage Studio. Provavelmente para o game Massive Madness&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_NinjaGarageStudioChicken.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_NinjaGarageStudioChicken.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/60458306258052300&quot;&gt;Screenshot da pista de Suzuka no novo update do game de corrida da Reiza Studios: Game Stock Car Extreme&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_ReizaStudios.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_ReizaStudios.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/60468710739163545&quot;&gt;A equipe do game Horizon Chase da Aquiris Game Studio mostrando a semelhança não proposital entre duas pistas do novo game e do clássico Top Gear&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_HorizonChaseTopGear.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_HorizonChaseTopGear.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60477483525702041&quot;&gt;Screenshot mostrando o personagem Crazy Balloon Guy do game em desenvolvimento da Mgaia Studio: Tiny Empire&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_MGaiaTinyEmpire.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_MGaiaTinyEmpire.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Ninja_Garage/status/60489943446028697&quot;&gt;A Ninja Garage Studio novamente, agora com uma bela screenshot do game Massive Madness&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_NinjaGarageStudioMassiveMadiness.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_NinjaGarageStudioMassiveMadiness.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/protomni/status/60369938456029593&quot;&gt;Produção da capa do game Bernie Needs Love&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_BernieNeedsLoveCover.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/06/01/imagens-da-semana-9/ImagensDaSemana9_BernieNeedsLoveCover.png &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Checkpoint #8</title>
-   <link href="http://example.com/2015/05/29/checkpoint-8"/>
+   <link href="//2015/05/29/checkpoint-8"/>
    <updated>2015-05-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/29/checkpoint-8</id>
+   <id>//2015/05/29/checkpoint-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/updates/25536644&quot;&gt;Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight&lt;/a&gt;&lt;/p&gt;
 
@@ -372,58 +372,58 @@
  
  <entry>
    <title>Imagens da semana #8</title>
-   <link href="http://example.com/2015/05/25/imagens-da-semana-8"/>
+   <link href="//2015/05/25/imagens-da-semana-8"/>
    <updated>2015-05-25T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/25/imagens-da-semana-8</id>
+   <id>//2015/05/25/imagens-da-semana-8</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/60006121953443020&quot;&gt;A JoyMasher polindo o design dos personagens de Odallus&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_JoyMasher_Odallus.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_JoyMasher_Odallus.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/BigGreenPillow/status/60038615293221273&quot;&gt;A arte de Marcos Alvares para comemorar o lançamento de Porcunipine no Steam&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_BigGreenPilow_MarcosAlvares.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_BigGreenPilow_MarcosAlvares.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/60094658717983539&quot;&gt;Reiza Studios e os superkarts de 250cc que devem chegar no próximo update de seu game de corrida&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_ReizaStudios_Superkarts.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_ReizaStudios_Superkarts.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/60105979845770854&quot;&gt;Garage 227 Studios trabalhando no trailer para a E3&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_Garage227_E3Trailer.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_Garage227_E3Trailer.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/60114262266577715&quot;&gt;Uma bela arte do game Tiny Empire em desenvolvimento pela Mgaia Studio&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_Mgaia_TinyEmpire.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_Mgaia_TinyEmpire.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/idunagamestudio/status/60153065368807014&quot;&gt;A capa estilo NES do game Mustache In Hell da Iduna Game Studio&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_Iduna_MustachInHell_NesCover.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_Iduna_MustachInHell_NesCover.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Horizon_Chase/status/602104510077632512&quot;&gt;Nova screenshot do retrogame de corrida Horizon Chase da Aquiris Game Studio&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_Aquiris_HorizonChase.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/25/imagens-da-semana-8/ImagensDaSemana8_Aquiris_HorizonChase.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7"/>
+   <link href="//2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/22/checkpoint-7</id>
+   <id>//2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/14/demo-reel-da-odin-game-studio/&quot;&gt;Confira o demo reel da Odin Game Studio&lt;/a&gt;&lt;/p&gt;
 
@@ -496,9 +496,9 @@
  
  <entry>
    <title>Ballistic Overkill, desenvolvedores falam sobre o game</title>
-   <link href="http://example.com/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game"/>
+   <link href="//2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game</id>
+   <id>//2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game</id>
    <content type="html">&lt;p&gt;A Aquiris Game Studio liberou algumas novidades sobre a versão do game Ballistic para o Steam: &lt;a href=&quot;http://store.steampowered.com/app/296300/&quot; target=&quot;_blank&quot;&gt;Ballistic Overkill&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -534,9 +534,9 @@
  
  <entry>
    <title>Novidades de Horizon Chase</title>
-   <link href="http://example.com/2015/05/20/novidades-de-horizon-chase"/>
+   <link href="//2015/05/20/novidades-de-horizon-chase"/>
    <updated>2015-05-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/20/novidades-de-horizon-chase</id>
+   <id>//2015/05/20/novidades-de-horizon-chase</id>
    <content type="html">&lt;p&gt;O game Horizon Chase da Aquiris Game Studio tem causado um “frisson” na comunidade gamer que aprecia games de corrida old-school, tanto pelo visual apurado quanto pela trilha sonora composta pelo mesmo compositor de clássicos como Top Gear.&lt;/p&gt;
 
 &lt;center&gt;
@@ -565,9 +565,9 @@
  
  <entry>
    <title>Checkpoint #6</title>
-   <link href="http://example.com/2015/05/14/checkpoint-6"/>
+   <link href="//2015/05/14/checkpoint-6"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/14/checkpoint-6</id>
+   <id>//2015/05/14/checkpoint-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/CurveDigital/status/59775538841977241&quot;&gt;A Curve Digital anunciou que publicará o game Porcupine da Big Green Pillow ainda este mês&lt;/a&gt;&lt;/p&gt;
 
@@ -599,9 +599,9 @@
  
  <entry>
    <title>Prévia de Horizon Chase da Aquiris Game Studio</title>
-   <link href="http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
+   <link href="//2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
+   <id>//2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
    <content type="html">&lt;p&gt;Antes de ler qualquer coisa sobre &lt;a href=&quot;http://horizonchase.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Horizon Chase&lt;/a&gt;, ouça a trilha sonora abaixo:&lt;/p&gt;
 
 &lt;center&gt;
@@ -638,119 +638,119 @@
  
  <entry>
    <title>Imagens da semana #6</title>
-   <link href="http://example.com/2015/05/11/imagens-da-semana-6"/>
+   <link href="//2015/05/11/imagens-da-semana-6"/>
    <updated>2015-05-11T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/11/imagens-da-semana-6</id>
+   <id>//2015/05/11/imagens-da-semana-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/59519658913787904&quot;&gt;Desenho da artista Amora B. para Haggis, protagonista do game Odallus da brasileira JoyMasher&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_Haggis.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_Haggis.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ndahlberg/status/59523113380734156&quot;&gt;Pessoal da gaúcha CupCake Sweet Entertainment em Miami no evento eMerge Americas&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_CupCakeNoEmerge.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_CupCakeNoEmerge.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/KimericLabs/status/59527439953789747&quot;&gt;Equipe da Kimeric Labs marcando presença no evento Brasil Gets Unreal edição Rio de Janeiro&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_.BrazilGetsUnreal.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_.BrazilGetsUnreal.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ro_draw/status/59536347277231308&quot;&gt;Fan art de Rodrigo Mesquita em homenagem a Toren e sua protagonista&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_TorenFanArt.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_TorenFanArt.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/protomni/status/59540838905380454&quot;&gt;A carioca Protomni Multimedia mostrando uma das primeiras versões da capa para o Steam de seu game Bernie Needs Love&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_BernieNeedsLoveSteamCover.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_BernieNeedsLoveSteamCover.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/59594322143753830&quot;&gt;A Aquiris Game Studio apresentando a equipe envolvida na produção do game Ballistic para Steam. Destaque para o programador-homem-aranha ao fundo&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_.AquirisBallistic.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_.AquirisBallistic.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=89418396064546&quot;&gt;A equipe da Odin Game Studio testando o Ocullus Rift&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_OdinOcullusRift.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_OdinOcullusRift.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Imagens da semana #3</title>
-   <link href="http://example.com/2015/04/20/imagens-da-semana-3"/>
+   <link href="//2015/04/20/imagens-da-semana-3"/>
    <updated>2015-04-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/20/imagens-da-semana-3</id>
+   <id>//2015/04/20/imagens-da-semana-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/TorenGame/status/58765465763735142&quot;&gt;Na primeira imagem da semana ficamos com a arte ‘The Tower’ do game brasileiro Toren.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/TorenTheTower.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/TorenTheTower.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;Foto do evento BRING #4 realizado no sábado dia 11/04/15 na Indie House da Behold Studios, Otus Game Studio e BadMinions.&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/Bring41.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/Bring41.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Lipedal/status/58798187501415219&quot;&gt;Project Retro Racer que está em desenvolvimento pela Aquiris Game Studio dando razão pela expectativa dos fãs de games como Top Gear.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/ProjectRetroRacer.jpg  &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/ProjectRetroRacer.jpg  &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/58801268791063347&quot;&gt;Uma singela concept art do rei maluco do game em desenvolvimento Tiny Empire da Mgaia Studios.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/MadKingTinyEmprite.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/MadKingTinyEmprite.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/58841659310683340&quot;&gt;A Behold Studios demonstrando a evolução do game Chroma Squad de 2013 a 2015.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/ChromaSquad2013vs2015.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/ChromaSquad2013vs2015.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/58877890474518118&quot;&gt;Behold e Chroma Squad novamente, agora anunciando a página oficial do game no Steam&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/ChromaSquadStema.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/ChromaSquadStema.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Garage_227/status/58909434572853248&quot;&gt;A versão final da Hammer Machine do game Shiny da Garage 227 Studios.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/HammerMachineShinyGame.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/HammerMachineShinyGame.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Invent4/status/58910634103527014&quot;&gt;A gaúcha Invent4 celebrando o desenvolvimento da sequência de seu game Bad Rats.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/BadRats2.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/BadRats2.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;9&quot;&gt;#9&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/BsimRacing/status/58956347315313049&quot;&gt;Na última imagem da semana, ficamos com uma screenshot do game Formula Truck, da Reiza Studios, que teve sua versão 1.25 lançada.&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/20/imagens-da-semana-3/FormulaTruck125.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/20/imagens-da-semana-3/FormulaTruck125.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Game da Aquiris fazendo bonito na App Store</title>
-   <link href="http://example.com/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store"/>
+   <link href="//2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store"/>
    <updated>2014-05-12T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store</id>
+   <id>//2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store/&quot;&gt;Carton Network Superstar Soccer&lt;/a&gt;
 , desenvolvido pela &lt;a href=&quot;http://www.aquiris.com.br/?lang=pt_BR&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
 , atingiu o primeiro lugar geral em diversas App Stores da América Latina:&lt;/p&gt;
@@ -761,9 +761,9 @@
  
  <entry>
    <title>Cartoon Network Superstar Soccer lançado na App Store</title>
-   <link href="http://example.com/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store"/>
+   <link href="//2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store"/>
    <updated>2014-05-08T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store</id>
+   <id>//2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store</id>
    <content type="html">&lt;p&gt;O divertido game Cartoon Network Superstar Soccer, desenvolvido pela empresa brasileira &lt;a href=&quot;http://www.aquiris.com.br/?lang=pt_BR&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
 , acaba de ganhar sua versão para &lt;a href=&quot;https://itunes.apple.com/br/app/cn-superstar-soccer/id839550780?l=en&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
 .&lt;/p&gt;
@@ -782,9 +782,9 @@
  
  <entry>
    <title>Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</title>
-   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
+   <link href="//2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
    <updated>2013-01-02T00:00:00-02:00</updated>
-   <id>http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
+   <id>//2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
    <content type="html">&lt;p&gt;No final de 2012 fizemos uma enquete perguntando &amp;gt; Quais games desenvolvidos no Brasil você jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.
 &lt;br /&gt; Para mostrar o resultado a vocês, montamos a lista abaixo mostrando um vídeo de cada um dos games.&lt;br /&gt;
 Confiram!
@@ -858,9 +858,9 @@ Confiram!
  
  <entry>
    <title>Ballistic entra em fase de beta teste</title>
-   <link href="http://example.com/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2"/>
+   <link href="//2012/11/14/ballistic-entra-em-fase-de-beta-teste-2"/>
    <updated>2012-11-14T00:00:00-02:00</updated>
-   <id>http://example.com/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2</id>
+   <id>//2012/11/14/ballistic-entra-em-fase-de-beta-teste-2</id>
    <content type="html">&lt;p&gt;A brasileira &lt;a href=&quot;http://www.facebook.com/aquiris&quot; target=&quot;_blank&quot;&gt;Aquiris Game Studio&lt;/a&gt;
  é especializada no desenvolvimento de games utilizando a engine &lt;a href=&quot;http://unity3d.com/&quot; target=&quot;_blank&quot;&gt;Unity 3D&lt;/a&gt;
 , fato facilmente evidenciando pelos mais de 40 games que a empresa já produziu nos últimos 6 anos utilizando essa engine.&lt;/p&gt;
@@ -886,9 +886,9 @@ Confiram!
  
  <entry>
    <title>FPS da Aquiris gX em fase alpha</title>
-   <link href="http://example.com/2011/03/01/fps-da-aquiris-gx-em-fase-alpha"/>
+   <link href="//2011/03/01/fps-da-aquiris-gx-em-fase-alpha"/>
    <updated>2011-03-01T00:00:00-03:00</updated>
-   <id>http://example.com/2011/03/01/fps-da-aquiris-gx-em-fase-alpha</id>
+   <id>//2011/03/01/fps-da-aquiris-gx-em-fase-alpha</id>
    <content type="html">&lt;p&gt;Entramos em contato com o produtor executivo da empresa brasileira Aquiris Game Experience, &lt;a href=&quot;http://twitter.com/The_Real_Rafael&quot; target=&quot;_blank&quot;&gt;Rafael Rodrigues&lt;/a&gt;
 , para sabermos como estava o andamento do FPS massivo, ainda sem nome, que a empresa está trabalhando. O game começou a ser desenvolvido &lt;a href=&quot;http://jogos.uol.com.br/pc/ultnot/2010/11/09/ult182u8621.jhtm&quot; target=&quot;_blank&quot;&gt;após a Aquiris fechar um contrato no final de 2010 com a publisher americana Aeria Games&lt;/a&gt;
 , especializada em games free-to-play. Abaixo você confere as novidades sobre o game.&lt;/p&gt;
@@ -908,9 +908,9 @@ Confiram!
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;

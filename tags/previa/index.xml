@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - previa</title>
- <link href="http://example.com/tags/previa/index.xml" rel="self"/>
- <link href="http://example.com/tag/previa.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/previa.html</id>
+ <title>jogosdaqui - previa</title>
+ <link href="//tags/previa/index.xml" rel="self"/>
+ <link href="/tag/previa.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/previa.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Pesadelo - Regressão</title>
-   <link href="http://example.com/2015/12/02/pesadelo-regressao"/>
+   <link href="//2015/12/02/pesadelo-regressao"/>
    <updated>2015-12-02T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/02/pesadelo-regressao</id>
+   <id>//2015/12/02/pesadelo-regressao</id>
    <content type="html">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
 
 &lt;h2 id=&quot;teaser-de-pesadelo---regressão&quot;&gt;Teaser de Pesadelo - Regressão&lt;/h2&gt;
@@ -28,9 +28,9 @@
  
  <entry>
    <title>Teaser de gameplay de Horizon Chase</title>
-   <link href="http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
+   <link href="//2015/07/31/teaser-de-gameplay-de-horizon-chase"/>
    <updated>2015-07-31T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
+   <id>//2015/07/31/teaser-de-gameplay-de-horizon-chase</id>
    <content type="html">&lt;p&gt;Em maio fizemos uma &lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio/&quot;&gt;prévia do game de corrida Horizon Chase&lt;/a&gt;, agora saiu do forno o tão esperado vídeo mostrando um pouco do gameplay do jogo da gaúcha Aquiris Game Studio.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o vídeo do game que deve ser lançado para consoles, mobile e PC.&lt;/p&gt;
@@ -44,9 +44,9 @@
  
  <entry>
    <title>Prévia de Relic Hunters Zero</title>
-   <link href="http://example.com/2015/07/30/previa-de-relic-hunters-zero"/>
+   <link href="//2015/07/30/previa-de-relic-hunters-zero"/>
    <updated>2015-07-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/30/previa-de-relic-hunters-zero</id>
+   <id>//2015/07/30/previa-de-relic-hunters-zero</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.roguesnail.com/relic-hunters-zero/&quot; target=&quot;_blank&quot;&gt;Relic Hunters Zero&lt;/a&gt;
  é o mais novo game da brasileira Rogue Snail. Pra quem não conhece, a Rogue Snail é a marca que o gamedev Mark Venturelli utiliza para seus games. No caso do RHZ, o artista foi Betu Souza, enquanto Venturelli trabalhava na programação e game design do projeto.&lt;/p&gt;
 
@@ -85,9 +85,9 @@
  
  <entry>
    <title>Gryphon Knight Epic ganha data de lançamento</title>
-   <link href="http://example.com/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento"/>
+   <link href="//2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento"/>
    <updated>2015-07-28T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento</id>
+   <id>//2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento</id>
    <content type="html">&lt;p&gt;Em abril fizemos uma &lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;prévia&lt;/a&gt;
  de &lt;a href=&quot;http://gryphonknightepic.com/&quot; target=&quot;_blank&quot;&gt;Cryphon Knight Epic&lt;/a&gt;
  da catarinense Cyber Rhino Studios, um mês depois a galera do Insert Coins fez um &lt;a href=&quot;/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic/&quot; target=&quot;_blank&quot;&gt;vídeo de gameplay do jogo&lt;/a&gt;
@@ -104,9 +104,9 @@
  
  <entry>
    <title>Prévia de Fófuuu da Beltri Studio</title>
-   <link href="http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
+   <link href="//2015/07/22/previa-de-fofuuu-da-beltri-studio"/>
    <updated>2015-07-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
+   <id>//2015/07/22/previa-de-fofuuu-da-beltri-studio</id>
    <content type="html">&lt;p&gt;Alexander Graham Bell, famoso inventor do telefone, que na verdade comprou o protótipo da invenção do italiano Antonio Meucci, era um especialista em fala, influenciado pelo pai Alexander Melville Bell, que trabalhava com a correção da fala. Em 1872 fundou nos EUA uma escola que utilizava o método de pronuncia desenvolvido por seu pai em suas aulas. No ano seguinte começou a lecionar Fisiologia Vocal na universidade de Boston, nesse mesmo ano iniciou suas pesquisas para  utilizar a eletricidade na transmissão de sons e o resto é história.&lt;/p&gt;
 
 &lt;p&gt;Qual a razão de falar de Bell na introdução de um game? Boas invenções sempre nos ajudaram a superar grandes desafios, assim foi com o telefone e assim será com o&lt;a href=&quot;http://fofuuu.com/&quot; target=&quot;_blank&quot;&gt; game educativo Fófuuu&lt;/a&gt;
@@ -154,9 +154,9 @@
  
  <entry>
    <title>Prévia de Unnamed Fiasco</title>
-   <link href="http://example.com/2015/07/07/previa-de-unnamed-fiasco"/>
+   <link href="//2015/07/07/previa-de-unnamed-fiasco"/>
    <updated>2015-07-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/07/previa-de-unnamed-fiasco</id>
+   <id>//2015/07/07/previa-de-unnamed-fiasco</id>
    <content type="html">&lt;p&gt;No filme Edge of Tomorrow (No Limite do Amanhã) de 2014 baseado na série de light novels All You Need Is Kill de Hiroshi Sakurazaka, o personagem de Tom Cruise, além de correr quase todo o filme como já é de praxe dos personagens do ator, também entra em contato com o sangue dos aliens inimigos e ganha a capacidade de controlar o tempo, mas de uma forma bem peculiar, toda vez que morre, acaba revivendo o mesmo dia.&lt;/p&gt;
 
 &lt;p&gt;Agora imagine que ao invés de reviver o mesmo dia, toda vez que você morresse um clone seu seria criado e mimetizaria seu comportamento anterior no campo de batalha? Essa é a premissa do gameplay do game em desenvolvimento &lt;a href=&quot;http://unnamedfiasco.com/&quot; target=&quot;_blank&quot;&gt;Unnamed Fiasco&lt;/a&gt;
@@ -188,9 +188,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Prévia de Dengue Over da Ilusis Interactive</title>
-   <link href="http://example.com/2015/07/01/previa-de-dengue-over-da-ilusis-interactive"/>
+   <link href="//2015/07/01/previa-de-dengue-over-da-ilusis-interactive"/>
    <updated>2015-07-01T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/01/previa-de-dengue-over-da-ilusis-interactive</id>
+   <id>//2015/07/01/previa-de-dengue-over-da-ilusis-interactive</id>
    <content type="html">&lt;p&gt;Com um nome de origem egípcia, o famigerado mosquito transmissor da dengue, o Aedes aegypti, também é transmissor da febre amarela urbana e foi por transmitir essa segunda doença que o Brasil adotou rígidas medidas de controle por aproximadamente 3 anos e que culminaram em 1958 no país sendo considerado pela OMS um território livre do vetor, entretanto outras áreas do nosso continente não estavam livres da praga o que acabou levando ao ressurgimento do mosquito no país na década de 60.&lt;/p&gt;
 
 &lt;h2 id=&quot;dengue-over&quot;&gt;Dengue Over&lt;/h2&gt;
@@ -215,9 +215,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Prévia de Dog Duty da Zanardi & Liza</title>
-   <link href="http://example.com/2015/06/20/previa-de-dog-duty-da-zanardi-liza"/>
+   <link href="//2015/06/20/previa-de-dog-duty-da-zanardi-liza"/>
    <updated>2015-06-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/20/previa-de-dog-duty-da-zanardi-liza</id>
+   <id>//2015/06/20/previa-de-dog-duty-da-zanardi-liza</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Seu propósito: defender a liberdade humana contra a Organização Cobra, um impiedoso grupo terrorista determinado a dominar o mundo&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -262,9 +262,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Prévia de Peronio Pop-Up Book da Ovni Studios</title>
-   <link href="http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
+   <link href="//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
    <updated>2015-06-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
+   <id>//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
    <content type="html">&lt;p&gt;A primeira evidência histórica de livros pop-up remonta para o ano 1240 quando o monge beneditino Matthew Paris criou tal artefato para ajudar outros monges a calcular os dias santos. Nos séculos seguintes livros pop-up foram utilizados por adultos para ilustrar teorias, ensinar anatomia, fazer predições astronômicas e criar códigos secretos. Somente no século 18 surgiram os primeiros livros pop-up com sua finalidade mais famosa nos dias atuais: divertir e ensinar crianças.&lt;/p&gt;
 
 &lt;p&gt;Séculos depois graças as tecnologias atuais e as sempre infinitas capacidade e criatividade humana, os livros pop-up podem evoluir a um novo patamar e é nesse estágio que conhecemos Peronio Pop-up Book da Ovni Studios.&lt;/p&gt;
@@ -304,9 +304,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Prévia de Massive Madness da Ninja Garage Studio</title>
-   <link href="http://example.com/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio"/>
+   <link href="//2015/06/16/previa-de-massive-madness-da-ninja-garage-studio"/>
    <updated>2015-06-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/16/previa-de-massive-madness-da-ninja-garage-studio</id>
+   <id>//2015/06/16/previa-de-massive-madness-da-ninja-garage-studio</id>
    <content type="html">&lt;p&gt;ToeJam &amp;amp; Earl, game lançado em 1991 para o saudoso Mega-Drive, trazia dois personagens extraterrestres do planeta Funkotron, que colidem com a Terra e tem como missão buscar as partes de sua nave pelas 25 fases do game. Na época o jogo conquistou muitos fãs por sua originalidade, jogabilidade, estilo e trilha sonora funk composta por John Baker. A maior prova de seu sucesso é a recente &lt;a href=&quot;https://www.kickstarter.com/projects/1578116861/toejam-and-earl-back-in-the-groove/description&quot; target=&quot;_blank&quot;&gt;campanha no Kickstarte&lt;/a&gt;
 r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produção do novo game.&lt;/p&gt;
 
@@ -343,9 +343,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Prévia de My Night Job da Webcore Games</title>
-   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games"/>
+   <link href="//2015/06/10/previa-de-my-night-job-da-webcore-games"/>
    <updated>2015-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
+   <id>//2015/06/10/previa-de-my-night-job-da-webcore-games</id>
    <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
 
 &lt;p&gt;Se quando você viu esses filmes ficou com vontade de pegar a serra elétrica, sua boomstick (a arma de cano-serrado), entrar numa casa mal-assombrada, detonar os demônios e salvar o dia no melhor estilo insano do herói Ash Williams, então o game que a Webcore Games está desenvolvendo matará sua vontade.&lt;/p&gt;
@@ -387,9 +387,9 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Conheça os games selecionados no BIG Starter 2015</title>
-   <link href="http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
+   <link href="//2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
    <updated>2015-06-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
+   <id>//2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
    <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;
 , evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.&lt;/p&gt;
 
@@ -441,15 +441,14 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
  
  <entry>
    <title>Prévia de Alkimya da Bad Minions</title>
-   <link href="http://example.com/2015/05/26/previa-de-alkimya-da-bad-minions"/>
+   <link href="//2015/05/26/previa-de-alkimya-da-bad-minions"/>
    <updated>2015-05-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/26/previa-de-alkimya-da-bad-minions</id>
+   <id>//2015/05/26/previa-de-alkimya-da-bad-minions</id>
    <content type="html">&lt;p&gt;O físico e matemático Isaac Newton, um dos cientistas mais importantes da história, pensador que definiu as leis que fundamentaram o que chamamos de mecânica clássica e a lei da gravitação universal poderia ser um consultor do próximo jogo da Bad Minions: Alkimya. Por que? Porque, além de matemático e físico, Newton era um grande estudioso e praticante da alquimia, tendo escrito e lido muito sobre o assunto, fato comprovado pelos mais de 150 livros sobre o tema encontrados na biblioteca particular dele após sua morte.&lt;/p&gt;
 
 &lt;h2 id=&quot;alquimia&quot;&gt;Alquimia&lt;/h2&gt;
 
-&lt;p&gt;Não somos alquimistas, mas sabemos ver quando um projeto em desenvolvimento tem tudo para se transmutar em um grande game e foi isso que percebemos ao ver o alpha trailer que a &lt;a href=&quot;http://www.badminions.com/&quot; target=&quot;_blank&quot;&gt;brasiliense Bad Minions &lt;/a&gt;
-liberou, junto com algumas imagens, mostrando como está ficando o seu novo projeto, um jogo de aventura e RPG baseado em títulos como Legend of Zelda, Diablo, Goof Troop e The Witcher. Dentro de um universo em que a base de tudo se resume em mistura, e a &lt;strong&gt;alquimia&lt;/strong&gt; sendo o centro da constituição de todas as coisas, daí o nome do game e a consultoria de Newton.&lt;/p&gt;
+&lt;p&gt;Não somos alquimistas, mas sabemos ver quando um projeto em desenvolvimento tem tudo para se transmutar em um grande game e foi isso que percebemos ao ver o alpha trailer que a brasiliense Bad Minions](http://www.badminions.com/) liberou, junto com algumas imagens, mostrando como está ficando o seu novo projeto, um jogo de aventura e RPG baseado em títulos como Legend of Zelda, Diablo, Goof Troop e The Witcher. Dentro de um universo em que a base de tudo se resume em mistura, e a &lt;strong&gt;alquimia&lt;/strong&gt; sendo o centro da constituição de todas as coisas, daí o nome do game e a consultoria de Newton.&lt;/p&gt;
 
 &lt;h2 id=&quot;história&quot;&gt;História&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -457,12 +456,16 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
-&lt;p&gt;Segundo a Bad Minions, &amp;gt; “Alkimya é um jogo de exploração com quebra-cabeças e mecânicas de batalhas estratégicas com monstros que possuem comportamentos próprios. Todas as suas habilidades são baseadas no conhecimento em alquimia que serão adquiridas ao longo da progressão do jogo, utilizando tanto para enfrentar seus inimigos quanto para solucionar os problemas que estarão em seu caminho.”&lt;/p&gt;
+&lt;p&gt;Segundo a Bad Minions,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Alkimya é um jogo de exploração com quebra-cabeças e mecânicas de batalhas estratégicas com monstros que possuem comportamentos próprios. Todas as suas habilidades são baseadas no conhecimento em alquimia que serão adquiridas ao longo da progressão do jogo, utilizando tanto para enfrentar seus inimigos quanto para solucionar os problemas que estarão em seu caminho.”&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
 &lt;p&gt;A empresa está negociando o lançamento de Alkimya para consoles, mas por enquanto a plataforma confirmada é o PC.&lt;/p&gt;
 
 &lt;p&gt;Pelas imagens e o trailer, podemos perceber a Bad Minions está trabalhando muito na qualidade do projeto, por essa razão o game tem previsão de lançamento para o final de 2016, mas essa data pode ser estendida caso a equipe de desenvolvimento precise polir mais o jogo.&lt;/p&gt;
+
 &lt;h2 id=&quot;alpha-trailer-de-alkimya&quot;&gt;Alpha trailer de Alkimya&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/lWjMGFZAnD8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -472,9 +475,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>Prévia de Cannibal da GameTek</title>
-   <link href="http://example.com/2015/05/19/previa-de-cannibal-da-gametek"/>
+   <link href="//2015/05/19/previa-de-cannibal-da-gametek"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/19/previa-de-cannibal-da-gametek</id>
+   <id>//2015/05/19/previa-de-cannibal-da-gametek</id>
    <content type="html">&lt;p&gt;A indie brasileira &lt;a href=&quot;http://www.gametekbrasil.com/&quot; target=&quot;_blank&quot;&gt;GameTek&lt;/a&gt;
  está há cerca de dois anos desenvolvendo seu primeiro game: Cannibal.&lt;/p&gt;
 
@@ -509,9 +512,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>Prévia de Horizon Chase da Aquiris Game Studio</title>
-   <link href="http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
+   <link href="//2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
+   <id>//2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio</id>
    <content type="html">&lt;p&gt;Antes de ler qualquer coisa sobre &lt;a href=&quot;http://horizonchase.tumblr.com/&quot; target=&quot;_blank&quot;&gt;Horizon Chase&lt;/a&gt;, ouça a trilha sonora abaixo:&lt;/p&gt;
 
 &lt;center&gt;
@@ -548,9 +551,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>TurboLink aprovado no Steam Greenlight</title>
-   <link href="http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
+   <link href="//2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
+   <id>//2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
    <content type="html">&lt;p&gt;Acabamos de receber uma grande notícia: TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=429961096&quot; target=&quot;_blank&quot;&gt;Greenlight&lt;/a&gt;
 , ou seja, num futuro próximo devemos ter esse belo jogo de corrida high-tech no Steam.&lt;/p&gt;
 
@@ -578,9 +581,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>Prévia de Starlit Adventures</title>
-   <link href="http://example.com/2015/04/27/previa-de-starlit-adventures"/>
+   <link href="//2015/04/27/previa-de-starlit-adventures"/>
    <updated>2015-04-27T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/27/previa-de-starlit-adventures</id>
+   <id>//2015/04/27/previa-de-starlit-adventures</id>
    <content type="html">&lt;p&gt;No último evento PowerUp tivemos a grata surpresa de ver algumas imagens e vídeos do novo jogo da Rockhead Games, o &lt;a href=&quot;http://starlitadventures.com&quot; target=&quot;_blank&quot;&gt;Startlit Adventures&lt;/a&gt;
 , um game de aventura-plataforma para smartphones, tablets e PS Vita.&lt;/p&gt;
 
@@ -600,9 +603,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>Lançada a demo de TurboLink</title>
-   <link href="http://example.com/2015/04/23/lancado-a-demo-de-turbolink"/>
+   <link href="//2015/04/23/lancado-a-demo-de-turbolink"/>
    <updated>2015-04-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/23/lancado-a-demo-de-turbolink</id>
+   <id>//2015/04/23/lancado-a-demo-de-turbolink</id>
    <content type="html">&lt;p&gt;No início do mês fizemos uma &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;, hoje a Division Five liberou a &lt;a href=&quot;http://collective.square-enix.com/projects/106/turbolink/updates/92/turbolink-demo-download-here&quot;&gt;demo pública&lt;/a&gt; do game que está em votação no &lt;a href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;Collective da Square Enix&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Os jogadores poderão testar a demo com um torneio de 6 pistas, 4 carros, suporte ao controle do Xbox 360 e a implementação inicial da inteligência artificial do game.&lt;/p&gt;
@@ -615,9 +618,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>TurboLink no Square Enix Collective</title>
-   <link href="http://example.com/2015/04/14/turbolink-no-square-enix-collective"/>
+   <link href="//2015/04/14/turbolink-no-square-enix-collective"/>
    <updated>2015-04-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/14/turbolink-no-square-enix-collective</id>
+   <id>//2015/04/14/turbolink-no-square-enix-collective</id>
    <content type="html">&lt;p&gt;No início de abril fizemos uma &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;prévia de TurboLink&lt;/a&gt;
  jogo de corrida da brasileira Division Five, agora chegou a hora de apoiar o game numa nova fase, pois começou a campanha do TurboLink no Square Enix Collective.&lt;/p&gt;
 
@@ -636,9 +639,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>Prévia de Gryphon Knight Epic</title>
-   <link href="http://example.com/2015/04/09/previa-de-gryphon-knight-epic"/>
+   <link href="//2015/04/09/previa-de-gryphon-knight-epic"/>
    <updated>2015-04-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/09/previa-de-gryphon-knight-epic</id>
+   <id>//2015/04/09/previa-de-gryphon-knight-epic</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.cyberrhinostudios.com/&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
 , de Florianópolis, lançou no ano passado uma campanha no &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/&quot;&gt;Kickstarter&lt;/a&gt;
  para tornar o seu Gryphon Knight Epic, um medieval shmup, em realidade. Pouco tempo depois o game recebeu o Greenlight no Steam.&lt;/p&gt;
@@ -657,9 +660,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>Prévia de TurboLink</title>
-   <link href="http://example.com/2015/04/03/previa-de-turbolink"/>
+   <link href="//2015/04/03/previa-de-turbolink"/>
    <updated>2015-04-03T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/03/previa-de-turbolink</id>
+   <id>//2015/04/03/previa-de-turbolink</id>
    <content type="html">&lt;p&gt;A equipe de desenvolvimento da Division Five entrou em contato conosco via Twitter falando sobre o game que estão desenvolvendo: TurboLink.&lt;/p&gt;
 
 &lt;p&gt;Conhecer TurboLink foi uma grata surpresa, pois, apesar de ainda não termos posto as mãos no game, o vídeo e as imagens que temos dele já mostram que é uma boa promessa para os amantes de games de corrida a lá Rock &amp;amp; Roll Racing.&lt;/p&gt;
@@ -682,9 +685,9 @@ liberou, junto com algumas imagens, mostrando como está ficando o seu novo proj
  
  <entry>
    <title>Prévia: Cannon Land</title>
-   <link href="http://example.com/2011/04/27/previa-cannon-land"/>
+   <link href="//2011/04/27/previa-cannon-land"/>
    <updated>2011-04-27T00:00:00-03:00</updated>
-   <id>http://example.com/2011/04/27/previa-cannon-land</id>
+   <id>//2011/04/27/previa-cannon-land</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Cannon Land é um arquipélago conquistado por Sir Muzzle, um dos piratas mais malucos a navegar pelos oceanos. Um dia, ele decidiu parar de saquear navios e portos e começou a construir armadilhas incríveis, para proteger os seus tesouros. A lenda diz que ele enloqueceu e morreu Cannon Land, e suas armadilhas continuam funcionando até hoje. Muitos aventureiros tentaram passar pelas engenhocas de Muzzle, mas nenhum conseguiu, e a lenda foi ganhando força dia após dia…
 Duzentos anos depois, um menino decide sair para uma aventura! Com sua espada de madeira, e uma roupa de pirata feita pela sua avó, Chunkie está confiante de que conquistar o tesouro de Sir Muzzle e se transformar em um herói!&quot;
@@ -715,9 +718,9 @@ Conhe&amp;#231;a mais do jogo no &lt;a href=&quot;http://www.currantcat.com/cann
  
  <entry>
    <title>Prévia: The Fish Dies in the End</title>
-   <link href="http://example.com/2011/04/06/previa-the-fish-dies-in-the-end"/>
+   <link href="//2011/04/06/previa-the-fish-dies-in-the-end"/>
    <updated>2011-04-06T00:00:00-03:00</updated>
-   <id>http://example.com/2011/04/06/previa-the-fish-dies-in-the-end</id>
+   <id>//2011/04/06/previa-the-fish-dies-in-the-end</id>
    <content type="html">&lt;p&gt;Um pequeno peixe tentando sobreviver aos perigos do oceano, esse é o mote do game &lt;a href=&quot;http://www.thefishdies.com/&quot; target=&quot;_blank&quot;&gt;The Fish Dies in the End&lt;/a&gt;
  do desenvolvedor independente &lt;span style=&quot;font-family: arial, sans-serif; font-size: 13px; border-collapse: collapse;&quot;&gt;&lt;a href=&quot;http://twitter.com/gutenbergn&quot; target=&quot;_blank&quot;&gt;Gutenberg Neto&lt;/a&gt;
 .&lt;/span&gt;&lt;/p&gt;
@@ -736,9 +739,9 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
  
  <entry>
    <title>Prévia: Legend Alive: rebirth of the angels</title>
-   <link href="http://example.com/2011/03/16/previa-legend-alive-rebirth-of-the-angels"/>
+   <link href="//2011/03/16/previa-legend-alive-rebirth-of-the-angels"/>
    <updated>2011-03-16T00:00:00-03:00</updated>
-   <id>http://example.com/2011/03/16/previa-legend-alive-rebirth-of-the-angels</id>
+   <id>//2011/03/16/previa-legend-alive-rebirth-of-the-angels</id>
    <content type="html">&lt;p&gt;Um mundo politeísta onde deuses estão em guerra e as batalhas são travadas por guerreiros reencarnados, esse é o plano de fundo do game &lt;a href=&quot;http://www.legend-alive.com/&quot; target=&quot;_blank&quot;&gt;Legend Alive: rebirth of the angels&lt;/a&gt;
  que está sendo desenvolvido pela empresa brasileira Dynamic Light de Brasília.&lt;/p&gt;
 
@@ -757,9 +760,9 @@ Segundo Gutenberg o game terá uma jogabilidade simples, integração com o Game
  
  <entry>
    <title>Preview de Talbot&#39;s Odissey</title>
-   <link href="http://example.com/2011/02/18/preview-de-talbots-odissey"/>
+   <link href="//2011/02/18/preview-de-talbots-odissey"/>
    <updated>2011-02-18T00:00:00-02:00</updated>
-   <id>http://example.com/2011/02/18/preview-de-talbots-odissey</id>
+   <id>//2011/02/18/preview-de-talbots-odissey</id>
    <content type="html">&lt;font size=&quot;2&quot;&gt;&amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;Por Luiz Damasceno (&lt;/span&gt;&lt;a href=&quot;http://twitter.com/#!/lcdjr&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;@lcdjr&lt;/span&gt;&lt;/a&gt;
 &amp;gt; &lt;span style=&quot;font-size: x-small;&quot;&gt;) em c&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;olabora&amp;#231;&amp;#227;o para o jogosdaqui.&lt;/span&gt;&lt;/font&gt;
 
@@ -787,9 +790,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Shotguns&#39;n Goblins</title>
-   <link href="http://example.com/2007/01/18/previa-de-shotgunsn-goblins"/>
+   <link href="//2007/01/18/previa-de-shotgunsn-goblins"/>
    <updated>2007-01-18T00:00:00-02:00</updated>
-   <id>http://example.com/2007/01/18/previa-de-shotgunsn-goblins</id>
+   <id>//2007/01/18/previa-de-shotgunsn-goblins</id>
    <content type="html">&lt;p&gt;O jogo de celular Shotguns’n Goblins - The Shaman’ll Die está em desenvolvimento pela &lt;a href=&quot;http://www.ludensartis.com.br/&quot; target=&quot;_blank&quot;&gt;Ludens Artis&lt;/a&gt;
 .&lt;br /&gt;&lt;br /&gt;A empresa promete muita aventura em cenários de fantasia medieval e elementos de steampunk.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=505&quot;&gt;Confira a prévia…&lt;/a&gt;&lt;/p&gt;
 
@@ -798,9 +801,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Mais uma Prévia: Esquadrão Zumbi</title>
-   <link href="http://example.com/2006/09/06/mais-uma-previa-esquadrao-zumbi"/>
+   <link href="//2006/09/06/mais-uma-previa-esquadrao-zumbi"/>
    <updated>2006-09-06T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/06/mais-uma-previa-esquadrao-zumbi</id>
+   <id>//2006/09/06/mais-uma-previa-esquadrao-zumbi</id>
    <content type="html">&lt;p&gt;Quer ser um membro da polícia paulistana e ajudar a acabar com a onda de violência atual?&lt;br /&gt;Se você respondeu que sim, então precisa ler a prévia de Esquadrão Zumbi, jogo em desenvolvimento pela &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=65&quot;&gt;Edward Multmídia&lt;/a&gt;
  onde o jogador estará na pele de um membro da elite da polícia paulistana.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=476&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
 
@@ -809,9 +812,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de OmniScire</title>
-   <link href="http://example.com/2006/09/05/previa-de-omniscire"/>
+   <link href="//2006/09/05/previa-de-omniscire"/>
    <updated>2006-09-05T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/05/previa-de-omniscire</id>
+   <id>//2006/09/05/previa-de-omniscire</id>
    <content type="html">&lt;p&gt;OmniScire, jogo em desenvolvimento pela brasileira &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=19&quot;&gt;Oniria Entertainment&lt;/a&gt;
   será repleto de aspectos de um bom adventure mangá.&lt;br /&gt;&lt;br /&gt;Pela história, imagens e video atuais, o jogo promete muito.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=474&quot;&gt;Confira a prévia…&lt;/a&gt;&lt;/p&gt;
 
@@ -820,9 +823,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de A Zombie Nightmare</title>
-   <link href="http://example.com/2006/09/01/previa-de-a-zombie-nightmare"/>
+   <link href="//2006/09/01/previa-de-a-zombie-nightmare"/>
    <updated>2006-09-01T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/01/previa-de-a-zombie-nightmare</id>
+   <id>//2006/09/01/previa-de-a-zombie-nightmare</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;PalmSoft&lt;/a&gt;
  está pronta para colocar muitos zumbis nos &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idp=2&quot;&gt;celulares&lt;/a&gt;
  com &quot;A Zombie Nightmare&quot;, jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=1&quot;&gt;ação&lt;/a&gt;
@@ -833,9 +836,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia da nova versão de Drag Racer</title>
-   <link href="http://example.com/2006/06/30/previa-da-nova-versao-de-drag-racer"/>
+   <link href="//2006/06/30/previa-da-nova-versao-de-drag-racer"/>
    <updated>2006-06-30T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/30/previa-da-nova-versao-de-drag-racer</id>
+   <id>//2006/06/30/previa-da-nova-versao-de-drag-racer</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=242&quot;&gt;Drag Racer&lt;/a&gt;
 , um dos maiores sucessos da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;Palmsoft&lt;/a&gt;
 , ganhará uma nova versão. As várias novidades do jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=5&quot;&gt;corrida&lt;/a&gt;
@@ -847,9 +850,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Cat Fighters</title>
-   <link href="http://example.com/2006/05/31/previa-de-cat-fighters"/>
+   <link href="//2006/05/31/previa-de-cat-fighters"/>
    <updated>2006-05-31T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/31/previa-de-cat-fighters</id>
+   <id>//2006/05/31/previa-de-cat-fighters</id>
    <content type="html">&lt;p&gt;Um jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=21&quot;&gt;luta&lt;/a&gt;
 , para celular, com cinco belas e sensuais lutadoras, é isso que promete a catarinense &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;PalmSoft&lt;/a&gt;
  para Cat Fighters, um dos seus próximos lançamentos.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=406&quot;&gt;Veja a prévia…&lt;/a&gt;&lt;/p&gt;
@@ -859,9 +862,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia: Incorporated, demo do JogosBR 2004/2005</title>
-   <link href="http://example.com/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005"/>
+   <link href="//2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005</id>
+   <id>//2006/05/10/previa-incorporated-demo-do-jogosbr-2004-2005</id>
    <content type="html">&lt;p&gt;Incorporated foi um dos projetos vencedores para a produção de uma demo jogável no JogosBR 2004/2005.&lt;br /&gt;&lt;br /&gt;A empresa Interama, responsável pela demo, acaba de liberar informações e um vídeo sobre a demo.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=380&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -869,9 +872,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Pinogol 3D</title>
-   <link href="http://example.com/2006/04/26/previa-de-pinogol-3d"/>
+   <link href="//2006/04/26/previa-de-pinogol-3d"/>
    <updated>2006-04-26T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/26/previa-de-pinogol-3d</id>
+   <id>//2006/04/26/previa-de-pinogol-3d</id>
    <content type="html">&lt;p&gt;O jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=futebol&quot;&gt;futebol&lt;/a&gt;
  com pinos é uma das próximas atrações do portal &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=gametrack&quot;&gt;Gametrack&lt;/a&gt;
 .&lt;br /&gt;&lt;br /&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=54&quot;&gt;Devworks&lt;/a&gt;
@@ -882,9 +885,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Fruzzle</title>
-   <link href="http://example.com/2006/03/07/previa-de-fruzzle"/>
+   <link href="//2006/03/07/previa-de-fruzzle"/>
    <updated>2006-03-07T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/07/previa-de-fruzzle</id>
+   <id>//2006/03/07/previa-de-fruzzle</id>
    <content type="html">&lt;p&gt;Um jogo de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=12&quot;&gt;quebra-cabeça&lt;/a&gt;
  e muita estratégia, este é o próximo lançamento da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=34&quot;&gt;ICON Games&lt;/a&gt;
 .&lt;br /&gt;&lt;br /&gt;Fruzzle é um sapo que deve pular por todos pontos flutuantes de um lago, mas jamais pode voltar, pois todos os pontos por onde passa afundam.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=294&quot;&gt;Veja a prévia…&lt;/a&gt;&lt;/p&gt;
@@ -894,9 +897,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Golden West - Bang! Bang!</title>
-   <link href="http://example.com/2006/02/24/previa-de-golden-west-bang-bang"/>
+   <link href="//2006/02/24/previa-de-golden-west-bang-bang"/>
    <updated>2006-02-24T00:00:00-03:00</updated>
-   <id>http://example.com/2006/02/24/previa-de-golden-west-bang-bang</id>
+   <id>//2006/02/24/previa-de-golden-west-bang-bang</id>
    <content type="html">&lt;p&gt;Um garimpeiro chinês em busca de um mapa do tesouro em pleno México, esse é Golden West - Bang! Bang!, jogo da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;PalmSoft Tecnologia&lt;/a&gt;
  que deve ser lançado em breve.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=282&quot;&gt;Leia mais …&lt;/a&gt;&lt;/p&gt;
 
@@ -905,18 +908,18 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Confira a Prévia do WSG - Web Soccer Game</title>
-   <link href="http://example.com/2006/02/23/confira-a-previa-do-wsg-web-soccer-game"/>
+   <link href="//2006/02/23/confira-a-previa-do-wsg-web-soccer-game"/>
    <updated>2006-02-23T00:00:00-03:00</updated>
-   <id>http://example.com/2006/02/23/confira-a-previa-do-wsg-web-soccer-game</id>
+   <id>//2006/02/23/confira-a-previa-do-wsg-web-soccer-game</id>
    <content type="html">&lt;p&gt;A Knum3D, uma nova produtora de jogos nacionais está entrando em cena com a produção de alguns jogos, dentre eles está o WSG - Web Soccer Game, que é um jogo de futebol baseados em turnos.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;../../../index.php?p=c&amp;amp;id=279&quot;&gt;Confira a prévia aqui…&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Prévia de Danger Mission</title>
-   <link href="http://example.com/2006/02/22/previa-de-danger-mission"/>
+   <link href="//2006/02/22/previa-de-danger-mission"/>
    <updated>2006-02-22T00:00:00-03:00</updated>
-   <id>http://example.com/2006/02/22/previa-de-danger-mission</id>
+   <id>//2006/02/22/previa-de-danger-mission</id>
    <content type="html">&lt;p&gt;Você deve resgatar um famoso cientista sequestrado por terroristas para criar um perigoso vírus. Este é Danger Mission, jogo de tiro em 1ª pessoa em desenvolvimento pela WD Studio.&lt;br /&gt;A previsão de lançamento é para o segundo semestre.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=274&quot;&gt;Veja a prévia…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -924,9 +927,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Show de Bola</title>
-   <link href="http://example.com/2006/01/31/previa-de-show-de-bola"/>
+   <link href="//2006/01/31/previa-de-show-de-bola"/>
    <updated>2006-01-31T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/31/previa-de-show-de-bola</id>
+   <id>//2006/01/31/previa-de-show-de-bola</id>
    <content type="html">&lt;p&gt;Futebol é uma paixão nacional. A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=41&quot;&gt;Meantime&lt;/a&gt;
  sabe muito bem disso e já está preparando o seu jogo de futebol.&lt;br /&gt;&lt;br /&gt;Show de Bola está em desenvolvimento, mas já promete muita diversão e boas risadas na tela do celular.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=255&quot;&gt;Confira a prévia …&lt;/a&gt;&lt;/p&gt;
 
@@ -935,9 +938,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Fighters of Caribbean da PalmSoft</title>
-   <link href="http://example.com/2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft"/>
+   <link href="//2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft"/>
    <updated>2006-01-20T00:00:00-02:00</updated>
-   <id>http://example.com/2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft</id>
+   <id>//2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft</id>
    <content type="html">&lt;p&gt;Você já pensou em ir ao Caribe para lutar por tesouros?&lt;/p&gt;
 
 &lt;p&gt;É isso que os piratas de Fighters of Caribbean, jogo em desenvolvimento pela &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=38&quot;&gt;PalmSoft Tecnologia&lt;/a&gt;
@@ -952,9 +955,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de War of Malquidious da PalmSoft</title>
-   <link href="http://example.com/2005/12/16/war-of-malquidious"/>
+   <link href="//2005/12/16/war-of-malquidious"/>
    <updated>2005-12-16T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/16/war-of-malquidious</id>
+   <id>//2005/12/16/war-of-malquidious</id>
    <content type="html">&lt;p&gt;War of Malquidious, o novo RPG tático para celular da PalmSoft Tecnologia.&lt;/p&gt;
 
 &lt;p&gt;O jogador controlará as tropas do reino de Feltrano na luta para restaurar a paz. Paz esta que foi quebrada pelo deus demônio conhecido como Malquidious.&lt;/p&gt;
@@ -970,9 +973,9 @@ Com mais de 1.000 downloads desde seu lan&amp;#231;amento, a demo &amp;#233; uma
  
  <entry>
    <title>Prévia de Winguel</title>
-   <link href="http://example.com/2005/12/07/previa-de-winguel"/>
+   <link href="//2005/12/07/previa-de-winguel"/>
    <updated>2005-12-07T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/07/previa-de-winguel</id>
+   <id>//2005/12/07/previa-de-winguel</id>
    <content type="html">&lt;p&gt;Winguel é um simpático alienígena que, ao passear por Marte, encontra uma sonda terráquea e resolve devolvê-la aos humanos na terra.&lt;/p&gt;
 
 &lt;p&gt;Ao chegar em órbita terrestre, a nave de Winguel é atacada pela WUC (World UFO Control).&lt;/p&gt;
@@ -1013,9 +1016,9 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Prévia de Bola de Gude</title>
-   <link href="http://example.com/2005/11/16/previa-de-bola-de-gude"/>
+   <link href="//2005/11/16/previa-de-bola-de-gude"/>
    <updated>2005-11-16T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/16/previa-de-bola-de-gude</id>
+   <id>//2005/11/16/previa-de-bola-de-gude</id>
    <content type="html">&lt;p&gt;SLotman, game designer, desenvolveu o jogo por quase 1 ano. Em breve será lançado oficialmente.&lt;/p&gt;
 
 &lt;p&gt;Para quem já está acostumado em jogar bola de gude (ou lembra dos jogos da infância), o jogo será diversão garantida com seus dois modos: “mata-mata” e “búlica”.&lt;/p&gt;
@@ -1041,9 +1044,9 @@ Na demo que jogamos, apenas uma fase de cada tipo de jogo estava disponível.&lt
  
  <entry>
    <title>Em primeira mão: Bola de Gude</title>
-   <link href="http://example.com/2005/11/16/em-primeira-mao-bola-de-gude"/>
+   <link href="//2005/11/16/em-primeira-mao-bola-de-gude"/>
    <updated>2005-11-16T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/16/em-primeira-mao-bola-de-gude</id>
+   <id>//2005/11/16/em-primeira-mao-bola-de-gude</id>
    <content type="html">&lt;p&gt;Belos gráficos 3D e uma jogabilidade inovadora, é o que podemos esperar pela &lt;a href=&quot;/2005/11/16/previa-de-bola-de-gude/&quot;&gt;prévia de Bola de Gude&lt;/a&gt;
 .&lt;/p&gt;
 

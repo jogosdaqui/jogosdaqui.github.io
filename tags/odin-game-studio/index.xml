@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - odin-game-studio</title>
- <link href="http://example.com/tags/odin-game-studio/index.xml" rel="self"/>
- <link href="http://example.com/tag/odin-game-studio.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/odin-game-studio.html</id>
+ <title>jogosdaqui - odin-game-studio</title>
+ <link href="//tags/odin-game-studio/index.xml" rel="self"/>
+ <link href="/tag/odin-game-studio.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/odin-game-studio.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Começa o early access de Better late than DEAD</title>
-   <link href="http://example.com/2015/07/23/comeca-o-early-access-de-better-late-than-dead"/>
+   <link href="//2015/07/23/comeca-o-early-access-de-better-late-than-dead"/>
    <updated>2015-07-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/23/comeca-o-early-access-de-better-late-than-dead</id>
+   <id>//2015/07/23/comeca-o-early-access-de-better-late-than-dead</id>
    <content type="html">&lt;p&gt;O survival game Better late than DEAD que está sendo desenvolvido pela &lt;a href=&quot;http://odingamestudio.com.br/&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
  desde o início do ano começou seu early access no Steam hoje: &lt;a href=&quot;http://store.steampowered.com/app/352950&quot; target=&quot;_blank&quot;&gt;http://store.steampowered.com/app/352950&lt;/a&gt;&lt;/p&gt;
 
@@ -30,9 +30,9 @@
  
  <entry>
    <title>Checkpoint #9</title>
-   <link href="http://example.com/2015/06/11/checkpoint-9"/>
+   <link href="//2015/06/11/checkpoint-9"/>
    <updated>2015-06-11T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/11/checkpoint-9</id>
+   <id>//2015/06/11/checkpoint-9</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar&quot;&gt;Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar&lt;/a&gt;&lt;/p&gt;
 
@@ -76,9 +76,9 @@
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7"/>
+   <link href="//2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/22/checkpoint-7</id>
+   <id>//2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/14/demo-reel-da-odin-game-studio/&quot;&gt;Confira o demo reel da Odin Game Studio&lt;/a&gt;&lt;/p&gt;
 
@@ -151,9 +151,9 @@
  
  <entry>
    <title>Demo Reel da Odin Game Studio</title>
-   <link href="http://example.com/2015/05/14/demo-reel-da-odin-game-studio"/>
+   <link href="//2015/05/14/demo-reel-da-odin-game-studio"/>
    <updated>2015-05-14T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/14/demo-reel-da-odin-game-studio</id>
+   <id>//2015/05/14/demo-reel-da-odin-game-studio</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
 , gamedev brasileira conhecida por games como &lt;a title=&quot;Heist and Run&quot; href=&quot;/2013/04/11/heist-and-run/&quot;&gt;Heist and Run&lt;/a&gt;
 , liberou um demo reel com alguns de seus games produzidos e em produção até o momento.&lt;/p&gt;
@@ -175,95 +175,95 @@
  
  <entry>
    <title>Imagens da semana #6</title>
-   <link href="http://example.com/2015/05/11/imagens-da-semana-6"/>
+   <link href="//2015/05/11/imagens-da-semana-6"/>
    <updated>2015-05-11T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/11/imagens-da-semana-6</id>
+   <id>//2015/05/11/imagens-da-semana-6</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/JoyMasher/status/59519658913787904&quot;&gt;Desenho da artista Amora B. para Haggis, protagonista do game Odallus da brasileira JoyMasher&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_Haggis.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_Haggis.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ndahlberg/status/59523113380734156&quot;&gt;Pessoal da gaúcha CupCake Sweet Entertainment em Miami no evento eMerge Americas&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_CupCakeNoEmerge.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_CupCakeNoEmerge.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/KimericLabs/status/59527439953789747&quot;&gt;Equipe da Kimeric Labs marcando presença no evento Brasil Gets Unreal edição Rio de Janeiro&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_.BrazilGetsUnreal.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_.BrazilGetsUnreal.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ro_draw/status/59536347277231308&quot;&gt;Fan art de Rodrigo Mesquita em homenagem a Toren e sua protagonista&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_TorenFanArt.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_TorenFanArt.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/protomni/status/59540838905380454&quot;&gt;A carioca Protomni Multimedia mostrando uma das primeiras versões da capa para o Steam de seu game Bernie Needs Love&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_BernieNeedsLoveSteamCover.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_BernieNeedsLoveSteamCover.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/AquirisGS/status/59594322143753830&quot;&gt;A Aquiris Game Studio apresentando a equipe envolvida na produção do game Ballistic para Steam. Destaque para o programador-homem-aranha ao fundo&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_.AquirisBallistic.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_.AquirisBallistic.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=89418396064546&quot;&gt;A equipe da Odin Game Studio testando o Ocullus Rift&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_OdinOcullusRift.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/11/imagens-da-semana-6/ImagensDaSemana6_OdinOcullusRift.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Imagens da semana #5</title>
-   <link href="http://example.com/2015/05/04/imagens-da-semana-5"/>
+   <link href="//2015/05/04/imagens-da-semana-5"/>
    <updated>2015-05-04T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/04/imagens-da-semana-5</id>
+   <id>//2015/05/04/imagens-da-semana-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/59271652605208985&quot;&gt;Foto da equipe da Odin Game Studio em pleno testes do game Better later than DEAD&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/OdinGameStudio_TestingBetterLaterThanDEAD.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/OdinGameStudio_TestingBetterLaterThanDEAD.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/vortexstudios/status/59271970709192704&quot;&gt;Poster do novo game da Vortex Game Studios, Space Lander&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/VortexGameStudio_SpaceLander.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/VortexGameStudio_SpaceLander.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/edlago/status/59317275032119296&quot;&gt;O game developer brasileiro Ed Lago, dando uma amostra de grandes games nacionais da atualidade: Chroma Squad da Behold Studios, Odallus da JoyMasher, Dodge This da Imgnation Studios, Candy Maze da BigHut Games e Toren da Swordtales&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/EdLago_ExemplosHueBR.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/EdLago_ExemplosHueBR.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/beholdstudios/status/59360648002627993&quot;&gt;Um dia antes do lançamento a Behold Studios verificando se está tudo certo com o Chroma Squad&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/BeholdStudio_PreparingChromaSquadRelease.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/BeholdStudio_PreparingChromaSquadRelease.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/mgaiastudio/status/59378855788768051&quot;&gt;Pessoal da Mgaia Studio jogando o game Chroma Squad da Behold Studios&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/04/imagens-da-semana-5/MgaiaStudio_ChromaSquad.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/04/imagens-da-semana-5/MgaiaStudio_ChromaSquad.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Checkpoint #4</title>
-   <link href="http://example.com/2015/05/02/checkpoint-4"/>
+   <link href="//2015/05/02/checkpoint-4"/>
    <updated>2015-05-02T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/02/checkpoint-4</id>
+   <id>//2015/05/02/checkpoint-4</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://gamereporter.uol.com.br/mundo-canibal-apocalipse-steam&quot;&gt;O game Mundo Canibal Apocalipse chega no Steam Greenlight. Jogo e voto obrigatórios para quem gosta do humor dos irmãos Piologo&lt;/a&gt;&lt;/p&gt;
 
@@ -310,9 +310,9 @@
  
  <entry>
    <title>Axis Game Day</title>
-   <link href="http://example.com/2015/04/17/axis-game-day"/>
+   <link href="//2015/04/17/axis-game-day"/>
    <updated>2015-04-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/17/axis-game-day</id>
+   <id>//2015/04/17/axis-game-day</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.axis.art.br&quot; target=&quot;_blank&quot;&gt;AXIS-Gnomon School of Visual Effects&lt;/a&gt;
  realizará amanhã, dia 18/04/15, o AXIS Game Day.&lt;/p&gt;
 
@@ -332,9 +332,9 @@
  
  <entry>
    <title>Checkpoint #1</title>
-   <link href="http://example.com/2015/04/16/checkpoint-1"/>
+   <link href="//2015/04/16/checkpoint-1"/>
    <updated>2015-04-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/16/checkpoint-1</id>
+   <id>//2015/04/16/checkpoint-1</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/TawStudio/status/58853869170393088&quot;&gt;A homenagem do pessoal da Taw Studio a seu co-fundador, diretor e game designer Lucas Jock, falecido no último dia 13&lt;/a&gt;&lt;/p&gt;
 
@@ -357,64 +357,64 @@
  
  <entry>
    <title>Imagens da semana #2</title>
-   <link href="http://example.com/2015/04/13/imagens-da-semana-2"/>
+   <link href="//2015/04/13/imagens-da-semana-2"/>
    <updated>2015-04-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/13/imagens-da-semana-2</id>
+   <id>//2015/04/13/imagens-da-semana-2</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/g1/status/585017153042194432&quot;&gt;O game de plataforma old-school Super Doomed’n Damned, desenvolvido pelo brasileiro Claudio Lins em parceria com uma empresa espanhola, deve ser lançado ainda em 2015 para Xbox One, Wii U e PC&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/13/imagens-da-semana-2/SuperDoomednDamned.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/13/imagens-da-semana-2/SuperDoomednDamned.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;2&quot;&gt;#2&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/CatNigiri/status/585081682451103745&quot;&gt;O gato-mascote-logo da brasileira Cat Nigiri apareceu como um easter egg no jogo em desenvolvimento Chroma Squad da também brasileira Behold Studios&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/13/imagens-da-semana-2/CatNigiriChromaSquad.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/13/imagens-da-semana-2/CatNigiriChromaSquad.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;3&quot;&gt;#3&lt;/h2&gt;
 &lt;p&gt;Na terceira imagem ficamos com outra bela arte do game Toren da Swordtales, agora é a vez de The Magician&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/13/imagens-da-semana-2/TorenTheMagician.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/13/imagens-da-semana-2/TorenTheMagician.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;4&quot;&gt;#4&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/SaeKawaii_xD/status/585863634879909888&quot;&gt;A equipe da Behold Studio lembrando da campanha para promover o lançamento do Chroma Squad no Thunderclap&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/13/imagens-da-semana-2/ChromaSquadThunderClap.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/13/imagens-da-semana-2/ChromaSquadThunderClap.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;5&quot;&gt;#5&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ReizaStudios/status/585882344562814978&quot;&gt;A Reiza Studios lança seu game de corrida, o Copa Petrobras de Marcas, no Steam&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/13/imagens-da-semana-2/CopaPetrobrasMarcas.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/13/imagens-da-semana-2/CopaPetrobrasMarcas.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;6&quot;&gt;#6&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/OdinGameStudio/status/586603400860540928&quot;&gt;A Odin Game Studio liberou novas imagens do game em desenvolvimento Better Later Than Dead. Conheça mais no game no post Novos vídeos de Better late than DEAD e Police Tactics&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/13/imagens-da-semana-2/BetterLaterThanDead.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/13/imagens-da-semana-2/BetterLaterThanDead.jpg &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;7&quot;&gt;#7&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/BigGreenPillow/status/586688542379810816&quot;&gt;A Big Green Pillow lança um novo update de seu game Porcunipine&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/13/imagens-da-semana-2/Porcunipine.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/13/imagens-da-semana-2/Porcunipine.png &quot; /&gt;
       &lt;/center&gt;
 
 &lt;h2 id=&quot;8&quot;&gt;#8&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/narolol/status/587000919541342208&quot;&gt;Gabriel Naro, sound designer da Mgaia Studio, liberou uma screenshot do game Tiny Empire que ainda está em desenvolvimento e será lançado para iOS, Android e Windows Phone&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/13/imagens-da-semana-2/TinyEmpireMap.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/13/imagens-da-semana-2/TinyEmpireMap.png &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Novos vídeos de Better late than DEAD e Police Tactics</title>
-   <link href="http://example.com/2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics"/>
+   <link href="//2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics"/>
    <updated>2014-05-15T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics</id>
+   <id>//2014/05/15/novos-videos-de-better-late-than-dead-e-police-tactics</id>
    <content type="html">&lt;p&gt;A paulistana &lt;a href=&quot;http://www.odingamestudio.com.br/&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
  liberou dois vídeos mostrando um pouco dos testes de gampleay de seus games em desenvolvimento &lt;a href=&quot;http://www.betterlatethandeadgame.com/&quot; target=&quot;_blank&quot;&gt;Better late than DEAD&lt;/a&gt;
  e &lt;a href=&quot;http://www.policetacticsgame.com/&quot; target=&quot;_blank&quot;&gt;Police Tactics&lt;/a&gt;
@@ -441,9 +441,9 @@ Pelas imagens que vemos nos v&amp;#237;deos, podemos aguardar grandes games da O
  
  <entry>
    <title>Heist and Run</title>
-   <link href="http://example.com/2013/04/11/heist-and-run"/>
+   <link href="//2013/04/11/heist-and-run"/>
    <updated>2013-04-11T00:00:00-03:00</updated>
-   <id>http://example.com/2013/04/11/heist-and-run</id>
+   <id>//2013/04/11/heist-and-run</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br/&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
  estréia no mundo mobile com o game Heist and Run.&lt;/p&gt;
 

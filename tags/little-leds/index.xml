@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - little-leds</title>
- <link href="http://example.com/tags/little-leds/index.xml" rel="self"/>
- <link href="http://example.com/tag/little-leds.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/little-leds.html</id>
+ <title>jogosdaqui - little-leds</title>
+ <link href="//tags/little-leds/index.xml" rel="self"/>
+ <link href="/tag/little-leds.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/little-leds.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Checkpoint #7</title>
-   <link href="http://example.com/2015/05/22/checkpoint-7"/>
+   <link href="//2015/05/22/checkpoint-7"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/22/checkpoint-7</id>
+   <id>//2015/05/22/checkpoint-7</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/05/14/demo-reel-da-odin-game-studio/&quot;&gt;Confira o demo reel da Odin Game Studio&lt;/a&gt;&lt;/p&gt;
 
@@ -86,9 +86,9 @@
  
  <entry>
    <title>Sky High Chickens</title>
-   <link href="http://example.com/2015/05/20/sky-high-chickens"/>
+   <link href="//2015/05/20/sky-high-chickens"/>
    <updated>2015-05-20T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/20/sky-high-chickens</id>
+   <id>//2015/05/20/sky-high-chickens</id>
    <content type="html">&lt;p&gt;A desenvolvedora brasileira &lt;a href=&quot;http://littleleds.com&quot; target=&quot;_blank&quot;&gt;Little Leds&lt;/a&gt;
  da cidade de Joinville, que já esteve no jogosdaqui com o game &lt;a href=&quot;/2015/03/23/a-vitima-de-ouro/&quot;&gt;A Vítima de Ouro&lt;/a&gt;
 , agora figura com o hilário Sky High Chickens.&lt;/p&gt;
@@ -111,9 +111,9 @@
  
  <entry>
    <title>A Vítima de Ouro</title>
-   <link href="http://example.com/2015/03/23/a-vitima-de-ouro"/>
+   <link href="//2015/03/23/a-vitima-de-ouro"/>
    <updated>2015-03-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/03/23/a-vitima-de-ouro</id>
+   <id>//2015/03/23/a-vitima-de-ouro</id>
    <content type="html">&lt;p&gt;Com saudades daqueles bons momentos jogando clássicos point and click como The Dig, Full Throttle e Day of Tentacle?&lt;/p&gt;
 
 &lt;p&gt;O game brasileiro A Vítima de Ouro da &lt;a href=&quot;http://littleleds.com/&quot;&gt;Little Leds&lt;/a&gt;

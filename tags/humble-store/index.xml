@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - humble-store</title>
- <link href="http://example.com/tags/humble-store/index.xml" rel="self"/>
- <link href="http://example.com/tag/humble-store.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/humble-store.html</id>
+ <title>jogosdaqui - humble-store</title>
+ <link href="//tags/humble-store/index.xml" rel="self"/>
+ <link href="/tag/humble-store.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/humble-store.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Death’s Life</title>
-   <link href="http://example.com/2016/03/16/deaths-life"/>
+   <link href="//2016/03/16/deaths-life"/>
    <updated>2016-03-16T00:00:00-03:00</updated>
-   <id>http://example.com/2016/03/16/deaths-life</id>
+   <id>//2016/03/16/deaths-life</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -41,9 +41,9 @@
  
  <entry>
    <title>Lançamento de Odallus: The Dark Call</title>
-   <link href="http://example.com/2015/07/15/lancamento-de-odallus-the-dark-call"/>
+   <link href="//2015/07/15/lancamento-de-odallus-the-dark-call"/>
    <updated>2015-07-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/15/lancamento-de-odallus-the-dark-call</id>
+   <id>//2015/07/15/lancamento-de-odallus-the-dark-call</id>
    <content type="html">&lt;p&gt;Dos mesmos produtores de Oniken, chega as prateleiras virtuais o mais novo game da gamedev brasileira JoyMasher, &lt;a href=&quot;http://joymasher.com/odalluspreorder/&quot; target=&quot;_blank&quot;&gt;Odallus: The Dark Call&lt;/a&gt;
  será lançado hoje para &lt;a href=&quot;http://store.steampowered.com/app/319480&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
 ,  &lt;a href=&quot;https://www.gog.com/game/odallus_the_dark_call&quot; target=&quot;_blank&quot;&gt;GOG&lt;/a&gt;
@@ -65,9 +65,9 @@
  
  <entry>
    <title>Checkpoint #5</title>
-   <link href="http://example.com/2015/05/09/checkpoint-5"/>
+   <link href="//2015/05/09/checkpoint-5"/>
    <updated>2015-05-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/09/checkpoint-5</id>
+   <id>//2015/05/09/checkpoint-5</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ICONGames/status/59452353241723289&quot;&gt;A Icon Games comemorando a marca de 180.000 downloads de seu game Escape from Alcatraz&lt;/a&gt;&lt;/p&gt;
 
@@ -111,9 +111,9 @@
  
  <entry>
    <title>Entrevista: Claudio Lins</title>
-   <link href="http://example.com/2015/04/22/entrevista-claudio-lins"/>
+   <link href="//2015/04/22/entrevista-claudio-lins"/>
    <updated>2015-04-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
+   <id>//2015/04/22/entrevista-claudio-lins</id>
    <content type="html">&lt;p&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-da-tua-trajetória-como-chegaste-ao-gamedev&quot;&gt;Fale um pouco da tua trajetória, como chegaste ao gamedev?&lt;/h2&gt;
@@ -126,7 +126,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Riding Ground, game desenvolvido pela Preloud &lt;/span&gt;&lt;/center&gt;
 
@@ -141,7 +141,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -175,7 +175,7 @@
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 

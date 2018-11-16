@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - abragames</title>
- <link href="http://example.com/tags/abragames/index.xml" rel="self"/>
- <link href="http://example.com/tag/abragames.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/abragames.html</id>
+ <title>jogosdaqui - abragames</title>
+ <link href="//tags/abragames/index.xml" rel="self"/>
+ <link href="/tag/abragames.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/abragames.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>VIII Gamepad – Seminário de Games e Tecnologia</title>
-   <link href="http://example.com/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia"/>
+   <link href="//2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia"/>
    <updated>2015-05-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia</id>
+   <id>//2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia</id>
    <content type="html">&lt;p&gt;O VIII GAMEPAD – Seminário de Games e Tecnologia contará com apresentação de papers, mostra de jogos, palestras e workshops.&lt;/p&gt;
 
 &lt;p&gt;Dentre os palestrantes teremos: Cristiano Silva da Samsung, Tiago Rech e Klos Cunha da Ottus Game Studio falando do game &lt;a href=&quot;/2015/03/25/teaser-de-fragmentorum-alba/&quot;&gt;Fragmentorum Alba&lt;/a&gt;
@@ -55,9 +55,9 @@
  
  <entry>
    <title>Manifesto Games vence concurso nacional</title>
-   <link href="http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional"/>
+   <link href="//2015/03/30/manifesto-games-vence-concurso-nacional"/>
    <updated>2015-03-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/03/30/manifesto-games-vence-concurso-nacional</id>
+   <id>//2015/03/30/manifesto-games-vence-concurso-nacional</id>
    <content type="html">&lt;p&gt;A brasileira Manifesto Games, que possui escritórios em Recife e São Paulo, foi a grande vencedora do &lt;a href=&quot;http://www.jogosfinanceiros.sebrae.com.br/jogos_empreendedores/index.jsf&quot;&gt;Prêmio de Desenvolvimento de Jogos de Educação Financeira&lt;/a&gt;
  do SEBRAE.&lt;/p&gt;
 
@@ -75,9 +75,9 @@
  
  <entry>
    <title>Documentário "Indústria de Games no Brasil"</title>
-   <link href="http://example.com/2013/06/13/documentario-industria-de-games-no-brasil"/>
+   <link href="//2013/06/13/documentario-industria-de-games-no-brasil"/>
    <updated>2013-06-13T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/13/documentario-industria-de-games-no-brasil</id>
+   <id>//2013/06/13/documentario-industria-de-games-no-brasil</id>
    <content type="html">&lt;p&gt;O vídeo tem cerca 30 minutos e conta com a participação de:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -100,9 +100,9 @@
  
  <entry>
    <title>NewsAbragames Dezembro/2006</title>
-   <link href="http://example.com/2006/12/26/newsabragames-dezembro-2006"/>
+   <link href="//2006/12/26/newsabragames-dezembro-2006"/>
    <updated>2006-12-26T00:00:00-02:00</updated>
-   <id>http://example.com/2006/12/26/newsabragames-dezembro-2006</id>
+   <id>//2006/12/26/newsabragames-dezembro-2006</id>
    <content type="html">&lt;p&gt;A última NewsAbragames de 2006 já está no ar. Nesta edição podemos conferir as mensagens de final de ano de Marcelo Carvalho (presidente da Abragames) e André Penha (VP de comunicação e marketing).&lt;br /&gt;&lt;br /&gt;Veja a review do jogo Natu Táxi da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=40&quot;&gt;Délirus Entertainment&lt;/a&gt;
 , a agenda de eventos e cursos, uma entrevista com Bernardo Manfredini, consultor de negócios da Softex / Abragames, novos associados e muito mais.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.dcoder.com.br/abragames/index.php&quot; target=&quot;_blank&quot;&gt;Confira a newsletter…&lt;/a&gt;&lt;/p&gt;
 
@@ -111,9 +111,9 @@
  
  <entry>
    <title>NewsAbragames Novembro/2006</title>
-   <link href="http://example.com/2006/11/21/newsabragames-novembro-2006"/>
+   <link href="//2006/11/21/newsabragames-novembro-2006"/>
    <updated>2006-11-21T00:00:00-02:00</updated>
-   <id>http://example.com/2006/11/21/newsabragames-novembro-2006</id>
+   <id>//2006/11/21/newsabragames-novembro-2006</id>
    <content type="html">&lt;p&gt;No ar a edição de novembro da newsletter da Abragames. Neste mês a NewsAbragames inaugura um novo formato, mais interativo, proporcionando um contato maior entre a Abragames e os jogadores.&lt;br /&gt;&lt;br /&gt;Nesta edição uma review do jogo &lt;a href=&quot;/index.php?p=c&amp;amp;id=136&quot;&gt;Ottomax&lt;/a&gt;
  da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=48&quot;&gt;Insolita Studios&lt;/a&gt;
 , também veja como participar do Prêmio Criatividade no Combate à Pirataria e confira os destaques na mídia sobre desenvolvimento de jogos no Brasil.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.dcoder.com.br//abragames/index.php&quot; target=&quot;_blank&quot;&gt;Acesse a newsletter…&lt;/a&gt;&lt;/p&gt;
@@ -123,9 +123,9 @@
  
  <entry>
    <title>SBGames</title>
-   <link href="http://example.com/2006/09/29/sbgames"/>
+   <link href="//2006/09/29/sbgames"/>
    <updated>2006-09-29T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/29/sbgames</id>
+   <id>//2006/09/29/sbgames</id>
    <content type="html">&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;br /&gt;&lt;/span&gt;
 &lt;span style=&quot;font-weight: bold;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -139,9 +139,9 @@
  
  <entry>
    <title>NewsAbragames Setembro/2006</title>
-   <link href="http://example.com/2006/09/15/newsabragames-setembro-2006"/>
+   <link href="//2006/09/15/newsabragames-setembro-2006"/>
    <updated>2006-09-15T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/15/newsabragames-setembro-2006</id>
+   <id>//2006/09/15/newsabragames-setembro-2006</id>
    <content type="html">&lt;p&gt;Na edição de setembro, a NewsAbragames traz uma matéria sobre o jogo &lt;a href=&quot;/index.php?p=c&amp;amp;id=383&quot;&gt;Incorporated&lt;/a&gt;
  da empresa &lt;a href=&quot;/index.php?p=c&amp;amp;id=121&quot;&gt;Interama&lt;/a&gt;
 . Destaques da mídia, como a &lt;a href=&quot;/index.php?p=c&amp;amp;id=474&quot;&gt;prévia de OmniScire&lt;/a&gt;
@@ -153,9 +153,9 @@
  
  <entry>
    <title>NewsAbragames Agosto/2006</title>
-   <link href="http://example.com/2006/08/25/newsabragames-agosto-2006"/>
+   <link href="//2006/08/25/newsabragames-agosto-2006"/>
    <updated>2006-08-25T00:00:00-03:00</updated>
-   <id>http://example.com/2006/08/25/newsabragames-agosto-2006</id>
+   <id>//2006/08/25/newsabragames-agosto-2006</id>
    <content type="html">&lt;p&gt;Mais uma edição da newsletter da Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) está disponível no site da associação.&lt;br /&gt;&lt;br /&gt;Em agosto a newsletter tem matérias sobre o jogo da Cidadania da Ene Solutions, Games Convention 2006, destaques na mídia, cursos e agendas para os próximos dias.&lt;br /&gt;&lt;br /&gt;A newsletter está disponível neste &lt;a href=&quot;http://www.abragames.com.br/newsletter/arquivo/06/08/&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt;
 .&lt;/p&gt;
 </content>
@@ -163,18 +163,18 @@
  
  <entry>
    <title>Abragames na GC 2006</title>
-   <link href="http://example.com/2006/08/20/abragames-na-gc-2006"/>
+   <link href="//2006/08/20/abragames-na-gc-2006"/>
    <updated>2006-08-20T00:00:00-03:00</updated>
-   <id>http://example.com/2006/08/20/abragames-na-gc-2006</id>
+   <id>//2006/08/20/abragames-na-gc-2006</id>
    <content type="html">&lt;p&gt;De 23 a 26 deste mês, a Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos (Abragames) participa da Games Convention 2006 (GC) que acontece em Leipzig, Alemanha. Através do estande localizado no Business Center, espaço reservado para a realização de negócios, o consultor Bernardo Manfredini, indicará soluções para as demandas das companhias estrangeiras. &lt;span style=&quot;font-style: italic;&quot;&gt;&quot;Falarei com publishers, apresentarei produtos prontos para serem distribuídos, e com desenvolvedores que necessitam terceirizar parte de sua produção&quot;&lt;/span&gt;, diz Manfredini.&lt;br /&gt;&lt;br /&gt;Além de associações como a Abragames no Business Center, encontram-se estandes de publishers, produtoras, fabricantes de hardware, entre outras. Por isso, o principal objetivo do consultor é agendar reuniões com empresas como: Electronic Arts, Actvision, Nitendo, Microsoft, Sony, Ubsoft, Konami, THQ, Take 2, ATI, Blizzard, Macromedia, Vivendi entre outras. &lt;span style=&quot;font-style: italic;&quot;&gt;&quot;Embora cada empresa esteja em um estágio diferente - algumas já têm relações comerciais com parceiros no exterior -, é uma oportunidade de marcar presença neste que é o segundo maior evento do setor no mundo&quot;&lt;/span&gt;, afirma Bernardo Manfredini, consultor que representará a Abragames na feira.&lt;br /&gt;&lt;br /&gt;No estande será apresentado material de divulgação impresso e eletrônico das empresas brasileiras interessadas em expandir seus negócios no exterior. São elas: Délirus, Devworks, Ene Solutions, Insolita Studios, Interama, Jynx, Locz, Oniria, Outline, O2games, Southlogic e Tec Toy Digital. Empresas que desenvolvem jogos para as plataformas PC, console, celular e web. Como os modelos e estratégias de negócio das desenvolvedoras brasileiras são diversos, outras oportunidades poderão surgir durante a feira. &quot;É um passo importante para construir a imagem da produção nacional junto àqueles que fazem parte da indústria internacional. É uma oportunidade para mostrar como está a produção no Brasil e como tem sido o crescimento desse setor nos últimos anos&quot;, afirma Manfredini.&lt;br /&gt;&lt;br /&gt;Mesmo com representante oficial na feira, alguns diretores das empresas associadas ainda optaram por participar pessoalmente do evento. Segundo, André Penha, diretor executivo da Délirus, esta ação pode render contatos mais diretos com empresas de outros países, que podem gerar negócios mais imediatos. Entre os dias 21 e 23 de agosto, Penha participa da GC Developers Conference, conferência que antecede a Games Convetion. Durante o evento, que é uma oportunidade para trocar experiências internacionais, são apresentadas palestras sobre desenvolvimento e negócios em games.&lt;br /&gt;&lt;br /&gt;Para Juliano Alves, da OniriaSoft, a empresa passa por várias mudanças, novas parcerias e oportunidades estão sendo criadas, tanto no Brasil como no exterior, por isso a necessidade da presença na feira. Já a Outline acredita que com a participação na GC ganhará mais experiência no mercado internacional. As duas empresas distribuirão cópias de demos de seus jogos: Warbots, da Délirus e Ayri – Uma Lenda Amazônica, da Outline. Segundo Sylker Teles, CEO e Game Designer da Outline, a GC representa um excelente momento para se integrar com desenvolvedores do mundo e trocar experiências valiosas sobre o comportamento do mercado e os futuros caminhos da indústria de entretenimento digital.&lt;br /&gt;&lt;br /&gt;Essa ação da Abragames tem o apoio da Agência de Promoção de Exportação e Investimentos (APEX-Brasil), organização não governamental encarregada de executar a política de exportação brasileira, e da Associação para Promoção da Excelência do Software Brasileiro (Softex), organização civil dedicada à promoção da excelência da indústria brasileira de software, que investiram em torno de 60 mil reais. Além do apoio financeiro, a Softex colaborou através do suporte operacional de sua equipe, especializada em eventos no Brasil e no exterior.&lt;br /&gt;&lt;br style=&quot;font-style: italic;&quot; /&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&quot;Estar presente em um evento desta magnitude, que terá mais de 360 expositores de todo o mundo e cerca de 130 mil visitantes, é uma oportunidade excepcional para as nossas empresas apresentarem a qualidade e a criatividade de seus produtos&quot;&lt;/span&gt;, analisa Charles Schramm, gerente de desenvolvimento de negócios internacionais da SOFTEX.&lt;br /&gt;&lt;br /&gt;A participação na GC é a primeira iniciativa do grupo de empresas de Games do PSI-SW (Projeto Setorial Integrado de Software), o maior plano de internacionalização de empresas brasileiras produtoras de software e prestadoras de serviços correlatos já implementado no país. Reunindo 103 empresas divididas em 10 verticais de atuação, ele é gerenciado pela SOFTEX com o apoio técnico e financeiro da APEX-Brasil. Em dezembro, está prevista a participação em mais um evento de Games, desta vez na França.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>NewsAbragames Julho/2006</title>
-   <link href="http://example.com/2006/07/21/newsabragames-julho-2006"/>
+   <link href="//2006/07/21/newsabragames-julho-2006"/>
    <updated>2006-07-21T00:00:00-03:00</updated>
-   <id>http://example.com/2006/07/21/newsabragames-julho-2006</id>
+   <id>//2006/07/21/newsabragames-julho-2006</id>
    <content type="html">&lt;p&gt;No ar a edição julho de 2006 da Newsletter da Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos).&lt;br /&gt;&lt;br /&gt;A newsletter deste mês destaca o jogo Deer Hunter, da Southlogic, palestras no eixo Rio-São Paulo e cursos de jogos em Pernambuco.&lt;br /&gt;&lt;br /&gt;Também nessa edição a participação da Abragames na GC 2006 e as novas empresas associadas à Abragames.&lt;br /&gt;&lt;br /&gt;Confira a newsletter neste &lt;a href=&quot;http://www.abragames.com.br/newsletter/arquivo/06/07/&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt;
 .&lt;/p&gt;
 </content>
@@ -182,9 +182,9 @@
  
  <entry>
    <title>NewsAbragames - Junho/2006</title>
-   <link href="http://example.com/2006/06/14/newsabragames-junho-2006"/>
+   <link href="//2006/06/14/newsabragames-junho-2006"/>
    <updated>2006-06-14T00:00:00-03:00</updated>
-   <id>http://example.com/2006/06/14/newsabragames-junho-2006</id>
+   <id>//2006/06/14/newsabragames-junho-2006</id>
    <content type="html">&lt;p&gt;Lançada a edição de junho da newsletter da Associação Brasileira das Desenvolvedoras de Jogos Eletrônico.&lt;br /&gt;&lt;br /&gt;Veja na edição desse mês matérias sobre: Pinogol,  HQ Eterno Retorno do Taikodom, novas afiliadas a Abragames (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=interama&quot;&gt;Interama&lt;/a&gt;
  e &lt;a href=&quot;/index.php?p=cl&amp;amp;t=search&amp;amp;query=insolita&quot;&gt;Insolita Studios&lt;/a&gt;
 ), eventos e cursos.&lt;br /&gt;&lt;br /&gt;Leia mais em &lt;a href=&quot;http://www.abragames.com.br/newsletter/&quot; target=&quot;_blank&quot;&gt;www.abragames.com.br/newsletter&lt;/a&gt;&lt;/p&gt;
@@ -194,9 +194,9 @@
  
  <entry>
    <title>NewsAbragames - Maio/2006</title>
-   <link href="http://example.com/2006/05/12/newsabragames-maio-2006"/>
+   <link href="//2006/05/12/newsabragames-maio-2006"/>
    <updated>2006-05-12T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/12/newsabragames-maio-2006</id>
+   <id>//2006/05/12/newsabragames-maio-2006</id>
    <content type="html">&lt;p&gt;Lançada a edição de maio da NewsAbragames, a newsletter da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos.&lt;br /&gt;Nesta edição são apresentados vários &lt;a href=&quot;/index.php?p=cl&amp;amp;t=25&quot;&gt;eventos&lt;/a&gt;
  sobre jogos para os próximos meses, entre eles o &lt;a href=&quot;/index.php?p=c&amp;amp;id=381&quot;&gt;EGR&lt;/a&gt;
 .  As notícias na mídia no último mês. A &lt;a href=&quot;/index.php?p=c&amp;amp;id=366&quot;&gt;premiação da Jinx&lt;/a&gt;
@@ -207,18 +207,18 @@
  
  <entry>
    <title>Comunicado da Abragames</title>
-   <link href="http://example.com/2006/04/25/comunicado-da-abragames"/>
+   <link href="//2006/04/25/comunicado-da-abragames"/>
    <updated>2006-04-25T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/25/comunicado-da-abragames</id>
+   <id>//2006/04/25/comunicado-da-abragames</id>
    <content type="html">&lt;p&gt;A ABRAGAMES publicou um comunicado se posicionando a respeito do concurso JogosBR 2006.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.abragames.com.br/docs/comunicado_jogosbr.html&quot;&gt;Leia o comunicado aqui…&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>NewsAbragames - Abril/2006</title>
-   <link href="http://example.com/2006/04/14/newsabragames-abril-2006"/>
+   <link href="//2006/04/14/newsabragames-abril-2006"/>
    <updated>2006-04-14T00:00:00-03:00</updated>
-   <id>http://example.com/2006/04/14/newsabragames-abril-2006</id>
+   <id>//2006/04/14/newsabragames-abril-2006</id>
    <content type="html">&lt;p&gt;No ar a última edição da NewsAbragames (newsletter mensal da Abragames - Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos).&lt;br /&gt;&lt;br /&gt;A edição de abril conta com a review do jogo de palavras cruzadas &lt;a href=&quot;/index.php?p=c&amp;amp;id=316&quot;&gt;Coquetel&lt;/a&gt;
  da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=40&quot;&gt;Délirus&lt;/a&gt;
 , os destaques da mídia no mês de março, a agenda de eventos sobre jogos para os próximos meses, a participação da catarinense &lt;a href=&quot;/index.php?p=c&amp;amp;id=311&quot;&gt;Hoplon na GDC&lt;/a&gt;
@@ -229,9 +229,9 @@
  
  <entry>
    <title>JogosBR :: Inscrições e regras</title>
-   <link href="http://example.com/2006/03/11/jogosbr-inscricoes-e-regras"/>
+   <link href="//2006/03/11/jogosbr-inscricoes-e-regras"/>
    <updated>2006-03-11T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/11/jogosbr-inscricoes-e-regras</id>
+   <id>//2006/03/11/jogosbr-inscricoes-e-regras</id>
    <content type="html">&lt;p&gt;O prazo final para inscrição no Concurso de Idéias Originais para Jogos Eletrônicos, inserido na edição 2005/06 do JogosBR, foi prorrogado para &lt;span style=&quot;font-weight: bold;&quot;&gt;11 de março&lt;/span&gt;. Já as inscrições para os concursos de Desenvolvimento de Demos Jogáveis e de Jogos Completos podem ser feitas a partir de &lt;span style=&quot;font-weight: bold;&quot;&gt;16 de março até 3 de abril&lt;/span&gt;. Para participar é preciso se cadastrar no site &lt;a target=&quot;_blank&quot; href=&quot;http://www.jogosbr.org.br&quot;&gt;www.jogosbr.org.br&lt;/a&gt;
  e preencher formulários específicos.&lt;br /&gt;&lt;br /&gt;Esta edição do JogosBR está divida em três concursos: &lt;br /&gt;&lt;/p&gt;
 
@@ -250,9 +250,9 @@
  
  <entry>
    <title>NewsAbragames - Março/2006</title>
-   <link href="http://example.com/2006/03/10/newsabragames-marco-2006"/>
+   <link href="//2006/03/10/newsabragames-marco-2006"/>
    <updated>2006-03-10T00:00:00-03:00</updated>
-   <id>http://example.com/2006/03/10/newsabragames-marco-2006</id>
+   <id>//2006/03/10/newsabragames-marco-2006</id>
    <content type="html">&lt;p&gt;Lançada a edição Março/2006 da newsletter mensal da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos.&lt;br /&gt;&lt;br /&gt;Nesta edição os destaques são: os eventos CDG-RIO (Conferência de Desenvolvedores de Games), I Festival Universitário de Games e &lt;a href=&quot;/index.php?p=c&amp;amp;id=189&quot;&gt;TGS - Top Game Show&lt;/a&gt;
 . Alguns cursos sobre desenvolvimento de jogos estão na seção cursos.&lt;br /&gt;&lt;br /&gt;A prorrogação do prazo de inscrição para o JogosBR também ganha destaque e &quot;Um impulso aos Advergames&quot;, uma coluna de opinião de Reinaldo Normand, Gerente-geral da divisão mobile Tec Toy.&lt;br /&gt;&lt;br /&gt;E na seção publicação o destaque do mês é o &lt;span style=&quot;color: rgb(255, 153, 0); font-weight: bold;&quot;&gt;jogosdaqui&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.abragames.com.br/newsletter/&quot;&gt;Saiba mais sobre NewsAbragames…&lt;/a&gt;&lt;/p&gt;
 
@@ -261,9 +261,9 @@
  
  <entry>
    <title>NewsAbragames - Fevereiro/2006</title>
-   <link href="http://example.com/2006/02/08/newsabragames-fevereiro-2006"/>
+   <link href="//2006/02/08/newsabragames-fevereiro-2006"/>
    <updated>2006-02-08T00:00:00-02:00</updated>
-   <id>http://example.com/2006/02/08/newsabragames-fevereiro-2006</id>
+   <id>//2006/02/08/newsabragames-fevereiro-2006</id>
    <content type="html">&lt;p&gt;Está no ar mais uma edição da NewsAbragames.&lt;br /&gt;&lt;br /&gt;A newsletter deste mês da Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos, traz uma review sobre o jogo &lt;a href=&quot;/index.php?p=c&amp;amp;id=51&quot;&gt;Die Pferbebande&lt;/a&gt;
  da empresa &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=19&quot;&gt;Oniria Entertainment&lt;/a&gt;
 , os destaques na imprensa, informações sobre o &lt;a href=&quot;/index.php?p=c&amp;amp;id=212&quot;&gt;Concurso JogosBR&lt;/a&gt;
@@ -276,9 +276,9 @@
  
  <entry>
    <title>NewsAbragames - Dezembro/2005</title>
-   <link href="http://example.com/2005/12/07/newsabragames-dezembro2005"/>
+   <link href="//2005/12/07/newsabragames-dezembro2005"/>
    <updated>2005-12-07T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/07/newsabragames-dezembro2005</id>
+   <id>//2005/12/07/newsabragames-dezembro2005</id>
    <content type="html">&lt;p&gt;Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) acaba de divulgar a edição deste mês da sua newsletter.&lt;/p&gt;
 
 &lt;p&gt;Nesta edição são tratados vários assuntos, como: O portal Gametrack e a EGS, além disso há também a enquete sobre publicidade e jogos, &lt;a href=&quot;http://www.abragames.org/newsletter/enquete/?enquete=12&quot; target=&quot;_blank&quot;&gt;acesse e vote você também&lt;/a&gt;
@@ -291,9 +291,9 @@
  
  <entry>
    <title>Resultado do Festival de Jogos Independentes</title>
-   <link href="http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes"/>
+   <link href="//2005/11/25/resultado-do-festival-de-jogos-independentes"/>
    <updated>2005-11-25T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/25/resultado-do-festival-de-jogos-independentes</id>
+   <id>//2005/11/25/resultado-do-festival-de-jogos-independentes</id>
    <content type="html">&lt;p&gt;Segundo Rodrigo Damazio, Chair do Festival de Jogos Independentes do SBGames 2005, o resultado da premiação foi:&lt;/p&gt;
 
 &lt;p&gt;1o. Lugar com 33% dos votos - &lt;a href=&quot;/2005/12/01/pequeno-guardiao-do-tempo/&quot;&gt;Pequeno Guardião do Tempo&lt;/a&gt;&lt;/p&gt;
@@ -318,9 +318,9 @@
  
  <entry>
    <title>Game Party</title>
-   <link href="http://example.com/2005/11/23/game-party"/>
+   <link href="//2005/11/23/game-party"/>
    <updated>2005-11-23T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/23/game-party</id>
+   <id>//2005/11/23/game-party</id>
    <content type="html">&lt;p&gt;Se você mora em São Paulo e gostaria de conhecer os criadores de jogos brasileiros, então não perca a oportunidade de ir a Games Party, uma festa organizada pela &lt;a href=&quot;http://www.abragames.com.br&quot;&gt;ABRAGAMES&lt;/a&gt;
  (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) e patrocinada pela GameTV.&lt;/p&gt;
 
@@ -332,9 +332,9 @@
  
  <entry>
    <title>Governo anuncia edital com apoio a projeto de jogos</title>
-   <link href="http://example.com/2005/10/28/governo-anuncia-edital-com-apoio-a-projeto-de-jogos"/>
+   <link href="//2005/10/28/governo-anuncia-edital-com-apoio-a-projeto-de-jogos"/>
    <updated>2005-10-28T00:00:00-02:00</updated>
-   <id>http://example.com/2005/10/28/governo-anuncia-edital-com-apoio-a-projeto-de-jogos</id>
+   <id>//2005/10/28/governo-anuncia-edital-com-apoio-a-projeto-de-jogos</id>
    <content type="html">&lt;p&gt;O ministro da Cultura, Gilberto Gil e o Secretário de Audiovisual, Orlando Senna, anunciaram o terceiro programa de editais de sua gestão para produtos audiovisuais, o “Programa de Editais de Fomento à Produção 2005-2006”, que envolverá um total de R$ 23 milhões e 903 mil em verbas para diversos setores do audiovisual.&lt;/p&gt;
 
 &lt;p&gt;Deste montante, R$ 500 mil reais estará reservado para a área de jogos que será destinado a seleção de dez projetos, através de convênios com a &lt;a href=&quot;http://www.abragames.org/&quot; target=&quot;_blank&quot;&gt;ABRAGAMES&lt;/a&gt;
@@ -344,9 +344,9 @@
  
  <entry>
    <title>Abragames lança newsletter mensal</title>
-   <link href="http://example.com/2005/10/14/abragames-lanca-newsletter-mensal"/>
+   <link href="//2005/10/14/abragames-lanca-newsletter-mensal"/>
    <updated>2005-10-14T00:00:00-03:00</updated>
-   <id>http://example.com/2005/10/14/abragames-lanca-newsletter-mensal</id>
+   <id>//2005/10/14/abragames-lanca-newsletter-mensal</id>
    <content type="html">&lt;p&gt;A Abragames (Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos) lança na primeira semana de novembro a NewsAbragames, newsletter mensal cujo objetivo é informar jogadores e profissionais de games sobre o desenvolvimento nas empresas brasileiras de jogos. Além de destacar as principais notícias sobre games divulgadas no meio on-line, a Enews aborda: lançamentos, reviews, agenda com os eventos do mês, publicações especializadas, cursos de games no país e projetos em desenvolvimento nas empresas brasileiras.&lt;/p&gt;
 
 &lt;p&gt;Visite &lt;a href=&quot;http://www.abragames.com.br/newsletter/&quot;&gt;http://www.abragames.com.br/newsletter/&lt;/a&gt;&lt;/p&gt;

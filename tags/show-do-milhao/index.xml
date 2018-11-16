@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - show-do-milhao</title>
- <link href="http://example.com/tags/show-do-milhao/index.xml" rel="self"/>
- <link href="http://example.com/tag/show-do-milhao.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/show-do-milhao.html</id>
+ <title>jogosdaqui - show-do-milhao</title>
+ <link href="//tags/show-do-milhao/index.xml" rel="self"/>
+ <link href="/tag/show-do-milhao.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/show-do-milhao.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Max Quiz</title>
-   <link href="http://example.com/2015/10/16/max-quiz"/>
+   <link href="//2015/10/16/max-quiz"/>
    <updated>2015-10-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/10/16/max-quiz</id>
+   <id>//2015/10/16/max-quiz</id>
    <content type="html">&lt;p&gt;O casal de desenvolvedores independentes Glauber e Camila, que mesmo antes de se conhecerem já eram apaixonados por games, juntaram suas paixões e formaram a Maxlab Studios de São Paulo, empresa criadora do game &lt;a href=&quot;http://www.maxquiz.com/&quot; target=&quot;_blank&quot;&gt;Max Quiz&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -39,24 +39,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Show do Milhão 2006</title>
-   <link href="http://example.com/2005/12/14/show-do-milhao-2006"/>
+   <link href="//2005/12/14/show-do-milhao-2006"/>
    <updated>2005-12-14T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/14/show-do-milhao-2006</id>
+   <id>//2005/12/14/show-do-milhao-2006</id>
    <content type="html">&lt;p&gt;Agora com mais de 20.000 perguntas, e também no formato multiplayer, o jogo leva a emoção do consagrado programa de Silvio Santos para o computador !&lt;/p&gt;
 
 &lt;p&gt;Depois de se tornar sucesso de vendas em todo o Brasil, com mais de 1.000.000 (um milhão) de cópias vendidas, o CD-ROM de entretenimento com perguntas e respostas, comandado pelo apresentador Silvio Santos, Show do Milhão ganha a sua sexta versão, levando para a tela do computador mais de 20.000 questões sobre 7 assuntos: história, português, inglês, geografia, matemática, ciências e conhecimentos gerais. Os usuários podem treinar os seus conhecimentos e aprenderem enquanto se divertem com o Show do Milhão.&lt;/p&gt;
@@ -72,9 +72,9 @@ A versão em CD-ROM traz inclusa uma chave para acesso ao modo on-line por 90 di
  
  <entry>
    <title>Novo Show do Milhão</title>
-   <link href="http://example.com/2005/12/14/novo-show-do-milhao"/>
+   <link href="//2005/12/14/novo-show-do-milhao"/>
    <updated>2005-12-14T00:00:00-02:00</updated>
-   <id>http://example.com/2005/12/14/novo-show-do-milhao</id>
+   <id>//2005/12/14/novo-show-do-milhao</id>
    <content type="html">&lt;p&gt;Lançado o Show do Milhão 2006. O jogo conta com 20.000 perguntas divididas em vários assuntos.
 O modo multiplayer e o ranking online são as grandes novidades desta nova versão.Show do Milhão 2006 foi desenvolvido pela Green Land Studios e está sendo distribuído pela Cia. do Software&lt;/p&gt;
 
@@ -84,9 +84,9 @@ O modo multiplayer e o ranking online são as grandes novidades desta nova vers�
  
  <entry>
    <title>Show do Milhão Júnior</title>
-   <link href="http://example.com/2005/09/28/show-do-milhao-junior"/>
+   <link href="//2005/09/28/show-do-milhao-junior"/>
    <updated>2005-09-28T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/28/show-do-milhao-junior</id>
+   <id>//2005/09/28/show-do-milhao-junior</id>
    <content type="html">&lt;p&gt;Todas as emoções do programa de televisão “Show do Milhão” do SBT com Silvio Santos estão neste cd.&lt;/p&gt;
 
 &lt;p&gt;As perguntas são narradas pelo próprio Silvio Santos, e as respostas são ilustradas, permitindo que a criança jogue sozinha ou acompanhada de seus pais.&lt;/p&gt;
@@ -98,9 +98,9 @@ Com Certeza você também será um vencedor!&lt;/p&gt;
  
  <entry>
    <title>Show do Milhão Colecionador</title>
-   <link href="http://example.com/2005/09/20/show-do-milhao-colecionador"/>
+   <link href="//2005/09/20/show-do-milhao-colecionador"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/20/show-do-milhao-colecionador</id>
+   <id>//2005/09/20/show-do-milhao-colecionador</id>
    <content type="html">&lt;p&gt;Todas as emoções do programa de televisão &quot;&lt;span style=&quot;font-weight: bold;&quot;&gt;Show do Milhão&lt;/span&gt;&quot; do SBT agora com as 4 edições em um só CD num total de 9000 perguntas. Brinque com &lt;span style=&quot;font-weight: bold;&quot;&gt;Silvio Santos&lt;/span&gt; no jogo mais excitante da TV Brasileira.&lt;/p&gt;
 
 &lt;p&gt;Os recursos disponíveis na TV também estão nesse jogo, e o jogador poderá pedir ajuda às cartas, à platéia, aos universitários, ou ainda pular três perguntas para alcançar a pontuação máxima de R$ 1.000.000,00 (fictícia)…&lt;/p&gt;

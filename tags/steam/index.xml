@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - steam</title>
- <link href="http://example.com/tags/steam/index.xml" rel="self"/>
- <link href="http://example.com/tag/steam.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/steam.html</id>
+ <title>jogosdaqui - steam</title>
+ <link href="//tags/steam/index.xml" rel="self"/>
+ <link href="/tag/steam.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/steam.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Death’s Life</title>
-   <link href="http://example.com/2016/03/16/deaths-life"/>
+   <link href="//2016/03/16/deaths-life"/>
    <updated>2016-03-16T00:00:00-03:00</updated>
-   <id>http://example.com/2016/03/16/deaths-life</id>
+   <id>//2016/03/16/deaths-life</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -41,9 +41,9 @@
  
  <entry>
    <title>Pesadelo - Regressão</title>
-   <link href="http://example.com/2015/12/02/pesadelo-regressao"/>
+   <link href="//2015/12/02/pesadelo-regressao"/>
    <updated>2015-12-02T00:00:00-02:00</updated>
-   <id>http://example.com/2015/12/02/pesadelo-regressao</id>
+   <id>//2015/12/02/pesadelo-regressao</id>
    <content type="html">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
 
 &lt;h2 id=&quot;teaser-de-pesadelo---regressão&quot;&gt;Teaser de Pesadelo - Regressão&lt;/h2&gt;
@@ -58,9 +58,9 @@
  
  <entry>
    <title>Side Quest da Miris Mind no Greenlight</title>
-   <link href="http://example.com/2015/10/23/side-quest-da-miris-mind-no-greenlight"/>
+   <link href="//2015/10/23/side-quest-da-miris-mind-no-greenlight"/>
    <updated>2015-10-23T00:00:00-02:00</updated>
-   <id>http://example.com/2015/10/23/side-quest-da-miris-mind-no-greenlight</id>
+   <id>//2015/10/23/side-quest-da-miris-mind-no-greenlight</id>
    <content type="html">&lt;p&gt;Em tempos onde programas culinários como MasterChef fazem um grande sucesso, que tal um game onde o herói é o cozinheiro numa aventura épica? Essa é a proposta da paulistana &lt;a href=&quot;http://www.mirismind.com/&quot; target=&quot;_blank&quot;&gt;Miris Mind&lt;/a&gt;
  que está finalizando o desenvolvimento de seu novo game e iniciou sua campanha de &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=527592042&quot; target=&quot;_blank&quot;&gt;Greenlight &lt;/a&gt;
 no Steam.&lt;/p&gt;
@@ -86,9 +86,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>ZombieZoid - Zenith</title>
-   <link href="http://example.com/2015/10/07/zombiezoid-zenith"/>
+   <link href="//2015/10/07/zombiezoid-zenith"/>
    <updated>2015-10-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/10/07/zombiezoid-zenith</id>
+   <id>//2015/10/07/zombiezoid-zenith</id>
    <content type="html">&lt;p&gt;Se você é fã dos filmes de zumbi de George A. Romero, como os clássicos A Noite dos Mortos  Vivos (Night of the Living Dead) e Despertar dos Mortos (Dawn of the Dead), mas também gosta de um bom toque de humor como o filme Todo Mundo Quase Morto (Shaun of the Dead) de Edgar Wright, então o jogo que a brasileira Adhoc Games passou dois anos desenvolvendo foi feito pra você.&lt;/p&gt;
 
 &lt;h2 id=&quot;zombiezoid---zenith&quot;&gt;ZombieZoid - Zenith&lt;/h2&gt;
@@ -118,9 +118,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Ballistic Overkill - DevTalk #02</title>
-   <link href="http://example.com/2015/09/04/ballistic-overkill-devtalk-02"/>
+   <link href="//2015/09/04/ballistic-overkill-devtalk-02"/>
    <updated>2015-09-04T00:00:00-03:00</updated>
-   <id>http://example.com/2015/09/04/ballistic-overkill-devtalk-02</id>
+   <id>//2015/09/04/ballistic-overkill-devtalk-02</id>
    <content type="html">&lt;p&gt;A Aquiris Game Studio liberou o DevTalk #02 do &lt;a href=&quot;http://store.steampowered.com/app/296300/&quot; target=&quot;_blank&quot;&gt;Ballistic Overkill&lt;/a&gt;
 , no vídeo podemos ver Jesús Fabre (PR), Jean Ruas (Game Master) e Amilton Diesel (Diretor de Arte Técnico) falando sobre fase beta, early access no steam, criação da história do game pela comunidade, a evolução das cores do jogo e a utilização da técnica de construção procedural de texturas Substance que permitiu reduzir consideravelmente o tamanho dos arquivos de mapa do Ballistic.&lt;/p&gt;
 
@@ -133,9 +133,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Game brasileiro Paper Cat ajuda ONGs</title>
-   <link href="http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
+   <link href="//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
    <updated>2015-08-25T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
+   <id>//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs</id>
    <content type="html">&lt;p&gt;Para quem é fã de gatos, sabe bem o quanto os bichanos gostam de brincar, seja com uma simples borrachinha de dinheiro ou até mesmo com uma borboleta que resolveu dar os ares dentro da sua casa.&lt;/p&gt;
 
 &lt;p&gt;É nessa ideia que o game &lt;a href=&quot;http://papercatgame.tumblr.com/&quot;&gt;Paper Cat&lt;/a&gt; da Ilusis Interactive apresenta o gato de papel Slick, o levado protagonista deste game de plataforma 2D que está em desenvolvimento pelo estúdio brasileiro.&lt;/p&gt;
@@ -157,9 +157,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Games brasileiros com desconto</title>
-   <link href="http://example.com/2015/08/06/games-brasileiros-com-desconto"/>
+   <link href="//2015/08/06/games-brasileiros-com-desconto"/>
    <updated>2015-08-06T00:00:00-03:00</updated>
-   <id>http://example.com/2015/08/06/games-brasileiros-com-desconto</id>
+   <id>//2015/08/06/games-brasileiros-com-desconto</id>
    <content type="html">&lt;p&gt;O que &lt;a href=&quot;http://store.steampowered.com/sub/64793/&quot; target=&quot;_blank&quot;&gt;Odallus - The Dark Call&lt;/a&gt;
  da JoyMasher, &lt;a href=&quot;http://store.steampowered.com/app/382490/&quot; target=&quot;_blank&quot;&gt;Relic Hunters Zero&lt;/a&gt;
  da Rogue Snail e &lt;a href=&quot;http://store.steampowered.com/app/352620/&quot; target=&quot;_blank&quot;&gt;Porcunipine&lt;/a&gt;
@@ -193,9 +193,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Prévia de Relic Hunters Zero</title>
-   <link href="http://example.com/2015/07/30/previa-de-relic-hunters-zero"/>
+   <link href="//2015/07/30/previa-de-relic-hunters-zero"/>
    <updated>2015-07-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/30/previa-de-relic-hunters-zero</id>
+   <id>//2015/07/30/previa-de-relic-hunters-zero</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.roguesnail.com/relic-hunters-zero/&quot; target=&quot;_blank&quot;&gt;Relic Hunters Zero&lt;/a&gt;
  é o mais novo game da brasileira Rogue Snail. Pra quem não conhece, a Rogue Snail é a marca que o gamedev Mark Venturelli utiliza para seus games. No caso do RHZ, o artista foi Betu Souza, enquanto Venturelli trabalhava na programação e game design do projeto.&lt;/p&gt;
 
@@ -234,9 +234,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Gryphon Knight Epic ganha data de lançamento</title>
-   <link href="http://example.com/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento"/>
+   <link href="//2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento"/>
    <updated>2015-07-28T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento</id>
+   <id>//2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento</id>
    <content type="html">&lt;p&gt;Em abril fizemos uma &lt;a href=&quot;/2015/04/09/previa-de-gryphon-knight-epic/&quot;&gt;prévia&lt;/a&gt;
  de &lt;a href=&quot;http://gryphonknightepic.com/&quot; target=&quot;_blank&quot;&gt;Cryphon Knight Epic&lt;/a&gt;
  da catarinense Cyber Rhino Studios, um mês depois a galera do Insert Coins fez um &lt;a href=&quot;/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic/&quot; target=&quot;_blank&quot;&gt;vídeo de gameplay do jogo&lt;/a&gt;
@@ -253,9 +253,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Começa o early access de Better late than DEAD</title>
-   <link href="http://example.com/2015/07/23/comeca-o-early-access-de-better-late-than-dead"/>
+   <link href="//2015/07/23/comeca-o-early-access-de-better-late-than-dead"/>
    <updated>2015-07-23T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/23/comeca-o-early-access-de-better-late-than-dead</id>
+   <id>//2015/07/23/comeca-o-early-access-de-better-late-than-dead</id>
    <content type="html">&lt;p&gt;O survival game Better late than DEAD que está sendo desenvolvido pela &lt;a href=&quot;http://odingamestudio.com.br/&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
  desde o início do ano começou seu early access no Steam hoje: &lt;a href=&quot;http://store.steampowered.com/app/352950&quot; target=&quot;_blank&quot;&gt;http://store.steampowered.com/app/352950&lt;/a&gt;&lt;/p&gt;
 
@@ -272,9 +272,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Lançamento de Odallus: The Dark Call</title>
-   <link href="http://example.com/2015/07/15/lancamento-de-odallus-the-dark-call"/>
+   <link href="//2015/07/15/lancamento-de-odallus-the-dark-call"/>
    <updated>2015-07-15T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/15/lancamento-de-odallus-the-dark-call</id>
+   <id>//2015/07/15/lancamento-de-odallus-the-dark-call</id>
    <content type="html">&lt;p&gt;Dos mesmos produtores de Oniken, chega as prateleiras virtuais o mais novo game da gamedev brasileira JoyMasher, &lt;a href=&quot;http://joymasher.com/odalluspreorder/&quot; target=&quot;_blank&quot;&gt;Odallus: The Dark Call&lt;/a&gt;
  será lançado hoje para &lt;a href=&quot;http://store.steampowered.com/app/319480&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
 ,  &lt;a href=&quot;https://www.gog.com/game/odallus_the_dark_call&quot; target=&quot;_blank&quot;&gt;GOG&lt;/a&gt;
@@ -296,9 +296,9 @@ no Steam.&lt;/p&gt;
  
  <entry>
    <title>Prévia de Unnamed Fiasco</title>
-   <link href="http://example.com/2015/07/07/previa-de-unnamed-fiasco"/>
+   <link href="//2015/07/07/previa-de-unnamed-fiasco"/>
    <updated>2015-07-07T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/07/previa-de-unnamed-fiasco</id>
+   <id>//2015/07/07/previa-de-unnamed-fiasco</id>
    <content type="html">&lt;p&gt;No filme Edge of Tomorrow (No Limite do Amanhã) de 2014 baseado na série de light novels All You Need Is Kill de Hiroshi Sakurazaka, o personagem de Tom Cruise, além de correr quase todo o filme como já é de praxe dos personagens do ator, também entra em contato com o sangue dos aliens inimigos e ganha a capacidade de controlar o tempo, mas de uma forma bem peculiar, toda vez que morre, acaba revivendo o mesmo dia.&lt;/p&gt;
 
 &lt;p&gt;Agora imagine que ao invés de reviver o mesmo dia, toda vez que você morresse um clone seu seria criado e mimetizaria seu comportamento anterior no campo de batalha? Essa é a premissa do gameplay do game em desenvolvimento &lt;a href=&quot;http://unnamedfiasco.com/&quot; target=&quot;_blank&quot;&gt;Unnamed Fiasco&lt;/a&gt;
@@ -330,9 +330,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Versão beta de Odallus - The Dark Call</title>
-   <link href="http://example.com/2015/07/02/versao-beta-de-odallus-the-dark-call"/>
+   <link href="//2015/07/02/versao-beta-de-odallus-the-dark-call"/>
    <updated>2015-07-02T00:00:00-03:00</updated>
-   <id>http://example.com/2015/07/02/versao-beta-de-odallus-the-dark-call</id>
+   <id>//2015/07/02/versao-beta-de-odallus-the-dark-call</id>
    <content type="html">&lt;p&gt;Começou a fase de beta teste do game brasileiro Odallus - The Dark Call da JoyMasher.&lt;/p&gt;
 
 &lt;p&gt;Odallus é um jogo de ação/exploração inspirado em grandes clássicos das eras 8 e 16 bits como Ghosts’n Goblins, Demon’s Crest e Castlevania.&lt;/p&gt;
@@ -351,9 +351,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Prévia de Peronio Pop-Up Book da Ovni Studios</title>
-   <link href="http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
+   <link href="//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios"/>
    <updated>2015-06-17T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
+   <id>//2015/06/17/previa-de-peronio-pop-up-book-da-ovni-studios</id>
    <content type="html">&lt;p&gt;A primeira evidência histórica de livros pop-up remonta para o ano 1240 quando o monge beneditino Matthew Paris criou tal artefato para ajudar outros monges a calcular os dias santos. Nos séculos seguintes livros pop-up foram utilizados por adultos para ilustrar teorias, ensinar anatomia, fazer predições astronômicas e criar códigos secretos. Somente no século 18 surgiram os primeiros livros pop-up com sua finalidade mais famosa nos dias atuais: divertir e ensinar crianças.&lt;/p&gt;
 
 &lt;p&gt;Séculos depois graças as tecnologias atuais e as sempre infinitas capacidade e criatividade humana, os livros pop-up podem evoluir a um novo patamar e é nesse estágio que conhecemos Peronio Pop-up Book da Ovni Studios.&lt;/p&gt;
@@ -393,9 +393,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Prévia de My Night Job da Webcore Games</title>
-   <link href="http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games"/>
+   <link href="//2015/06/10/previa-de-my-night-job-da-webcore-games"/>
    <updated>2015-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/06/10/previa-de-my-night-job-da-webcore-games</id>
+   <id>//2015/06/10/previa-de-my-night-job-da-webcore-games</id>
    <content type="html">&lt;p&gt;Sam Raimi diretor dos filmes do Homem-Aranha dos anos 2000, começou a fazer sua fama lá no início dos anos 80 com filmes de terror-comédia que se tonaram cult, estamos falando dos clássicos The Evil Dead, Evil Dead 2 e Army of Darkness.&lt;/p&gt;
 
 &lt;p&gt;Se quando você viu esses filmes ficou com vontade de pegar a serra elétrica, sua boomstick (a arma de cano-serrado), entrar numa casa mal-assombrada, detonar os demônios e salvar o dia no melhor estilo insano do herói Ash Williams, então o game que a Webcore Games está desenvolvendo matará sua vontade.&lt;/p&gt;
@@ -437,9 +437,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Ballistic Overkill, desenvolvedores falam sobre o game</title>
-   <link href="http://example.com/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game"/>
+   <link href="//2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game"/>
    <updated>2015-05-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game</id>
+   <id>//2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game</id>
    <content type="html">&lt;p&gt;A Aquiris Game Studio liberou algumas novidades sobre a versão do game Ballistic para o Steam: &lt;a href=&quot;http://store.steampowered.com/app/296300/&quot; target=&quot;_blank&quot;&gt;Ballistic Overkill&lt;/a&gt;
 .&lt;/p&gt;
 
@@ -475,9 +475,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Porcunipine</title>
-   <link href="http://example.com/2015/05/21/porcunipine"/>
+   <link href="//2015/05/21/porcunipine"/>
    <updated>2015-05-21T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/21/porcunipine</id>
+   <id>//2015/05/21/porcunipine</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;“Lembro com muito carinho,
  que um dia já foram lindos porcos-espinho.&lt;/p&gt;
@@ -548,9 +548,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Porcunipine lançado no Steam</title>
-   <link href="http://example.com/2015/05/21/porcunipine-lancado-no-steam"/>
+   <link href="//2015/05/21/porcunipine-lancado-no-steam"/>
    <updated>2015-05-21T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/21/porcunipine-lancado-no-steam</id>
+   <id>//2015/05/21/porcunipine-lancado-no-steam</id>
    <content type="html">&lt;p&gt;Acabamos de adicionar o Porcunipine da Big Green Pillow na lista de jogos do jogosdaqui, pois hoje é o grande dia de lançamento do game no Steam.&lt;/p&gt;
 
 &lt;p&gt;O jogo está sendo publicado para PC pela publisher britânica Curve Digital. Para se ter uma ideia do trabalho da Curve Digital, entre os jogos que eles já publicaram estão os famosos Thomas Was Alone, The Swapper e OlliOlli.
@@ -569,9 +569,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Prévia de Cannibal da GameTek</title>
-   <link href="http://example.com/2015/05/19/previa-de-cannibal-da-gametek"/>
+   <link href="//2015/05/19/previa-de-cannibal-da-gametek"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/19/previa-de-cannibal-da-gametek</id>
+   <id>//2015/05/19/previa-de-cannibal-da-gametek</id>
    <content type="html">&lt;p&gt;A indie brasileira &lt;a href=&quot;http://www.gametekbrasil.com/&quot; target=&quot;_blank&quot;&gt;GameTek&lt;/a&gt;
  está há cerca de dois anos desenvolvendo seu primeiro game: Cannibal.&lt;/p&gt;
 
@@ -606,9 +606,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Entrevista: Fernando Paulo, criador de Treeker</title>
-   <link href="http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
+   <link href="//2015/05/19/entrevista-fernando-paulo-criador-de-treeker"/>
    <updated>2015-05-19T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
+   <id>//2015/05/19/entrevista-fernando-paulo-criador-de-treeker</id>
    <content type="html">&lt;p&gt;O unico integrante da &lt;a href=&quot;https://www.facebook.com/bluboxsoft&quot;&gt;Blusoft Studios&lt;/a&gt;, o gamedev Fernando Paulo é a mente criativa por de trás do game &lt;a href=&quot;/2015/05/17/games-brasileiros-finalistas-no-big-festival-2015/&quot;&gt;Treeker: Os Óculos Perdidos&lt;/a&gt;. Na entrevista abaixo Fernando fala um pouco sobre sua experiência de gamedev, como foi desenvolver Treeker, a repercussão do game e os próximos projetos.&lt;/p&gt;
 
 &lt;h2 id=&quot;para-contextualizar-o-leitor-conte-um-pouco-da-tua-história-no-gamedev&quot;&gt;Para contextualizar o leitor, conte um pouco da tua história no gamedev?&lt;/h2&gt;
@@ -622,7 +622,7 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_02.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker: Os Óculos Perdidos, game criado por Fernando Paulo &lt;/span&gt;&lt;/center&gt;
 
@@ -647,7 +647,7 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/05/19/entrevista-fernando-paulo-criador-de-treeker/BluboxSoft_Treeker_03.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Treeker e seu visual 3D estiloso &lt;/span&gt;&lt;/center&gt;
 
@@ -679,9 +679,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>XIII SEJA (Semana de Entretenimento, Jogos e  Animação)</title>
-   <link href="http://example.com/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao"/>
+   <link href="//2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao"/>
    <updated>2015-05-16T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao</id>
+   <id>//2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao</id>
    <content type="html">&lt;p&gt;A Semana de Entretenimento, Jogos e Animação (SEJA), promovida semestralmente pelo curso de Jogos Digitais da PUC - MG, chega na sua 13º edição tendo como destaque palestras sobre animação, artes, programação, experiências profissionais de ex-alunos, mercado de trabalho, serious games e mais, confira a programação abaixo:&lt;/p&gt;
 &lt;h2 id=&quot;programação-do-xiii-seja&quot;&gt;Programação do XIII SEJA&lt;/h2&gt;
 &lt;p&gt;Terça-feira - 19 de maio&lt;/p&gt;
@@ -739,9 +739,9 @@ As plataformas que devem receber o game são o PC, através do &lt;a href=&quot;
  
  <entry>
    <title>Space Lander</title>
-   <link href="http://example.com/2015/05/13/space-lander"/>
+   <link href="//2015/05/13/space-lander"/>
    <updated>2015-05-13T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/13/space-lander</id>
+   <id>//2015/05/13/space-lander</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Ground control to Major Tom&lt;br /&gt;
 Ground control to Major Tom&lt;br /&gt;
@@ -787,9 +787,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Campanha do TurboLink no Collective está chegando ao fim</title>
-   <link href="http://example.com/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim"/>
+   <link href="//2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim"/>
    <updated>2015-05-10T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim</id>
+   <id>//2015/05/10/campanha-do-turbolink-no-collective-esta-chegando-ao-fim</id>
    <content type="html">&lt;p&gt;A campanha do &lt;a href=&quot;/2015/04/03/previa-de-turbolink/&quot;&gt;game brasileiro TurboLink&lt;/a&gt;
  está chegando ao fim na plataforma Square Enix Collective, mas ainda faltam votos para que a produtora de Final Fantasy apóie o game na sua &lt;a href=&quot;/2015/04/14/turbolink-no-square-enix-collective/&quot;&gt;campanha no Kickstarter&lt;/a&gt;
 .&lt;/p&gt;
@@ -816,9 +816,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Ganhadores da promoção do game Recruits</title>
-   <link href="http://example.com/2015/05/08/ganhadores-da-promocao-do-game-recruits"/>
+   <link href="//2015/05/08/ganhadores-da-promocao-do-game-recruits"/>
    <updated>2015-05-08T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/08/ganhadores-da-promocao-do-game-recruits</id>
+   <id>//2015/05/08/ganhadores-da-promocao-do-game-recruits</id>
    <content type="html">&lt;p&gt;Os participantes sorteados que seguiram todas as regras da  &lt;a href=&quot;/2015/05/05/promocao-do-game-recruits-make-heroes-make-history/&quot;&gt;promoção do game Recruits - Make Heroes. Make History.&lt;/a&gt;
  da QUByte Interactive e ganharam as Steam keys do jogo foram:&lt;/p&gt;
 
@@ -848,9 +848,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Insert Coins: Gryphon Knight Epic - Gameplay e Entrevista</title>
-   <link href="http://example.com/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista"/>
+   <link href="//2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista"/>
    <updated>2015-05-06T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista</id>
+   <id>//2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista</id>
    <content type="html">&lt;p&gt;A Cyber Rhino Studios é um novo estúdio catarinense que tem como primeiro jogo o Gryphon Knight Epic. Aceito no Steam Greenlight e com objetivo atingido no seu kickstarter, mistura elementos de shumps clássicos e power-ups no melhor estilo Megaman com uma narrativa e temática que lembra os RPGs clássicos.&lt;/p&gt;
 
 &lt;p&gt;Nesse vídeo mostramos um gameplay exclusivo com a participação do programador Joe Junior, comentando detalhes da criação da empresa e do desenvolvimento do jogo.&lt;/p&gt;
@@ -873,9 +873,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>TurboLink aprovado no Steam Greenlight</title>
-   <link href="http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
+   <link href="//2015/05/05/turbolink-aprovado-no-steam-greenlight"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
+   <id>//2015/05/05/turbolink-aprovado-no-steam-greenlight</id>
    <content type="html">&lt;p&gt;Acabamos de receber uma grande notícia: TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=429961096&quot; target=&quot;_blank&quot;&gt;Greenlight&lt;/a&gt;
 , ou seja, num futuro próximo devemos ter esse belo jogo de corrida high-tech no Steam.&lt;/p&gt;
 
@@ -903,9 +903,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Revelado novo game da QUByte Interactive: Recruits</title>
-   <link href="http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits"/>
+   <link href="//2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
+   <id>//2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits</id>
    <content type="html">&lt;p&gt;Semana passada &lt;a href=&quot;/2015/04/30/qubyte-interactive-produzindo-novo-game/&quot;&gt;anunciamos&lt;/a&gt;
  que a gamedev brasileira QUByte Interactive estava produzindo um novo game  de estratégia com muitos elementos de ação, inspirado em clássicos top-down shooter, como Cannon Fodder do SNES.&lt;/p&gt;
 
@@ -934,9 +934,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Promoção do game Recruits - Make Heroes. Make History.</title>
-   <link href="http://example.com/2015/05/05/promocao-do-game-recruits-make-heroes-make-history"/>
+   <link href="//2015/05/05/promocao-do-game-recruits-make-heroes-make-history"/>
    <updated>2015-05-05T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/05/promocao-do-game-recruits-make-heroes-make-history</id>
+   <id>//2015/05/05/promocao-do-game-recruits-make-heroes-make-history</id>
    <content type="html">&lt;p&gt;A QUByte Interactive nos enviou 3 Steam keys do seu &lt;a href=&quot;/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits/&quot;&gt;novo game Recruits - Make Heroes. Make History.&lt;/a&gt;
  para sortearmos entre nossos leitores.&lt;/p&gt;
 
@@ -961,9 +961,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Chroma Squad no Steam, o dia chegou</title>
-   <link href="http://example.com/2015/04/30/chroma-squad-no-steam-o-dia-chegou"/>
+   <link href="//2015/04/30/chroma-squad-no-steam-o-dia-chegou"/>
    <updated>2015-04-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/30/chroma-squad-no-steam-o-dia-chegou</id>
+   <id>//2015/04/30/chroma-squad-no-steam-o-dia-chegou</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;/tags/behold-studios/&quot;&gt;Behold Studios&lt;/a&gt;
 , que já fez bonito com games como &lt;a href=&quot;http://beholdstudios.com.br/games/knights-of-pen-paper/&quot; target=&quot;_blank&quot;&gt;Knights of Pen &amp;amp; Paper&lt;/a&gt;
  e &lt;a href=&quot;http://beholdstudios.com.br/games/monster-jam/&quot; target=&quot;_blank&quot;&gt;Monster Jam&lt;/a&gt;
@@ -988,9 +988,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Labindie divulga jogo indie Milford Heaven</title>
-   <link href="http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
+   <link href="//2015/04/29/labindie-divulga-jogo-indie-milford-heaven"/>
    <updated>2015-04-29T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
+   <id>//2015/04/29/labindie-divulga-jogo-indie-milford-heaven</id>
    <content type="html">&lt;p&gt;Para jogadores que curtem o estilo RPG roguelike point and click medieval, &lt;a href=&quot;http://labindie.com/beta/jogos-indies/milford-heaven&quot;&gt;Milford Heaven&lt;/a&gt; é uma excelente opção.&lt;/p&gt;
 
 &lt;p&gt;O jogador (você no caso), é um guerreiro treinado na arte das espadas, viaja de cidade em cidade procurando quem possa empregar seus serviços. Um dia você está acampando perto da cidade Milford Heaven e decide visitar a taberna. Ao chegar lá, fica surpreso pois a taberna está totalmente vazia, sem ninguém. Conversando com o estalajadeiro, fica sabendo que existe um vampiro chamado Luken e que seu castelo fica situado nas redondezas da cidade.&lt;/p&gt;
@@ -1001,9 +1001,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Phoenix Force</title>
-   <link href="http://example.com/2015/04/28/phoenix-force"/>
+   <link href="//2015/04/28/phoenix-force"/>
    <updated>2015-04-28T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/28/phoenix-force</id>
+   <id>//2015/04/28/phoenix-force</id>
    <content type="html">&lt;p&gt;Shoot ‘em up são conhecidos por ter uma enxurrada de inimigos que, no fim da fase, culminam em um grande inimigo extremamente difícil de derrotar, o famoso chefão de fase. Agora imagine um game deste gênero que não possui essa torrente de inimigos a cada fase, mas apenas o chefão final. Imaginou? Esse é o Phoenix Force da gaúcha Awoker Games que denomina o jogo como o primeiro Fantasy Boss Shooter Game.&lt;/p&gt;
 
 &lt;p&gt;Na história do game o jogador iniciará como a fênix de Fogo, chamada Fury que foi a primeira a renascer numa Terra primordial onde terá que enfrentar monstros e tentar resgatar as outras fênix: Cryo de Gelo, Tupã de Trovão, Gaia da Terra e Gast de Fantasma.&lt;/p&gt;
@@ -1045,9 +1045,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Checkpoint #3</title>
-   <link href="http://example.com/2015/04/26/checkpoint-3"/>
+   <link href="//2015/04/26/checkpoint-3"/>
    <updated>2015-04-26T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/26/checkpoint-3</id>
+   <id>//2015/04/26/checkpoint-3</id>
    <content type="html">&lt;h2 id=&quot;1&quot;&gt;#1&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/2015/04/21/museu-do-videogame-itinerante&quot;&gt;Evento do Museu do Videogame Itinerante, onde os jogadores podem conhecer e jogar clássicos das décadas de 70, 80, 90 e 2000&lt;/a&gt;&lt;/p&gt;
 
@@ -1073,9 +1073,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Trailer de lançamento de Chroma Squad</title>
-   <link href="http://example.com/2015/04/24/trailer-de-lancamento-de-chroma-squad"/>
+   <link href="//2015/04/24/trailer-de-lancamento-de-chroma-squad"/>
    <updated>2015-04-24T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/24/trailer-de-lancamento-de-chroma-squad</id>
+   <id>//2015/04/24/trailer-de-lancamento-de-chroma-squad</id>
    <content type="html">&lt;p&gt;A Behold Studios liberou o trailer de lançamento do Chroma Squad que tem previsão de chegar no Steam no próximo dia 30.&lt;/p&gt;
 
 &lt;p&gt;O trailer, com direito a trilha sonora japonesa, deu aquela saudade de ver o Esquadrão Relâmpago Changeman na tela da extinta TV Manchete. Para os mais novos a sensação será a mesma, basta substituir por Power Rangers e TV Globo.&lt;/p&gt;
@@ -1089,9 +1089,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Entrevista: Claudio Lins</title>
-   <link href="http://example.com/2015/04/22/entrevista-claudio-lins"/>
+   <link href="//2015/04/22/entrevista-claudio-lins"/>
    <updated>2015-04-22T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/22/entrevista-claudio-lins</id>
+   <id>//2015/04/22/entrevista-claudio-lins</id>
    <content type="html">&lt;p&gt;O jogosdaqui entrevistou o gamedev brasileiro Claudio Lins, desenvolvedor do game Doomed’n Damned e que agora está trabalhando no seu novo jogo, o Super Doomed’n Damned que será lançado Xbox One, Wii U e PC&lt;/p&gt;
 
 &lt;h2 id=&quot;fale-um-pouco-da-tua-trajetória-como-chegaste-ao-gamedev&quot;&gt;Fale um pouco da tua trajetória, como chegaste ao gamedev?&lt;/h2&gt;
@@ -1104,7 +1104,7 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/Preloud_RidingGround_1.jpg &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Riding Ground, game desenvolvido pela Preloud &lt;/span&gt;&lt;/center&gt;
 
@@ -1119,7 +1119,7 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/DoomednDamned.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -1153,7 +1153,7 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
+        &lt;img src=&quot;/assets/2015/04/22/entrevista-claudio-lins/ClaudioLins_SuperDoomednDammed_9.png &quot; /&gt;
       &lt;/center&gt;
 &lt;center&gt;&lt;span style=&quot;font-style:italic; font-size:small&quot;&gt;Super Doomed'n Damned &lt;/span&gt;&lt;/center&gt;
 
@@ -1186,9 +1186,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Prévia de Gryphon Knight Epic</title>
-   <link href="http://example.com/2015/04/09/previa-de-gryphon-knight-epic"/>
+   <link href="//2015/04/09/previa-de-gryphon-knight-epic"/>
    <updated>2015-04-09T00:00:00-03:00</updated>
-   <id>http://example.com/2015/04/09/previa-de-gryphon-knight-epic</id>
+   <id>//2015/04/09/previa-de-gryphon-knight-epic</id>
    <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.cyberrhinostudios.com/&quot;&gt;Cyber Rhino Studios&lt;/a&gt;
 , de Florianópolis, lançou no ano passado uma campanha no &lt;a href=&quot;https://www.kickstarter.com/projects/868879546/gryphon-knight-epic-medieval-shmup/&quot;&gt;Kickstarter&lt;/a&gt;
  para tornar o seu Gryphon Knight Epic, um medieval shmup, em realidade. Pouco tempo depois o game recebeu o Greenlight no Steam.&lt;/p&gt;
@@ -1207,9 +1207,9 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>SplitPlay dobra de tamanho em apenas um fim de semana</title>
-   <link href="http://example.com/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana"/>
+   <link href="//2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana"/>
    <updated>2015-03-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana</id>
+   <id>//2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana</id>
    <content type="html">&lt;p&gt;Na sexta-feira &lt;a href=&quot;/2015/03/27/soul-gambler-gratuito-e-kickstarter-de-face-it/&quot;&gt;noticiamos aqui&lt;/a&gt;
  a promoção do SplitPlay para o game Soul Gambler que visava ajudar na campanha do KickStarter do game Face It, da brasileira Tlön Studios.&lt;/p&gt;
 
@@ -1227,19 +1227,12 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
  
  <entry>
    <title>Splitplay apresenta: Bernie Needs Love</title>
-   <link href="http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love"/>
+   <link href="//2014/06/05/splitplay-apresenta-bernie-needs-love"/>
    <updated>2014-06-05T00:00:00-03:00</updated>
-   <id>http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Protomni Multimedia em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
+   <id>//2014/06/05/splitplay-apresenta-bernie-needs-love</id>
+   <content type="html">&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot;&gt;Bernie Needs Love&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot; target=&quot;_blank&quot;&gt;Bernie Needs Love&lt;/a&gt;
-!.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot; target=&quot;_blank&quot;&gt;Protomni Multimedia&lt;/a&gt;
-, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
+&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot;&gt;Protomni Multimedia&lt;/a&gt;, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
 
 &lt;p&gt;Em meados de 2012, tivemos a ideia de criar um jogo de plataforma que fosse simples, muito difícil e que retratasse cenários característicos da nossa cidade com a estética da era dos 4 e 8 bits. O objetivo de todas as fases é guiar Bernie até a namorada e evitar perigos que incluem pombos com disenteria, bueiros explosivos, áreas alagadas, foliões com incontinência urinária, assaltantes, tubulações d’água com vazamentos e assim por diante. Em dezembro desse mesmo ano, disponibilizamos o jogo por um preço promocional e, desde então, estamos acrescentando recursos e conteúdo com base não apenas no plano original, mas também no feedback dos jogadores.&lt;/p&gt;
 
@@ -1251,23 +1244,18 @@ Take easy with it, think it is a million dollar metal flower&lt;/p&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/t4eDKQ6KHNQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;Estamos no Greenlight&lt;/a&gt;
- e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;votem&lt;/a&gt;
-, deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
-&lt;div&gt;&lt;br /&gt;
-&lt;div&gt;&lt;br /&gt;
-&amp;gt; Gostou? Quer concorrer a chaves gratuitas do game?
-&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;Ent&amp;#227;o siga o jogosdaqui no Twitter.&lt;/a&gt;
-&lt;/strong&gt;
-&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;Estamos no Greenlight&lt;/a&gt; e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;votem&lt;/a&gt; deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
+
+&lt;p&gt;Gostou? Quer concorrer a chaves gratuitas do game?
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot;&gt;Então siga o jogosdaqui no Twitter.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Mr. Bree+ no Steam</title>
-   <link href="http://example.com/2014/05/02/mr-bree-no-steam"/>
+   <link href="//2014/05/02/mr-bree-no-steam"/>
    <updated>2014-05-02T00:00:00-03:00</updated>
-   <id>http://example.com/2014/05/02/mr-bree-no-steam</id>
+   <id>//2014/05/02/mr-bree-no-steam</id>
    <content type="html">&lt;p&gt;A equipe da brasileira &lt;a href=&quot;http://tawstudio.com/&quot;&gt;Taw Studio&lt;/a&gt; está de parabéns, pois após muito trabalho e dedicação na &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-02_19_08_27-154784552-0&quot;&gt;campanha Greenlight&lt;/a&gt;, seu fantástico game &lt;a href=&quot;http://store.steampowered.com/app/264220/&quot;&gt;Mr. Bree+&lt;/a&gt;foi finalmente lançado 
 na &lt;a href=&quot;http://store.steampowered.com/app/264220/&quot;&gt;Steam&lt;/a&gt;, a maior plataforma de distribuição de jogos do mundo!&lt;/p&gt;
 
@@ -1291,9 +1279,9 @@ Uma boa comparação para exemplificar a mecânica do jogo são alguns dos jogos
  
  <entry>
    <title>Demo do Mr. Bree+ no Greenlight</title>
-   <link href="http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight"/>
+   <link href="//2013/06/03/demo-do-mr-bree-no-greenlight"/>
    <updated>2013-06-03T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/03/demo-do-mr-bree-no-greenlight</id>
+   <id>//2013/06/03/demo-do-mr-bree-no-greenlight</id>
    <content type="html">&lt;p&gt;O time da &lt;a href=&quot;http://tawstudio.com/&quot; target=&quot;_blank&quot;&gt;TawStudio&lt;/a&gt;
  deu mais um importante passo na sua  campanha no Greenlight para levar o game &lt;a href=&quot;http://jogosdaqui.blog.uol.com.br/arch2013-05-01_2013-05-31.html#2013_05-02_19_08_27-154784552-0&quot; target=&quot;_blank&quot;&gt;Mr. Bree+&lt;/a&gt;
  ao Steam.&lt;/p&gt;
@@ -1313,9 +1301,9 @@ Uma boa comparação para exemplificar a mecânica do jogo são alguns dos jogos
  
  <entry>
    <title>Mr. Bree+ no Greenlight</title>
-   <link href="http://example.com/2013/05/02/mr-bree-no-greenlight"/>
+   <link href="//2013/05/02/mr-bree-no-greenlight"/>
    <updated>2013-05-02T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/02/mr-bree-no-greenlight</id>
+   <id>//2013/05/02/mr-bree-no-greenlight</id>
    <content type="html">&lt;p style=&quot;text-align: left;&quot;&gt;&amp;gt; Mr. Bree + &amp;#233; um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incr&amp;#237;vel aspecto visual e musical.
 &lt;p style=&quot;text-align: left;&quot;&gt;&amp;gt; S&amp;#227;o 60 n&amp;#237;veis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a hist&amp;#243;ria do nosso her&amp;#243;i, um porco fazendeiro, pai de fam&amp;#237;lia, o Mr. Bree&amp;quot;
 &lt;p style=&quot;text-align: left;&quot;&gt; 
@@ -1341,9 +1329,9 @@ Uma boa comparação para exemplificar a mecânica do jogo são alguns dos jogos
  
  <entry>
    <title>Oniken: The Rescue</title>
-   <link href="http://example.com/2012/12/13/oniken-the-rescue-2"/>
+   <link href="//2012/12/13/oniken-the-rescue-2"/>
    <updated>2012-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2012/12/13/oniken-the-rescue-2</id>
+   <id>//2012/12/13/oniken-the-rescue-2</id>
    <content type="html">&lt;p&gt;Amanhã, dia 14 de dezembro, o game &lt;a href=&quot;http://oniken.net/&quot; target=&quot;_blank&quot;&gt;Oniken&lt;/a&gt;
  da &lt;a href=&quot;http://joymasher.com/&quot; target=&quot;_blank&quot;&gt;JoyMasher&lt;/a&gt;
  receberá uma nova missão: &lt;strong&gt;The Rescue&lt;/strong&gt; estará disponível para todos os jogadores que já possuem Oniken.&lt;/p&gt;

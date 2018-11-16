@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - ouya</title>
- <link href="http://example.com/tags/ouya/index.xml" rel="self"/>
- <link href="http://example.com/tag/ouya.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/ouya.html</id>
+ <title>jogosdaqui - ouya</title>
+ <link href="//tags/ouya/index.xml" rel="self"/>
+ <link href="/tag/ouya.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/ouya.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>A Cidade Dos Que Descem Pela Escada: Terceiro Andar</title>
-   <link href="http://example.com/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar"/>
+   <link href="//2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar"/>
    <updated>2015-05-30T00:00:00-03:00</updated>
-   <id>http://example.com/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar</id>
+   <id>//2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar</id>
    <content type="html">&lt;p&gt;O primeiro livro que tive contato foi &lt;a href=&quot;http://www.ziraldo.com/livros/juvenal.htm&quot; target=&quot;_blank&quot;&gt;O Joelho Juvenal, do mestre Ziraldo&lt;/a&gt;
 . Lembro-me com carinho da capa e de algumas partes da história deste livro que me introduziu a leitura e foi o primeiro desta estrada que ainda tenho muito a percorrer.&lt;/p&gt;
 
@@ -53,19 +53,12 @@
  
  <entry>
    <title>Splitplay apresenta: Bernie Needs Love</title>
-   <link href="http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love"/>
+   <link href="//2014/06/05/splitplay-apresenta-bernie-needs-love"/>
    <updated>2014-06-05T00:00:00-03:00</updated>
-   <id>http://example.com/2014/06/05/splitplay-apresenta-bernie-needs-love</id>
-   <content type="html">&lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&amp;gt; Por Protomni Multimedia em colaboração para o jogosdaqui.&amp;lt;/font&amp;gt;&lt;/span&gt;&lt;/p&gt;
+   <id>//2014/06/05/splitplay-apresenta-bernie-needs-love</id>
+   <content type="html">&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot;&gt;Bernie Needs Love&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça &lt;a href=&quot;http://www.splitplay.com/pt/games/bernie-needs-love-a8f7442d-9599-4c9e-9024-58c4d9141e15&quot; target=&quot;_blank&quot;&gt;Bernie Needs Love&lt;/a&gt;
-!.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot; target=&quot;_blank&quot;&gt;Protomni Multimedia&lt;/a&gt;
-, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
+&lt;p&gt;Nós, da &lt;a href=&quot;https://www.facebook.com/protomni&quot;&gt;Protomni Multimedia&lt;/a&gt;, somos cariocas, gostamos de sol e chopp, vivemos de chinelo e acreditamos que sim, videogames são arte. Crescemos juntando a mesada para comprar cartuchos e já achamos que 16 bits era coisa pra dedéu. Lembramos bem de como é ser transportado para outro mundo em uma TV de 14 polegadas, da sensação de empregar horas a fio no esforço de passar de fase e da satisfação enorme de genuinamente descobrir algo. A nossa meta é criar jogos que resgatem essas características sem, contudo, abrir mão de praticidades e recursos modernos para, assim, oferecermos experiências relevantes não apenas a quem viveu as décadas de 80 e 90.&lt;/p&gt;
 
 &lt;p&gt;Em meados de 2012, tivemos a ideia de criar um jogo de plataforma que fosse simples, muito difícil e que retratasse cenários característicos da nossa cidade com a estética da era dos 4 e 8 bits. O objetivo de todas as fases é guiar Bernie até a namorada e evitar perigos que incluem pombos com disenteria, bueiros explosivos, áreas alagadas, foliões com incontinência urinária, assaltantes, tubulações d’água com vazamentos e assim por diante. Em dezembro desse mesmo ano, disponibilizamos o jogo por um preço promocional e, desde então, estamos acrescentando recursos e conteúdo com base não apenas no plano original, mas também no feedback dos jogadores.&lt;/p&gt;
 
@@ -77,15 +70,10 @@
         &lt;iframe src=&quot;https://www.youtube.com/embed/t4eDKQ6KHNQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;Estamos no Greenlight&lt;/a&gt;
- e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot; target=&quot;_blank&quot;&gt;votem&lt;/a&gt;
-, deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
-&lt;div&gt;&lt;br /&gt;
-&lt;div&gt;&lt;br /&gt;
-&amp;gt; Gostou? Quer concorrer a chaves gratuitas do game?
-&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot; target=&quot;_blank&quot;&gt;Ent&amp;#227;o siga o jogosdaqui no Twitter.&lt;/a&gt;
-&lt;/strong&gt;
-&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Ah! &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;Estamos no Greenlight&lt;/a&gt; e precisamos do seu voto! Se formos aprovados, todos os clientes do Splitplay que compraram o jogo receberão uma chave do jogo no Steam. Então passem lá, &lt;a href=&quot;http://steamcommunity.com/sharedfiles/filedetails/?id=255366445&quot;&gt;votem&lt;/a&gt; deixem seus comentários e divirtam-se! Será uma honra contar com o seu apoio!&lt;/p&gt;
+
+&lt;p&gt;Gostou? Quer concorrer a chaves gratuitas do game?
+&lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot;&gt;Então siga o jogosdaqui no Twitter.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
  </entry>
  

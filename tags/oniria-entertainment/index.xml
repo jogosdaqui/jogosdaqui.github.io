@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - oniria-entertainment</title>
- <link href="http://example.com/tags/oniria-entertainment/index.xml" rel="self"/>
- <link href="http://example.com/tag/oniria-entertainment.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/oniria-entertainment.html</id>
+ <title>jogosdaqui - oniria-entertainment</title>
+ <link href="//tags/oniria-entertainment/index.xml" rel="self"/>
+ <link href="/tag/oniria-entertainment.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/oniria-entertainment.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>OmniScire</title>
-   <link href="http://example.com/2006/09/05/omniscire"/>
+   <link href="//2006/09/05/omniscire"/>
    <updated>2006-09-05T00:00:00-03:00</updated>
-   <id>http://example.com/2006/09/05/omniscire</id>
+   <id>//2006/09/05/omniscire</id>
    <content type="html">&lt;p&gt;A Oniria Entertainment, de &lt;a href=&quot;/index.php?p=c&amp;amp;id=81&quot;&gt;Impacto Alpha&lt;/a&gt;
  e &lt;a href=&quot;/index.php?p=c&amp;amp;id=51&quot;&gt;Die Pferdebande&lt;/a&gt;
 , está desenvolvendo um adventure mangá onde o jogador encontrará muitas características de RPG’s, entre eles, gerenciar personagens e combates estratégicos.&lt;br /&gt;&lt;br /&gt;Segundo a própria Oniria, OmniScire &quot;extrapola os limites dos adventures convencionais para narrar um conto de descobertas, romance, conspirações e intriga sob o olhar onisciente de uma famosa e reclusa universidade&quot;.&lt;br /&gt;&lt;br /&gt;Com imagens de tirar o fôlego e uma história envolvente, OmniScire promete agradar em cheio os fãs do estilo.&lt;br /&gt;&lt;br /&gt;É esperar e conferir.&lt;br /&gt;&lt;br /&gt;Enquanto o jogo não chega, confira algumas imagens e o vídeo do jogo em desenvolvimento.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.oniriasoft.com.br/movies/omni.mov&quot; target=&quot;_blank&quot;&gt;Vídeo (10 MB)&lt;/a&gt;
@@ -23,24 +23,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Dois jogos brasileiros no TOP 20 da Alemanha</title>
-   <link href="http://example.com/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha"/>
+   <link href="//2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha"/>
    <updated>2005-11-18T00:00:00-02:00</updated>
-   <id>http://example.com/2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha</id>
+   <id>//2005/11/18/dois-jogos-brasileiros-no-top-20-da-alemanha</id>
    <content type="html">&lt;p&gt;Seguindo a trajetória de outros jogos brasileiros lançados na Alemanha, Der Pferderennstall, da &lt;a href=&quot;http://www.espacoinf.com&quot; target=&quot;_blank&quot;&gt;Espaço Informática&lt;/a&gt;
  e Die Pferdebande da&lt;a href=&quot;http://www.oniria.com.br/&quot; target=&quot;_blank&quot;&gt; Oniria Entertainment&lt;/a&gt;
 , continuam no TOP 20 da Alemanha.&lt;/p&gt;
@@ -53,9 +53,9 @@
  
  <entry>
    <title>Die Pferdebande</title>
-   <link href="http://example.com/2005/09/22/die-pferdebande"/>
+   <link href="//2005/09/22/die-pferdebande"/>
    <updated>2005-09-22T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/22/die-pferdebande</id>
+   <id>//2005/09/22/die-pferdebande</id>
    <content type="html">&lt;p&gt;Die Pferdebande, baseado na série de livros homónima de Karin Müller.&lt;/p&gt;
 
 &lt;p&gt;No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistério envolvendo uma amazona e sua égua branca, feridas por um misterioso malfeitor. Os principais supeitos são dois motoqueiros poluidores do meio ambiente, mas seriam eles os culpados? Sem ser baseado em nenhum livro específico, Die Pferdebande é uma aventura nova, mas com o mesmo estilo que faz da série um sucesso.&lt;/p&gt;

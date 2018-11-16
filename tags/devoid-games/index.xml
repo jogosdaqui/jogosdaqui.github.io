@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - devoid-games</title>
- <link href="http://example.com/tags/devoid-games/index.xml" rel="self"/>
- <link href="http://example.com/tag/devoid-games.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/devoid-games.html</id>
+ <title>jogosdaqui - devoid-games</title>
+ <link href="//tags/devoid-games/index.xml" rel="self"/>
+ <link href="/tag/devoid-games.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/devoid-games.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>TriboT</title>
-   <link href="http://example.com/2013/01/23/tribot"/>
+   <link href="//2013/01/23/tribot"/>
    <updated>2013-01-23T00:00:00-02:00</updated>
-   <id>http://example.com/2013/01/23/tribot</id>
+   <id>//2013/01/23/tribot</id>
    <content type="html">&lt;blockquote&gt;
   &lt;p&gt;SAUDACOES! EU SOU TRIBOT. DE ACORDO COM MINHAS ESPECIFICACOES, EU SOU UM BALANCE BOT DE PERNAS RETRATEIS DE CLASSE 2, S/N#3958388. ME DISSERAM QUE EU DEVERIA MOSTRAR MINHAS DIRETIVAS.&amp;lt;/font&amp;gt;
 [LISTANDO DIRETIVAS]&amp;lt;/font&amp;gt;&lt;/p&gt;
@@ -60,9 +60,9 @@ Com controles precisos e gr&amp;#225;ficos 3D competentes, TriboT &amp;#233; a p
  
  <entry>
    <title>Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</title>
-   <link href="http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
+   <link href="//2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012"/>
    <updated>2013-01-02T00:00:00-02:00</updated>
-   <id>http://example.com/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
+   <id>//2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012</id>
    <content type="html">&lt;p&gt;No final de 2012 fizemos uma enquete perguntando &amp;gt; Quais games desenvolvidos no Brasil você jogou em 2012?&quot;. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano.
 &lt;br /&gt; Para mostrar o resultado a vocês, montamos a lista abaixo mostrando um vídeo de cada um dos games.&lt;br /&gt;
 Confiram!

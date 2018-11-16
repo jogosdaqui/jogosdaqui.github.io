@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - yotta-apps</title>
- <link href="http://example.com/tags/yotta-apps/index.xml" rel="self"/>
- <link href="http://example.com/tag/yotta-apps.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/yotta-apps.html</id>
+ <title>jogosdaqui - yotta-apps</title>
+ <link href="//tags/yotta-apps/index.xml" rel="self"/>
+ <link href="/tag/yotta-apps.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/yotta-apps.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Delivery Box</title>
-   <link href="http://example.com/2012/02/28/delivery-box"/>
+   <link href="//2012/02/28/delivery-box"/>
    <updated>2012-02-28T00:00:00-03:00</updated>
-   <id>http://example.com/2012/02/28/delivery-box</id>
+   <id>//2012/02/28/delivery-box</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.yottaapps.com.br/aplicativos/delivery-box/&quot; target=&quot;_blank&quot;&gt;Delivery Box&lt;/a&gt;
  foi o primeiro game da brasileira &lt;a href=&quot;http://www.yottaapps.com.br&quot;&gt;Yotta Apps&lt;/a&gt;
  para iPad, lançado em 2011, apresenta o desafio de atravessar um carro de brinquedo, carregado de bloquinhos de madeira, por um percurso também montando por mais blocos de madeira. O objetivo é chegar o mais rápido possível ao final do percurso, deixando cair o menor número de blocos possíveis da caçamba.&lt;/p&gt;

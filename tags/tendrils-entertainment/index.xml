@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - tendrils-entertainment</title>
- <link href="http://example.com/tags/tendrils-entertainment/index.xml" rel="self"/>
- <link href="http://example.com/tag/tendrils-entertainment.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/tendrils-entertainment.html</id>
+ <title>jogosdaqui - tendrils-entertainment</title>
+ <link href="//tags/tendrils-entertainment/index.xml" rel="self"/>
+ <link href="/tag/tendrils-entertainment.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/tendrils-entertainment.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Campanha do Soulbinder no Catarse</title>
-   <link href="http://example.com/2013/05/27/campanha-do-soulbinder-no-catarse"/>
+   <link href="//2013/05/27/campanha-do-soulbinder-no-catarse"/>
    <updated>2013-05-27T00:00:00-03:00</updated>
-   <id>http://example.com/2013/05/27/campanha-do-soulbinder-no-catarse</id>
+   <id>//2013/05/27/campanha-do-soulbinder-no-catarse</id>
    <content type="html">&lt;p&gt;A brasileria &lt;a href=&quot;http://www.tendrils.com.br/&quot;&gt;Tendrils Entertainment&lt;/a&gt;
  começou sua &lt;a href=&quot;http://catarse.me/pt/soulbinder&quot; target=&quot;_blank&quot;&gt;campanha&lt;/a&gt;
  de crownfunding no site Catarse para a produção do RPG de exploração Soulbinder.&lt;/p&gt;

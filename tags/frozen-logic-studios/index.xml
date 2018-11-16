@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - frozen-logic-studios</title>
- <link href="http://example.com/tags/frozen-logic-studios/index.xml" rel="self"/>
- <link href="http://example.com/tag/frozen-logic-studios.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/frozen-logic-studios.html</id>
+ <title>jogosdaqui - frozen-logic-studios</title>
+ <link href="//tags/frozen-logic-studios/index.xml" rel="self"/>
+ <link href="/tag/frozen-logic-studios.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/frozen-logic-studios.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Swamp Adventure</title>
-   <link href="http://example.com/2013/06/20/swamp-adventure"/>
+   <link href="//2013/06/20/swamp-adventure"/>
    <updated>2013-06-20T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/20/swamp-adventure</id>
+   <id>//2013/06/20/swamp-adventure</id>
    <content type="html">&lt;p&gt;Procurando um game casual e divertido para jogar no seu iOS ou Android? &lt;a href=&quot;http://www.frozenlogicstudios.com/swampadventure.html&quot; target=&quot;_blank&quot;&gt;Swamp Adventure&lt;/a&gt;
  da &lt;a href=&quot;http://www.frozenlogicstudios.com&quot;&gt;Frozen Logic Studios&lt;/a&gt;
  é uma boa pedida.&lt;/p&gt;
@@ -34,9 +34,9 @@ O jogo ainda conta com mais de 20 achievements para conquistar e leadearboards.&
  
  <entry>
    <title>Soccer Free Kicks</title>
-   <link href="http://example.com/2013/06/10/soccer-free-kicks"/>
+   <link href="//2013/06/10/soccer-free-kicks"/>
    <updated>2013-06-10T00:00:00-03:00</updated>
-   <id>http://example.com/2013/06/10/soccer-free-kicks</id>
+   <id>//2013/06/10/soccer-free-kicks</id>
    <content type="html">&lt;p&gt;Como a palavra do momento é futebol, apresento o game &lt;a href=&quot;http://www.frozenlogicstudios.com/soccerfreekicks.html&quot; target=&quot;_blank&quot;&gt;Soccer Free Kicks&lt;/a&gt;
  da brasileria &lt;a href=&quot;http://www.frozenlogicstudios.com/&quot; target=&quot;_blank&quot;&gt;Frozen Logic Studios&lt;/a&gt;
 , onde o jogador pode praticar lances livres e testar sua destreza futebolística.&lt;/p&gt;

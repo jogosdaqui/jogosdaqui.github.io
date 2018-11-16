@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Your Title - FPS</title>
- <link href="http://example.com/tags/fps/index.xml" rel="self"/>
- <link href="http://example.com/tag/FPS.html"/>
- <updated>2018-11-15T17:22:51-02:00</updated>
- <id>http://example.com/tag/FPS.html</id>
+ <title>jogosdaqui - FPS</title>
+ <link href="//tags/fps/index.xml" rel="self"/>
+ <link href="/tag/FPS.html"/>
+ <updated>2018-11-16T12:51:55-02:00</updated>
+ <id>/tag/FPS.html</id>
  <author>
-   <name>Author Here</name>
+   <name>jogosdaqui</name>
  </author>
  
  <entry>
    <title>Documentário "A Mecânica do Jogo"</title>
-   <link href="http://example.com/2010/12/18/documentario-a-mecanica-do-jogo"/>
+   <link href="//2010/12/18/documentario-a-mecanica-do-jogo"/>
    <updated>2010-12-18T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/18/documentario-a-mecanica-do-jogo</id>
+   <id>//2010/12/18/documentario-a-mecanica-do-jogo</id>
    <content type="html">&lt;p&gt;“A Mecânica do Jogo” mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira.&lt;/p&gt;
 
 &lt;p&gt;O documentário tem uma ótima qualidade e possui depoimentos de diversas pessoas da indústria brasileira falando sobre  a cultura do brasileiro em relação ao games internacionais e nacionais, sobre as diferenças entre os mercados americano, europeu, japonês e o nosso, sobre os altos impostos e a pirataria, a saída da Ubisoft e muitos outros assuntos.&lt;/p&gt;
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</title>
-   <link href="http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <link href="//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
    <updated>2010-12-13T00:00:00-02:00</updated>
-   <id>http://example.com/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <id>//2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
    <content type="html">&lt;p&gt;Nós, do jogosdaqui, conhecemos por volta de 200 games produzidos por empresas ou equipes indies brasileiras, mesmo conhecendo tantos games nacionais, sabíamos que existia muito mais por ai. O resultado da enquete ”Quais games desenvolvidos no Brasil você já jogou?” comprovou nosso pensamento, pois ao final da enquete, temos a citação de 53 games diferentes, sendo que alguns ainda eram desconhecidos para nós.&lt;/p&gt;
 
 &lt;p&gt;Alguns games citados, apesar de serem desenvolvidos no Brasil e por brasileiros, não eram games produzidos por empresas de origem nacional. Esses games foram desconsiderados, por uma simples razão: por serem de empresas estrangeiras e famosas, seus games já ganham atenção suficiente na mídia especializada, tanto nos outros países quanto aqui. Vale salientar que consideramos extremamente válido a vinda de empresas estrangeiras de desenvolvimento de jogos para o Brasil, pois sabemos que a troca de experiência entre essas empresas e as empresas locais, além da troca com os meios acadêmicos, sempre criam uma sinergia que traz benefício ao mercado de games.&lt;/p&gt;
@@ -188,24 +188,24 @@
  
  <entry>
    <title>Quadro comemorativo "jogos daqui"</title>
-   <link href="http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
+   <link href="//2006/05/18/quadro-comemorativo-150-jogos-daqui"/>
    <updated>2006-05-18T00:00:00-03:00</updated>
-   <id>http://example.com/2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
+   <id>//2006/05/18/quadro-comemorativo-150-jogos-daqui</id>
    <content type="html">&lt;p&gt;Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.&lt;/p&gt;
 
 &lt;p&gt;Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/images/galleries/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
+        &lt;img src=&quot;/assets/2006/05/18/quadro-comemorativo-150-jogos-daqui/150-jogosdaqui.jpg &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
  
  <entry>
    <title>Incidente em Varginha</title>
-   <link href="http://example.com/2005/09/19/incidente-em-varginha"/>
+   <link href="//2005/09/19/incidente-em-varginha"/>
    <updated>2005-09-19T00:00:00-03:00</updated>
-   <id>http://example.com/2005/09/19/incidente-em-varginha</id>
+   <id>//2005/09/19/incidente-em-varginha</id>
    <content type="html">&lt;p&gt;No jogo da brasileira &lt;a href=&quot;http://www.perceptum.com/&quot; target=&quot;_blank&quot;&gt;Perceptum&lt;/a&gt;
 , uma verdadeira operação de guerra é montada para acobertar o pouso de um veículo alienígena. Frustrando as forças militares envolvidas, alguns extraterrestres fogem em direção à cidade de Varginha, MG, onde são vistos por várias testemunhas. Você é uma delas, o primeiro ser humano a fazer contato, e recebe uma missão muito especial…&lt;/p&gt;
 
