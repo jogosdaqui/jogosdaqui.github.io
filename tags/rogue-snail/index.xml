@@ -3,7 +3,7 @@
  <title>jogosdaqui - rogue-snail</title>
  <link href="//tags/rogue-snail/index.xml" rel="self"/>
  <link href="/tag/rogue-snail.html"/>
- <updated>2018-11-16T12:51:55-02:00</updated>
+ <updated>2018-11-17T16:50:04-02:00</updated>
  <id>/tag/rogue-snail.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -150,14 +150,14 @@
    <link href="//2015/06/09/conheca-os-games-selecionados-no-big-starter"/>
    <updated>2015-06-09T00:00:00-03:00</updated>
    <id>//2015/06/09/conheca-os-games-selecionados-no-big-starter</id>
-   <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&quot; target=&quot;_blank&quot;&gt;BIG Festival&lt;/a&gt;
-, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.&lt;/p&gt;
+   <content type="html">&lt;p&gt;O &lt;a href=&quot;http://www.bigfestival.com.br/&amp;quot;&quot;&gt;BIG Festival&lt;/a&gt;, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.&lt;/p&gt;
 
 &lt;p&gt;Entramos em contato com as equipes de desenvolvimento para sabermos mais sobre os projetos, neste post você poderá conferir alguns trailers e imagens dos selecionados e durante os próximos dias faremos prévias de cada um dos games que estarão no BIG Starter 2015.&lt;/p&gt;
 
 &lt;p&gt;O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: &lt;a href=&quot;/2015/05/26/previa-de-alkimya-da-bad-minions/&quot;&gt;Prévia de Alkimya da Bad Minions&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;finalistas-na-categoria-entretenimento&quot;&gt;Finalistas na categoria entretenimento&lt;/h3&gt;
+
 &lt;h2 id=&quot;alkimya-da-bad-minions&quot;&gt;Alkimya da Bad Minions&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/lWjMGFZAnD8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -195,7 +195,6 @@
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/63cW6SbOL9I &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
-
 </content>
  </entry>
  
