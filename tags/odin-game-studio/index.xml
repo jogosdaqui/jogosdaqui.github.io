@@ -3,7 +3,7 @@
  <title>jogosdaqui - odin-game-studio</title>
  <link href="//tags/odin-game-studio/index.xml" rel="self"/>
  <link href="/tag/odin-game-studio.html"/>
- <updated>2018-11-17T16:50:04-02:00</updated>
+ <updated>2018-11-20T17:11:22-02:00</updated>
  <id>/tag/odin-game-studio.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -444,10 +444,10 @@ Pelas imagens que vemos nos v&amp;#237;deos, podemos aguardar grandes games da O
    <link href="//2013/04/11/heist-and-run"/>
    <updated>2013-04-11T00:00:00-03:00</updated>
    <id>//2013/04/11/heist-and-run</id>
-   <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br/&quot; target=&quot;_blank&quot;&gt;Odin Game Studio&lt;/a&gt;
- estréia no mundo mobile com o game Heist and Run.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;http://www.odingamestudio.com.br/&quot;&gt;Odin Game Studio&lt;/a&gt; estréia no mundo mobile com o game Heist and Run.&lt;/p&gt;
 
-&lt;p&gt;O jogo é do estilo endless run, o mesmo de mobile games famosos  como Temple Run e Sonic Dash, entretanto, nesse game o player controla um carro em uma fuga em alta velocidade da polícia.&lt;/p&gt;
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;O jogo é do estilo endless run, o mesmo de mobile games famosos como Temple Run e Sonic Dash, entretanto, nesse game o player controla um carro em uma fuga em alta velocidade da polícia.&lt;/p&gt;
 
 &lt;p&gt;A sensação de ultrapassar diversos carros em sequência é muito legal, ainda mais quando a polícia vem atrás de você e é preciso planejar as ultrapassagens para forçar que o carro deles bata nos outros veículos.&lt;/p&gt;
 
@@ -457,16 +457,29 @@ Pelas imagens que vemos nos v&amp;#237;deos, podemos aguardar grandes games da O
 
 &lt;p&gt;Para tunar o seu carro é possível trocar as moedas ganhas durante as corridas por poderes, como: incrementar a velocidade, melhorar a proteção, campo de força, aumento de vida, entre outros.&lt;/p&gt;
 
+&lt;h2 id=&quot;evolução&quot;&gt;Evolução&lt;/h2&gt;
 &lt;p&gt;A equipe da Odin Game Studio tem planos para mais carros, obstáculos, mais faixas na pista e missões para o game, ou seja, o game ainda vai dar muita diversão e corrida para seus jogadores.&lt;/p&gt;
 
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/DVxKvnms-uI &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;[sc:Review_rating pro1=”Acabamento primoroso.” pro2=”Ótimos gráficos em 3D.” pro3=”Efeitos e trilha sonora se encaixam muito bem ao gameplay.” pro4=”Gameplay clássico, divertido e rápido de entender.” con1=”Falta de achievements e, principalmente, de um leaderboard.” con2=”O device escurece a tela após algum tempo quando utilizamos o controle por acelerômetro, o que as vezes pode prejudicar a fuga.”]&lt;/p&gt;
+&lt;h3 id=&quot;prós&quot;&gt;Prós&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Acabamento primoroso.&lt;/li&gt;
+  &lt;li&gt;Ótimos gráficos em 3D.&lt;/li&gt;
+  &lt;li&gt;Efeitos e trilha sonora se encaixam muito bem ao gameplay.&lt;/li&gt;
+  &lt;li&gt;Gameplay clássico, divertido e rápido de entender.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Heist and Run está disponível gratuitamente para &lt;a href=&quot;https://itunes.apple.com/us/app/heist-and-run/id599259729?mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
- e existem planos para uma versão Android.&lt;/p&gt;
+&lt;h3 id=&quot;contras&quot;&gt;Contras&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Falta de achievements e, principalmente, de um leaderboard.&lt;/li&gt;
+  &lt;li&gt;O device escurece a tela após algum tempo quando utilizamos o controle por acelerômetro, o que as vezes pode prejudicar a fuga.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;Heist and Run está disponível gratuitamente para &lt;a href=&quot;https://itunes.apple.com/us/app/heist-and-run/id599259729?mt=8&quot;&gt;iOS&lt;/a&gt; e existem planos para uma versão Android.&lt;/p&gt;
 </content>
  </entry>
  

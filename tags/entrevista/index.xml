@@ -3,11 +3,47 @@
  <title>jogosdaqui - entrevista</title>
  <link href="//tags/entrevista/index.xml" rel="self"/>
  <link href="/tag/entrevista.html"/>
- <updated>2018-11-17T16:50:04-02:00</updated>
+ <updated>2018-11-20T17:11:22-02:00</updated>
  <id>/tag/entrevista.html</id>
  <author>
    <name>jogosdaqui</name>
  </author>
+ 
+ <entry>
+   <title>club TILT, Renato Degiovani fala sobre a abertura</title>
+   <link href="//2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura"/>
+   <updated>2015-06-02T00:00:00-03:00</updated>
+   <id>//2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura</id>
+   <content type="html">&lt;p&gt;Renato Degiovani, primeiro projetista de jogos brasileiro anunciou recentemente a abertura do &lt;a href=&quot;http://www.clubtilt.net/&quot;&gt;club TILT&lt;/a&gt; para o público. Entramos em contato com o Degiovani para falar um pouco sobre o assunto. Confira:&lt;/p&gt;
+
+&lt;h2 id=&quot;para-contextualizar-o-leitor-fale-nos-um-pouco-sobre-o-que-é-o-club-tilt&quot;&gt;Para contextualizar o leitor, fale-nos um pouco sobre o que é o club TILT?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Renato Degiovani: O objetivo do club TILT sempre foi o de dar ao leitor um conteúdo editorial inédito e exclusivo sobre programação de jogos de computador, focando principalmente na mecânica de construção e lógica de programação. Não esquecendo também dos aspectos gráficos e lúdicos da criação. Como complemento, a minha ideia era a de suprir os leitores com elementos avulsos, tais como sons, modelos, imagens, etc, de modo a facilitar a criação dos jogos dos próprios leitores.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quando-foi-que-surgiu-a-ideia-de-criá-lo&quot;&gt;Quando foi que surgiu a ideia de criá-lo?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Renato Degiovani: A TILT online (base editorial dos jogos e matérias técnicas) foi lançada em fevereiro de 1997 e o club TILT 4 meses depois. Ele foi criado como uma extensão da TILT online, com o propósito de monetizar o conteúdo do site através de assinatura do leitor e não publicidade nas páginas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;qual-é-o-público-alvo&quot;&gt;Qual é o público alvo?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Renato Degiovani: O público alvo do club sempre foi um tipo específico de usuário de computador. Aquela pessoa que gosta e curte programação, que gosta de edição gráfica e principalmente que gosta de imaginar e criar mundos diversos e transformá-los em entretenimento ou jogos, não apenas para si mesmo como para compartilhar com os amigos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;que-tipos-de-materiais-e-jogos-o-usuário-pode-encontrar-no-club&quot;&gt;Que tipos de materiais e jogos o usuário pode encontrar no Club?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Renato Degiovani: Todos os jogos e matérias técnicas do club foram produzidos especificamente para ele e relacionam-se com o conceito de programação simples e divertida, daí a escolha do Delphi como ferramenta principal dessas produções. Dessa forma, o leitor encontra nas páginas do club muita programação em object pascal e projetos de jogos que ele pode adaptar ou modificar à vontade (a maioria dos projetos tem os fontes incluídos).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;por-que-abri-lo&quot;&gt;Por que abri-lo?&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Renato Degiovani: O modelo de assinatura paga, para ser mantido, exigiria um investimento razoavelmente alto para adaptar o club às novas tendências de ambientes e ferramentas de programação. Por outro lado, apenas “fechar” o club e deletar o material que foi produzido ao longo de quase 20 anos pareceu não fazer sentido algum. Então resolvi contratar uma hospedagem específica para manter esse material na rede, não apenas como registro de uma parte da produção nacional de conteúdo sobre jogos, como para servir ainda para todos aqueles que gostam da programação aplicada na criação de jogos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ficou interessado? Então acesse o &lt;a href=&quot;http://www.clubtilt.net/&quot;&gt;club Tilt&lt;/a&gt; e divirta-se!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Entrevista: Fernando Paulo, criador de Treeker</title>
@@ -358,7 +394,7 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
    <link href="//2006/12/26/newsabragames-dezembro-2006"/>
    <updated>2006-12-26T00:00:00-02:00</updated>
    <id>//2006/12/26/newsabragames-dezembro-2006</id>
-   <content type="html">&lt;p&gt;A última NewsAbragames de 2006 já está no ar. Nesta edição podemos conferir as mensagens de final de ano de Marcelo Carvalho (presidente da Abragames) e André Penha (VP de comunicação e marketing).&lt;br /&gt;&lt;br /&gt;Veja a review do jogo Natu Táxi da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=40&quot;&gt;Délirus Entertainment&lt;/a&gt;
+   <content type="html">&lt;p&gt;A última NewsAbragames de 2006 já está no ar. Nesta edição podemos conferir as mensagens de final de ano de Marcelo Carvalho (presidente da Abragames) e André Penha (VP de comunicação e marketing).&lt;br /&gt;&lt;br /&gt;Veja a review do jogo Natu Táxi da Délirus Entertainment
 , a agenda de eventos e cursos, uma entrevista com Bernardo Manfredini, consultor de negócios da Softex / Abragames, novos associados e muito mais.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.dcoder.com.br/abragames/index.php&quot; target=&quot;_blank&quot;&gt;Confira a newsletter…&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -369,7 +405,7 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
    <link href="//2006/03/28/entrevista-palmsoft-tecnologia"/>
    <updated>2006-03-28T00:00:00-03:00</updated>
    <id>//2006/03/28/entrevista-palmsoft-tecnologia</id>
-   <content type="html">&lt;p&gt;A PalmSoft Tecnologia é uma empresa catarinense desenvolvedora de inúmeros jogos para celular, entre eles estão: os famosos Crimson After Dusk e PalmSoft Drag Racer.&lt;/p&gt;
+   <content type="html">&lt;p&gt;A &lt;a href=&quot;/tags/palmsoft-tecnologia&quot;&gt;PalmSoft Tecnologia&lt;/a&gt; é uma empresa catarinense desenvolvedora de inúmeros jogos para celular, entre eles estão: os famosos &lt;a href=&quot;/2005/10/13/crimson-after-dusk&quot;&gt;Crimson After Dusk&lt;/a&gt; e &lt;a href=&quot;/2006/01/23/palmsoft-drag-racer-2&quot;&gt;PalmSoft Drag Racer&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;O jogosdaqui entrevistou Dennis Kerr Coelho, 25 anos, diretor técnico da PalmSoft Tecnologia.&lt;/p&gt;
 
@@ -395,7 +431,7 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
 
 &lt;h2 id=&quot;como-os-jogadores-podem-comprar-os-jogos-da-palmsoft&quot;&gt;Como os jogadores podem comprar os jogos da PalmSoft?&lt;/h2&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Dennis: Hoje, nossos jogos são vendidos através das operadoras Claro, Brasil Telecom, Telemig e Tele Amazônia. Temos um único jogo, o Crimson After Dusk, que está a venda no site handango (&lt;a href=&quot;http://www.handango.com&quot;&gt;www.handango.com&lt;/a&gt;. No site, quem mora fora do Brasil ou quem possui celular de outra operadora, pode adquirir o jogo (mas apenas quem possui celular Nokia N60).&lt;/p&gt;
+  &lt;p&gt;Dennis: Hoje, nossos jogos são vendidos através das operadoras Claro, Brasil Telecom, Telemig e Tele Amazônia. Temos um único jogo, o Crimson After Dusk, que está a venda no site handango &lt;a href=&quot;http://www.handango.com&quot;&gt;www.handango.com&lt;/a&gt;. No site, quem mora fora do Brasil ou quem possui celular de outra operadora, pode adquirir o jogo (mas apenas quem possui celular Nokia N60).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;poderia-citar-alguns-jogos-e-suas-respectivas-operadoras&quot;&gt;Poderia citar alguns jogos e suas respectivas operadoras?&lt;/h2&gt;
@@ -403,11 +439,11 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
   &lt;p&gt;Dennis: Atualmente vendemos os jogos:&lt;/p&gt;
 
   &lt;ul&gt;
-    &lt;li&gt;Shadows of Malquidious&lt;/li&gt;
-    &lt;li&gt;War of Malquidious&lt;/li&gt;
-    &lt;li&gt;Drag Racer&lt;/li&gt;
-    &lt;li&gt;Fencer Duel&lt;/li&gt;
-    &lt;li&gt;Red Hood&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/2005/10/13/shadows-of-malquidious&quot;&gt;Shadows of Malquidious&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/2006/01/23/war-of-malquidious-2&quot;&gt;War of Malquidious&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/2006/01/23/palmsoft-drag-racer-2&quot;&gt;PalmSoft Drag Racer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/2006/01/31/fencer-duel&quot;&gt;Fencer Duel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/2005/12/19/red-hood-racing&quot;&gt;Red Hood Racing&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;p&gt;nas operadoras Claro, Brasil Telecom, Telemig e Tele Amazônia.&lt;/p&gt;
@@ -428,7 +464,7 @@ E outra porque acreditamos que um jogo tão autoral quanto Toren deve ser antes 
 &lt;blockquote&gt;
   &lt;p&gt;Dennis: Temos alguns jogos em desenvolvimento, como Inferi Dii, que fará os jogadores mais velhos lembrarem do jogo Golden Axe.&lt;/p&gt;
 
-  &lt;p&gt;Também temos o Tank Mission III, que está em fase de negociação, e mostrará efeito e jogabilidade dificilmente vista em celulares.&lt;/p&gt;
+  &lt;p&gt;Também temos o &lt;a href=&quot;/2006/01/29/tank-mission-3&quot;&gt;Tank Mission 3&lt;/a&gt;, que está em fase de negociação, e mostrará efeito e jogabilidade dificilmente vista em celulares.&lt;/p&gt;
 
   &lt;p&gt;E, para finalizar, temos o RPG Essence, que vai mostrar o grande salto de qualidade que a empresa está dando. Ele é um RPG com uma história envolvente e gráficos comparáveis aos vistos no SNes e no MegaDrive.&lt;/p&gt;
 &lt;/blockquote&gt;

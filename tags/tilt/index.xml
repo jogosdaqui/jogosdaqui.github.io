@@ -3,33 +3,11 @@
  <title>jogosdaqui - tilt</title>
  <link href="//tags/tilt/index.xml" rel="self"/>
  <link href="/tag/tilt.html"/>
- <updated>2018-11-17T16:50:04-02:00</updated>
+ <updated>2018-11-20T17:11:22-02:00</updated>
  <id>/tag/tilt.html</id>
  <author>
    <name>jogosdaqui</name>
  </author>
- 
- <entry>
-   <title>Horizon Chase se aproxima do grid de largada</title>
-   <link href="//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada"/>
-   <updated>2015-08-14T00:00:00-03:00</updated>
-   <id>//2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada</id>
-   <content type="html">&lt;p&gt;Depois de 5 meses de desenvolvimento o tão esperado game de corrida retrô da &lt;a href=&quot;http://www.aquiris.com.br/&quot;&gt;Aquiris Game Studio&lt;/a&gt; á tem data de lançamento e é pra logo: no dia 20 de agosto os sortudos donos de iOS poderão apreciar Horizon Chase em primeira mão.&lt;/p&gt;
-
-&lt;p&gt;Segundo a gamedev gaúcha, Horizon Chase será um jogo premium, contendo 8 copas, 32 cidades, 73 pistas e 16 carros desbloqueáveis.&lt;/p&gt;
-
-&lt;p&gt;E pra quem sempre torce o nariz pra games de corrida em telas touch, a Aquiris criou 7 métodos diferentes de controle para cada estilo de jogo, tento desde controle por tilt até joystick bluetooth.&lt;/p&gt;
-
-&lt;p&gt;A equipe de desenvolvimento do game também está trabalhando numa versão PC, mas que ainda não tem data definida de lançamento. Fora o PC, o jogo poderá ser lançado para consoles. Donos de PS4 e Xbox One, cruzem os dedos.&lt;/p&gt;
-
-&lt;p&gt;Horizon Chase chega na App Store dia 20 de Agosto por apenas de $ 2,99.&lt;/p&gt;
-
-&lt;h2 id=&quot;trailer-de-lançamento-de-horizon-chase&quot;&gt;Trailer de lançamento de Horizon Chase&lt;/h2&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/HQDVSRmhiP0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-</content>
- </entry>
  
  <entry>
    <title>Checkpoint #9</title>
@@ -82,8 +60,7 @@
    <link href="//2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura"/>
    <updated>2015-06-02T00:00:00-03:00</updated>
    <id>//2015/06/02/club-tilt-renato-degiovani-fala-sobre-a-abertura</id>
-   <content type="html">&lt;p&gt;Renato Degiovani, primeiro projetista de jogos brasileiro anunciou recentemente a abertura do &lt;a href=&quot;http://www.clubtilt.net/&quot; target=&quot;_blank&quot;&gt;club TILT&lt;/a&gt;
- para o público. Entramos em contato com o Degiovani para falar um pouco sobre o assunto. Confira:&lt;/p&gt;
+   <content type="html">&lt;p&gt;Renato Degiovani, primeiro projetista de jogos brasileiro anunciou recentemente a abertura do &lt;a href=&quot;http://www.clubtilt.net/&quot;&gt;club TILT&lt;/a&gt; para o público. Entramos em contato com o Degiovani para falar um pouco sobre o assunto. Confira:&lt;/p&gt;
 
 &lt;h2 id=&quot;para-contextualizar-o-leitor-fale-nos-um-pouco-sobre-o-que-é-o-club-tilt&quot;&gt;Para contextualizar o leitor, fale-nos um pouco sobre o que é o club TILT?&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -100,9 +77,6 @@
   &lt;p&gt;Renato Degiovani: O público alvo do club sempre foi um tipo específico de usuário de computador. Aquela pessoa que gosta e curte programação, que gosta de edição gráfica e principalmente que gosta de imaginar e criar mundos diversos e transformá-los em entretenimento ou jogos, não apenas para si mesmo como para compartilhar com os amigos.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;[caption id=”attachment_4012” align=”aligncenter” width=”400”]
- Amazônia, um dos clássicos adventures disponbível no club TILT[/caption]&lt;/p&gt;
-
 &lt;h2 id=&quot;que-tipos-de-materiais-e-jogos-o-usuário-pode-encontrar-no-club&quot;&gt;Que tipos de materiais e jogos o usuário pode encontrar no Club?&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Renato Degiovani: Todos os jogos e matérias técnicas do club foram produzidos especificamente para ele e relacionam-se com o conceito de programação simples e divertida, daí a escolha do Delphi como ferramenta principal dessas produções. Dessa forma, o leitor encontra nas páginas do club muita programação em object pascal e projetos de jogos que ele pode adaptar ou modificar à vontade (a maioria dos projetos tem os fontes incluídos).&lt;/p&gt;
@@ -113,8 +87,7 @@
   &lt;p&gt;Renato Degiovani: O modelo de assinatura paga, para ser mantido, exigiria um investimento razoavelmente alto para adaptar o club às novas tendências de ambientes e ferramentas de programação. Por outro lado, apenas “fechar” o club e deletar o material que foi produzido ao longo de quase 20 anos pareceu não fazer sentido algum. Então resolvi contratar uma hospedagem específica para manter esse material na rede, não apenas como registro de uma parte da produção nacional de conteúdo sobre jogos, como para servir ainda para todos aqueles que gostam da programação aplicada na criação de jogos.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Ficou interessado? Então acesse o &lt;a href=&quot;http://www.clubtilt.net/&quot; target=&quot;_blank&quot;&gt;club Tilt&lt;/a&gt;
- e divirta-se!&lt;/p&gt;
+&lt;p&gt;Ficou interessado? Então acesse o &lt;a href=&quot;http://www.clubtilt.net/&quot;&gt;club Tilt&lt;/a&gt; e divirta-se!&lt;/p&gt;
 </content>
  </entry>
  
@@ -195,9 +168,9 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
    <link href="//2006/05/10/egr-ecossistema-de-games-do-recife"/>
    <updated>2006-05-10T00:00:00-03:00</updated>
    <id>//2006/05/10/egr-ecossistema-de-games-do-recife</id>
-   <content type="html">&lt;p&gt;&lt;big&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Vai acontecer dia 20 de maio,  das 10 &amp;aacute;s 14 horas a EGR (Ecossistema de games do Recife), o primeiro evento  relacionado a desenvolvimento de jogos no Recife. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot; style=&quot;font-weight: bold;&quot;&gt;&lt;big&gt;Como vai  funcionar? &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;O evento ter&amp;aacute; uma dura&amp;ccedil;&amp;atilde;o de 4h, onde algumas empresas  de Recife ir&amp;atilde;o falar um pouco sobre seu dia a dia, sobre ferramentas,  tecnologias e etc. O evento tamb&amp;eacute;m abranger&amp;aacute; um pouco sobre a historia das  empresas de desenvolvimento de em Recife e falar um pouco a respeito do  lan&amp;ccedil;amento de um curso t&amp;eacute;cnico sobre desenvolvimento de jogos, que em parceria  com o Ibratec estar&amp;aacute; comecando a partir de Agosto. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot; style=&quot;font-weight: bold;&quot;&gt;&lt;big&gt;Onde vai  ser? &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Na Livraria Cultura, Bairro do Recife (Ao lado do Pa&amp;ccedil;o  Alfandega).&lt;br /&gt;20 de Maio, das 10 &amp;aacute;s 14hs.&lt;br /&gt;&lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Estar&amp;aacute;  palestrando pessoas como: Geber Ramalho (CIn-UFPE), Claudio Lins (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=45&quot;&gt;Preloud&lt;/a&gt;
-),  Scylla Costa (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=43&quot;&gt;Jynx&lt;/a&gt;
-), Mauricio Carvalho (ICORP), Mabuse (CESAR), Pedro Henrique  (&lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idd=41&quot;&gt;Meantime&lt;/a&gt;
+   <content type="html">&lt;p&gt;&lt;big&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Vai acontecer dia 20 de maio,  das 10 &amp;aacute;s 14 horas a EGR (Ecossistema de games do Recife), o primeiro evento  relacionado a desenvolvimento de jogos no Recife. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot; style=&quot;font-weight: bold;&quot;&gt;&lt;big&gt;Como vai  funcionar? &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;O evento ter&amp;aacute; uma dura&amp;ccedil;&amp;atilde;o de 4h, onde algumas empresas  de Recife ir&amp;atilde;o falar um pouco sobre seu dia a dia, sobre ferramentas,  tecnologias e etc. O evento tamb&amp;eacute;m abranger&amp;aacute; um pouco sobre a historia das  empresas de desenvolvimento de em Recife e falar um pouco a respeito do  lan&amp;ccedil;amento de um curso t&amp;eacute;cnico sobre desenvolvimento de jogos, que em parceria  com o Ibratec estar&amp;aacute; comecando a partir de Agosto. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot; style=&quot;font-weight: bold;&quot;&gt;&lt;big&gt;Onde vai  ser? &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Na Livraria Cultura, Bairro do Recife (Ao lado do Pa&amp;ccedil;o  Alfandega).&lt;br /&gt;20 de Maio, das 10 &amp;aacute;s 14hs.&lt;br /&gt;&lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Estar&amp;aacute;  palestrando pessoas como: Geber Ramalho (CIn-UFPE), Claudio Lins (Preloud
+),  Scylla Costa (Jynx
+), Mauricio Carvalho (ICORP), Mabuse (CESAR), Pedro Henrique  (Meantime
 ), Gustavo Carvalho (Ludusware), Vicente Vieira (Manifesto), Kliff  Harley (Tilt Mobile) e etc. &lt;/big&gt;&lt;/font&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; face=&quot;Arial&quot; color=&quot;#000000&quot;&gt;&lt;big&gt;Lembrando que o evento &amp;eacute;  gratuito.&lt;/big&gt;&lt;/font&gt;&lt;/big&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -207,9 +180,9 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
    <link href="//2006/03/02/showroom-interativo-para-os-jogos-nacionais"/>
    <updated>2006-03-02T00:00:00-03:00</updated>
    <id>//2006/03/02/showroom-interativo-para-os-jogos-nacionais</id>
-   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
- acaba de lançar um projeto que tem por finalidade ser um showroom dos jogos nacionais. &lt;br /&gt;O showroom utilizará os mesmos recursos dos &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=2&quot;&gt;adventures&lt;/a&gt;
- interativos da empresa para apresentar os jogos de desenvolvedores nacionais.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=285&quot;&gt;Mais detalhes … &lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;A TILT online
+ acaba de lançar um projeto que tem por finalidade ser um showroom dos jogos nacionais. &lt;br /&gt;O showroom utilizará os mesmos recursos dos adventures
+ interativos da empresa para apresentar os jogos de desenvolvedores nacionais.&lt;br /&gt;&lt;br /&gt;Mais detalhes …&lt;/p&gt;
 
 </content>
  </entry>
@@ -219,8 +192,8 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
    <link href="//2006/03/02/mostra-permanente-de-jogos-e-projetos-brasileiros"/>
    <updated>2006-03-02T00:00:00-03:00</updated>
    <id>//2006/03/02/mostra-permanente-de-jogos-e-projetos-brasileiros</id>
-   <content type="html">&lt;p&gt;Está saindo do forno mais um projeto especial da &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
-, que reúne o lançamento dos novos recursos do sistema de &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idc=2&quot;&gt;adventures&lt;/a&gt;
+   <content type="html">&lt;p&gt;Está saindo do forno mais um projeto especial da TILT online
+, que reúne o lançamento dos novos recursos do sistema de adventures
  interativos, com a idéia de divulgação dos jogos nacionais em um modelo de jogo.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;Desta forma, cada jogo pode ter a sua sala ou showroom, linkando as páginas oficiais e tudo mais que a criatividade do produtor inventar. Os recursos do sistema de adventures interativos podem ser explorados ao máximo, com o propósito de chamar a atenção dos usuários para a produção nacional.&lt;br /&gt;&lt;br /&gt;Se você produz jogos, tem uma equipe de produção, empresa ou é um autor independente, não pode ficar de fora deste projeto. Lembre-se que a divulgação do seu trabalho é a única forma de obter um retorno no mercado.&lt;br /&gt;&lt;br /&gt;Para mais detalhes do projeto, acessa a página:&lt;br /&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.tilt.net/adv/gamesbr/index.htm&quot;&gt;http://www.tilt.net/adv/gamesbr/index.htm&lt;/a&gt;
@@ -234,9 +207,9 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
    <link href="//2006/02/11/tilt-online-fecha-parceria"/>
    <updated>2006-02-11T00:00:00-02:00</updated>
    <id>//2006/02/11/tilt-online-fecha-parceria</id>
-   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
+   <content type="html">&lt;p&gt;A TILT online
  fechou parceria com o site &lt;a href=&quot;http://www.minimidia.com.br&quot; target=&quot;_blank&quot;&gt;Minimidia&lt;/a&gt;
-. A iniciativa pretende auxiliar na divulgação de jogos em desenvolvimento e sites relacionados a produção de jogos no Brasil.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=267&quot;&gt;Leia mais…&lt;/a&gt;&lt;/p&gt;
+. A iniciativa pretende auxiliar na divulgação de jogos em desenvolvimento e sites relacionados a produção de jogos no Brasil.&lt;br /&gt;&lt;br /&gt;Leia mais…&lt;/p&gt;
 
 </content>
  </entry>
@@ -259,8 +232,8 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
    <link href="//2006/01/24/tilt-abre-jogo-comercial"/>
    <updated>2006-01-24T00:00:00-02:00</updated>
    <id>//2006/01/24/tilt-abre-jogo-comercial</id>
-   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
- inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.&lt;br /&gt;&lt;br /&gt;Para o lançamento da nova seção, a TILT disponibilzou o fonte de um jogo lançado em 1992.&lt;br /&gt;&lt;br /&gt;Essa é para quem, além de jogar, gosta de fazer seus próprios jogos.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/index.php?p=c&amp;amp;id=245&quot;&gt;Leia mais ….&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;A TILT online
+ inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.&lt;br /&gt;&lt;br /&gt;Para o lançamento da nova seção, a TILT disponibilzou o fonte de um jogo lançado em 1992.&lt;br /&gt;&lt;br /&gt;Essa é para quem, além de jogar, gosta de fazer seus próprios jogos.&lt;br /&gt;&lt;br /&gt;Leia mais ….&lt;/p&gt;
 
 </content>
  </entry>
@@ -270,7 +243,7 @@ Depois de longos e tenebrosos anos militando na área de criação e desenvolvim
    <link href="//2006/01/24/tilt-abre-jogo-comercial-feito-em-assembly"/>
    <updated>2006-01-24T00:00:00-02:00</updated>
    <id>//2006/01/24/tilt-abre-jogo-comercial-feito-em-assembly</id>
-   <content type="html">&lt;p&gt;A &lt;a href=&quot;/index.php?p=cl&amp;amp;t=19&amp;amp;idu=29&quot;&gt;TILT online&lt;/a&gt;
+   <content type="html">&lt;p&gt;A TILT online
  inaugurou hoje uma nova seção, chamada passo-a-passo. É uma seção dedicada a projetos específicos de programação e construção de protótipos de jogos em Delphi.&lt;br /&gt;&lt;br /&gt;A seção pertence ao club TILT porém todas as novas páginas dos projetos ficarão disponíveis para os não assinantes por um tempo. Assim, quem quiser acompanhar, tem que ficar atento. Os assinantes terão todo o&lt;br /&gt;material à sua disposição o tempo todo.&lt;br /&gt;&lt;br /&gt;A seção foi inaugurada com dois projetos: Ataque Aéreo, que é um modelo e protótipo para experimentar controles do veículo principal do jogador, cenários com scroll paralax e Nautilus, criado totalmente em assembly (no final do ano de 1992 e lançado comercialmente pela editora PRO KIT no ano seguinte) e que agora vai ser aberto não apenas para mostrar como um jogo asm completo é feito, mas também como seria o seu port para uma mescla de Delphi/Asm e em seguida como seria a versão 100% Delphi, partindo do zero.&lt;br /&gt;&lt;br /&gt;Para quem gosta de programação é um prato cheio.&lt;br /&gt;&lt;br /&gt;Veja mais detalhes em &lt;a target=&quot;_blank&quot; href=&quot;http://www.tilt.net&quot;&gt;www.tilt.net&lt;/a&gt;
  .&lt;/p&gt;
 </content>
