@@ -65,7 +65,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2018-11-14T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2018/11/14/blazing-chrome-vai-desafiar-jogadores"},"@type":"BlogPosting","url":"/2018/11/14/blazing-chrome-vai-desafiar-jogadores","headline":"Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019","dateModified":"2018-11-14T00:00:00-02:00","datePublished":"2018-11-14T00:00:00-02:00","author":{"@type":"Person","name":"Joymasher"},"description":"Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Joymasher"},"@type":"BlogPosting","url":"/2018/11/14/blazing-chrome-vai-desafiar-jogadores","headline":"Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019","dateModified":"2018-11-14T00:00:00-02:00","datePublished":"2018-11-14T00:00:00-02:00","description":"Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas","mainEntityOfPage":{"@type":"WebPage","@id":"/2018/11/14/blazing-chrome-vai-desafiar-jogadores"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -102,20 +102,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -174,8 +169,14 @@
  </center>
     
     
-<div class="post-info"><i class="fas fa-pen-square"></i> Post por Joymasher em colaboração para o jogosdaqui.</div>
+    
+        <div class="post-info"><i class="fas fa-newspaper"></i>  Notícia sobre Joymasher.</div>
+    
 
+    
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Joymasher.</div>
+
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <blockquote>
   <p>Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas</p>
 </blockquote>
@@ -262,10 +263,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

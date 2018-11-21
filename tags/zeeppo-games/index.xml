@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>jogosdaqui - zeeppo</title>
- <link href="//tags/zeeppo/index.xml" rel="self"/>
- <link href="/tag/zeeppo.html"/>
- <updated>2018-11-20T17:11:22-02:00</updated>
- <id>/tag/zeeppo.html</id>
+ <title>jogosdaqui - zeeppo-games</title>
+ <link href="//tags/zeeppo-games/index.xml" rel="self"/>
+ <link href="/tag/zeeppo-games.html"/>
+ <updated>2018-11-21T14:23:27-02:00</updated>
+ <id>/tag/zeeppo-games.html</id>
  <author>
    <name>jogosdaqui</name>
  </author>
@@ -20,8 +20,7 @@
 
 &lt;h2 id=&quot;rock-life&quot;&gt;Rock Life&lt;/h2&gt;
 
-&lt;p&gt;E com Rock Life da &lt;a href=&quot;http://zeeppo.com&quot; target=&quot;_blank&quot;&gt;Zeeppo Games&lt;/a&gt;
-, o sonho pode se tornar realidade. O jogo da gamedev porto-alegrense traz o gameplay de games consagrados como Guitar Hero e Rock Band para as telas touch de celulares e tablets.&lt;/p&gt;
+&lt;p&gt;E com Rock Life da &lt;a href=&quot;http://zeeppo.com&quot;&gt;Zeeppo Games&lt;/a&gt;, o sonho pode se tornar realidade. O jogo da gamedev porto-alegrense traz o gameplay de games consagrados como Guitar Hero e Rock Band para as telas touch de celulares e tablets.&lt;/p&gt;
 
 &lt;p&gt;No game o jogador poderá criar sua própria banda e escolher a guitarra dentre as dezenas disponíveis.&lt;/p&gt;
 
@@ -32,12 +31,12 @@
 &lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
 &lt;p&gt;Rock Life é um game gratuito com in-app purchases que já atingiu mais de 3 milhões de downloads no mundo inteiro.&lt;/p&gt;
 
-&lt;p&gt;Está disponível para:
-iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot; target=&quot;_blank&quot;&gt;https://itunes.apple.com/app/id707892944&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Android: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.Zeeppo.RockLife&quot; target=&quot;_blank&quot;&gt;https://play.google.com/store/apps/details?id=com.Zeeppo.RockLife&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Windows Phone: &lt;a href=&quot;http://windowsphone.com/s?appid=caa78cc2-a540-4156-9865-b6e2b5c3aefc&quot; target=&quot;_blank&quot;&gt;http://windowsphone.com/s?appid=caa78cc2-a540-4156-9865-b6e2b5c3aefc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Está disponível para:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;iOS: &lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot;&gt;https://itunes.apple.com/app/id707892944&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Android: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.Zeeppo.RockLife&quot;&gt;https://play.google.com/store/apps/details?id=com.Zeeppo.RockLife&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Windows Phone: &lt;a href=&quot;http://windowsphone.com/s?appid=caa78cc2-a540-4156-9865-b6e2b5c3aefc&quot;&gt;http://windowsphone.com/s?appid=caa78cc2-a540-4156-9865-b6e2b5c3aefc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  

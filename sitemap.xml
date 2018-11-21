@@ -2421,7 +2421,7 @@
 <lastmod>2015-05-14T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games</loc>
+<loc>/2015/05/14/starlit-adventures</loc>
 <lastmod>2015-05-14T00:00:00-03:00</lastmod>
 </url>
 <url>
@@ -2773,8 +2773,8 @@
 <lastmod>2018-11-14T00:00:00-02:00</lastmod>
 </url>
 <url>
-<loc>/2018/11/15/jogosdaqui-open-source-e-colaborativo</loc>
-<lastmod>2018-11-15T00:00:00-02:00</lastmod>
+<loc>/2018/11/21/jogosdaqui-open-source-e-colaborativo</loc>
+<lastmod>2018-11-21T00:00:00-02:00</lastmod>
 </url>
 <url>
 <loc>/404</loc>
@@ -3548,13 +3548,16 @@
 <loc>/tags/column/</loc>
 </url>
 <url>
+<loc>/tags/unity3d/</loc>
+</url>
+<url>
 <loc>/tags/overlord-game-studio/</loc>
 </url>
 <url>
 <loc>/tags/santa-catarina/</loc>
 </url>
 <url>
-<loc>/tags/zeeppo/</loc>
+<loc>/tags/zeeppo-games/</loc>
 </url>
 <url>
 <loc>/tags/black-river-studios/</loc>
@@ -3891,6 +3894,9 @@
 </url>
 <url>
 <loc>/jogos/20/</loc>
+</url>
+<url>
+<loc>/jogos/21/</loc>
 </url>
 <url>
 <loc>/noticias/</loc>

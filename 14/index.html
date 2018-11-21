@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -318,7 +313,7 @@
   
  </center>
     
-    A Cyber Rhino Studios , de Florianópolis, lançou no ano passado uma campanha no Kickstarter para tornar o seu Gryphon Knight Epic, um medieval shmup, em realidade. Pouco tempo depois o game recebeu o Greenlight no Steam. Atualmente o game está em versão Alpha na plataforma da Valve e a...
+    A Cyber Rhino Studios, de Florianópolis, lançou no ano passado uma campanha no Kickstarter para tornar o seu Gryphon Knight Epic, um medieval shmup, em realidade. Pouco tempo depois o game recebeu o Greenlight no Steam. Atualmente o game está em versão Alpha na plataforma da Valve e a previsão...
     </div>
 
     <a href="/2015/04/09/previa-de-gryphon-knight-epic" class="read-more">Leia mais</a>
@@ -514,10 +509,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

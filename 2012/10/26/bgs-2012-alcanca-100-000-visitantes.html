@@ -63,6 +63,7 @@ Veja o gráfico da evolução do público da feira desde 2009.
 <title>BGS 2012 alcança 100.000 visitantes | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="BGS 2012 alcança 100.000 visitantes" />
+<meta name="author" content="Diego Giacomelli" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Dia 19 de outubro a organização da BGS (Brasil Game Show) liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina. Em 2012 a feira superou os 100.000 visitantes e movimentou por volta de R$ 50 milhões em negócios durante os 4 dias de exposição no Expo Center em São Paulo. Veja o gráfico da evolução do público da feira desde 2009." />
 <meta property="og:description" content="Dia 19 de outubro a organização da BGS (Brasil Game Show) liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina. Em 2012 a feira superou os 100.000 visitantes e movimentou por volta de R$ 50 milhões em negócios durante os 4 dias de exposição no Expo Center em São Paulo. Veja o gráfico da evolução do público da feira desde 2009." />
@@ -70,7 +71,7 @@ Veja o gráfico da evolução do público da feira desde 2009.
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2012-10-26T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2012/10/26/bgs-2012-alcanca-100-000-visitantes"},"@type":"BlogPosting","url":"/2012/10/26/bgs-2012-alcanca-100-000-visitantes","headline":"BGS 2012 alcança 100.000 visitantes","dateModified":"2012-10-26T00:00:00-02:00","datePublished":"2012-10-26T00:00:00-02:00","description":"Dia 19 de outubro a organização da BGS (Brasil Game Show) liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina. Em 2012 a feira superou os 100.000 visitantes e movimentou por volta de R$ 50 milhões em negócios durante os 4 dias de exposição no Expo Center em São Paulo. Veja o gráfico da evolução do público da feira desde 2009.","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Diego Giacomelli"},"@type":"BlogPosting","url":"/2012/10/26/bgs-2012-alcanca-100-000-visitantes","headline":"BGS 2012 alcança 100.000 visitantes","dateModified":"2012-10-26T00:00:00-02:00","datePublished":"2012-10-26T00:00:00-02:00","description":"Dia 19 de outubro a organização da BGS (Brasil Game Show) liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina. Em 2012 a feira superou os 100.000 visitantes e movimentou por volta de R$ 50 milhões em negócios durante os 4 dias de exposição no Expo Center em São Paulo. Veja o gráfico da evolução do público da feira desde 2009.","mainEntityOfPage":{"@type":"WebPage","@id":"/2012/10/26/bgs-2012-alcanca-100-000-visitantes"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -107,20 +108,15 @@ Veja o gráfico da evolução do público da feira desde 2009.
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -176,6 +172,9 @@ Veja o gráfico da evolução do público da feira desde 2009.
  </center>
     
     
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Diego Giacomelli.</div>
+
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Dia 19 de outubro a organização da <a href="http://www.brasilgameshow.com.br " target="_blank">BGS (Brasil Game Show)</a> liberou os números da 5ª edição da feira que é considerada a maior do gênero na América Latina.</p>
 
 <p>Em 2012 a feira superou os <strong>100.000 visitantes</strong>  e movimentou por volta de<strong> R$ 50 milhões</strong> em negócios durante os 4 dias de exposição no Expo Center em São Paulo.</p>
@@ -244,10 +243,10 @@ Veja o gráfico da evolução do público da feira desde 2009.
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

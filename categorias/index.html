@@ -87,20 +87,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -148,7 +143,7 @@
         
             <li><a href="/2015/05/20/sky-high-chickens">Sky High Chickens</a></li>
         
-            <li><a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games">Starlit Adventures</a></li>
+            <li><a href="/2015/05/14/starlit-adventures">Starlit Adventures</a></li>
         
             <li><a href="/2015/05/13/space-lander">Space Lander</a></li>
         
@@ -173,6 +168,8 @@
             <li><a href="/2013/04/11/heist-and-run">Heist and Run</a></li>
         
             <li><a href="/2013/04/08/luke-at-the-stars">Luke at the Stars</a></li>
+        
+            <li><a href="/2013/03/21/c-bot">C-Bot</a></li>
         
             <li><a href="/2013/03/18/esquadrao-patada">Esquadrão Patada</a></li>
         
@@ -522,7 +519,7 @@
         <li><a name="News">News</a>
         <ul>
         
-            <li><a href="/2018/11/15/jogosdaqui-open-source-e-colaborativo">jogosdaqui: open source e colaborativo</a></li>
+            <li><a href="/2018/11/21/jogosdaqui-open-source-e-colaborativo">jogosdaqui: open source e colaborativo</a></li>
         
             <li><a href="/2018/11/14/blazing-chrome-vai-desafiar-jogadores">Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</a></li>
         
@@ -573,6 +570,8 @@
             <li><a href="/2015/06/30/souking-nova-loja-de-games-brasileiros">Souking, nova loja de games brasileiros</a></li>
         
             <li><a href="/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica">Lançada versão PC de Carcará - Asas da Justiça</a></li>
+        
+            <li><a href="/2015/06/09/conheca-os-games-selecionados-no-big-starter">Conheça os games selecionados no BIG Starter 2015</a></li>
         
             <li><a href="/2015/06/05/playthrough-chroma-squad-tactical-rpg-002">Playthrough Chroma Squad - Tactical RPG #002</a></li>
         
@@ -711,8 +710,6 @@
             <li><a href="/2013/04/15/favela-wars-entra-em-fase-beta">Favela Wars entra em fase beta</a></li>
         
             <li><a href="/2013/04/04/e-ai-game-e-cultura">E aí, Game é Cultura?</a></li>
-        
-            <li><a href="/2013/03/21/c-bot">C-Bot</a></li>
         
             <li><a href="/2013/03/11/crazy-bitsy-spider-kids-mode">Crazy Bitsy Spider - Kids Mode</a></li>
         
@@ -1350,8 +1347,6 @@
         
             <li><a href="/2015/06/10/previa-de-my-night-job-da-webcore-games">Prévia de My Night Job da Webcore Games</a></li>
         
-            <li><a href="/2015/06/09/conheca-os-games-selecionados-no-big-starter">Conheça os games selecionados no BIG Starter 2015</a></li>
-        
             <li><a href="/2015/05/26/previa-de-alkimya-da-bad-minions">Prévia de Alkimya da Bad Minions</a></li>
         
             <li><a href="/2015/05/19/previa-de-cannibal-da-gametek">Prévia de Cannibal da GameTek</a></li>
@@ -1553,10 +1548,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

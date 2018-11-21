@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -177,7 +172,7 @@
   
  </center>
     
-    A Preloud anuncia o lan&ccedil;amento do jogo Lissy &ndash; Und Ihre Freunde, adventure 3D para o mercado infantil de l&iacute;ngua alem&atilde; . O jogo foi lan&ccedil;ado, atrav&eacute;s da Caipirinha Games , na Alemanha, Su&iacute;&ccedil;a e &Aacute;ustria e tem lan&ccedil;amento previsto para mar&ccedil;o e abril na Fran&ccedil;a e Holanda. Al&eacute;m de...
+    A Preloud anuncia o lançamento do jogo Lissy - Und Ihre Freunde, adventure 3D para o mercado infantil de língua alemã . O jogo foi lançado, através da Caipirinha Games , na Alemanha, Suíça e Áustria e tem lançamento previsto para março e abril na França e Holanda. Além de...
     </div>
 
     <a href="/2006/03/14/lissy-novo-jogo-da-preloud" class="read-more">Leia mais</a>
@@ -325,7 +320,7 @@
   
  </center>
     
-    Winguel , o simp&aacute;tico alien&iacute;gena da Espa&ccedil;o Inform&aacute;tica deve ser lan&ccedil;ado oficialmente. O lan&ccedil;amento acontecer&aacute; em poucos dias na Alemanha, Austria e Su&iacute;&ccedil;a. Tamb&eacute;m est&aacute; previsto o lan&ccedil;amento para o Reino Unido nas pr&oacute;ximas semanas.Winguel ganhar&aacute; um novo nome para o mercado europeu: Mars to Earth. E na Alemanha se...
+    Winguel , o simpático alienígena da Espaço Informática deve ser lançado oficialmente. O lançamento acontecerá em poucos dias na Alemanha, Austria e Suíça. Também está previsto o lançamento para o Reino Unido nas próximas semanas.Winguel ganhará um novo nome para o mercado europeu: Mars to Earth. E na Alemanha se...
     </div>
 
     <a href="/2006/03/06/winguel-na-europa-mars-to-earth" class="read-more">Leia mais</a>
@@ -346,7 +341,7 @@
   
  </center>
     
-    Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior "Você joga algum MMORPG?", o resultado foi: 30,23 % - Sim, todos os dias 28,84 % - Sim, as vezes 15,35 % - N&atilde;o tenho tempo 15,35 % -...
+    Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior “Você joga algum MMORPG?”, o resultado foi: 30,23 % - Sim, todos os dias 28,84 % - Sim, as vezes 15,35 % - Não tenho tempo 15,35 % -...
     </div>
 
     <a href="/2006/03/06/nova-enquete" class="read-more">Leia mais</a>
@@ -391,10 +386,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

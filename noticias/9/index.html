@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -120,6 +115,30 @@
     
     <article class="post">
 
+    <h1><a href="/2014/04/28/dash-games">DASH GAMES</a></h1>
+
+    <div class="entry">
+     
+ 
+
+
+<center>
+  
+    
+      <img src="/assets/2014/04/28/dash-games/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    A Associação de Desenvolvedores de Jogos Digitais do Rio Grande do Sul - ADJOGOSRS apresenta, em cooperação com a BITS 2014, o DASH GAMES, evento que será realizado de 13 a 15 de maio de 2014, durante a feira de Tecnologia da Informação e da Comunicação, no Centro de Eventos...
+    </div>
+
+    <a href="/2014/04/28/dash-games" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
     <h1><a href="/2014/04/25/o-perfil-dos-jogadores">O perfil dos jogadores</a></h1>
 
     <div class="entry">
@@ -131,7 +150,7 @@
   
  </center>
     
-    O jogo &#233; uma atividade comum em todas as sociedades e culturas, e assim tem permanecido desde tempos imemoriais. Para a maioria das pessoas, esta atividade n&#227;o passa de um divertimento, uma op&#231;&#227;o de lazer, sem consequ&#234;ncias negativas de qualquer tipo. Diferentes estudos apontam para que entre 70% a 90%...
+    O jogo é uma atividade comum em todas as sociedades e culturas, e assim tem permanecido desde tempos imemoriais. Para a maioria das pessoas, esta atividade não passa de um divertimento, uma opção de lazer, sem consequências negativas de qualquer tipo. Diferentes estudos apontam para que entre 70% a 90%...
     </div>
 
     <a href="/2014/04/25/o-perfil-dos-jogadores" class="read-more">Leia mais</a>
@@ -186,6 +205,21 @@
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2013/06/10/soccer-free-kicks">Soccer Free Kicks</a></h1>
@@ -213,21 +247,6 @@
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -354,38 +373,10 @@
   
  </center>
     
-    "O Projeto Neumann consiste no desenvolvimento de um jogo para treinamento cognitivo de crianças e adolescentes com dificuldades de se concentrar, que os ajudará a controlar seus impulsos motores e comportamentais, educando-os a respeito do foco atencional e do planejamento e organização das suas tarefas cotidianas." Essa é apresentação do...
+    “O Projeto Neumann consiste no desenvolvimento de um jogo para treinamento cognitivo de crianças e adolescentes com dificuldades de se concentrar, que os ajudará a controlar seus impulsos motores e comportamentais, educando-os a respeito do foco atencional e do planejamento e organização das suas tarefas cotidianas.” Essa é apresentação do...
     </div>
 
     <a href="/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3" class="read-more">Leia mais</a>
-    </article>
-
-    
-    
-    <article class="post">
-
-    <h1><a href="/2013/05/02/mr-bree-no-greenlight">Mr. Bree+ no Greenlight</a></h1>
-
-    <div class="entry">
-     
- 
-
-
-<center>
-  
-    
-  
-    
-  
-    
-      <img src="/assets/2013/05/02/mr-bree-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Mr. Bree + é um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incrível aspecto visual e musical. São 60 níveis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a história do nosso herói, um porco fazendeiro, pai de família, o Mr....
-    </div>
-
-    <a href="/2013/05/02/mr-bree-no-greenlight" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -427,10 +418,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,57 +102,99 @@
 
     <div id="main" role="main" class="container">
       <h2>aquiris-game-studio</h2>
-<ul>
 
+
+
+  
+    
+    
+    <h3>Colunas</h3>
+    <ul>
+  
   <li><a href="/2015/09/14/imagens-da-semana-13">Imagens da semana #13</a> (14/09/2015)</li>
 
-  <li><a href="/2015/09/04/ballistic-overkill-devtalk-02">Ballistic Overkill - DevTalk #02</a> (04/09/2015)</li>
-
-  <li><a href="/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada">Horizon Chase se aproxima do grid de largada</a> (14/08/2015)</li>
-
-  <li><a href="/2015/07/31/teaser-de-gameplay-de-horizon-chase">Teaser de gameplay de Horizon Chase</a> (31/07/2015)</li>
-
+  
   <li><a href="/2015/06/22/imagens-da-semana-12">Imagens da semana #12</a> (22/06/2015)</li>
 
+  
   <li><a href="/2015/06/15/imagens-da-semana-11">Imagens da semana #11</a> (15/06/2015)</li>
 
+  
   <li><a href="/2015/06/11/checkpoint-9">Checkpoint #9</a> (11/06/2015)</li>
 
+  
   <li><a href="/2015/06/08/imagens-da-semana-10">Imagens da semana #10</a> (08/06/2015)</li>
 
+  
   <li><a href="/2015/06/01/imagens-da-semana-9">Imagens da semana #9</a> (01/06/2015)</li>
 
+  
   <li><a href="/2015/05/29/checkpoint-8">Checkpoint #8</a> (29/05/2015)</li>
 
+  
   <li><a href="/2015/05/25/imagens-da-semana-8">Imagens da semana #8</a> (25/05/2015)</li>
 
+  
   <li><a href="/2015/05/22/checkpoint-7">Checkpoint #7</a> (22/05/2015)</li>
 
-  <li><a href="/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game">Ballistic Overkill, desenvolvedores falam sobre o game</a> (22/05/2015)</li>
-
-  <li><a href="/2015/05/20/novidades-de-horizon-chase">Novidades de Horizon Chase</a> (20/05/2015)</li>
-
+  
   <li><a href="/2015/05/14/checkpoint-6">Checkpoint #6</a> (14/05/2015)</li>
 
-  <li><a href="/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio">Prévia de Horizon Chase da Aquiris Game Studio</a> (13/05/2015)</li>
-
+  
   <li><a href="/2015/05/11/imagens-da-semana-6">Imagens da semana #6</a> (11/05/2015)</li>
 
+  
   <li><a href="/2015/04/20/imagens-da-semana-3">Imagens da semana #3</a> (20/04/2015)</li>
 
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2015/09/04/ballistic-overkill-devtalk-02">Ballistic Overkill - DevTalk #02</a> (04/09/2015)</li>
+
+  
+  <li><a href="/2015/08/14/horizon-chase-se-aproxima-do-grid-de-largada">Horizon Chase se aproxima do grid de largada</a> (14/08/2015)</li>
+
+  
+  <li><a href="/2015/07/31/teaser-de-gameplay-de-horizon-chase">Teaser de gameplay de Horizon Chase</a> (31/07/2015)</li>
+
+  
+  <li><a href="/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game">Ballistic Overkill, desenvolvedores falam sobre o game</a> (22/05/2015)</li>
+
+  
+  <li><a href="/2015/05/20/novidades-de-horizon-chase">Novidades de Horizon Chase</a> (20/05/2015)</li>
+
+  
   <li><a href="/2014/05/12/game-da-aquiris-fazendo-bonito-na-app-store">Game da Aquiris fazendo bonito na App Store</a> (12/05/2014)</li>
 
+  
   <li><a href="/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store">Cartoon Network Superstar Soccer lançado na App Store</a> (08/05/2014)</li>
 
+  
   <li><a href="/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012">Resultado da enquete: "Quais games desenvolvidos no Brasil você jogou em 2012?"</a> (02/01/2013)</li>
 
+  
   <li><a href="/2012/11/14/ballistic-entra-em-fase-de-beta-teste-2">Ballistic entra em fase de beta teste</a> (14/11/2012)</li>
 
+  
   <li><a href="/2011/03/01/fps-da-aquiris-gx-em-fase-alpha">FPS da Aquiris gX em fase alpha</a> (01/03/2011)</li>
 
+  
   <li><a href="/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou">Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</a> (13/12/2010)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Prévias</h3>
+    <ul>
+  
+  <li><a href="/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio">Prévia de Horizon Chase da Aquiris Game Studio</a> (13/05/2015)</li>
 
     </div>
   
@@ -165,10 +202,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

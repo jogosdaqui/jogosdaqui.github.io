@@ -55,7 +55,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-06-28T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/06/28/petrakas-malabares"},"@type":"BlogPosting","url":"/2006/06/28/petrakas-malabares","headline":"Petrakas Malabares","dateModified":"2006-06-28T00:00:00-03:00","datePublished":"2006-06-28T00:00:00-03:00","description":"Em Petrakas Malabares o jogador se tornará um talentoso malabarista. O objetivo é controlar o personagem e tentar equilibrar o maior número de pedras no menor tempo possível, pois o jogador precisa ser rápido antes que o tempo acabe.Praticando malabarismo com um homem das cavernas, a diversão está garantida.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/06/28/petrakas-malabares","headline":"Petrakas Malabares","dateModified":"2006-06-28T00:00:00-03:00","datePublished":"2006-06-28T00:00:00-03:00","description":"Em Petrakas Malabares o jogador se tornará um talentoso malabarista. O objetivo é controlar o personagem e tentar equilibrar o maior número de pedras no menor tempo possível, pois o jogador precisa ser rápido antes que o tempo acabe.Praticando malabarismo com um homem das cavernas, a diversão está garantida.","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/06/28/petrakas-malabares"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,20 +92,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -165,9 +160,13 @@
       
  </center>
     
-<div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por SimpleWare Games.</div>
+    
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por SimpleWare Games.</div>
+    
 
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Em Petrakas Malabares o jogador se tornará um talentoso malabarista. O objetivo é controlar o personagem e tentar equilibrar o maior número de pedras no menor tempo possível, pois o jogador precisa ser rápido antes que o tempo acabe.<br /><br />Praticando malabarismo com um homem das cavernas, a diversão está garantida.</p>
 
     
@@ -265,10 +264,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

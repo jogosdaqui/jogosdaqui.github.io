@@ -67,7 +67,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-05-21T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual"},"@type":"BlogPosting","url":"/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual","headline":"Simulador VRUM, da Think Box, com realidade virtual","dateModified":"2015-05-21T00:00:00-03:00","datePublished":"2015-05-21T00:00:00-03:00","description":"A empresa brasileira Think Box está em fase de desenvolvimento para adicionar realidade virtual aplicado a motocicletas em seu simulador de trânsito VRUM , um software de simulação voltado a formação do condutor que está na autoescola. O simulador VRUM utiliza o mesmo framework de trânsito que a Think Box desenvolveu para o game VRUM - Aprendendo sobre o trânsito, game que trabalha cidadania no trânsito com crianças e jovens e foi matéria no jogosdaqui em 2012 .","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual","headline":"Simulador VRUM, da Think Box, com realidade virtual","dateModified":"2015-05-21T00:00:00-03:00","datePublished":"2015-05-21T00:00:00-03:00","description":"A empresa brasileira Think Box está em fase de desenvolvimento para adicionar realidade virtual aplicado a motocicletas em seu simulador de trânsito VRUM , um software de simulação voltado a formação do condutor que está na autoescola. O simulador VRUM utiliza o mesmo framework de trânsito que a Think Box desenvolveu para o game VRUM - Aprendendo sobre o trânsito, game que trabalha cidadania no trânsito com crianças e jovens e foi matéria no jogosdaqui em 2012 .","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -104,20 +104,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -174,6 +169,7 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A empresa brasileira <a href="http://www.thinkboxgames.com/" target="_blank">Think Box</a>
  está em fase de desenvolvimento para adicionar realidade virtual aplicado a motocicletas em seu <a href="http://www.simuladorvrum.com.br/" target="_blank">simulador de trânsito VRUM</a>
 , um software de simulação voltado a formação do condutor que está na autoescola. O simulador VRUM utiliza o mesmo framework de trânsito que a Think Box desenvolveu para o game VRUM - Aprendendo sobre o trânsito, game que  trabalha cidadania no trânsito com crianças e jovens e foi <a href="/2012/11/07/vrum-aprendendo-sobre-o-transito/">matéria no jogosdaqui em 2012</a>
@@ -258,10 +254,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

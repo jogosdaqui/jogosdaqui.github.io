@@ -82,7 +82,7 @@ Magic Master
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-07-06T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/07/06/crowdfunding-de-magic-master"},"@type":"BlogPosting","url":"/2015/07/06/crowdfunding-de-magic-master","headline":"Crowdfunding de Magic Master","dateModified":"2015-07-06T00:00:00-03:00","datePublished":"2015-07-06T00:00:00-03:00","description":"A mineira Mopix Games foi fundada em 2014 pelo professor de Jogos Digitais, Raoni Aldrich Dorim e tem um time composto por Alessandro Russo, programador e aluno de Dorim, e Marcelo Faria, diretor de marketing da empresa. O primeiro game da startup foi Pirate Clickers, lançado em mais de 130 países. Agora a empresa colocou seu novo projeto numa campanha de crowdfunding , estamos falando de Magic Master , um game que mistura elementos de tower defense e de beat’em up combinados com uma bela estética sombria. Magic Master É um jogo de muita ação e pancadaria que envolve combates frenéticos contra hordas de monstros, vale tudo para proteger a torre remanescente de Ukala (Raoni Dorim, CEO e game designer da Mopix Games)","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2015/07/06/crowdfunding-de-magic-master","headline":"Crowdfunding de Magic Master","dateModified":"2015-07-06T00:00:00-03:00","datePublished":"2015-07-06T00:00:00-03:00","description":"A mineira Mopix Games foi fundada em 2014 pelo professor de Jogos Digitais, Raoni Aldrich Dorim e tem um time composto por Alessandro Russo, programador e aluno de Dorim, e Marcelo Faria, diretor de marketing da empresa. O primeiro game da startup foi Pirate Clickers, lançado em mais de 130 países. Agora a empresa colocou seu novo projeto numa campanha de crowdfunding , estamos falando de Magic Master , um game que mistura elementos de tower defense e de beat’em up combinados com uma bela estética sombria. Magic Master É um jogo de muita ação e pancadaria que envolve combates frenéticos contra hordas de monstros, vale tudo para proteger a torre remanescente de Ukala (Raoni Dorim, CEO e game designer da Mopix Games)","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/07/06/crowdfunding-de-magic-master"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -119,20 +119,15 @@ Magic Master
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -207,6 +202,7 @@ Magic Master
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A mineira <a href="http://www.mopix.com.br" target="_blank">Mopix Games</a>
  foi fundada em 2014 pelo professor de Jogos Digitais, Raoni Aldrich Dorim e tem um time composto por Alessandro Russo, programador e aluno de Dorim, e Marcelo Faria, diretor de marketing da empresa. O primeiro game da startup foi Pirate Clickers, lançado em mais de 130 países. Agora a empresa colocou seu novo projeto numa <a href="http://www.kickante.com.br/campanhas/magic-master" target="_blank">campanha de crowdfunding</a>
 , estamos falando de <a href="http://www.kickante.com.br/campanhas/magic-master" target="_blank">Magic Master</a>
@@ -373,10 +369,10 @@ Magic Master
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

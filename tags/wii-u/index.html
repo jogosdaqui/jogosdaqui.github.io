@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,23 +102,41 @@
 
     <div id="main" role="main" class="container">
       <h2>wii-u</h2>
-<ul>
 
-  <li><a href="/2015/07/31/crowdfunding-de-99vidas-o-jogo">Crowdfunding de 99Vidas o jogo</a> (31/07/2015)</li>
 
+
+  
+    
+    
+    <h3>Entrevistas</h3>
+    <ul>
+  
   <li><a href="/2015/05/19/entrevista-fernando-paulo-criador-de-treeker">Entrevista: Fernando Paulo, criador de Treeker</a> (19/05/2015)</li>
 
-  <li><a href="/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits">Revelado novo game da QUByte Interactive: Recruits</a> (05/05/2015)</li>
-
-  <li><a href="/2015/04/30/qubyte-interactive-produzindo-novo-game">QUByte Interactive produzindo novo game</a> (30/04/2015)</li>
-
+  
   <li><a href="/2015/04/22/entrevista-claudio-lins">Entrevista: Claudio Lins</a> (22/04/2015)</li>
 
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2015/07/31/crowdfunding-de-99vidas-o-jogo">Crowdfunding de 99Vidas o jogo</a> (31/07/2015)</li>
+
+  
+  <li><a href="/2015/05/05/revelado-novo-game-da-qubyte-interactive-recruits">Revelado novo game da QUByte Interactive: Recruits</a> (05/05/2015)</li>
+
+  
+  <li><a href="/2015/04/30/qubyte-interactive-produzindo-novo-game">QUByte Interactive produzindo novo game</a> (30/04/2015)</li>
+
+  
   <li><a href="/2015/04/21/museu-do-videogame-itinerante">Museu do videogame Itinerante</a> (21/04/2015)</li>
 
+  
   <li><a href="/2014/06/05/splitplay-apresenta-bernie-needs-love">Splitplay apresenta: Bernie Needs Love</a> (05/06/2014)</li>
-
-</ul>
 
     </div>
   
@@ -131,10 +144,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -145,7 +140,7 @@
   
  </center>
     
-    Danger Mission é um jogo de tiro em 1ª pessoa que está sendo desenvolvido pela WD Studio. O jogo tem previsão de lançamento para o segundo semestre de 2006.A história do jogo começa quando um cientista é sequestrado por um grupo terrorista e obrigado a criar um vírus mortal e...
+    Danger Mission é um jogo de tiro em 1aª pessoa que está sendo desenvolvido pela WD Studio. O jogo tem previsão de lançamento para o segundo semestre de 2006.A história do jogo começa quando um cientista é sequestrado por um grupo terrorista e obrigado a criar um vírus mortal e...
     </div>
 
     <a href="/2006/02/21/danger-mission" class="read-more">Leia mais</a>
@@ -434,10 +429,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

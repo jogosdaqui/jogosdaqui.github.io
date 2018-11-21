@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -180,35 +175,6 @@
     
     <article class="post">
 
-    <h1><a href="/2015/06/09/conheca-os-games-selecionados-no-big-starter">Conheça os games selecionados no BIG Starter 2015</a></h1>
-
-    <div class="entry">
-     
- 
-
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    O BIG Festival, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games...
-    </div>
-
-    <a href="/2015/06/09/conheca-os-games-selecionados-no-big-starter" class="read-more">Leia mais</a>
-    </article>
-
-    
-    
-    <article class="post">
-
     <h1><a href="/2015/05/26/previa-de-alkimya-da-bad-minions">Prévia de Alkimya da Bad Minions</a></h1>
 
     <div class="entry">
@@ -251,21 +217,6 @@
 
     
     
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
-    
     <article class="post">
 
     <h1><a href="/2015/05/19/previa-de-cannibal-da-gametek">Prévia de Cannibal da GameTek</a></h1>
@@ -299,6 +250,21 @@
     </article>
 
     
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
     
     <article class="post">
 
@@ -445,10 +411,51 @@
   
  </center>
     
-    A Cyber Rhino Studios , de Florianópolis, lançou no ano passado uma campanha no Kickstarter para tornar o seu Gryphon Knight Epic, um medieval shmup, em realidade. Pouco tempo depois o game recebeu o Greenlight no Steam. Atualmente o game está em versão Alpha na plataforma da Valve e a...
+    A Cyber Rhino Studios, de Florianópolis, lançou no ano passado uma campanha no Kickstarter para tornar o seu Gryphon Knight Epic, um medieval shmup, em realidade. Pouco tempo depois o game recebeu o Greenlight no Steam. Atualmente o game está em versão Alpha na plataforma da Valve e a previsão...
     </div>
 
     <a href="/2015/04/09/previa-de-gryphon-knight-epic" class="read-more">Leia mais</a>
+    </article>
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/04/03/previa-de-turbolink">Prévia de TurboLink</a></h1>
+
+    <div class="entry">
+     
+ 
+
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    A equipe de desenvolvimento da Division Five entrou em contato conosco via Twitter falando sobre o game que estão desenvolvendo: TurboLink. Conhecer TurboLink foi uma grata surpresa, pois, apesar de ainda não termos posto as mãos no game, o vídeo e as imagens que temos dele já mostram que é...
+    </div>
+
+    <a href="/2015/04/03/previa-de-turbolink" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -490,10 +497,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

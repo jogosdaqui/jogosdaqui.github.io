@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -301,7 +296,7 @@
   
  </center>
     
-    Previsto para entrar no mercado na primeira semana de maio, Golden West - Bang! Bang! é o próximo RPG a ser lançado pela PalmSoft Tecnologia . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa.Mais detalhes…...
+    Previsto para entrar no mercado na primeira semana de maio, Golden West - Bang! Bang! é o próximo RPG a ser lançado pela PalmSoft Tecnologia . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa. Mais...
     </div>
 
     <a href="/2006/04/28/novidades-na-palmsoft" class="read-more">Leia mais</a>
@@ -364,7 +359,7 @@
   
  </center>
     
-    O jogo Bola de Gude , da ICON Games , recebeu o prêmio de "Jogo mais Original" do site Bytten (www.bytten.com ), especializado em jogos independentes.Segundo o site, Virtual Marbles, como é conhecido o jogo no exterior, demonstra que um jogo de bola de gude para PC pode ser uma...
+    O jogo Bola de Gude , da ICON Games , recebeu o prêmio de “Jogo mais Original” do site Bytten (www.bytten.com ), especializado em jogos independentes.Segundo o site, Virtual Marbles, como é conhecido o jogo no exterior, demonstra que um jogo de bola de gude para PC pode ser uma...
     </div>
 
     <a href="/2006/04/27/icon-games-ganha-premio-no-exterior" class="read-more">Leia mais</a>
@@ -406,10 +401,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

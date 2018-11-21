@@ -55,7 +55,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-03-13T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/13/aquadum"},"@type":"BlogPosting","url":"/2006/03/13/aquadum","headline":"Aquadum","dateModified":"2006-03-13T00:00:00-03:00","datePublished":"2006-03-13T00:00:00-03:00","description":"Um belo e colorido cenário subaquático e um desafio envolvente e crescente, essas são as combinações que fazem de Aquadum um ótimo jogo casual.A Decadium Studios se esmerou em vários pequenos detalhes do jogo, desde telas inicias até um dos fatores mais importantes de um bom jogo: a diversão. Com toda a certeza Aquadum é muito divertido, sua jogabilidade simples e intuitiva faz o jogador buscar rapidamente vencer as fases iniciais do jogo.Aquadum, como alguns outros jogos do gênero, é divido em três modos: Classic, Puzzle e Action. Em todos eles você deve girar pequenos canos e tentar ligar duas extremidades da tela, onde existem alguns objetos, porém cada modo possui uma forma e objetivo de jogo diferentes: Classic: no modo classic, a missão é limpar todos os níveis. Cada vez que objetos são conectados eles são eliminados o que possibilita que outros objetos se unam. Para fazer combos e ganhar muitos pontos, o jogador deve deixar três ou mais objetos iguais de cada lado juntos.Puzzle - neste modo, o jogador pode escolher a fase do quebra-cabeça. Aqui o jogador deve trocar os objetos de lado para colocá-los na ordem indicada.Action - neste modo a corrida é contra o tempo. O objetivo do modo action é unir o maior número de vezes os lados e no menor tempo possível.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/03/13/aquadum","headline":"Aquadum","dateModified":"2006-03-13T00:00:00-03:00","datePublished":"2006-03-13T00:00:00-03:00","description":"Um belo e colorido cenário subaquático e um desafio envolvente e crescente, essas são as combinações que fazem de Aquadum um ótimo jogo casual.A Decadium Studios se esmerou em vários pequenos detalhes do jogo, desde telas inicias até um dos fatores mais importantes de um bom jogo: a diversão. Com toda a certeza Aquadum é muito divertido, sua jogabilidade simples e intuitiva faz o jogador buscar rapidamente vencer as fases iniciais do jogo.Aquadum, como alguns outros jogos do gênero, é divido em três modos: Classic, Puzzle e Action. Em todos eles você deve girar pequenos canos e tentar ligar duas extremidades da tela, onde existem alguns objetos, porém cada modo possui uma forma e objetivo de jogo diferentes: Classic: no modo classic, a missão é limpar todos os níveis. Cada vez que objetos são conectados eles são eliminados o que possibilita que outros objetos se unam. Para fazer combos e ganhar muitos pontos, o jogador deve deixar três ou mais objetos iguais de cada lado juntos.Puzzle - neste modo, o jogador pode escolher a fase do quebra-cabeça. Aqui o jogador deve trocar os objetos de lado para colocá-los na ordem indicada.Action - neste modo a corrida é contra o tempo. O objetivo do modo action é unir o maior número de vezes os lados e no menor tempo possível.","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/13/aquadum"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,20 +92,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -177,9 +172,13 @@
       
  </center>
     
-<div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Decadium Studios.</div>
+    
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Decadium Studios.</div>
+    
 
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Um belo e colorido cenário subaquático e um desafio envolvente e crescente, essas são as combinações que fazem de Aquadum um ótimo jogo casual.<br /><br />A Decadium Studios se esmerou em vários pequenos detalhes do jogo, desde telas inicias até um dos fatores mais importantes de um bom jogo: a diversão. Com toda a certeza Aquadum é muito divertido, sua jogabilidade simples e intuitiva faz o jogador buscar rapidamente vencer as fases iniciais do jogo.<br /><br />Aquadum, como alguns outros jogos do gênero, é divido em três modos: Classic, Puzzle e Action. Em todos eles você deve girar pequenos canos e tentar ligar duas extremidades da tela, onde existem alguns objetos, porém cada modo possui uma forma e objetivo de jogo diferentes: <br /><br />Classic: no modo classic, a missão é limpar todos os níveis. Cada vez que objetos são conectados eles são eliminados o que possibilita que outros objetos se unam. Para fazer combos e ganhar muitos pontos, o jogador deve deixar três ou mais objetos iguais de cada lado juntos.<br /><br />Puzzle - neste modo, o jogador pode escolher a fase do quebra-cabeça. Aqui o jogador deve trocar os objetos de lado para colocá-los na ordem indicada.<br /><br />Action - neste modo a corrida é contra o tempo. O objetivo do modo action é unir o maior número de vezes os lados e no menor tempo possível.</p>
 
     
@@ -312,10 +311,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

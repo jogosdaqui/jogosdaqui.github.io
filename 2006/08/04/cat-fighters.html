@@ -55,7 +55,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-08-04T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/08/04/cat-fighters"},"@type":"BlogPosting","url":"/2006/08/04/cat-fighters","headline":"Cat Fighters","dateModified":"2006-08-04T00:00:00-03:00","datePublished":"2006-08-04T00:00:00-03:00","description":"A busca pelo Gato de Bastet - um artefato que pode trazer grandes poderes para seu possuidor - vai reunir as cinco aventureiras mais lindas do planeta em uma missão, onde o objetivo é capturar e proteger esta relíquia sagrada!O gosto por aventura é o que motiva as belas aventureiras a desafiarem umas as outras para conseguir o poderoso artefato.HistóriaTrevor Baynes, um milionário excêntrico, está em busca do poderoso Gato de Bastet; seus verdadeiros objetivos, porém, estão ocultos pela sua forte personalidade. Baynes contrata cinco mulheres para resolver este caso e oferece uma recompensa para quem trouxer a relíquia. Seu objetivo está traçado e sua busca começa agora!Características- 5 personagens de tirar o fôlego;- 5 cenários para completar sua viagem;- 2 modos de combate, incluindo o já clássico Modo Suicida;- Recordes on-line, para mostrar a todos seu grande potencial;- Desbloqueio de personagem ao fechar o jogo no nível difícil.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/08/04/cat-fighters","headline":"Cat Fighters","dateModified":"2006-08-04T00:00:00-03:00","datePublished":"2006-08-04T00:00:00-03:00","description":"A busca pelo Gato de Bastet - um artefato que pode trazer grandes poderes para seu possuidor - vai reunir as cinco aventureiras mais lindas do planeta em uma missão, onde o objetivo é capturar e proteger esta relíquia sagrada!O gosto por aventura é o que motiva as belas aventureiras a desafiarem umas as outras para conseguir o poderoso artefato.HistóriaTrevor Baynes, um milionário excêntrico, está em busca do poderoso Gato de Bastet; seus verdadeiros objetivos, porém, estão ocultos pela sua forte personalidade. Baynes contrata cinco mulheres para resolver este caso e oferece uma recompensa para quem trouxer a relíquia. Seu objetivo está traçado e sua busca começa agora!Características- 5 personagens de tirar o fôlego;- 5 cenários para completar sua viagem;- 2 modos de combate, incluindo o já clássico Modo Suicida;- Recordes on-line, para mostrar a todos seu grande potencial;- Desbloqueio de personagem ao fechar o jogo no nível difícil.","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/08/04/cat-fighters"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,20 +92,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -175,9 +170,13 @@
       
  </center>
     
-<div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por PalmSoft Tecnologia.</div>
+    
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por PalmSoft Tecnologia.</div>
+    
 
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A busca pelo Gato de Bastet - um artefato que pode trazer grandes poderes para seu possuidor - vai reunir as cinco aventureiras mais lindas do planeta em uma missão, onde o objetivo é capturar e proteger esta relíquia sagrada!<br />O gosto por aventura é o que motiva as belas aventureiras a desafiarem umas as outras para conseguir o poderoso artefato.<br /><br /><br /><span style="font-weight: bold;">História</span><br />Trevor Baynes, um milionário excêntrico, está em busca do poderoso Gato de Bastet; seus verdadeiros objetivos, porém, estão ocultos pela sua forte personalidade. Baynes contrata cinco mulheres para resolver este caso e oferece uma recompensa para quem trouxer a relíquia. Seu objetivo está traçado e sua busca começa agora!<br /><br /><br /><span style="font-weight: bold;">Características</span><br />- 5 personagens de tirar o fôlego;<br />- 5 cenários para completar sua viagem;<br />- 2 modos de combate, incluindo o já clássico Modo Suicida;<br />- Recordes on-line, para mostrar a todos seu grande potencial;<br />- Desbloqueio de personagem ao fechar o jogo no nível difícil.</p>
 
     
@@ -306,10 +305,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

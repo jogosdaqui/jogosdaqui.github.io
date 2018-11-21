@@ -14,21 +14,12 @@
     
     <meta name="description" content="Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos.
 
-Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará varias horas de diversão e sufoco para escapar das garras dos mais terríveis bandidos dos sete mares. Você precisará de muita agilidade e astúcia, além de uma boa dose de sorte para vencer neste poderoso game!
-
-Agora é com você marujo!
 " />
     <meta property="og:description" content="Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos.
 
-Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará varias horas de diversão e sufoco para escapar das garras dos mais terríveis bandidos dos sete mares. Você precisará de muita agilidade e astúcia, além de uma boa dose de sorte para vencer neste poderoso game!
-
-Agora é com você marujo!
 " />
     <meta name="twitter:description" content="Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos.
 
-Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará varias horas de diversão e sufoco para escapar das garras dos mais terríveis bandidos dos sete mares. Você precisará de muita agilidade e astúcia, além de uma boa dose de sorte para vencer neste poderoso game!
-
-Agora é com você marujo!
 " />
     
 
@@ -61,13 +52,13 @@ Agora é com você marujo!
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Fighters of Caribbean" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos. Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará varias horas de diversão e sufoco para escapar das garras dos mais terríveis bandidos dos sete mares. Você precisará de muita agilidade e astúcia, além de uma boa dose de sorte para vencer neste poderoso game! Agora é com você marujo!" />
-<meta property="og:description" content="Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos. Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará varias horas de diversão e sufoco para escapar das garras dos mais terríveis bandidos dos sete mares. Você precisará de muita agilidade e astúcia, além de uma boa dose de sorte para vencer neste poderoso game! Agora é com você marujo!" />
+<meta name="description" content="Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos." />
+<meta property="og:description" content="Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos." />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-03-24T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/24/fighters-of-caribbean"},"@type":"BlogPosting","url":"/2006/03/24/fighters-of-caribbean","headline":"Fighters of Caribbean","dateModified":"2006-03-24T00:00:00-03:00","datePublished":"2006-03-24T00:00:00-03:00","description":"Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos. Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará varias horas de diversão e sufoco para escapar das garras dos mais terríveis bandidos dos sete mares. Você precisará de muita agilidade e astúcia, além de uma boa dose de sorte para vencer neste poderoso game! Agora é com você marujo!","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/03/24/fighters-of-caribbean","headline":"Fighters of Caribbean","dateModified":"2006-03-24T00:00:00-03:00","datePublished":"2006-03-24T00:00:00-03:00","description":"Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos.","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/24/fighters-of-caribbean"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -104,20 +95,15 @@ Agora é com você marujo!
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -179,9 +165,13 @@ Agora é com você marujo!
       
  </center>
     
-<div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por PalmSoft Tecnologia.</div>
+    
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por PalmSoft Tecnologia.</div>
+    
 
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Um jogo cercado por carnificina e combates de vida ou morte, onde apenas um poderá sobreviver. Você pode escolher entre quatro personagens, cada um com suas habilidades características, pontos fortes e fracos.</p>
 
 <p>Com três níveis de dificuldade e um modo suicida, o maior desafio do jogo, Fighters of Caribbean proporcionará varias horas de diversão e sufoco para escapar das garras dos mais terríveis bandidos dos sete mares. Você precisará de muita agilidade e astúcia, além de uma boa dose de sorte para vencer neste poderoso game!</p>
@@ -298,10 +288,10 @@ Agora é com você marujo!
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

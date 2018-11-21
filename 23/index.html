@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -305,7 +300,7 @@
       
  </center>
     
-    Entre os dias 11 de abril e 08 de maio a galera do Rio de Janeiro poderá visitar a FILE Games Rio 2011 "Eu quero jogar" no OI Futuro Flamego. O FILE (Festival Internacional de Linguagem Eletrônica) apresenta jogos e obras artísticas que refletem a cultura game em diversas áreas....
+    Entre os dias 11 de abril e 08 de maio a galera do Rio de Janeiro poderá visitar a FILE Games Rio 2011 “Eu quero jogar” no OI Futuro Flamego. O FILE (Festival Internacional de Linguagem Eletrônica) apresenta jogos e obras artísticas que refletem a cultura game em diversas áreas....
     </div>
 
     <a href="/2011/04/14/file-games-rio-2011" class="read-more">Leia mais</a>
@@ -421,10 +416,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

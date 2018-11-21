@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,57 +102,92 @@
 
     <div id="main" role="main" class="container">
       <h2>hoplon</h2>
-<ul>
 
-  <li><a href="/2010/12/18/documentario-a-mecanica-do-jogo">Documentário "A Mecânica do Jogo"</a> (18/12/2010)</li>
 
-  <li><a href="/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou">Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</a> (13/12/2010)</li>
 
-  <li><a href="/2006/11/16/hoplon-apresenta-taikodom-em-portugal">Hoplon apresenta Taikodom em Portugal</a> (16/11/2006)</li>
-
-  <li><a href="/2006/06/14/newsabragames-junho-2006">NewsAbragames - Junho/2006</a> (14/06/2006)</li>
-
-  <li><a href="/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno">Taikocom lança a 2° edição da HQ Eterno Retorno</a> (08/06/2006)</li>
-
-  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
-
-  <li><a href="/2006/05/17/taikodom-alfa-teste-2006">Taikodom, Alfa Teste 2006</a> (17/05/2006)</li>
-
-  <li><a href="/2006/05/05/hoplon-vira-case-da-ibm">Hoplon vira case da IBM</a> (05/05/2006)</li>
-
-  <li><a href="/2006/04/14/newsabragames-abril-2006">NewsAbragames - Abril/2006</a> (14/04/2006)</li>
-
-  <li><a href="/2006/03/24/primeiro-brasileiro-no-espaco">Primeiro Brasileiro no Espaço</a> (24/03/2006)</li>
-
-  <li><a href="/2006/03/20/hoplon-e-palestrante-na-gdc-2006">Hoplon é palestrante na GDC 2006</a> (20/03/2006)</li>
-
-  <li><a href="/2006/03/20/hoplon-a-primeira-empresa-brasileira-palestrante-na-cdg">Hoplon, a primeira empresa brasileira palestrante na CDG</a> (20/03/2006)</li>
-
-  <li><a href="/2006/03/02/hq-taikodom-numero-zero">HQ Taikodom Número Zero</a> (02/03/2006)</li>
-
-  <li><a href="/2006/01/25/hoplon-ganha-premio-da-ibm-brasil">Hoplon ganha prêmio da IBM Brasil</a> (25/01/2006)</li>
-
-  <li><a href="/2006/01/10/reestruturacao-na-hoplon">Reestruturação na Hoplon</a> (10/01/2006)</li>
-
-  <li><a href="/2005/12/22/taikodom-faz-ajustes-finais">Taikodom faz ajustes finais</a> (22/12/2005)</li>
-
-  <li><a href="/2005/12/15/novas-imagens-de-taikodom">Novas imagens de Taikodom</a> (15/12/2005)</li>
-
-  <li><a href="/2005/12/05/taikodom-guerras-do-territorio">Taikodom, Guerras do Território</a> (05/12/2005)</li>
-
-  <li><a href="/2005/11/23/jogos-em-debate">Jogos em debate</a> (23/11/2005)</li>
-
-  <li><a href="/2005/11/19/acompanhe-o-taikodom-na-egs">Acompanhe o Taikodom na EGS</a> (19/11/2005)</li>
-
-  <li><a href="/2005/11/16/taikodom-sera-lancado-na-egs">Taikodom será lançado na EGS</a> (16/11/2005)</li>
-
-  <li><a href="/2005/10/05/curtas-do-dia">Curtas do dia...</a> (05/10/2005)</li>
-
-  <li><a href="/2005/09/27/novas-modificacoes-no-taikodom">Novas modificações no Taikodom</a> (27/09/2005)</li>
-
+  
+    
+    
+    <h3>Jogos</h3>
+    <ul>
+  
   <li><a href="/2005/09/21/taikodom">Taikodom</a> (21/09/2005)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2010/12/18/documentario-a-mecanica-do-jogo">Documentário "A Mecânica do Jogo"</a> (18/12/2010)</li>
+
+  
+  <li><a href="/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou">Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</a> (13/12/2010)</li>
+
+  
+  <li><a href="/2006/11/16/hoplon-apresenta-taikodom-em-portugal">Hoplon apresenta Taikodom em Portugal</a> (16/11/2006)</li>
+
+  
+  <li><a href="/2006/06/14/newsabragames-junho-2006">NewsAbragames - Junho/2006</a> (14/06/2006)</li>
+
+  
+  <li><a href="/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno">Taikocom lança a 2° edição da HQ Eterno Retorno</a> (08/06/2006)</li>
+
+  
+  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
+
+  
+  <li><a href="/2006/05/17/taikodom-alfa-teste-2006">Taikodom, Alfa Teste 2006</a> (17/05/2006)</li>
+
+  
+  <li><a href="/2006/05/05/hoplon-vira-case-da-ibm">Hoplon vira case da IBM</a> (05/05/2006)</li>
+
+  
+  <li><a href="/2006/04/14/newsabragames-abril-2006">NewsAbragames - Abril/2006</a> (14/04/2006)</li>
+
+  
+  <li><a href="/2006/03/24/primeiro-brasileiro-no-espaco">Primeiro Brasileiro no Espaço</a> (24/03/2006)</li>
+
+  
+  <li><a href="/2006/03/20/hoplon-e-palestrante-na-gdc-2006">Hoplon é palestrante na GDC 2006</a> (20/03/2006)</li>
+
+  
+  <li><a href="/2006/03/20/hoplon-a-primeira-empresa-brasileira-palestrante-na-cdg">Hoplon, a primeira empresa brasileira palestrante na CDG</a> (20/03/2006)</li>
+
+  
+  <li><a href="/2006/03/02/hq-taikodom-numero-zero">HQ Taikodom Número Zero</a> (02/03/2006)</li>
+
+  
+  <li><a href="/2006/01/25/hoplon-ganha-premio-da-ibm-brasil">Hoplon ganha prêmio da IBM Brasil</a> (25/01/2006)</li>
+
+  
+  <li><a href="/2006/01/10/reestruturacao-na-hoplon">Reestruturação na Hoplon</a> (10/01/2006)</li>
+
+  
+  <li><a href="/2005/12/22/taikodom-faz-ajustes-finais">Taikodom faz ajustes finais</a> (22/12/2005)</li>
+
+  
+  <li><a href="/2005/12/15/novas-imagens-de-taikodom">Novas imagens de Taikodom</a> (15/12/2005)</li>
+
+  
+  <li><a href="/2005/12/05/taikodom-guerras-do-territorio">Taikodom, Guerras do Território</a> (05/12/2005)</li>
+
+  
+  <li><a href="/2005/11/23/jogos-em-debate">Jogos em debate</a> (23/11/2005)</li>
+
+  
+  <li><a href="/2005/11/19/acompanhe-o-taikodom-na-egs">Acompanhe o Taikodom na EGS</a> (19/11/2005)</li>
+
+  
+  <li><a href="/2005/11/16/taikodom-sera-lancado-na-egs">Taikodom será lançado na EGS</a> (16/11/2005)</li>
+
+  
+  <li><a href="/2005/10/05/curtas-do-dia">Curtas do dia...</a> (05/10/2005)</li>
+
+  
+  <li><a href="/2005/09/27/novas-modificacoes-no-taikodom">Novas modificações no Taikodom</a> (27/09/2005)</li>
 
     </div>
   
@@ -165,10 +195,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

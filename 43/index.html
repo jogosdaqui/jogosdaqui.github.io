@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -161,7 +156,7 @@
     Guerra dos 100 Anos
     Pra Frente Brasil
     Zumbi o rei dos Palmares 
-    Ind&iacute;os 
+    Indíos 
 
 Para ler mais sobre as idéias vencedoras visite o site do JogosBR
 .
@@ -187,7 +182,7 @@ Para ler mais sobre as idéias vencedoras visite o site do JogosBR
  </center>
     
     A Devworks
- colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o "World Rummikub Champioship" e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
+ colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o “World Rummikub Champioship” e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
 
 
     </div>
@@ -272,7 +267,7 @@ Leia mais…
   
  </center>
     
-    A 6ª Era do Ryudragon
+    A 6aª Era do Ryudragon
  inicia nesta segunda-feira às 18:00.Essa nova Era traz algumas novidades: novas unidades de combate, novas características para as origens e monitoração do feudo pelo celular.Confira mais em www.ryudragon.com.br
 .
 
@@ -376,7 +371,7 @@ Leia mais…
   
  </center>
     
-    A Preloud anuncia o lan&ccedil;amento do jogo Lissy &ndash; Und Ihre Freunde, adventure 3D para o mercado infantil de l&iacute;ngua alem&atilde; . O jogo foi lan&ccedil;ado, atrav&eacute;s da Caipirinha Games , na Alemanha, Su&iacute;&ccedil;a e &Aacute;ustria e tem lan&ccedil;amento previsto para mar&ccedil;o e abril na Fran&ccedil;a e Holanda. Al&eacute;m de...
+    A Preloud anuncia o lançamento do jogo Lissy - Und Ihre Freunde, adventure 3D para o mercado infantil de língua alemã . O jogo foi lançado, através da Caipirinha Games , na Alemanha, Suíça e Áustria e tem lançamento previsto para março e abril na França e Holanda. Além de...
     </div>
 
     <a href="/2006/03/14/lissy-novo-jogo-da-preloud" class="read-more">Leia mais</a>
@@ -418,10 +413,10 @@ Leia mais…
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

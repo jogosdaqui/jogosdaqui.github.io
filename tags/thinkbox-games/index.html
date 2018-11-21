@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,15 +102,29 @@
 
     <div id="main" role="main" class="container">
       <h2>thinkbox-games</h2>
-<ul>
 
+
+
+  
+    
+    
+    <h3>Colunas</h3>
+    <ul>
+  
   <li><a href="/2015/05/22/checkpoint-7">Checkpoint #7</a> (22/05/2015)</li>
 
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
   <li><a href="/2015/05/21/simulador-vrum-da-think-box-com-realidade-virtual">Simulador VRUM, da Think Box, com realidade virtual</a> (21/05/2015)</li>
 
+  
   <li><a href="/2012/11/07/vrum-aprendendo-sobre-o-transito">VRUM - Aprendendo sobre o trânsito</a> (07/11/2012)</li>
-
-</ul>
 
     </div>
   
@@ -123,10 +132,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

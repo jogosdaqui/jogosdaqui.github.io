@@ -64,7 +64,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2011-02-07T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2011/02/07/o-gari-e-o-heroi"},"@type":"BlogPosting","url":"/2011/02/07/o-gari-e-o-heroi","headline":"O gari é o herói","dateModified":"2011-02-07T00:00:00-02:00","datePublished":"2011-02-07T00:00:00-02:00","description":"Em Garbageman , da produtora brasileira Doubleleft , um gari torna-se o herói de um simpático e divertido game para iPod Touch, iPhone e iPad.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2011/02/07/o-gari-e-o-heroi","headline":"O gari é o herói","dateModified":"2011-02-07T00:00:00-02:00","datePublished":"2011-02-07T00:00:00-02:00","description":"Em Garbageman , da produtora brasileira Doubleleft , um gari torna-se o herói de um simpático e divertido game para iPod Touch, iPhone e iPad.","mainEntityOfPage":{"@type":"WebPage","@id":"/2011/02/07/o-gari-e-o-heroi"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -101,20 +101,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -171,12 +166,13 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Em <a href="http://doubleleft.com/garbageman/" target="_blank">Garbageman</a>
 , da produtora brasileira <a href="http://doubleleft.com/" target="_blank">Doubleleft</a>
 , um gari torna-se o herói de um simpático e divertido game para iPod Touch, iPhone e iPad.</p>
 
 <p>O jogador, na pele de Garbageman, deve lançar as latas e sacos de lixo para dentro do caminhão de coleta. Além do desafio de acertar as coletas dentro do caminhão, o jogador também precisa cuidar dos obstáculos no caminho, que vão desde simples hidrantes e transeuntes desavisados, até carros na contra-mão.
-Para ajudar o jogador existem alguns bônus, como um bullet-time para facilitar a mira e um "Super-Garbageman", que permite que o gari, munido de uma legítima capa, possa sobrevoar as ruas atrás do precioso lixo.</p>
+Para ajudar o jogador existem alguns bônus, como um bullet-time para facilitar a mira e um “Super-Garbageman”, que permite que o gari, munido de uma legítima capa, possa sobrevoar as ruas atrás do precioso lixo.</p>
 
 <center>
         <iframe src="https://player.vimeo.com/video/18522822 " width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
@@ -260,10 +256,10 @@ Para ajudar o jogador existem alguns bônus, como um bullet-time para facilitar 
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -306,7 +301,7 @@
       
  </center>
     
-    Quem nunca jogou pinogol? O clássico jogo de mesa, onde um campo de futebol de madeira é palco para pinos fazerem grandes jogadas. Dois jogadores de cada lado do campo devem dar alguns "petelecos" na bolinha para tentar marcar gols no adversário.A Devworks, da mesma forma que fez com Pebolin...
+    Quem nunca jogou pinogol? O clássico jogo de mesa, onde um campo de futebol de madeira é palco para pinos fazerem grandes jogadas. Dois jogadores de cada lado do campo devem dar alguns “petelecos” na bolinha para tentar marcar gols no adversário.A Devworks, da mesma forma que fez com Pebolin...
     </div>
 
     <a href="/2006/05/27/pinogol-3d" class="read-more">Leia mais</a>
@@ -361,7 +356,7 @@
       
  </center>
     
-    Prove que é o melhor jogador de futebol do mundo! Calce as chuteiras de Ronaldinho, seja ágil e entre no ritmo perfeito para manter a bola sempre no ar. Faça seqüências e combinações de embaixadinhas perfeitas para conseguir bônus, colecione itens para facilitar seu desempenho e conquiste a maior pontuação....
+    Prove que é o melhor jogador de futebol do mundo! Calce as chuteiras de Ronaldinho, seja ágil e entre no ritmo perfeito para manter a bola sempre no ar. Faça sequências e combinações de embaixadinhas perfeitas para conseguir bônus, colecione itens para facilitar seu desempenho e conquiste a maior pontuação....
     </div>
 
     <a href="/2006/05/26/ronaldinho-total-control" class="read-more">Leia mais</a>
@@ -428,10 +423,10 @@ no mês de maio.Leia mais…
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

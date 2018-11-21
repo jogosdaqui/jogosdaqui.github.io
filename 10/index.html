@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -129,7 +124,7 @@
   
  </center>
     
-    #1 A Curve Digital anunciou que publicará o game Porcupine da Big Green Pillow ainda este mês #2 Chegou ao fim a campanha de TurboLink, game da Division Five, no Collective da Square Enix #3 Versão 1.051 de Chroma Squad é liberada no Steam #4 O esperado Toren da Swordtales...
+    #1 A Curve Digital anunciou que publicará o game Porcunipine da Big Green Pillow ainda este mês #2 Chegou ao fim a campanha de TurboLink, game da Division Five, no Collective da Square Enix #3 Versão 1.051 de Chroma Squad é liberada no Steam #4 O esperado Toren da Swordtales...
     </div>
 
     <a href="/2015/05/14/checkpoint-6" class="read-more">Leia mais</a>
@@ -424,10 +419,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

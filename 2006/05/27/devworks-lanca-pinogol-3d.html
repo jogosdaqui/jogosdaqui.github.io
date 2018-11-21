@@ -61,7 +61,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-05-27T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/27/devworks-lanca-pinogol-3d"},"@type":"BlogPosting","url":"/2006/05/27/devworks-lanca-pinogol-3d","headline":"Devworks lança Pinogol 3D","dateModified":"2006-05-27T00:00:00-03:00","datePublished":"2006-05-27T00:00:00-03:00","description":"Ano de copa também significa muitos jogos de futebol. A Devworks lança o multiplayer Pinogol 3D para o portal Gametrack .O jogo leva para o computador o clássico jogo de fubebol de pinos. Dois jogadores online disputam partidas em busca de um único objetivo: fazer muitos gols!Nessa fase inicial, o jogo estará livre para todos os jogadores do Gametrack.Veja o jogo…","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/05/27/devworks-lanca-pinogol-3d","headline":"Devworks lança Pinogol 3D","dateModified":"2006-05-27T00:00:00-03:00","datePublished":"2006-05-27T00:00:00-03:00","description":"Ano de copa também significa muitos jogos de futebol. A Devworks lança o multiplayer Pinogol 3D para o portal Gametrack .O jogo leva para o computador o clássico jogo de fubebol de pinos. Dois jogadores online disputam partidas em busca de um único objetivo: fazer muitos gols!Nessa fase inicial, o jogo estará livre para todos os jogadores do Gametrack.Veja o jogo…","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/27/devworks-lanca-pinogol-3d"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -98,20 +98,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -165,6 +160,7 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Ano de copa também significa muitos jogos de futebol. A Devworks
  lança o multiplayer Pinogol 3D para o portal Gametrack
 .<br /><br />O jogo leva para o computador o clássico jogo de fubebol de pinos. Dois jogadores online disputam partidas em busca de um único objetivo: fazer muitos gols!<br /><br />Nessa fase inicial, o jogo estará livre para todos os jogadores do Gametrack.<br /><br />Veja o jogo…</p>
@@ -225,10 +221,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

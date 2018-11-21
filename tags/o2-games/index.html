@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,27 +102,47 @@
 
     <div id="main" role="main" class="container">
       <h2>o2-games</h2>
-<ul>
 
+
+
+  
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
   <li><a href="/2006/07/31/lancada-a-versao-oficial-de-game-gol">Lançada a versão oficial de Game Gol</a> (31/07/2006)</li>
 
+  
   <li><a href="/2006/07/30/lancada-a-versao-oficial-de-game-gol">Lançada a versão oficial de Game Gol</a> (30/07/2006)</li>
 
-  <li><a href="/2006/05/17/gamegol">GameGol</a> (17/05/2006)</li>
-
+  
   <li><a href="/2006/05/17/confira-o-gamegol">Confira o GameGol</a> (17/05/2006)</li>
 
+  
   <li><a href="/2006/05/08/gamegol-oficial-para-junho">GameGol oficial para junho</a> (08/05/2006)</li>
 
+  
   <li><a href="/2006/05/03/prorrogada-fase-beta-de-gamegol">Prorrogada fase Beta de GameGol</a> (03/05/2006)</li>
 
+  
   <li><a href="/2006/05/02/prorrogada-fase-beta-de-gamegol">Prorrogada fase Beta de GameGol</a> (02/05/2006)</li>
 
+  
   <li><a href="/2006/04/09/oa-games-inicia-a-fase-beta-de-gamegol">OÂ² Games inicia a fase beta de GameGol</a> (09/04/2006)</li>
 
+  
   <li><a href="/2006/04/09/lancamento-gamegol-beta">Lançamento GameGol beta</a> (09/04/2006)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Prévias</h3>
+    <ul>
+  
+  <li><a href="/2006/05/17/gamegol">GameGol</a> (17/05/2006)</li>
 
     </div>
   
@@ -135,10 +150,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

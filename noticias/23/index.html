@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -131,7 +126,7 @@
   
  </center>
     
-    O jogo Bola de Gude , da ICON Games , recebeu o prêmio de "Jogo mais Original" do site Bytten (www.bytten.com ), especializado em jogos independentes.Segundo o site, Virtual Marbles, como é conhecido o jogo no exterior, demonstra que um jogo de bola de gude para PC pode ser uma...
+    O jogo Bola de Gude , da ICON Games , recebeu o prêmio de “Jogo mais Original” do site Bytten (www.bytten.com ), especializado em jogos independentes.Segundo o site, Virtual Marbles, como é conhecido o jogo no exterior, demonstra que um jogo de bola de gude para PC pode ser uma...
     </div>
 
     <a href="/2006/04/27/icon-games-ganha-premio-no-exterior" class="read-more">Leia mais</a>
@@ -195,7 +190,7 @@
   
  </center>
     
-    Nova enquete no ar, o jogosdaqui quer saber com que frequência você joga no celular. Não fique de fora, dê a sua opinião.O resultado final da enquete anterior, "Qual seu estilo de jogo favorito?": 27,12 % - MMORPG 19,66 % - Estrat&eacute;gia 17,63 % - 1&ordf; pessoa 17,29 % -...
+    Nova enquete no ar, o jogosdaqui quer saber com que frequência você joga no celular. Não fique de fora, dê a sua opinião.O resultado final da enquete anterior, “Qual seu estilo de jogo favorito?”: 27,12 % - MMORPG 19,66 % - Estratégia 17,63 % - 1aª pessoa 17,29 % -...
     </div>
 
     <a href="/2006/04/21/enquete-com-que-frequencia-voce-joga-no-celular" class="read-more">Leia mais</a>
@@ -231,7 +226,7 @@
   
  </center>
     
-    A SR-Games liberou algumas novidades sobre o jogo em construção Estradas Esburacadas ."…temos novidades sobre Estradas Esburacadas, agora os videos estão com o som real do jogo", afirma Sanderson, diretor de arte da SR-Games.Outra novidade é a nova sala de bate-papo no site da empresa. A sala está aberta para...
+    A SR-Games liberou algumas novidades sobre o jogo em construção Estradas Esburacadas .“…temos novidades sobre Estradas Esburacadas, agora os videos estão com o som real do jogo”, afirma Sanderson, diretor de arte da SR-Games.Outra novidade é a nova sala de bate-papo no site da empresa. A sala está aberta para...
     </div>
 
     <a href="/2006/04/19/novidades-da-sr-games-e-estradas-esburacadas" class="read-more">Leia mais</a>
@@ -386,10 +381,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

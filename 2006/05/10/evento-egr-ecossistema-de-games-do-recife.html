@@ -55,7 +55,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-05-10T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/10/evento-egr-ecossistema-de-games-do-recife"},"@type":"BlogPosting","url":"/2006/05/10/evento-egr-ecossistema-de-games-do-recife","headline":"Evento: EGR (Ecossistema de games do Recife)","dateModified":"2006-05-10T00:00:00-03:00","datePublished":"2006-05-10T00:00:00-03:00","description":"Para quem mora em Recife e está curioso em conhecer mais sobre as empresas de desenvolvimento de jogos locais, vai acontecer dia 20 de maio a EGR (Ecossistema de games do Recife), o primeiro evento relacionado a desenvolvimento de jogos no Recife.Leia mais sobre o evento …","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/05/10/evento-egr-ecossistema-de-games-do-recife","headline":"Evento: EGR (Ecossistema de games do Recife)","dateModified":"2006-05-10T00:00:00-03:00","datePublished":"2006-05-10T00:00:00-03:00","description":"Para quem mora em Recife e está curioso em conhecer mais sobre as empresas de desenvolvimento de jogos locais, vai acontecer dia 20 de maio a EGR (Ecossistema de games do Recife), o primeiro evento relacionado a desenvolvimento de jogos no Recife.Leia mais sobre o evento …","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/10/evento-egr-ecossistema-de-games-do-recife"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,20 +92,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -159,6 +154,7 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Para quem mora em Recife e está curioso em conhecer mais sobre as empresas de desenvolvimento de jogos locais, vai acontecer dia 20 de maio a EGR (Ecossistema de games do Recife), o primeiro evento relacionado a desenvolvimento de jogos no Recife.<br /><br />Leia mais sobre o evento …</p>
 
 
@@ -215,10 +211,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

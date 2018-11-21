@@ -61,7 +61,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-06-01T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/06/01/pergunte-para-a-sr-games"},"@type":"BlogPosting","url":"/2006/06/01/pergunte-para-a-sr-games","headline":"Pergunte para a SR-Games","dateModified":"2006-06-01T00:00:00-03:00","datePublished":"2006-06-01T00:00:00-03:00","description":"Quer saber mais detalhes sobre a produção do jogo Estradas Esburacadas? Então, entre no site da SR-Games. O site da empresa acaba de receber uma nova área, específica para os jogadores tirarem suas dúvidas sobre o jogo.Neste link você poderá ver respostas para perguntas, como: os diferenciais do jogo, quais carros estarão disponíveis, a história, entre outras.Veja também as matérias sobre o jogo no jogosdaqui.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/06/01/pergunte-para-a-sr-games","headline":"Pergunte para a SR-Games","dateModified":"2006-06-01T00:00:00-03:00","datePublished":"2006-06-01T00:00:00-03:00","description":"Quer saber mais detalhes sobre a produção do jogo Estradas Esburacadas? Então, entre no site da SR-Games. O site da empresa acaba de receber uma nova área, específica para os jogadores tirarem suas dúvidas sobre o jogo.Neste link você poderá ver respostas para perguntas, como: os diferenciais do jogo, quais carros estarão disponíveis, a história, entre outras.Veja também as matérias sobre o jogo no jogosdaqui.","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/06/01/pergunte-para-a-sr-games"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -98,20 +98,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -165,6 +160,7 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Quer saber mais detalhes sobre a produção do jogo Estradas Esburacadas? Então, entre no site da SR-Games. O site da empresa acaba de receber uma nova área, específica para os jogadores tirarem suas dúvidas sobre o jogo.<br /><br />Neste <a href="http://www.srgames.com.br/Pagina_Comentarios.htm" target="_blank">link</a>
  você poderá ver respostas para perguntas, como: os diferenciais do jogo, quais carros estarão disponíveis, a história, entre outras.<br /><br />Veja também as matérias
  sobre o jogo no <span style="color: rgb(255, 153, 0); font-weight: bold;">jogosdaqui</span>.</p>
@@ -235,10 +231,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

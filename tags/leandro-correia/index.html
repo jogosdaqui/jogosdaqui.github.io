@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,19 +102,35 @@
 
     <div id="main" role="main" class="container">
       <h2>leandro-correia</h2>
-<ul>
 
-  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
 
-  <li><a href="/2005/11/15/comecam-as-venda-do-smart-panda">Começam as venda do Smart Panda</a> (15/11/2005)</li>
 
+  
+    
+    
+    <h3>Jogos</h3>
+    <ul>
+  
   <li><a href="/2005/11/05/skooter">Skooter</a> (05/11/2005)</li>
 
+  
   <li><a href="/2005/10/21/jet-boarder">Jet Boarder</a> (21/10/2005)</li>
 
+  
   <li><a href="/2005/09/30/smart-panda">Smart Panda</a> (30/09/2005)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
+
+  
+  <li><a href="/2005/11/15/comecam-as-venda-do-smart-panda">Começam as venda do Smart Panda</a> (15/11/2005)</li>
 
     </div>
   
@@ -127,10 +138,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,115 +102,193 @@
 
     <div id="main" role="main" class="container">
       <h2>mobile</h2>
-<ul>
 
+
+
+  
+    
+    
+    <h3>Jogos</h3>
+    <ul>
+  
   <li><a href="/2013/04/11/heist-and-run">Heist and Run</a> (11/04/2013)</li>
 
-  <li><a href="/2007/01/17/ajude-o-fazendeiro-em-bunny-smash">Ajude o fazendeiro em Bunny Smash</a> (17/01/2007)</li>
-
+  
   <li><a href="/2006/11/10/bunny-smash">Bunny Smash</a> (10/11/2006)</li>
 
-  <li><a href="/2006/09/22/jogos-da-palmsoft-na-brt-gsm-e-oi">Jogos da PalmSoft na BrT GSM e Oi</a> (22/09/2006)</li>
-
-  <li><a href="/2006/09/01/previa-de-a-zombie-nightmare">Prévia de A Zombie Nightmare</a> (01/09/2006)</li>
-
-  <li><a href="/2006/09/01/a-zombie-nightmare">A Zombie Nightmare</a> (01/09/2006)</li>
-
-  <li><a href="/2006/08/04/cat-fighters-novo-lancamento-da-palmsoft">Cat Fighters, novo Lançamento da PalmSoft</a> (04/08/2006)</li>
-
-  <li><a href="/2006/06/30/previa-da-nova-versao-de-drag-racer">Prévia da nova versão de Drag Racer</a> (30/06/2006)</li>
-
-  <li><a href="/2006/06/30/drag-racer-underground">Drag Racer Underground</a> (30/06/2006)</li>
-
-  <li><a href="/2006/06/07/imagens-da-producao-do-rpg-essence">Imagens da produção do RPG Essence</a> (07/06/2006)</li>
-
-  <li><a href="/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados">Demos Jogáveis do JogosBR, projetos classificados</a> (04/06/2006)</li>
-
-  <li><a href="/2006/05/31/previa-de-cat-fighters">Prévia de Cat Fighters</a> (31/05/2006)</li>
-
-  <li><a href="/2006/05/30/mais-de-war-of-malquidious">Mais de War of Malquidious</a> (30/05/2006)</li>
-
-  <li><a href="/2006/05/29/ronaldinho-no-celular">Ronaldinho no celular</a> (29/05/2006)</li>
-
+  
   <li><a href="/2006/05/26/ronaldinho-total-control">Ronaldinho Total Control</a> (26/05/2006)</li>
 
-  <li><a href="/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas">Jogo da Sedução é sucesso de vendas</a> (26/05/2006)</li>
-
-  <li><a href="/2006/05/24/cat-fighters">Cat Fighters</a> (24/05/2006)</li>
-
-  <li><a href="/2006/05/23/enquete-qual-a-sua-area-preferida-no-jogosdaqui">Enquete: Qual a sua área preferida no jogosdaqui?</a> (23/05/2006)</li>
-
-  <li><a href="/2006/05/22/palmsoft-coloca-a-seducao-em-jogo">PalmSoft coloca a sedução em jogo</a> (22/05/2006)</li>
-
-  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
-
-  <li><a href="/2006/04/29/novas-imagens-do-rpg-essence">Novas imagens do RPG Essence</a> (29/04/2006)</li>
-
-  <li><a href="/2006/04/28/novidades-na-palmsoft">Novidades na Palmsoft</a> (28/04/2006)</li>
-
-  <li><a href="/2006/04/28/novidades-da-palmsoft">Novidades da Palmsoft</a> (28/04/2006)</li>
-
-  <li><a href="/2006/04/21/enquete-com-que-frequencia-voce-joga-no-celular">Enquete: Com que frequência você joga no celular?</a> (21/04/2006)</li>
-
-  <li><a href="/2006/03/28/entrevista-palmsoft-tecnologia">Entrevista PalmSoft Tecnologia</a> (28/03/2006)</li>
-
-  <li><a href="/2006/03/24/piratas-e-guerreiros-da-palmsoft">Piratas e guerreiros da PalmSoft</a> (24/03/2006)</li>
-
-  <li><a href="/2006/03/23/eonsgames-ganha-premio-no-japao">EonsGames ganha prêmio no Japão</a> (23/03/2006)</li>
-
+  
   <li><a href="/2006/03/23/digibunny">Digibunny</a> (23/03/2006)</li>
 
+  
   <li><a href="/2006/03/22/coquetel">Coquetel</a> (22/03/2006)</li>
 
-  <li><a href="/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento">PalmSoft, novos jogos em desenvolvimento</a> (04/03/2006)</li>
-
-  <li><a href="/2006/02/24/previa-de-golden-west-bang-bang">Prévia de Golden West - Bang! Bang!</a> (24/02/2006)</li>
-
-  <li><a href="/2006/02/24/golden-west-bang-bang">Golden West - Bang! Bang!</a> (24/02/2006)</li>
-
-  <li><a href="/2006/02/11/voce-sera-um-guerreiro">Você será um guerreiro</a> (11/02/2006)</li>
-
-  <li><a href="/2006/02/03/mdev-jogos-para-celular">MDEV: jogos para celular</a> (03/02/2006)</li>
-
-  <li><a href="/2006/01/30/tank-mission-3">Tank Mission 3</a> (30/01/2006)</li>
-
-  <li><a href="/2006/01/30/continuacao-de-tank-mission-2">Continuação de Tank Mission 2</a> (30/01/2006)</li>
-
-  <li><a href="/2006/01/29/tank-mission-3">Tank Mission 3</a> (29/01/2006)</li>
-
-  <li><a href="/2006/01/24/war-of-malquidious-e-palmsoft-drag-racer">War of Malquidious e PalmSoft Drag Racer</a> (24/01/2006)</li>
-
+  
   <li><a href="/2006/01/23/war-of-malquidious-2">War of Malquidious</a> (23/01/2006)</li>
 
+  
   <li><a href="/2006/01/23/palmsoft-drag-racer-2">PalmSoft Drag Racer</a> (23/01/2006)</li>
 
-  <li><a href="/2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft">Prévia de Fighters of Caribbean da PalmSoft</a> (20/01/2006)</li>
-
+  
   <li><a href="/2006/01/18/tank-mission-2">Tank Mission 2</a> (18/01/2006)</li>
 
-  <li><a href="/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro">PalmSoft lança três jogos em janeiro</a> (16/01/2006)</li>
-
-  <li><a href="/2005/12/21/palmsoft-drag-racer">Prévia: PalmSoft Drag Racer</a> (21/12/2005)</li>
-
+  
   <li><a href="/2005/12/19/red-hood-racing">Red Hood Racing</a> (19/12/2005)</li>
 
-  <li><a href="/2005/12/16/war-of-malquidious">Prévia de War of Malquidious da PalmSoft</a> (16/12/2005)</li>
-
+  
   <li><a href="/2005/12/15/jetski-race">Jetski Race</a> (15/12/2005)</li>
 
+  
   <li><a href="/2005/11/26/nishi-soul-mate">Nishi Soul Mate</a> (26/11/2005)</li>
 
+  
   <li><a href="/2005/11/21/nishi-aqua-fight">Nishi Aqua Fight</a> (21/11/2005)</li>
 
+  
   <li><a href="/2005/10/13/crimson-after-dusk">Crimson After Dusk</a> (13/10/2005)</li>
 
+  
   <li><a href="/2005/10/12/banana-joe">Banana Joe</a> (12/10/2005)</li>
 
-  <li><a href="/2005/10/11/jogo-da-meantime-em-voos-internacionais">Jogo da Meantime em voos internacionais</a> (11/10/2005)</li>
-
+  
   <li><a href="/2005/10/10/whiskeria-paradiso">Whiskeria Paradiso</a> (10/10/2005)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Entrevistas</h3>
+    <ul>
+  
+  <li><a href="/2006/03/28/entrevista-palmsoft-tecnologia">Entrevista PalmSoft Tecnologia</a> (28/03/2006)</li>
+
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2007/01/17/ajude-o-fazendeiro-em-bunny-smash">Ajude o fazendeiro em Bunny Smash</a> (17/01/2007)</li>
+
+  
+  <li><a href="/2006/09/22/jogos-da-palmsoft-na-brt-gsm-e-oi">Jogos da PalmSoft na BrT GSM e Oi</a> (22/09/2006)</li>
+
+  
+  <li><a href="/2006/08/04/cat-fighters-novo-lancamento-da-palmsoft">Cat Fighters, novo Lançamento da PalmSoft</a> (04/08/2006)</li>
+
+  
+  <li><a href="/2006/06/04/demos-jogaveis-do-jogosbr-projetos-classificados">Demos Jogáveis do JogosBR, projetos classificados</a> (04/06/2006)</li>
+
+  
+  <li><a href="/2006/05/30/mais-de-war-of-malquidious">Mais de War of Malquidious</a> (30/05/2006)</li>
+
+  
+  <li><a href="/2006/05/29/ronaldinho-no-celular">Ronaldinho no celular</a> (29/05/2006)</li>
+
+  
+  <li><a href="/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas">Jogo da Sedução é sucesso de vendas</a> (26/05/2006)</li>
+
+  
+  <li><a href="/2006/05/23/enquete-qual-a-sua-area-preferida-no-jogosdaqui">Enquete: Qual a sua área preferida no jogosdaqui?</a> (23/05/2006)</li>
+
+  
+  <li><a href="/2006/05/22/palmsoft-coloca-a-seducao-em-jogo">PalmSoft coloca a sedução em jogo</a> (22/05/2006)</li>
+
+  
+  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
+
+  
+  <li><a href="/2006/04/29/novas-imagens-do-rpg-essence">Novas imagens do RPG Essence</a> (29/04/2006)</li>
+
+  
+  <li><a href="/2006/04/28/novidades-na-palmsoft">Novidades na Palmsoft</a> (28/04/2006)</li>
+
+  
+  <li><a href="/2006/04/28/novidades-da-palmsoft">Novidades da Palmsoft</a> (28/04/2006)</li>
+
+  
+  <li><a href="/2006/04/21/enquete-com-que-frequencia-voce-joga-no-celular">Enquete: Com que frequência você joga no celular?</a> (21/04/2006)</li>
+
+  
+  <li><a href="/2006/03/24/piratas-e-guerreiros-da-palmsoft">Piratas e guerreiros da PalmSoft</a> (24/03/2006)</li>
+
+  
+  <li><a href="/2006/03/23/eonsgames-ganha-premio-no-japao">EonsGames ganha prêmio no Japão</a> (23/03/2006)</li>
+
+  
+  <li><a href="/2006/03/04/palmsoft-novos-jogos-em-desenvolvimento">PalmSoft, novos jogos em desenvolvimento</a> (04/03/2006)</li>
+
+  
+  <li><a href="/2006/02/03/mdev-jogos-para-celular">MDEV: jogos para celular</a> (03/02/2006)</li>
+
+  
+  <li><a href="/2006/01/30/continuacao-de-tank-mission-2">Continuação de Tank Mission 2</a> (30/01/2006)</li>
+
+  
+  <li><a href="/2006/01/24/war-of-malquidious-e-palmsoft-drag-racer">War of Malquidious e PalmSoft Drag Racer</a> (24/01/2006)</li>
+
+  
+  <li><a href="/2006/01/16/palmsoft-lanca-tres-jogos-em-janeiro">PalmSoft lança três jogos em janeiro</a> (16/01/2006)</li>
+
+  
+  <li><a href="/2005/10/11/jogo-da-meantime-em-voos-internacionais">Jogo da Meantime em voos internacionais</a> (11/10/2005)</li>
+
+  
+    
+      </ul>
+    
+    
+    <h3>Prévias</h3>
+    <ul>
+  
+  <li><a href="/2006/09/01/previa-de-a-zombie-nightmare">Prévia de A Zombie Nightmare</a> (01/09/2006)</li>
+
+  
+  <li><a href="/2006/09/01/a-zombie-nightmare">A Zombie Nightmare</a> (01/09/2006)</li>
+
+  
+  <li><a href="/2006/06/30/previa-da-nova-versao-de-drag-racer">Prévia da nova versão de Drag Racer</a> (30/06/2006)</li>
+
+  
+  <li><a href="/2006/06/30/drag-racer-underground">Drag Racer Underground</a> (30/06/2006)</li>
+
+  
+  <li><a href="/2006/06/07/imagens-da-producao-do-rpg-essence">Imagens da produção do RPG Essence</a> (07/06/2006)</li>
+
+  
+  <li><a href="/2006/05/31/previa-de-cat-fighters">Prévia de Cat Fighters</a> (31/05/2006)</li>
+
+  
+  <li><a href="/2006/05/24/cat-fighters">Cat Fighters</a> (24/05/2006)</li>
+
+  
+  <li><a href="/2006/02/24/previa-de-golden-west-bang-bang">Prévia de Golden West - Bang! Bang!</a> (24/02/2006)</li>
+
+  
+  <li><a href="/2006/02/24/golden-west-bang-bang">Golden West - Bang! Bang!</a> (24/02/2006)</li>
+
+  
+  <li><a href="/2006/02/11/voce-sera-um-guerreiro">Você será um guerreiro</a> (11/02/2006)</li>
+
+  
+  <li><a href="/2006/01/30/tank-mission-3">Tank Mission 3</a> (30/01/2006)</li>
+
+  
+  <li><a href="/2006/01/29/tank-mission-3">Tank Mission 3</a> (29/01/2006)</li>
+
+  
+  <li><a href="/2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft">Prévia de Fighters of Caribbean da PalmSoft</a> (20/01/2006)</li>
+
+  
+  <li><a href="/2005/12/21/palmsoft-drag-racer">Prévia: PalmSoft Drag Racer</a> (21/12/2005)</li>
+
+  
+  <li><a href="/2005/12/16/war-of-malquidious">Prévia de War of Malquidious da PalmSoft</a> (16/12/2005)</li>
 
     </div>
   
@@ -223,10 +296,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

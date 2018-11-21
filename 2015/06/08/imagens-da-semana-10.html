@@ -63,6 +63,7 @@ O game Cannibal da GameTek recebe o novo mapa Vila Micena
 <title>Imagens da semana #10 | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Imagens da semana #10" />
+<meta name="author" content="Diego Giacomelli" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="#1 O game Cannibal da GameTek recebe o novo mapa Vila Micena" />
 <meta property="og:description" content="#1 O game Cannibal da GameTek recebe o novo mapa Vila Micena" />
@@ -70,7 +71,7 @@ O game Cannibal da GameTek recebe o novo mapa Vila Micena
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-06-08T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/06/08/imagens-da-semana-10"},"@type":"BlogPosting","url":"/2015/06/08/imagens-da-semana-10","headline":"Imagens da semana #10","dateModified":"2015-06-08T00:00:00-03:00","datePublished":"2015-06-08T00:00:00-03:00","description":"#1 O game Cannibal da GameTek recebe o novo mapa Vila Micena","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Diego Giacomelli"},"@type":"BlogPosting","url":"/2015/06/08/imagens-da-semana-10","headline":"Imagens da semana #10","dateModified":"2015-06-08T00:00:00-03:00","datePublished":"2015-06-08T00:00:00-03:00","description":"#1 O game Cannibal da GameTek recebe o novo mapa Vila Micena","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/06/08/imagens-da-semana-10"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -107,20 +108,15 @@ O game Cannibal da GameTek recebe o novo mapa Vila Micena
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -189,6 +185,9 @@ O game Cannibal da GameTek recebe o novo mapa Vila Micena
  </center>
     
     
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Diego Giacomelli.</div>
+
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <h2 id="1">#1</h2>
 <p><a href="https://twitter.com/gametek_brasil/status/60540813063429324">O game Cannibal da GameTek recebe o novo mapa Vila Micena</a></p>
 <center>
@@ -297,10 +296,10 @@ O game Cannibal da GameTek recebe o novo mapa Vila Micena
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

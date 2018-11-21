@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -208,7 +203,7 @@ Enquete: Quais games desenvolvidos no Brasil você já jogou?
       
  </center>
     
-    O jogosdaqui fechou uma parceria com o UOL Jogos e como resultado surgiu o "Blog jogosdaqui". Neste blog postaremos notícias, prévias, análises e eventos relacionados aos games desenvolvidos no Brasil, sendo que alguns posts serão divulgados diretamente na home do UOL Jogos. Se voc&#234; &#233; da ind&#250;stria nacional de desenvolvimento...
+    O jogosdaqui fechou uma parceria com o UOL Jogos e como resultado surgiu o “Blog jogosdaqui”. Neste blog postaremos notícias, prévias, análises e eventos relacionados aos games desenvolvidos no Brasil, sendo que alguns posts serão divulgados diretamente na home do UOL Jogos. Se você é da indústria nacional de desenvolvimento...
     </div>
 
     <a href="/2010/11/17/blog-jogosdaqui-2" class="read-more">Leia mais</a>
@@ -289,7 +284,7 @@ Enquete: Quais games desenvolvidos no Brasil você já jogou?
   
  </center>
     
-    Em Plush Poison o jogador deve acompanhar o som da dupla escolhida e prestar atenção no tempo. Para marcar pontos é preciso tocar no momento exato de cada nota musical.As teclas A, S, D e F representam cordas da sua guitarra. Você precisa tocar cada uma no momento correto para...
+    Em Plush Poison o jogador deve acompanhar o som da dupla escolhida e prestar atenção no tempo. Para marcar pontos é preciso tocar no momento exato de cada nota musical. As teclas A, S, D e F representam cordas da sua guitarra. Você precisa tocar cada uma no momento correto...
     </div>
 
     <a href="/2007/01/18/plush-poison" class="read-more">Leia mais</a>
@@ -399,10 +394,10 @@ Leia mais…
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

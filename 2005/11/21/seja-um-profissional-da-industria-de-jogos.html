@@ -82,7 +82,7 @@ Veja mais no site oficial dos cursos: www.cgmax.com.br
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-11-21T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2005/11/21/seja-um-profissional-da-industria-de-jogos"},"@type":"BlogPosting","url":"/2005/11/21/seja-um-profissional-da-industria-de-jogos","headline":"Seja um profissional da indústria de jogos","dateModified":"2005-11-21T00:00:00-02:00","datePublished":"2005-11-21T00:00:00-02:00","description":"Que tal trabalhar na indústria de jogos? Dois pré-requisitos são essencias: um é ser apaixonado por jogos e o outro é estudar muito, isso mesmo, desenvolver jogos demanda de um grande conhecimento técnico e artístico. Mas você não está sozinho nesta empreitada, existem muitos cursos sobre desenvolvimento de jogos espalhados pelo país. Exemplos desses cursos são os da Universidade Veiga de Almeida: Pós-Graduação em Animação e Modelagem Digital e Pós-Graduação em Desenvolvimento de Jogos e Aplicações 3D. As inscrições para as novas turmas, já estão abertas. Veja mais no site oficial dos cursos: www.cgmax.com.br","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2005/11/21/seja-um-profissional-da-industria-de-jogos","headline":"Seja um profissional da indústria de jogos","dateModified":"2005-11-21T00:00:00-02:00","datePublished":"2005-11-21T00:00:00-02:00","description":"Que tal trabalhar na indústria de jogos? Dois pré-requisitos são essencias: um é ser apaixonado por jogos e o outro é estudar muito, isso mesmo, desenvolver jogos demanda de um grande conhecimento técnico e artístico. Mas você não está sozinho nesta empreitada, existem muitos cursos sobre desenvolvimento de jogos espalhados pelo país. Exemplos desses cursos são os da Universidade Veiga de Almeida: Pós-Graduação em Animação e Modelagem Digital e Pós-Graduação em Desenvolvimento de Jogos e Aplicações 3D. As inscrições para as novas turmas, já estão abertas. Veja mais no site oficial dos cursos: www.cgmax.com.br","mainEntityOfPage":{"@type":"WebPage","@id":"/2005/11/21/seja-um-profissional-da-industria-de-jogos"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -119,20 +119,15 @@ Veja mais no site oficial dos cursos: www.cgmax.com.br
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -186,6 +181,7 @@ Veja mais no site oficial dos cursos: www.cgmax.com.br
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <h2 id="que-tal-trabalhar-na-indústria-de-jogos">Que tal trabalhar na indústria de jogos?</h2>
 <p>Dois pré-requisitos são essencias: um é ser apaixonado por jogos e o outro é estudar muito, isso mesmo, desenvolver jogos demanda de um grande conhecimento técnico e artístico.</p>
 
@@ -265,10 +261,10 @@ Veja mais no site oficial dos cursos: www.cgmax.com.br
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -349,7 +344,7 @@
     
     <article class="post">
 
-    <h1><a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games">Starlit Adventures</a></h1>
+    <h1><a href="/2015/05/14/starlit-adventures">Starlit Adventures</a></h1>
 
     <div class="entry">
      
@@ -359,14 +354,14 @@
 <center>
   
     
-      <img src="/assets/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/assets/2015/05/14/starlit-adventures/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
     Starlit Adventures é o novo game da gaúcha Rockhead Games, de jogos como Master of Words e Pixel Shaper, foi fundada em 2010 por Christian Lykawka e Fernando D’Andrea, os mesmos que anos antes fundaram a Southlogic Studios, famosa por games como Guimo e Trophy Hunter 2003. Lançamento mundial A...
     </div>
 
-    <a href="/2015/05/14/starlit-adventures-novo-lancamento-da-rockhead-games" class="read-more">Leia mais</a>
+    <a href="/2015/05/14/starlit-adventures" class="read-more">Leia mais</a>
     </article>
 
     
@@ -429,10 +424,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

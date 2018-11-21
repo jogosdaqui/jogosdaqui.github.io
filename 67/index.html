@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -234,7 +229,7 @@
       
  </center>
     
-    Todas as emoções do programa de televisão "Show do Milhão" do SBT agora com as 4 edições em um só CD num total de 9000 perguntas. Brinque com Silvio Santos no jogo mais excitante da TV Brasileira. Os recursos disponíveis na TV também estão nesse jogo, e o jogador poderá...
+    Todas as emoções do programa de televisão “Show do Milhão” do SBT agora com as 4 edições em um só CD num total de 9000 perguntas. Brinque com Silvio Santos no jogo mais excitante da TV Brasileira. Os recursos disponíveis na TV também estão nesse jogo, e o jogador poderá...
     </div>
 
     <a href="/2005/09/20/show-do-milhao-colecionador" class="read-more">Leia mais</a>
@@ -365,7 +360,7 @@
       
  </center>
     
-    Penguin Racer é um jogo de corrida, não com veículos, mas com pinguins. A visão do jogo é típica de jogos de corrida, ou seja, em 3D e em 3ª pessoa. Existem poucos jogos de corrida voltados para o público infanto juvenil na plataforma PC, e os poucos que existem...
+    Penguin Racer é um jogo de corrida, não com veículos, mas com pinguins. A visão do jogo é típica de jogos de corrida, ou seja, em 3D e em 3aª pessoa. Existem poucos jogos de corrida voltados para o público infanto juvenil na plataforma PC, e os poucos que existem...
     </div>
 
     <a href="/2005/09/20/penguin-racer" class="read-more">Leia mais</a>
@@ -427,7 +422,7 @@
       
  </center>
     
-    Será que você consegue decifrar as fórmulas das poções mágicas e descobrir a cura para as principais doenças que afligem o ser humano? O segredo está na correta mistura das plantas (a seqüência) e quais ervas entram em cada poção.
+    Será que você consegue decifrar as fórmulas das poções mágicas e descobrir a cura para as principais doenças que afligem o ser humano? O segredo está na correta mistura das plantas (a sequência) e quais ervas entram em cada poção.
 
 
     </div>
@@ -471,10 +466,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

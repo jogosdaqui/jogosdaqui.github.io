@@ -14,17 +14,17 @@
     
     <meta name="description" content="Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação.
 
-As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoque" de vagas.
+As inscrições serão feitas até o dia 15 de julho ou “enquanto durar o estoque” de vagas.
 
 " />
     <meta property="og:description" content="Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação.
 
-As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoque" de vagas.
+As inscrições serão feitas até o dia 15 de julho ou “enquanto durar o estoque” de vagas.
 
 " />
     <meta name="twitter:description" content="Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação.
 
-As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoque" de vagas.
+As inscrições serão feitas até o dia 15 de julho ou “enquanto durar o estoque” de vagas.
 
 " />
     
@@ -58,13 +58,13 @@ As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoqu
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Inscrições abertas para o SPJam 2013" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação. As inscrições serão feitas até o dia 15 de julho ou &quot;enquanto durar o estoque&quot; de vagas." />
-<meta property="og:description" content="Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação. As inscrições serão feitas até o dia 15 de julho ou &quot;enquanto durar o estoque&quot; de vagas." />
+<meta name="description" content="Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação. As inscrições serão feitas até o dia 15 de julho ou “enquanto durar o estoque” de vagas." />
+<meta property="og:description" content="Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação. As inscrições serão feitas até o dia 15 de julho ou “enquanto durar o estoque” de vagas." />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2013-06-24T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2013/06/24/inscricoes-abertas-para-o-spjam-2013"},"@type":"BlogPosting","url":"/2013/06/24/inscricoes-abertas-para-o-spjam-2013","headline":"Inscrições abertas para o SPJam 2013","dateModified":"2013-06-24T00:00:00-03:00","datePublished":"2013-06-24T00:00:00-03:00","description":"Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação. As inscrições serão feitas até o dia 15 de julho ou &quot;enquanto durar o estoque&quot; de vagas.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2013/06/24/inscricoes-abertas-para-o-spjam-2013","headline":"Inscrições abertas para o SPJam 2013","dateModified":"2013-06-24T00:00:00-03:00","datePublished":"2013-06-24T00:00:00-03:00","description":"Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação. As inscrições serão feitas até o dia 15 de julho ou “enquanto durar o estoque” de vagas.","mainEntityOfPage":{"@type":"WebPage","@id":"/2013/06/24/inscricoes-abertas-para-o-spjam-2013"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -101,20 +101,15 @@ As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoqu
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -171,9 +166,10 @@ As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoqu
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Em maio comentamos sobre o <a href="/2013/05/06/spjam-2013">SPJam 2013</a>, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação.</p>
 
-<p>As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoque" de vagas.</p>
+<p>As inscrições serão feitas até o dia 15 de julho ou “enquanto durar o estoque” de vagas.</p>
 
 <p>Nessa edição a Vortex Games Studio, realizadora do evento, espera reunir 300 pessoas para uma maratona de criação de games durante 48 horas.</p>
 
@@ -249,10 +245,10 @@ As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoqu
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

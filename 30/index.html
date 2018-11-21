@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -327,7 +322,7 @@
   
  </center>
     
-    Diversas empresas investem em advergames para promover suas marcas e produtos. Para a Copa de 2002, a Devworks desenvolveu o game "Pebolim " que esteve em destaque no site da Kaiser. O jogo em 3D imitava uma mesa de pebolim e permitia que o internauta representasse o Brasil em jogos...
+    Diversas empresas investem em advergames para promover suas marcas e produtos. Para a Copa de 2002, a Devworks desenvolveu o game “Pebolim “ que esteve em destaque no site da Kaiser. O jogo em 3D imitava uma mesa de pebolim e permitia que o internauta representasse o Brasil em jogos...
     </div>
 
     <a href="/2006/08/02/advergames-migram-para-a-tv" class="read-more">Leia mais</a>
@@ -413,10 +408,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

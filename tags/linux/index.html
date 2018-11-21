@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,35 +102,59 @@
 
     <div id="main" role="main" class="container">
       <h2>linux</h2>
-<ul>
 
+
+
+  
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
   <li><a href="/2015/10/23/side-quest-da-miris-mind-no-greenlight">Side Quest da Miris Mind no Greenlight</a> (23/10/2015)</li>
 
-  <li><a href="/2015/08/20/racketboy-da-double-dash-studios">RacketBoy da Double Dash Studios</a> (20/08/2015)</li>
-
-  <li><a href="/2015/07/30/previa-de-relic-hunters-zero">Prévia de Relic Hunters Zero</a> (30/07/2015)</li>
-
-  <li><a href="/2015/07/22/previa-de-fofuuu-da-beltri-studio">Prévia de Fófuuu da Beltri Studio</a> (22/07/2015)</li>
-
+  
   <li><a href="/2015/06/13/lancada-versao-pc-de-carcara-asas-da-justica">Lançada versão PC de Carcará - Asas da Justiça</a> (13/06/2015)</li>
 
+  
   <li><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a> (15/05/2015)</li>
 
+  
   <li><a href="/2015/04/23/lancado-a-demo-de-turbolink">Lançada a demo de TurboLink</a> (23/04/2015)</li>
 
+  
   <li><a href="/2014/06/05/splitplay-apresenta-bernie-needs-love">Splitplay apresenta: Bernie Needs Love</a> (05/06/2014)</li>
 
+  
   <li><a href="/2012/12/13/oniken-the-rescue-2">Oniken: The Rescue</a> (13/12/2012)</li>
 
+  
   <li><a href="/2012/11/21/oniken-recebe-versao-para-mac-e-linux">Oniken recebe versão para Mac e Linux</a> (21/11/2012)</li>
 
+  
   <li><a href="/2012/01/13/joga-brasil">Joga Brasil</a> (13/01/2012)</li>
 
+  
   <li><a href="/2005/12/09/netherdeep">Netherdeep</a> (09/12/2005)</li>
 
+  
   <li><a href="/2005/10/17/projeto-experimental-de-software-livre-da-tilt-online">Projeto experimental de Software Livre da TILT online</a> (17/10/2005)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Prévias</h3>
+    <ul>
+  
+  <li><a href="/2015/08/20/racketboy-da-double-dash-studios">RacketBoy da Double Dash Studios</a> (20/08/2015)</li>
+
+  
+  <li><a href="/2015/07/30/previa-de-relic-hunters-zero">Prévia de Relic Hunters Zero</a> (30/07/2015)</li>
+
+  
+  <li><a href="/2015/07/22/previa-de-fofuuu-da-beltri-studio">Prévia de Fófuuu da Beltri Studio</a> (22/07/2015)</li>
 
     </div>
   
@@ -143,10 +162,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

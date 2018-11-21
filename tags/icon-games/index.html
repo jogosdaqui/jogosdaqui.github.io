@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,45 +102,88 @@
 
     <div id="main" role="main" class="container">
       <h2>icon-games</h2>
-<ul>
 
-  <li><a href="/2015/09/25/pixuleco-o-jogo">Pixuleco - O Jogo</a> (25/09/2015)</li>
 
+
+  
+    
+    
+    <h3>Colunas</h3>
+    <ul>
+  
   <li><a href="/2015/05/09/checkpoint-5">Checkpoint #5</a> (09/05/2015)</li>
 
+  
+    
+      </ul>
+    
+    
+    <h3>Jogos</h3>
+    <ul>
+  
+  <li><a href="/2015/09/25/pixuleco-o-jogo">Pixuleco - O Jogo</a> (25/09/2015)</li>
+
+  
   <li><a href="/2012/02/06/mahjong-max">Mahjong Max</a> (06/02/2012)</li>
 
-  <li><a href="/2012/01/13/joga-brasil">Joga Brasil</a> (13/01/2012)</li>
-
-  <li><a href="/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou">Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</a> (13/12/2010)</li>
-
-  <li><a href="/2006/06/05/bola-de-gude-ganha-estrela-de-ouro">Bola de Gude ganha "Estrela de Ouro"</a> (05/06/2006)</li>
-
-  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
-
-  <li><a href="/2006/04/27/icon-games-ganha-premio-no-exterior">ICON Games ganha prêmio no exterior</a> (27/04/2006)</li>
-
-  <li><a href="/2006/03/26/fruzzle-ganha-expansao">Fruzzle ganha expansão</a> (26/03/2006)</li>
-
+  
   <li><a href="/2006/03/22/fruzzle">Fruzzle</a> (22/03/2006)</li>
 
-  <li><a href="/2006/03/22/fruzzle-o-sapo-da-icon-games">Fruzzle, o sapo da ICON Games</a> (22/03/2006)</li>
-
-  <li><a href="/2006/03/07/previa-de-fruzzle">Prévia de Fruzzle</a> (07/03/2006)</li>
-
-  <li><a href="/2006/03/07/fruzzle">Fruzzle</a> (07/03/2006)</li>
-
-  <li><a href="/2005/12/21/iniciam-as-vendas-do-bola-de-gude">Iniciam as vendas do Bola de Gude</a> (21/12/2005)</li>
-
-  <li><a href="/2005/11/25/resultado-do-festival-de-jogos-independentes">Resultado do Festival de Jogos Independentes</a> (25/11/2005)</li>
-
+  
   <li><a href="/2005/11/21/bola-de-gude">Bola de Gude</a> (21/11/2005)</li>
 
-  <li><a href="/2005/11/16/previa-de-bola-de-gude">Prévia de Bola de Gude</a> (16/11/2005)</li>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2012/01/13/joga-brasil">Joga Brasil</a> (13/01/2012)</li>
 
+  
+  <li><a href="/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou">Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</a> (13/12/2010)</li>
+
+  
+  <li><a href="/2006/06/05/bola-de-gude-ganha-estrela-de-ouro">Bola de Gude ganha "Estrela de Ouro"</a> (05/06/2006)</li>
+
+  
+  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
+
+  
+  <li><a href="/2006/04/27/icon-games-ganha-premio-no-exterior">ICON Games ganha prêmio no exterior</a> (27/04/2006)</li>
+
+  
+  <li><a href="/2006/03/26/fruzzle-ganha-expansao">Fruzzle ganha expansão</a> (26/03/2006)</li>
+
+  
+  <li><a href="/2006/03/22/fruzzle-o-sapo-da-icon-games">Fruzzle, o sapo da ICON Games</a> (22/03/2006)</li>
+
+  
+  <li><a href="/2005/12/21/iniciam-as-vendas-do-bola-de-gude">Iniciam as vendas do Bola de Gude</a> (21/12/2005)</li>
+
+  
+  <li><a href="/2005/11/25/resultado-do-festival-de-jogos-independentes">Resultado do Festival de Jogos Independentes</a> (25/11/2005)</li>
+
+  
   <li><a href="/2005/11/16/em-primeira-mao-bola-de-gude">Em primeira mão: Bola de Gude</a> (16/11/2005)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Prévias</h3>
+    <ul>
+  
+  <li><a href="/2006/03/07/previa-de-fruzzle">Prévia de Fruzzle</a> (07/03/2006)</li>
+
+  
+  <li><a href="/2006/03/07/fruzzle">Fruzzle</a> (07/03/2006)</li>
+
+  
+  <li><a href="/2005/11/16/previa-de-bola-de-gude">Prévia de Bola de Gude</a> (16/11/2005)</li>
 
     </div>
   
@@ -153,10 +191,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

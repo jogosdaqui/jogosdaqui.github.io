@@ -20,7 +20,7 @@
   
 
 &gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt;
-&gt; - FICAR ESTILOSO&quot;&lt;/font&gt;
+&gt; - FICAR ESTILOSO"&lt;/font&gt;
  
 Foi dessa maneira bem humorada que fomos apresentados a TriboT
  o primeiro game para iOS dos indies cariocas da deVoid Games
@@ -37,7 +37,7 @@ Foi dessa maneira bem humorada que fomos apresentados a TriboT
   
 
 &gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt;
-&gt; - FICAR ESTILOSO&quot;&lt;/font&gt;
+&gt; - FICAR ESTILOSO"&lt;/font&gt;
  
 Foi dessa maneira bem humorada que fomos apresentados a TriboT
  o primeiro game para iOS dos indies cariocas da deVoid Games
@@ -54,7 +54,7 @@ Foi dessa maneira bem humorada que fomos apresentados a TriboT
   
 
 &gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt;
-&gt; - FICAR ESTILOSO&quot;&lt;/font&gt;
+&gt; - FICAR ESTILOSO"&lt;/font&gt;
  
 Foi dessa maneira bem humorada que fomos apresentados a TriboT
  o primeiro game para iOS dos indies cariocas da deVoid Games
@@ -100,7 +100,7 @@ Foi dessa maneira bem humorada que fomos apresentados a TriboT
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2013-01-23T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2013/01/23/tribot"},"@type":"BlogPosting","url":"/2013/01/23/tribot","headline":"TriboT","dateModified":"2013-01-23T00:00:00-02:00","datePublished":"2013-01-23T00:00:00-02:00","description":"SAUDACOES! EU SOU TRIBOT. DE ACORDO COM MINHAS ESPECIFICACOES, EU SOU UM BALANCE BOT DE PERNAS RETRATEIS DE CLASSE 2, S/N#3958388. ME DISSERAM QUE EU DEVERIA MOSTRAR MINHAS DIRETIVAS.&lt;/font&gt; [LISTANDO DIRETIVAS]&lt;/font&gt; PEGAR GEMS&lt;/font&gt; &gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt; &gt; - FICAR ESTILOSO&quot;&lt;/font&gt; Foi dessa maneira bem humorada que fomos apresentados a TriboT o primeiro game para iOS dos indies cariocas da deVoid Games .","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2013/01/23/tribot","headline":"TriboT","dateModified":"2013-01-23T00:00:00-02:00","datePublished":"2013-01-23T00:00:00-02:00","description":"SAUDACOES! EU SOU TRIBOT. DE ACORDO COM MINHAS ESPECIFICACOES, EU SOU UM BALANCE BOT DE PERNAS RETRATEIS DE CLASSE 2, S/N#3958388. ME DISSERAM QUE EU DEVERIA MOSTRAR MINHAS DIRETIVAS.&lt;/font&gt; [LISTANDO DIRETIVAS]&lt;/font&gt; PEGAR GEMS&lt;/font&gt; &gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt; &gt; - FICAR ESTILOSO&quot;&lt;/font&gt; Foi dessa maneira bem humorada que fomos apresentados a TriboT o primeiro game para iOS dos indies cariocas da deVoid Games .","mainEntityOfPage":{"@type":"WebPage","@id":"/2013/01/23/tribot"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -137,20 +137,15 @@ Foi dessa maneira bem humorada que fomos apresentados a TriboT
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -213,6 +208,7 @@ Foi dessa maneira bem humorada que fomos apresentados a TriboT
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <blockquote>
   <p>SAUDACOES! EU SOU TRIBOT. DE ACORDO COM MINHAS ESPECIFICACOES, EU SOU UM BALANCE BOT DE PERNAS RETRATEIS DE CLASSE 2, S/N#3958388. ME DISSERAM QUE EU DEVERIA MOSTRAR MINHAS DIRETIVAS.&lt;/font&gt;
 [LISTANDO DIRETIVAS]&lt;/font&gt;</p>
@@ -221,7 +217,7 @@ Foi dessa maneira bem humorada que fomos apresentados a TriboT
   </ul>
 </blockquote>
 <p style="text-align: left;">&gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt;
-<p style="text-align: left;">&gt; - FICAR ESTILOSO&quot;&lt;/font&gt;
+<p style="text-align: left;">&gt; - FICAR ESTILOSO"&lt;/font&gt;
 <p style="text-align: left;"> 
 <p style="text-align: left;"><span style="text-align: justify;">Foi dessa maneira bem humorada que fomos apresentados a <a href="https://www.facebook.com/TribotGame" target="_blank">TriboT</a>
  o primeiro game para iOS dos indies cariocas da <a href="http://devoidgames.com/" target="_blank">deVoid Games</a>
@@ -230,23 +226,23 @@ Foi dessa maneira bem humorada que fomos apresentados a TriboT
 
  
  
-No game voc&#234; controla o rob&#244; TriboT por diversos ambientes atrav&#233;s de um gameplay original, onde, al&#233;m de desviar de obst&#225;culos como j&#225; &#233; comum em runners, voc&#234; tamb&#233;m ter&#225; que controlar as pernas retrateis de TriboT, sempre evitando que mais de uma roda caia dentro de um buraco, pois se isso acontecer danificar&#225; seu bot at&#233; que ele n&#227;o possa mais rodar. A sua miss&#227;o &#233; levar TriboT o mais longe poss&#237;vel, coletando o m&#225;ximo de pedras preciosas e caixas m&#225;gicas pelo caminho.
+No game você controla o robô TriboT por diversos ambientes através de um gameplay original, onde, além de desviar de obstáculos como já é comum em runners, você também terá que controlar as pernas retrateis de TriboT, sempre evitando que mais de uma roda caia dentro de um buraco, pois se isso acontecer danificará seu bot até que ele não possa mais rodar. A sua missão é levar TriboT o mais longe possível, coletando o máximo de pedras preciosas e caixas mágicas pelo caminho.
  
 
  
-As pedras preciosas acumuladas podem ser trocadas por itens, como alterar a cor do bot, ou adicionar um chap&#233;u nele, ou por utilit&#225;rios para melhorar a acelera&#231;&#227;o, dobrar as pedras m&#225;gicas, catapultas, miss&#245;es secretas e ainda por upgrades para aumentar sua armadura e adicionar a habilidade de pular. Segundo o pessoal da deVoid Games &#233; poss&#237;vel mais de 400 combina&#231;&#245;es desses itens e upgrades.
+As pedras preciosas acumuladas podem ser trocadas por itens, como alterar a cor do bot, ou adicionar um chapéu nele, ou por utilitários para melhorar a aceleração, dobrar as pedras mágicas, catapultas, missões secretas e ainda por upgrades para aumentar sua armadura e adicionar a habilidade de pular. Segundo o pessoal da deVoid Games é possível mais de 400 combinações desses itens e upgrades.
  
 
  
-Ao finalizar o cen&#225;rio, se voc&#234; coletou alguma caixa, poder&#225; escolher a sorte abrindo umas das portas da caixa, se tiver sorte ganhar&#225; algo, sen&#227;o ganhar&#225; um rob&#244; tirando uma &quot;onda&quot; de voc&#234;.
+Ao finalizar o cenário, se você coletou alguma caixa, poderá escolher a sorte abrindo umas das portas da caixa, se tiver sorte ganhará algo, senão ganhará um robô tirando uma "onda" de você.
  
 
  
-Cada um dos ambientes possui uma trilha sonora pr&#243;pria criada pelo brasileiro <a href="http://leoperantoni.com/" target="_blank">Leo Perantoni</a>
-. O que ajuda muito na imers&#227;o do game.
+Cada um dos ambientes possui uma trilha sonora própria criada pelo brasileiro <a href="http://leoperantoni.com/" target="_blank">Leo Perantoni</a>
+. O que ajuda muito na imersão do game.
  
-Com controles precisos e gr&#225;ficos 3D competentes, TriboT &#233; a pedida certa para os donos de iDevice que gostam de um bom desafio.
-<a href="https://itunes.apple.com/br/app/tribot/id576450370?mt=8" target="_blank">O game est&#225; dispon&#237;vel na App Store por apenas $0,99.</a>
+Com controles precisos e gráficos 3D competentes, TriboT é a pedida certa para os donos de iDevice que gostam de um bom desafio.
+<a href="https://itunes.apple.com/br/app/tribot/id576450370?mt=8" target="_blank">O game está disponível na App Store por apenas $0,99.</a>
  
  
  
@@ -375,10 +371,10 @@ Com controles precisos e gr&#225;ficos 3D competentes, TriboT &#233; a pedida ce
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

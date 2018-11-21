@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -217,7 +212,7 @@
       
  </center>
     
-    O professor realizará uma seqüência de movimentos de dança. Cada movimento corresponde a um número do teclado, que aparecerá no centro da tela. Memorize a seqüência e tente repeti-la sem nenhum erro quando estiver na sua vez. Cada movimento correto vale 1 ponto e se você acertar a seqüência completa...
+    O professor realizará uma sequência de movimentos de dança. Cada movimento corresponde a um número do teclado, que aparecerá no centro da tela. Memorize a sequência e tente repeti-la sem nenhum erro quando estiver na sua vez. Cada movimento correto vale 1 ponto e se você acertar a sequência completa...
     </div>
 
     <a href="/2006/06/27/the-clubber" class="read-more">Leia mais</a>
@@ -431,10 +426,10 @@ Veja o novo jogo da BrutoMemo…
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

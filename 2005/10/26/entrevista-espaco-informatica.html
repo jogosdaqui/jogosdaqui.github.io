@@ -85,7 +85,7 @@ Acho que os games tem aparecido mais na mídia por que estão cada vez mais pres
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-10-26T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2005/10/26/entrevista-espaco-informatica"},"@type":"BlogPosting","url":"/2005/10/26/entrevista-espaco-informatica","headline":"Entrevista: Espaço Informática","dateModified":"2005-10-26T00:00:00-02:00","datePublished":"2005-10-26T00:00:00-02:00","description":"A gaúcha Espaço Informática foi fundada pelos irmãos Augusto Bülow e Gustavo Bülow. O primeiro jogo publicado foi Hades2, um jogo de tiro em 1ª pessoa com temática espacial, após lançaram Christmas Magic, jogo onde o jogador faz o papel de Papai Noel e deve entregar presentes com seu trenó ao redor do mundo. Matchball Tenis, o terceiro jogo da empresa, trouxe uma nova jogabilidade para o gênero. O último foi Der Pferderennstall, estratégia em tempo real, onde o jogador controla um haras de cavalos de corrida e enfrenta outros haras com seus cavalos. Vocês desenvolvem jogos desde 1999, apesar de o jogos eletrônicos brasileiros existirem desde a década de 80, apenas nesta época a produção nacional começava a ganhar notoriedade na mídia não especializada do país. Como vocês visualizam o cenário de jogos eletrônicos nacionais de hoje comparando com a realidade de 1999? Espaço Informática: O cenário que encontramos hoje é diferente do que quando iniciamos. Acho que a internet é uma das grandes responsáveis pelas mudanças, é muito fácil hoje conseguir os programas on-line, sejam legais ou não, e isso tem diminuido bastante as vendas de jogos em caixa e em revista, que tinham uma participação muito mais expressiva quando iniciamos. Mas no geral, o cenário é o mesmo, temos que competir com produções de todas as partes do mundo, e um jogo quase que independe do seu país de origem; depende completamente do seu argumento, da sua qualidade. Acho que os games tem aparecido mais na mídia por que estão cada vez mais presentes no cotidiano das pessoas. Cada vez mais pessoas possuem computadores, e acabam percebendo que eles também podem ser usadas para entretenimento, e de alta qualidade.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2005/10/26/entrevista-espaco-informatica","headline":"Entrevista: Espaço Informática","dateModified":"2005-10-26T00:00:00-02:00","datePublished":"2005-10-26T00:00:00-02:00","description":"A gaúcha Espaço Informática foi fundada pelos irmãos Augusto Bülow e Gustavo Bülow. O primeiro jogo publicado foi Hades2, um jogo de tiro em 1ª pessoa com temática espacial, após lançaram Christmas Magic, jogo onde o jogador faz o papel de Papai Noel e deve entregar presentes com seu trenó ao redor do mundo. Matchball Tenis, o terceiro jogo da empresa, trouxe uma nova jogabilidade para o gênero. O último foi Der Pferderennstall, estratégia em tempo real, onde o jogador controla um haras de cavalos de corrida e enfrenta outros haras com seus cavalos. Vocês desenvolvem jogos desde 1999, apesar de o jogos eletrônicos brasileiros existirem desde a década de 80, apenas nesta época a produção nacional começava a ganhar notoriedade na mídia não especializada do país. Como vocês visualizam o cenário de jogos eletrônicos nacionais de hoje comparando com a realidade de 1999? Espaço Informática: O cenário que encontramos hoje é diferente do que quando iniciamos. Acho que a internet é uma das grandes responsáveis pelas mudanças, é muito fácil hoje conseguir os programas on-line, sejam legais ou não, e isso tem diminuido bastante as vendas de jogos em caixa e em revista, que tinham uma participação muito mais expressiva quando iniciamos. Mas no geral, o cenário é o mesmo, temos que competir com produções de todas as partes do mundo, e um jogo quase que independe do seu país de origem; depende completamente do seu argumento, da sua qualidade. Acho que os games tem aparecido mais na mídia por que estão cada vez mais presentes no cotidiano das pessoas. Cada vez mais pessoas possuem computadores, e acabam percebendo que eles também podem ser usadas para entretenimento, e de alta qualidade.","mainEntityOfPage":{"@type":"WebPage","@id":"/2005/10/26/entrevista-espaco-informatica"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -122,20 +122,15 @@ Acho que os games tem aparecido mais na mídia por que estão cada vez mais pres
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -193,6 +188,10 @@ Acho que os games tem aparecido mais na mídia por que estão cada vez mais pres
  </center>
     
     
+    
+
+    
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A gaúcha Espaço Informática foi fundada pelos irmãos Augusto Bülow e Gustavo Bülow.</p>
 
 <p>O primeiro jogo publicado foi Hades2, um jogo de tiro em 1ª pessoa com temática espacial, após lançaram Christmas Magic, jogo onde o jogador faz o papel de Papai Noel e deve entregar presentes com seu trenó ao redor do mundo. Matchball Tenis, o terceiro jogo da empresa, trouxe uma nova jogabilidade para o gênero. O último foi Der Pferderennstall, estratégia em tempo real, onde o jogador controla um haras de cavalos de corrida e enfrenta outros haras com seus cavalos.</p>
@@ -360,10 +359,10 @@ Com certeza, a nossa história ainda está apenas inciando, mas acho que qualque
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

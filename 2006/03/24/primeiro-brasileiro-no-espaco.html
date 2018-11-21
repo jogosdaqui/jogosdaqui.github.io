@@ -58,7 +58,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-03-24T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/24/primeiro-brasileiro-no-espaco"},"@type":"BlogPosting","url":"/2006/03/24/primeiro-brasileiro-no-espaco","headline":"Primeiro Brasileiro no Espaço","dateModified":"2006-03-24T00:00:00-03:00","datePublished":"2006-03-24T00:00:00-03:00","description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/03/24/primeiro-brasileiro-no-espaco","headline":"Primeiro Brasileiro no Espaço","dateModified":"2006-03-24T00:00:00-03:00","datePublished":"2006-03-24T00:00:00-03:00","description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/24/primeiro-brasileiro-no-espaco"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -95,20 +95,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -162,6 +157,7 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p><br /><br /></p>
 
 <table width="416" cellspacing="2" cellpadding="1" border="0" style="text-align: left; margin-left: auto; margin-right: auto;">
@@ -173,8 +169,8 @@
 </font>
             <td width="70">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font><a href="../../../index.php?p=c&amp;id=39"><font size="2"> Solaris 1.0.4.</font></a>
-</font>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font> Solaris 1.0.4.</font>
+&lt;/font&gt;
         
         <tr>
             <td width="70">
@@ -183,28 +179,28 @@
 
             <td width="70">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font size="2"> </font><a href="../../../index.php?p=c&amp;id=118"><font size="2"> Space Hero</font></a>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font size="2"> </font> Space Hero&lt;/font&gt;
 
         
         <tr>
             <td width="70" style="font-family: Arial;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font><a href="../../../index.php?p=c&amp;id=14"><font size="2"> Hades2</font></a>
-</font>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font> Hades2</font>
+&lt;/font&gt;
             <td width="70" style="font-family: Arial;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left" style="font-family: Arial;"><font size="2"><a href="../../../index.php?p=c&amp;id=48">Taikodom</a>
+            <td valign="middle" bgcolor="#ddddd5" align="left" style="font-family: Arial;"><font size="2">Taikodom
 </font>
         
         <tr>
             <td width="70" style="font-family: Arial;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left"><font><a href="../../../index.php?p=c&amp;id=81"><font size="2"> Impacto Alpha</font></a>
-</font>
+            <td valign="middle" bgcolor="#ddddd5" align="left"><font> Impacto Alpha</font>
+&lt;/font&gt;
             <td width="70" style="font-family: Arial;">
 
-            <td valign="middle" bgcolor="#ddddd5" align="left" style="font-family: Arial;"><font><a href="../../../index.php?p=c&amp;id=37"><font size="2"> Terra - Destino Final</font></a>
-</font>
+            <td valign="middle" bgcolor="#ddddd5" align="left" style="font-family: Arial;"><font> Terra - Destino Final</font>
+&lt;/font&gt;
         
         <tr>
             <td width="70">
@@ -221,7 +217,7 @@
  <br />
 
 <br />
-<span style="font-weight: bold;">Sobre a Miss&atilde;o</span><br /><br />Partindo do Cazaquist&atilde;o, na nave russa Soyuz TMA-8, Marcos  Pontes entrar&aacute; para a hist&oacute;ria como o primeiro brasileiro a viajar para o  espa&ccedil;o. Rumo a Esta&ccedil;&atilde;o Espacial Internacional (ISS), Pontes conduzira uma  s&eacute;rie experimentos para o programa de microgravidade da Ag&ecirc;ncia  Espacial Brasileira (AEB). Ao todos s&atilde;o 8 experimentos desenvolvidos  por universidades e centros de pesquisas brasileiros. O <span style="font-weight: bold; color: rgb(255, 153, 0);">jogosdaqui </span>deseja  ao nosso cosmonauta, uma excelente viagem.<br /><br /><a href="http://www.marcospontes.net">Saiba mais...</a>
+<span style="font-weight: bold;">Sobre a Missão</span><br /><br />Partindo do Cazaquistão, na nave russa Soyuz TMA-8, Marcos  Pontes entrará para a história como o primeiro brasileiro a viajar para o  espaço. Rumo a Estação Espacial Internacional (ISS), Pontes conduzira uma  série experimentos para o programa de microgravidade da Agência  Espacial Brasileira (AEB). Ao todos são 8 experimentos desenvolvidos  por universidades e centros de pesquisas brasileiros. O <span style="font-weight: bold; color: rgb(255, 153, 0);">jogosdaqui </span>deseja  ao nosso cosmonauta, uma excelente viagem.<br /><br /><a href="http://www.marcospontes.net">Saiba mais...</a>
 
 </td></td></td></td></tr></td></td></td></td></tr></td></td></td></td></tr></td></td></td></td></tr></td></td></td></td></tr></table>
 
@@ -301,10 +297,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

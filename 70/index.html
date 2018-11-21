@@ -88,20 +88,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -155,7 +150,7 @@
   
  </center>
     
-    Descubra quem está "levando grana por fora", estudando os depoimentos e analisando as conclusões da CPI. Teste sua capacidade de dedução e observação, pois nem tudo pode ser provado diretamente. Partindo de uma denúncia, constatou-se que quatro parlamentares estariam recebendo uma determinada quantia em dinheiro, a título de "mesada". Foi...
+    Descubra quem está “levando grana por fora”, estudando os depoimentos e analisando as conclusões da CPI. Teste sua capacidade de dedução e observação, pois nem tudo pode ser provado diretamente. Partindo de uma denúncia, constatou-se que quatro parlamentares estariam recebendo uma determinada quantia em dinheiro, a título de “mesada”. Foi...
     </div>
 
     <a href="/2005/08/27/mensalao-o-jogo" class="read-more">Leia mais</a>
@@ -187,7 +182,7 @@
       
  </center>
     
-    O Erinia é um jogo RPG (Role Playing Game – Jogo de Representação de Papéis) para computador, de uso massivo pela Internet. O jogo permite que milhares de pessoas joguem simultaneamente, interagindo em um mundo virtual persistente que evolui e se altera constantemente, mesmo quando eles não estão conectados ao...
+    O Erinia é um jogo RPG (Role Playing Game - Jogo de Representação de Papéis) para computador, de uso massivo pela Internet. O jogo permite que milhares de pessoas joguem simultaneamente, interagindo em um mundo virtual persistente que evolui e se altera constantemente, mesmo quando eles não estão conectados ao...
     </div>
 
     <a href="/2005/08/27/erinia" class="read-more">Leia mais</a>
@@ -258,10 +253,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

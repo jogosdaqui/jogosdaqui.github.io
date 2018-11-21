@@ -67,7 +67,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-04-28T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/04/28/novidades-da-palmsoft"},"@type":"BlogPosting","url":"/2006/04/28/novidades-da-palmsoft","headline":"Novidades da Palmsoft","dateModified":"2006-04-28T00:00:00-03:00","datePublished":"2006-04-28T00:00:00-03:00","description":"Previsto para entrar no mercado na primeira semana de maio, Golden West - Bang! Bang! é o próximo RPG a ser lançado pela PalmSoft Tecnologia . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa.Em Golden West - Bang! Bang!, o jogador é remetido ao Velho Oeste americano, onde o sonho de encontrar ouro e tornar-se rico mistura-se com o desejo de vingança. Seu tio, um velho imigrante chinês, foi morto por protestar contra as injustiças no garimpo, mas lhe deixou um dos quatro pedaços do mapa da mina. Agora, cabe a você vingar a morte dele, encontrar as outras três partes, e tornar real o sonho americano. Publicado pela MDEV , Golden West é comercializado pelas operadoras Claro, Brasil Telecom GSM, Teleamazônia e Telemig, através dos sites das operadoras ou pelo celular.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/04/28/novidades-da-palmsoft","headline":"Novidades da Palmsoft","dateModified":"2006-04-28T00:00:00-03:00","datePublished":"2006-04-28T00:00:00-03:00","description":"Previsto para entrar no mercado na primeira semana de maio, Golden West - Bang! Bang! é o próximo RPG a ser lançado pela PalmSoft Tecnologia . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa.Em Golden West - Bang! Bang!, o jogador é remetido ao Velho Oeste americano, onde o sonho de encontrar ouro e tornar-se rico mistura-se com o desejo de vingança. Seu tio, um velho imigrante chinês, foi morto por protestar contra as injustiças no garimpo, mas lhe deixou um dos quatro pedaços do mapa da mina. Agora, cabe a você vingar a morte dele, encontrar as outras três partes, e tornar real o sonho americano. Publicado pela MDEV , Golden West é comercializado pelas operadoras Claro, Brasil Telecom GSM, Teleamazônia e Telemig, através dos sites das operadoras ou pelo celular.","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/04/28/novidades-da-palmsoft"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -104,20 +104,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -171,6 +166,7 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Previsto para entrar no mercado na primeira semana de maio, Golden West - Bang! Bang!
  é o próximo RPG a ser lançado pela PalmSoft Tecnologia
 . Outras duas novidades serão lançadas ainda nesta sexta-feira, 28: um Fórum e o sistema Avalie o Jogo, ambos disponíveis no site da empresa.<br /><br />Em Golden West - Bang! Bang!, o jogador é remetido ao Velho Oeste americano, onde o sonho de encontrar ouro e tornar-se rico mistura-se com o desejo de vingança. Seu tio, um velho imigrante chinês, foi morto por protestar contra as injustiças no garimpo, mas lhe deixou um dos quatro pedaços do mapa da mina. Agora, cabe a você vingar a morte dele, encontrar as outras três partes, e tornar real o sonho americano. Publicado pela MDEV
@@ -253,10 +249,10 @@ Veja a prévia de Golden West - Bang! Bang!…
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

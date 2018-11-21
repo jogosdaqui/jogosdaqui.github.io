@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -192,7 +187,7 @@
   
  </center>
     
-    &gt; Por Luiz Damasceno (@lcdjr &gt; ) em colabora&#231;&#227;o para o jogosdaqui. Demo mostra visual afiado e preciosismo nos detalhes Se Kirby fosse redesenhado por Tim Burton, o resultado não ficaria distante do protagonista de Talbot’s Odissey. Carismático, medroso e redondo, o pequeno herói é a estrela da produção independente...
+    &gt; Por Luiz Damasceno (@lcdjr &gt; ) em colaboração para o jogosdaqui. Demo mostra visual afiado e preciosismo nos detalhes Se Kirby fosse redesenhado por Tim Burton, o resultado não ficaria distante do protagonista de Talbot’s Odissey. Carismático, medroso e redondo, o pequeno herói é a estrela da produção independente...
     </div>
 
     <a href="/2011/02/18/preview-de-talbots-odissey" class="read-more">Leia mais</a>
@@ -254,7 +249,7 @@
       
  </center>
     
-    É comum vermos pequenas equipes de desenvolvimento de jogos, principalmente de outros países, criarem protótipos ou conceitos de games e, com isso, buscar a colaboração de outros profissionais, como modeladores 3D, animadores, ilustradores, game designers, e até investidores. Um bom exemplo disso é o game dinamarquês "Limbo", onde os dois...
+    É comum vermos pequenas equipes de desenvolvimento de jogos, principalmente de outros países, criarem protótipos ou conceitos de games e, com isso, buscar a colaboração de outros profissionais, como modeladores 3D, animadores, ilustradores, game designers, e até investidores. Um bom exemplo disso é o game dinamarquês “Limbo”, onde os dois...
     </div>
 
     <a href="/2011/02/11/project-manolo" class="read-more">Leia mais</a>
@@ -419,10 +414,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

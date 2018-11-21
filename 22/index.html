@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -139,7 +134,7 @@
   
  </center>
     
-    A desenvolvedora brasileira Dead Mushroom iniciou uma campanha de crowdfunding que visa arrecadar fundos para que seu game "Cowboy vs Aliens vs Ninjas" fique disponível de graça para iOS e Android, além de ajudar no desenvolvimento de uma versão para desktop. Como já é de praxe em campanhas crowdfunding, caso...
+    A desenvolvedora brasileira Dead Mushroom iniciou uma campanha de crowdfunding que visa arrecadar fundos para que seu game “Cowboy vs Aliens vs Ninjas” fique disponível de graça para iOS e Android, além de ajudar no desenvolvimento de uma versão para desktop. Como já é de praxe em campanhas crowdfunding, caso...
     </div>
 
     <a href="/2012/10/03/apoie-o-jogo-comboy" class="read-more">Leia mais</a>
@@ -192,7 +187,7 @@
   
  </center>
     
-    Em seu primeiro game para iPad, a empresa brasileira Mkt Virtual desenvolveu em parceria com a Copag, maior fabricante de baralhos do Brasil, o game "Copaguinho no Espaço". No game o jogador controla o Super Copaguinho atrav&#233;s de 10 fases no melhor estilo dos cl&#225;ssicos jogos de nave shoot&#8217;em up....
+    Em seu primeiro game para iPad, a empresa brasileira Mkt Virtual desenvolveu em parceria com a Copag, maior fabricante de baralhos do Brasil, o game “Copaguinho no Espaço”. No game o jogador controla o Super Copaguinho através de 10 fases no melhor estilo dos clássicos jogos de nave shoot'em up....
     </div>
 
     <a href="/2012/07/10/copaguinho-no-espaco" class="read-more">Leia mais</a>
@@ -450,10 +445,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

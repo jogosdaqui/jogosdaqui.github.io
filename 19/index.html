@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -161,7 +156,7 @@
   
  </center>
     
-    "O Projeto Neumann consiste no desenvolvimento de um jogo para treinamento cognitivo de crianças e adolescentes com dificuldades de se concentrar, que os ajudará a controlar seus impulsos motores e comportamentais, educando-os a respeito do foco atencional e do planejamento e organização das suas tarefas cotidianas." Essa é apresentação do...
+    “O Projeto Neumann consiste no desenvolvimento de um jogo para treinamento cognitivo de crianças e adolescentes com dificuldades de se concentrar, que os ajudará a controlar seus impulsos motores e comportamentais, educando-os a respeito do foco atencional e do planejamento e organização das suas tarefas cotidianas.” Essa é apresentação do...
     </div>
 
     <a href="/2013/05/09/projeto-neuman-concorre-ao-indie-crash-3" class="read-more">Leia mais</a>
@@ -330,7 +325,7 @@
       
  </center>
     
-    A Doubleleft , desenvolvedora paulista conhecida pelos games Garbageman e Bob Burnquist’s Dreamland , tem mais um game fazendo sucesso: Michel Teló no Mundo . No estilo endless running, o jogador controla um Michel Teló com um visual bem cartoon que tem que correr e conquistar fãs em diversos lugares famosos,...
+    A Doubleleft, desenvolvedora paulista conhecida pelos games Garbageman Bob Burnquist’s Dreamland, tem mais um game fazendo sucesso: Michel Teló no Mundo No estilo endless running, o jogador controla um Michel Teló com um visual bem cartoon que tem que correr e conquistar fãs em diversos lugares famosos, como o Rio de...
     </div>
 
     <a href="/2013/04/18/michel-telo-no-mundo" class="read-more">Leia mais</a>
@@ -426,10 +421,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

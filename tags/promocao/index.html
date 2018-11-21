@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,37 +102,69 @@
 
     <div id="main" role="main" class="container">
       <h2>promocao</h2>
-<ul>
 
-  <li><a href="/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos">Bundle de 30 games brasileiros totalmente gratuitos</a> (18/08/2015)</li>
 
-  <li><a href="/2015/07/03/surge-a-game-academy-escola-online-focada-em-games">Surge a Game Academy, escola online focada em games</a> (03/07/2015)</li>
 
-  <li><a href="/2015/05/13/promocao-do-game-space-lander">Promoção do game Space Lander</a> (13/05/2015)</li>
-
-  <li><a href="/2015/05/08/ganhadores-da-promocao-do-game-recruits">Ganhadores da promoção do game Recruits</a> (08/05/2015)</li>
-
-  <li><a href="/2015/05/05/promocao-do-game-recruits-make-heroes-make-history">Promoção do game Recruits - Make Heroes. Make History.</a> (05/05/2015)</li>
-
-  <li><a href="/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana">SplitPlay dobra de tamanho em apenas um fim de semana</a> (30/03/2015)</li>
-
-  <li><a href="/2015/03/27/soul-gambler-gratuito-e-kickstarter-de-face-it">Soul Gambler gratuito e Kickstarter de Face It</a> (27/03/2015)</li>
-
+  
+    
+    
+    <h3>Jogos</h3>
+    <ul>
+  
   <li><a href="/2011/10/14/blluby">BLLUBY</a> (14/10/2011)</li>
 
-  <li><a href="/2006/01/30/promocao-ano-10-assinatura-economica">Promoção Ano 10 = assinatura econômica</a> (30/01/2006)</li>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2015/08/18/bundle-de-30-games-brasileiros-totalmente-gratuitos">Bundle de 30 games brasileiros totalmente gratuitos</a> (18/08/2015)</li>
 
+  
+  <li><a href="/2015/07/03/surge-a-game-academy-escola-online-focada-em-games">Surge a Game Academy, escola online focada em games</a> (03/07/2015)</li>
+
+  
+  <li><a href="/2015/05/08/ganhadores-da-promocao-do-game-recruits">Ganhadores da promoção do game Recruits</a> (08/05/2015)</li>
+
+  
+  <li><a href="/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana">SplitPlay dobra de tamanho em apenas um fim de semana</a> (30/03/2015)</li>
+
+  
+  <li><a href="/2015/03/27/soul-gambler-gratuito-e-kickstarter-de-face-it">Soul Gambler gratuito e Kickstarter de Face It</a> (27/03/2015)</li>
+
+  
   <li><a href="/2005/10/17/ultimos-ganhadores">Últimos ganhadores</a> (17/10/2005)</li>
 
+  
   <li><a href="/2005/10/10/ganhadores-da-terceira-semana">Ganhadores da terceira semana</a> (10/10/2005)</li>
 
+  
   <li><a href="/2005/10/02/ganhadores-da-segunda-semana">Ganhadores da segunda semana</a> (02/10/2005)</li>
 
+  
   <li><a href="/2005/09/26/ganhadores-da-primeira-semana">Ganhadores da primeira semana</a> (26/09/2005)</li>
 
-  <li><a href="/2005/09/17/promocao-de-lancamento-do-jogosdaqui">Promoção de lançamento do jogosdaqui</a> (17/09/2005)</li>
+  
+    
+      </ul>
+    
+    
+    <h3>Promo</h3>
+    <ul>
+  
+  <li><a href="/2015/05/13/promocao-do-game-space-lander">Promoção do game Space Lander</a> (13/05/2015)</li>
 
-</ul>
+  
+  <li><a href="/2015/05/05/promocao-do-game-recruits-make-heroes-make-history">Promoção do game Recruits - Make Heroes. Make History.</a> (05/05/2015)</li>
+
+  
+  <li><a href="/2006/01/30/promocao-ano-10-assinatura-economica">Promoção Ano 10 = assinatura econômica</a> (30/01/2006)</li>
+
+  
+  <li><a href="/2005/09/17/promocao-de-lancamento-do-jogosdaqui">Promoção de lançamento do jogosdaqui</a> (17/09/2005)</li>
 
     </div>
   
@@ -145,10 +172,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

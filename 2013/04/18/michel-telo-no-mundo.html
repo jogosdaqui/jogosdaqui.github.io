@@ -12,25 +12,13 @@
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
-    <meta name="description" content="A Doubleleft
-, desenvolvedora paulista conhecida pelos games Garbageman
- e Bob Burnquist’s Dreamland
-, tem mais um game fazendo sucesso: Michel Teló no Mundo
-.
+    <meta name="description" content="A Doubleleft, desenvolvedora paulista conhecida pelos games Garbageman Bob Burnquist’s Dreamland, tem mais um game fazendo sucesso: Michel Teló no Mundo
 
 " />
-    <meta property="og:description" content="A Doubleleft
-, desenvolvedora paulista conhecida pelos games Garbageman
- e Bob Burnquist’s Dreamland
-, tem mais um game fazendo sucesso: Michel Teló no Mundo
-.
+    <meta property="og:description" content="A Doubleleft, desenvolvedora paulista conhecida pelos games Garbageman Bob Burnquist’s Dreamland, tem mais um game fazendo sucesso: Michel Teló no Mundo
 
 " />
-    <meta name="twitter:description" content="A Doubleleft
-, desenvolvedora paulista conhecida pelos games Garbageman
- e Bob Burnquist’s Dreamland
-, tem mais um game fazendo sucesso: Michel Teló no Mundo
-.
+    <meta name="twitter:description" content="A Doubleleft, desenvolvedora paulista conhecida pelos games Garbageman Bob Burnquist’s Dreamland, tem mais um game fazendo sucesso: Michel Teló no Mundo
 
 " />
     
@@ -63,14 +51,15 @@
 <title>Michel Teló no Mundo | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Michel Teló no Mundo" />
+<meta name="author" content="Diego Giacomelli" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="A Doubleleft , desenvolvedora paulista conhecida pelos games Garbageman e Bob Burnquist’s Dreamland , tem mais um game fazendo sucesso: Michel Teló no Mundo ." />
-<meta property="og:description" content="A Doubleleft , desenvolvedora paulista conhecida pelos games Garbageman e Bob Burnquist’s Dreamland , tem mais um game fazendo sucesso: Michel Teló no Mundo ." />
+<meta name="description" content="A Doubleleft, desenvolvedora paulista conhecida pelos games Garbageman Bob Burnquist’s Dreamland, tem mais um game fazendo sucesso: Michel Teló no Mundo" />
+<meta property="og:description" content="A Doubleleft, desenvolvedora paulista conhecida pelos games Garbageman Bob Burnquist’s Dreamland, tem mais um game fazendo sucesso: Michel Teló no Mundo" />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2013-04-18T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2013/04/18/michel-telo-no-mundo"},"@type":"BlogPosting","url":"/2013/04/18/michel-telo-no-mundo","headline":"Michel Teló no Mundo","dateModified":"2013-04-18T00:00:00-03:00","datePublished":"2013-04-18T00:00:00-03:00","description":"A Doubleleft , desenvolvedora paulista conhecida pelos games Garbageman e Bob Burnquist’s Dreamland , tem mais um game fazendo sucesso: Michel Teló no Mundo .","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Diego Giacomelli"},"@type":"BlogPosting","url":"/2013/04/18/michel-telo-no-mundo","headline":"Michel Teló no Mundo","dateModified":"2013-04-18T00:00:00-03:00","datePublished":"2013-04-18T00:00:00-03:00","description":"A Doubleleft, desenvolvedora paulista conhecida pelos games Garbageman Bob Burnquist’s Dreamland, tem mais um game fazendo sucesso: Michel Teló no Mundo","mainEntityOfPage":{"@type":"WebPage","@id":"/2013/04/18/michel-telo-no-mundo"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -107,20 +96,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -177,11 +161,15 @@
  </center>
     
     
-    <p>A <a href="https://www.facebook.com/doubleleft" target="_blank">Doubleleft</a>
-, desenvolvedora paulista conhecida pelos games <a href="http://doubleleft.com/garbageman/" target="_blank">Garbageman</a>
- e <a href="http://bbdreamland.com/" target="_blank">Bob Burnquist’s Dreamland</a>
-, tem mais um game fazendo sucesso: <a href="http://playmicheltelo.com/" target="_blank">Michel Teló no Mundo</a>
-.</p>
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Doubleleft.</div>
+    
+
+    
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Diego Giacomelli.</div>
+
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
+    <p>A <a href="https://www.facebook.com/doubleleft">Doubleleft</a>, desenvolvedora paulista conhecida pelos games <a href="http://doubleleft.com/garbageman/">Garbageman</a> <a href="http://bbdreamland.com/">Bob Burnquist’s Dreamland</a>, tem mais um game fazendo sucesso: <a href="http://playmicheltelo.com/">Michel Teló no Mundo</a></p>
 
 <p>No estilo endless running, o jogador controla um Michel Teló com um visual bem cartoon que tem que correr e conquistar fãs em diversos lugares famosos, como o Rio de Janeiro, Paris e Nova York.</p>
 
@@ -189,11 +177,10 @@
         <iframe src="https://player.vimeo.com/video/52712339 " width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
       </center>
 <h2 id="o-jogo-está-disponível-para-as-plataformas">O jogo está disponível para as plataformas</h2>
+
 <ul>
-	<li><a href="https://itunes.apple.com/app/michel-telo-no-mundo/id592034934?ls=1&amp;mt=8" target="_blank">iOS</a>
-</li>
-	<li><a href="https://play.google.com/store/apps/details?id=com.doubleleft.teloworld" target="_blank">Android</a>
-.</li>
+  <li><a href="https://itunes.apple.com/app/michel-telo-no-mundo/id592034934?ls=1&amp;mt=8">iOS</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.doubleleft.teloworld">Android</a></li>
 </ul>
 
     
@@ -272,10 +259,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -67,7 +67,7 @@ Legend Online
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2014-11-06T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2014/11/06/mmorpg-conquista-20-milhoes-de-jogadores-no-brasil"},"@type":"BlogPosting","url":"/2014/11/06/mmorpg-conquista-20-milhoes-de-jogadores-no-brasil","headline":"MMORPG conquista 20 milhões de jogadores no Brasil","dateModified":"2014-11-06T00:00:00-02:00","datePublished":"2014-11-06T00:00:00-02:00","description":"Legend Online é um MMORPG grátis desenvolvido pela Oasis Games **e que está entre os 20 jogos mais jogados do Facebook, e um dos melhores jogos de MMORPGs de browser do momento. O jogo possui incríveis gráficos **2D e 3D, e uma jogabilidade diferenciada.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2014/11/06/mmorpg-conquista-20-milhoes-de-jogadores-no-brasil","headline":"MMORPG conquista 20 milhões de jogadores no Brasil","dateModified":"2014-11-06T00:00:00-02:00","datePublished":"2014-11-06T00:00:00-02:00","description":"Legend Online é um MMORPG grátis desenvolvido pela Oasis Games **e que está entre os 20 jogos mais jogados do Facebook, e um dos melhores jogos de MMORPGs de browser do momento. O jogo possui incríveis gráficos **2D e 3D, e uma jogabilidade diferenciada.","mainEntityOfPage":{"@type":"WebPage","@id":"/2014/11/06/mmorpg-conquista-20-milhoes-de-jogadores-no-brasil"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -104,20 +104,15 @@ Legend Online
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -181,6 +176,7 @@ Legend Online
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p><br />
 <a href="http://www.oasgames.com/">Legend Online</a>
  é um <strong>MMORPG grátis</strong> desenvolvido pela <strong>Oasis Games **e que está entre os 20 jogos mais jogados do Facebook, e um dos <a href="http://lobr.oasgames.com/">melhores jogos de MMORPGs</a>
@@ -329,10 +325,10 @@ Legend Online
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

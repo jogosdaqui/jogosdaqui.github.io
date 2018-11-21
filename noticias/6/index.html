@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -115,6 +110,27 @@
   <div class="entry">
     <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/04/24/trailer-de-lancamento-de-chroma-squad">Trailer de lançamento de Chroma Squad</a></h1>
+
+    <div class="entry">
+     
+ 
+
+
+<center>
+  
+ </center>
+    
+    A Behold Studios liberou o trailer de lançamento do Chroma Squad que tem previsão de chegar no Steam no próximo dia 30. O trailer, com direito a trilha sonora japonesa, deu aquela saudade de ver o Esquadrão Relâmpago Changeman na tela da extinta TV Manchete. Para os mais novos a...
+    </div>
+
+    <a href="/2015/04/24/trailer-de-lancamento-de-chroma-squad" class="read-more">Leia mais</a>
+    </article>
 
     
     
@@ -209,6 +225,21 @@
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/04/16/dino-zone">Dino Zone</a></h1>
@@ -283,21 +314,6 @@
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -410,8 +426,6 @@ Confira o teaser trailer abaixo:
 <center>
   
     
-  
-    
       <img src="/assets/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
@@ -420,27 +434,6 @@ Confira o teaser trailer abaixo:
     </div>
 
     <a href="/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana" class="read-more">Leia mais</a>
-    </article>
-
-    
-    
-    <article class="post">
-
-    <h1><a href="/2015/03/30/manifesto-games-vence-concurso-nacional">Manifesto Games vence concurso nacional</a></h1>
-
-    <div class="entry">
-     
- 
-
-
-<center>
-  
- </center>
-    
-    A brasileira Manifesto Games, que possui escritórios em Recife e São Paulo, foi a grande vencedora do Prêmio de Desenvolvimento de Jogos de Educação Financeira do SEBRAE. Um total de 223 jogos concorriam aos R$ 380 mil em prêmios que foram distribuídos para 5 selecionados sendo 3 do RS, 2...
-    </div>
-
-    <a href="/2015/03/30/manifesto-games-vence-concurso-nacional" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -482,10 +475,10 @@ Confira o teaser trailer abaixo:
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

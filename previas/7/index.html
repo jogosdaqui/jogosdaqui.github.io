@@ -88,20 +88,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -114,48 +109,6 @@
   <div class="entry">
     <div class="posts">
  
-
-    
-    
-    <article class="post">
-
-    <h1><a href="/2006/01/12/jet-thunder">Jet Thunder</a></h1>
-
-    <div class="entry">
-     
- 
-
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="/assets/2006/01/12/jet-thunder/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    Jet Thunder (título provisório) é um projeto de criação de um simulador de vôo realístico baseado na guerra aérea do Atlântico Sul, em 1982 - o conflito das Falklands/Malvinas. Está sendo desenvolvido por um grupo de entusiastas da aviação militar, em sua maioria localizados na América do Sul. Assim que...
-    </div>
-
-    <a href="/2006/01/12/jet-thunder" class="read-more">Leia mais</a>
-    </article>
 
     
     
@@ -276,21 +229,6 @@ Neste jogo da PalmSoft, com previsão de lançamento para janeiro de 2006, você
 
     
     
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
-    
     <article class="post">
 
     <h1><a href="/2005/11/16/previa-de-bola-de-gude">Prévia de Bola de Gude</a></h1>
@@ -329,6 +267,21 @@ Neste jogo da PalmSoft, com previsão de lançamento para janeiro de 2006, você
     </article>
 
     
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
     
     <article class="post">
 
@@ -419,10 +372,10 @@ Neste jogo da PalmSoft, com previsão de lançamento para janeiro de 2006, você
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

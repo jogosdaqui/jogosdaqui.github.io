@@ -64,7 +64,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2013-05-20T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2013/05/20/master-of-words"},"@type":"BlogPosting","url":"/2013/05/20/master-of-words","headline":"Master of Words","dateModified":"2013-05-20T00:00:00-03:00","datePublished":"2013-05-20T00:00:00-03:00","description":"Deveria ter feito esse post sobre o Master of Words , da gaúcha Rockhead Games , na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2013/05/20/master-of-words","headline":"Master of Words","dateModified":"2013-05-20T00:00:00-03:00","datePublished":"2013-05-20T00:00:00-03:00","description":"Deveria ter feito esse post sobre o Master of Words , da gaúcha Rockhead Games , na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)","mainEntityOfPage":{"@type":"WebPage","@id":"/2013/05/20/master-of-words"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -101,20 +101,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -179,6 +174,7 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Deveria ter feito esse post sobre o <a href="http://masterofwords.net/" target="_blank">Master of Words</a>
 , da gaúcha <a href="http://www.rockheadgames.com/" target="_blank">Rockhead Games</a>
 , na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)</p>
@@ -188,11 +184,11 @@
 <p>Você recebe uma grade de letras e precisa montar alguma palavra com ela, quanto maior a palavra mais pontos ganha, além disso as letras que possuem uma estrela dão mais pontos e se você ainda fizer uma palavra utilizando uma linha ou coluna completa, mais pontos também.</p>
 
 <p>O jogo conta com power-ups, como embaralhador, estrelas cadentes, salve a bandeja e descongelar tudo.
-Um pequeno easter egg: tente escrever um "palavrão" e veja o som que faz ;)</p>
+Um pequeno easter egg: tente escrever um “palavrão” e veja o som que faz ;)</p>
 
 <p>Master of Words é simples e muito bem acabado. Uma das coisas mais legais é que você sempre joga online contra diversas pessoas ao redor do mundo que estão na mesma sala e no final consegue ver em que posição ficou na rodada. Os rankings de todos os jogadores podem ser acompanhados também pelo site do game: <a href="http://masterofwords.net/rankings/" target="_blank">http://masterofwords.net/rankings/</a></p>
 
-<p>Com todas as qualidades que tem e com seu grande fator de competição, graças ao multiplayer, Master of Words tem todo o potencial para ser um hit… talvez o próximo "DrawSomething"… o tempo dirá!</p>
+<p>Com todas as qualidades que tem e com seu grande fator de competição, graças ao multiplayer, Master of Words tem todo o potencial para ser um hit… talvez o próximo “DrawSomething”… o tempo dirá!</p>
 
 <p>Master of Words está disponível gratuitamente para <a href="https://itunes.apple.com/us/app/master-of-words/id580299053?ls=1&amp;mt=8" target="_blank">iOS</a>
  e <a href="https://play.google.com/store/apps/details?id=com.rockhead.master_of_words&amp;hl=en" target="_blank">Android</a>
@@ -321,10 +317,10 @@ A Rockhead promente para breve uma versão Windows Phone.</p>
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

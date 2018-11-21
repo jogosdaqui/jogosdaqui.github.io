@@ -59,7 +59,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2011-02-25T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2"},"@type":"BlogPosting","url":"/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2","headline":"Entrevista: Tiago Moraes da Ovni Studios (parte 2)","dateModified":"2011-02-25T00:00:00-03:00","datePublished":"2011-02-25T00:00:00-03:00","author":{"@type":"Person","name":"Daniel Mello"},"description":"Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Daniel Mello"},"@type":"BlogPosting","url":"/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2","headline":"Entrevista: Tiago Moraes da Ovni Studios (parte 2)","dateModified":"2011-02-25T00:00:00-03:00","datePublished":"2011-02-25T00:00:00-03:00","description":"Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.","mainEntityOfPage":{"@type":"WebPage","@id":"/2011/02/25/entrevista-tiago-moraes-da-ovni-studios-parte-2"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -96,20 +96,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -166,8 +161,12 @@
  </center>
     
     
-<div class="post-info"><i class="fas fa-pen-square"></i> Post por Daniel Mello em colaboração para o jogosdaqui.</div>
+    
 
+    
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Daniel Mello.</div>
+
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Confira a segunda e última parte da entrevista com Tiago Moraes da Ovni Studios.</p>
 
 <h2 id="sobre-os-jogos-de-vocês-apresente-o-que-vocês-já-fizeram">Sobre os jogos de vocês, apresente o que vocês já fizeram</h2>
@@ -177,10 +176,10 @@
 
 <h2 id="tem-mais-novidade-vindo-por-ai">Tem mais novidade vindo por ai?</h2>
 <blockquote>
-  <p>Tiago Moraes: Sim, estamos quase terminando o port dele (Dodgeball) para iPad, o que serviu principalmente para estabelecer contato com as principais publishers, e já estamos desenvolvendo dois outros projetos. É muito difícil apresentar um projeto pronto para o publicador e ele querer publicar, é preciso que eles acompanhem desde o início para fazerem considerações e o jogo esteja adequado - afinal, é o nome deles que está em jogo. O Dodgeball a gente não publicou por nenhum publisher para que a gente sentisse esse mercado do "self-publishing", e mesmo com muito esforço nós vimos que não é o melhor caminho. Há muita concorrência, então estamos com esses contatos para que os próximos projetos sejam publicados por eles.</p>
+  <p>Tiago Moraes: Sim, estamos quase terminando o port dele (Dodgeball) para iPad, o que serviu principalmente para estabelecer contato com as principais publishers, e já estamos desenvolvendo dois outros projetos. É muito difícil apresentar um projeto pronto para o publicador e ele querer publicar, é preciso que eles acompanhem desde o início para fazerem considerações e o jogo esteja adequado - afinal, é o nome deles que está em jogo. O Dodgeball a gente não publicou por nenhum publisher para que a gente sentisse esse mercado do “self-publishing”, e mesmo com muito esforço nós vimos que não é o melhor caminho. Há muita concorrência, então estamos com esses contatos para que os próximos projetos sejam publicados por eles.</p>
 </blockquote>
 
-<h2 id="rolou-a-campus-party-recentemente-e-entre-os-gamers-teve-um-pessoal-que-desenvolvia-também-em-uma-das-palestras-foi-dito-tomem-cuidado-que-vocês-vão-enfrentar-muitas-dificuldades-você-tem-uma-dica-para-quem-está-desenvolvendo-jogo-no-brasil">Rolou a Campus Party recentemente, e entre os gamers, teve um pessoal que desenvolvia também. Em uma das palestras, foi dito: "tomem cuidado que vocês vão enfrentar muitas dificuldades". Você tem uma dica para quem está desenvolvendo jogo no Brasil?</h2>
+<h2 id="rolou-a-campus-party-recentemente-e-entre-os-gamers-teve-um-pessoal-que-desenvolvia-também-em-uma-das-palestras-foi-dito-tomem-cuidado-que-vocês-vão-enfrentar-muitas-dificuldades-você-tem-uma-dica-para-quem-está-desenvolvendo-jogo-no-brasil">Rolou a Campus Party recentemente, e entre os gamers, teve um pessoal que desenvolvia também. Em uma das palestras, foi dito: “tomem cuidado que vocês vão enfrentar muitas dificuldades”. Você tem uma dica para quem está desenvolvendo jogo no Brasil?</h2>
 <blockquote>
   <p>Tiago Moraes: É saber o que quer, isso é o principal. Hoje em dia há muitas empresas, muitas vagas, então é preciso saber o caminho que se deseja trilhar para não pegar o caminho errado. Desde a escolha da ferramenta, pensar com carinho em Facebook, iPhone e Android, e finalizar o projeto, que é o que diz muito sobre a empresa. Poucas pessoas conseguem finalizar, por mais que seja um projeto simples. Finalizar ajuda bastante na hora de encontrar emprego ou falar com um publicador.</p>
 </blockquote>
@@ -266,10 +265,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

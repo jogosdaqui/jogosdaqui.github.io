@@ -12,13 +12,13 @@
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
-    <meta name="description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior "Você joga algum MMORPG?", o resultado foi:
+    <meta name="description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior “Você joga algum MMORPG?”, o resultado foi:
 
 " />
-    <meta property="og:description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior "Você joga algum MMORPG?", o resultado foi:
+    <meta property="og:description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior “Você joga algum MMORPG?”, o resultado foi:
 
 " />
-    <meta name="twitter:description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior "Você joga algum MMORPG?", o resultado foi:
+    <meta name="twitter:description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior “Você joga algum MMORPG?”, o resultado foi:
 
 " />
     
@@ -52,13 +52,13 @@
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Nova enquete" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior &quot;Você joga algum MMORPG?&quot;, o resultado foi:" />
-<meta property="og:description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior &quot;Você joga algum MMORPG?&quot;, o resultado foi:" />
+<meta name="description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior “Você joga algum MMORPG?”, o resultado foi:" />
+<meta property="og:description" content="Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior “Você joga algum MMORPG?”, o resultado foi:" />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-03-06T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/06/nova-enquete"},"@type":"BlogPosting","url":"/2006/03/06/nova-enquete","headline":"Nova enquete","dateModified":"2006-03-06T00:00:00-03:00","datePublished":"2006-03-06T00:00:00-03:00","description":"Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior &quot;Você joga algum MMORPG?&quot;, o resultado foi:","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/03/06/nova-enquete","headline":"Nova enquete","dateModified":"2006-03-06T00:00:00-03:00","datePublished":"2006-03-06T00:00:00-03:00","description":"Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. Não deixe de votar!Sobre a enquete anterior “Você joga algum MMORPG?”, o resultado foi:","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/06/nova-enquete"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -95,20 +95,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -162,14 +157,15 @@
  </center>
     
     
-    <p>Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. <span style="font-style: italic;">Não deixe de votar!</span><br /><br />Sobre a enquete anterior "Você joga algum MMORPG?", o resultado foi:<br /></p>
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
+    <p>Colocamos uma nova enquete no ar, perguntando sobre a preferência de estilos de jogo. <span style="font-style: italic;">Não deixe de votar!</span><br /><br />Sobre a enquete anterior “Você joga algum MMORPG?”, o resultado foi:<br /></p>
 
 <ul>
     <li style="text-align: justify;">30,23 % - Sim, todos os dias</li>
     <li style="text-align: justify;">28,84 % - Sim, as vezes</li>
-    <li style="text-align: justify;">15,35 % - N&atilde;o tenho tempo</li>
+    <li style="text-align: justify;">15,35 % - Não tenho tempo</li>
     <li style="text-align: justify;">15,35 % - MMORPG?</li>
-    <li style="text-align: justify;">10,23 % - N&atilde;o, n&atilde;o gosto</li>
+    <li style="text-align: justify;">10,23 % - Não, não gosto</li>
 </ul>
 
     
@@ -240,10 +236,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

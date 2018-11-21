@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -115,6 +110,34 @@
   <div class="entry">
     <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2013/05/02/mr-bree-no-greenlight">Mr. Bree+ no Greenlight</a></h1>
+
+    <div class="entry">
+     
+ 
+
+
+<center>
+  
+    
+  
+    
+  
+    
+      <img src="/assets/2013/05/02/mr-bree-no-greenlight/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      
+ </center>
+    
+    Mr. Bree + é um game de aventura e plataforma hardcore, totalmente desafiador, enriquecido com um incrível aspecto visual e musical. São 60 níveis de puro desafio, revelando ao longo do progresso, eventos passados obscuros que contam a história do nosso herói, um porco fazendeiro, pai de família, o Mr....
+    </div>
+
+    <a href="/2013/05/02/mr-bree-no-greenlight" class="read-more">Leia mais</a>
+    </article>
 
     
     
@@ -196,6 +219,21 @@
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2013/04/15/favela-wars-entra-em-fase-beta">Favela Wars entra em fase beta</a></h1>
@@ -222,21 +260,6 @@
 
     
     
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
-    
     <article class="post">
 
     <h1><a href="/2013/04/04/e-ai-game-e-cultura">E aí, Game é Cultura?</a></h1>
@@ -253,40 +276,10 @@
       
  </center>
     
-    No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento "E aí, Game é Cultura?", onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não. O tema central emerge da polêmica criada a partir das recentes declarações da...
+    No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento “E aí, Game é Cultura?”, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não. O tema central emerge da polêmica criada a partir das recentes declarações da...
     </div>
 
     <a href="/2013/04/04/e-ai-game-e-cultura" class="read-more">Leia mais</a>
-    </article>
-
-    
-    
-    <article class="post">
-
-    <h1><a href="/2013/03/21/c-bot">C-Bot</a></h1>
-
-    <div class="entry">
-     
- 
-
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-      <img src="/assets/2013/03/21/c-bot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    No puzzle C-Bot da Cube Factory o jogador controla um robô que pode basicamente andar para trás e para frente. Para realizar outros movimentos, como pular, atirar, correr e inverter a gravidade (isso mesmo "Inverter a gravidade") será preciso coletar cubos de energia espalhados pelo laboratório onde o robô foi...
-    </div>
-
-    <a href="/2013/03/21/c-bot" class="read-more">Leia mais</a>
     </article>
 
     
@@ -310,7 +303,7 @@
   
  </center>
     
-    A brasileira Dead Mushroom atualizou seu action puzzle Crazy Bitsy Spider e a atualização vem acompanhada de um novo modo de jogo, chamado "Kids Mode". O modo vem com dois jogos especialmente pensados para crianças, envolvendo atividades simples, seguras e descontraídas. Os pequenos jogadores podem se divertir conectando pontos com...
+    A brasileira Dead Mushroom atualizou seu action puzzle Crazy Bitsy Spider e a atualização vem acompanhada de um novo modo de jogo, chamado “Kids Mode”. O modo vem com dois jogos especialmente pensados para crianças, envolvendo atividades simples, seguras e descontraídas. Os pequenos jogadores podem se divertir conectando pontos com...
     </div>
 
     <a href="/2013/03/11/crazy-bitsy-spider-kids-mode" class="read-more">Leia mais</a>
@@ -391,7 +384,7 @@
       
  </center>
     
-    Renato Degiovani , considerado o primeiro desenvolvedor brasileiro de games acaba de lançar seu mais novo projeto, abaixo a apresentação do 10 LET GAME$ = "FUN" pelas palavras do próprio Degiovani: 10 LET GAME$ = &quot;FUN&quot; (o livro) Depois de longos e tenebrosos anos militando na área de criação e...
+    Renato Degiovani , considerado o primeiro desenvolvedor brasileiro de games acaba de lançar seu mais novo projeto, abaixo a apresentação do 10 LET GAME$ = “FUN” pelas palavras do próprio Degiovani: 10 LET GAME$ = "FUN" (o livro) Depois de longos e tenebrosos anos militando na área de criação e...
     </div>
 
     <a href="/2013/01/25/10-let-game-fun-o-livro" class="read-more">Leia mais</a>
@@ -436,10 +429,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

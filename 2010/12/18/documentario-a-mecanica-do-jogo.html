@@ -82,7 +82,7 @@ Confira abaixo o documentário, vale cada segundo.  
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2010-12-18T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2010/12/18/documentario-a-mecanica-do-jogo"},"@type":"BlogPosting","url":"/2010/12/18/documentario-a-mecanica-do-jogo","headline":"Documentário “A Mecânica do Jogo”","dateModified":"2010-12-18T00:00:00-02:00","datePublished":"2010-12-18T00:00:00-02:00","description":"“A Mecânica do Jogo” mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira. O documentário tem uma ótima qualidade e possui depoimentos de diversas pessoas da indústria brasileira falando sobre  a cultura do brasileiro em relação ao games internacionais e nacionais, sobre as diferenças entre os mercados americano, europeu, japonês e o nosso, sobre os altos impostos e a pirataria, a saída da Ubisoft e muitos outros assuntos. De quebra você poderá conferir algumas cenas de games nacionais, como: Taikodom, Cave Days, Freekscape e Incidente em Varginha. Confira abaixo o documentário, vale cada segundo.  ","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2010/12/18/documentario-a-mecanica-do-jogo","headline":"Documentário “A Mecânica do Jogo”","dateModified":"2010-12-18T00:00:00-02:00","datePublished":"2010-12-18T00:00:00-02:00","description":"“A Mecânica do Jogo” mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira. O documentário tem uma ótima qualidade e possui depoimentos de diversas pessoas da indústria brasileira falando sobre  a cultura do brasileiro em relação ao games internacionais e nacionais, sobre as diferenças entre os mercados americano, europeu, japonês e o nosso, sobre os altos impostos e a pirataria, a saída da Ubisoft e muitos outros assuntos. De quebra você poderá conferir algumas cenas de games nacionais, como: Taikodom, Cave Days, Freekscape e Incidente em Varginha. Confira abaixo o documentário, vale cada segundo.  ","mainEntityOfPage":{"@type":"WebPage","@id":"/2010/12/18/documentario-a-mecanica-do-jogo"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -119,20 +119,15 @@ Confira abaixo o documentário, vale cada segundo.  
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -189,6 +184,7 @@ Confira abaixo o documentário, vale cada segundo.  
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>“A Mecânica do Jogo” mostra diversos aspectos sobre a indústria de desenvolvimento de games brasileira.</p>
 
 <p>O documentário tem uma ótima qualidade e possui depoimentos de diversas pessoas da indústria brasileira falando sobre  a cultura do brasileiro em relação ao games internacionais e nacionais, sobre as diferenças entre os mercados americano, europeu, japonês e o nosso, sobre os altos impostos e a pirataria, a saída da Ubisoft e muitos outros assuntos.</p>
@@ -272,10 +268,10 @@ Confira abaixo o documentário, vale cada segundo.  
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -73,7 +73,7 @@ Veja o vídeo (Flash).
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2007-01-18T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2007/01/18/shotgunsn-goblins-the-shamanll-die"},"@type":"BlogPosting","url":"/2007/01/18/shotgunsn-goblins-the-shamanll-die","headline":"Shotguns&#39;n Goblins - The Shaman&#39;ll Die","dateModified":"2007-01-18T00:00:00-02:00","datePublished":"2007-01-18T00:00:00-02:00","description":"A Ludens Artis em parceria com o estúdio DracoImagem , a banda de heavy metal Damage e o escritor e criador do cenário Fantapunk , Marcos Archanjo, apresenta o jogo para celular Shotguns’n Goblins - The Shaman’ll Die.No mundo hostil de Urancha. Magia, vapor e mosquetes fumegantes! Tudo isto você vai encontrar na ilha de Thanar, um cenário de fantasia medieval capa &amp; espada que mistura elementos de steampunk.Confira algumas imagens do trailer de divulgação do jogo: Veja o vídeo (Flash).","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2007/01/18/shotgunsn-goblins-the-shamanll-die","headline":"Shotguns&#39;n Goblins - The Shaman&#39;ll Die","dateModified":"2007-01-18T00:00:00-02:00","datePublished":"2007-01-18T00:00:00-02:00","description":"A Ludens Artis em parceria com o estúdio DracoImagem , a banda de heavy metal Damage e o escritor e criador do cenário Fantapunk , Marcos Archanjo, apresenta o jogo para celular Shotguns’n Goblins - The Shaman’ll Die.No mundo hostil de Urancha. Magia, vapor e mosquetes fumegantes! Tudo isto você vai encontrar na ilha de Thanar, um cenário de fantasia medieval capa &amp; espada que mistura elementos de steampunk.Confira algumas imagens do trailer de divulgação do jogo: Veja o vídeo (Flash).","mainEntityOfPage":{"@type":"WebPage","@id":"/2007/01/18/shotgunsn-goblins-the-shamanll-die"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -110,20 +110,15 @@ Veja o vídeo (Flash).
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -177,6 +172,7 @@ Veja o vídeo (Flash).
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A <a href="http://www.ludensartis.com.br/" target="_blank">Ludens Artis</a>
  em parceria com o estúdio <a target="_blank" href="http://www.dracoimagem.com/">DracoImagem</a>
 , a banda de heavy metal <a target="_blank" href="http://www.damage.com.br/">Damage</a>
@@ -253,10 +249,10 @@ Veja o vídeo (Flash).
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

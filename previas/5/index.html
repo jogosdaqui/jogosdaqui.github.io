@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -115,43 +110,6 @@
   <div class="entry">
     <div class="posts">
  
-
-    
-    
-    <article class="post">
-
-    <h1><a href="/2006/05/10/novo-video-de-estradas-esburacadas">Novo vídeo de Estradas Esburacadas</a></h1>
-
-    <div class="entry">
-     
- 
-
-
-<center>
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
- </center>
-    
-    Nesse novo vídeo de Estradas Esburacadas já podemos ver, alguns trechos, de carros rodando por uma pista, além da já conhecida garagem, onde são feitas as tunagens dos carros. Outra novidade do vídeo são os outdoors com publicidade, entre esses outdoors está um exclusivo do jogosdaqui. Veja o vídeo (23...
-    </div>
-
-    <a href="/2006/05/10/novo-video-de-estradas-esburacadas" class="read-more">Leia mais</a>
-    </article>
 
     
     
@@ -192,7 +150,7 @@
   
  </center>
     
-    A empresa Interama foi formada a partir do projeto "Emprego Maluco", um dos projetos vencedores para produção de uma demo jogável do JogosBR do ano passado.Incorporated era conhecido na época da aprovação do JogosBR como "Emprego Maluco", porém o nome foi alterado por razões comerciais e de direitos autorais.Este é...
+    A empresa Interama foi formada a partir do projeto “Emprego Maluco”, um dos projetos vencedores para produção de uma demo jogável do JogosBR do ano passado.Incorporated era conhecido na época da aprovação do JogosBR como “Emprego Maluco”, porém o nome foi alterado por razões comerciais e de direitos autorais.Este é...
     </div>
 
     <a href="/2006/05/10/incorporated" class="read-more">Leia mais</a>
@@ -250,21 +208,6 @@
 
     
     
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
-    
     <article class="post">
 
     <h1><a href="/2006/03/29/estradas-esburacadas-mostra-seus-carros">Estradas Esburacadas mostra seus carros</a></h1>
@@ -307,6 +250,21 @@
     </article>
 
     
+    
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
     
     <article class="post">
 
@@ -449,6 +407,33 @@
     <a href="/2006/02/24/previa-de-golden-west-bang-bang" class="read-more">Leia mais</a>
     </article>
 
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/02/24/golden-west-bang-bang">Golden West - Bang! Bang!</a></h1>
+
+    <div class="entry">
+     
+ 
+
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    Chan foi, juntos com outros chineses, procurar riquezas garimpando nas minas do velho oeste.Os americanos, temendo a competição dos chineses, proibem os chineses de garimparem.O tio de Chan, o velho Sheng, é morto pelos americanos ao protestar contra a proibição.Muito antes de morrer, Sheng deixa um mapa para um tesouro...
+    </div>
+
+    <a href="/2006/02/24/golden-west-bang-bang" class="read-more">Leia mais</a>
+    </article>
+
 </div>
 
 <!-- Pagination links -->
@@ -488,10 +473,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

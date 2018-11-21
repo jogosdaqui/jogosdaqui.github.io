@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -328,7 +323,7 @@
   
  </center>
     
-    Dois novos jogos foram colocados no ar no portal Gametrack. Multiplayer Na parte de jogos multiplayer temos uma versão beta do famoso jogo de tabuleiro Imagem&amp;Ação. Singleplayer Nos jogos singleplayer a novidade fica por conta do quebra-cabeçaSudoku. Mais novidades Em breve a Devworks Game Technology deve colocar no ar uma...
+    Dois novos jogos foram colocados no ar no portal Gametrack. Multiplayer Na parte de jogos multiplayer temos uma versão beta do famoso jogo de tabuleiro Imagem &amp; Ação. Singleplayer Nos jogos singleplayer a novidade fica por conta do quebra-cabeçaSudoku. Mais novidades Em breve a Devworks Game Technology deve colocar no...
     </div>
 
     <a href="/2006/01/26/novidades-no-gametrack" class="read-more">Leia mais</a>
@@ -397,10 +392,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,25 +102,44 @@
 
     <div id="main" role="main" class="container">
       <h2>reiza-studios</h2>
-<ul>
 
-  <li><a href="/2015/07/24/gamedev-brasileira-arrecada-mais-de-us-78-000-em-campanha-de-crowdsourcing">Gamedev brasileira arrecada mais de US$ 78.000 em campanha de crowdsourcing</a> (24/07/2015)</li>
 
+
+  
+    
+    
+    <h3>Colunas</h3>
+    <ul>
+  
   <li><a href="/2015/06/15/imagens-da-semana-11">Imagens da semana #11</a> (15/06/2015)</li>
 
+  
   <li><a href="/2015/06/01/imagens-da-semana-9">Imagens da semana #9</a> (01/06/2015)</li>
 
+  
   <li><a href="/2015/05/25/imagens-da-semana-8">Imagens da semana #8</a> (25/05/2015)</li>
 
+  
   <li><a href="/2015/05/22/checkpoint-7">Checkpoint #7</a> (22/05/2015)</li>
 
+  
   <li><a href="/2015/04/20/imagens-da-semana-3">Imagens da semana #3</a> (20/04/2015)</li>
 
+  
   <li><a href="/2015/04/13/imagens-da-semana-2">Imagens da semana #2</a> (13/04/2015)</li>
 
+  
   <li><a href="/2015/04/06/imagens-da-semana-1">Imagens da semana #1</a> (06/04/2015)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2015/07/24/gamedev-brasileira-arrecada-mais-de-us-78-000-em-campanha-de-crowdsourcing">Gamedev brasileira arrecada mais de US$ 78.000 em campanha de crowdsourcing</a> (24/07/2015)</li>
 
     </div>
   
@@ -133,10 +147,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

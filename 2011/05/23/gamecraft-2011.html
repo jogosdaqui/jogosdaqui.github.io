@@ -58,7 +58,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2011-05-23T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2011/05/23/gamecraft-2011"},"@type":"BlogPosting","url":"/2011/05/23/gamecraft-2011","headline":"GameCraft 2011","dateModified":"2011-05-23T00:00:00-03:00","datePublished":"2011-05-23T00:00:00-03:00","description":"Nos dias 16 e 17 de junho acontecerá no Rio de Janeiro o GameCraft 2011, evento focado no desenvolvimento de jogos eletrônicos.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2011/05/23/gamecraft-2011","headline":"GameCraft 2011","dateModified":"2011-05-23T00:00:00-03:00","datePublished":"2011-05-23T00:00:00-03:00","description":"Nos dias 16 e 17 de junho acontecerá no Rio de Janeiro o GameCraft 2011, evento focado no desenvolvimento de jogos eletrônicos.","mainEntityOfPage":{"@type":"WebPage","@id":"/2011/05/23/gamecraft-2011"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -95,20 +95,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -167,11 +162,12 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Nos dias 16 e 17 de junho acontecerá no Rio de Janeiro o GameCraft 2011, evento focado no desenvolvimento de jogos eletrônicos.</p>
 
 <p>O GameCraft contará com diversos palestrantes, entre os já confirmados estão:</p>
 <ul>
-  <li>Carlos Bordeu - Fundador do estúdio chileno ACE Team<br />* Cristiano Moura - Engenheiro de som e produtor musical<br />* Fernando Ribeiro - Desenvolvedor dos jogos para iPhone "Shaolin Training" e "Shaolin Brasil"<br />* Guilherme Xavier - CEO e diretor de arte e design da produtora Donsoft Entertainment<br />* Antonio Marcelo - Fundador do estúdio Riachuelo Games
+  <li>Carlos Bordeu - Fundador do estúdio chileno ACE Team<br />* Cristiano Moura - Engenheiro de som e produtor musical<br />* Fernando Ribeiro - Desenvolvedor dos jogos para iPhone “Shaolin Training” e “Shaolin Brasil”<br />* Guilherme Xavier - CEO e diretor de arte e design da produtora Donsoft Entertainment<br />* Antonio Marcelo - Fundador do estúdio Riachuelo Games
 Outros palestrantes devem ser confirmados nas próximas semanas.
 Além das palestras, no segundo dia de evento acontecerá uma amostra de jogos independentes. Para inscrever seu game entre nesse link <a href="http://bit.ly/mostragamecraft" target="_blank">http://bit.ly/mostragamecraft</a></li>
 </ul>
@@ -264,10 +260,10 @@ Mais informações na página oficial <a href="http://devoidgames.com/gamecraft/
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -88,20 +88,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -119,7 +114,7 @@
     
     <article class="post">
 
-    <h1><a href="/2018/11/15/jogosdaqui-open-source-e-colaborativo">jogosdaqui: open source e colaborativo</a></h1>
+    <h1><a href="/2018/11/21/jogosdaqui-open-source-e-colaborativo">jogosdaqui: open source e colaborativo</a></h1>
 
     <div class="entry">
      
@@ -131,14 +126,14 @@
     
   
     
-      <img src="/assets/2018/11/15/jogosdaqui-open-source-e-colaborativo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
+      <img src="/assets/2018/11/21/jogosdaqui-open-source-e-colaborativo/logo.png" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
     Um pouco de história O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além...
     </div>
 
-    <a href="/2018/11/15/jogosdaqui-open-source-e-colaborativo" class="read-more">Leia mais</a>
+    <a href="/2018/11/21/jogosdaqui-open-source-e-colaborativo" class="read-more">Leia mais</a>
     </article>
 
     
@@ -431,10 +426,10 @@ Playthrough Chroma Squad
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

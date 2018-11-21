@@ -64,7 +64,7 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-10-04T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2005/10/04/vudugame"},"@type":"BlogPosting","url":"/2005/10/04/vudugame","headline":"Vudugame","dateModified":"2005-10-04T00:00:00-03:00","datePublished":"2005-10-04T00:00:00-03:00","description":"Sabe aquele vizinho chato, que implica com tudo o que você faz no final de semana, tipo ouvir rock paulera um pouquinho acima dos decibéis aceitáveis? E o que dizer daquele professor que persegue alunos acima da média? E o chefe, sempre pronto a reclamar quando você atrasa um minutinho, na pausa do café? E os políticos então? Os artistas mascarados, que esnobam o Vesgo e o Silvio. Ah, e não vamos esquecer do juiz ladrão, que como pudemos ver no noticiário recente, era ladrão mesmo. Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um destino certo: Vudugame, o jogo da mandinga. Chegou a hora de virar a mesa e usar as forças da natureza e mais a moderna tecnologia de informática, para dar um basta nesta situação cavernosa. Como?","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2005/10/04/vudugame","headline":"Vudugame","dateModified":"2005-10-04T00:00:00-03:00","datePublished":"2005-10-04T00:00:00-03:00","description":"Sabe aquele vizinho chato, que implica com tudo o que você faz no final de semana, tipo ouvir rock paulera um pouquinho acima dos decibéis aceitáveis? E o que dizer daquele professor que persegue alunos acima da média? E o chefe, sempre pronto a reclamar quando você atrasa um minutinho, na pausa do café? E os políticos então? Os artistas mascarados, que esnobam o Vesgo e o Silvio. Ah, e não vamos esquecer do juiz ladrão, que como pudemos ver no noticiário recente, era ladrão mesmo. Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um destino certo: Vudugame, o jogo da mandinga. Chegou a hora de virar a mesa e usar as forças da natureza e mais a moderna tecnologia de informática, para dar um basta nesta situação cavernosa. Como?","mainEntityOfPage":{"@type":"WebPage","@id":"/2005/10/04/vudugame"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -101,20 +101,15 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -175,6 +170,7 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Sabe aquele vizinho chato, que implica com tudo o que você faz no final de semana, tipo ouvir rock paulera um pouquinho acima dos decibéis aceitáveis? E o que dizer daquele professor que persegue alunos acima da média? E o chefe, sempre pronto a reclamar quando você atrasa um minutinho, na pausa do café? E os políticos então? Os artistas mascarados, que esnobam o Vesgo e o Silvio. Ah, e não vamos esquecer do juiz ladrão, que como pudemos ver no noticiário recente, era ladrão mesmo.</p>
 
 <p>Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um destino certo: Vudugame, o jogo da mandinga. Chegou a hora de virar a mesa e usar as forças da natureza e mais a moderna tecnologia de informática, para dar um basta nesta situação cavernosa. Como?</p>
@@ -294,10 +290,10 @@ Toda essa gente chata, invejosa, vingativa, mau carater, etc, agora tem um desti
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

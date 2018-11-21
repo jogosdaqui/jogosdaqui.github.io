@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -203,7 +198,7 @@
   
  </center>
     
-    Na edição de setembro, a NewsAbragames traz uma matéria sobre o jogo Incorporated da empresa Interama . Destaques da mídia, como a prévia de OmniScire no jogosdaqui.Os bastidores da participação brasileira na GC 2006 . Agenda de eventos e cursos e uma matéria especial sob o título "Por que dizem...
+    Na edição de setembro, a NewsAbragames traz uma matéria sobre o jogo Incorporated da empresa Interama . Destaques da mídia, como a prévia de OmniScire no jogosdaqui.Os bastidores da participação brasileira na GC 2006 . Agenda de eventos e cursos e uma matéria especial sob o título “Por que dizem...
     </div>
 
     <a href="/2006/09/15/newsabragames-setembro-2006" class="read-more">Leia mais</a>
@@ -391,10 +386,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

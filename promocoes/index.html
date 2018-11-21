@@ -87,20 +87,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -192,7 +187,7 @@
   
  </center>
     
-    Um m&ecirc;s de jogos daqui! Durante um mês, o jogosdaqui estará sorteando semanalmente 5 números seriais Gold, válido para acessar qualquer jogo da TILT online! Isto mesmo, qualquer jogo da TILT online! Incrível! Você não pode perder esta promoção! Veja só como é fácil participar!1. Como funcionaDurante quatro sábados, a...
+    Um mês de jogos daqui! Durante um mês, o jogosdaqui estará sorteando semanalmente 5 números seriais Gold, válido para acessar qualquer jogo da TILT online! Isto mesmo, qualquer jogo da TILT online! Incrível! Você não pode perder esta promoção! Veja só como é fácil participar!1. Como funcionaDurante quatro sábados, a...
     </div>
 
     <a href="/2005/09/17/promocao-de-lancamento-do-jogosdaqui" class="read-more">Leia mais</a>
@@ -211,10 +206,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

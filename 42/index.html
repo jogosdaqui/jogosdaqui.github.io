@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -150,7 +145,7 @@
   
  </center>
     
-    Contato Solaris 1.0.4. &lt;/font&gt; Space Hero Hades2 Taikodom Impacto Alpha Terra - Destino Final Outlive V.T.O.L.&lt;/font&gt; &lt;/tbody&gt; Sobre a Miss&atilde;oPartindo do Cazaquist&atilde;o, na nave russa Soyuz TMA-8, Marcos Pontes entrar&aacute; para a hist&oacute;ria como o primeiro brasileiro a viajar para o espa&ccedil;o. Rumo a Esta&ccedil;&atilde;o Espacial Internacional (ISS), Pontes conduzira...
+    Contato Solaris 1.0.4. &lt;/font&gt; &lt;/font&gt; Space Hero&lt;/font&gt; Hades2 &lt;/font&gt; Taikodom Impacto Alpha &lt;/font&gt; Terra - Destino Final &lt;/font&gt; Outlive V.T.O.L.&lt;/font&gt; &lt;/tbody&gt; Sobre a MissãoPartindo do Cazaquistão, na nave russa Soyuz TMA-8, Marcos Pontes entrará para a história como o primeiro brasileiro a viajar para o espaço. Rumo a Estação Espacial...
     </div>
 
     <a href="/2006/03/24/primeiro-brasileiro-no-espaco" class="read-more">Leia mais</a>
@@ -171,7 +166,7 @@
   
  </center>
     
-    A empresa catarinense PalmSoft Tecnologia lan&ccedil;a dois novos jogos para celular : Fighters of Caribbean, jogo de luta entre piratas e o jogo de a&ccedil;&atilde;o Gladiarena. Os jogos s&atilde;o publicados pela MDEV e podem ser encontrados nas operadoras: Claro, Brasil Telecom GSM, Teleamazonia e Telemig. Confira Fighters of Caribbean e...
+    A empresa catarinense PalmSoft Tecnologia lança dois novos jogos para celular : Fighters of Caribbean, jogo de luta entre piratas e o jogo de ação Gladiarena. Os jogos são publicados pela MDEV e podem ser encontrados nas operadoras: Claro, Brasil Telecom GSM, Teleamazonia e Telemig. Confira Fighters of Caribbean e...
     </div>
 
     <a href="/2006/03/24/piratas-e-guerreiros-da-palmsoft" class="read-more">Leia mais</a>
@@ -277,7 +272,7 @@
   
  </center>
     
-    A empresa EonsGames Entertainment ganhou o 1o. lugar no 1st DoJa Application Contest promovido pela operadora de celular japonesa NTT Docomo. A EonsGames obteve a premiação na categoria "Virtual Pet Game" através do jogo Digibunny. Digibunny faz parte da Digifamily da EonsGames. Essa linha de jogos é baseada em animais...
+    A empresa EonsGames Entertainment ganhou o 1o. lugar no 1st DoJa Application Contest promovido pela operadora de celular japonesa NTT Docomo. A EonsGames obteve a premiação na categoria “Virtual Pet Game” através do jogo Digibunny. Digibunny faz parte da Digifamily da EonsGames. Essa linha de jogos é baseada em animais...
     </div>
 
     <a href="/2006/03/23/eonsgames-ganha-premio-no-japao" class="read-more">Leia mais</a>
@@ -439,10 +434,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

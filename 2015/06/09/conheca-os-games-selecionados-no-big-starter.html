@@ -188,7 +188,7 @@ Fófuu de Bruno Tachinardi
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-06-09T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/06/09/conheca-os-games-selecionados-no-big-starter"},"@type":"BlogPosting","url":"/2015/06/09/conheca-os-games-selecionados-no-big-starter","headline":"Conheça os games selecionados no BIG Starter 2015","dateModified":"2015-06-09T00:00:00-03:00","datePublished":"2015-06-09T00:00:00-03:00","author":{"@type":"Person","name":"Diego giacomelli"},"description":"O BIG Festival, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas. Entramos em contato com as equipes de desenvolvimento para sabermos mais sobre os projetos, neste post você poderá conferir alguns trailers e imagens dos selecionados e durante os próximos dias faremos prévias de cada um dos games que estarão no BIG Starter 2015. O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: Prévia de Alkimya da Bad Minions Finalistas na categoria entretenimento Alkimya da Bad Minions Dog Duty da Zanardi&amp;Liza Massive Madness da Ninja Garage My Night Job da WebCore Games Relic Hunters Zero da Rogue Snail (Mark Venturelli) Finalistas na categoria educativo Dengue Over da Ilusis Interactive Peronio Hologram da Ovni Studios Fófuu de Bruno Tachinardi","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Diego giacomelli"},"@type":"BlogPosting","url":"/2015/06/09/conheca-os-games-selecionados-no-big-starter","headline":"Conheça os games selecionados no BIG Starter 2015","dateModified":"2015-06-09T00:00:00-03:00","datePublished":"2015-06-09T00:00:00-03:00","description":"O BIG Festival, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas. Entramos em contato com as equipes de desenvolvimento para sabermos mais sobre os projetos, neste post você poderá conferir alguns trailers e imagens dos selecionados e durante os próximos dias faremos prévias de cada um dos games que estarão no BIG Starter 2015. O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: Prévia de Alkimya da Bad Minions Finalistas na categoria entretenimento Alkimya da Bad Minions Dog Duty da Zanardi&amp;Liza Massive Madness da Ninja Garage My Night Job da WebCore Games Relic Hunters Zero da Rogue Snail (Mark Venturelli) Finalistas na categoria educativo Dengue Over da Ilusis Interactive Peronio Hologram da Ovni Studios Fófuu de Bruno Tachinardi","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/06/09/conheca-os-games-selecionados-no-big-starter"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -225,20 +225,15 @@ Fófuu de Bruno Tachinardi
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -300,13 +295,14 @@ Fófuu de Bruno Tachinardi
  </center>
     
     
-<div class="post-info"><i class="fas fa-pen-square"></i> Post por Diego giacomelli em colaboração para o jogosdaqui.</div>
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Diego giacomelli.</div>
 
-    <p>O <a href="http://www.bigfestival.com.br/&quot;">BIG Festival</a>, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.</p>
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
+    <p>O <a href="http://www.bigfestival.com.br">BIG Festival</a>, evento que chega na sua 3º edição em 2015, acontecerá entre 27 de junho a 5 de julho de 2015 no Centro Cultural São Paulo. O festival é composto por diversas seções ou subeventos, entre eles está o BIG Starter, onde gamedevs nacionais poderão demonstrar seus games em desenvolvimento para especialistas e investidores da área. Dentre centenas de inscritos apenas 8 jogos foram selecionados como finalistas.</p>
 
 <p>Entramos em contato com as equipes de desenvolvimento para sabermos mais sobre os projetos, neste post você poderá conferir alguns trailers e imagens dos selecionados e durante os próximos dias faremos prévias de cada um dos games que estarão no BIG Starter 2015.</p>
 
-<p>O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: <a href="/2015/05/26/previa-de-alkimya-da-bad-minions/">Prévia de Alkimya da Bad Minions</a></p>
+<p>O primeiro deles é o game Alkimya da Bad Minios que já fizemos uma prévia há alguns dias, confira: <a href="/2015/05/26/previa-de-alkimya-da-bad-minions">Prévia de Alkimya da Bad Minions</a></p>
 
 <h3 id="finalistas-na-categoria-entretenimento">Finalistas na categoria entretenimento</h3>
 
@@ -434,8 +430,6 @@ Fófuu de Bruno Tachinardi
     
         <a href="/tags/bad-minions" class="post-tag"><i class="fas fa-tag"></i>&nbsp;bad-minions</a>
     
-        <a href="/tags/previa" class="post-tag"><i class="fas fa-tag"></i>&nbsp;previa</a>
-    
 </span>
 
   
@@ -482,10 +476,10 @@ Fófuu de Bruno Tachinardi
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

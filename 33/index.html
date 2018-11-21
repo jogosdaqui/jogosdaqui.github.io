@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -185,7 +180,7 @@
   
  </center>
     
-    Depois de "Convocação", edição número zero da mini-série, a catarinense Hoplon Infotainment acaba de lançar uma nova revista em quadrinhos baseada no game online desenvolvido pela empresa. Para os admiradores da versão HQ do game que ficaram com vontade de mais aventura, a nova edição da revista promete empolgar o...
+    Depois de “Convocação”, edição número zero da mini-série, a catarinense Hoplon Infotainment acaba de lançar uma nova revista em quadrinhos baseada no game online desenvolvido pela empresa. Para os admiradores da versão HQ do game que ficaram com vontade de mais aventura, a nova edição da revista promete empolgar o...
     </div>
 
     <a href="/2006/06/08/taikocom-lanca-a-2-edicao-da-hq-eterno-retorno" class="read-more">Leia mais</a>
@@ -310,7 +305,7 @@
   
  </center>
     
-    O jogo Bola de Gude da ICON Games arrebatou mais um prêmio do site Bytten (www.bytten.com ), site especializado em análises de jogos independentes de todo mundo, agora o jogo foi premiado com a "Estrela de Ouro" com 98% na contagem geral.Em abril, Bola de Gude já havia ganho o...
+    O jogo Bola de Gude da ICON Games arrebatou mais um prêmio do site Bytten (www.bytten.com ), site especializado em análises de jogos independentes de todo mundo, agora o jogo foi premiado com a “Estrela de Ouro” com 98% na contagem geral.Em abril, Bola de Gude já havia ganho o...
     </div>
 
     <a href="/2006/06/05/bola-de-gude-ganha-estrela-de-ouro" class="read-more">Leia mais</a>
@@ -417,10 +412,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -73,7 +73,7 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-09-22T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2005/09/22/die-pferdebande"},"@type":"BlogPosting","url":"/2005/09/22/die-pferdebande","headline":"Die Pferdebande","dateModified":"2005-09-22T00:00:00-03:00","datePublished":"2005-09-22T00:00:00-03:00","description":"Die Pferdebande, baseado na série de livros homónima de Karin Müller. No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistério envolvendo uma amazona e sua égua branca, feridas por um misterioso malfeitor. Os principais supeitos são dois motoqueiros poluidores do meio ambiente, mas seriam eles os culpados? Sem ser baseado em nenhum livro específico, Die Pferdebande é uma aventura nova, mas com o mesmo estilo que faz da série um sucesso.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2005/09/22/die-pferdebande","headline":"Die Pferdebande","dateModified":"2005-09-22T00:00:00-03:00","datePublished":"2005-09-22T00:00:00-03:00","description":"Die Pferdebande, baseado na série de livros homónima de Karin Müller. No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistério envolvendo uma amazona e sua égua branca, feridas por um misterioso malfeitor. Os principais supeitos são dois motoqueiros poluidores do meio ambiente, mas seriam eles os culpados? Sem ser baseado em nenhum livro específico, Die Pferdebande é uma aventura nova, mas com o mesmo estilo que faz da série um sucesso.","mainEntityOfPage":{"@type":"WebPage","@id":"/2005/09/22/die-pferdebande"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -110,20 +110,15 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -195,9 +190,13 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
       
  </center>
     
-<div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Oniria Entertainment.</div>
+    
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Oniria Entertainment.</div>
+    
 
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Die Pferdebande, baseado na série de livros homónima de Karin Müller.</p>
 
 <p>No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistério envolvendo uma amazona e sua égua branca, feridas por um misterioso malfeitor. Os principais supeitos são dois motoqueiros poluidores do meio ambiente, mas seriam eles os culpados? Sem ser baseado em nenhum livro específico, Die Pferdebande é uma aventura nova, mas com o mesmo estilo que faz da série um sucesso.</p>
@@ -336,10 +335,10 @@ No jogo podemos acompanhar Chris, Karolin e Phillip na resolução de um mistér
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,23 +102,41 @@
 
     <div id="main" role="main" class="container">
       <h2>decadium-studios</h2>
-<ul>
 
-  <li><a href="/2006/09/19/oitava-era-de-ryudragon">Oitava Era de Ryudragon</a> (19/09/2006)</li>
 
-  <li><a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados">Jogos Completos de Baixo Orçamento, 18 projetos classificados</a> (02/06/2006)</li>
 
-  <li><a href="/2006/05/24/transicao-de-era-no-ryudragon">Transição de Era no Ryudragon</a> (24/05/2006)</li>
-
-  <li><a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006">Lista de projetos do JogosBR 2005/2006</a> (22/05/2006)</li>
-
-  <li><a href="/2006/03/13/decadium-studios-lanca-aquadum">Decadium Studios lança Aquadum</a> (13/03/2006)</li>
-
+  
+    
+    
+    <h3>Jogos</h3>
+    <ul>
+  
   <li><a href="/2006/03/13/aquadum">Aquadum</a> (13/03/2006)</li>
 
+  
   <li><a href="/2005/11/23/ryudragon">Ryudragon</a> (23/11/2005)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2006/09/19/oitava-era-de-ryudragon">Oitava Era de Ryudragon</a> (19/09/2006)</li>
+
+  
+  <li><a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados">Jogos Completos de Baixo Orçamento, 18 projetos classificados</a> (02/06/2006)</li>
+
+  
+  <li><a href="/2006/05/24/transicao-de-era-no-ryudragon">Transição de Era no Ryudragon</a> (24/05/2006)</li>
+
+  
+  <li><a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006">Lista de projetos do JogosBR 2005/2006</a> (22/05/2006)</li>
+
+  
+  <li><a href="/2006/03/13/decadium-studios-lanca-aquadum">Decadium Studios lança Aquadum</a> (13/03/2006)</li>
 
     </div>
   
@@ -131,10 +144,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

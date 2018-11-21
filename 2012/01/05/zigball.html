@@ -64,7 +64,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2012-01-05T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2012/01/05/zigball"},"@type":"BlogPosting","url":"/2012/01/05/zigball","headline":"Zigball","dateModified":"2012-01-05T00:00:00-02:00","datePublished":"2012-01-05T00:00:00-02:00","description":"Em 2011 a produtora brasileira Pankeka Games debutou nos iDevices (iPhone, iPod Touch e iPad) com seu game Zigball .","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2012/01/05/zigball","headline":"Zigball","dateModified":"2012-01-05T00:00:00-02:00","datePublished":"2012-01-05T00:00:00-02:00","description":"Em 2011 a produtora brasileira Pankeka Games debutou nos iDevices (iPhone, iPod Touch e iPad) com seu game Zigball .","mainEntityOfPage":{"@type":"WebPage","@id":"/2012/01/05/zigball"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -101,20 +101,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -174,6 +169,7 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Em 2011 a produtora brasileira <a href="http://www.pankekagames.com.br/" target="_blank">Pankeka Games</a>
  debutou nos iDevices (iPhone, iPod Touch e iPad) com seu game <a href="http://www.zigball.com/index_pt.html" target="_blank">Zigball</a>
 .</p>
@@ -182,12 +178,12 @@
 
 <p style="text-align: center; ">
 <p style="text-align: center; "> 
-Parece f&#225;cil? Nem tanto, conforme o jogo avan&#231;a, mais esferas aparecem para aumentar o desafio. Para ajudar na tarefa, o jogador pode criar tra&#231;os na tela que dividem as esferas em grupos, facilitando a contagem.
+Parece fácil? Nem tanto, conforme o jogo avança, mais esferas aparecem para aumentar o desafio. Para ajudar na tarefa, o jogador pode criar traços na tela que dividem as esferas em grupos, facilitando a contagem.
  
 
  
-Quando o jogador atinge um bom recorde, pode mostrar o seu feito ao mundo atrav&#233;s do Game Center, Twitter e Facebook.
-<strong>Zigball &#233; um jogo gratu&#237;to e pode ser <a href="http://itunes.apple.com/br/app/zigball-br/id456823335?mt=8" target="_blank">baixado diretamente na App Store</a>
+Quando o jogador atinge um bom recorde, pode mostrar o seu feito ao mundo através do Game Center, Twitter e Facebook.
+<strong>Zigball é um jogo gratuíto e pode ser <a href="http://itunes.apple.com/br/app/zigball-br/id456823335?mt=8" target="_blank">baixado diretamente na App Store</a>
 .</strong>
 </p></p>
 
@@ -305,10 +301,10 @@ Quando o jogador atinge um bom recorde, pode mostrar o seu feito ao mundo atrav&
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

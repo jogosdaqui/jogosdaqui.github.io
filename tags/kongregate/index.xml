@@ -3,7 +3,7 @@
  <title>jogosdaqui - kongregate</title>
  <link href="//tags/kongregate/index.xml" rel="self"/>
  <link href="/tag/kongregate.html"/>
- <updated>2018-11-20T17:11:22-02:00</updated>
+ <updated>2018-11-21T14:23:27-02:00</updated>
  <id>/tag/kongregate.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -35,50 +35,58 @@
  o que lhes resta com alegria.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Com esses versos cômicos começou nossa experiência de jogar Porcunipine da brasileira &lt;a href=&quot;http://biggreenpillow.com/&quot; target=&quot;_blank&quot;&gt;Big Green Pillow&lt;/a&gt;
-.&lt;/p&gt;
+&lt;h2 id=&quot;experiência&quot;&gt;Experiência&lt;/h2&gt;
+&lt;p&gt;Com esses versos cômicos começou nossa experiência de jogar Porcunipine da brasileira &lt;a href=&quot;http://biggreenpillow.com/&quot;&gt;Big Green Pillow&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Nas palavras da gamedev brasileira, “&amp;gt; Porcunipine é um party game multiplayer sobre porcos-espinhos carecas lutando até a morte usando o seu último espinho como arma”.&lt;/p&gt;
+&lt;p&gt;Nas palavras da gamedev brasileira,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Porcunipine é um party game multiplayer sobre porcos-espinhos carecas lutando até a morte usando o seu último espinho como arma.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;E é isso mesmo, poderíamos parar por aqui e apenas dizer que na próxima festa que você realizar em casa, coloque o game para a galera, que será diversão pura. Mas falar apenas isso não seria justo, pois nos divertimos muito jogando-o, então vamos aos detalhes.&lt;/p&gt;
 
-&lt;p&gt;Porcunipine nasceu como um protótipo singleplayer na Ludum Dare #28 onde o tema era “You Only Get One”. Sua primeira versão foi lançada no famoso site &lt;a href=&quot;http://www.kongregate.com/&quot; target=&quot;_blank&quot;&gt;Kongregate&lt;/a&gt;
-, onde os jogadores logo perceberam que o game seria perfeito para ser jogado com vários jogadores localmente.&lt;/p&gt;
+&lt;p&gt;Porcunipine nasceu como um protótipo singleplayer na Ludum Dare #28 onde o tema era “You Only Get One”. Sua primeira versão foi lançada no famoso site &lt;a href=&quot;http://www.kongregate.com/&quot;&gt;Kongregate&lt;/a&gt;, onde os jogadores logo perceberam que o game seria perfeito para ser jogado com vários jogadores localmente.&lt;/p&gt;
 
+&lt;h2 id=&quot;jogabilidade&quot;&gt;Jogabilidade&lt;/h2&gt;
 &lt;p&gt;Os personagens do game são porcos-espinho carecas com um único espinho, resultado do tema “Você só tem um” da LD #32, que se enfrentam em arenas com uma jogabilidade muito simples:&lt;/p&gt;
-&lt;ol&gt;
-	&lt;li&gt;Atire seu espinho nos inimigos;&lt;/li&gt;
-	&lt;li&gt;Colete as caveiras dos mortos;&lt;/li&gt;
-	&lt;li&gt;Fique vivo;&lt;/li&gt;
-	&lt;li&gt;Pegue seu espinho novamente;&lt;/li&gt;
-	&lt;li&gt;Volte para o passo 1;&lt;/li&gt;
-&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Atire seu espinho nos inimigos;&lt;/li&gt;
+  &lt;li&gt;Colete as caveiras dos mortos;&lt;/li&gt;
+  &lt;li&gt;Fique vivo;&lt;/li&gt;
+  &lt;li&gt;Pegue seu espinho novamente;&lt;/li&gt;
+  &lt;li&gt;Volte para o passo 1;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Jogabilidade simples e genial, que já é divertida para jogar sozinho e ainda mais em multiplayer com até 4 jogadores.&lt;/p&gt;
 
+&lt;h2 id=&quot;estilo&quot;&gt;Estilo&lt;/h2&gt;
 &lt;p&gt;Como pode ser visto pelas imagens, o jogo segue o estilo pixel art, tão adorado hoje em dia e esse estilo é perfeito pro game e combina muito com a trilha sonora acelerada e sincronizada com o gameplay.&lt;/p&gt;
 
+&lt;p&gt;A estética dos personagens é uma das coisas que mais chamam a atenção de quem olha o game pela primeira vez, pois porco-espinhos-carecas não se vê toda a hora.  Não é por acaso que o game ficou conhecido como o “butt game” ou “game da bunda” depois do vídeo do &lt;a href=&quot;https://www.youtube.com/watch?v=YgSN7s-Yg9Q&quot;&gt;PewDiePie&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;modos&quot;&gt;Modos&lt;/h2&gt;
 &lt;p&gt;O game tem três dezenas de arenas e três modos de jogo:&lt;/p&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;Survival, onde você joga no singleplayer e tentar ficar vivo o maior tempo possível.&lt;/li&gt;
-	&lt;li&gt;Arena, onde você pode enfrentar seus amigos e bots em um tempo determinado.&lt;/li&gt;
-	&lt;li&gt;Last Man Standing, outro modo multiplayer onde o último que ficar vivo ganha ponto.&lt;/li&gt;
+  &lt;li&gt;Survival, onde você joga no singleplayer e tentar ficar vivo o maior tempo possível.&lt;/li&gt;
+  &lt;li&gt;Arena, onde você pode enfrentar seus amigos e bots em um tempo determinado.&lt;/li&gt;
+  &lt;li&gt;Last Man Standing, outro modo multiplayer onde o último que ficar vivo ganha ponto.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;A estética dos personagens é uma das coisas que mais chamam a atenção de quem olha o game pela primeira vez, pois porco-espinhos-carecas não se vê toda a hora.  Não é por acaso que o game ficou conhecido como o “butt game” ou “game da bunda” depois do vídeo do &lt;a href=&quot;https://www.youtube.com/watch?v=YgSN7s-Yg9Q&quot; target=&quot;_blank&quot;&gt;PewDiePie&lt;/a&gt;
-.&lt;/p&gt;
-
+&lt;h2 id=&quot;multiplayer&quot;&gt;Multiplayer&lt;/h2&gt;
 &lt;p&gt;Sabemos que o foco do game é o multiplayer local, mas ficamos curiosos de ver o quanto ele se tornaria popular com um multiplayer remoto, colocando porcos-espinho carecas do mundo todo na mesma arena.&lt;/p&gt;
 
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
 &lt;p&gt;Finalizando, Porcunipine é um verdadeiro party game, que já é divertido singleplayer, mas perfeito para jogar multiplayer. Desse momento em diante os itens obrigatórios para as festas serão: amigos, bebidas, comida e, claro, Porcunipine na TV da sala.&lt;/p&gt;
-&lt;h2 id=&quot;veja-o-trailer-de-porcunipine&quot;&gt;Veja o trailer de Porcunipine&lt;/h2&gt;
+
+&lt;p&gt;#@ Veja o trailer de Porcunipine&lt;/p&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/FUMC9UyKjOQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Porcunipine está disponível na &lt;a href=&quot;http://www.splitplay.com.br/pt/games/porcunipine&quot; target=&quot;_blank&quot;&gt;Splitplay&lt;/a&gt;
- e &lt;a href=&quot;http://store.steampowered.com/app/352620/&quot; target=&quot;_blank&quot;&gt;Steam&lt;/a&gt;
-.&lt;/p&gt;
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;Porcunipine está disponível na &lt;a href=&quot;http://www.splitplay.com.br/pt/games/porcunipine&quot;&gt;Splitplay&lt;/a&gt; e &lt;a href=&quot;http://store.steampowered.com/app/352620/&quot;&gt;Steam&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

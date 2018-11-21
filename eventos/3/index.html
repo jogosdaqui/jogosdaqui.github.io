@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -175,7 +170,7 @@
   
  </center>
     
-    Vai acontecer dia 20 de maio, das 10 &aacute;s 14 horas a EGR (Ecossistema de games do Recife), o primeiro evento relacionado a desenvolvimento de jogos no Recife. Como vai funcionar? O evento ter&aacute; uma dura&ccedil;&atilde;o de 4h, onde algumas empresas de Recife ir&atilde;o falar um pouco sobre seu dia...
+    Vai acontecer dia 20 de maio, das 10 ás 14 horas a EGR (Ecossistema de games do Recife), o primeiro evento relacionado a desenvolvimento de jogos no Recife. Como vai funcionar? O evento terá uma duração de 4h, onde algumas empresas de Recife irão falar um pouco sobre seu dia...
     </div>
 
     <a href="/2006/05/10/egr-ecossistema-de-games-do-recife" class="read-more">Leia mais</a>
@@ -196,7 +191,7 @@
   
  </center>
     
-    Para você que gosta de jogar, mas também deseja desenvolver jogos, a Technology &amp; Training uma instituição de ensino focada no desenvolvimento de jogos eletrônicos estará promovendo no dia 11/04/2006 no Rio de Janeiro uma palestra gratuíta sobre Entretenimento Digital, que estará abordando os seguintes tópicos: Que mercado &eacute; esse...
+    Para você que gosta de jogar, mas também deseja desenvolver jogos, a Technology &amp; Training uma instituição de ensino focada no desenvolvimento de jogos eletrônicos estará promovendo no dia 11/04/2006 no Rio de Janeiro uma palestra gratuíta sobre Entretenimento Digital, que estará abordando os seguintes tópicos: Que mercado é esse...
     </div>
 
     <a href="/2006/04/10/palestra-sobre-entretenimento-digital-na-tt" class="read-more">Leia mais</a>
@@ -407,10 +402,10 @@ Leia mais…
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -140,7 +135,7 @@
       
  </center>
     
-    SAUDACOES! EU SOU TRIBOT. DE ACORDO COM MINHAS ESPECIFICACOES, EU SOU UM BALANCE BOT DE PERNAS RETRATEIS DE CLASSE 2, S/N#3958388. ME DISSERAM QUE EU DEVERIA MOSTRAR MINHAS DIRETIVAS.&lt;/font&gt; [LISTANDO DIRETIVAS]&lt;/font&gt; PEGAR GEMS&lt;/font&gt; &gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt; &gt; - FICAR ESTILOSO&quot;&lt;/font&gt; Foi dessa maneira bem humorada que fomos apresentados...
+    SAUDACOES! EU SOU TRIBOT. DE ACORDO COM MINHAS ESPECIFICACOES, EU SOU UM BALANCE BOT DE PERNAS RETRATEIS DE CLASSE 2, S/N#3958388. ME DISSERAM QUE EU DEVERIA MOSTRAR MINHAS DIRETIVAS.&lt;/font&gt; [LISTANDO DIRETIVAS]&lt;/font&gt; PEGAR GEMS&lt;/font&gt; &gt; - PEGAR CAIXAS MAGICAS&lt;/font&gt; &gt; - FICAR ESTILOSO"&lt;/font&gt; Foi dessa maneira bem humorada que fomos apresentados...
     </div>
 
     <a href="/2013/01/23/tribot" class="read-more">Leia mais</a>
@@ -161,7 +156,7 @@
   
  </center>
     
-    No final de 2012 fizemos uma enquete perguntando Quais games desenvolvidos no Brasil você jogou em 2012?". Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano. Para mostrar o resultado a vocês, montamos a lista abaixo mostrando...
+    No final de 2012 fizemos uma enquete perguntando Quais games desenvolvidos no Brasil você jogou em 2012?”. Tivemos diversos games citados, alguns ainda em beta ou demo, a maioria deles vocês conferiram aqui mesmo no blog durante o ano. Para mostrar o resultado a vocês, montamos a lista abaixo mostrando...
     </div>
 
     <a href="/2013/01/02/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-jogou-em-2012" class="read-more">Leia mais</a>
@@ -310,7 +305,7 @@
   
  </center>
     
-    &gt; &quot;O primeiro game comercial brasileiro voltado para a educa&#231;&#227;o no tr&#226;nsito&quot; este &#233; o mote de VRUM da empresa brasileira ThinkBox Games . Ao criar o game a ThinkBox tinha como objetivo possibilitar que os jogadores entendessem e enfrentassem os desafios do tr&#226;nsito, objetivando um game que, al&#233;m de...
+    &gt; "O primeiro game comercial brasileiro voltado para a educação no trânsito" este é o mote de VRUM da empresa brasileira ThinkBox Games . Ao criar o game a ThinkBox tinha como objetivo possibilitar que os jogadores entendessem e enfrentassem os desafios do trânsito, objetivando um game que, além de...
     </div>
 
     <a href="/2012/11/07/vrum-aprendendo-sobre-o-transito" class="read-more">Leia mais</a>
@@ -433,10 +428,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

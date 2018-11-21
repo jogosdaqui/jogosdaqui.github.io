@@ -59,7 +59,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-12-09T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/12/09/sheep-dreams-are-made-of-this"},"@type":"BlogPosting","url":"/2015/12/09/sheep-dreams-are-made-of-this","headline":"Sheep Dreams Are Made of This","dateModified":"2015-12-09T00:00:00-02:00","datePublished":"2015-12-09T00:00:00-02:00","author":{"@type":"Person","name":"MiniChimera Game Studio"},"description":"O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"MiniChimera Game Studio"},"@type":"BlogPosting","url":"/2015/12/09/sheep-dreams-are-made-of-this","headline":"Sheep Dreams Are Made of This","dateModified":"2015-12-09T00:00:00-02:00","datePublished":"2015-12-09T00:00:00-02:00","description":"O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/12/09/sheep-dreams-are-made-of-this"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -96,20 +96,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -165,11 +160,15 @@
       
  </center>
     
-<div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por MiniChimera Game Studio.</div>
+    
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por MiniChimera Game Studio.</div>
+    
 
     
-<div class="post-info"><i class="fas fa-pen-square"></i> Post por MiniChimera Game Studio em colaboração para o jogosdaqui.</div>
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por MiniChimera Game Studio.</div>
 
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.</p>
 
 <p>Você controla um homem que tem o mesmo pesadelo toda noite há 17 anos, onde tudo que ele consegue fazer é correr, pular e coletar fragmentos de memórias há muito esquecidas.</p>
@@ -311,10 +310,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

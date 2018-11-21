@@ -58,7 +58,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-05-07T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/05/07/fan-arts-de-chroma-squad"},"@type":"BlogPosting","url":"/2015/05/07/fan-arts-de-chroma-squad","headline":"Fan arts de Chroma Squad","dateModified":"2015-05-07T00:00:00-03:00","datePublished":"2015-05-07T00:00:00-03:00","description":"Com o grande lançamento de Chroma Squad no último dia 30, surgiram diversas imagens feitas por jogadores que aguardavam ansiosamente pelo game. O jogosdaqui selecionou as mais bonitas. Confira!","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2015/05/07/fan-arts-de-chroma-squad","headline":"Fan arts de Chroma Squad","dateModified":"2015-05-07T00:00:00-03:00","datePublished":"2015-05-07T00:00:00-03:00","description":"Com o grande lançamento de Chroma Squad no último dia 30, surgiram diversas imagens feitas por jogadores que aguardavam ansiosamente pelo game. O jogosdaqui selecionou as mais bonitas. Confira!","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/05/07/fan-arts-de-chroma-squad"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -95,20 +95,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -176,6 +171,12 @@
  </center>
     
     
+    
+        <div class="post-info"><i class="fas fa-newspaper"></i>  Notícia sobre Behold Studios.</div>
+    
+
+    
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Com o grande lançamento de <a href="http://chromasquad.com/">Chroma Squad</a> no último dia 30, surgiram diversas imagens feitas por jogadores que aguardavam ansiosamente pelo game. O jogosdaqui selecionou as mais bonitas. Confira!</p>
 
 <h2 id="fan-arts-de-chroma-squad">Fan arts de Chroma Squad</h2>
@@ -280,10 +281,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

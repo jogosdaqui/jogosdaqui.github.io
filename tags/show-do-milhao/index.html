@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,21 +102,38 @@
 
     <div id="main" role="main" class="container">
       <h2>show-do-milhao</h2>
-<ul>
 
+
+
+  
+    
+    
+    <h3>Jogos</h3>
+    <ul>
+  
   <li><a href="/2015/10/16/max-quiz">Max Quiz</a> (16/10/2015)</li>
 
-  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
-
+  
   <li><a href="/2005/12/14/show-do-milhao-2006">Show do Milhão 2006</a> (14/12/2005)</li>
 
-  <li><a href="/2005/12/14/novo-show-do-milhao">Novo Show do Milhão</a> (14/12/2005)</li>
-
+  
   <li><a href="/2005/09/28/show-do-milhao-junior">Show do Milhão Júnior</a> (28/09/2005)</li>
 
+  
   <li><a href="/2005/09/20/show-do-milhao-colecionador">Show do Milhão Colecionador</a> (20/09/2005)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
+
+  
+  <li><a href="/2005/12/14/novo-show-do-milhao">Novo Show do Milhão</a> (14/12/2005)</li>
 
     </div>
   
@@ -129,10 +141,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

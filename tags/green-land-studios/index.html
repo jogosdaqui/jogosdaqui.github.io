@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,31 +102,53 @@
 
     <div id="main" role="main" class="container">
       <h2>green-land-studios</h2>
-<ul>
 
-  <li><a href="/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou">Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</a> (13/12/2010)</li>
 
-  <li><a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados">Jogos Completos de Baixo Orçamento, 18 projetos classificados</a> (02/06/2006)</li>
 
-  <li><a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006">Lista de projetos do JogosBR 2005/2006</a> (22/05/2006)</li>
-
-  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
-
-  <li><a href="/2006/03/24/primeiro-brasileiro-no-espaco">Primeiro Brasileiro no Espaço</a> (24/03/2006)</li>
-
-  <li><a href="/2005/12/22/novos-jogos-da-green-land-studios">Novos jogos da Green Land Studios</a> (22/12/2005)</li>
-
+  
+    
+    
+    <h3>Jogos</h3>
+    <ul>
+  
   <li><a href="/2005/12/22/domino-chines">Dominó Chinês</a> (22/12/2005)</li>
 
+  
   <li><a href="/2005/12/22/bate-rebate">Bate-Rebate</a> (22/12/2005)</li>
 
-  <li><a href="/2005/12/14/novo-show-do-milhao">Novo Show do Milhão</a> (14/12/2005)</li>
-
+  
   <li><a href="/2005/09/20/v-t-o-l">V.T.O.L.</a> (20/09/2005)</li>
 
+  
   <li><a href="/2005/08/27/botzin">BOTZIN</a> (27/08/2005)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2010/12/13/resultado-da-enquete-quais-games-desenvolvidos-no-brasil-voce-ja-jogou">Resultado da enquete "Quais games desenvolvidos no Brasil você já jogou?"</a> (13/12/2010)</li>
+
+  
+  <li><a href="/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados">Jogos Completos de Baixo Orçamento, 18 projetos classificados</a> (02/06/2006)</li>
+
+  
+  <li><a href="/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006">Lista de projetos do JogosBR 2005/2006</a> (22/05/2006)</li>
+
+  
+  <li><a href="/2006/05/18/quadro-comemorativo-150-jogos-daqui">Quadro comemorativo "jogos daqui"</a> (18/05/2006)</li>
+
+  
+  <li><a href="/2006/03/24/primeiro-brasileiro-no-espaco">Primeiro Brasileiro no Espaço</a> (24/03/2006)</li>
+
+  
+  <li><a href="/2005/12/22/novos-jogos-da-green-land-studios">Novos jogos da Green Land Studios</a> (22/12/2005)</li>
+
+  
+  <li><a href="/2005/12/14/novo-show-do-milhao">Novo Show do Milhão</a> (14/12/2005)</li>
 
     </div>
   
@@ -139,10 +156,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

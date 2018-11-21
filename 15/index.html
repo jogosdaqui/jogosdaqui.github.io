@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -201,8 +196,6 @@ Confira o teaser trailer abaixo:
 
 
 <center>
-  
-    
   
     
       <img src="/assets/2015/03/30/splitplay-dobra-de-tamanho-em-apenas-um-fim-de-semana/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
@@ -363,7 +356,7 @@ Confira o teaser trailer abaixo:
   
  </center>
     
-    Em 2015 a SPJam completa 5 anos reunindo desenvolvedores de jogos, tanto entusiastas como profissionais, para desenvolverem um jogo inédito dentro do período de 48 horas. Durante essa meia década de existência muitos jogos foram criados no evento, como podemos ver no site oficial da game jam . A cada...
+    Em 2015 a SPJam completa 5 anos reunindo desenvolvedores de jogos, tanto entusiastas como profissionais, para desenvolverem um jogo inédito dentro do período de 48 horas. Durante essa meia década de existência muitos jogos foram criados no evento, como podemos ver no site oficial da game jam. A cada ano...
     </div>
 
     <a href="/2015/03/24/spjam-2015" class="read-more">Leia mais</a>
@@ -405,10 +398,10 @@ Confira o teaser trailer abaixo:
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

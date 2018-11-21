@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -376,7 +371,7 @@ O jogo foi lançado semana passada para iOS.
   
  </center>
     
-    O jogo &#233; uma atividade comum em todas as sociedades e culturas, e assim tem permanecido desde tempos imemoriais. Para a maioria das pessoas, esta atividade n&#227;o passa de um divertimento, uma op&#231;&#227;o de lazer, sem consequ&#234;ncias negativas de qualquer tipo. Diferentes estudos apontam para que entre 70% a 90%...
+    O jogo é uma atividade comum em todas as sociedades e culturas, e assim tem permanecido desde tempos imemoriais. Para a maioria das pessoas, esta atividade não passa de um divertimento, uma opção de lazer, sem consequências negativas de qualquer tipo. Diferentes estudos apontam para que entre 70% a 90%...
     </div>
 
     <a href="/2014/04/25/o-perfil-dos-jogadores" class="read-more">Leia mais</a>
@@ -418,10 +413,10 @@ O jogo foi lançado semana passada para iOS.
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

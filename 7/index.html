@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -343,7 +338,7 @@ Playthrough Chroma Squad
       
  </center>
     
-    O primeiro livro que tive contato foi O Joelho Juvenal, do mestre Ziraldo . Lembro-me com carinho da capa e de algumas partes da história deste livro que me introduziu a leitura e foi o primeiro desta estrada que ainda tenho muito a percorrer. O livro-jogo-ilustrado A Cidade Dos Que...
+    O primeiro livro que tive contato foi O Joelho Juvenal, do mestre Ziraldo. Lembro-me com carinho da capa e de algumas partes da história deste livro que me introduziu a leitura e foi o primeiro desta estrada que ainda tenho muito a percorrer. O livro-jogo-ilustrado A Cidade Dos Que Descem...
     </div>
 
     <a href="/2015/05/30/a-cidade-dos-que-descem-pela-escada-terceiro-andar" class="read-more">Leia mais</a>
@@ -486,10 +481,10 @@ Playthrough Chroma Squad
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

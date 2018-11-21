@@ -13,13 +13,13 @@
 
     
     <meta name="description" content="A Devworks
- colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o "World Rummikub Champioship" e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
+ colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o “World Rummikub Champioship” e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
 " />
     <meta property="og:description" content="A Devworks
- colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o "World Rummikub Champioship" e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
+ colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o “World Rummikub Champioship” e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
 " />
     <meta name="twitter:description" content="A Devworks
- colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o "World Rummikub Champioship" e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
+ colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o “World Rummikub Champioship” e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…
 " />
     
 
@@ -52,13 +52,13 @@
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Rummikub entra em fase beta no Gametrack" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="A Devworks colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o &quot;World Rummikub Champioship&quot; e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…" />
-<meta property="og:description" content="A Devworks colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o &quot;World Rummikub Champioship&quot; e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…" />
+<meta name="description" content="A Devworks colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o “World Rummikub Champioship” e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…" />
+<meta property="og:description" content="A Devworks colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o “World Rummikub Champioship” e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…" />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-03-20T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack"},"@type":"BlogPosting","url":"/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack","headline":"Rummikub entra em fase beta no Gametrack","dateModified":"2006-03-20T00:00:00-03:00","datePublished":"2006-03-20T00:00:00-03:00","description":"A Devworks colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o &quot;World Rummikub Champioship&quot; e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack","headline":"Rummikub entra em fase beta no Gametrack","dateModified":"2006-03-20T00:00:00-03:00","datePublished":"2006-03-20T00:00:00-03:00","description":"A Devworks colocou no ar o beta de Rummikub.Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o “World Rummikub Champioship” e há possibilidade da seletiva brasileira ser realizada no Gametrack.Confira o jogo Rummikub no portal Gametrack…","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/03/20/rummikub-entra-em-fase-beta-no-gametrack"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -95,20 +95,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -162,8 +157,9 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A Devworks
- colocou no ar o beta de Rummikub.<br /><br />Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o "World Rummikub Champioship" e há possibilidade da seletiva brasileira ser realizada no Gametrack.<br /><br /><a target="_blank" href="http://www.gametrack.com.br">Confira o jogo Rummikub no portal Gametrack…</a></p>
+ colocou no ar o beta de Rummikub.<br /><br />Rummikub é um dos mais famosos jogos de tabuleiro do mundo. A cada três anos é realizado o “World Rummikub Champioship” e há possibilidade da seletiva brasileira ser realizada no Gametrack.<br /><br /><a target="_blank" href="http://www.gametrack.com.br">Confira o jogo Rummikub no portal Gametrack…</a></p>
 
 
     
@@ -221,10 +217,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

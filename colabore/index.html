@@ -87,20 +87,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -122,7 +117,7 @@
 </center>
 
 O jogosdaqui foi transformado em open source em novembro de 2018. 
-Leia mais no post de lançamento <a href="/2018/11/15/jogosdaqui-open-source-e-colaborativo">"jogosdaqui: open source e colaborativo"</a>.
+Leia mais no post de lançamento <a href="/2018/11/21/jogosdaqui-open-source-e-colaborativo">"jogosdaqui: open source e colaborativo"</a>.
 <br><br>
 Caso você tenha encontrado um erro ou uma oportunidade de melhoria em algum post, como dados, screenshots, formatação, etc, ou queira contribuir com um novo post.
 Existem duas maneiras principais para colaborar com o jogosdaqui:
@@ -147,10 +142,10 @@ Se você não tem conhecimentos de programação ou Markdown, você ainda pode c
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

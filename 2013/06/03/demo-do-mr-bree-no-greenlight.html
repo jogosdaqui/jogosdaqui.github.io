@@ -85,7 +85,7 @@ Para baixa-lo acesse diretamente a página do Steam.
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2013-06-03T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2013/06/03/demo-do-mr-bree-no-greenlight"},"@type":"BlogPosting","url":"/2013/06/03/demo-do-mr-bree-no-greenlight","headline":"Demo do Mr. Bree+ no Greenlight","dateModified":"2013-06-03T00:00:00-03:00","datePublished":"2013-06-03T00:00:00-03:00","description":"O time da TawStudio deu mais um importante passo na sua campanha no Greenlight para levar o game Mr. Bree+ ao Steam. Dessa vez a equipe liberou um demo para que a comunidade possa avaliar o jogo e assim dar o sinal verde para a entrada na plataforma da Valve. Posso dizer uma coisa: se você gosta de games de plataforma caprichados e muito desafiadores, então é praticamente uma obrigação jogar esse demo. Para baixa-lo acesse diretamente a página do Steam.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2013/06/03/demo-do-mr-bree-no-greenlight","headline":"Demo do Mr. Bree+ no Greenlight","dateModified":"2013-06-03T00:00:00-03:00","datePublished":"2013-06-03T00:00:00-03:00","description":"O time da TawStudio deu mais um importante passo na sua campanha no Greenlight para levar o game Mr. Bree+ ao Steam. Dessa vez a equipe liberou um demo para que a comunidade possa avaliar o jogo e assim dar o sinal verde para a entrada na plataforma da Valve. Posso dizer uma coisa: se você gosta de games de plataforma caprichados e muito desafiadores, então é praticamente uma obrigação jogar esse demo. Para baixa-lo acesse diretamente a página do Steam.","mainEntityOfPage":{"@type":"WebPage","@id":"/2013/06/03/demo-do-mr-bree-no-greenlight"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -122,20 +122,15 @@ Para baixa-lo acesse diretamente a página do Steam.
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -193,6 +188,12 @@ Para baixa-lo acesse diretamente a página do Steam.
  </center>
     
     
+    
+        <div class="post-info"><i class="fas fa-newspaper"></i>  Notícia sobre Taw Studio.</div>
+    
+
+    
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>O time da <a href="http://tawstudio.com">TawStudio</a> deu mais um importante passo na sua campanha no Greenlight para levar o game Mr. Bree+ ao Steam.</p>
 
 <p>Dessa vez a equipe liberou um demo para que a comunidade possa avaliar o jogo e assim dar o sinal verde para a entrada na plataforma da Valve.</p>
@@ -319,10 +320,10 @@ Para baixa-lo acesse diretamente a página do Steam.
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

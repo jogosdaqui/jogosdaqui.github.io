@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -115,6 +110,35 @@
   <div class="entry">
     <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2014/06/05/splitplay-apresenta-bernie-needs-love">Splitplay apresenta: Bernie Needs Love</a></h1>
+
+    <div class="entry">
+     
+ 
+
+
+<center>
+  
+    
+  
+    
+  
+    
+  
+    
+  
+ </center>
+    
+    O jogosdaqui convidou o Splitplay e as equipes brasileiras de desenvolvimento indie com jogos à venda na nova loja para que apresentem os próprios games aos leitores do blog e o resultado é a série “Splitplay apresenta”. Neste post, conheça Bernie Needs Love! Nós, da Protomni Multimedia, somos cariocas, gostamos...
+    </div>
+
+    <a href="/2014/06/05/splitplay-apresenta-bernie-needs-love" class="read-more">Leia mais</a>
+    </article>
 
     
     
@@ -137,7 +161,7 @@
   
  </center>
     
-    O jogosdaqui convidou o Splitplay, primeiro site de compras online de indie games brasileiro, e as equipes das gamedevs brasileiras, com jogos na nova plataforma de distribuição, para apresentar os seus próprios games aos leitores do blog. O resultado é a série "Splitplay apresenta", nesse post conheça o game Mr....
+    O jogosdaqui convidou o Splitplay, primeiro site de compras online de indie games brasileiro, e as equipes das gamedevs brasileiras, com jogos na nova plataforma de distribuição, para apresentar os seus próprios games aos leitores do blog. O resultado é a série “Splitplay apresenta”, nesse post conheça o game Mr....
     </div>
 
     <a href="/2014/05/26/splitplay-apresenta-mr-bree" class="read-more">Leia mais</a>
@@ -197,6 +221,21 @@
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2014/05/13/escravo-nem-pensar">Escravo, nem pensar!</a></h1>
@@ -221,21 +260,6 @@
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -367,30 +391,6 @@ O jogo foi lançado semana passada para iOS.
     <a href="/2014/04/30/sos-mata-atlantica-o-jogo" class="read-more">Leia mais</a>
     </article>
 
-    
-    
-    <article class="post">
-
-    <h1><a href="/2014/04/28/dash-games">DASH GAMES</a></h1>
-
-    <div class="entry">
-     
- 
-
-
-<center>
-  
-    
-      <img src="/assets/2014/04/28/dash-games/logo.gif" style="max-height: 200px; border-radius: 10%;"/> 
-      
- </center>
-    
-    A Associação de Desenvolvedores de Jogos Digitais do Rio Grande do Sul - ADJOGOSRS apresenta, em cooperação com a BITS 2014, o DASH GAMES, evento que será realizado de 13 a 15 de maio de 2014, durante a feira de Tecnologia da Informação e da Comunicação, no Centro de Eventos...
-    </div>
-
-    <a href="/2014/04/28/dash-games" class="read-more">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -430,10 +430,10 @@ O jogo foi lançado semana passada para iOS.
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

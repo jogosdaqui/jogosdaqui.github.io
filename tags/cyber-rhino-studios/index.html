@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,19 +102,42 @@
 
     <div id="main" role="main" class="container">
       <h2>cyber-rhino-studios</h2>
-<ul>
 
-  <li><a href="/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento">Gryphon Knight Epic ganha data de lançamento</a> (28/07/2015)</li>
 
+
+  
+    
+    
+    <h3>Colunas</h3>
+    <ul>
+  
   <li><a href="/2015/05/22/checkpoint-7">Checkpoint #7</a> (22/05/2015)</li>
 
-  <li><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a> (15/05/2015)</li>
-
+  
   <li><a href="/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista">Insert Coins: Gryphon Knight Epic - Gameplay e Entrevista</a> (06/05/2015)</li>
 
-  <li><a href="/2015/04/09/previa-de-gryphon-knight-epic">Prévia de Gryphon Knight Epic</a> (09/04/2015)</li>
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
+  <li><a href="/2015/05/15/novo-video-de-gameplay-de-gryphon-knight-epic">Novo vídeo de gameplay de Gryphon Knight Epic</a> (15/05/2015)</li>
 
-</ul>
+  
+    
+      </ul>
+    
+    
+    <h3>Prévias</h3>
+    <ul>
+  
+  <li><a href="/2015/07/28/gryphon-knight-epic-ganha-data-de-lancamento">Gryphon Knight Epic ganha data de lançamento</a> (28/07/2015)</li>
+
+  
+  <li><a href="/2015/04/09/previa-de-gryphon-knight-epic">Prévia de Gryphon Knight Epic</a> (09/04/2015)</li>
 
     </div>
   
@@ -127,10 +145,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

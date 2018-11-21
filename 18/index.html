@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -160,7 +155,7 @@
       
  </center>
     
-    Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação. As inscrições serão feitas até o dia 15 de julho ou "enquanto durar o estoque" de vagas. Nessa edição a...
+    Em maio comentamos sobre o SPJam 2013, evento para criação de games, que acontece em SP e será realizado entre 30 de agosto e 1º de setembro na PUC Consolação. As inscrições serão feitas até o dia 15 de julho ou “enquanto durar o estoque” de vagas. Nessa edição a...
     </div>
 
     <a href="/2013/06/24/inscricoes-abertas-para-o-spjam-2013" class="read-more">Leia mais</a>
@@ -428,10 +423,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

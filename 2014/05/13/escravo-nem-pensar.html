@@ -64,7 +64,7 @@ A dinâmica do game permite que o jogador seja responsável por conduzir a traje
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2014-05-13T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2014/05/13/escravo-nem-pensar"},"@type":"BlogPosting","url":"/2014/05/13/escravo-nem-pensar","headline":"Escravo, nem pensar!","dateModified":"2014-05-13T00:00:00-03:00","datePublished":"2014-05-13T00:00:00-03:00","description":"A Flux Game Studio lança, nesta terça-feira, o primeiro jogo digital que aborda o trabalho escravo contemporâneo no Brasil em meio urbano e rural. A dinâmica do game permite que o jogador seja responsável por conduzir a trajetória de um trabalhador, que deixa sua cidade natal em busca de melhores condições de vida e acaba sendo explorado. Individualmente, o jogador deverá fazer escolhas para que consiga escapar dessa situação.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2014/05/13/escravo-nem-pensar","headline":"Escravo, nem pensar!","dateModified":"2014-05-13T00:00:00-03:00","datePublished":"2014-05-13T00:00:00-03:00","description":"A Flux Game Studio lança, nesta terça-feira, o primeiro jogo digital que aborda o trabalho escravo contemporâneo no Brasil em meio urbano e rural. A dinâmica do game permite que o jogador seja responsável por conduzir a trajetória de um trabalhador, que deixa sua cidade natal em busca de melhores condições de vida e acaba sendo explorado. Individualmente, o jogador deverá fazer escolhas para que consiga escapar dessa situação.","mainEntityOfPage":{"@type":"WebPage","@id":"/2014/05/13/escravo-nem-pensar"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -101,20 +101,15 @@ A dinâmica do game permite que o jogador seja responsável por conduzir a traje
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -172,11 +167,12 @@ A dinâmica do game permite que o jogador seja responsável por conduzir a traje
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A <a href="http://www.fluxgamestudio.com/" target="_blank">Flux Game Studio</a>
  lança, nesta terça-feira, o primeiro jogo digital que aborda o trabalho escravo contemporâneo no Brasil em meio urbano e rural. 
 A dinâmica do game permite que o jogador seja responsável por conduzir a trajetória de um trabalhador, que deixa sua cidade natal em busca de melhores condições de vida e acaba sendo explorado. Individualmente, o jogador deverá fazer escolhas para que consiga escapar dessa situação.</p>
 
-<p>A diversão foi um objetivo no qual o projeto mirou ininterruptamente para evitar cair na armadilha de jogos educativos entediantes. “Jogo tem que ser uma experiência interessante, e foi o que visamos alcançar com o game ‘Escravo, Nem Pensar!’”, aponta Bruno de Paula, Produtor Executivo do projeto. “Apesar da temática extremamente séria e delicada, entendemos que o jogador deve curtir o momento em que está jogando, e confiamos que o resultado final do game atingiu esse objetivo”.</p>
+<p>A diversão foi um objetivo no qual o projeto mirou ininterruptamente para evitar cair na armadilha de jogos educativos entediantes. “Jogo tem que ser uma experiência interessante, e foi o que visamos alcançar com o game “Escravo, Nem Pensar!’”, aponta Bruno de Paula, Produtor Executivo do projeto. “Apesar da temática extremamente séria e delicada, entendemos que o jogador deve curtir o momento em que está jogando, e confiamos que o resultado final do game atingiu esse objetivo”.</p>
 
 <p>O game é um point-and-click de solução de quebra-cabecas e conversação.</p>
 
@@ -302,10 +298,10 @@ A dinâmica do game permite que o jogador seja responsável por conduzir a traje
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

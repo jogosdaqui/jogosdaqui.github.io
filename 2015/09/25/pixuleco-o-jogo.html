@@ -51,6 +51,7 @@
 <title>Pixuleco - O Jogo | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Pixuleco - O Jogo" />
+<meta name="author" content="Diego Giacomelli" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a palavra em um dos seu depoimentos, quando se referiu à propinas." />
 <meta property="og:description" content="A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a palavra em um dos seu depoimentos, quando se referiu à propinas." />
@@ -58,7 +59,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-09-25T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/09/25/pixuleco-o-jogo"},"@type":"BlogPosting","url":"/2015/09/25/pixuleco-o-jogo","headline":"Pixuleco - O Jogo","dateModified":"2015-09-25T00:00:00-03:00","datePublished":"2015-09-25T00:00:00-03:00","description":"A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a palavra em um dos seu depoimentos, quando se referiu à propinas.","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Diego Giacomelli"},"@type":"BlogPosting","url":"/2015/09/25/pixuleco-o-jogo","headline":"Pixuleco - O Jogo","dateModified":"2015-09-25T00:00:00-03:00","datePublished":"2015-09-25T00:00:00-03:00","description":"A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a palavra em um dos seu depoimentos, quando se referiu à propinas.","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/09/25/pixuleco-o-jogo"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -95,20 +96,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -164,9 +160,15 @@
       
  </center>
     
-<div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Icon Games.</div>
+    
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Icon Games.</div>
+    
 
     
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Diego Giacomelli.</div>
+
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A palavra pixuleco não existe oficialmente no dicionário da língua portuguesa, mas como sabiamente diria um grande amigo meu, Bacharel em Letras: “A língua é feita pelo povo”. O termo ficou bem conhecido no país depois que ex-tesoureiro do PT (Partido dos Trabalhadores) João Vaccari Neto, utilizou a  palavra em um dos seu depoimentos, quando se referiu à propinas.</p>
 
 <h2 id="pixuleco-o-jogo">Pixuleco, O jogo</h2>
@@ -251,10 +253,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

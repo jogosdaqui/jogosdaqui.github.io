@@ -61,7 +61,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-05-30T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/30/mais-de-war-of-malquidious"},"@type":"BlogPosting","url":"/2006/05/30/mais-de-war-of-malquidious","headline":"Mais de War of Malquidious","dateModified":"2006-05-30T00:00:00-03:00","datePublished":"2006-05-30T00:00:00-03:00","description":"Recentemente a equipe jogosdaqui teve acesso direto a alguns dos maiores sucessos da PalmSoft , entre eles War of Malquidious. Confira o novo texto sobre War of Malquidious . Os outros jogos que, em breve, receberão novos textos: Drag Racer, Fencer e Shadows of Malquidious","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/05/30/mais-de-war-of-malquidious","headline":"Mais de War of Malquidious","dateModified":"2006-05-30T00:00:00-03:00","datePublished":"2006-05-30T00:00:00-03:00","description":"Recentemente a equipe jogosdaqui teve acesso direto a alguns dos maiores sucessos da PalmSoft , entre eles War of Malquidious. Confira o novo texto sobre War of Malquidious . Os outros jogos que, em breve, receberão novos textos: Drag Racer, Fencer e Shadows of Malquidious","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/30/mais-de-war-of-malquidious"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -98,20 +98,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -165,8 +160,9 @@
  </center>
     
     
-    <p>Recentemente a equipe jogosdaqui teve acesso direto a alguns dos maiores<br /> sucessos da <a href="../../../index.php?p=cl&amp;t=19&amp;idd=38">PalmSoft</a>
-, entre eles War of Malquidious.<br /> <br /> Confira o novo texto sobre <a href="../../../index.php?p=c&amp;id=241">War of Malquidious</a>
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
+    <p>Recentemente a equipe jogosdaqui teve acesso direto a alguns dos maiores<br /> sucessos da PalmSoft
+, entre eles War of Malquidious.<br /> <br /> Confira o novo texto sobre War of Malquidious
 .<br /> <br /> Os outros jogos que, em breve, receberão novos textos: Drag Racer, Fencer e Shadows of Malquidious<br /></p>
 
     
@@ -224,10 +220,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

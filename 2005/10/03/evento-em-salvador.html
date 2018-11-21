@@ -103,7 +103,7 @@ Para maiores informações visite: www.comunidadesvirtuais.pro.br/seminariog.htm
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-10-03T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2005/10/03/evento-em-salvador"},"@type":"BlogPosting","url":"/2005/10/03/evento-em-salvador","headline":"Evento em Salvador","dateModified":"2005-10-03T00:00:00-03:00","datePublished":"2005-10-03T00:00:00-03:00","description":"Os games hoje se constituem em uma nova mídia que atrai e desperta o interesse e desejo da geração denominada Screenagers, mas também é visto pela comunidade e pela mídia de forma maniqueísta e apocalíptica. Atualmente a discussão em torno dos jogos eletrônicos vem crescendo de forma significativa no cenário acadêmico brasileiro, agregando pesquisadores de diferentes instituições que investigam este fenômeno na sociedade contemporânea, indicando contribuições para o desenvolvimento de narrativas interativas e intertextuais, bem como a contribuição dos games na aprendizagem. Portanto, a realização deste seminário irá se constituir em um marco nesta área na medida em que propõem trazer estes pesquisadores para estabelecer uma grande teia de discussões que poderão subsidiar novas maneiras de se compreender os jogos eletrônicos. Objetivos Criar um fórum de debates entre os pesquisadores que vem discutindo e analisando a presença dos games na sociedade contemporânea e suas repercussões nas áreas de educação, comunicação e informática. Socializar as pesquisas que vem sendo desenvolvidas no Brasil em torno dos jogos eletrônicos. Local do Evento Auditório Jurandir Costa – UNEB – Departamento de Educação – Campus I Rua Silveira Martins no. 2555 – Cabula – Salvador – Bahia Período: 10 e 11/10/05 Para maiores informações visite: www.comunidadesvirtuais.pro.br/seminariog.htm","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2005/10/03/evento-em-salvador","headline":"Evento em Salvador","dateModified":"2005-10-03T00:00:00-03:00","datePublished":"2005-10-03T00:00:00-03:00","description":"Os games hoje se constituem em uma nova mídia que atrai e desperta o interesse e desejo da geração denominada Screenagers, mas também é visto pela comunidade e pela mídia de forma maniqueísta e apocalíptica. Atualmente a discussão em torno dos jogos eletrônicos vem crescendo de forma significativa no cenário acadêmico brasileiro, agregando pesquisadores de diferentes instituições que investigam este fenômeno na sociedade contemporânea, indicando contribuições para o desenvolvimento de narrativas interativas e intertextuais, bem como a contribuição dos games na aprendizagem. Portanto, a realização deste seminário irá se constituir em um marco nesta área na medida em que propõem trazer estes pesquisadores para estabelecer uma grande teia de discussões que poderão subsidiar novas maneiras de se compreender os jogos eletrônicos. Objetivos Criar um fórum de debates entre os pesquisadores que vem discutindo e analisando a presença dos games na sociedade contemporânea e suas repercussões nas áreas de educação, comunicação e informática. Socializar as pesquisas que vem sendo desenvolvidas no Brasil em torno dos jogos eletrônicos. Local do Evento Auditório Jurandir Costa – UNEB – Departamento de Educação – Campus I Rua Silveira Martins no. 2555 – Cabula – Salvador – Bahia Período: 10 e 11/10/05 Para maiores informações visite: www.comunidadesvirtuais.pro.br/seminariog.htm","mainEntityOfPage":{"@type":"WebPage","@id":"/2005/10/03/evento-em-salvador"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -140,20 +140,15 @@ Para maiores informações visite: www.comunidadesvirtuais.pro.br/seminariog.htm
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -207,6 +202,7 @@ Para maiores informações visite: www.comunidadesvirtuais.pro.br/seminariog.htm
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Os games hoje se constituem em uma nova mídia que atrai e desperta o interesse e desejo da geração denominada Screenagers, mas também é visto pela comunidade e pela mídia de forma maniqueísta e apocalíptica.</p>
 
 <p>Atualmente a discussão em torno dos jogos eletrônicos vem crescendo de forma significativa no cenário acadêmico brasileiro, agregando pesquisadores de diferentes instituições que investigam este fenômeno na sociedade contemporânea, indicando contribuições para o desenvolvimento de narrativas interativas e intertextuais, bem como a contribuição dos games na aprendizagem.</p>
@@ -293,10 +289,10 @@ Rua Silveira Martins no. 2555 – Cabula – Salvador – Bahia</p>
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

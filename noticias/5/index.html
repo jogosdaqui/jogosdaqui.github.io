@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -115,6 +110,27 @@
   <div class="entry">
     <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/05/08/distorcoes-ganha-novos-videos">Distorções ganha novos vídeos</a></h1>
+
+    <div class="entry">
+     
+ 
+
+
+<center>
+  
+ </center>
+    
+    A equipe de desenvolvimento do game Distorções liberou dois novos vídeos do projeto em desenvolvimento. Para quem ainda não conhece o jogo, abaixo a descrição do mesmo pelas palavras dos criadores: “Uma garota acorda, levantando-se de uma cama de hospital, e se vê em um estranho local onde o tempo...
+    </div>
+
+    <a href="/2015/05/08/distorcoes-ganha-novos-videos" class="read-more">Leia mais</a>
+    </article>
 
     
     
@@ -203,6 +219,21 @@
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/05/03/toren-ganha-trailer-de-lancamento">Toren ganha trailer de lançamento</a></h1>
@@ -223,21 +254,6 @@
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -351,27 +367,6 @@
     <a href="/2015/04/28/infografico-quantos-games-brasileiros-voce-ja-jogou" class="read-more">Leia mais</a>
     </article>
 
-    
-    
-    <article class="post">
-
-    <h1><a href="/2015/04/24/trailer-de-lancamento-de-chroma-squad">Trailer de lançamento de Chroma Squad</a></h1>
-
-    <div class="entry">
-     
- 
-
-
-<center>
-  
- </center>
-    
-    A Behold Studios liberou o trailer de lançamento do Chroma Squad que tem previsão de chegar no Steam no próximo dia 30. O trailer, com direito a trilha sonora japonesa, deu aquela saudade de ver o Esquadrão Relâmpago Changeman na tela da extinta TV Manchete. Para os mais novos a...
-    </div>
-
-    <a href="/2015/04/24/trailer-de-lancamento-de-chroma-squad" class="read-more">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -411,10 +406,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

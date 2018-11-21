@@ -84,20 +84,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -107,17 +102,32 @@
 
     <div id="main" role="main" class="container">
       <h2>ubisoft</h2>
-<ul>
 
+
+
+  
+    
+    
+    <h3>Eventos</h3>
+    <ul>
+  
   <li><a href="/2015/04/24/cobertura-do-evento-powerup-2">Cobertura do evento PowerUp #2</a> (24/04/2015)</li>
 
+  
+    
+      </ul>
+    
+    
+    <h3>Notícias</h3>
+    <ul>
+  
   <li><a href="/2014/04/28/dash-games">DASH GAMES</a> (28/04/2014)</li>
 
+  
   <li><a href="/2010/12/31/os-fatos-do-ano-2">Os fatos do ano</a> (31/12/2010)</li>
 
+  
   <li><a href="/2010/12/18/documentario-a-mecanica-do-jogo">Documentário "A Mecânica do Jogo"</a> (18/12/2010)</li>
-
-</ul>
 
     </div>
   
@@ -125,10 +135,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

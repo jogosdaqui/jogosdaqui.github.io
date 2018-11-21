@@ -55,7 +55,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-05-06T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/06/winguel"},"@type":"BlogPosting","url":"/2006/05/06/winguel","headline":"Winguel","dateModified":"2006-05-06T00:00:00-03:00","datePublished":"2006-05-06T00:00:00-03:00","description":"Winguel é um alienígena que vive no planeta Marte e gosta de se divertir. Andando pelas montanhas de Marte, Winguel encontra por acaso uma das sondas enviadas da Terra, que está explorando aquele planeta. Surpreso, Winguel imagina que o aparelho deve ser dos humanos, e então resolve devolvê-lo. Winguel pega sua nave, e inicia a viajem para a Terra.Nas proximidades de nosso planeta Winguel é detectado pelos potentes radares da W.U.C - Controle Mundial de OVINIS, que resolvem atacá-lo sem saber ao certo do que se trata. Um míssil atinge a nave de Winguel, fazendo com que pedaços dela caiam espalhados em diferentes lugares.Você precisa ajudar Winguel a recuperar as partes da nave, vencendo cada um dos jogos, para que ele possa voltar para casa. Mas não será nada fácil, porque os guardas da W.U.C. estão protegendo as peças, e eles armaram várias armadilhas para capturar o nosso amigo alienígenaWinguel Centro de atividades, é um pacote com cinco jogos divertidos, e fáceis de jogar.Você precisa vencer cada um dos jogos para recuperar as peças da nave, e assim ajudar Winguel a retornar para sua casa.Os cinco jogos (O Castelo, A Pirâmide, A Lagoa, O Cemitério e Blocos) tem estilos e jogabilidade diferentes, sempre com desafios para você.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/05/06/winguel","headline":"Winguel","dateModified":"2006-05-06T00:00:00-03:00","datePublished":"2006-05-06T00:00:00-03:00","description":"Winguel é um alienígena que vive no planeta Marte e gosta de se divertir. Andando pelas montanhas de Marte, Winguel encontra por acaso uma das sondas enviadas da Terra, que está explorando aquele planeta. Surpreso, Winguel imagina que o aparelho deve ser dos humanos, e então resolve devolvê-lo. Winguel pega sua nave, e inicia a viajem para a Terra.Nas proximidades de nosso planeta Winguel é detectado pelos potentes radares da W.U.C - Controle Mundial de OVINIS, que resolvem atacá-lo sem saber ao certo do que se trata. Um míssil atinge a nave de Winguel, fazendo com que pedaços dela caiam espalhados em diferentes lugares.Você precisa ajudar Winguel a recuperar as partes da nave, vencendo cada um dos jogos, para que ele possa voltar para casa. Mas não será nada fácil, porque os guardas da W.U.C. estão protegendo as peças, e eles armaram várias armadilhas para capturar o nosso amigo alienígenaWinguel Centro de atividades, é um pacote com cinco jogos divertidos, e fáceis de jogar.Você precisa vencer cada um dos jogos para recuperar as peças da nave, e assim ajudar Winguel a retornar para sua casa.Os cinco jogos (O Castelo, A Pirâmide, A Lagoa, O Cemitério e Blocos) tem estilos e jogabilidade diferentes, sempre com desafios para você.","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/06/winguel"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,20 +92,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -181,9 +176,13 @@
       
  </center>
     
-<div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Espaço Informática.</div>
+    
+    
+        <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Espaço Informática.</div>
+    
 
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Winguel é um alienígena que vive no planeta Marte e gosta de se divertir. Andando pelas montanhas de Marte, Winguel encontra por acaso uma das sondas enviadas da Terra, que está explorando aquele planeta. Surpreso, Winguel imagina que o aparelho deve ser dos humanos, e então resolve devolvê-lo. Winguel pega sua nave, e inicia a viajem para a Terra.<br /><br />Nas proximidades de nosso planeta Winguel é detectado pelos potentes radares da W.U.C - Controle Mundial de OVINIS, que resolvem atacá-lo sem saber ao certo do que se trata. Um míssil atinge a nave de Winguel, fazendo com que pedaços dela caiam espalhados em diferentes lugares.<br /><br />Você precisa ajudar Winguel a recuperar as partes da nave, vencendo cada um dos jogos, para que ele possa voltar para casa. Mas não será nada fácil, porque os guardas da W.U.C. estão protegendo as peças, e eles armaram várias armadilhas para capturar o nosso amigo alienígena<br /><br />Winguel Centro de atividades, é um pacote com cinco jogos divertidos, e fáceis de jogar.<br /><br />Você precisa vencer cada um dos jogos para recuperar as peças da nave, e assim ajudar Winguel a retornar para sua casa.<br /><br />Os cinco jogos (O Castelo, A Pirâmide, A Lagoa, O Cemitério e Blocos) tem estilos e jogabilidade diferentes, sempre com desafios para você.<br /><br /></p>
 
     
@@ -328,10 +327,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

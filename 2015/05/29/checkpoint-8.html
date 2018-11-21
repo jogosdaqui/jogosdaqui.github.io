@@ -132,6 +132,7 @@ Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games
 <title>Checkpoint #8 | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Checkpoint #8" />
+<meta name="author" content="Diego Giacomelli" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="#1 Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight #2 A Aquiris Game Studio apresentando seu time de desenvolvimento, agora é a vez do Sound/motion designer Giovane Webster #3 Conheça um pouco mais do game Crystal Catcher da Crazy Mind Studios com este trailer #4 Começa hoje O VIII GAMEPAD – Seminário de Games e Tecnologia que contará com apresentação de papers, mostra de jogos, palestras e workshops #5 Nossa prévia do game Alkimya da Bad Minions, com direito a consultoria de Isaac Newton #6 O game Ballistic da Aquiris tem sua trilha sonora liberada publicamente no SoundCloud #7 Pessoal da Bad Minions comemorando a seleção do jogo Alkimya entre os 8 games que participarão do BIG Starter #8 Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell #9 Veja nossa coletânea de fan arts do game Toren #10 Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games" />
 <meta property="og:description" content="#1 Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight #2 A Aquiris Game Studio apresentando seu time de desenvolvimento, agora é a vez do Sound/motion designer Giovane Webster #3 Conheça um pouco mais do game Crystal Catcher da Crazy Mind Studios com este trailer #4 Começa hoje O VIII GAMEPAD – Seminário de Games e Tecnologia que contará com apresentação de papers, mostra de jogos, palestras e workshops #5 Nossa prévia do game Alkimya da Bad Minions, com direito a consultoria de Isaac Newton #6 O game Ballistic da Aquiris tem sua trilha sonora liberada publicamente no SoundCloud #7 Pessoal da Bad Minions comemorando a seleção do jogo Alkimya entre os 8 games que participarão do BIG Starter #8 Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell #9 Veja nossa coletânea de fan arts do game Toren #10 Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games" />
@@ -139,7 +140,7 @@ Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-05-29T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/05/29/checkpoint-8"},"@type":"BlogPosting","url":"/2015/05/29/checkpoint-8","headline":"Checkpoint #8","dateModified":"2015-05-29T00:00:00-03:00","datePublished":"2015-05-29T00:00:00-03:00","description":"#1 Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight #2 A Aquiris Game Studio apresentando seu time de desenvolvimento, agora é a vez do Sound/motion designer Giovane Webster #3 Conheça um pouco mais do game Crystal Catcher da Crazy Mind Studios com este trailer #4 Começa hoje O VIII GAMEPAD – Seminário de Games e Tecnologia que contará com apresentação de papers, mostra de jogos, palestras e workshops #5 Nossa prévia do game Alkimya da Bad Minions, com direito a consultoria de Isaac Newton #6 O game Ballistic da Aquiris tem sua trilha sonora liberada publicamente no SoundCloud #7 Pessoal da Bad Minions comemorando a seleção do jogo Alkimya entre os 8 games que participarão do BIG Starter #8 Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell #9 Veja nossa coletânea de fan arts do game Toren #10 Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Diego Giacomelli"},"@type":"BlogPosting","url":"/2015/05/29/checkpoint-8","headline":"Checkpoint #8","dateModified":"2015-05-29T00:00:00-03:00","datePublished":"2015-05-29T00:00:00-03:00","description":"#1 Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight #2 A Aquiris Game Studio apresentando seu time de desenvolvimento, agora é a vez do Sound/motion designer Giovane Webster #3 Conheça um pouco mais do game Crystal Catcher da Crazy Mind Studios com este trailer #4 Começa hoje O VIII GAMEPAD – Seminário de Games e Tecnologia que contará com apresentação de papers, mostra de jogos, palestras e workshops #5 Nossa prévia do game Alkimya da Bad Minions, com direito a consultoria de Isaac Newton #6 O game Ballistic da Aquiris tem sua trilha sonora liberada publicamente no SoundCloud #7 Pessoal da Bad Minions comemorando a seleção do jogo Alkimya entre os 8 games que participarão do BIG Starter #8 Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell #9 Veja nossa coletânea de fan arts do game Toren #10 Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/05/29/checkpoint-8"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -176,20 +177,15 @@ Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -243,6 +239,9 @@ Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games
  </center>
     
     
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Diego Giacomelli.</div>
+
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <h2 id="1">#1</h2>
 <p><a href="http://steamcommunity.com/sharedfiles/filedetails/updates/25536644">Post da Protomini Multimedia no Steam agradecendo a comunidade pelo game Bernie Needs Love ter recebido o sinal verde na plataforma Greenlight</a></p>
 
@@ -268,10 +267,10 @@ Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games
 <p><a href="https://twitter.com/idunagamestudio/status/603650929519415297">Galera do Iduna Game Studio celebrando o sinal verde do Steam Greenlight para o game Mustache in Hell</a></p>
 
 <h2 id="9">#9</h2>
-<p><a href="/2015/05/27/fan-arts-de-toren-da-swordtales/">Veja nossa coletânea de fan arts do game Toren</a></p>
+<p><a href="/2015/05/27/fan-arts-de-toren-da-swordtales">Veja nossa coletânea de fan arts do game Toren</a></p>
 
 <h2 id="10">#10</h2>
-<p><a href="/2015/05/28/carcara-asas-da-justica/">Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games</a></p>
+<p><a href="/2015/05/28/carcara-asas-da-justica">Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games</a></p>
 
     
  
@@ -359,10 +358,10 @@ Jogamos Carcará - Asas da Justiça da cearense Supernova Indie Games
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

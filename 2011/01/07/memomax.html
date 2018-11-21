@@ -58,7 +58,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2011-01-07T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2011/01/07/memomax"},"@type":"BlogPosting","url":"/2011/01/07/memomax","headline":"MemoMax","dateModified":"2011-01-07T00:00:00-02:00","datePublished":"2011-01-07T00:00:00-02:00","description":"A produtora iMAX Games lançou seu primeiro game para as plataformas portatéis da Apple.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2011/01/07/memomax","headline":"MemoMax","dateModified":"2011-01-07T00:00:00-02:00","datePublished":"2011-01-07T00:00:00-02:00","description":"A produtora iMAX Games lançou seu primeiro game para as plataformas portatéis da Apple.","mainEntityOfPage":{"@type":"WebPage","@id":"/2011/01/07/memomax"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -95,20 +95,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -165,15 +160,15 @@
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A produtora iMAX Games lançou seu primeiro game para as plataformas portatéis da Apple.</p>
 
-<p>MemoMax para iPad é um jogo da memória diferente, onde o jogador precisa encontrar pares iguais de carta, escolhendo uma carta do centro do tabuleiro e outra da "moldura" do tabuleiro. Toda vez que as cartas não são iguais, elas invertem de posição. Essa singela diferença torna o game muito mais dinâmico e desafiador.</p>
+<p>MemoMax para iPad é um jogo da memória diferente, onde o jogador precisa encontrar pares iguais de carta, escolhendo uma carta do centro do tabuleiro e outra da “moldura” do tabuleiro. Toda vez que as cartas não são iguais, elas invertem de posição. Essa singela diferença torna o game muito mais dinâmico e desafiador.</p>
 <center>
         <iframe src="https://www.youtube.com/embed/J5vHqfFMLYc " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
       </center>
 
-<p>O game pode ser jogado de 1 a 4 jogadores e está <a href="http://itunes.apple.com/us/app/memomax-hd/id407850268?mt=8" target="_blank">disponível na App Store</a>
-.</p>
+<p>O game pode ser jogado de 1 a 4 jogadores e está <a href="http://itunes.apple.com/us/app/memomax-hd/id407850268?mt=8" target="_blank">disponível na App Store</a>.</p>
 
     
  
@@ -247,10 +242,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -14,23 +14,11 @@
     
     <meta name="description" content="A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola.
 
-Show de Bola será um jogo multiplayer para celulares. Os personagens são caricaturas de personagens característicos da realidade futebolística, como um veterano que já deveria ter se aposentado, um garoto que se destaca em campeonatos juvenis ou um astro de cabeça quente.
-
-Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promete levar o público ao delírio!
-
 " />
     <meta property="og:description" content="A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola.
 
-Show de Bola será um jogo multiplayer para celulares. Os personagens são caricaturas de personagens característicos da realidade futebolística, como um veterano que já deveria ter se aposentado, um garoto que se destaca em campeonatos juvenis ou um astro de cabeça quente.
-
-Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promete levar o público ao delírio!
-
 " />
     <meta name="twitter:description" content="A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola.
-
-Show de Bola será um jogo multiplayer para celulares. Os personagens são caricaturas de personagens característicos da realidade futebolística, como um veterano que já deveria ter se aposentado, um garoto que se destaca em campeonatos juvenis ou um astro de cabeça quente.
-
-Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promete levar o público ao delírio!
 
 " />
     
@@ -64,13 +52,13 @@ Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promet
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Show de Bola, novo jogo da Meantime" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola. Show de Bola será um jogo multiplayer para celulares. Os personagens são caricaturas de personagens característicos da realidade futebolística, como um veterano que já deveria ter se aposentado, um garoto que se destaca em campeonatos juvenis ou um astro de cabeça quente. Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promete levar o público ao delírio!" />
-<meta property="og:description" content="A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola. Show de Bola será um jogo multiplayer para celulares. Os personagens são caricaturas de personagens característicos da realidade futebolística, como um veterano que já deveria ter se aposentado, um garoto que se destaca em campeonatos juvenis ou um astro de cabeça quente. Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promete levar o público ao delírio!" />
+<meta name="description" content="A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola." />
+<meta property="og:description" content="A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola." />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-10-18T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2005/10/18/show-de-bola-novo-jogo-da-meantime"},"@type":"BlogPosting","url":"/2005/10/18/show-de-bola-novo-jogo-da-meantime","headline":"Show de Bola, novo jogo da Meantime","dateModified":"2005-10-18T00:00:00-02:00","datePublished":"2005-10-18T00:00:00-02:00","description":"A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola. Show de Bola será um jogo multiplayer para celulares. Os personagens são caricaturas de personagens característicos da realidade futebolística, como um veterano que já deveria ter se aposentado, um garoto que se destaca em campeonatos juvenis ou um astro de cabeça quente. Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promete levar o público ao delírio!","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2005/10/18/show-de-bola-novo-jogo-da-meantime","headline":"Show de Bola, novo jogo da Meantime","dateModified":"2005-10-18T00:00:00-02:00","datePublished":"2005-10-18T00:00:00-02:00","description":"A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola.","mainEntityOfPage":{"@type":"WebPage","@id":"/2005/10/18/show-de-bola-novo-jogo-da-meantime"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -107,20 +95,15 @@ Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promet
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -174,6 +157,7 @@ Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promet
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>A Meantime lançará em breve, para os fãs do mais popular esporte do mundo, o jogo Show de Bola.</p>
 
 <p>Show de Bola será um jogo multiplayer para celulares. Os personagens são caricaturas de personagens característicos da realidade futebolística, como um veterano que já deveria ter se aposentado, um garoto que se destaca em campeonatos juvenis ou um astro de cabeça quente.</p>
@@ -249,10 +233,10 @@ Com ações realistas como xingamentos, frangos e furadas de rede, o jogo promet
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

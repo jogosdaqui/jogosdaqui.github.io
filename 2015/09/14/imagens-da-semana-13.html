@@ -198,6 +198,7 @@ Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aqui
 <title>Imagens da semana #13 | jogosdaqui</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Imagens da semana #13" />
+<meta name="author" content="Diego Giacomelli" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="#1 O artista Betu Souza apresentando a NPC do novo modo endless do game Relic Hunters Zero Your browser does not support the video tag. #2 O artista e programador Pedro Medeiros mostra um pouco da arte do game canadense Skytorn, onde ele e a brasileira Amora B. fazem parte da equipe de desenvolvimento Your browser does not support the video tag. #3 A Black River Studios de Manaus com uma screenshot de seu game que será anunciado no próximo dia 21 #4 JoyMasher comentando sobre a Blood Armor para os corajosos que enfrentarem o modo Veteran no game Odallus #5 A Mgaia Studio com seus os elfos da floresta, se preparando para um novo update de seu game Tiny Empire Your browser does not support the video tag. #6 RacketBoy da Double Dash mostrando um dos seus movimentos Your browser does not support the video tag. #7 A Iduna Game Studio revela o redesign feito no cenário do game Mustach In Hell #8 Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aquiris anunciou que a versão F2P será fechada" />
 <meta property="og:description" content="#1 O artista Betu Souza apresentando a NPC do novo modo endless do game Relic Hunters Zero Your browser does not support the video tag. #2 O artista e programador Pedro Medeiros mostra um pouco da arte do game canadense Skytorn, onde ele e a brasileira Amora B. fazem parte da equipe de desenvolvimento Your browser does not support the video tag. #3 A Black River Studios de Manaus com uma screenshot de seu game que será anunciado no próximo dia 21 #4 JoyMasher comentando sobre a Blood Armor para os corajosos que enfrentarem o modo Veteran no game Odallus #5 A Mgaia Studio com seus os elfos da floresta, se preparando para um novo update de seu game Tiny Empire Your browser does not support the video tag. #6 RacketBoy da Double Dash mostrando um dos seus movimentos Your browser does not support the video tag. #7 A Iduna Game Studio revela o redesign feito no cenário do game Mustach In Hell #8 Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aquiris anunciou que a versão F2P será fechada" />
@@ -205,7 +206,7 @@ Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aqui
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-09-14T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2015/09/14/imagens-da-semana-13"},"@type":"BlogPosting","url":"/2015/09/14/imagens-da-semana-13","headline":"Imagens da semana #13","dateModified":"2015-09-14T00:00:00-03:00","datePublished":"2015-09-14T00:00:00-03:00","description":"#1 O artista Betu Souza apresentando a NPC do novo modo endless do game Relic Hunters Zero Your browser does not support the video tag. #2 O artista e programador Pedro Medeiros mostra um pouco da arte do game canadense Skytorn, onde ele e a brasileira Amora B. fazem parte da equipe de desenvolvimento Your browser does not support the video tag. #3 A Black River Studios de Manaus com uma screenshot de seu game que será anunciado no próximo dia 21 #4 JoyMasher comentando sobre a Blood Armor para os corajosos que enfrentarem o modo Veteran no game Odallus #5 A Mgaia Studio com seus os elfos da floresta, se preparando para um novo update de seu game Tiny Empire Your browser does not support the video tag. #6 RacketBoy da Double Dash mostrando um dos seus movimentos Your browser does not support the video tag. #7 A Iduna Game Studio revela o redesign feito no cenário do game Mustach In Hell #8 Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aquiris anunciou que a versão F2P será fechada","@context":"http://schema.org"}</script>
+{"author":{"@type":"Person","name":"Diego Giacomelli"},"@type":"BlogPosting","url":"/2015/09/14/imagens-da-semana-13","headline":"Imagens da semana #13","dateModified":"2015-09-14T00:00:00-03:00","datePublished":"2015-09-14T00:00:00-03:00","description":"#1 O artista Betu Souza apresentando a NPC do novo modo endless do game Relic Hunters Zero Your browser does not support the video tag. #2 O artista e programador Pedro Medeiros mostra um pouco da arte do game canadense Skytorn, onde ele e a brasileira Amora B. fazem parte da equipe de desenvolvimento Your browser does not support the video tag. #3 A Black River Studios de Manaus com uma screenshot de seu game que será anunciado no próximo dia 21 #4 JoyMasher comentando sobre a Blood Armor para os corajosos que enfrentarem o modo Veteran no game Odallus #5 A Mgaia Studio com seus os elfos da floresta, se preparando para um novo update de seu game Tiny Empire Your browser does not support the video tag. #6 RacketBoy da Double Dash mostrando um dos seus movimentos Your browser does not support the video tag. #7 A Iduna Game Studio revela o redesign feito no cenário do game Mustach In Hell #8 Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aquiris anunciou que a versão F2P será fechada","mainEntityOfPage":{"@type":"WebPage","@id":"/2015/09/14/imagens-da-semana-13"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -242,20 +243,15 @@ Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aqui
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -328,6 +324,9 @@ Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aqui
  </center>
     
     
+<div class="post-info"><i class="fas fa-pen-square"></i> Post escrito por Diego Giacomelli.</div>
+
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <h2 id="1">#1</h2>
 <p><a href="https://twitter.com/betuiau/status/640987759080030208">O artista Betu Souza apresentando a NPC do novo modo endless do game Relic Hunters Zero</a></p>
 <video width="640" height="360" autoplay="" muted="" loop="">
@@ -452,10 +451,10 @@ Homenagem de jogadores da versão free-to-play de Ballistic. Nessa semana a Aqui
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

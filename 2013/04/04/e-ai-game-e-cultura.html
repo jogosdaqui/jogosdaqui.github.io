@@ -12,13 +12,13 @@
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
-    <meta name="description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento "E aí, Game é Cultura?", onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.
+    <meta name="description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento “E aí, Game é Cultura?”, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.
 
 " />
-    <meta property="og:description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento "E aí, Game é Cultura?", onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.
+    <meta property="og:description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento “E aí, Game é Cultura?”, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.
 
 " />
-    <meta name="twitter:description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento "E aí, Game é Cultura?", onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.
+    <meta name="twitter:description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento “E aí, Game é Cultura?”, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.
 
 " />
     
@@ -52,13 +52,13 @@
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="E aí, Game é Cultura?" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento &quot;E aí, Game é Cultura?&quot;, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não." />
-<meta property="og:description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento &quot;E aí, Game é Cultura?&quot;, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não." />
+<meta name="description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento “E aí, Game é Cultura?”, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não." />
+<meta property="og:description" content="No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento “E aí, Game é Cultura?”, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não." />
 <meta property="og:site_name" content="jogosdaqui" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2013-04-04T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2013/04/04/e-ai-game-e-cultura"},"@type":"BlogPosting","url":"/2013/04/04/e-ai-game-e-cultura","headline":"E aí, Game é Cultura?","dateModified":"2013-04-04T00:00:00-03:00","datePublished":"2013-04-04T00:00:00-03:00","description":"No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento &quot;E aí, Game é Cultura?&quot;, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2013/04/04/e-ai-game-e-cultura","headline":"E aí, Game é Cultura?","dateModified":"2013-04-04T00:00:00-03:00","datePublished":"2013-04-04T00:00:00-03:00","description":"No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento “E aí, Game é Cultura?”, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.","mainEntityOfPage":{"@type":"WebPage","@id":"/2013/04/04/e-ai-game-e-cultura"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -95,20 +95,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -165,9 +160,10 @@
  </center>
     
     
-    <p>No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento "E aí, Game é Cultura?", onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.</p>
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
+    <p>No dia 06 de abril acontecerá no Festival Baixo Centro, São Paulo, o evento “E aí, Game é Cultura?”, onde alunos de programação de jogos realizarão um debate discutindo se jogos podem ser considerados cultura ou não.</p>
 
-<p>O tema central emerge da polêmica criada a partir das recentes declarações da Ministra da Cultura, que teria dito que "Game não é cultura".</p>
+<p>O tema central emerge da polêmica criada a partir das recentes declarações da Ministra da Cultura, que teria dito que “Game não é cultura”.</p>
 
 <p><strong>&gt; Mais informações em:</strong>
 Facebook: <a href="http://facebook.com/gamexcultura" target="_blank">facebook.com/gamexcultura</a></p>
@@ -244,10 +240,10 @@ Twitter: <a href="http://facebook.com/gamexcultura" target="_blank">twitter.com/
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

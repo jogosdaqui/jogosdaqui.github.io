@@ -91,7 +91,7 @@ Ficou curioso sobre o jogo? Existe uma demo online disponível neste endereço: 
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2010-12-06T00:00:00-02:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2010/12/06/trailer-de-lancamento-de-cargo-delivery"},"@type":"BlogPosting","url":"/2010/12/06/trailer-de-lancamento-de-cargo-delivery","headline":"Trailer de lançamento de Cargo Delivery","dateModified":"2010-12-06T00:00:00-02:00","datePublished":"2010-12-06T00:00:00-02:00","description":"O estúdio Cats in the Sky liberou o trailer de lançamento do game Cargo Delivery. Cargo Delivery é um puzzle baseado em física onde o jogador, na pele de Rufus, deve enfrentar o mar e seus intempéries para levar sua embarcação, lotada de cargas, até o seu destino. Além da jogabilidade divertida e bem formulada, o jogo também apresenta uma direção de arte primorosa, que ajuda a fortalecer o estilo próprio do jogo na mente do jogador. As primeiras plataformas a receberem o game, no dia 14 de dezembro, devem ser Windows e Mac. O estúdio já mencionou que uma versão para os dispositivos portáteis da Apple também deve ser lançada Ficou curioso sobre o jogo? Existe uma demo online disponível neste endereço: http://goo.gl/liTd9","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2010/12/06/trailer-de-lancamento-de-cargo-delivery","headline":"Trailer de lançamento de Cargo Delivery","dateModified":"2010-12-06T00:00:00-02:00","datePublished":"2010-12-06T00:00:00-02:00","description":"O estúdio Cats in the Sky liberou o trailer de lançamento do game Cargo Delivery. Cargo Delivery é um puzzle baseado em física onde o jogador, na pele de Rufus, deve enfrentar o mar e seus intempéries para levar sua embarcação, lotada de cargas, até o seu destino. Além da jogabilidade divertida e bem formulada, o jogo também apresenta uma direção de arte primorosa, que ajuda a fortalecer o estilo próprio do jogo na mente do jogador. As primeiras plataformas a receberem o game, no dia 14 de dezembro, devem ser Windows e Mac. O estúdio já mencionou que uma versão para os dispositivos portáteis da Apple também deve ser lançada Ficou curioso sobre o jogo? Existe uma demo online disponível neste endereço: http://goo.gl/liTd9","mainEntityOfPage":{"@type":"WebPage","@id":"/2010/12/06/trailer-de-lancamento-de-cargo-delivery"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -128,20 +128,15 @@ Ficou curioso sobre o jogo? Existe uma demo online disponível neste endereço: 
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -195,6 +190,7 @@ Ficou curioso sobre o jogo? Existe uma demo online disponível neste endereço: 
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>O estúdio Cats in the Sky liberou o trailer de lançamento do game Cargo Delivery.</p>
 
 <center>
@@ -285,10 +281,10 @@ Ficou curioso sobre o jogo? Existe uma demo online disponível neste endereço: 
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

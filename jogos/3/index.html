@@ -42,7 +42,7 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Page 3 of 20 for jogosdaqui | A maior fonte colaborativa sobre games desenvolvidos no Brasil</title>
+<title>Page 3 of 21 for jogosdaqui | A maior fonte colaborativa sobre games desenvolvidos no Brasil</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="jogosdaqui" />
 <meta property="og:locale" content="en_US" />
@@ -89,20 +89,15 @@
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -343,7 +338,7 @@
       
  </center>
     
-    A Doubleleft , desenvolvedora paulista conhecida pelos games Garbageman e Bob Burnquist’s Dreamland , tem mais um game fazendo sucesso: Michel Teló no Mundo . No estilo endless running, o jogador controla um Michel Teló com um visual bem cartoon que tem que correr e conquistar fãs em diversos lugares famosos,...
+    A Doubleleft, desenvolvedora paulista conhecida pelos games Garbageman Bob Burnquist’s Dreamland, tem mais um game fazendo sucesso: Michel Teló no Mundo No estilo endless running, o jogador controla um Michel Teló com um visual bem cartoon que tem que correr e conquistar fãs em diversos lugares famosos, como o Rio de...
     </div>
 
     <a href="/2013/04/18/michel-telo-no-mundo" class="read-more">Leia mais</a>
@@ -407,7 +402,7 @@
     
     <article class="post">
 
-    <h1><a href="/2013/03/18/esquadrao-patada">Esquadrão Patada</a></h1>
+    <h1><a href="/2013/03/21/c-bot">C-Bot</a></h1>
 
     <div class="entry">
      
@@ -421,14 +416,16 @@
     
   
     
-      <img src="/assets/2013/03/18/esquadrao-patada/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
+  
+    
+      <img src="/assets/2013/03/21/c-bot/logo.jpg" style="max-height: 200px; border-radius: 10%;"/> 
       
  </center>
     
-    A desenvolvedora mato-grossense Pankeka Games já esteve no jogosdaqui em 2012 com seu puzzle para iOS, o game à época era Zigball. Agora é a vez de outro jogo para os aparelhos da Apple, esse também um puzzle: Esquadrão Patada. Nesse novo game a missão é ajudar alguns simpáticos animais...
+    No puzzle C-Bot da Cube Factory o jogador controla um robô que pode basicamente andar para trás e para frente. Par realizar outros movimentos, como pular, atirar, correr e inverter a gravidade (isso mesmo “Inverter a gravidade”) será preciso coletar cubos de energia espalhados pelo laboratório onde o robô foi...
     </div>
 
-    <a href="/2013/03/18/esquadrao-patada" class="read-more">Leia mais</a>
+    <a href="/2013/03/21/c-bot" class="read-more">Leia mais</a>
     </article>
 
 </div>
@@ -456,7 +453,7 @@
         
         
             <a href="/jogos/4/" class="next">&gt;</a>&nbsp;&nbsp;
-            <a href="/jogos/20/" class="next">&gt;&gt;</a>
+            <a href="/jogos/21/" class="next">&gt;&gt;</a>
          
     
 </ul>
@@ -470,10 +467,10 @@
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 

@@ -64,7 +64,7 @@ Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer 
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-05-18T00:00:00-03:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/18/quadro-comemorativo-150-jogos-daqui"},"@type":"BlogPosting","url":"/2006/05/18/quadro-comemorativo-150-jogos-daqui","headline":"Quadro comemorativo “jogos daqui”","dateModified":"2006-05-18T00:00:00-03:00","datePublished":"2006-05-18T00:00:00-03:00","description":"Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.","@context":"http://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2006/05/18/quadro-comemorativo-150-jogos-daqui","headline":"Quadro comemorativo “jogos daqui”","dateModified":"2006-05-18T00:00:00-03:00","datePublished":"2006-05-18T00:00:00-03:00","description":"Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site. Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.","mainEntityOfPage":{"@type":"WebPage","@id":"/2006/05/18/quadro-comemorativo-150-jogos-daqui"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -101,20 +101,15 @@ Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer 
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
       json: '/search.json',
+      fuzzy: false,
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       templateMiddleware: function(prop, value, template) {
         if (prop === 'title') {
-          console.log(value);
           return value.replace(/&amp;#39;/g, "'")
         }
       },
       noResultsText: 'Nenhum resultado encontrado',
-      limit: 20,
-      sortMiddleware: function(a, b) {
-        var astr = String(a.section) + "-" + String(a.caption);
-        var bstr = String(b.section) + "-" + String(b.caption);
-        return astr.localeCompare(bstr)
-      }
+      limit: 30
     })
 </script>
 
@@ -170,6 +165,7 @@ Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer 
  </center>
     
     
+    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também. </a></div>
     <p>Mais uma vez o jogosdaqui comemora uma nova marca, no dia 18 de maio de 2005 chegamos a 150 jogos nacionais cadastrados no site.</p>
 
 <p>Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer mais sobre os jogos nacionais.</p>
@@ -269,10 +265,10 @@ Confira abaixo o quadro comemorativo com os 150 jogos e aproveite para conhecer 
       <div class="container">
         <footer class="footer">
           
+<a href="mailto:giacomelli+jogosdaqui@gmail.com"><i class="svg-icon email"></i></a>
 
 
-
-<a href="https://github.com/jogosdaqui/jogosdaqui.github.io-jekyll"><i class="svg-icon github"></i></a>
+<a href="https://github.com/jogosdaqui"><i class="svg-icon github"></i></a>
 
 
 
