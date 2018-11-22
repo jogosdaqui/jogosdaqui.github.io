@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-21T14:23:27-02:00</updated><id>/feed.xml</id><title type="html">jogosdaqui</title><subtitle>A maior fonte colaborativa sobre games desenvolvidos no Brasil</subtitle><entry><title type="html">jogosdaqui: open source e colaborativo</title><link href="/2018/11/21/jogosdaqui-open-source-e-colaborativo" rel="alternate" type="text/html" title="jogosdaqui: open source e colaborativo" /><published>2018-11-21T00:00:00-02:00</published><updated>2018-11-21T00:00:00-02:00</updated><id>/2018/11/21/jogosdaqui-open-source-e-colaborativo</id><content type="html" xml:base="/2018/11/21/jogosdaqui-open-source-e-colaborativo">&lt;h2 id=&quot;um-pouco-de-história&quot;&gt;Um pouco de história&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://jogosdaqui.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jogosdaqui.github.io/" rel="alternate" type="text/html" /><updated>2018-11-22T12:28:50-02:00</updated><id>https://jogosdaqui.github.io/feed.xml</id><title type="html">jogosdaqui</title><subtitle>A maior fonte colaborativa sobre games desenvolvidos no Brasil</subtitle><entry><title type="html">Demo reel: JoyMasher - Games entre 2012 e 2019</title><link href="https://jogosdaqui.github.io/2018/11/22/demo-reel-joymasher-games-entre-2012-e-2019" rel="alternate" type="text/html" title="Demo reel: JoyMasher - Games entre 2012 e 2019" /><published>2018-11-22T00:00:00-02:00</published><updated>2018-11-22T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2018/11/22/demo-reel-joymasher-games-entre-2012-e-2019</id><content type="html" xml:base="https://jogosdaqui.github.io/2018/11/22/demo-reel-joymasher-games-entre-2012-e-2019">&lt;p&gt;Recentemente a &lt;a href=&quot;/tags/joymasher&quot;&gt;JoyMasher&lt;/a&gt; anunciou que o seu tão aguardado game Blazing Chrome deverá &lt;a href=&quot;/2018/11/14/blazing-chrome-vai-desafiar-jogadores&quot;&gt;chegar no começo de 2019 para Nintendo Switch, PS4 e PC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O game de tiro, inspirado em clássicos da era 16 bits como Contra, tem deixado muita gente com grande expectativa para o seu lançamento. Até mesmo o Tony Stark da vida real, Elon Musk já comentou sobre o jogo:&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;img src=&quot;/assets/2018/11/22/demo-reel-joymasher-games-entre-2012-e-2019/ellon-musk-tweet.png &quot; /&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;demo-reel&quot;&gt;Demo reel&lt;/h2&gt;
+&lt;p&gt;Criamos o demo reel abaixo para celebrar a obra da JoyMasher desde 2012 até a sua atual produção: Blazing Chrome, confira!&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/hTUfBulRFj0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;</content><author><name>Diego Giacomelli</name></author><category term="demo-reel" /><category term="joymasher" /><summary type="html">Recentemente a JoyMasher anunciou que o seu tão aguardado game Blazing Chrome deverá chegar no começo de 2019 para Nintendo Switch, PS4 e PC.</summary></entry><entry><title type="html">jogosdaqui: open source e colaborativo</title><link href="https://jogosdaqui.github.io/2018/11/21/jogosdaqui-open-source-e-colaborativo" rel="alternate" type="text/html" title="jogosdaqui: open source e colaborativo" /><published>2018-11-21T00:00:00-02:00</published><updated>2018-11-21T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2018/11/21/jogosdaqui-open-source-e-colaborativo</id><content type="html" xml:base="https://jogosdaqui.github.io/2018/11/21/jogosdaqui-open-source-e-colaborativo">&lt;h2 id=&quot;um-pouco-de-história&quot;&gt;Um pouco de história&lt;/h2&gt;
 &lt;p&gt;O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.&lt;/p&gt;
 
 &lt;center&gt;
@@ -39,7 +52,7 @@
   &lt;p&gt;Espero que gostem da iniciativa e que também venham em algum momento a colaborar.&lt;br /&gt;
 Força sempre!&lt;br /&gt;
 Diego Giacomelli&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Diego Giacomelli</name></author><category term="open-source" /><summary type="html">Um pouco de história O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.</summary></entry><entry><title type="html">Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</title><link href="/2018/11/14/blazing-chrome-vai-desafiar-jogadores" rel="alternate" type="text/html" title="Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019" /><published>2018-11-14T00:00:00-02:00</published><updated>2018-11-14T00:00:00-02:00</updated><id>/2018/11/14/blazing-chrome-vai-desafiar-jogadores</id><content type="html" xml:base="/2018/11/14/blazing-chrome-vai-desafiar-jogadores">&lt;blockquote&gt;
+&lt;/blockquote&gt;</content><author><name>Diego Giacomelli</name></author><category term="open-source" /><summary type="html">Um pouco de história O jogosdaqui nasceu em 2005 e já foi um site próprio em PHP, um blog do UOL Jogos e um site WordPress, durante esses mais de 10 anos de história, com alguns hiatos, foram produzidas centenas de matérias, catalogados por volta de 200 jogos nacionais, além de várias prévias e entrevistas.</summary></entry><entry><title type="html">Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019</title><link href="https://jogosdaqui.github.io/2018/11/14/blazing-chrome-vai-desafiar-jogadores" rel="alternate" type="text/html" title="Blazing Chrome vai desafiar jogadores no Nintendo Switch, PlayStation 4 e PC no começo de 2019" /><published>2018-11-14T00:00:00-02:00</published><updated>2018-11-14T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2018/11/14/blazing-chrome-vai-desafiar-jogadores</id><content type="html" xml:base="https://jogosdaqui.github.io/2018/11/14/blazing-chrome-vai-desafiar-jogadores">&lt;blockquote&gt;
   &lt;p&gt;Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -59,7 +72,7 @@ Diego Giacomelli&lt;/p&gt;
         &lt;img src=&quot;/assets/2018/11/14/blazing-chrome-vai-desafiar-jogadores/camiseta.jpg &quot; /&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;</content><author><name>Joymasher</name></author><category term="joymasher" /><category term="press-release" /><category term="switch" /><category term="ps4" /><category term="windows" /><summary type="html">Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas</summary></entry><entry><title type="html">Death’s Life</title><link href="/2016/03/16/deaths-life" rel="alternate" type="text/html" title="Death’s Life" /><published>2016-03-16T00:00:00-03:00</published><updated>2016-03-16T00:00:00-03:00</updated><id>/2016/03/16/deaths-life</id><content type="html" xml:base="/2016/03/16/deaths-life">&lt;blockquote&gt;
+&lt;p&gt;Para se manter informado das últimas novidades sobre Blazing Chrome, entre no site da JoyMasher ou no Twitter ou Facebook. A página do Steam também está disponível em: &lt;a href=&quot;https://store.steampowered.com/app/609110/Blazing_Chrome/&quot;&gt;https://store.steampowered.com/app/609110/Blazing_Chrome/&lt;/a&gt;.&lt;/p&gt;</content><author><name>Joymasher</name></author><category term="joymasher" /><category term="press-release" /><category term="switch" /><category term="ps4" /><category term="windows" /><summary type="html">Novo vídeo mostra imagens inéditas e repletas de experiências eletrizantes dos nossos heróis adentrando as bases inimigas</summary></entry><entry><title type="html">Death’s Life</title><link href="https://jogosdaqui.github.io/2016/03/16/deaths-life" rel="alternate" type="text/html" title="Death’s Life" /><published>2016-03-16T00:00:00-03:00</published><updated>2016-03-16T00:00:00-03:00</updated><id>https://jogosdaqui.github.io/2016/03/16/deaths-life</id><content type="html" xml:base="https://jogosdaqui.github.io/2016/03/16/deaths-life">&lt;blockquote&gt;
   &lt;p&gt;Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -80,7 +93,27 @@ Diego Giacomelli&lt;/p&gt;
 &lt;p&gt;O game foi desenvolvido pela Umbu Games, uma pequena desenvolvedora independente formada por apenas duas pessoas (as quais você deve matar para concluir a última fase do game). A desenvolvedora brasileira está atualmente participando do programa de aceleração GameFounders, o maior programa de aceleração para desenvolvedoras de jogos do mundo, aonde a equipe desenvolveu grandes melhorias para o Death’s Life.&lt;/p&gt;
 
 &lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
-&lt;p&gt;O game está atualmente disponível nas lojas &lt;a href=&quot;https://store.steampowered.com/app/502100/Deaths_Life/&quot;&gt;Steam&lt;/a&gt;, &lt;a href=&quot;https://www.humblebundle.com/store/deaths-life&quot;&gt;Humble Store&lt;/a&gt; e &lt;a href=&quot;https://umbugames.itch.io/deaths-life&quot;&gt;Itch.io&lt;/a&gt;, em breve estará também a venda em outras lojas.&lt;/p&gt;</content><author><name>Umbu Games</name></author><category term="umbu-games" /><category term="press-release" /><category term="steam" /><category term="humble-store" /><category term="itchio" /><category term="windows" /><summary type="html">Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.</summary></entry><entry><title type="html">Sheep Master</title><link href="/2015/12/29/sheep-master" rel="alternate" type="text/html" title="Sheep Master" /><published>2015-12-29T00:00:00-02:00</published><updated>2015-12-29T00:00:00-02:00</updated><id>/2015/12/29/sheep-master</id><content type="html" xml:base="/2015/12/29/sheep-master">&lt;p&gt;&lt;a href=&quot;http://www.sunlandstudios.com/sheepmaster/&quot;&gt;Sheep Master&lt;/a&gt; é um jogo de estratégia, com um gráfico incrível e missões a serem cumpridas para evoluir. Voltado para o público cristão de diversas idades: desde crianças que já sabem ler até adultos que gostam de se distrair e aprender mais sobre o cristianismo. O jogo tem grande potencial de alcance nacional e internacional, já que está sendo lançado em inglês e português.&lt;/p&gt;
+&lt;p&gt;O game está atualmente disponível nas lojas &lt;a href=&quot;https://store.steampowered.com/app/502100/Deaths_Life/&quot;&gt;Steam&lt;/a&gt;, &lt;a href=&quot;https://www.humblebundle.com/store/deaths-life&quot;&gt;Humble Store&lt;/a&gt; e &lt;a href=&quot;https://umbugames.itch.io/deaths-life&quot;&gt;Itch.io&lt;/a&gt;, em breve estará também a venda em outras lojas.&lt;/p&gt;</content><author><name>Umbu Games</name></author><category term="umbu-games" /><category term="press-release" /><category term="steam" /><category term="humble-store" /><category term="itchio" /><category term="windows" /><summary type="html">Torne-se aprendiz da morte e sinta todo o seu poder na ponta do mouse.</summary></entry><entry><title type="html">Alkimya acaba de ser Greenlit</title><link href="https://jogosdaqui.github.io/2016/01/22/alkimya-acaba-de-ser-greenlit" rel="alternate" type="text/html" title="Alkimya acaba de ser Greenlit" /><published>2016-01-22T00:00:00-02:00</published><updated>2016-01-22T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2016/01/22/alkimya-acaba-de-ser-greenlit</id><content type="html" xml:base="https://jogosdaqui.github.io/2016/01/22/alkimya-acaba-de-ser-greenlit">&lt;p&gt;Arrume o seu laboratório, separe seus ingredientes e prepare-se para a ação. O estúdio brasileiro Bad Minions foio Greenlit pela Steam e está anunciando um novo jogo baseado no universo da alquimia:&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Torne-se um mestre alquimista, criando suas próprias poções sem seguir receitas, resolvendo puzzles e lutando contra ameaçadoras criaturas. Molde a realidade usando os elementos principais (ar, água, fogo e terra) para criar novos (lava, eletricidade, gel, areia) e assim manipular o ambiente para ter vantagem. Mude os frascos para criar diferentes efeitos, transformando uma explosão numa barreira.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/L-mF_FJ_vbA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;história&quot;&gt;História&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Alkimya acontece num mundo de fantasia, numa região que antes fora o berço da alquimia, mas agora está devastada por uma antiga guerra. A terra foi abandonada e cobaias de décadas de experimentos escaparam e fizeram do local o seu covil.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Seth acorda nesta perigosa área, confuso e sem memórias, mas com algum conhecimento alquímico. Ele começa então sua jornada para sobreviver e recuperar sua identidade, ajudado por um misterioso homúnculo.&lt;/p&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;O título será lançado para PC/Mac/Linux e Consoles e deve chegar às lojas em 2017. Alkimya promete ser um jogo de aventura com elementos de RPG e ação. Um amigo também poderá participar da aventura com o modo multiplayer local, se juntando à história principal como um homúnculo voador.&lt;/p&gt;
+
+&lt;h2 id=&quot;greenlight&quot;&gt;Greenlight&lt;/h2&gt;
+&lt;p&gt;Atualmente, o jogo está realizando a campanha do Greenlight da Steam e ocupa a 16ª colocação de mais de 1900 jogos após nove dias de campanha. Alkimya também foi finalista do BIG Starter em 2015.&lt;/p&gt;</content><author><name>Bad Minions</name></author><category term="bad-minions" /><category term="press-release" /><category term="steam" /><category term="windows" /><category term="mac" /><category term="linux" /><summary type="html">Arrume o seu laboratório, separe seus ingredientes e prepare-se para a ação. O estúdio brasileiro Bad Minions foio Greenlit pela Steam e está anunciando um novo jogo baseado no universo da alquimia:</summary></entry><entry><title type="html">Sheep Master</title><link href="https://jogosdaqui.github.io/2015/12/29/sheep-master" rel="alternate" type="text/html" title="Sheep Master" /><published>2015-12-29T00:00:00-02:00</published><updated>2015-12-29T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2015/12/29/sheep-master</id><content type="html" xml:base="https://jogosdaqui.github.io/2015/12/29/sheep-master">&lt;p&gt;&lt;a href=&quot;http://www.sunlandstudios.com/sheepmaster/&quot;&gt;Sheep Master&lt;/a&gt; é um jogo de estratégia, com um gráfico incrível e missões a serem cumpridas para evoluir. Voltado para o público cristão de diversas idades: desde crianças que já sabem ler até adultos que gostam de se distrair e aprender mais sobre o cristianismo. O jogo tem grande potencial de alcance nacional e internacional, já que está sendo lançado em inglês e português.&lt;/p&gt;
 
 &lt;p&gt;O jogador é um pastor de ovelhas e deve administrar o rebanho para que ele se desenvolva em quantidade e qualidade. Para isso, é preciso arrecadar dinheiro com a produção de lã e leite, aumentar a infraestrutura da fazenda e cuidar da alimentação e proteção das ovelhas. O objetivo do jogo é o pastor tornar-se Sheep Master (Mestre das Ovelhas).&lt;/p&gt;
 
@@ -89,7 +122,41 @@ Diego Giacomelli&lt;/p&gt;
 &lt;h2 id=&quot;teaser-de-sheep-master&quot;&gt;Teaser de Sheep Master&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/Kfq8VVFgu-E &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;</content><author><name>Sunland Entertaiment Studios</name></author><category term="sunland-entertaiment-studios" /><category term="press-release" /><category term="ios" /><category term="android" /><summary type="html">Sheep Master é um jogo de estratégia, com um gráfico incrível e missões a serem cumpridas para evoluir. Voltado para o público cristão de diversas idades: desde crianças que já sabem ler até adultos que gostam de se distrair e aprender mais sobre o cristianismo. O jogo tem grande potencial de alcance nacional e internacional, já que está sendo lançado em inglês e português.</summary></entry><entry><title type="html">Sheep Dreams Are Made of This</title><link href="/2015/12/09/sheep-dreams-are-made-of-this" rel="alternate" type="text/html" title="Sheep Dreams Are Made of This" /><published>2015-12-09T00:00:00-02:00</published><updated>2015-12-09T00:00:00-02:00</updated><id>/2015/12/09/sheep-dreams-are-made-of-this</id><content type="html" xml:base="/2015/12/09/sheep-dreams-are-made-of-this">&lt;p&gt;O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.&lt;/p&gt;
+      &lt;/center&gt;</content><author><name>Sunland Entertaiment Studios</name></author><category term="sunland-entertaiment-studios" /><category term="press-release" /><category term="ios" /><category term="android" /><summary type="html">Sheep Master é um jogo de estratégia, com um gráfico incrível e missões a serem cumpridas para evoluir. Voltado para o público cristão de diversas idades: desde crianças que já sabem ler até adultos que gostam de se distrair e aprender mais sobre o cristianismo. O jogo tem grande potencial de alcance nacional e internacional, já que está sendo lançado em inglês e português.</summary></entry><entry><title type="html">Qasir al-Wasat chega para PC, Mac e Linux</title><link href="https://jogosdaqui.github.io/2015/12/10/qasir-al-wasat-chega-para-pc-mac-linux" rel="alternate" type="text/html" title="Qasir al-Wasat chega para PC, Mac e Linux" /><published>2015-12-10T00:00:00-02:00</published><updated>2015-12-10T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2015/12/10/qasir-al-wasat-chega-para-pc-mac-linux</id><content type="html" xml:base="https://jogosdaqui.github.io/2015/12/10/qasir-al-wasat-chega-para-pc-mac-linux">&lt;blockquote&gt;
+  &lt;p&gt;Invisível, frágil e mortal você assume o papel de um demônio invocado à Síria medieval para uma misteriosa missão de assassinato.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://qasirgame.com&quot;&gt;Qasir al-Wasat&lt;/a&gt; jogo brasileiro do gênero stealth action-adventure, chega ao Steam, Humble Store e Nuuvem no dia 19 de Janeiro de 2016. O jogo, desenvolvido pelo time curitibano Aduge Studio e publicado pela Zueira Digital, foi aclamado por sua distinta visão criativa e caráter audacioso.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Repleto de mistérios, charadas e furtividade, é uma obra inteligente de ocultismo oriental, que recomendo fortemente conferir. — Adam Smith, Rock, Paper , Shotgun!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Aduge criou aqui um excelente videojogo “polvilhado” de criatividade e brilhantismo, posso até afirmar com muitas certezas que não há e nunca houve nada semelhante a este jogo no mundo dos jogos.” — Paulo Figueiredo, Gaming Portugal&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Meu coração me diz estarmos diante de uma verdadeira jóia, capaz de misturar sutilmente gêneros vastamente diferentes.” — Marco Tassani, The Shelter&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Qasir é também […] o mais autêntico e valioso jogo produzido no Brasil nos últimos anos.” — Rique Sampaio, Arena IG.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Indicado — IndieCade 2012&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Jogue como uma criatura invisível e frágil, conjurada de outro mundo para completar uma missão de assassinato num palácio enigmático. Preste atenção onde pisa e escolha cuidadosamente como matar suas vítimas, pois sons altos e manchas de sangue denunciarão sua posição a inimigos. Investigue mensagens escondidas, escute furtivamente a conversas dos guardas da fortaleza e procure passagens secretas, já que nem tudo é o que parece e tesouros antigos esperam para serem descobertos.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/MAVjuOhDWkA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;Qasir al-Wasat estará disponível para PC, Mac e Linux com suporte a gamepad e teclado.&lt;/p&gt;</content><author><name></name></author><category term="aduge-studio" /><category term="zueira-digital" /><category term="press-release" /><category term="windows" /><category term="mac" /><category term="linux" /><category term="steam" /><category term="humble-store" /><category term="nuuvem" /><summary type="html">Invisível, frágil e mortal você assume o papel de um demônio invocado à Síria medieval para uma misteriosa missão de assassinato.</summary></entry><entry><title type="html">Sheep Dreams Are Made of This</title><link href="https://jogosdaqui.github.io/2015/12/09/sheep-dreams-are-made-of-this" rel="alternate" type="text/html" title="Sheep Dreams Are Made of This" /><published>2015-12-09T00:00:00-02:00</published><updated>2015-12-09T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2015/12/09/sheep-dreams-are-made-of-this</id><content type="html" xml:base="https://jogosdaqui.github.io/2015/12/09/sheep-dreams-are-made-of-this">&lt;p&gt;O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.&lt;/p&gt;
 
 &lt;p&gt;Você controla um homem que tem o mesmo pesadelo toda noite há 17 anos, onde tudo que ele consegue fazer é correr, pular e coletar fragmentos de memórias há muito esquecidas.&lt;/p&gt;
 
@@ -106,14 +173,14 @@ Diego Giacomelli&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;http://itunes.apple.com/app/id1047300737&quot;&gt;iOS&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.MiniChimera.SheepDreams&quot;&gt;Android&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/pt-br/store/apps/sheep-dreams-are-made-of-this/9nblggh5x5cl&quot;&gt;Windows Phone&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>MiniChimera Game Studio</name></author><category term="minichimera-game-studio" /><category term="press-release" /><category term="ios" /><category term="android" /><category term="windows-phone" /><summary type="html">O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.</summary></entry><entry><title type="html">Pesadelo - Regressão</title><link href="/2015/12/02/pesadelo-regressao" rel="alternate" type="text/html" title="Pesadelo - Regressão" /><published>2015-12-02T00:00:00-02:00</published><updated>2015-12-02T00:00:00-02:00</updated><id>/2015/12/02/pesadelo-regressao</id><content type="html" xml:base="/2015/12/02/pesadelo-regressao">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>MiniChimera Game Studio</name></author><category term="minichimera-game-studio" /><category term="press-release" /><category term="ios" /><category term="android" /><category term="windows-phone" /><summary type="html">O jogo tem uma temática de pesadelos recorrentes, tanto no conceito quando em elementos de gameplay.</summary></entry><entry><title type="html">Pesadelo - Regressão</title><link href="https://jogosdaqui.github.io/2015/12/02/pesadelo-regressao" rel="alternate" type="text/html" title="Pesadelo - Regressão" /><published>2015-12-02T00:00:00-02:00</published><updated>2015-12-02T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2015/12/02/pesadelo-regressao</id><content type="html" xml:base="https://jogosdaqui.github.io/2015/12/02/pesadelo-regressao">&lt;p&gt;O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.&lt;/p&gt;
 
 &lt;h2 id=&quot;teaser-de-pesadelo---regressão&quot;&gt;Teaser de Pesadelo - Regressão&lt;/h2&gt;
 &lt;center&gt;
         &lt;iframe src=&quot;https://www.youtube.com/embed/jyq7-ECqP8A &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
       &lt;/center&gt;
 
-&lt;p&gt;Além de aproveitar o sucesso do primeiro, que foi jogado por Zangado e Pew Die Pie, dentre outros youtubers famosos, Pesadelo Regressão tem uma história imersiva e cheia de possibilidades, colocando ainda elementos da cultura e do folclore brasileiro.&lt;/p&gt;</content><author><name>Skyjaz</name></author><category term="skyjaz" /><category term="press-release" /><category term="steam" /><category term="windows" /><category term="previa" /><summary type="html">O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.</summary></entry><entry><title type="html">Jogos Vorazes ganha game no estilo Super Trunfo</title><link href="/2015/11/19/jogos-vorazes-ganha-game-de-cartas" rel="alternate" type="text/html" title="Jogos Vorazes ganha game no estilo Super Trunfo" /><published>2015-11-19T00:00:00-02:00</published><updated>2015-11-19T00:00:00-02:00</updated><id>/2015/11/19/jogos-vorazes-ganha-game-de-cartas</id><content type="html" xml:base="/2015/11/19/jogos-vorazes-ganha-game-de-cartas">&lt;p&gt;A saga Jogos Vorazes, um dos maiores fenômenos do cinema nas últimas décadas, está agora também nas telinhas dos smartphones e tablets. Na semana em que o quarto e último filme estreia nos cinemas, Katniss, Peeta, Alma Coin, Presidente Snow e companhia são também os protagonistas do Jogos Vorazes Card Game, que chega gratuitamente nas lojas de aplicativos para celulares.&lt;/p&gt;
+&lt;p&gt;Além de aproveitar o sucesso do primeiro, que foi jogado por Zangado e Pew Die Pie, dentre outros youtubers famosos, Pesadelo Regressão tem uma história imersiva e cheia de possibilidades, colocando ainda elementos da cultura e do folclore brasileiro.&lt;/p&gt;</content><author><name>Skyjaz</name></author><category term="skyjaz" /><category term="press-release" /><category term="steam" /><category term="windows" /><category term="previa" /><summary type="html">O jogo Pesadelo – Regressão é o segundo título da série. Já está aprovado na Greenlight e será vendido na Steam e em outras lojas. O jogo está sendo desenvolvido em Unreal.</summary></entry><entry><title type="html">Jogos Vorazes ganha game no estilo Super Trunfo</title><link href="https://jogosdaqui.github.io/2015/11/19/jogos-vorazes-ganha-game-de-cartas" rel="alternate" type="text/html" title="Jogos Vorazes ganha game no estilo Super Trunfo" /><published>2015-11-19T00:00:00-02:00</published><updated>2015-11-19T00:00:00-02:00</updated><id>https://jogosdaqui.github.io/2015/11/19/jogos-vorazes-ganha-game-de-cartas</id><content type="html" xml:base="https://jogosdaqui.github.io/2015/11/19/jogos-vorazes-ganha-game-de-cartas">&lt;p&gt;A saga Jogos Vorazes, um dos maiores fenômenos do cinema nas últimas décadas, está agora também nas telinhas dos smartphones e tablets. Na semana em que o quarto e último filme estreia nos cinemas, Katniss, Peeta, Alma Coin, Presidente Snow e companhia são também os protagonistas do Jogos Vorazes Card Game, que chega gratuitamente nas lojas de aplicativos para celulares.&lt;/p&gt;
 
 &lt;h2 id=&quot;uma-mecânica-familiar&quot;&gt;Uma mecânica familiar&lt;/h2&gt;
 &lt;p&gt;O game de cartas usa mecânica semelhante à do tradicional Super Trunfo: cada carta tem cinco atributos: popularidade, força, inteligência, habilidade e sobrevivência. Quanto maior o número, mais forte o personagem é neste ponto. Nas disputas, os atributos entre as cartas dos jogadores são comparados, e quem tiver o maior número ganha a rodada.&lt;/p&gt;
@@ -136,213 +203,4 @@ Terminada a partida, o jogador vencedor ganha uma nova carta aleatória do monte
   &lt;p&gt;Somando o conhecimento da Victória e do Bruno sobre a série ao nosso know-how para criar jogos divertidos, chegamos a um resultado de alto nível e estamos muito orgulhosos do jogo”, completa.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Uma parceria entre Flux e Paris Filmes, distribuidora oficial dos filmes Jogos Vorazes no Brasil,  o jogo conta com análises altamente positivas da comunidade e já passa de cinco mil jogadores, crescendo diariamente com uma disputa acirrada pelo topo do ranking de vitórias. Gratuito e com microtransações, o game já está disponível no Google Play para dispositivos Android, e está em vias de chegar para iPhones e dispositivos iOS na Apple App Store, além de dispositivos Windows Phone.&lt;/p&gt;</content><author><name>Flux Game Studio</name></author><category term="flux-game-studio" /><category term="ios" /><category term="android" /><category term="windows-phone" /><category term="cartas" /><summary type="html">A saga Jogos Vorazes, um dos maiores fenômenos do cinema nas últimas décadas, está agora também nas telinhas dos smartphones e tablets. Na semana em que o quarto e último filme estreia nos cinemas, Katniss, Peeta, Alma Coin, Presidente Snow e companhia são também os protagonistas do Jogos Vorazes Card Game, que chega gratuitamente nas lojas de aplicativos para celulares.</summary></entry><entry><title type="html">Mikura Going Home</title><link href="/2015/11/11/mikura-going-home" rel="alternate" type="text/html" title="Mikura Going Home" /><published>2015-11-11T00:00:00-02:00</published><updated>2015-11-11T00:00:00-02:00</updated><id>/2015/11/11/mikura-going-home</id><content type="html" xml:base="/2015/11/11/mikura-going-home">&lt;p&gt;Existem centenas de espécies de águas-vivas ou medusas, algumas delas são utilizadas na culinária, principalmente na ásia. Outras espécies na biotecnologia, onde os cientistas utilizam a proteína verde fluorescente existente em algumas variedades para tentar entender melhor como certos genes se manifestam em outros seres vivos.&lt;/p&gt;
-
-&lt;p&gt;Apesar de toda essa diversidade de águas-vivas que encontramos na natureza, nenhuma delas se compara a Mikura, pois ao contrário da maioria, Mikura não vivia nos oceanos, mas na Lua. Um dia ela caiu do nosso satélite natural e foi parar aqui na Terra.&lt;/p&gt;
-
-&lt;p&gt;Assim conhecemos a simpática protagonista do game Mikura Going Home da brasileira Quadro a Quadro.&lt;/p&gt;
-
-&lt;h2 id=&quot;mikura-going-home&quot;&gt;Mikura Going Home&lt;/h2&gt;
-&lt;p&gt;A equipe de games da Quadro a Quadro composta por Rafael Valle Barradas (programaçaõ e arte) e Diego Bazante (áudio) criou um jogo simples de jogar, mas desafiador. O jogador consegue controlar Mikura com comandos simples, ajudando-a passar e desviar dos desafios do fundo do mar.&lt;/p&gt;
-
-&lt;p&gt;Além da movimentação, Mikura pode mudar de cor para vencer os inimigos e ainda utilizar um dash para ganhar mais velocidade e destruir obstáculos.&lt;/p&gt;
-
-&lt;p&gt;O jogo conta com diversas fases, com direito a chefões e fases bônus.&lt;/p&gt;
-
-&lt;center&gt;
-        &lt;img src=&quot;/assets/2015/11/11/mikura-going-home/QuadroAQuadro_Mikura.png &quot; /&gt;
-      &lt;/center&gt;
-
-&lt;h2 id=&quot;plataforma&quot;&gt;Plataforma&lt;/h2&gt;
-&lt;p&gt;O game nasceu originalmente numa versão muito simples para o antigo sistema operacional BADA da Samsung, depois de alguns anos os gamedevs decidiram criar essa versão definitiva de Mikura Going Home.&lt;/p&gt;
-
-&lt;p&gt;O jogo está disponível gratuitamente para &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.qaq.mikurafree&amp;amp;hl=pt_BR&quot;&gt;Android no Google Play&lt;/a&gt; e ainda existem planos para uma versão iOS.&lt;/p&gt;
-
-&lt;h2 id=&quot;trailer-de-mikura-going-home&quot;&gt;Trailer de Mikura Going Home&lt;/h2&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/WFwQcIX3BF4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;</content><author><name>Diego Giacomelli</name></author><category term="ios" /><category term="android" /><category term="video" /><category term="quadro-a-quadro" /><summary type="html">Existem centenas de espécies de águas-vivas ou medusas, algumas delas são utilizadas na culinária, principalmente na ásia. Outras espécies na biotecnologia, onde os cientistas utilizam a proteína verde fluorescente existente em algumas variedades para tentar entender melhor como certos genes se manifestam em outros seres vivos. Apesar de toda essa diversidade de águas-vivas que encontramos na natureza, nenhuma delas se compara a Mikura, pois ao contrário da maioria, Mikura não vivia nos oceanos, mas na Lua. Um dia ela caiu do nosso satélite natural e foi parar aqui na Terra. Assim conhecemos a simpática protagonista do game Mikura Going Home da brasileira Quadro a Quadro. Mikura Going Home A equipe de games da Quadro a Quadro composta por Rafael Valle Barradas (programaçaõ e arte) e Diego Bazante (áudio) criou um jogo simples de jogar, mas desafiador. O jogador consegue controlar Mikura com comandos simples, ajudando-a passar e desviar dos desafios do fundo do mar. Além da movimentação, Mikura pode mudar de cor para vencer os inimigos e ainda utilizar um dash para ganhar mais velocidade e destruir obstáculos. O jogo conta com diversas fases, com direito a chefões e fases bônus. Plataforma O game nasceu originalmente numa versão muito simples para o antigo sistema operacional BADA da Samsung, depois de alguns anos os gamedevs decidiram criar essa versão definitiva de Mikura Going Home. O jogo está disponível gratuitamente para Android no Google Play e ainda existem planos para uma versão iOS. Trailer de Mikura Going Home</summary></entry><entry><title type="html">Jankentris</title><link href="/2015/11/04/jankentris" rel="alternate" type="text/html" title="Jankentris" /><published>2015-11-04T00:00:00-02:00</published><updated>2015-11-04T00:00:00-02:00</updated><id>/2015/11/04/jankentris</id><content type="html" xml:base="/2015/11/04/jankentris">&lt;p&gt;Acredita-se que o famoso jogo pedra, papel e tesoura ou jakenpõ foi inventado no Japão no final do século 19, provavelmente tenha surgido baseado em dois games ainda mais antigos oriundos da China do século 17. No japão o game ficou conhecido como Jankenpon ou apenas Janken.&lt;/p&gt;
-
-&lt;p&gt;Assim como Jankenpon, o game Jankentris também é baseado em dois outros games, que pelo nome é bem fácil de adivinhar: o próprio game secular japonês e Tetris, que não é secular, mas que foi lançado lá em 1984.&lt;/p&gt;
-
-&lt;h2 id=&quot;jankentris&quot;&gt;Jankentris&lt;/h2&gt;
-&lt;p&gt;O programador brasileiro Wesley Rosa uniu forças com o artista francês Yoann “DiSmeCha” Lim e criaram o studio indie &lt;a href=&quot;http://www.starrypanda.com/&quot;&gt;Starry Panda&lt;/a&gt; . O primeiro game do studio é o game &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.starrypanda.jankentris&quot;&gt;Jankentris&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;O game mistura a lógica do Jankenpon com o gameplay de Tetris.&lt;/p&gt;
-
-&lt;p&gt;Apesar de simples, a jogabilidade do game ficou bem interessante para os amantes de um bom puzzle original: para destruir colunas de blocos, o jogador precisa seguir a regra do Jankenpon, ou seja, largar um bloco de papel sobre um bloco de pedra para destruí-lo, ainda é possível fazer combos ao criar colunas de blocos iguais e destruí-los com o bloco Jankenpon correto.&lt;/p&gt;
-
-&lt;h2 id=&quot;plataforma&quot;&gt;Plataforma&lt;/h2&gt;
-&lt;p&gt;Jankentris está disponível apenas para Android e pode ser baixado gratuitamente no Google Play: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.starrypanda.jankentris&quot;&gt;https://play.google.com/store/apps/details?id=com.starrypanda.jankentris&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Simples e original! Jankentris deve agradar em cheio os fãs de um bom puzzle.&lt;/p&gt;</content><author><name>Diego Giacomelli</name></author><category term="android" /><category term="starry-panda" /><summary type="html">Acredita-se que o famoso jogo pedra, papel e tesoura ou jakenpõ foi inventado no Japão no final do século 19, provavelmente tenha surgido baseado em dois games ainda mais antigos oriundos da China do século 17. No japão o game ficou conhecido como Jankenpon ou apenas Janken.</summary></entry><entry><title type="html">Finalistas do Festival de Jogos Independentes do SBGames 2015</title><link href="/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015" rel="alternate" type="text/html" title="Finalistas do Festival de Jogos Independentes do SBGames 2015" /><published>2015-10-26T00:00:00-02:00</published><updated>2015-10-26T00:00:00-02:00</updated><id>/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015</id><content type="html" xml:base="/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015">&lt;p&gt;A organização do Festival de Jogos Independentes do &lt;a href=&quot;http://www.sbgames.org/sbgames2015&quot; target=&quot;_blank&quot;&gt;SBGames 2015&lt;/a&gt;
- &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=882614481814106&quot; target=&quot;_blank&quot;&gt;anunciou os games finalistas&lt;/a&gt;
- que estarão em exposição no evento que acontecerá entre 11 e 13 de novembro em Teresina/PI.&lt;/p&gt;
-
-&lt;p&gt;No total foram 23 games finalistas, sendo que alguns deles participam de mais de uma categoria.&lt;/p&gt;
-
-&lt;p&gt;Confira abaixo a lista de jogos em cada categoria e logo após uma seleção de vídeos dos selecionados.&lt;/p&gt;
-
-&lt;h3 id=&quot;finalistas-por-categoria&quot;&gt;Finalistas por categoria&lt;/h3&gt;
-
-&lt;h2 id=&quot;melhor-jogo&quot;&gt;Melhor jogo&lt;/h2&gt;
-&lt;p&gt;Chroma Squad - PC
-Gryphon Knight Epic - PC
-Origami Flight - PC
-RacketBoy - PC
-Warlock’s Tower - PC&lt;/p&gt;
-
-&lt;h2 id=&quot;melhor-game-design&quot;&gt;Melhor game design&lt;/h2&gt;
-&lt;p&gt;Atomic Rocket Arena - iOS
-Bad Blocks - Android
-Chroma Squad - PC
-Origami Flight - PC
-Warlock’s Tower - PC&lt;/p&gt;
-
-&lt;h2 id=&quot;categoria-melhor-som&quot;&gt;Categoria melhor som&lt;/h2&gt;
-&lt;p&gt;Chroma Squad - PC
-I am Hexagon - iOS
-Möira - PC
-Origami Flight - PC
-Trajes Fatais – Edição Minimal - PC&lt;/p&gt;
-
-&lt;h2 id=&quot;melhor-tecnologia&quot;&gt;Melhor tecnologia&lt;/h2&gt;
-&lt;p&gt;Alfabeto 3D - iOS
-Chroma Squad - PC
-Gryphon Knight Epic - PC
-NoteScor - Web/HTML5
-Relic Hunters Zero - PC&lt;/p&gt;
-
-&lt;h2 id=&quot;melhor-arte-visual&quot;&gt;Melhor arte visual&lt;/h2&gt;
-&lt;p&gt;Chroma Squad - PC
-Gryphon Knight Epic - PC
-Möira - PC
-Origami Flight - PC
-RacketBoy - PC&lt;/p&gt;
-
-&lt;h2 id=&quot;melhor-jogo-feito-por-estudante&quot;&gt;Melhor jogo feito por estudante&lt;/h2&gt;
-&lt;p&gt;Asteroid Squad - Android
-Ninja Sukafu 2 - Enhanced Edition - PC
-Recollection - PC
-The Last NightMary, A Lenda do Cabeça de Cuia - PC
-Wells - PC&lt;/p&gt;
-
-&lt;h2 id=&quot;melhor-serious-game&quot;&gt;Melhor Serious Game&lt;/h2&gt;
-&lt;p&gt;A Pequena Grande Crise 3: A Queda do Gigante - PC
-Carcará - Asas da Justiça - PC
-NoteScor - Web/HTML5
-Sr.X - iOS
-Wyz - iOS&lt;/p&gt;
-
-&lt;h2 id=&quot;jogos-em-produção&quot;&gt;Jogos em produção&lt;/h2&gt;
-&lt;p&gt;Möira - PC
-Origami Flight - PC
-Pizza Mania - Android
-RacketBoy - PC
-Warlock’s Tower - PC&lt;/p&gt;
-
-&lt;h3 id=&quot;vídeos-dos-selecionados&quot;&gt;Vídeos dos selecionados&lt;/h3&gt;
-&lt;p&gt;Chroma Squad&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/Wbp19Z2QaTk &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Gryphon Knight Epic&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/POOab7QKbsg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Origami Flight&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/JPQO2Di61vU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;RacketBoy&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/dZ4nRLOoVI4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Warlock’s Tower&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/Oyo3VXo_Ims &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Atomic Rocket Arena&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/vyR6rweQv6Q &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Bad Blocks&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/1hPf6cVDhHU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Möira&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/7c6Ho2prTAg &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Trajes Fatais – Edição Minimal&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/0c3rQnBhAQ4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Alfabeto 3D&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/AD-LZShGEy8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Relic Hunters Zero&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/SI5QTiWWGO4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Asteroid Squad&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/FM9xF649fpw &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Ninja Sukafu 2 - Enhanced Edition&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/cWWUiJBc6zk &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Recollection&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/00FxxR3ZJ7k &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;The Last NightMary, A Lenda do Cabeça de Cuia - PC&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/yYs5T_1uCrU &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Wells&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/Kzql1RTJnzY &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;A Pequena Grande Crise 3: A Queda do Gigante - PC&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/RNAbi1Ln1p0 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Carcará - Asas da Justiça&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/yXiEJZxAKZA &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Sr.X&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/o8sWrvD3NA8 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Wyz&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/nLLPQAqsOk4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;p&gt;Pizza Mania&lt;/p&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/DaCF5FmM-40 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;</content><author><name></name></author><category term="ios" /><category term="android" /><category term="chroma-squad" /><category term="behold-studios" /><category term="sbgames" /><category term="evento" /><category term="video" /><category term="facebook" /><summary type="html">A organização do Festival de Jogos Independentes do SBGames 2015 anunciou os games finalistas que estarão em exposição no evento que acontecerá entre 11 e 13 de novembro em Teresina/PI. No total foram 23 games finalistas, sendo que alguns deles participam de mais de uma categoria. Confira abaixo a lista de jogos em cada categoria e logo após uma seleção de vídeos dos selecionados. Finalistas por categoria Melhor jogo Chroma Squad - PC Gryphon Knight Epic - PC Origami Flight - PC RacketBoy - PC Warlock’s Tower - PC Melhor game design Atomic Rocket Arena - iOS Bad Blocks - Android Chroma Squad - PC Origami Flight - PC Warlock’s Tower - PC Categoria melhor som Chroma Squad - PC I am Hexagon - iOS Möira - PC Origami Flight - PC Trajes Fatais – Edição Minimal - PC Melhor tecnologia Alfabeto 3D - iOS Chroma Squad - PC Gryphon Knight Epic - PC NoteScor - Web/HTML5 Relic Hunters Zero - PC Melhor arte visual Chroma Squad - PC Gryphon Knight Epic - PC Möira - PC Origami Flight - PC RacketBoy - PC Melhor jogo feito por estudante Asteroid Squad - Android Ninja Sukafu 2 - Enhanced Edition - PC Recollection - PC The Last NightMary, A Lenda do Cabeça de Cuia - PC Wells - PC Melhor Serious Game A Pequena Grande Crise 3: A Queda do Gigante - PC Carcará - Asas da Justiça - PC NoteScor - Web/HTML5 Sr.X - iOS Wyz - iOS Jogos em produção Möira - PC Origami Flight - PC Pizza Mania - Android RacketBoy - PC Warlock’s Tower - PC Vídeos dos selecionados Chroma Squad Gryphon Knight Epic Origami Flight RacketBoy Warlock’s Tower Atomic Rocket Arena Bad Blocks Möira Trajes Fatais – Edição Minimal Alfabeto 3D Relic Hunters Zero Asteroid Squad Ninja Sukafu 2 - Enhanced Edition Recollection The Last NightMary, A Lenda do Cabeça de Cuia - PC Wells A Pequena Grande Crise 3: A Queda do Gigante - PC Carcará - Asas da Justiça Sr.X Wyz Pizza Mania</summary></entry></feed>
+&lt;p&gt;Uma parceria entre Flux e Paris Filmes, distribuidora oficial dos filmes Jogos Vorazes no Brasil,  o jogo conta com análises altamente positivas da comunidade e já passa de cinco mil jogadores, crescendo diariamente com uma disputa acirrada pelo topo do ranking de vitórias. Gratuito e com microtransações, o game já está disponível no Google Play para dispositivos Android, e está em vias de chegar para iPhones e dispositivos iOS na Apple App Store, além de dispositivos Windows Phone.&lt;/p&gt;</content><author><name>Flux Game Studio</name></author><category term="flux-game-studio" /><category term="ios" /><category term="android" /><category term="windows-phone" /><category term="cartas" /><summary type="html">A saga Jogos Vorazes, um dos maiores fenômenos do cinema nas últimas décadas, está agora também nas telinhas dos smartphones e tablets. Na semana em que o quarto e último filme estreia nos cinemas, Katniss, Peeta, Alma Coin, Presidente Snow e companhia são também os protagonistas do Jogos Vorazes Card Game, que chega gratuitamente nas lojas de aplicativos para celulares.</summary></entry></feed>

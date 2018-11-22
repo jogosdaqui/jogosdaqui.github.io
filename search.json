@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Demo reel: JoyMasher - Games entre 2012 e 2019",
+      "category" : "",
+      "tags"     : "demo-reel, joymasher",
+      "url"      : "/2018/11/22/demo-reel-joymasher-games-entre-2012-e-2019",
+      "date"     : "2018-11-22 00:00:00 -0200"
+    } ,
+  
+    {
       "title"    : "jogosdaqui: open source e colaborativo",
       "category" : "",
       "tags"     : "open-source",
@@ -25,11 +33,27 @@
     } ,
   
     {
+      "title"    : "Alkimya acaba de ser Greenlit",
+      "category" : "",
+      "tags"     : "bad-minions, press-release, steam, windows, mac, linux",
+      "url"      : "/2016/01/22/alkimya-acaba-de-ser-greenlit",
+      "date"     : "2016-01-22 00:00:00 -0200"
+    } ,
+  
+    {
       "title"    : "Sheep Master",
       "category" : "",
       "tags"     : "sunland-entertaiment-studios, press-release, ios, android",
       "url"      : "/2015/12/29/sheep-master",
       "date"     : "2015-12-29 00:00:00 -0200"
+    } ,
+  
+    {
+      "title"    : "Qasir al-Wasat chega para PC, Mac e Linux",
+      "category" : "",
+      "tags"     : "aduge-studio, zueira-digital, press-release, windows, mac, linux, steam, humble-store, nuuvem",
+      "url"      : "/2015/12/10/qasir-al-wasat-chega-para-pc-mac-linux",
+      "date"     : "2015-12-10 00:00:00 -0200"
     } ,
   
     {
@@ -1379,7 +1403,7 @@
     {
       "title"    : "Swamp Adventure",
       "category" : "",
-      "tags"     : "ios, android, tilt, frozen-logic-studios",
+      "tags"     : "ios, android, frozen-logic-studios",
       "url"      : "/2013/06/20/swamp-adventure",
       "date"     : "2013-06-20 00:00:00 -0300"
     } ,
