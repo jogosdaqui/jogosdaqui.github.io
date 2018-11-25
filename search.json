@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Games brasileiros de corrida",
+      "category" : "",
+      "tags"     : "corrida, locz-games, icon-games, perceptum, leandro-correia, mra, palmSoft-tecnologia, mdev, initia-tecnologia, meantime, lúmen-technology, edward-multimídia, microways, odin-game-studio, division-five, aquiris-game-studio",
+      "url"      : "/2018/11/25/games-brasileiros-de-corrida",
+      "date"     : "2018-11-25 00:00:00 -0200"
+    } ,
+  
+    {
       "title"    : "Demo reel: JoyMasher - Games entre 2012 e 2019",
       "category" : "",
       "tags"     : "demo-reel, joymasher",
@@ -73,10 +81,10 @@
     } ,
   
     {
-      "title"    : "Jogos Vorazes ganha game no estilo Super Trunfo",
+      "title"    : "Jogos Vorazes - Card Game",
       "category" : "",
       "tags"     : "flux-game-studio, ios, android, windows-phone, cartas",
-      "url"      : "/2015/11/19/jogos-vorazes-ganha-game-de-cartas",
+      "url"      : "/2015/11/19/jogos-vorazes-card-game",
       "date"     : "2015-11-19 00:00:00 -0200"
     } ,
   
@@ -739,7 +747,7 @@
     {
       "title"    : "Demo Reel da Odin Game Studio",
       "category" : "",
-      "tags"     : "odin-game-studio, demo-reel, demo",
+      "tags"     : "odin-game-studio, demo-reel, video",
       "url"      : "/2015/05/14/demo-reel-da-odin-game-studio",
       "date"     : "2015-05-14 00:00:00 -0300"
     } ,
@@ -1075,7 +1083,7 @@
     {
       "title"    : "Tank Invaders atinge mais de 300 mil downloads",
       "category" : "",
-      "tags"     : "ios, windows-phone, windows, mgaia-studio",
+      "tags"     : "ios, android, windows-phone, mgaia-studio",
       "url"      : "/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads",
       "date"     : "2015-04-15 00:00:00 -0300"
     } ,
@@ -1139,7 +1147,7 @@
     {
       "title"    : "Prévia de TurboLink",
       "category" : "",
-      "tags"     : "crowdfunding, division-five, previa",
+      "tags"     : "crowdfunding, division-five, previa, corrida",
       "url"      : "/2015/04/03/previa-de-turbolink",
       "date"     : "2015-04-03 00:00:00 -0300"
     } ,
@@ -1539,7 +1547,7 @@
     {
       "title"    : "Heist and Run",
       "category" : "",
-      "tags"     : "ios, odin-game-studio, mobile",
+      "tags"     : "ios, odin-game-studio, mobile, corrida",
       "url"      : "/2013/04/11/heist-and-run",
       "date"     : "2013-04-11 00:00:00 -0300"
     } ,
@@ -2331,7 +2339,7 @@
     {
       "title"    : "CrossFox Ágil",
       "category" : "",
-      "tags"     : "microways",
+      "tags"     : "microways, corrida, advergame",
       "url"      : "/2006/08/22/crossfox-agil",
       "date"     : "2006-08-22 00:00:00 -0300"
     } ,
@@ -2339,7 +2347,7 @@
     {
       "title"    : "CrossFox Ágil da Microways",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "microways",
       "url"      : "/2006/08/22/crossfox-agil-da-microways",
       "date"     : "2006-08-22 00:00:00 -0300"
     } ,
@@ -2435,7 +2443,7 @@
     {
       "title"    : "Grand Pri",
       "category" : "",
-      "tags"     : "edward-multimidia",
+      "tags"     : "edward-multimidia, corrida, mobile, web",
       "url"      : "/2006/07/25/grand-pri",
       "date"     : "2006-07-25 00:00:00 -0300"
     } ,
@@ -2443,7 +2451,7 @@
     {
       "title"    : "Conheça o Grand Pri",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "edward-multimidia",
       "url"      : "/2006/07/25/conheca-o-grand-pri",
       "date"     : "2006-07-25 00:00:00 -0300"
     } ,
@@ -3099,7 +3107,7 @@
     {
       "title"    : "Ayrton Senna&amp;#39;s Best Lap",
       "category" : "",
-      "tags"     : "meantime, corrida",
+      "tags"     : "meantime, corrida, mobile",
       "url"      : "/2006/04/22/ayrton-sennas-best-lap",
       "date"     : "2006-04-22 00:00:00 -0300"
     } ,
@@ -3123,7 +3131,7 @@
     {
       "title"    : "Viaje pelo Brasil na tela do celular",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "lumen-technology",
       "url"      : "/2006/04/18/viaje-pelo-brasil-na-tela-do-celular",
       "date"     : "2006-04-18 00:00:00 -0300"
     } ,
@@ -3131,7 +3139,7 @@
     {
       "title"    : "Transit Brasil",
       "category" : "",
-      "tags"     : "lumen-technology",
+      "tags"     : "lumen-technology, corrida, mobile",
       "url"      : "/2006/04/18/transit-brasil",
       "date"     : "2006-04-18 00:00:00 -0300"
     } ,
@@ -3235,7 +3243,7 @@
     {
       "title"    : "Senninha Racing",
       "category" : "",
-      "tags"     : "meantime",
+      "tags"     : "meantime, corrida, mobile",
       "url"      : "/2006/03/31/senninha-racing",
       "date"     : "2006-03-31 00:00:00 -0300"
     } ,
@@ -3571,7 +3579,7 @@
     {
       "title"    : "Seja dono de uma equipe da Fórmula 1",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "initia-tecnologia, corrida",
       "url"      : "/2006/03/05/seja-dono-de-uma-equipe-da-formula-1",
       "date"     : "2006-03-05 00:00:00 -0300"
     } ,
@@ -3579,7 +3587,7 @@
     {
       "title"    : "Estratégia F1",
       "category" : "",
-      "tags"     : "estrategia-f1",
+      "tags"     : "initia-tecnologia, corrida, estrategia",
       "url"      : "/2006/03/05/estrategia-f1",
       "date"     : "2006-03-05 00:00:00 -0300"
     } ,
@@ -3779,7 +3787,7 @@
     {
       "title"    : "Rally dos Sertões 2005",
       "category" : "",
-      "tags"     : "mdev",
+      "tags"     : "mdev, corrida, mobile",
       "url"      : "/2006/02/03/rally-dos-sertoes-2005",
       "date"     : "2006-02-03 00:00:00 -0200"
     } ,
@@ -3787,7 +3795,7 @@
     {
       "title"    : "MDEV: jogos para celular",
       "category" : "",
-      "tags"     : "palmsoft-tecnologia, mobile",
+      "tags"     : "MDEV",
       "url"      : "/2006/02/03/mdev-jogos-para-celular",
       "date"     : "2006-02-03 00:00:00 -0200"
     } ,
@@ -3931,7 +3939,7 @@
     {
       "title"    : "PalmSoft Drag Racer",
       "category" : "",
-      "tags"     : "palmsoft-tecnologia, mobile",
+      "tags"     : "palmsoft-tecnologia, mobile, corrida",
       "url"      : "/2006/01/23/palmsoft-drag-racer-2",
       "date"     : "2006-01-23 00:00:00 -0200"
     } ,
@@ -4521,7 +4529,7 @@
     } ,
   
     {
-      "title"    : "Começam as venda do Smart Panda",
+      "title"    : "Começam as vendas do Smart Panda",
       "category" : "",
       "tags"     : "leandro-correia",
       "url"      : "/2005/11/15/comecam-as-venda-do-smart-panda",
@@ -4715,7 +4723,7 @@
     {
       "title"    : "Jet Boarder",
       "category" : "",
-      "tags"     : "leandro-correia",
+      "tags"     : "leandro-correia, corrida",
       "url"      : "/2005/10/21/jet-boarder",
       "date"     : "2005-10-21 00:00:00 -0200"
     } ,
@@ -4907,7 +4915,7 @@
     {
       "title"    : "R/C Racing",
       "category" : "",
-      "tags"     : "mra, press-release, advergame",
+      "tags"     : "mra, press-release, advergame, corrida",
       "url"      : "/2005/10/10/rc-racing",
       "date"     : "2005-10-10 00:00:00 -0300"
     } ,
@@ -5315,7 +5323,7 @@
     {
       "title"    : "Super Mini Racing",
       "category" : "",
-      "tags"     : "corrida",
+      "tags"     : "perceptum, corrida",
       "url"      : "/2005/09/20/super-mini-racing",
       "date"     : "2005-09-20 00:00:00 -0300"
     } ,
@@ -5363,7 +5371,7 @@
     {
       "title"    : "Penguin Racer",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "icon-games, corrida, video",
       "url"      : "/2005/09/20/penguin-racer",
       "date"     : "2005-09-20 00:00:00 -0300"
     } ,
@@ -5443,7 +5451,7 @@
     {
       "title"    : "Buggy Racers",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "locz-games, corrida",
       "url"      : "/2005/09/20/buggy-racers",
       "date"     : "2005-09-20 00:00:00 -0300"
     } ,

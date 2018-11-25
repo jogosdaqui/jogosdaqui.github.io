@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>jogosdaqui - edward-multimidia</title>
+ <title>jogosdaqui - edward-multimídia</title>
  <link href="//tags/edward-multimidia/index.xml" rel="self"/>
- <link href="/tag/edward-multimidia.html"/>
- <updated>2018-11-22T12:28:50-02:00</updated>
- <id>/tag/edward-multimidia.html</id>
+ <link href="/tag/edward-multimídia.html"/>
+ <updated>2018-11-25T14:45:20-02:00</updated>
+ <id>/tag/edward-multimídia.html</id>
  <author>
    <name>jogosdaqui</name>
  </author>
  
  <entry>
-   <title>Play Gool</title>
-   <link href="//2006/08/03/play-gool"/>
-   <updated>2006-08-03T00:00:00-03:00</updated>
-   <id>//2006/08/03/play-gool</id>
-   <content type="html">&lt;p&gt;Um jogo de futebol, baseado na formula pênalti, aonde se tem como adversário o goleiro, a cada novo nível o goleiro vai ficando mais rápido e abilidoso, cabe a você tentar acompanhar o ritmo dele e superá-lo.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Grand Pri</title>
-   <link href="//2006/07/25/grand-pri"/>
-   <updated>2006-07-25T00:00:00-03:00</updated>
-   <id>//2006/07/25/grand-pri</id>
-   <content type="html">&lt;p&gt;Grand Prix trata-se de um jogo simples de corrida para celular baseado em tempo e voltas aonde se tem o tempo e número de voltas como fator determinante para se vencer, o mais dificil no jogo é controlar o carro nas curvas por causa da derrapagem e saber acelerar e brecar nos momentos certos para não se perder tempo, existe caixas de britas e peneus para amortecer os impactos das batidas, mas se perde muito tempo qdo isto acontece.&lt;br /&gt;&lt;br /&gt;Além de funcionar para celular, o jogo também possui uma versão gratuita para rodar direto do seu navegador WEB.&lt;br /&gt;&lt;a href=&quot;http://www.edward.art.br/grandpri.html&quot;&gt;http://www.edward.art.br/grandpri.html&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Castle Ghost</title>
-   <link href="//2006/03/13/castle-ghost"/>
-   <updated>2006-03-13T00:00:00-03:00</updated>
-   <id>//2006/03/13/castle-ghost</id>
-   <content type="html">&lt;p&gt;Em Castle Ghost você é um ser mascarado que deve enfrentar diversos desafios através das várias fases do jogo, armado apenas com duas pernas de pau. Como os bons clássicos do estilo plataforma o objetivo de Castle Ghost é chegar ao final de cada fase atravesando muitas plataformas e evitando diversos inimigos.&lt;br /&gt;&lt;br /&gt;O desafio é crescente. Nas primeiras fases, quase não existem inimigos e as plataformas são simples, mas a cada fase avançada, mais inimigos estão no cenário para atrapalhar o herói a chegar ao seu destino. As plataformas tornam-se mais perigosas, com mais fogo e grandes vácuos entre elas.&lt;/p&gt;
+   <title>Games brasileiros de corrida</title>
+   <link href="//2018/11/25/games-brasileiros-de-corrida"/>
+   <updated>2018-11-25T00:00:00-02:00</updated>
+   <id>//2018/11/25/games-brasileiros-de-corrida</id>
+   <content type="html">&lt;p&gt;Domingo, dia dos amantes de corrida acompanharem a F1.&lt;/p&gt;
+
+&lt;p&gt;E para quem gosta de corridas e de games, que tal conhecer um pouco da história dos games de corrida desenvolvidos no Brasil?&lt;/p&gt;
+
+&lt;p&gt;Listamos nesse post vários games de corrida brasileiros que ajudam a contar um pouco da história e da evolução da indústria gamedev do país:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2005/09/20/buggy-racers&quot;&gt;Buggy Racers&lt;/a&gt; - &lt;a href=&quot;/tags/locz-games&quot;&gt;Locz Games&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2005/09/20/penguin-racer&quot;&gt;Penguin Racer&lt;/a&gt; - &lt;a href=&quot;/tags/icon-games&quot;&gt;Icon Games&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2005/09/20/super-mini-racing&quot;&gt;Super Mini Racing&lt;/a&gt; - &lt;a href=&quot;/tags/perceptum&quot;&gt;Perceptum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2005/10/21/jet-boarder&quot;&gt;Jet Boarder&lt;/a&gt; - &lt;a href=&quot;/tags/leandro-correia&quot;&gt;Leandro Correia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2005/10/10/rc-racing&quot;&gt;R/C Racing&lt;/a&gt; - &lt;a href=&quot;/tags/mra&quot;&gt;MRA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2006/01/23/palmsoft-drag-racer-2&quot;&gt;PalmSoft Drag Racer&lt;/a&gt; - &lt;a href=&quot;/tags/palmsoft-tecnologia&quot;&gt;PalmSoft Tecnologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2006/02/03/rally-dos-sertoes-2005&quot;&gt;Rally dos Sertões 2005&lt;/a&gt; - &lt;a href=&quot;/tags/mdev&quot;&gt;MDEV&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2006/03/05/estrategia-f1&quot;&gt;Estratégia F1&lt;/a&gt; - &lt;a href=&quot;/tags/initia-tecnologia&quot;&gt;Initia Tecnologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2006/03/31/senninha-racing&quot;&gt;Senninha Racing&lt;/a&gt; - &lt;a href=&quot;/tags/meantime&quot;&gt;Meantime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2006/04/18/transit-brasil&quot;&gt;Transit Brasil&lt;/a&gt; - &lt;a href=&quot;/tags/lumen-technology&quot;&gt;Lúmen Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2006/07/25/grand-pri&quot;&gt;Grand Pri&lt;/a&gt; - &lt;a href=&quot;/tags/edward-multimidia&quot;&gt;Edward Multimídia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2006/04/22/ayrton-sennas-best-lap&quot;&gt;Ayrton Senna’s Best Lap&lt;/a&gt; - &lt;a href=&quot;/tags/meantime&quot;&gt;Meantime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2006/08/22/crossfox-agil&quot;&gt;CrossFox Ágil&lt;/a&gt; - &lt;a href=&quot;/tags/microways&quot;&gt;Microways&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2013/04/11/heist-and-run&quot;&gt;Heist and Run&lt;/a&gt; - &lt;a href=&quot;/tags/odin-game-studio&quot;&gt;Odin Game Studio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/04/03/previa-de-turbolink&quot;&gt;TurboLink&lt;/a&gt; - &lt;a href=&quot;/tags/division-five&quot;&gt;Division Five&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/05/13/previa-de-horizon-chase-da-aquiris-game-studio&quot;&gt;Horizon Chase&lt;/a&gt; - &lt;a href=&quot;/tags/aquiris-game-studio&quot;&gt;Aquiris Game Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Conhece mais games brasileiros de corrida que não estão nessa lista? Liste-os nos comentários abaixo ou veja &lt;a href=&quot;/colabore&quot;&gt;como colaborar com novos contéudos&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  
