@@ -100,11 +100,6 @@ Pelo teaser abaixo podemos esperar um clima de bastante tensão no jogo, que dev
       <div class="container">
         <header class="masthead clearfix">
           <a href="/" class="site-avatar"><img src="/assets/jogosdaqui-logo-header.png" /></a>
-
-          <div class="site-info">
-            <p class="site-description">A maior fonte colaborativa sobre games desenvolvidos no Brasil</p>
-          </div>
-
           <nav>
             <a href="/noticias" class="menu-item">Notícias</a>
             <a href="/previas" class="menu-item">Prévias</a>
@@ -115,36 +110,16 @@ Pelo teaser abaixo podemos esperar um clima de bastante tensão no jogo, que dev
             <a href="/faq" class="menu-item">FAQ</a>
             <a href="/colabore" class="menu-item">Colabore</a>
           </nav>
-          <!-- HTML elements for search -->
-<input type="text" id="search-input" placeholder="Pesquisa...">
-<ul id="results-container"></ul>
-
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
-<script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
-</script>
-
+          <div class="site-info">
+              <p class="site-description">A maior fonte colaborativa sobre games desenvolvidos no Brasil</p>
+            </div>  
         </header>
       </div>
     </div>
 
     <div id="main" role="main" class="container">
-      <style>
+      <div class="content-container">
+        <style>
   iframe 
   {
     width: 40vw;
@@ -164,33 +139,27 @@ Pelo teaser abaixo podemos esperar um clima de bastante tensão no jogo, que dev
 <article class="post">
   <h1>Teaser de Fragmentorum Alba</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
-  
   <div class="entry">
      
  
 
 
+
+
+
+
 <center>
+ 
   
- </center>
-    <div class="post-info"><i class="fas fa-calendar-alt"></i> 25/03/2015</div>
-    
-     
-    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também</a></div> 
+
+</center>
+ 
+    <div class="post-info-box">
+      <div class="post-info"><i class="fas fa-calendar-alt"></i> 25/03/2015</div>
+      
+       
+      <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também</a></div>
+    </div>
     <p>Fragmentorum Alba é o primeiro game da startup gaúcha Otus Game Studio.</p>
 
 <blockquote>
@@ -264,7 +233,348 @@ Pelo teaser abaixo podemos esperar um clima de bastante tensão no jogo, que dev
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-    </div>
+      </div>
+      <div class="right-bar-container">
+          <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br>
+          <!-- HTML elements for search -->
+<div class="highlight-box">
+    <div class="highlight-box-title">Busca</div>
+    <hr>
+    <input type="text" id="search-input">
+    <ul id="results-container"></ul>
+    <br>
+    <br>
+</div>
+
+<!-- script pointing to jekyll-search.js -->
+<script src="/libs/simple-jekyll-search.min.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      fuzzy: false,
+      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
+      noResultsText: 'Nenhum resultado encontrado',
+      limit: 30
+    })
+</script>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos em destaque</div>
+    <hr>
+    <ul list="Jogos em destaque">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos em destaque']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos iOS</div>
+    <hr>
+    <ul list="Jogos iOS">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos iOS']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'ios' != '')
+                    selected = $.inArray('ios', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos Android</div>
+    <hr>
+    <ul list="Jogos Android">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos Android']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'android' != '')
+                    selected = $.inArray('android', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos Windows</div>
+    <hr>
+    <ul list="Jogos Windows">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos Windows']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'windows' != '')
+                    selected = $.inArray('windows', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Documentários</div>
+    <hr>
+    <ul list="Documentários">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Documentários']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('' != '')
+                    selected = p.category == '';
+        
+                if (selected && 'documentario' != '')
+                    selected = $.inArray('documentario', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Entrevistas</div>
+    <hr>
+    <ul list="Entrevistas">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Entrevistas']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Interview' != '')
+                    selected = p.category == 'Interview';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Eventos</div>
+    <hr>
+    <ul list="Eventos">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Eventos']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Event' != '')
+                    selected = p.category == 'Event';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+      </div>
+  </div>
   
     <div class="wrapper-footer">
       <div class="container">

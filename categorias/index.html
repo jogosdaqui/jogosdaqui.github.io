@@ -62,11 +62,6 @@
       <div class="container">
         <header class="masthead clearfix">
           <a href="/" class="site-avatar"><img src="/assets/jogosdaqui-logo-header.png" /></a>
-
-          <div class="site-info">
-            <p class="site-description">A maior fonte colaborativa sobre games desenvolvidos no Brasil</p>
-          </div>
-
           <nav>
             <a href="/noticias" class="menu-item">Notícias</a>
             <a href="/previas" class="menu-item">Prévias</a>
@@ -77,36 +72,16 @@
             <a href="/faq" class="menu-item">FAQ</a>
             <a href="/colabore" class="menu-item">Colabore</a>
           </nav>
-          <!-- HTML elements for search -->
-<input type="text" id="search-input" placeholder="Pesquisa...">
-<ul id="results-container"></ul>
-
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
-<script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
-</script>
-
+          <div class="site-info">
+              <p class="site-description">A maior fonte colaborativa sobre games desenvolvidos no Brasil</p>
+            </div>  
         </header>
       </div>
     </div>
 
     <div id="main" role="main" class="container">
-      <article class="page">
+      <div class="content-container">
+        <article class="page">
   <div class="entry">
     <ul>
     
@@ -154,6 +129,8 @@
             <li><a href="/2015/04/10/calango-for-kids">Calango For Kids</a></li>
         
             <li><a href="/2015/04/08/tank-invaders">Tank Invaders</a></li>
+        
+            <li><a href="/2015/04/02/street-skates">Street Skates</a></li>
         
             <li><a href="/2015/03/26/letra-de-ouro">Letra de Ouro</a></li>
         
@@ -341,11 +318,15 @@
         
             <li><a href="/2005/11/13/pebolim-3d">Pebolim 3D</a></li>
         
+            <li><a href="/2005/11/07/casseta-planeta-quebra-cabeca">Casseta & Planeta - Quebra-Cabeça</a></li>
+        
             <li><a href="/2005/11/05/skooter">Skooter</a></li>
         
             <li><a href="/2005/11/03/ottomax">Ottomax</a></li>
         
             <li><a href="/2005/11/03/gold-hunter">Gold Hunter</a></li>
+        
+            <li><a href="/2005/10/31/casseta-planeta-jogo-da-memoria">Casseta & Planeta - Jogo da Memória</a></li>
         
             <li><a href="/2005/10/26/sorriso-campeao">Sorriso Campeão</a></li>
         
@@ -523,6 +504,8 @@
         <li><a name="News">News</a>
         <ul>
         
+            <li><a href="/2018/11/28/lancamento-de-horizon-chase-turbo-para-nintendo-switch">Lançamento de Horizon Chase Turbo para Nintendo Switch</a></li>
+        
             <li><a href="/2018/11/26/selecao-de-games-brasileiros-para-ios-e-android-1">Seleção de games brasileiros para iOS e Android #1</a></li>
         
             <li><a href="/2018/11/25/games-brasileiros-de-corrida">Games brasileiros de corrida</a></li>
@@ -644,8 +627,6 @@
             <li><a href="/2015/04/16/dino-zone">Dino Zone</a></li>
         
             <li><a href="/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads">Tank Invaders atinge mais de 300 mil downloads</a></li>
-        
-            <li><a href="/2015/04/02/street-skates">Street Skates</a></li>
         
             <li><a href="/2015/04/01/teaser-trailer-de-full-metal-wars">Teaser Trailer de Full Metal Wars</a></li>
         
@@ -1047,6 +1028,8 @@
         
             <li><a href="/2006/03/09/jogosdaqui-e-destaque-no-estadao">jogosdaqui é destaque no Estadão</a></li>
         
+            <li><a href="/2006/03/07/previa-de-fruzzle">Prévia de Fruzzle</a></li>
+        
             <li><a href="/2006/03/06/winguel-na-europa-mars-to-earth">Winguel na Europa: Mars to Earth</a></li>
         
             <li><a href="/2006/03/06/nova-enquete">Nova enquete</a></li>
@@ -1185,13 +1168,9 @@
         
             <li><a href="/2005/11/10/jynx-encerra-funcionamento-do-futsim">Jynx encerra funcionamento do FutSim</a></li>
         
-            <li><a href="/2005/11/07/casseta-planeta-quebra-cabeca">Casseta & Planeta - Quebra-Cabeça</a></li>
-        
             <li><a href="/2005/11/04/em-breve-joquei-clube">Em breve: Jóquei Clube</a></li>
         
             <li><a href="/2005/11/02/segunda-edicao-do-concurso-jogosbr">Segunda edição do concurso JogosBr</a></li>
-        
-            <li><a href="/2005/10/31/casseta-planeta-jogo-da-memoria">Casseta & Planeta - Jogo da Memória</a></li>
         
             <li><a href="/2005/10/28/governo-anuncia-edital-com-apoio-a-projeto-de-jogos">Governo anuncia edital com apoio a projeto de jogos</a></li>
         
@@ -1427,8 +1406,6 @@
         
             <li><a href="/2006/03/27/brincando-com-a-memoria">Brincando com a Memória</a></li>
         
-            <li><a href="/2006/03/07/previa-de-fruzzle">Prévia de Fruzzle</a></li>
-        
             <li><a href="/2006/03/07/fruzzle">Fruzzle</a></li>
         
             <li><a href="/2006/02/24/previa-de-golden-west-bang-bang">Prévia de Golden West - Bang! Bang!</a></li>
@@ -1554,7 +1531,348 @@
   </div>
 </article>
 
-    </div>
+      </div>
+      <div class="right-bar-container">
+          <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br>
+          <!-- HTML elements for search -->
+<div class="highlight-box">
+    <div class="highlight-box-title">Busca</div>
+    <hr>
+    <input type="text" id="search-input">
+    <ul id="results-container"></ul>
+    <br>
+    <br>
+</div>
+
+<!-- script pointing to jekyll-search.js -->
+<script src="/libs/simple-jekyll-search.min.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      fuzzy: false,
+      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
+      noResultsText: 'Nenhum resultado encontrado',
+      limit: 30
+    })
+</script>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos em destaque</div>
+    <hr>
+    <ul list="Jogos em destaque">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos em destaque']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos iOS</div>
+    <hr>
+    <ul list="Jogos iOS">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos iOS']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'ios' != '')
+                    selected = $.inArray('ios', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos Android</div>
+    <hr>
+    <ul list="Jogos Android">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos Android']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'android' != '')
+                    selected = $.inArray('android', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos Windows</div>
+    <hr>
+    <ul list="Jogos Windows">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos Windows']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'windows' != '')
+                    selected = $.inArray('windows', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Documentários</div>
+    <hr>
+    <ul list="Documentários">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Documentários']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('' != '')
+                    selected = p.category == '';
+        
+                if (selected && 'documentario' != '')
+                    selected = $.inArray('documentario', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Entrevistas</div>
+    <hr>
+    <ul list="Entrevistas">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Entrevistas']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Interview' != '')
+                    selected = p.category == 'Interview';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Eventos</div>
+    <hr>
+    <ul list="Eventos">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Eventos']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Event' != '')
+                    selected = p.category == 'Event';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+      </div>
+  </div>
   
     <div class="wrapper-footer">
       <div class="container">

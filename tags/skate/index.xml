@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>jogosdaqui - skate</title>
+ <link href="//tags/skate/index.xml" rel="self"/>
+ <link href="/tag/skate.html"/>
+ <updated>2018-11-28T08:25:34-02:00</updated>
+ <id>/tag/skate.html</id>
+ <author>
+   <name>jogosdaqui</name>
+ </author>
+ 
+ <entry>
+   <title>Street Skates</title>
+   <link href="//2015/04/02/street-skates"/>
+   <updated>2015-04-02T00:00:00-03:00</updated>
+   <id>//2015/04/02/street-skates</id>
+   <content type="html">&lt;p&gt;O game Street Skates, do desenvolvedor indie Raul Ando, leva o jogador para andar de skate num ambiente cartunesco, tendo variados cenários, como parques, calçadas e estradas. Ainda é possível escolher entre 4 personagens diferentes para tentar realizar diversas manobras clássicas do esporte.&lt;/p&gt;
+
+&lt;p&gt;Para aumentar a dificuldade e a diversão, existem diversos obstáculos, como rampas, floreiras, escadas, bancos e plataformas.&lt;/p&gt;
+
+&lt;p&gt;Gosta de skate e tem um celular Android, então &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.raulando.streetskaters&quot;&gt;Street Skates&lt;/a&gt; é pra você.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/FqTiqxOAwnM &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>

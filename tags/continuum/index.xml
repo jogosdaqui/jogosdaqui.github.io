@@ -3,7 +3,7 @@
  <title>jogosdaqui - continuum</title>
  <link href="//tags/continuum/index.xml" rel="self"/>
  <link href="/tag/continuum.html"/>
- <updated>2018-11-26T06:46:51-02:00</updated>
+ <updated>2018-11-28T08:25:34-02:00</updated>
  <id>/tag/continuum.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -286,12 +286,48 @@
  </entry>
  
  <entry>
+   <title>No Limite</title>
+   <link href="//2005/09/30/no-limite"/>
+   <updated>2005-09-30T00:00:00-03:00</updated>
+   <id>//2005/09/30/no-limite</id>
+   <content type="html">&lt;p&gt;Este jogo foi baseado no programa de televisão No Limite, apresentado pela Rede Globo de televisão no Brasil.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/WKvKKUwZmDs &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;p&gt;O jogador assume o papel de um dos 12 participantes do programa que enfrentam os desafios do programa, caçando, pescando, procurando comida, fazendo fogo e se relacionando com os outros participantes. Além disso os jogadores devem participar de provas de sobrevivência, onde quem perder fica sem comida e pode até ser eliminado do programa.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Desafio na Floresta</title>
    <link href="//2005/09/20/desafio-na-floresta"/>
    <updated>2005-09-20T00:00:00-03:00</updated>
    <id>//2005/09/20/desafio-na-floresta</id>
    <content type="html">&lt;p&gt;Jogo infantil estilo plataforma, desenvolvido pela Continuum por contratação para uma editora brasileira, onde o jogador enfrenta muitos perigos, percorrendo diversas regiões do Brasil, em 12 fases de muita aventura.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Xuxa e os Duendes 2</title>
+   <link href="//2005/09/19/xuxa-e-os-duendes-2"/>
+   <updated>2005-09-19T00:00:00-03:00</updated>
+   <id>//2005/09/19/xuxa-e-os-duendes-2</id>
+   <content type="html">&lt;p&gt;Jogo infantil estilo plataforma, que foi lançado simultaneamente com o filme de mesmo nome, onde a personagem principal é uma apresentadora de grande sucesso no Brasil. O jogador assume o papel de uma fada que enfrenta muitos desafios durante as 10 fases do jogo, que seguem o roteiro original do filme.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Big Brother Brasil</title>
+   <link href="//2005/09/19/big-brother-brasil"/>
+   <updated>2005-09-19T00:00:00-03:00</updated>
+   <id>//2005/09/19/big-brother-brasil</id>
+   <content type="html">&lt;p&gt;O jogo Big Brother Brasil foi baseado no programa de televisão de grande sucesso em vários países do mundo e que também teve um grande sucesso pelas ondas da Rede Globo.&lt;/p&gt;
 
+&lt;p&gt;O jogador pode entrar neste “virtual reality show” como um dos 12 personagens disponíveis, cada um com suas próprias características pessoais.&lt;/p&gt;
+
+&lt;p&gt;O jogo segue as mesmas regras do programa de TV, onde os participantes se relacionam dentro de uma casa, lutando para não serem eliminados pelo público.&lt;/p&gt;
 </content>
  </entry>
  
@@ -303,7 +339,6 @@
    <content type="html">&lt;p&gt;Outlive é um jogo de estratégia em tempo real, no qual o jogador deve gerenciar sua base e construir tropas para atacar seus adversários. O jogo possui uma avançada Inteligência Artificial, permitindo que uma pessoa possa disputar partidas contra até 7 exércitos controlados pelo computador. Em Outlive também é possível jogar contra outras pessoas, através de cabo serial, modem, rede local e internet.&lt;/p&gt;
 
 &lt;p&gt;As partidas realizadas através da rede local e internet suportam até 16 pessoas num mesmo jogo. As partidas disputadas pela internet utilizam o Continuum Game Server (CGS), um serviço de jogos oferecido gratuitamente pela Continuum, onde é possível encontrar outras pessoas para conversar e jogar Outlive, através de uma interface totalmente integrada ao jogo.Outlive foi o primeiro jogo da empresa Continuum de Curitiba.&lt;/p&gt;
-
 </content>
  </entry>
  

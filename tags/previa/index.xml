@@ -3,7 +3,7 @@
  <title>jogosdaqui - previa</title>
  <link href="//tags/previa/index.xml" rel="self"/>
  <link href="/tag/previa.html"/>
- <updated>2018-11-26T06:46:51-02:00</updated>
+ <updated>2018-11-28T08:25:34-02:00</updated>
  <id>/tag/previa.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -65,16 +65,15 @@
 
 &lt;p&gt;Além da ação tática, o game também se destaca por sua arte, tendo um estilo visual extremamente colorido e criativo.&lt;/p&gt;
 
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/SI5QTiWWGO4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
 &lt;h2 id=&quot;open-source&quot;&gt;Open source&lt;/h2&gt;
 &lt;p&gt;Outro fato muito legal sobre o game é que a Rogue Snail abriu o código fonte do Relic Hunters Zero,  que está disponível no GitHub: &lt;a href=&quot;https://github.com/mventurelli/relichunterszero&quot;&gt;https://github.com/mventurelli/relichunterszero&lt;/a&gt;. Se você tambem é &lt;a href=&quot;https://github.com/giacomelli&quot;&gt;programador&lt;/a&gt;, vai querer conferir o game “mais de perto” e talvez até contribuir com ele. Para quem se interessou, o Mark Venturelli postou um tutorial mostrando como &lt;a href=&quot;http://www.roguesnail.com/how-to-make-your-own-gun-in-relic-hunters-zero/&quot;&gt;adicionar uma nova arma ao game&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
 &lt;p&gt;O game tem previsão de lançamento para 18 de agosto no &lt;a href=&quot;http://store.steampowered.com/app/382490/&quot;&gt;Steam&lt;/a&gt;. A primeira plataforma a receber o game será o Windows, todavia Mac e Linux estão nos planos da Rogue Snail, mas ainda sem previsão.&lt;/p&gt;
-
-&lt;h2 id=&quot;trailer-de-relic-hunters-zero&quot;&gt;Trailer de Relic Hunters Zero&lt;/h2&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/SI5QTiWWGO4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
 </content>
  </entry>
  
@@ -826,9 +825,11 @@ Com mais de 1.000 downloads desde seu lançamento, a demo é uma amostra saboros
    <link href="//2006/03/07/previa-de-fruzzle"/>
    <updated>2006-03-07T00:00:00-03:00</updated>
    <id>//2006/03/07/previa-de-fruzzle</id>
-   <content type="html">&lt;p&gt;Um jogo de quebra-cabeça
- e muita estratégia, este é o próximo lançamento da ICON Games
-.&lt;br /&gt;&lt;br /&gt;Fruzzle é um sapo que deve pular por todos pontos flutuantes de um lago, mas jamais pode voltar, pois todos os pontos por onde passa afundam.&lt;br /&gt;&lt;br /&gt;Veja a prévia…&lt;/p&gt;
+   <content type="html">&lt;p&gt;Um jogo de quebra-cabeça e muita estratégia, este é o próximo lançamento da ICON Games.&lt;/p&gt;
+
+&lt;p&gt;Fruzzle é um sapo que deve pular por todos pontos flutuantes de um lago, mas jamais pode voltar, pois todos os pontos por onde passa afundam.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2006/03/07/fruzzle&quot;&gt;Veja a prévia…&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>

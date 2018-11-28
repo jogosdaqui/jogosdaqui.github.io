@@ -70,11 +70,6 @@
       <div class="container">
         <header class="masthead clearfix">
           <a href="/" class="site-avatar"><img src="/assets/jogosdaqui-logo-header.png" /></a>
-
-          <div class="site-info">
-            <p class="site-description">A maior fonte colaborativa sobre games desenvolvidos no Brasil</p>
-          </div>
-
           <nav>
             <a href="/noticias" class="menu-item">Notícias</a>
             <a href="/previas" class="menu-item">Prévias</a>
@@ -85,36 +80,16 @@
             <a href="/faq" class="menu-item">FAQ</a>
             <a href="/colabore" class="menu-item">Colabore</a>
           </nav>
-          <!-- HTML elements for search -->
-<input type="text" id="search-input" placeholder="Pesquisa...">
-<ul id="results-container"></ul>
-
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
-<script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
-</script>
-
+          <div class="site-info">
+              <p class="site-description">A maior fonte colaborativa sobre games desenvolvidos no Brasil</p>
+            </div>  
         </header>
       </div>
     </div>
 
     <div id="main" role="main" class="container">
-      <style>
+      <div class="content-container">
+        <style>
   iframe 
   {
     width: 40vw;
@@ -134,27 +109,17 @@
 <article class="post">
   <h1>Hoplon vira case da IBM</h1>
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
-  
   <div class="entry">
      
  
 
 
+
+
+
+
 <center>
+ 
   
     
   
@@ -168,11 +133,15 @@
   
     
   
- </center>
-    <div class="post-info"><i class="fas fa-calendar-alt"></i> 05/05/2006</div>
-    
-     
-    <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também</a></div> 
+
+</center>
+ 
+    <div class="post-info-box">
+      <div class="post-info"><i class="fas fa-calendar-alt"></i> 05/05/2006</div>
+      
+       
+      <div class="post-info"><i class="fas fa-heart"></i> <a href="/colabore" title="Melhore esse post ou escreva um novo">Colabore você também</a></div>
+    </div>
     <p>A catarinense Hoplon, responsável por desenvolver o game Taikodom, acaba de virar case mundial da IBM. O motivo é uma tentativa conjunta inovadora: permitir que todos os jogadores do game participem num mesmo shard (cópia do universo), ao invés da versão antiga onde eram separados em universos diferentes, com capacidade para 3 a 5 mil jogadores cada, e dar a este shard a capacidade de crescer sempre que for necessário para atender à chegada de novos jogadores.<br /><br />Normalmente, existem mais de uma instância do game completo, com todas as funções e alterações construídas em cada um. Isso gera uma infra-estrutura complexa, dispendiosa e subutilizada com cada instância rodando em diversos servidores diferentes.<br /><br />Mas esse problema, no que depender da parceria entre a Hoplon e a IBM, pode estar chegando ao fim. Para resolver a questão, a Hoplon, com apoio da IBM, está desenvolvendo uma solução que coloca todos os usuários em uma única plataforma, com estrutura modular e funções específicas. Por exemplo: um modelo físico controla como a nave se comporta para todos os jogadores que interagem em um determinado espaço do game, ambientado no espaço, enquanto um módulo bancário cuida de transferências monetárias. Além disso, a plataforma terá condições de crescer muito rapidamente para atender às mudanças constantes do número de usuários online, pois os recursos do jogo eletrônico serão liberados automaticamente quando os jogadores conectam e desconectam. Dentro desta solução “On Demand”, a empresa pagará apenas pelos recursos que forem efetivamente consumidos pelos jogadores. Desta forma, a conta passa a ser  proporcional ao tamanho do público e ao sucesso do Taikodom. Hoje, nas soluções tradicionais, é necessário estar constantemente comprando antecipadamente novos servidores para instalar aumentar a capacidade em atender blocos de jogadores simultâneos, bem como incluir novas funções, lugares e ações. São os chamados shards.<br /><br />O presidente da Hoplon, Tarqüínio Teles, explica que a nova solução é inovadora em âmbito mundial e válida para todo o mercado de desenvolvimento de jogos online. “A IBM está participando ativamente no projeto, disponibilizando tempo do seu pessoal, software e hardware para levarmos nosso produto ao mercado de maneira competitiva”, avalia.<br /><br /></p>
 
 <p><br />Outro exemplo dos ganhos com esse novo modelo de desenvolvimento está o incremento de performance em 30% sobre a antiga plataforma Oracle. Além disso, os programadores poderão fazer ajustes mais rápidos, melhorando e expandindo o código do jogo. “Nós queríamos uma plataforma muito mais escalonável e flexível que os modelos existentes, e ficamos muito empolgados com as idéias que a IBM no apresentou”, diz Teles. A solução encontrada pela IBM partiu de uma demanda específica da Hoplon, e a multinacional ofereceu um produto “On Demand”, que entre outras vantagens traz o pagamento mensal pelo uso, sem a necessidade de a Hoplon adquirir a solução.<br /><br /><br /><br />O Taikodom é um jogo multiplayer online de ação e tem como plano de fundo o ambiente espacial. O cenário em escala real com um universo persistente permite que todas as informações e eventos sejam constantemente armazenados e permaneçam influenciando as atitudes de todos os demais jogadores. No universo Taikodom o jogador pode ser o que quiser e sua missão é viajar, lutar, vender, liderar ou simplesmente sobreviver. A aventura se passa em 2252, em um mundo cheio de possibilidades, num universo em constante expansão. Atualmente, o game passa por uma segunda rodada de desenvolvimento. Os ajustes estão sendo feitos para atender as sugestões dos usuários, entre elas uma curva de aprendizado mais suave, interfaces mais intuitivas e maior presença do universo ficcional dentro do game. Para quem quiser testar gratuitamente o game basta se inscrever em www.taikodom.com.br</p>
@@ -289,7 +258,348 @@
   <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a>
 </article>
 
-    </div>
+      </div>
+      <div class="right-bar-container">
+          <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br>
+          <!-- HTML elements for search -->
+<div class="highlight-box">
+    <div class="highlight-box-title">Busca</div>
+    <hr>
+    <input type="text" id="search-input">
+    <ul id="results-container"></ul>
+    <br>
+    <br>
+</div>
+
+<!-- script pointing to jekyll-search.js -->
+<script src="/libs/simple-jekyll-search.min.js"></script>
+
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      fuzzy: false,
+      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'title') {
+          return value.replace(/&amp;#39;/g, "'")
+        }
+      },
+      noResultsText: 'Nenhum resultado encontrado',
+      limit: 30
+    })
+</script>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos em destaque</div>
+    <hr>
+    <ul list="Jogos em destaque">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos em destaque']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos iOS</div>
+    <hr>
+    <ul list="Jogos iOS">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos iOS']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'ios' != '')
+                    selected = $.inArray('ios', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos Android</div>
+    <hr>
+    <ul list="Jogos Android">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos Android']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'android' != '')
+                    selected = $.inArray('android', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Jogos Windows</div>
+    <hr>
+    <ul list="Jogos Windows">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Jogos Windows']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Game' != '')
+                    selected = p.category == 'Game';
+        
+                if (selected && 'windows' != '')
+                    selected = $.inArray('windows', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Documentários</div>
+    <hr>
+    <ul list="Documentários">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Documentários']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('' != '')
+                    selected = p.category == '';
+        
+                if (selected && 'documentario' != '')
+                    selected = $.inArray('documentario', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Entrevistas</div>
+    <hr>
+    <ul list="Entrevistas">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Entrevistas']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Interview' != '')
+                    selected = p.category == 'Interview';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+          <div class="highlight-box">
+    <div class="highlight-box-title">Eventos</div>
+    <hr>
+    <ul list="Eventos">
+    <script>
+        $.getJSON("/search.json", function(json) {
+            function addItem(post) {
+                var title = post.title.replace(/&#39;/g, "'")
+                title = title.replace(/&amp;#39;/g, "'")
+                $("[list='Eventos']").append("<li><a href='" + post.url + "'>" + title + "</a></li>");
+            }
+            
+            var posts = $(json).filter(function (i,p) {
+                var selected = true;
+
+                if ('Event' != '')
+                    selected = p.category == 'Event';
+        
+                if (selected && '' != '')
+                    selected = $.inArray('', p.tags.split(', ')) != -1;
+                
+                return selected;
+            });
+
+            var indexes = [];
+
+            for(var i = 0; i < 3 && i < posts.length; i++)
+            {
+                
+                do {
+                    var index = Math.floor(Math.random() * posts.length);
+                } while($.inArray(index, indexes) != -1)
+
+                indexes.push(index);
+                addItem(posts[index]);
+            }        
+        });
+        
+    </script>
+    </ul>
+</div>
+
+      </div>
+  </div>
   
     <div class="wrapper-footer">
       <div class="container">

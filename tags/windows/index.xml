@@ -3,7 +3,7 @@
  <title>jogosdaqui - windows</title>
  <link href="//tags/windows/index.xml" rel="self"/>
  <link href="/tag/windows.html"/>
- <updated>2018-11-26T06:46:51-02:00</updated>
+ <updated>2018-11-28T08:25:34-02:00</updated>
  <id>/tag/windows.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -158,74 +158,6 @@
  </entry>
  
  <entry>
-   <title>Rock Life</title>
-   <link href="//2015/09/09/rock-life"/>
-   <updated>2015-09-09T00:00:00-03:00</updated>
-   <id>//2015/09/09/rock-life</id>
-   <content type="html">&lt;p&gt;Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis?&lt;/p&gt;
-
-&lt;p&gt;Ser o guitarrista virtuoso de uma grande banda de rock já foi o sonho de muita gente.&lt;/p&gt;
-
-&lt;h2 id=&quot;rock-life&quot;&gt;Rock Life&lt;/h2&gt;
-
-&lt;p&gt;E com Rock Life da &lt;a href=&quot;http://zeeppo.com&quot;&gt;Zeeppo Games&lt;/a&gt;, o sonho pode se tornar realidade. O jogo da gamedev porto-alegrense traz o gameplay de games consagrados como Guitar Hero e Rock Band para as telas touch de celulares e tablets.&lt;/p&gt;
-
-&lt;p&gt;No game o jogador poderá criar sua própria banda e escolher a guitarra dentre as dezenas disponíveis.&lt;/p&gt;
-
-&lt;p&gt;Uma das coisas mais legais do game é a possibilidade de jogar online e colocar sua banda contra outros jogadores.&lt;/p&gt;
-
-&lt;p&gt;Com gráficos 3D caprichados e diversos avatares a disposição, como Bob Marley, Axl Rose, James Hetfield e Mick Jagger, Rock Life deve agradar quem curte games de música.&lt;/p&gt;
-
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/cJy4c0CKxY &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
-&lt;p&gt;Rock Life é um game gratuito com in-app purchases que já atingiu mais de 3 milhões de downloads no mundo inteiro.&lt;/p&gt;
-
-&lt;p&gt;Está disponível para:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/app/id707892944&quot;&gt;iOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.Zeeppo.RockLife&quot;&gt;Android&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://windowsphone.com/s?appid=caa78cc2-a540-4156-9865-b6e2b5c3aefc&quot;&gt;Windows Phone&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>ReOrd</title>
-   <link href="//2015/08/26/reord"/>
-   <updated>2015-08-26T00:00:00-03:00</updated>
-   <id>//2015/08/26/reord</id>
-   <content type="html">&lt;p&gt;Lembra daqueles brinquedos conhecidos como 8-puzzle ou quebra-cabeça de 8, onde numa grade 3x3 existiam 8 peças com números sequenciais e para vencer era preciso deslizar as peças utilizando o único espaço vago até que todas estivessem ordenadas?&lt;/p&gt;
-
-&lt;p&gt;Trazer esse gameplay simples de um brinquedo de infância para as telas mobile é a proposta do game ReOrd.&lt;/p&gt;
-
-&lt;h2 id=&quot;reord&quot;&gt;ReOrd&lt;/h2&gt;
-&lt;p&gt;O game indie ReOrd foi desenvolvido pelo goiano Raphael Rodrigues que iniciou o projeto utilizando XNA para Windows Phone 7, passou pelo open source &lt;a href=&quot;https://github.com/mono/MonoGame&quot;&gt;MonoGame&lt;/a&gt; para Windows Phone 8 e acabou refazendo todo o game utilizando a Unity3D. Mesmo com todos os desafios enfrentados durante a produção de ReOrd, Raphael pretende continuar desenvolvendo games de forma independente:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Esse será apenas ‘O primeiro de muitos’ nas stores (comenta Raphael)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Com imagens dos cenários pintadas a mão por um artista ucraniano, o game funciona muito bem para quem gosta de quebra-cabeças. Sendo que os números do jogo original foram substituídos pelas imagens, o que por si só já aumenta a dificuldade do game, além disso você pode escolher entre 3 modos diferentes de jogo, cada um deles aumentando o número de quadrados do mosaico que compõe a imagem: 3x3, 4x4 e 5x5.&lt;/p&gt;
-
-&lt;p&gt;Existem 9 fases/imagens diferentes que são desbloqueadas conforme o jogador avança no game.&lt;/p&gt;
-
-&lt;p&gt;Uma pena o jogo não contar com trilha sonora, ajudaria na experiência.&lt;/p&gt;
-
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/TPs0rXU72dQ &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
-
-&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
-&lt;p&gt;ReOrd é um game gratuito e está disponível para &lt;a href=&quot;http://windowsphone.com/s?appid=79bf8d67-8391-484e-a160-5f87c678c9a0&quot;&gt;Windows Phone&lt;/a&gt; e &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.raphael.reord&quot;&gt;Android&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Existe a possibilidade de uma versão para iOS no futuro, mas nada certo ainda.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Game brasileiro Paper Cat ajuda ONGs</title>
    <link href="//2015/08/25/game-brasileiro-paper-cat-ajuda-ongs"/>
    <updated>2015-08-25T00:00:00-03:00</updated>
@@ -339,16 +271,15 @@
 
 &lt;p&gt;Além da ação tática, o game também se destaca por sua arte, tendo um estilo visual extremamente colorido e criativo.&lt;/p&gt;
 
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/SI5QTiWWGO4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
 &lt;h2 id=&quot;open-source&quot;&gt;Open source&lt;/h2&gt;
 &lt;p&gt;Outro fato muito legal sobre o game é que a Rogue Snail abriu o código fonte do Relic Hunters Zero,  que está disponível no GitHub: &lt;a href=&quot;https://github.com/mventurelli/relichunterszero&quot;&gt;https://github.com/mventurelli/relichunterszero&lt;/a&gt;. Se você tambem é &lt;a href=&quot;https://github.com/giacomelli&quot;&gt;programador&lt;/a&gt;, vai querer conferir o game “mais de perto” e talvez até contribuir com ele. Para quem se interessou, o Mark Venturelli postou um tutorial mostrando como &lt;a href=&quot;http://www.roguesnail.com/how-to-make-your-own-gun-in-relic-hunters-zero/&quot;&gt;adicionar uma nova arma ao game&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;plataformas-e-lançamento&quot;&gt;Plataformas e lançamento&lt;/h2&gt;
 &lt;p&gt;O game tem previsão de lançamento para 18 de agosto no &lt;a href=&quot;http://store.steampowered.com/app/382490/&quot;&gt;Steam&lt;/a&gt;. A primeira plataforma a receber o game será o Windows, todavia Mac e Linux estão nos planos da Rogue Snail, mas ainda sem previsão.&lt;/p&gt;
-
-&lt;h2 id=&quot;trailer-de-relic-hunters-zero&quot;&gt;Trailer de Relic Hunters Zero&lt;/h2&gt;
-&lt;center&gt;
-        &lt;iframe src=&quot;https://www.youtube.com/embed/SI5QTiWWGO4 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/center&gt;
 </content>
  </entry>
  
@@ -551,30 +482,6 @@ r feita pelos seus criadores que conquistou mais de US$ 500.000 para a produçã
 
 &lt;p&gt;Gostou? Quer concorrer a chaves gratuitas do game?
 &lt;strong&gt;&lt;a href=&quot;https://twitter.com/jogosdaqui&quot;&gt;Então siga o jogosdaqui no Twitter.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Master of Words</title>
-   <link href="//2013/05/20/master-of-words"/>
-   <updated>2013-05-20T00:00:00-03:00</updated>
-   <id>//2013/05/20/master-of-words</id>
-   <content type="html">&lt;p&gt;Deveria ter feito esse post sobre o &lt;a href=&quot;http://www.rockheadgames.com/&quot;&gt;Rockhead Games&lt;/a&gt;, na semana passada, mas quando comecei a jogá-lo, não parei mais e o post ficou pra hoje :)&lt;/p&gt;
-
-&lt;p&gt;O game é basicamente um caça-palavras com uma pequena combinação da mecânica de Tetris. Difícil dizer a razão de um game tão simples ter me cativado tanto. Talvez a resposta esteja na pergunta: a genialidade está na simplicidade.&lt;/p&gt;
-
-&lt;p&gt;Você recebe uma grade de letras e precisa montar alguma palavra com ela, quanto maior a palavra mais pontos ganha, além disso as letras que possuem uma estrela dão mais pontos e se você ainda fizer uma palavra utilizando uma linha ou coluna completa, mais pontos também.&lt;/p&gt;
-
-&lt;p&gt;O jogo conta com power-ups, como embaralhador, estrelas cadentes, salve a bandeja e descongelar tudo.
-Um pequeno easter egg: tente escrever um “palavrão” e veja o som que faz ;)&lt;/p&gt;
-
-&lt;p&gt;Master of Words é simples e muito bem acabado. Uma das coisas mais legais é que você sempre joga online contra diversas pessoas ao redor do mundo que estão na mesma sala e no final consegue ver em que posição ficou na rodada. Os rankings de todos os jogadores podem ser acompanhados também pelo site do game: &lt;a href=&quot;http://masterofwords.net/rankings/&quot;&gt;http://masterofwords.net/rankings/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Com todas as qualidades que tem e com seu grande fator de competição, graças ao multiplayer, Master of Words tem todo o potencial para ser um hit… talvez o próximo “DrawSomething”… o tempo dirá!&lt;/p&gt;
-
-&lt;p&gt;Master of Words está disponível gratuitamente para &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.rockhead.master_of_words&amp;amp;hl=en&quot;&gt;Android&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Rockhead promente para breve uma versão Windows Phone.&lt;/p&gt;
 </content>
  </entry>
  
