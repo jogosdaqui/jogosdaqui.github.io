@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>jogosdaqui - plataforma</title>
+ <link href="//tags/plataforma/index.xml" rel="self"/>
+ <link href="/tag/plataforma.html"/>
+ <updated>2018-11-29T17:42:42-02:00</updated>
+ <id>/tag/plataforma.html</id>
+ <author>
+   <name>jogosdaqui</name>
+ </author>
+ 
+ <entry>
+   <title>Trilha Ecológica</title>
+   <link href="//2018/11/29/trilha-ecologica"/>
+   <updated>2018-11-29T00:00:00-02:00</updated>
+   <id>//2018/11/29/trilha-ecologica</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.monsterbed.com.br/games/trilha-ecologica/&quot;&gt;Trilha Ecológica&lt;/a&gt; foi desenvolvido pela MonsterBed em parceria com a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), uma instituição pública de pesquisa vinculada ao Ministério da Agricultura.&lt;/p&gt;
+
+&lt;h2 id=&quot;público-alvo&quot;&gt;Público alvo&lt;/h2&gt;
+&lt;p&gt;O jogo, que tem como público alvo crianças de 8 a 12 anos, visa ensinar a importância da preservação da natureza. Isso acontece através de uma trilha ecológica da Embrapa, onde o jogador deverá percorrê-la aprendendo a importância de mantê-la limpa e conhecendo as árvores nativas que a compõe.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;É um jogo plataforma 3D com temática educacional, onde o jogador irá escolher entre 2 personagens: Teo ou Neila. Depois, viverá uma grande aventura pela trilha, recolhendo o lixo encontrado e enfrentando inimigos. No fim, terá que enfrentar o temível vilão de lixo para salvar seu amigo.&lt;/p&gt;
+
+&lt;p&gt;Você pode conferir o jogo diretamente do navegador: &lt;a href=&quot;http://pandora.cpamt.embrapa.br/jogo/webgl/simpleIndex.html&quot;&gt;http://pandora.cpamt.embrapa.br/jogo/webgl/simpleIndex.html&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

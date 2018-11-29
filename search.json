@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Trilha Ecológica",
+      "category" : "Game",
+      "tags"     : "monsterbed-game-studio, infantil, plataforma, press-release",
+      "url"      : "/2018/11/29/trilha-ecologica",
+      "date"     : "2018-11-29 00:00:00 -0200"
+    } ,
+  
+    {
       "title"    : "Lançamento de Horizon Chase Turbo para Nintendo Switch",
       "category" : "News",
       "tags"     : "aquiris-game-studio, nintendo, switch, corrida",
@@ -1931,7 +1939,7 @@
     {
       "title"    : "Entrevista: Tiago Moraes da Ovni Studios (parte 1)",
       "category" : "Interview",
-      "tags"     : "ios, devworks-game-technology, ovni-studios, sao-paulo, video, entrevista",
+      "tags"     : "ios, ovni-studios, sao-paulo, video, entrevista",
       "url"      : "/2011/02/09/entrevista-tiago-moraes-da-ovni-studios-parte-1",
       "date"     : "2011-02-09 00:00:00 -0200"
     } ,
@@ -2475,7 +2483,7 @@
     {
       "title"    : "Universo Games 2006",
       "category" : "Event",
-      "tags"     : "",
+      "tags"     : "evento",
       "url"      : "/2006/07/24/universo-games-2006",
       "date"     : "2006-07-24 00:00:00 -0300"
     } ,
@@ -2555,7 +2563,7 @@
     {
       "title"    : "The Clubber",
       "category" : "Game",
-      "tags"     : "devworks-game-technology",
+      "tags"     : "devworks-game-technology, mobile",
       "url"      : "/2006/06/27/the-clubber",
       "date"     : "2006-06-27 00:00:00 -0300"
     } ,
@@ -2691,7 +2699,7 @@
     {
       "title"    : "Jogos Completos de Baixo Orçamento, 18 projetos classificados",
       "category" : "News",
-      "tags"     : "devworks-game-technology, green-land-studios, jynx-playware, pernambuco, jogosbr, concurso, decadium-studios, imax-games",
+      "tags"     : "jogosbr, devworks-game-technology, green-land-studios, jynx-playware, pernambuco, jogosbr, concurso, decadium-studios, imax-games",
       "url"      : "/2006/06/02/jogos-completos-de-baixo-orcamento-18-projetos-classificados",
       "date"     : "2006-06-02 00:00:00 -0300"
     } ,
@@ -2739,7 +2747,7 @@
     {
       "title"    : "Pinogol 3D",
       "category" : "Game",
-      "tags"     : "devworks-game-technology, gametrack",
+      "tags"     : "devworks-game-technology, gametrack, futebol, esporte",
       "url"      : "/2006/05/27/pinogol-3d",
       "date"     : "2006-05-27 00:00:00 -0300"
     } ,
@@ -2803,7 +2811,7 @@
     {
       "title"    : "Lista de projetos do JogosBR 2005/2006",
       "category" : "News",
-      "tags"     : "devworks-game-technology, green-land-studios, jynx-playware, demo, jogosbr, decadium-studios, imax-games",
+      "tags"     : "jogosbr, devworks-game-technology, green-land-studios, jynx-playware, demo, jogosbr, decadium-studios, imax-games",
       "url"      : "/2006/05/22/lista-de-projetos-do-jogosbr-2005-2006",
       "date"     : "2006-05-22 00:00:00 -0300"
     } ,
@@ -3035,7 +3043,7 @@
     {
       "title"    : "Arco e Flecha",
       "category" : "Game",
-      "tags"     : "devworks-game-technology",
+      "tags"     : "devworks-game-technology, mobile",
       "url"      : "/2006/04/30/arco-e-flecha",
       "date"     : "2006-04-30 00:00:00 -0300"
     } ,
@@ -3090,7 +3098,7 @@
   
     {
       "title"    : "Prévia de Pinogol 3D",
-      "category" : "Preview",
+      "category" : "News",
       "tags"     : "devworks-game-technology, gametrack, previa",
       "url"      : "/2006/04/26/previa-de-pinogol-3d",
       "date"     : "2006-04-26 00:00:00 -0300"
@@ -3099,7 +3107,7 @@
     {
       "title"    : "Pinogol 3D",
       "category" : "Preview",
-      "tags"     : "devworks-game-technology, gametrack",
+      "tags"     : "devworks-game-technology, gametrack, esporte, futebol",
       "url"      : "/2006/04/26/pinogol-3d",
       "date"     : "2006-04-26 00:00:00 -0300"
     } ,
@@ -3243,7 +3251,7 @@
     {
       "title"    : "Lance Livre",
       "category" : "Game",
-      "tags"     : "devworks-game-technology",
+      "tags"     : "devworks-game-technology, mobile",
       "url"      : "/2006/04/08/lance-livre",
       "date"     : "2006-04-08 00:00:00 -0300"
     } ,
@@ -3467,7 +3475,7 @@
     {
       "title"    : "Truco",
       "category" : "Game",
-      "tags"     : "gametrack, devworks-game-technology",
+      "tags"     : "gametrack, devworks-game-technology, cartas",
       "url"      : "/2006/03/14/truco",
       "date"     : "2006-03-14 00:00:00 -0300"
     } ,
@@ -3555,7 +3563,7 @@
     {
       "title"    : "A Ponte",
       "category" : "Game",
-      "tags"     : "devworks-game-technology",
+      "tags"     : "devworks-game-technology, mobile",
       "url"      : "/2006/03/08/a-ponte",
       "date"     : "2006-03-08 00:00:00 -0300"
     } ,
@@ -3819,7 +3827,7 @@
     {
       "title"    : "Faroeste",
       "category" : "Game",
-      "tags"     : "devworks-game-technology",
+      "tags"     : "devworks-game-technology, mobile",
       "url"      : "/2006/02/03/faroeste",
       "date"     : "2006-02-03 00:00:00 -0200"
     } ,
@@ -3907,7 +3915,7 @@
     {
       "title"    : "Embaixadinha",
       "category" : "Game",
-      "tags"     : "devworks-game-technology",
+      "tags"     : "devworks-game-technology, mobile",
       "url"      : "/2006/01/26/embaixadinha",
       "date"     : "2006-01-26 00:00:00 -0200"
     } ,
@@ -4219,7 +4227,7 @@
     {
       "title"    : "Zôo",
       "category" : "Game",
-      "tags"     : "devworks-game-technology",
+      "tags"     : "devworks-game-technology, mobile",
       "url"      : "/2005/12/09/zoo",
       "date"     : "2005-12-09 00:00:00 -0200"
     } ,
