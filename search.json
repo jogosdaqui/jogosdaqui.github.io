@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Möira",
+      "category" : "Game",
+      "tags"     : "onagro-studios, plataforma, steam, windows, mac, linux, steam, press-release",
+      "url"      : "/2018/12/02/moira",
+      "date"     : "2018-12-02 00:00:00 -0200"
+    } ,
+  
+    {
       "title"    : "Laço Macanudo Gaúcho",
       "category" : "Game",
       "tags"     : "monsterbed-game-studio, press-release",
@@ -43,7 +51,7 @@
     {
       "title"    : "Games brasileiros de corrida",
       "category" : "News",
-      "tags"     : "corrida, locz-games, icon-games, perceptum, leandro-correia, mra, palmSoft-tecnologia, mdev, initia-tecnologia, meantime, lumen-technology, edward-multimídia, microways, odin-game-studio, division-five, aquiris-game-studio",
+      "tags"     : "corrida, locz-games, icon-games, perceptum, leandro-correia, mra, palmsoft-tecnologia, mdev, initia-tecnologia, meantime, lumen-technology, edward-multimídia, microways, odin-game-studio, division-five, aquiris-game-studio",
       "url"      : "/2018/11/25/games-brasileiros-de-corrida",
       "date"     : "2018-11-25 00:00:00 -0200"
     } ,
@@ -2883,7 +2891,7 @@
     {
       "title"    : "Tupã",
       "category" : "Game",
-      "tags"     : "lumen-technology",
+      "tags"     : "lumen-technology, mobile",
       "url"      : "/2006/05/16/tupa",
       "date"     : "2006-05-16 00:00:00 -0300"
     } ,
@@ -3835,7 +3843,7 @@
     {
       "title"    : "MDEV: jogos para celular",
       "category" : "News",
-      "tags"     : "MDEV",
+      "tags"     : "mdev",
       "url"      : "/2006/02/03/mdev-jogos-para-celular",
       "date"     : "2006-02-03 00:00:00 -0200"
     } ,
@@ -3886,14 +3894,6 @@
       "tags"     : "palmsoft-tecnologia",
       "url"      : "/2006/01/31/fencer-duel",
       "date"     : "2006-01-31 00:00:00 -0200"
-    } ,
-  
-    {
-      "title"    : "Tank Mission 3",
-      "category" : "Preview",
-      "tags"     : "palmsoft-tecnologia, mobile",
-      "url"      : "/2006/01/30/tank-mission-3",
-      "date"     : "2006-01-30 00:00:00 -0200"
     } ,
   
     {
@@ -4715,7 +4715,7 @@
     {
       "title"    : "Sudoku",
       "category" : "Game",
-      "tags"     : "puzzle",
+      "tags"     : "lumen-technology, puzzle",
       "url"      : "/2005/10/25/sudoku",
       "date"     : "2005-10-25 00:00:00 -0200"
     } ,
@@ -4747,7 +4747,7 @@
     {
       "title"    : "CUBi",
       "category" : "Game",
-      "tags"     : "lumen-technology",
+      "tags"     : "lumen-technology, mobile",
       "url"      : "/2005/10/24/cubi",
       "date"     : "2005-10-24 00:00:00 -0200"
     } ,

@@ -3,7 +3,7 @@
  <title>jogosdaqui - puzzle</title>
  <link href="//tags/puzzle/index.xml" rel="self"/>
  <link href="/tag/puzzle.html"/>
- <updated>2018-12-02T10:23:54-02:00</updated>
+ <updated>2018-12-02T12:40:20-02:00</updated>
  <id>/tag/puzzle.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -207,6 +207,10 @@
 &lt;p&gt;Em Fruzzle você é um simpático sapinho que deve pular sobre todos os pontos flutuantes existentes em um lago que somem assim que você o deixa, mas tem um problema: como todo sapo, ele não pula pra trás, então você tem que pensar bem antes de cada movimento. O sapinho pode pular somente para frente e para os lados.&lt;/p&gt;
 
 &lt;p&gt;O jogo possui mais de 50 fases, todas elas são geradas aleatoriamente, o que garante sempre uma fase diferente a cada tentativa.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/S4YXuWTq424 &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
 
 &lt;p&gt;Os gráficos 3D do jogo seguem o estilo de outro jogo da ICON Games, o Bola de Gude.&lt;/p&gt;
 
