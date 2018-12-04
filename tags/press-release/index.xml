@@ -3,11 +3,21 @@
  <title>jogosdaqui - press-release</title>
  <link href="//tags/press-release/index.xml" rel="self"/>
  <link href="/tag/press-release.html"/>
- <updated>2018-12-03T08:34:39-02:00</updated>
+ <updated>2018-12-04T07:27:21-02:00</updated>
  <id>/tag/press-release.html</id>
  <author>
    <name>jogosdaqui</name>
  </author>
+ 
+ <entry>
+   <title>Kart Farm</title>
+   <link href="//2018/12/04/kart-farm"/>
+   <updated>2018-12-04T00:00:00-02:00</updated>
+   <id>//2018/12/04/kart-farm</id>
+   <content type="html">&lt;p&gt;Um jogo de corrida de karts na fazenda desenvolvido para a Jogalo.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Cowboy vs Aliens vs Ninjas</title>
