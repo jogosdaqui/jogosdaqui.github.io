@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>jogosdaqui - arcade</title>
+ <link href="//tags/arcade/index.xml" rel="self"/>
+ <link href="/tag/arcade.html"/>
+ <updated>2018-12-09T10:12:45-02:00</updated>
+ <id>/tag/arcade.html</id>
+ <author>
+   <name>jogosdaqui</name>
+ </author>
+ 
+ <entry>
+   <title>Astromonkey: Hitball Arena</title>
+   <link href="//2018/12/09/astromonkey-hitball-arena"/>
+   <updated>2018-12-09T00:00:00-02:00</updated>
+   <id>//2018/12/09/astromonkey-hitball-arena</id>
+   <content type="html">&lt;p&gt;Astromonkey, um macaco astronauta foi enviado em uma missão de exploração espacial, mas acabou sendo sugado por um buraco negro e resgatado por alienígenas. Agora para voltar para casa, o nosso herói terá de vencer o torneio interestelar de Hitball Arena!&lt;/p&gt;
+
+&lt;p&gt;Venha explorar as criaturas e planetas da imensidão do espaço e ajude o nosso herói a voltar para casa!&lt;/p&gt;
+
+&lt;p&gt;Conheça mais do jogo na no &lt;a href=&quot;https://steamcommunity.com/sharedfiles/filedetails/?id=608504878&quot;&gt;Steam&lt;/a&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/JpW7PFCJv1E &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+</content>
+ </entry>
+ 
+</feed>
