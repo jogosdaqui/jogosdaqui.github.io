@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Magenta Arcade",
+      "category" : "Game",
+      "tags"     : "long-hat-house, tiro, android, press-release",
+      "url"      : "/2018/12/10/magenta-arcade",
+      "date"     : "2018-12-10 00:00:00 -0200"
+    } ,
+  
+    {
       "title"    : "Astromonkey: Hitball Arena",
       "category" : "Game",
       "tags"     : "monsterbed-game-studio, arcade, party-game, press-release",
