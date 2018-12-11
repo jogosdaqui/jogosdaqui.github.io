@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Ballistic Overkill",
+      "category" : "Game",
+      "tags"     : "aquiris-game-studio, fps, windows, mac, linux, press-release",
+      "url"      : "/2018/12/11/ballistic-overkill",
+      "date"     : "2018-12-11 00:00:00 -0200"
+    } ,
+  
+    {
       "title"    : "Magenta Arcade",
       "category" : "Game",
       "tags"     : "long-hat-house, tiro, android, press-release",
