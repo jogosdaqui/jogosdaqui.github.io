@@ -33,6 +33,7 @@
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -57,7 +58,7 @@
 <link rel="prev" href="https://jogosdaqui.github.io/35/index.html" />
 <link rel="next" href="https://jogosdaqui.github.io/37/index.html" />
 <script type="application/ld+json">
-{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","url":"https://jogosdaqui.github.io/36/","headline":"jogosdaqui","@context":"http://schema.org"}</script>
+{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","headline":"jogosdaqui","url":"https://jogosdaqui.github.io/36/","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,6 +93,27 @@
       <div class="content-container">
         <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/02/jogosbr-18-projetos-classificados">JogosBR, 18 projetos classificados</a></h1>
+
+    <div class="entry">
+    
+
+
+
+ 
+    
+    O JogosBR anunciou os 18 projetos classificados para o Concurso de Jogos Completos de Baixo Orçamento que atingiram as melhores médias.Agora a comissão julgadora selecionará as três melhores propostas, duas receberão o apoio financeiro e uma para a lista reserva.Veja a lista dos projetos classificados…
+
+
+    </div>
+
+    <a href="/2006/06/02/jogosbr-18-projetos-classificados" class="button">Leia mais</a>
+    </article>
 
     
     
@@ -157,6 +179,21 @@ Acesse o link e faça a sua escolha.
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/05/31/previa-de-cat-fighters">Prévia de Cat Fighters</a></h1>
@@ -179,21 +216,6 @@ Acesse o link e faça a sua escolha.
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -307,29 +329,6 @@ Acesse o link e faça a sua escolha.
     <a href="/2006/05/26/ronaldinho-total-control" class="button">Leia mais</a>
     </article>
 
-    
-    
-    <article class="post">
-
-    <h1><a href="/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas">Jogo da Sedução é sucesso de vendas</a></h1>
-
-    <div class="entry">
-    
-
-
-
- 
-    
-    Jogo da Sedução
-, jogo oficial do Reality Show do canal Band, foi lançado há pouco tempo, mas já é um sucesso de vendas segundo sua produtora. O jogo já lidera o ranking de mais vendidos da PalmSoft 
-no mês de maio.Leia mais…
-
-
-    </div>
-
-    <a href="/2006/05/26/jogo-da-seducao-e-sucesso-de-vendas" class="button">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -378,32 +377,25 @@ no mês de maio.Leia mais…
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

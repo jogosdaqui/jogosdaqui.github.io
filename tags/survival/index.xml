@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>jogosdaqui - survival</title>
+ <link href="//tags/survival/index.xml" rel="self"/>
+ <link href="/tag/survival.html"/>
+ <updated>2018-12-12T09:28:01-02:00</updated>
+ <id>/tag/survival.html</id>
+ <author>
+   <name>jogosdaqui</name>
+ </author>
+ 
+ <entry>
+   <title>Tiny butterflies e Skeletons Go Through Walls</title>
+   <link href="//2013/04/22/tiny-butterflies-e-skeletons-go-through-walls"/>
+   <updated>2013-04-22T00:00:00-03:00</updated>
+   <id>//2013/04/22/tiny-butterflies-e-skeletons-go-through-walls</id>
+   <content type="html">&lt;p&gt;Apresento dois games do desenvolvedor independente Paulo Candolo Nogueira que já trabalha há um bom tempo com desenvolvimento de jogos e está se aventurando no mercado indie.&lt;/p&gt;
+
+&lt;p&gt;Os jogos em questão são:Tiny butterflies e Skeletons Go Through Walls, que pelo nome podemos perceber que são games bem diferentes, sendo o primeiro um action puzzle e o segundo um game estilo survival horror.&lt;/p&gt;
+
+&lt;p&gt;Os dois estão disponíveis para as plataformas iOS e Android:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tiny butterflies: 
+** &lt;a href=&quot;https://itunes.apple.com/us/app/tiny-butterflies/id596548839?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;iOS&lt;/a&gt;
+** &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.paulonogueira.tinybutterflies&quot;&gt;Android&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Skeletons Go Through Walls: 
+** &lt;a href=&quot;https://itunes.apple.com/us/app/skeletons-go-through-walls/id587501420?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;iOS&lt;/a&gt;
+** &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.paulonogueira.skeletonsatoffice&quot;&gt;Android&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+</feed>

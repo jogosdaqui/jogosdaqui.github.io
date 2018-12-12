@@ -33,6 +33,7 @@
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -57,7 +58,7 @@
 <link rel="prev" href="https://jogosdaqui.github.io/51/index.html" />
 <link rel="next" href="https://jogosdaqui.github.io/53/index.html" />
 <script type="application/ld+json">
-{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","url":"https://jogosdaqui.github.io/52/","headline":"jogosdaqui","@context":"http://schema.org"}</script>
+{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","headline":"jogosdaqui","url":"https://jogosdaqui.github.io/52/","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,6 +93,25 @@
       <div class="content-container">
         <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft">Prévia de Fighters of Caribbean da PalmSoft</a></h1>
+
+    <div class="entry">
+    
+
+
+
+ 
+    
+    Você já pensou em ir ao Caribe para lutar por tesouros? É isso que os piratas de Fighters of Caribbean, jogo em desenvolvimento pela PalmSoft Tecnologia , irão fazer na tela do seu celular. Tesouros, piratas, lutas e muito mais é o que podemos aguardar deste jogo de luta no...
+    </div>
+
+    <a href="/2006/01/20/previa-de-fighters-of-caribbean-da-palmsoft" class="button">Leia mais</a>
+    </article>
 
     
     
@@ -160,6 +180,21 @@
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/01/12/jet-thunder">Jet Thunder</a></h1>
@@ -186,21 +221,6 @@
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -314,33 +334,6 @@ Feliz 2006
     <a href="/2006/01/02/feliz-2006" class="button">Leia mais</a>
     </article>
 
-    
-    
-    <article class="post">
-
-    <h1><a href="/2005/12/26/volei-de-praia">Vôlei de Praia</a></h1>
-
-    <div class="entry">
-    
-
-
-
-
-  
-    <center>
-   
-    <img src="/assets/2005/12/26/volei-de-praia/logo.jpg" style="max-height: 200px;max-width: 100%;"/> 
-  
-    </center>
-   
- 
-    
-    Vôlei de praia é um dos esportes mais jogados no verão e não podia ser diferente no portal Gametrack. Vôlei de Praia faz o maior sucesso entre os jogadores do portal. O jogo possui basicamente as mesmas regras do jogo real, exceto por pequenas diferenças: existe apenas um jogador de...
-    </div>
-
-    <a href="/2005/12/26/volei-de-praia" class="button">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -389,32 +382,25 @@ Feliz 2006
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

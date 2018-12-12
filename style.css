@@ -843,6 +843,15 @@ code {
   padding: 16px 9px;
 }
 
+#search-button {
+  padding: 0;
+  float: right;
+  position: absolute;
+  margin-left: 10px;
+  height: 35px;
+  width: 35px;
+}
+
 #results-container {
   background: white;
   z-index: 99999999;

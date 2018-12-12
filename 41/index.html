@@ -33,6 +33,7 @@
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -57,7 +58,7 @@
 <link rel="prev" href="https://jogosdaqui.github.io/40/index.html" />
 <link rel="next" href="https://jogosdaqui.github.io/42/index.html" />
 <script type="application/ld+json">
-{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","url":"https://jogosdaqui.github.io/41/","headline":"jogosdaqui","@context":"http://schema.org"}</script>
+{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","headline":"jogosdaqui","url":"https://jogosdaqui.github.io/41/","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,6 +93,25 @@
       <div class="content-container">
         <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/04/27/icon-games-ganha-premio-no-exterior">ICON Games ganha prêmio no exterior</a></h1>
+
+    <div class="entry">
+    
+
+
+
+ 
+    
+    O jogo Bola de Gude, da ICON Games, recebeu o prêmio de “Jogo mais Original” do site Bytten, especializado em jogos independentes. Segundo o site, Virtual Marbles, como é conhecido o jogo no exterior, demonstra que um jogo de bola de gude para PC pode ser uma ótima idéia. Confira...
+    </div>
+
+    <a href="/2006/04/27/icon-games-ganha-premio-no-exterior" class="button">Leia mais</a>
+    </article>
 
     
     
@@ -166,6 +186,21 @@ Veja a prévia…
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/04/22/o-melhor-da-formula-1">O melhor da Fórmula 1</a></h1>
@@ -184,21 +219,6 @@ Veja a prévia…
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -309,25 +329,6 @@ Veja a prévia…
     <a href="/2006/04/18/transit-brasil" class="button">Leia mais</a>
     </article>
 
-    
-    
-    <article class="post">
-
-    <h1><a href="/2006/04/14/newsabragames-abril-2006">NewsAbragames - Abril/2006</a></h1>
-
-    <div class="entry">
-    
-
-
-
- 
-    
-    No ar a última edição da NewsAbragames (newsletter mensal da Abragames - Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos). A edição de abril conta com a review do jogo de palavras cruzadas Coquetel da Délirus, os destaques da mídia no mês de março, a agenda de eventos sobre jogos para...
-    </div>
-
-    <a href="/2006/04/14/newsabragames-abril-2006" class="button">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -376,32 +377,25 @@ Veja a prévia…
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

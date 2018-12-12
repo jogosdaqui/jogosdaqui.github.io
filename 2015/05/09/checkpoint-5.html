@@ -147,6 +147,7 @@ O game Distorções ganha novos vídeos demonstrando alguns elementos de seu gam
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -172,7 +173,7 @@ O game Distorções ganha novos vídeos demonstrando alguns elementos de seu gam
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-05-09T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2015-05-09T00:00:00-03:00","description":"#1 A Icon Games comemorando a marca de 180.000 downloads de seu game Escape from Alcatraz #2 A Swordtales produziu uma bela versão em português do trailer de lançamento de Toren #3 TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma Greenlight #4 O famoso YouTuber Zangado conferindo o game Toren da SwordTales #5 A brasileira QUByte Interactive fecha parceria com a Australiana Commotion Games e revela o game Recruits - Make heroes. Make History #6 Diversos gamedevs brasileiros marcaram presença no evento da Unreal Engine, como o pessoal da Garage 227 #7 O jogosdaqui fechou parceria com o canal do YouTube Insert Coins e dessa parceria surgiu a coluna Insert Coins no jogosdaqui. O primeiro vídeo da parceria é um gameplay do game brasileiro Gryphon Knight Epic #8 Chroma Squad chega na Humble Store #9 A Splitplay, loja de game indies brasileiros, completa 1 ano de vida #10 Artigo no Playstation blog sobre o Toren #11 O jogosdaqui selecionou algumas fan arts do game Chroma Squad #12 No momento deste artigo, Chroma Squad pontuava 77 no metascore e 9.2 no user score do Metacritic. E você já deu seu voto? #13 O game Distorções ganha novos vídeos demonstrando alguns elementos de seu gameplay","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/05/09/checkpoint-5"},"url":"https://jogosdaqui.github.io/2015/05/09/checkpoint-5","author":{"@type":"Person","name":"Diego Giacomelli"},"headline":"Checkpoint #5","dateModified":"2015-05-09T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"#1 A Icon Games comemorando a marca de 180.000 downloads de seu game Escape from Alcatraz #2 A Swordtales produziu uma bela versão em português do trailer de lançamento de Toren #3 TurboLink, game da brasileira Division Five, recebeu a luz verde na plataforma Greenlight #4 O famoso YouTuber Zangado conferindo o game Toren da SwordTales #5 A brasileira QUByte Interactive fecha parceria com a Australiana Commotion Games e revela o game Recruits - Make heroes. Make History #6 Diversos gamedevs brasileiros marcaram presença no evento da Unreal Engine, como o pessoal da Garage 227 #7 O jogosdaqui fechou parceria com o canal do YouTube Insert Coins e dessa parceria surgiu a coluna Insert Coins no jogosdaqui. O primeiro vídeo da parceria é um gameplay do game brasileiro Gryphon Knight Epic #8 Chroma Squad chega na Humble Store #9 A Splitplay, loja de game indies brasileiros, completa 1 ano de vida #10 Artigo no Playstation blog sobre o Toren #11 O jogosdaqui selecionou algumas fan arts do game Chroma Squad #12 No momento deste artigo, Chroma Squad pontuava 77 no metascore e 9.2 no user score do Metacritic. E você já deu seu voto? #13 O game Distorções ganha novos vídeos demonstrando alguns elementos de seu gameplay","@type":"BlogPosting","headline":"Checkpoint #5","dateModified":"2015-05-09T00:00:00-03:00","datePublished":"2015-05-09T00:00:00-03:00","url":"https://jogosdaqui.github.io/2015/05/09/checkpoint-5","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/05/09/checkpoint-5"},"author":{"@type":"Person","name":"Diego Giacomelli"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -388,32 +389,25 @@ O game Distorções ganha novos vídeos demonstrando alguns elementos de seu gam
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

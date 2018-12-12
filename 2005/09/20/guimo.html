@@ -57,6 +57,7 @@ Esta entidade conhecida como Necterion, após ter conquistado Bitland com seu ex
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -81,7 +82,7 @@ Esta entidade conhecida como Necterion, após ter conquistado Bitland com seu ex
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-09-20T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2005-09-20T00:00:00-03:00","description":"Durante o seu primeiro ano de atividade, a Southlogic Studios produziu um jogo de tiro 2D de plataformas chamado Guimo. Ele foi publicado no Brasil e na Europa em 1997. No sistema de Paithon, um grupo de seres que dão forma a uma civilização pacífica vive em um universo paralelo ao nosso, o Beta-Universo. Muitos destes beta-habitantes são conhecidos por todos os terrestres como os personagens bons e maus dos jogos eletrônicos. A única maneira dos seres humanos entrarem em contato com estes habitantes é através de uma partida destes games. Entretanto, algo terrível ocorreu em Bitland, mundo paralelo da Terra: Os beta-habitantes parecem serem julgados à extinção, trazendo o caos e fundindo a harmonia entre ambos os mundos. De acordo com as últimas informações fornecidas pelas sentinelas, uma entidade violou as leis elementares atravessando o ponto dimensional entre ambos os universos, trazendo o grande risco de um paradoxo existencial com consequências desconhecidas na Terra e no seu planeta-irmão Bitland. Esta entidade conhecida como Necterion, após ter conquistado Bitland com seu exército, declarou que pretende a destruição do universo humano, adquirindo assim, bastante energia para dominar cada mente existente. Mas existe ainda um herói que possa enfrentar Necterion e restaurar a paz: Guimo! Destemido sentinela galáctico e garoto lagarto equipado com o mais incrível dos arsenais e acompanhado pelos seus amigos, os Eggy Robots, Guimo vai detonar em meio a cambadas de inimigos em busca de uma solução. Mas o perigo em torno de nós ainda continua, e para vencer Necterion as forças de ambos os mundos-irmão são necessárias, assim… Junte-se ao Guimo!","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2005/09/20/guimo"},"url":"https://jogosdaqui.github.io/2005/09/20/guimo","headline":"Guimo","dateModified":"2005-09-20T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"Durante o seu primeiro ano de atividade, a Southlogic Studios produziu um jogo de tiro 2D de plataformas chamado Guimo. Ele foi publicado no Brasil e na Europa em 1997. No sistema de Paithon, um grupo de seres que dão forma a uma civilização pacífica vive em um universo paralelo ao nosso, o Beta-Universo. Muitos destes beta-habitantes são conhecidos por todos os terrestres como os personagens bons e maus dos jogos eletrônicos. A única maneira dos seres humanos entrarem em contato com estes habitantes é através de uma partida destes games. Entretanto, algo terrível ocorreu em Bitland, mundo paralelo da Terra: Os beta-habitantes parecem serem julgados à extinção, trazendo o caos e fundindo a harmonia entre ambos os mundos. De acordo com as últimas informações fornecidas pelas sentinelas, uma entidade violou as leis elementares atravessando o ponto dimensional entre ambos os universos, trazendo o grande risco de um paradoxo existencial com consequências desconhecidas na Terra e no seu planeta-irmão Bitland. Esta entidade conhecida como Necterion, após ter conquistado Bitland com seu exército, declarou que pretende a destruição do universo humano, adquirindo assim, bastante energia para dominar cada mente existente. Mas existe ainda um herói que possa enfrentar Necterion e restaurar a paz: Guimo! Destemido sentinela galáctico e garoto lagarto equipado com o mais incrível dos arsenais e acompanhado pelos seus amigos, os Eggy Robots, Guimo vai detonar em meio a cambadas de inimigos em busca de uma solução. Mas o perigo em torno de nós ainda continua, e para vencer Necterion as forças de ambos os mundos-irmão são necessárias, assim… Junte-se ao Guimo!","@type":"BlogPosting","headline":"Guimo","dateModified":"2005-09-20T00:00:00-03:00","datePublished":"2005-09-20T00:00:00-03:00","url":"https://jogosdaqui.github.io/2005/09/20/guimo","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2005/09/20/guimo"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -154,7 +155,7 @@ Esta entidade conhecida como Necterion, após ter conquistado Bitland com seu ex
 
 
 
-    <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo</div>
+    <div class="post-info"><i class='fas fa-gamepad'></i> Jogo</div>
 
       
        
@@ -291,32 +292,25 @@ Esta entidade conhecida como Necterion, após ter conquistado Bitland com seu ex
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

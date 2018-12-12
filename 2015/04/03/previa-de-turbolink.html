@@ -81,6 +81,7 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -106,7 +107,7 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-04-03T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2015-04-03T00:00:00-03:00","description":"A equipe de desenvolvimento da Division Five entrou em contato conosco via Twitter falando sobre o game que estão desenvolvendo: TurboLink. Conhecer TurboLink foi uma grata surpresa, pois, apesar de ainda não termos posto as mãos no game, o vídeo e as imagens que temos dele já mostram que é uma boa promessa para os amantes de games de corrida a lá Rock &amp; Roll Racing. A história acontece num futuro distópico onde a Terra foi abandonada e agora serve apenas como palco dos torneios de TurboLeague realizados em Sky Cities que pairam sobre a Terra. Pode ser jogado singleplayer, o que já deve ser bem divertido, mas pelas imagens do vídeo, a grande diversão está no multiplayer. Além de tentar pilotar o mais rápido possível, o jogador pode escolher entre diferentes tipos de itens para alterar a história da corrida, como erguer pontes, armas e teleporte. No dia dia 13 de abril o game estará na plataforma de votação da SquareEnix, a Collective. Se o game conseguir votos suficientes, poderá ir para o Kickstarter com o selo de aprovação Collective. TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o lançamento não chega, confira o vídeo abaixo:","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/04/03/previa-de-turbolink"},"url":"https://jogosdaqui.github.io/2015/04/03/previa-de-turbolink","author":{"@type":"Person","name":"Diego Giacomelli"},"headline":"Prévia de TurboLink","dateModified":"2015-04-03T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"A equipe de desenvolvimento da Division Five entrou em contato conosco via Twitter falando sobre o game que estão desenvolvendo: TurboLink. Conhecer TurboLink foi uma grata surpresa, pois, apesar de ainda não termos posto as mãos no game, o vídeo e as imagens que temos dele já mostram que é uma boa promessa para os amantes de games de corrida a lá Rock &amp; Roll Racing. A história acontece num futuro distópico onde a Terra foi abandonada e agora serve apenas como palco dos torneios de TurboLeague realizados em Sky Cities que pairam sobre a Terra. Pode ser jogado singleplayer, o que já deve ser bem divertido, mas pelas imagens do vídeo, a grande diversão está no multiplayer. Além de tentar pilotar o mais rápido possível, o jogador pode escolher entre diferentes tipos de itens para alterar a história da corrida, como erguer pontes, armas e teleporte. No dia dia 13 de abril o game estará na plataforma de votação da SquareEnix, a Collective. Se o game conseguir votos suficientes, poderá ir para o Kickstarter com o selo de aprovação Collective. TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o lançamento não chega, confira o vídeo abaixo:","@type":"BlogPosting","headline":"Prévia de TurboLink","dateModified":"2015-04-03T00:00:00-03:00","datePublished":"2015-04-03T00:00:00-03:00","url":"https://jogosdaqui.github.io/2015/04/03/previa-de-turbolink","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/04/03/previa-de-turbolink"},"author":{"@type":"Person","name":"Diego Giacomelli"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -171,7 +172,7 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
 
 
 
-    <div class="post-info"><i class="fas fa-eye"></i>  Prévia do jogo em desenvolvido por Division Five</div>
+    <div class="post-info"><i class='fas fa-eye'></i> Prévia do jogo em desenvolvido por Division Five</div>
 
       
       
@@ -348,32 +349,25 @@ TurboLink tem previsão de lançamento para 4º Trimestre de 2015. Enquanto o la
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

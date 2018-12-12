@@ -72,6 +72,7 @@ Para celulares e tablets, o game pode está disponível na App Store e no Google
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -97,7 +98,7 @@ Para celulares e tablets, o game pode está disponível na App Store e no Google
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-10-22T00:00:00-02:00" />
 <script type="application/ld+json">
-{"datePublished":"2015-10-22T00:00:00-02:00","description":"Que tal misturar um pouco da jogabilidade de Streets Of Rage e Final Fight, adicionando a jogabilidade de beat ‘em up 3D de games como Fighting Force (PS1 e N64)? E se os lutadores forem mutantes humanoides com cabeça de cachorro num mundo após uma guerra nuclear? Essa é a proposta de War Dogs, game da Pixtoy, de Vitória, Espírito Santo. War Dogs O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull red-nose mutante que cresceu no subúrbio e teve que aprender cedo a lutar para se defender. War Dogs mescla os esportes de impacto com a jogabilidade clássica de um beat’em up em que é preciso percorrer os cenários lutando contra diversos inimigos em combates corpo a corpo (explica Felipe Lomeu, diretor da Pixtoy) Segundo a Pixtoy, o jogo é ambientado em um planeta reconstruído após uma guerra nuclear que dizimou a raça humana quase que completamente. Os que sobreviveram sofreram mutações e, no ano de 2116, os únicos habitantes são os Mastiffs, humanoides com cabeça de cachorro, grande força e inteligência, que são os principais responsáveis pela reconstrução do mundo; e os Hound Wars, uma nova raça de cyborgs com inteligência humana e poder físico canino e robótico, que podem ter braços biônicos e implantes pelo corpo. Plataformas Para celulares e tablets, o game pode está disponível na App Store e no Google Play.","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/10/22/war-dogs"},"url":"https://jogosdaqui.github.io/2015/10/22/war-dogs","author":{"@type":"Person","name":"Diego Giacomelli"},"headline":"War Dogs","dateModified":"2015-10-22T00:00:00-02:00","@context":"http://schema.org"}</script>
+{"description":"Que tal misturar um pouco da jogabilidade de Streets Of Rage e Final Fight, adicionando a jogabilidade de beat ‘em up 3D de games como Fighting Force (PS1 e N64)? E se os lutadores forem mutantes humanoides com cabeça de cachorro num mundo após uma guerra nuclear? Essa é a proposta de War Dogs, game da Pixtoy, de Vitória, Espírito Santo. War Dogs O game foi lançado na BGS deste ano, nele o jogador controla Red, um Pitbull red-nose mutante que cresceu no subúrbio e teve que aprender cedo a lutar para se defender. War Dogs mescla os esportes de impacto com a jogabilidade clássica de um beat’em up em que é preciso percorrer os cenários lutando contra diversos inimigos em combates corpo a corpo (explica Felipe Lomeu, diretor da Pixtoy) Segundo a Pixtoy, o jogo é ambientado em um planeta reconstruído após uma guerra nuclear que dizimou a raça humana quase que completamente. Os que sobreviveram sofreram mutações e, no ano de 2116, os únicos habitantes são os Mastiffs, humanoides com cabeça de cachorro, grande força e inteligência, que são os principais responsáveis pela reconstrução do mundo; e os Hound Wars, uma nova raça de cyborgs com inteligência humana e poder físico canino e robótico, que podem ter braços biônicos e implantes pelo corpo. Plataformas Para celulares e tablets, o game pode está disponível na App Store e no Google Play.","@type":"BlogPosting","headline":"War Dogs","dateModified":"2015-10-22T00:00:00-02:00","datePublished":"2015-10-22T00:00:00-02:00","url":"https://jogosdaqui.github.io/2015/10/22/war-dogs","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/10/22/war-dogs"},"author":{"@type":"Person","name":"Diego Giacomelli"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -170,7 +171,7 @@ Para celulares e tablets, o game pode está disponível na App Store e no Google
 
 
 
-    <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Pixtoy</div>
+    <div class="post-info"><i class='fas fa-gamepad'></i> Jogo desenvolvido por Pixtoy</div>
 
       
       
@@ -318,32 +319,25 @@ Para celulares e tablets, o game pode está disponível na App Store e no Google
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

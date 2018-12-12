@@ -57,6 +57,7 @@ Confira aqui dicas para zerar A Vítima de Ouro
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -81,7 +82,7 @@ Confira aqui dicas para zerar A Vítima de Ouro
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-03-23T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2015-03-23T00:00:00-03:00","description":"Com saudades daqueles bons momentos jogando clássicos point and click como The Dig, Full Throttle e Day of Tentacle? O game brasileiro A Vítima de Ouro da Little Leds é uma boa pedida para viver novos momentos como aqueles. Na pele da jovem Elisabeth Fleur você terá que investigar o assassinato do milionário Julius Absolom. Confira aqui dicas para zerar A Vítima de Ouro .","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/03/23/a-vitima-de-ouro"},"url":"https://jogosdaqui.github.io/2015/03/23/a-vitima-de-ouro","headline":"A Vítima de Ouro","dateModified":"2015-03-23T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"Com saudades daqueles bons momentos jogando clássicos point and click como The Dig, Full Throttle e Day of Tentacle? O game brasileiro A Vítima de Ouro da Little Leds é uma boa pedida para viver novos momentos como aqueles. Na pele da jovem Elisabeth Fleur você terá que investigar o assassinato do milionário Julius Absolom. Confira aqui dicas para zerar A Vítima de Ouro .","@type":"BlogPosting","headline":"A Vítima de Ouro","dateModified":"2015-03-23T00:00:00-03:00","datePublished":"2015-03-23T00:00:00-03:00","url":"https://jogosdaqui.github.io/2015/03/23/a-vitima-de-ouro","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/03/23/a-vitima-de-ouro"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -146,7 +147,7 @@ Confira aqui dicas para zerar A Vítima de Ouro
 
 
 
-    <div class="post-info"><i class="fas fa-newspaper"></i>  Notícia</div>
+    <div class="post-info"><i class='fas fa-newspaper'></i> Notícia</div>
 
       
        
@@ -289,32 +290,25 @@ Confira aqui dicas para zerar A Vítima de Ouro
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

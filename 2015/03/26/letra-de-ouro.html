@@ -78,6 +78,7 @@ O jogo tem um visual caprichado e é diversão certa para quem curte caça palav
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -103,7 +104,7 @@ O jogo tem um visual caprichado e é diversão certa para quem curte caça palav
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-03-26T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2015-03-26T00:00:00-03:00","description":"Quem nunca jogou um caça palavras que atire a primeira letra! Sabendo disso a startup gaúcha Cupcake Sweet Entertainment, composta apenas por quatro integrantes, criou o game casual Letra de Ouro. O jogo está disponível para Facebook e Android , entretanto versões para iPhone e iPad estão no roadmap da Cupcake. Mesmo utilizando os recursos tecnológicos existentes nessas plataformas, Letra de ouro não perde a essência do jogo clássico de lápis e papel. Atualmente o game possui mais de 200 mil jogadores, número que aumenta a cada dia. Segundo os desenvolvedores 90% dos jogadores são mulheres, mostrando a mesma tendência de público do jogo clássico. O jogador poderá escolher entre um dicionário completo de português ou espanhol para o desafio, além disso você pode desafiar seus amigos e ver quem tem a melhor pontuação. O jogo tem um visual caprichado e é diversão certa para quem curte caça palavras e uma disputa entre amigos.","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/03/26/letra-de-ouro"},"url":"https://jogosdaqui.github.io/2015/03/26/letra-de-ouro","author":{"@type":"Person","name":"Diego Giacomelli"},"headline":"Letra de Ouro","dateModified":"2015-03-26T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"Quem nunca jogou um caça palavras que atire a primeira letra! Sabendo disso a startup gaúcha Cupcake Sweet Entertainment, composta apenas por quatro integrantes, criou o game casual Letra de Ouro. O jogo está disponível para Facebook e Android , entretanto versões para iPhone e iPad estão no roadmap da Cupcake. Mesmo utilizando os recursos tecnológicos existentes nessas plataformas, Letra de ouro não perde a essência do jogo clássico de lápis e papel. Atualmente o game possui mais de 200 mil jogadores, número que aumenta a cada dia. Segundo os desenvolvedores 90% dos jogadores são mulheres, mostrando a mesma tendência de público do jogo clássico. O jogador poderá escolher entre um dicionário completo de português ou espanhol para o desafio, além disso você pode desafiar seus amigos e ver quem tem a melhor pontuação. O jogo tem um visual caprichado e é diversão certa para quem curte caça palavras e uma disputa entre amigos.","@type":"BlogPosting","headline":"Letra de Ouro","dateModified":"2015-03-26T00:00:00-03:00","datePublished":"2015-03-26T00:00:00-03:00","url":"https://jogosdaqui.github.io/2015/03/26/letra-de-ouro","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/03/26/letra-de-ouro"},"author":{"@type":"Person","name":"Diego Giacomelli"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -176,7 +177,7 @@ O jogo tem um visual caprichado e é diversão certa para quem curte caça palav
 
 
 
-    <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Cupcake Sweet Entertainment</div>
+    <div class="post-info"><i class='fas fa-gamepad'></i> Jogo desenvolvido por Cupcake Sweet Entertainment</div>
 
       
       
@@ -320,32 +321,25 @@ O jogo tem um visual caprichado e é diversão certa para quem curte caça palav
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

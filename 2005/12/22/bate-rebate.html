@@ -63,6 +63,7 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -87,7 +88,7 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-12-22T00:00:00-02:00" />
 <script type="application/ld+json">
-{"datePublished":"2005-12-22T00:00:00-02:00","description":"Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D. Utilizando das muitas possibilidades que as novas dimensões trazem ao jogo, o estilo Arkanoid ganha um novo fôlego e inúmeras novas combinações para a jogabilidade, um exemplo disto são as fases onde vários blocos estão empilhados, algo impossível em jogos 2D do mesmo estilo. Mas gráfico não é tudo e a Green Land Studios sabe muito bem disso, pois criou mais de 50 fases com vários bônus que possibilitam muitos poderes a nave rebatedora, aliás o jogo tem 3 naves rebatedoras diferentes a sua escolha. Os poderes variam de esferas mais lentas até armas para equipar a sua nave para destruir os blocos mais rapidamente. Bate-Rebate é diversão garantida para os fãs do estilo Arkanoid. Para jogar Bate-Rebate basta acessar o portal SBT Diversão .","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2005/12/22/bate-rebate"},"url":"https://jogosdaqui.github.io/2005/12/22/bate-rebate","headline":"Bate-Rebate","dateModified":"2005-12-22T00:00:00-02:00","@context":"http://schema.org"}</script>
+{"description":"Bate-Rebate tem o melhor do estilo dos clássicos Arkanoid e Breakout, mas com um grande diferencial nos gráficos que são totalmente 3D. Utilizando das muitas possibilidades que as novas dimensões trazem ao jogo, o estilo Arkanoid ganha um novo fôlego e inúmeras novas combinações para a jogabilidade, um exemplo disto são as fases onde vários blocos estão empilhados, algo impossível em jogos 2D do mesmo estilo. Mas gráfico não é tudo e a Green Land Studios sabe muito bem disso, pois criou mais de 50 fases com vários bônus que possibilitam muitos poderes a nave rebatedora, aliás o jogo tem 3 naves rebatedoras diferentes a sua escolha. Os poderes variam de esferas mais lentas até armas para equipar a sua nave para destruir os blocos mais rapidamente. Bate-Rebate é diversão garantida para os fãs do estilo Arkanoid. Para jogar Bate-Rebate basta acessar o portal SBT Diversão .","@type":"BlogPosting","headline":"Bate-Rebate","dateModified":"2005-12-22T00:00:00-02:00","datePublished":"2005-12-22T00:00:00-02:00","url":"https://jogosdaqui.github.io/2005/12/22/bate-rebate","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2005/12/22/bate-rebate"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -160,7 +161,7 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
 
 
 
-    <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo</div>
+    <div class="post-info"><i class='fas fa-gamepad'></i> Jogo</div>
 
       
        
@@ -333,32 +334,25 @@ Para jogar Bate-Rebate basta acessar o portal SBT Diversão
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

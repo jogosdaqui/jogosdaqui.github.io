@@ -36,6 +36,7 @@
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -60,7 +61,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2006-09-12T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2006-09-12T00:00:00-03:00","description":"Thoroughbred Tycoon é um jogo de criação e corrida de cavalos.No jogo você é o dono de cavalos virtuais, e tem que cuidar de todas as etapas para ter um bom animal.Você irá comandar o treinamento dos cavalos, escolher o melhor tipo de alimentação, de descanso, e depois colocar seus cavalos a prova; nas corridas nos hipódromos do jogo.O jogo apresenta diferentes modos de treinamento, corridas competitivas, e cavalos com personalidade. Visão em 3a pessoa, e liberdade total de câmera.CavalosOs cavalos são a grande atração do jogo. Eles possuem várias habilidades que influenciam diretamente na sua velocidade, mas principalmente possuem uma personalidade própria. Os cavalos demonstram seu gosto em relação a tipos de comidas, e eles também decidem aonde querem descansar. Você vai se relacionar com o cavalo, atendendo as vontades dele ou não.Se você tiver um bom relacionamento com o animal, pode esperar um cavalo que lhe siga, peça para cavalgar. Se o cavalo não gostar de você certamente ele não irá querer você nem por perto.Além dos treinamentos, você pode interagir com seu cavalo, acariciando, conversando e até lhe dando comida na boca. Gostar de você é uma coisa que só o cavalo irá decidir; e você irá perceber. CorridasO jogo apresenta dois hipódromos, onde quatro tipos de corrida acontecem. Você treina seus cavalos em uma das três fazendas do jogo, e então participa das corridas agendadas.Correndo você encontra sempre páreos com cavalos nivelados ao seu, de acordo com o nível de dificuldade. Você pode alugar um jóquei para as corridas, ou então comandar seu cavalo durante a competição.Além das habilidades do cavalo, o uso do chicote é um dos fatores determinantes nas corridas. O chicote lhe dá uma velocidade maior, mas também aumenta o stress do seu cavalo, o que inclusive pode lhe causar alguns tombos.","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2006/09/12/thoroughbred-tycoon"},"url":"https://jogosdaqui.github.io/2006/09/12/thoroughbred-tycoon","headline":"Thoroughbred Tycoon","dateModified":"2006-09-12T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"Thoroughbred Tycoon é um jogo de criação e corrida de cavalos.No jogo você é o dono de cavalos virtuais, e tem que cuidar de todas as etapas para ter um bom animal.Você irá comandar o treinamento dos cavalos, escolher o melhor tipo de alimentação, de descanso, e depois colocar seus cavalos a prova; nas corridas nos hipódromos do jogo.O jogo apresenta diferentes modos de treinamento, corridas competitivas, e cavalos com personalidade. Visão em 3a pessoa, e liberdade total de câmera.CavalosOs cavalos são a grande atração do jogo. Eles possuem várias habilidades que influenciam diretamente na sua velocidade, mas principalmente possuem uma personalidade própria. Os cavalos demonstram seu gosto em relação a tipos de comidas, e eles também decidem aonde querem descansar. Você vai se relacionar com o cavalo, atendendo as vontades dele ou não.Se você tiver um bom relacionamento com o animal, pode esperar um cavalo que lhe siga, peça para cavalgar. Se o cavalo não gostar de você certamente ele não irá querer você nem por perto.Além dos treinamentos, você pode interagir com seu cavalo, acariciando, conversando e até lhe dando comida na boca. Gostar de você é uma coisa que só o cavalo irá decidir; e você irá perceber. CorridasO jogo apresenta dois hipódromos, onde quatro tipos de corrida acontecem. Você treina seus cavalos em uma das três fazendas do jogo, e então participa das corridas agendadas.Correndo você encontra sempre páreos com cavalos nivelados ao seu, de acordo com o nível de dificuldade. Você pode alugar um jóquei para as corridas, ou então comandar seu cavalo durante a competição.Além das habilidades do cavalo, o uso do chicote é um dos fatores determinantes nas corridas. O chicote lhe dá uma velocidade maior, mas também aumenta o stress do seu cavalo, o que inclusive pode lhe causar alguns tombos.","@type":"BlogPosting","headline":"Thoroughbred Tycoon","dateModified":"2006-09-12T00:00:00-03:00","datePublished":"2006-09-12T00:00:00-03:00","url":"https://jogosdaqui.github.io/2006/09/12/thoroughbred-tycoon","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2006/09/12/thoroughbred-tycoon"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -133,7 +134,7 @@
 
 
 
-    <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Espaço Informática</div>
+    <div class="post-info"><i class='fas fa-gamepad'></i> Jogo desenvolvido por Espaço Informática</div>
 
       
        
@@ -311,32 +312,25 @@
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

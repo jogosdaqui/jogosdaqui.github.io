@@ -30,6 +30,7 @@
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -52,7 +53,7 @@
 <meta property="og:url" content="https://jogosdaqui.github.io/tags/facebook/" />
 <meta property="og:site_name" content="jogosdaqui" />
 <script type="application/ld+json">
-{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","url":"https://jogosdaqui.github.io/tags/facebook/","headline":"jogosdaqui","@context":"http://schema.org"}</script>
+{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","headline":"jogosdaqui","url":"https://jogosdaqui.github.io/tags/facebook/","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -89,7 +90,7 @@
 
 
     <ul>
-      <h3>Jogos</h3>
+      <h3>Jogos <i class='fas fa-gamepad'></i></h3>
       
       
         <li><a href="/2018/12/06/isolados-a-fuga">Isolados – a Fuga</a> (06/12/2018)</li>
@@ -103,7 +104,7 @@
     </ul>
 
     <ul>
-      <h3>Eventos</h3>
+      <h3>Eventos <i class='fas fa-chalkboard-teacher'></i></h3>
       
       
         <li><a href="/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015">Finalistas do Festival de Jogos Independentes do SBGames 2015</a> (26/10/2015)</li>
@@ -113,7 +114,7 @@
     </ul>
 
     <ul>
-      <h3>Notícias</h3>
+      <h3>Notícias <i class='fas fa-newspaper'></i></h3>
       
       
         <li><a href="/2015/07/03/surge-a-game-academy-escola-online-focada-em-games">Surge a Game Academy, escola online focada em games</a> (03/07/2015)</li>
@@ -143,7 +144,7 @@
     </ul>
 
     <ul>
-      <h3>Prévias</h3>
+      <h3>Prévias <i class='fas fa-eye'></i></h3>
       
       
         <li><a href="/2015/06/20/previa-de-dog-duty-da-zanardi-liza">Prévia de Dog Duty da Zanardi & Liza</a> (20/06/2015)</li>
@@ -151,7 +152,7 @@
     </ul>
 
     <ul>
-      <h3>Colunas</h3>
+      <h3>Colunas <i class='fas fa-comment-alt'></i></h3>
       
       
         <li><a href="/2015/05/06/insert-coins-gryphon-knight-epic-gameplay-e-entrevista">Insert Coins: Gryphon Knight Epic - Gameplay e Entrevista</a> (06/05/2015)</li>
@@ -176,32 +177,25 @@
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

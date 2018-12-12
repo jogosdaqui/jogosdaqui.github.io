@@ -33,6 +33,7 @@
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -57,7 +58,7 @@
 <link rel="prev" href="https://jogosdaqui.github.io/33/index.html" />
 <link rel="next" href="https://jogosdaqui.github.io/35/index.html" />
 <script type="application/ld+json">
-{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","url":"https://jogosdaqui.github.io/34/","headline":"jogosdaqui","@context":"http://schema.org"}</script>
+{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","headline":"jogosdaqui","url":"https://jogosdaqui.github.io/34/","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,6 +93,31 @@
       <div class="content-container">
         <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2006/06/30/previa-da-nova-versao-de-drag-racer">Prévia da nova versão de Drag Racer</a></h1>
+
+    <div class="entry">
+    
+
+
+
+ 
+    
+    Drag Racer
+, um dos maiores sucessos da Palmsoft
+, ganhará uma nova versão. As várias novidades do jogo de corrida
+ para celular
+ estão entre novos pilotos, carros e cenários.Veja a prévia…
+
+
+    </div>
+
+    <a href="/2006/06/30/previa-da-nova-versao-de-drag-racer" class="button">Leia mais</a>
+    </article>
 
     
     
@@ -165,6 +191,21 @@
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2006/06/27/the-clubber">The Clubber</a></h1>
@@ -191,21 +232,6 @@
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -321,25 +347,6 @@ Veja o novo jogo da BrutoMemo…
     <a href="/2006/06/19/dance-mania" class="button">Leia mais</a>
     </article>
 
-    
-    
-    <article class="post">
-
-    <h1><a href="/2006/06/19/dance-mania-finalista-do-java-masters">Dance Mania finalista do Java Masters</a></h1>
-
-    <div class="entry">
-    
-
-
-
- 
-    
-    A catarinense Mobwave , empresa fundada em 2004, está com seu jogo Dance Mania na final do Java Masters 2006. O Java Masters é um campeonato internacional de aplicativos móveis que acontece uma vez por ano.Dance Mania concorre na categoria Business com outros 9 aplicativos. Para ver os 10 finalistas...
-    </div>
-
-    <a href="/2006/06/19/dance-mania-finalista-do-java-masters" class="button">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -388,32 +395,25 @@ Veja o novo jogo da BrutoMemo…
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

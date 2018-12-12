@@ -60,6 +60,7 @@ Características
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -84,7 +85,7 @@ Características
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2005-10-31T00:00:00-02:00" />
 <script type="application/ld+json">
-{"datePublished":"2005-10-31T00:00:00-02:00","description":"Como anda a sua memória? Fraca, cansada, precisando de uma forcinha? Apresentamos mais um revolucionário lançamento das organizações TABAJARA: o incrível MEMORY REFRESCATOR: Casseta &amp; Planeta - Jogo da Memória, com os personagens do Casseta &amp; Planeta. Aproveite essa nova sensação e desafie sua memória descobrindo os pares certos e tentando bater recordes próprios e dos amigos. Características A dificuldade dos jogos cresce progressivamente. A partir do quarto nível são usadas quatro cartas para serem descobertos os pares; Visualize as peças do jogo a cada início de partida; Tabela de Recordes; Contagem de tempo progressiva;","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2005/10/31/casseta-planeta-jogo-da-memoria"},"url":"https://jogosdaqui.github.io/2005/10/31/casseta-planeta-jogo-da-memoria","headline":"Casseta &amp; Planeta - Jogo da Memória","dateModified":"2005-10-31T00:00:00-02:00","@context":"http://schema.org"}</script>
+{"description":"Como anda a sua memória? Fraca, cansada, precisando de uma forcinha? Apresentamos mais um revolucionário lançamento das organizações TABAJARA: o incrível MEMORY REFRESCATOR: Casseta &amp; Planeta - Jogo da Memória, com os personagens do Casseta &amp; Planeta. Aproveite essa nova sensação e desafie sua memória descobrindo os pares certos e tentando bater recordes próprios e dos amigos. Características A dificuldade dos jogos cresce progressivamente. A partir do quarto nível são usadas quatro cartas para serem descobertos os pares; Visualize as peças do jogo a cada início de partida; Tabela de Recordes; Contagem de tempo progressiva;","@type":"BlogPosting","headline":"Casseta &amp; Planeta - Jogo da Memória","dateModified":"2005-10-31T00:00:00-02:00","datePublished":"2005-10-31T00:00:00-02:00","url":"https://jogosdaqui.github.io/2005/10/31/casseta-planeta-jogo-da-memoria","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2005/10/31/casseta-planeta-jogo-da-memoria"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -149,7 +150,7 @@ Características
 
 
 
-    <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Meantime</div>
+    <div class="post-info"><i class='fas fa-gamepad'></i> Jogo desenvolvido por Meantime</div>
 
       
        
@@ -221,6 +222,10 @@ Características
     
         <a href="/tags/meantime" class="post-tag"><i class="fas fa-tag"></i>&nbsp;meantime</a>
     
+        <a href="/tags/puzzle" class="post-tag"><i class="fas fa-tag"></i>&nbsp;puzzle</a>
+    
+        <a href="/tags/mobile" class="post-tag"><i class="fas fa-tag"></i>&nbsp;mobile</a>
+    
 </span>
 
   
@@ -279,32 +284,25 @@ Características
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

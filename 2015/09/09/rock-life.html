@@ -114,6 +114,7 @@ Está disponível para:
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -139,7 +140,7 @@ Está disponível para:
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-09-09T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2015-09-09T00:00:00-03:00","description":"Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis? Ser o guitarrista virtuoso de uma grande banda de rock já foi o sonho de muita gente. Rock Life E com Rock Life da Zeeppo Games, o sonho pode se tornar realidade. O jogo da gamedev porto-alegrense traz o gameplay de games consagrados como Guitar Hero e Rock Band para as telas touch de celulares e tablets. No game o jogador poderá criar sua própria banda e escolher a guitarra dentre as dezenas disponíveis. Uma das coisas mais legais do game é a possibilidade de jogar online e colocar sua banda contra outros jogadores. Com gráficos 3D caprichados e diversos avatares a disposição, como Bob Marley, Axl Rose, James Hetfield e Mick Jagger, Rock Life deve agradar quem curte games de música. Plataformas Rock Life é um game gratuito com in-app purchases que já atingiu mais de 3 milhões de downloads no mundo inteiro. Está disponível para: iOS Android Windows Phone","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/09/09/rock-life"},"url":"https://jogosdaqui.github.io/2015/09/09/rock-life","author":{"@type":"Person","name":"Diego Giacomelli"},"headline":"Rock Life","dateModified":"2015-09-09T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"Desde do início dos anos 50 quando o Rock dava seus primeiros passos, a guitarra já começou a ser o destaque de qualquer banda. Como um instrumento que deriva de outros instrumentos musicais que existiam há 5 mil anos pode ter um magnetismo tão grande como a guitarra e seus solos impossíveis? Ser o guitarrista virtuoso de uma grande banda de rock já foi o sonho de muita gente. Rock Life E com Rock Life da Zeeppo Games, o sonho pode se tornar realidade. O jogo da gamedev porto-alegrense traz o gameplay de games consagrados como Guitar Hero e Rock Band para as telas touch de celulares e tablets. No game o jogador poderá criar sua própria banda e escolher a guitarra dentre as dezenas disponíveis. Uma das coisas mais legais do game é a possibilidade de jogar online e colocar sua banda contra outros jogadores. Com gráficos 3D caprichados e diversos avatares a disposição, como Bob Marley, Axl Rose, James Hetfield e Mick Jagger, Rock Life deve agradar quem curte games de música. Plataformas Rock Life é um game gratuito com in-app purchases que já atingiu mais de 3 milhões de downloads no mundo inteiro. Está disponível para: iOS Android Windows Phone","@type":"BlogPosting","headline":"Rock Life","dateModified":"2015-09-09T00:00:00-03:00","datePublished":"2015-09-09T00:00:00-03:00","url":"https://jogosdaqui.github.io/2015/09/09/rock-life","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/09/09/rock-life"},"author":{"@type":"Person","name":"Diego Giacomelli"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -212,7 +213,7 @@ Está disponível para:
 
 
 
-    <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por Zeepo Games</div>
+    <div class="post-info"><i class='fas fa-gamepad'></i> Jogo desenvolvido por Zeepo Games</div>
 
       
       
@@ -368,32 +369,25 @@ Está disponível para:
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

@@ -33,6 +33,7 @@
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -57,7 +58,7 @@
 <link rel="prev" href="https://jogosdaqui.github.io/18/index.html" />
 <link rel="next" href="https://jogosdaqui.github.io/20/index.html" />
 <script type="application/ld+json">
-{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","url":"https://jogosdaqui.github.io/19/","headline":"jogosdaqui","@context":"http://schema.org"}</script>
+{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","headline":"jogosdaqui","url":"https://jogosdaqui.github.io/19/","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,6 +93,25 @@
       <div class="content-container">
         <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2014/05/22/splitplay-apresenta-satellite-rush">Splitplay apresenta: Satellite Rush</a></h1>
+
+    <div class="entry">
+    
+
+
+
+ 
+    
+    O jogosdaqui convidou o Splitplay, primeiro site de compras online de indie games brasileiro, e as equipes das gamedevs brasileiras, com jogos na nova plataforma de distribuição, para apresentar os seus próprios games aos leitores do blog. O resultado é a série “Splitplay apresenta”, nesse post conheça o game Satellite...
+    </div>
+
+    <a href="/2014/05/22/splitplay-apresenta-satellite-rush" class="button">Leia mais</a>
+    </article>
 
     
     
@@ -165,6 +185,21 @@ O jogo foi lançado semana passada para iOS.
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2014/05/08/cartoon-network-superstar-soccer-lancado-na-app-store">Cartoon Network Superstar Soccer lançado na App Store</a></h1>
@@ -191,21 +226,6 @@ O jogo foi lançado semana passada para iOS.
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -332,25 +352,6 @@ O jogo foi lançado semana passada para iOS.
     <a href="/2014/04/28/dash-games" class="button">Leia mais</a>
     </article>
 
-    
-    
-    <article class="post">
-
-    <h1><a href="/2014/04/25/o-perfil-dos-jogadores">O perfil dos jogadores</a></h1>
-
-    <div class="entry">
-    
-
-
-
- 
-    
-    O jogo é uma atividade comum em todas as sociedades e culturas, e assim tem permanecido desde tempos imemoriais. Para a maioria das pessoas, esta atividade não passa de um divertimento, uma opção de lazer, sem consequências negativas de qualquer tipo. Diferentes estudos apontam para que entre 70% a 90%...
-    </div>
-
-    <a href="/2014/04/25/o-perfil-dos-jogadores" class="button">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -399,32 +400,25 @@ O jogo foi lançado semana passada para iOS.
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

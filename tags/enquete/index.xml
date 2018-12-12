@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>jogosdaqui - enquete</title>
+ <link href="//tags/enquete/index.xml" rel="self"/>
+ <link href="/tag/enquete.html"/>
+ <updated>2018-12-12T09:28:01-02:00</updated>
+ <id>/tag/enquete.html</id>
+ <author>
+   <name>jogosdaqui</name>
+ </author>
+ 
+ <entry>
+   <title>Quais games desenvolvidos no Brasil você já jogou?</title>
+   <link href="//2010/11/18/quais-games-desenvolvidos-no-brasil-voce-ja-jogou"/>
+   <updated>2010-11-18T00:00:00-02:00</updated>
+   <id>//2010/11/18/quais-games-desenvolvidos-no-brasil-voce-ja-jogou</id>
+   <content type="html">&lt;p&gt;O jogosdaqui quer saber quais jogos nacionais você já jogou, responda a enquete e ajude-nos a descobrir quais são esses jogos.&lt;/p&gt;
+
+&lt;p&gt;Faremos um post com os resultados, assim que a enquete for encerrada.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://goo.gl/ycVZU&quot;&gt;Enquete: Quais games desenvolvidos no Brasil você já jogou?&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

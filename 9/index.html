@@ -33,6 +33,7 @@
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -57,7 +58,7 @@
 <link rel="prev" href="https://jogosdaqui.github.io/8/index.html" />
 <link rel="next" href="https://jogosdaqui.github.io/10/index.html" />
 <script type="application/ld+json">
-{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","url":"https://jogosdaqui.github.io/9/","headline":"jogosdaqui","@context":"http://schema.org"}</script>
+{"description":"A maior fonte colaborativa sobre games desenvolvidos no Brasil","@type":"WebPage","headline":"jogosdaqui","url":"https://jogosdaqui.github.io/9/","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -92,6 +93,33 @@
       <div class="content-container">
         <div class="posts">
  
+
+    
+    
+    <article class="post">
+
+    <h1><a href="/2015/06/11/checkpoint-9">Checkpoint #9</a></h1>
+
+    <div class="entry">
+    
+
+
+
+
+  
+    <center>
+   
+    <img src="/assets/2015/06/11/checkpoint-9/logo.png" style="max-height: 200px;max-width: 100%;"/> 
+  
+    </center>
+   
+ 
+    
+    #1 Falamos do livro-game A Cidade Dos Que Descem Pela Escada: Terceiro Andar #2 A Aquiris Game Studio dando sequência na sua apresentação de equipe, conheça o Analista de Qualidade Matheus @ttfreire #3 Pessoal da Odin Game Studio celebrando a seleção de dois de seus games entre os 20 selecionados...
+    </div>
+
+    <a href="/2015/06/11/checkpoint-9" class="button">Leia mais</a>
+    </article>
 
     
     
@@ -160,6 +188,21 @@
 
     
     
+        <br>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4531139417583317"
+     data-ad-slot="3308598273"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<br> 
+    
     <article class="post">
 
     <h1><a href="/2015/06/05/playthrough-chroma-squad-tactical-rpg-002">Playthrough Chroma Squad - Tactical RPG #002</a></h1>
@@ -196,21 +239,6 @@ Playthrough Chroma Squad
     </article>
 
     
-    
-        <br>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4531139417583317"
-     data-ad-slot="3308598273"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<br> 
     
     <article class="post">
 
@@ -337,33 +365,6 @@ Playthrough Chroma Squad
     <a href="/2015/05/28/carcara-asas-da-justica" class="button">Leia mais</a>
     </article>
 
-    
-    
-    <article class="post">
-
-    <h1><a href="/2015/05/27/fan-arts-de-toren-da-swordtales">Fan arts de Toren da Swordtales</a></h1>
-
-    <div class="entry">
-    
-
-
-
-
-  
-    <center>
-   
-    <img src="/assets/2015/05/27/fan-arts-de-toren-da-swordtales/logo.jpg" style="max-height: 200px;max-width: 100%;"/> 
-  
-    </center>
-   
- 
-    
-    Quando os primeiros desenhos rupestres foram feitos na Caverna de Chauvet, na França, nascia a fan art, uma forma de homenagearmos aquilo que admiramos, no caso da caverna a admiração pela natureza, no caso dos desenhos desta página a admiração pelo game Toren da Swordtales que continua sendo um dos...
-    </div>
-
-    <a href="/2015/05/27/fan-arts-de-toren-da-swordtales" class="button">Leia mais</a>
-    </article>
-
 </div>
 
 <!-- Pagination links -->
@@ -412,32 +413,25 @@ Playthrough Chroma Squad
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

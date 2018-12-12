@@ -3,7 +3,7 @@
  <title>jogosdaqui - android</title>
  <link href="//tags/android/index.xml" rel="self"/>
  <link href="/tag/android.html"/>
- <updated>2018-12-11T07:31:26-02:00</updated>
+ <updated>2018-12-12T09:28:01-02:00</updated>
  <id>/tag/android.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -19,6 +19,7 @@
 &lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
 &lt;p&gt;Torne-se um deus! Seu dedo é uma arma, mas também a sua maior fraqueza! Saiba escolher entre tocar na tela e subir seu dedo pra se defender!&lt;/p&gt;
 
+&lt;h2 id=&quot;história&quot;&gt;História&lt;/h2&gt;
 &lt;p&gt;O Ciclo dos Desejos é um ritual sagrado para o povo! É onde você realiza os desejos das pessoas. Durante muitos ciclos, a paz reinou, mas tudo isso muda quando o irado Ivo Magenta realiza seu desejo vil. Agora, o desastre acontece, e você deverá dormir até o próximo ciclo. Ao acordar, tudo depende de você!&lt;/p&gt;
 
 &lt;p&gt;Use seu dedo pra destruir Ivo e seus lacaios robôs: a ordem do mundo está em suas mãos!&lt;/p&gt;
@@ -1349,12 +1350,16 @@ Além do dragão vermelho, ainda é possível adquirir um dragão chinês que ad
 
 &lt;p&gt;Os dois estão disponíveis para as plataformas iOS e Android:&lt;/p&gt;
 &lt;ul&gt;
-	&lt;li&gt;&lt;del&gt;&lt;/del&gt;Tiny butterflies: &lt;a href=&quot;https://itunes.apple.com/us/app/tiny-butterflies/id596548839?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
- / &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.paulonogueira.tinybutterflies&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
-&lt;/li&gt;
-	&lt;li&gt;Skeletons Go Through Walls: &lt;a href=&quot;https://itunes.apple.com/us/app/skeletons-go-through-walls/id587501420?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot;&gt;iOS&lt;/a&gt;
- / &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.paulonogueira.skeletonsatoffice&quot; target=&quot;_blank&quot;&gt;Android&lt;/a&gt;
-&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tiny butterflies: 
+** &lt;a href=&quot;https://itunes.apple.com/us/app/tiny-butterflies/id596548839?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;iOS&lt;/a&gt;
+** &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.paulonogueira.tinybutterflies&quot;&gt;Android&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Skeletons Go Through Walls: 
+** &lt;a href=&quot;https://itunes.apple.com/us/app/skeletons-go-through-walls/id587501420?l=pt&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;iOS&lt;/a&gt;
+** &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.paulonogueira.skeletonsatoffice&quot;&gt;Android&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

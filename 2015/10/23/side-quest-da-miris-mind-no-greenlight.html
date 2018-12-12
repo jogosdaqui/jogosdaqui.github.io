@@ -93,6 +93,7 @@ O jogo está programado para ser lançado no final de 2015, inicialmente para PC
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -117,7 +118,7 @@ O jogo está programado para ser lançado no final de 2015, inicialmente para PC
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2015-10-23T00:00:00-02:00" />
 <script type="application/ld+json">
-{"datePublished":"2015-10-23T00:00:00-02:00","description":"Em tempos onde programas culinários como MasterChef fazem um grande sucesso, que tal um game onde o herói é o cozinheiro numa aventura épica? Essa é a proposta da paulistana Miris Mind que está finalizando o desenvolvimento de seu novo game e iniciou sua campanha de Greenlight no Steam. Side Quest Segundo a Miris Mind, o game une elementos de combate beat ‘em up, com uma história divertida sobre um cozinheiro que acaba virando herói e se vê obrigado a cumprir uma missão que um mago muito suspeito lhe deu. Enquanto isso um jovem e insistente aprendiz de vilão se esforça para impedir o herói de terminar essa inusitada jornada repleta de ação, hordas de inimigos e até um cavaleiro lendário. (comenta a equipe) Trailer de Side Quest Greenlight A gamedev iniciou recentemente sua campanha no Greenlight para ver seu game publicado na plataforma Steam, se você gostou do que viu, ajude com seu voto: http://steamcommunity.com/sharedfiles/filedetails/?id=527592042 O jogo está programado para ser lançado no final de 2015, inicialmente para PC, MAC e Linux.","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/10/23/side-quest-da-miris-mind-no-greenlight"},"url":"https://jogosdaqui.github.io/2015/10/23/side-quest-da-miris-mind-no-greenlight","headline":"Side Quest da Miris Mind no Greenlight","dateModified":"2015-10-23T00:00:00-02:00","@context":"http://schema.org"}</script>
+{"description":"Em tempos onde programas culinários como MasterChef fazem um grande sucesso, que tal um game onde o herói é o cozinheiro numa aventura épica? Essa é a proposta da paulistana Miris Mind que está finalizando o desenvolvimento de seu novo game e iniciou sua campanha de Greenlight no Steam. Side Quest Segundo a Miris Mind, o game une elementos de combate beat ‘em up, com uma história divertida sobre um cozinheiro que acaba virando herói e se vê obrigado a cumprir uma missão que um mago muito suspeito lhe deu. Enquanto isso um jovem e insistente aprendiz de vilão se esforça para impedir o herói de terminar essa inusitada jornada repleta de ação, hordas de inimigos e até um cavaleiro lendário. (comenta a equipe) Trailer de Side Quest Greenlight A gamedev iniciou recentemente sua campanha no Greenlight para ver seu game publicado na plataforma Steam, se você gostou do que viu, ajude com seu voto: http://steamcommunity.com/sharedfiles/filedetails/?id=527592042 O jogo está programado para ser lançado no final de 2015, inicialmente para PC, MAC e Linux.","@type":"BlogPosting","headline":"Side Quest da Miris Mind no Greenlight","dateModified":"2015-10-23T00:00:00-02:00","datePublished":"2015-10-23T00:00:00-02:00","url":"https://jogosdaqui.github.io/2015/10/23/side-quest-da-miris-mind-no-greenlight","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2015/10/23/side-quest-da-miris-mind-no-greenlight"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -190,7 +191,7 @@ O jogo está programado para ser lançado no final de 2015, inicialmente para PC
 
 
 
-    <div class="post-info"><i class="fas fa-newspaper"></i>  Notícia</div>
+    <div class="post-info"><i class='fas fa-newspaper'></i> Notícia</div>
 
       
        
@@ -345,32 +346,25 @@ no Steam.</p>
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

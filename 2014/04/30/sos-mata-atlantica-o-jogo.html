@@ -102,6 +102,7 @@ Novos conteúdos e missões serão liberados gradualmente após o  lançamento d
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -126,7 +127,7 @@ Novos conteúdos e missões serão liberados gradualmente após o  lançamento d
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2014-04-30T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2014-04-30T00:00:00-03:00","description":"Restam apenas 8,5% da Mata Atlântica original e essa floresta, que é a mais ameaçada do Brasil, continua a ser desmatada. Pensando nisso, a Fundação SOS Mata Atlântica encontrou uma forma divertida e interativa para conscientizar as pessoas e permitir que todos possam fazer a sua parte. Em parceria com a brasileira OvniStudios, desenvolveu um jogo para abordar todas as questões políticas e culturais dos projetos e atividades que fazem parte da causa da ONG. A tarefa do jogador é muito simples, basta se voluntariar e realizar diversas atividades em uma das áreas ameaçadas da Mata Atlântica. As atividades variam entre reflorestamento, caça predatória, coleta seletiva do lixo, controle da qualidade do ar, água e do solo, além do desenvolvimento sustentável por meio da agropecuária. À medida que o jogador avança no jogo, ele adquire consciência ambiental. Quanto maior a consciência ambiental, maior é variedade liberada de árvores características da Mata Atlântica e itens de decoração para customizar a sua sede. Um dos principais diferenciais do jogo é ser híbrido e multiplataforma, disponível para iPhone, iPad, iPod-Touch , Android e também Facebook , com diversas atividades sociais como ranking global e apenas entre amigos, possibilidade de convidar e desafiar amigos para missões, postar atividades no mural, entre outras. Diferentemente de outros jogos do gênero, SOS Mata Atlântica - O Jogo é totalmente em 3D, com gráficos incríveis e extremamente leves, rodando com bom desempenho em praticamente todos os smartphones, tablets e computadores presentes no mercado. Novos conteúdos e missões serão liberados gradualmente após o lançamento do jogo. Brindes e recompensas também serão distribuídos a pessoas que comparecerem a eventos e atividades realizados pela ONG.","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2014/04/30/sos-mata-atlantica-o-jogo"},"url":"https://jogosdaqui.github.io/2014/04/30/sos-mata-atlantica-o-jogo","headline":"SOS Mata Atlântica - O Jogo","dateModified":"2014-04-30T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"Restam apenas 8,5% da Mata Atlântica original e essa floresta, que é a mais ameaçada do Brasil, continua a ser desmatada. Pensando nisso, a Fundação SOS Mata Atlântica encontrou uma forma divertida e interativa para conscientizar as pessoas e permitir que todos possam fazer a sua parte. Em parceria com a brasileira OvniStudios, desenvolveu um jogo para abordar todas as questões políticas e culturais dos projetos e atividades que fazem parte da causa da ONG. A tarefa do jogador é muito simples, basta se voluntariar e realizar diversas atividades em uma das áreas ameaçadas da Mata Atlântica. As atividades variam entre reflorestamento, caça predatória, coleta seletiva do lixo, controle da qualidade do ar, água e do solo, além do desenvolvimento sustentável por meio da agropecuária. À medida que o jogador avança no jogo, ele adquire consciência ambiental. Quanto maior a consciência ambiental, maior é variedade liberada de árvores características da Mata Atlântica e itens de decoração para customizar a sua sede. Um dos principais diferenciais do jogo é ser híbrido e multiplataforma, disponível para iPhone, iPad, iPod-Touch , Android e também Facebook , com diversas atividades sociais como ranking global e apenas entre amigos, possibilidade de convidar e desafiar amigos para missões, postar atividades no mural, entre outras. Diferentemente de outros jogos do gênero, SOS Mata Atlântica - O Jogo é totalmente em 3D, com gráficos incríveis e extremamente leves, rodando com bom desempenho em praticamente todos os smartphones, tablets e computadores presentes no mercado. Novos conteúdos e missões serão liberados gradualmente após o lançamento do jogo. Brindes e recompensas também serão distribuídos a pessoas que comparecerem a eventos e atividades realizados pela ONG.","@type":"BlogPosting","headline":"SOS Mata Atlântica - O Jogo","dateModified":"2014-04-30T00:00:00-03:00","datePublished":"2014-04-30T00:00:00-03:00","url":"https://jogosdaqui.github.io/2014/04/30/sos-mata-atlantica-o-jogo","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2014/04/30/sos-mata-atlantica-o-jogo"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -191,7 +192,7 @@ Novos conteúdos e missões serão liberados gradualmente após o  lançamento d
 
 
 
-    <div class="post-info"><i class="fas fa-newspaper"></i>  Notícia</div>
+    <div class="post-info"><i class='fas fa-newspaper'></i> Notícia</div>
 
       
        
@@ -352,32 +353,25 @@ e também <a href="http://apps.facebook.com/sosmataatlantica" target="_blank">Fa
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">

@@ -93,6 +93,7 @@ Ficou interessado no jogo? Então conheça mais em http://arena41.com/industrial
     <![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/script.js"></script>
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -118,7 +119,7 @@ Ficou interessado no jogo? Então conheça mais em http://arena41.com/industrial
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2011-04-20T00:00:00-03:00" />
 <script type="application/ld+json">
-{"datePublished":"2011-04-20T00:00:00-03:00","description":"O jogo Industrial Imperialism, da brasileira PalmSoft, foi considerado o primeiro MMO brasileiro gratuito baseado em web. Industrial Imperialism é um jogo de estratégia militar, onde o jogador tem que gerenciar uma cidade e comandar exércitos em tempo real. O jogo se passa no período de pós-revolução industrial, nessa época as grandes metrópoles lutavam para desenvolver recursos básicos para gerar novas tecnologias e melhorar seus exércitos. Para quem gosta de jogos de estratégia web vai se familiarizar com os controles, o jogador começa com alguns recursos básicos para poder desenvolver sua cidade e o seu exercito, tendo também que construir algumas estruturas para poder melhorar sua cidade. Cada estrutura que o jogador construir, como por exemplo: Centro de pesquisa, Quartel, Cia de alimentos, Mercado e mais, terá seu próprio nível de desenvolvimento, a cada nível os benefícios serão aumentados e isso é realizado em alguns segundos, o que diferencia o industrial dos outros jogos do gênero. O dinheiro e recursos no jogo são gerados em tempo real, mesmo se o jogador estiver fora do jogo eles continuam a render. O combate Industrial trás um modo de batalha único em jogos do gênero que é poder movimentar seus generais e almirantes pelo mundo do jogo podendo atacar ou fugir em tempo real. E as batalhas acontecem em uma tela que simula um campo de batalha onde o jogador vê suas unidades e as comanda, para atacar seus inimigos. Ficou interessado no jogo? Então conheça mais em http://arena41.com/industrial.","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2011/04/20/industrial-imperialism"},"url":"https://jogosdaqui.github.io/2011/04/20/industrial-imperialism","author":{"@type":"Person","name":"Marcelo Andrade Tabone"},"headline":"Industrial Imperialism","dateModified":"2011-04-20T00:00:00-03:00","@context":"http://schema.org"}</script>
+{"description":"O jogo Industrial Imperialism, da brasileira PalmSoft, foi considerado o primeiro MMO brasileiro gratuito baseado em web. Industrial Imperialism é um jogo de estratégia militar, onde o jogador tem que gerenciar uma cidade e comandar exércitos em tempo real. O jogo se passa no período de pós-revolução industrial, nessa época as grandes metrópoles lutavam para desenvolver recursos básicos para gerar novas tecnologias e melhorar seus exércitos. Para quem gosta de jogos de estratégia web vai se familiarizar com os controles, o jogador começa com alguns recursos básicos para poder desenvolver sua cidade e o seu exercito, tendo também que construir algumas estruturas para poder melhorar sua cidade. Cada estrutura que o jogador construir, como por exemplo: Centro de pesquisa, Quartel, Cia de alimentos, Mercado e mais, terá seu próprio nível de desenvolvimento, a cada nível os benefícios serão aumentados e isso é realizado em alguns segundos, o que diferencia o industrial dos outros jogos do gênero. O dinheiro e recursos no jogo são gerados em tempo real, mesmo se o jogador estiver fora do jogo eles continuam a render. O combate Industrial trás um modo de batalha único em jogos do gênero que é poder movimentar seus generais e almirantes pelo mundo do jogo podendo atacar ou fugir em tempo real. E as batalhas acontecem em uma tela que simula um campo de batalha onde o jogador vê suas unidades e as comanda, para atacar seus inimigos. Ficou interessado no jogo? Então conheça mais em http://arena41.com/industrial.","@type":"BlogPosting","headline":"Industrial Imperialism","dateModified":"2011-04-20T00:00:00-03:00","datePublished":"2011-04-20T00:00:00-03:00","url":"https://jogosdaqui.github.io/2011/04/20/industrial-imperialism","mainEntityOfPage":{"@type":"WebPage","@id":"https://jogosdaqui.github.io/2011/04/20/industrial-imperialism"},"author":{"@type":"Person","name":"Marcelo Andrade Tabone"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -191,7 +192,7 @@ Ficou interessado no jogo? Então conheça mais em http://arena41.com/industrial
 
 
 
-    <div class="post-info"><i class="fas fa-gamepad"></i>  Jogo desenvolvido por PalmSoft Tecnologia</div>
+    <div class="post-info"><i class='fas fa-gamepad'></i> Jogo desenvolvido por PalmSoft Tecnologia</div>
 
       
       
@@ -340,32 +341,25 @@ Ficou interessado no jogo? Então conheça mais em http://arena41.com/industrial
 <br>
           <!-- HTML elements for search -->
 <div class="highlight-box">
-    <div class="highlight-box-title">Busca</div>
+    <div class="highlight-box-title">Pesquisa</div>
     <hr>
-    <input type="text" id="search-input">
-    <ul id="results-container"></ul>
-    <br>
-    <br>
+    <input type="text" id="search-input"><input id="search-button" type="submit" value=">" class="button">
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/libs/simple-jekyll-search.min.js"></script>
-
 <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      fuzzy: false,
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      templateMiddleware: function(prop, value, template) {
-        if (prop === 'title') {
-          return value.replace(/&amp;#39;/g, "'")
-        }
-      },
-      noResultsText: 'Nenhum resultado encontrado',
-      limit: 30
-    })
+    $('#search-input').keyup(function(e) {
+      if(e.keyCode == 13) {
+        goToSearch();
+      }
+    });
+
+    $('#search-button').click(function() {
+      goToSearch();
+    });
+
+    function goToSearch() {
+      window.location.href = "/pesquisa?q=" + $('#search-input').val();
+    }
 </script>
 
           <div class="highlight-box">
