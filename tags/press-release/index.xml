@@ -3,11 +3,26 @@
  <title>jogosdaqui - press-release</title>
  <link href="//tags/press-release/index.xml" rel="self"/>
  <link href="/tag/press-release.html"/>
- <updated>2018-12-12T21:06:10-02:00</updated>
+ <updated>2018-12-13T08:07:30-02:00</updated>
  <id>/tag/press-release.html</id>
  <author>
    <name>jogosdaqui</name>
  </author>
+ 
+ <entry>
+   <title>Bil Bolha</title>
+   <link href="//2018/12/13/bil-bolha"/>
+   <updated>2018-12-13T00:00:00-02:00</updated>
+   <id>//2018/12/13/bil-bolha</id>
+   <content type="html">&lt;p&gt;O Bil Bolha e seus irmãos foram presos em uma máquina misteriosa. O seu objetivo é libertar todos eles.&lt;/p&gt;
+
+&lt;h1 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h1&gt;
+&lt;p&gt;O problema é que a máquina possui uma estranha regra. Ao soltar ou aprisionar um deles, aqueles que estão à sua esquerda, direita, acima e abaixo mudam o seu estado. Se estavam soltos, são aprisionados. Se estavam presos, são soltos. Existem várias configurações iniciais de máquina para serem resolvidas, inclusive a de “Sorteio” que é criada uma configuração aleatória.&lt;/p&gt;
+
+&lt;h1 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h1&gt;
+&lt;p&gt;O game está disponível para os consoles “Super Mega Drive 3” e “Master System” diretamente na memória dos novos aparelhos.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Bad Rats: A Vingança dos Ratos</title>
