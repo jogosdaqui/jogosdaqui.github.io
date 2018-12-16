@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mr. Bree+ no Steam – jogosdaqui – A maior fonte colaborativa sobre games desenvolvidos no Brasil</title>
-
+    <title>Mr. Bree+ no Steam | jogosdaqui | A maior fonte colaborativa sobre games desenvolvidos no Brasil</title>
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@jogosdaqui" />
 
     
@@ -66,23 +65,14 @@ Para quem ainda não conhece Mr. Bree+, leia um pouco do jogo descrito pela pró
     
 	    <meta property="twitter:image" content="https://jogosdaqui.github.io/assets/2014/05/02/mr-bree-no-steam/logo.jpg" />
 	
-
     <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="/libs/bundle.js"></script>
+<link rel="stylesheet" type="text/css" href="/libs/bundle.css" />
 
-    <script src="/libs/jquery.min.js"></script>
-    <script src="/script.js"></script>
-    
-    <link rel="stylesheet" href="/libs/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link href="/libs/Roboto/all.css" rel="stylesheet">
-
-    <link rel="shortcut icon" href="/favicon.ico?60a1fa" type="image/x-icon"/>
-    <link rel="alternate" type="application/rss+xml" title="jogosdaqui - A maior fonte colaborativa sobre games desenvolvidos no Brasil" href="/feed.xml" />
-
-    <script src="/libs/GreedNav/greedynav.js"></script>
-    <link rel="stylesheet" type="text/css" href="/libs/GreedNav/greedynav.css" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+<link rel="alternate" type="application/rss+xml" title="jogosdaqui - A maior fonte colaborativa sobre games desenvolvidos no Brasil" href="/feed.xml" />
   </head>
 
   <body>
@@ -92,7 +82,7 @@ Para quem ainda não conhece Mr. Bree+, leia um pouco do jogo descrito pela pró
           <nav class="greedy">
             <a href="/" class="site-avatar"><img src="/assets/jogosdaqui-avatar-transparent.png" /></a>
             <ul class='links'>
-                <li><a href="/" class="menu-item">jogosdaqui</a></li>
+              <li><a href="/" class="menu-item">jogosdaqui</a></li>
               <li><a href="/noticias" class="menu-item">Notícias</a></li>
               <li><a href="/previas" class="menu-item">Prévias</a></li>
               <li><a href="/jogos" class="menu-item">Jogos</a></li>
@@ -142,7 +132,7 @@ Para quem ainda não conhece Mr. Bree+, leia um pouco do jogo descrito pela pró
   
     <center>
    
-    <img src="/assets/2014/05/02/mr-bree-no-steam/logo.jpg" style="max-height: 200px;max-width: 100%;" alt="Logo do post"/> 
+    <img src="/assets/loading-image.png" data-src="/assets/2014/05/02/mr-bree-no-steam/logo.jpg" class="lazy" style="max-height: 200px;max-width: 100%;" alt="Logo do post"/> 
   
     </center>
    
@@ -184,8 +174,6 @@ na <a href="http://store.steampowered.com/app/264220/">Steam</a>, a maior plataf
  
  
 
-<link type="text/css" rel="stylesheet" href="/libs/lightslider/css/lightslider.css" />                  
-<script src="/libs/lightslider/js/lightslider.js"></script>
  
 
 
@@ -587,6 +575,7 @@ na <a href="http://store.steampowered.com/app/264220/">Steam</a>, a maior plataf
       <li><a href="https://youtube.com/channel/UCZ6z0Guvw1kxboxq7ZKNgZQ">YouTube</a></li>
       <li><a href="https://github.com/jogosdaqui">GitHub</a></li>
       <li><a href="/estatisticas">Estatísticas</a></li>
+      <li><a href="/status">Status</a></li>
       <li><a href="/faq">FAQ</a></li>
     </ul>
 </div>
@@ -630,5 +619,6 @@ na <a href="http://store.steampowered.com/app/264220/">Steam</a>, a maior plataf
 	<!-- End Google Analytics -->
 
 
+    <script> new LazyLoad({ elements_selector: ".lazy" });</script>
   </body>
 </html>
