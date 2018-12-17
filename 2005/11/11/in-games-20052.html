@@ -191,11 +191,13 @@ e-mail: jogos@unisinos.br
     <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script src="/libs/bundle.js"></script>
-<link rel="stylesheet" type="text/css" href="/libs/bundle.css" />
+<link rel="preload" href="/libs/bundle-end.css" as="style">
+<link rel="preload" href="/libs/bundle-end.js" as="script">
+<link rel="preload" href="/libs/fontawesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+ 
 
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
-<link rel="alternate" type="application/rss+xml" title="jogosdaqui - A maior fonte colaborativa sobre games desenvolvidos no Brasil" href="/feed.xml" />
+<script src="/libs/bundle-begin.js"></script>
+<link rel="stylesheet" type="text/css" href="/libs/bundle-begin.css" />
   </head>
 
   <body>
@@ -744,7 +746,11 @@ e-mail: jogos@unisinos.br</p>
         </footer>
       </div>
     </div>
+    <script src="/libs/bundle-end.js"></script>
+<link rel="stylesheet" type="text/css" href="/libs/bundle-end.css" />
 
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+<link rel="alternate" type="application/rss+xml" title="jogosdaqui - A maior fonte colaborativa sobre games desenvolvidos no Brasil" href="/feed.xml" />
     
 	<!-- Google Analytics -->
 	<script>
