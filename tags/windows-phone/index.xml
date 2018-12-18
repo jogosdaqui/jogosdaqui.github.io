@@ -3,7 +3,7 @@
  <title>jogosdaqui - windows-phone</title>
  <link href="//tags/windows-phone/index.xml" rel="self"/>
  <link href="/tag/windows-phone.html"/>
- <updated>2018-12-17T17:04:12-02:00</updated>
+ <updated>2018-12-18T12:57:18-02:00</updated>
  <id>/tag/windows-phone.html</id>
  <author>
    <name>jogosdaqui</name>
@@ -222,7 +222,7 @@ Terminada a partida, o jogador vencedor ganha uma nova carta aleatória do monte
 &lt;p&gt;Downloads do game até o momento:&lt;/p&gt;
 
 &lt;center&gt;
-        &lt;img src=&quot;/assets/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads/downloads.png &quot; /&gt;
+        &lt;img class=&quot;lazy&quot; src=&quot;/assets/2015/04/15/tank-invaders-atinge-mais-de-300-mil-downloads/downloads.png &quot; /&gt;
       &lt;/center&gt;
 </content>
  </entry>
