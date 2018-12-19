@@ -4,6 +4,14 @@
     
     
     {
+      "title"    : "Blazing Chrome - Dev Diary #2: Studio Lifestyle",
+      "category" : "News",
+      "tags"     : "joymasher, devlog, video",
+      "url"      : "/2018/12/19/blazing-chrome-dev-diary-2-studio-lifestyle",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Abragames renova a parceria com Apex-Brasil",
       "category" : "News",
       "tags"     : "abragames, apex brasil, bgd",
@@ -334,7 +342,7 @@
     {
       "title"    : "Ballistic Overkill, desenvolvedores falam sobre o game",
       "category" : "News",
-      "tags"     : "aquiris game studio, steam, video",
+      "tags"     : "aquiris game studio, devlog, steam, video",
       "url"      : "/2015/05/22/ballistic-overkill-desenvolvedores-falam-sobre-o-game",
       "author"   : ""
     } ,
