@@ -4,6 +4,290 @@
     
     
     {
+      "title"    : "Global Game Jam 2019 na Unisinos",
+      "category" : "Event",
+      "tags"     : "global game jam, evento",
+      "url"      : "/2018/12/21/global-game-jam-2019-na-unisinos",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
+      "title"    : "Finalistas do Festival de Jogos Independentes do SBGames 2015",
+      "category" : "Event",
+      "tags"     : "ios, android, chroma squad, behold studios, sbgames, evento, video, facebook",
+      "url"      : "/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "1º HackaJam",
+      "category" : "Event",
+      "tags"     : "evento",
+      "url"      : "/2015/09/22/1o-hackajam",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis",
+      "category" : "Event",
+      "tags"     : "parana, santa catarina, rio grande do sul, sao paulo, brazil gets unreal, evento, pernambuco",
+      "url"      : "/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Concurso Souking - Power UP",
+      "category" : "Event",
+      "tags"     : "ludum dare, souking, evento, concurso",
+      "url"      : "/2015/09/02/concurso-souking-power-up",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "1º Minas Games Festival",
+      "category" : "Event",
+      "tags"     : "behold studios, chroma squad, evento, ilusis interactive, swordtales, minas games festival, concurso",
+      "url"      : "/2015/06/12/1o-minas-games-festival",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "VIII Gamepad – Seminário de Games e Tecnologia",
+      "category" : "Event",
+      "tags"     : "abragames, evento, gamepad",
+      "url"      : "/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "XIII SEJA (Semana de Entretenimento, Jogos e  Animação)",
+      "category" : "Event",
+      "tags"     : "evento",
+      "url"      : "/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
+      "title"    : "Brazil Gets Unreal",
+      "category" : "Event",
+      "tags"     : "sao paulo, brazil gets unreal, evento, pernambuco",
+      "url"      : "/2015/05/01/brazil-gets-unreal",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Cobertura do evento PowerUp #2",
+      "category" : "Event",
+      "tags"     : "southlogic studios, adjogosrs, ludum dare, swordtales, rockhead games, powerup, evento, ubisoft",
+      "url"      : "/2015/04/24/cobertura-do-evento-powerup-2",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
+      "title"    : "Axis Game Day",
+      "category" : "Event",
+      "tags"     : "odin game studio, sao paulo, qubyte interactive, axis game day, evento, garage 227",
+      "url"      : "/2015/04/17/axis-game-day",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "BRING #4 - Mostra Brasiliense de Indie Games",
+      "category" : "Event",
+      "tags"     : "behold studios, demo, bring, evento, otus game studio, facebook",
+      "url"      : "/2015/04/07/bring-4-mostra-brasiliense-de-indie-games",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "BIG Festival 2015 ",
+      "category" : "Event",
+      "tags"     : "sao paulo, big festival, evento, big starter",
+      "url"      : "/2015/03/27/big-festival-2015",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
+      "title"    : "SPJam 2015",
+      "category" : "Event",
+      "tags"     : "behold studios, chroma squad, taw studio, spjam, evento",
+      "url"      : "/2015/03/24/spjam-2015",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
+      "title"    : "Inscrições abertas para o SPJam 2013",
+      "category" : "Event",
+      "tags"     : "spjam, evento",
+      "url"      : "/2013/06/24/inscricoes-abertas-para-o-spjam-2013",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "SPJam 2013",
+      "category" : "Event",
+      "tags"     : "evento, spjam",
+      "url"      : "/2013/05/06/spjam-2013",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "SPJam 2012",
+      "category" : "Event",
+      "tags"     : "spjam, evento",
+      "url"      : "/2012/06/07/spjam-2012",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "GameCraft 2011",
+      "category" : "Event",
+      "tags"     : "ios, donsoft entertainment, riachuelo games, gamecraft, evento",
+      "url"      : "/2011/05/23/gamecraft-2011",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Global Game Jam 2011 começa amanhã",
+      "category" : "Event",
+      "tags"     : "parana, global game jam, evento",
+      "url"      : "/2011/01/27/global-game-jam-2011-comeca-amanha",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Palestra sobre Esquadrão Zumbi",
+      "category" : "Event",
+      "tags"     : "",
+      "url"      : "/2006/12/08/palestra-sobre-esquadrao-zumbi",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "SBGames",
+      "category" : "Event",
+      "tags"     : "abragames, sbgames, evento, pernambuco, concurso",
+      "url"      : "/2006/09/29/sbgames",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Universo Games 2006",
+      "category" : "Event",
+      "tags"     : "evento",
+      "url"      : "/2006/07/24/universo-games-2006",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "EGR (Ecossistema de games do Recife)",
+      "category" : "Event",
+      "tags"     : "meantime, tilt, pernambuco, preloud studios, ludusware",
+      "url"      : "/2006/05/10/egr-ecossistema-de-games-do-recife",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Evento: EGR (Ecossistema de games do Recife)",
+      "category" : "Event",
+      "tags"     : "pernambuco",
+      "url"      : "/2006/05/10/evento-egr-ecossistema-de-games-do-recife",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Palestra sobre Entretenimento Digital na T&amp;T",
+      "category" : "Event",
+      "tags"     : "",
+      "url"      : "/2006/04/10/palestra-sobre-entretenimento-digital-na-tt",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Palestra Pequeno Guardião do Tempo",
+      "category" : "Event",
+      "tags"     : "minhoca games, evento, cgmax",
+      "url"      : "/2005/12/14/palestra-pequeno-guardiao-do-tempo",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Evento Top Game Show 2006 no Rio de Janeiro",
+      "category" : "Event",
+      "tags"     : "top game show",
+      "url"      : "/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Top Game Show 2006",
+      "category" : "Event",
+      "tags"     : "evento, concurso, top game show",
+      "url"      : "/2005/12/02/top-game-show-2006",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Eventos de novembro",
+      "category" : "Event",
+      "tags"     : "sbgames, evento, sao paulo",
+      "url"      : "/2005/11/11/eventos-de-novembro",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "IN Games 2005/2",
+      "category" : "Event",
+      "tags"     : "nology",
+      "url"      : "/2005/11/11/in-games-20052",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Eventos para o mês de outubro",
+      "category" : "Event",
+      "tags"     : "gamecon, evento, sao paulo",
+      "url"      : "/2005/10/04/eventos-para-o-mes-de-outubro",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Evento em Salvador",
+      "category" : "Event",
+      "tags"     : "bahia",
+      "url"      : "/2005/10/03/evento-em-salvador",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Workshop de Jogos Digitais na Educação",
+      "category" : "Event",
+      "tags"     : "sbie, evento, open source",
+      "url"      : "/2005/09/30/workshop-de-jogos-digitais-na-educacao",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Gamecon",
+      "category" : "Event",
+      "tags"     : "gamecon, evento, rpg, sao paulo",
+      "url"      : "/2005/09/27/gamecon",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "SBGames 2005",
+      "category" : "Event",
+      "tags"     : "sbgames, evento, sao paulo",
+      "url"      : "/2005/09/27/sbgames-2005",
+      "author"   : ""
+    } 
+     
+    ,
+  
+    
+    
+    {
       "title"    : "Quais games desenvolvidos no Brasil você jogou em 2018?",
       "category" : "News",
       "tags"     : "enquete",
@@ -5477,282 +5761,6 @@
       "tags"     : "behold studios, splitplay, ilusis interactive, joymasher, reiza studios, splitplay, swordtales, division five, imagens da semana, coluna",
       "url"      : "/2015/04/06/imagens-da-semana-1",
       "author"   : "Diego Giacomelli"
-    } 
-     
-    ,
-  
-    
-    
-    {
-      "title"    : "Finalistas do Festival de Jogos Independentes do SBGames 2015",
-      "category" : "Event",
-      "tags"     : "ios, android, chroma squad, behold studios, sbgames, evento, video, facebook",
-      "url"      : "/2015/10/26/finalistas-do-festival-de-jogos-independentes-do-sbgames-2015",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "1º HackaJam",
-      "category" : "Event",
-      "tags"     : "evento",
-      "url"      : "/2015/09/22/1o-hackajam",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Brazil Gets Unreal - Porto Alegre, Curitiba e Florianópolis",
-      "category" : "Event",
-      "tags"     : "parana, santa catarina, rio grande do sul, sao paulo, brazil gets unreal, evento, pernambuco",
-      "url"      : "/2015/09/03/brazil-gets-unreal-porto-alegre-e-florianopolis",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Concurso Souking - Power UP",
-      "category" : "Event",
-      "tags"     : "ludum dare, souking, evento, concurso",
-      "url"      : "/2015/09/02/concurso-souking-power-up",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "1º Minas Games Festival",
-      "category" : "Event",
-      "tags"     : "behold studios, chroma squad, evento, ilusis interactive, swordtales, minas games festival, concurso",
-      "url"      : "/2015/06/12/1o-minas-games-festival",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "VIII Gamepad – Seminário de Games e Tecnologia",
-      "category" : "Event",
-      "tags"     : "abragames, evento, gamepad",
-      "url"      : "/2015/05/23/viii-gamepad-seminario-de-games-e-tecnologia",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "XIII SEJA (Semana de Entretenimento, Jogos e  Animação)",
-      "category" : "Event",
-      "tags"     : "evento",
-      "url"      : "/2015/05/16/xiii-seja-semana-de-entretenimento-jogos-e-animacao",
-      "author"   : "Diego Giacomelli"
-    } ,
-    
-    {
-      "title"    : "Brazil Gets Unreal",
-      "category" : "Event",
-      "tags"     : "sao paulo, brazil gets unreal, evento, pernambuco",
-      "url"      : "/2015/05/01/brazil-gets-unreal",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Cobertura do evento PowerUp #2",
-      "category" : "Event",
-      "tags"     : "southlogic studios, adjogosrs, ludum dare, swordtales, rockhead games, powerup, evento, ubisoft",
-      "url"      : "/2015/04/24/cobertura-do-evento-powerup-2",
-      "author"   : "Diego Giacomelli"
-    } ,
-    
-    {
-      "title"    : "Axis Game Day",
-      "category" : "Event",
-      "tags"     : "odin game studio, sao paulo, qubyte interactive, axis game day, evento, garage 227",
-      "url"      : "/2015/04/17/axis-game-day",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "BRING #4 - Mostra Brasiliense de Indie Games",
-      "category" : "Event",
-      "tags"     : "behold studios, demo, bring, evento, otus game studio, facebook",
-      "url"      : "/2015/04/07/bring-4-mostra-brasiliense-de-indie-games",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "BIG Festival 2015 ",
-      "category" : "Event",
-      "tags"     : "sao paulo, big festival, evento, big starter",
-      "url"      : "/2015/03/27/big-festival-2015",
-      "author"   : "Diego Giacomelli"
-    } ,
-    
-    {
-      "title"    : "SPJam 2015",
-      "category" : "Event",
-      "tags"     : "behold studios, chroma squad, taw studio, spjam, evento",
-      "url"      : "/2015/03/24/spjam-2015",
-      "author"   : "Diego Giacomelli"
-    } ,
-    
-    {
-      "title"    : "Inscrições abertas para o SPJam 2013",
-      "category" : "Event",
-      "tags"     : "spjam, evento",
-      "url"      : "/2013/06/24/inscricoes-abertas-para-o-spjam-2013",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "SPJam 2013",
-      "category" : "Event",
-      "tags"     : "evento, spjam",
-      "url"      : "/2013/05/06/spjam-2013",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "SPJam 2012",
-      "category" : "Event",
-      "tags"     : "spjam, evento",
-      "url"      : "/2012/06/07/spjam-2012",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "GameCraft 2011",
-      "category" : "Event",
-      "tags"     : "ios, donsoft entertainment, riachuelo games, gamecraft, evento",
-      "url"      : "/2011/05/23/gamecraft-2011",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Global Game Jam 2011 começa amanhã",
-      "category" : "Event",
-      "tags"     : "parana, global game jam, evento",
-      "url"      : "/2011/01/27/global-game-jam-2011-comeca-amanha",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Palestra sobre Esquadrão Zumbi",
-      "category" : "Event",
-      "tags"     : "",
-      "url"      : "/2006/12/08/palestra-sobre-esquadrao-zumbi",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "SBGames",
-      "category" : "Event",
-      "tags"     : "abragames, sbgames, evento, pernambuco, concurso",
-      "url"      : "/2006/09/29/sbgames",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Universo Games 2006",
-      "category" : "Event",
-      "tags"     : "evento",
-      "url"      : "/2006/07/24/universo-games-2006",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "EGR (Ecossistema de games do Recife)",
-      "category" : "Event",
-      "tags"     : "meantime, tilt, pernambuco, preloud studios, ludusware",
-      "url"      : "/2006/05/10/egr-ecossistema-de-games-do-recife",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Evento: EGR (Ecossistema de games do Recife)",
-      "category" : "Event",
-      "tags"     : "pernambuco",
-      "url"      : "/2006/05/10/evento-egr-ecossistema-de-games-do-recife",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Palestra sobre Entretenimento Digital na T&amp;T",
-      "category" : "Event",
-      "tags"     : "",
-      "url"      : "/2006/04/10/palestra-sobre-entretenimento-digital-na-tt",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Palestra Pequeno Guardião do Tempo",
-      "category" : "Event",
-      "tags"     : "minhoca games, evento, cgmax",
-      "url"      : "/2005/12/14/palestra-pequeno-guardiao-do-tempo",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Evento Top Game Show 2006 no Rio de Janeiro",
-      "category" : "Event",
-      "tags"     : "top game show",
-      "url"      : "/2005/12/02/evento-top-game-show-2006-no-rio-de-janeiro",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Top Game Show 2006",
-      "category" : "Event",
-      "tags"     : "evento, concurso, top game show",
-      "url"      : "/2005/12/02/top-game-show-2006",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Eventos de novembro",
-      "category" : "Event",
-      "tags"     : "sbgames, evento, sao paulo",
-      "url"      : "/2005/11/11/eventos-de-novembro",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "IN Games 2005/2",
-      "category" : "Event",
-      "tags"     : "nology",
-      "url"      : "/2005/11/11/in-games-20052",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Eventos para o mês de outubro",
-      "category" : "Event",
-      "tags"     : "gamecon, evento, sao paulo",
-      "url"      : "/2005/10/04/eventos-para-o-mes-de-outubro",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Evento em Salvador",
-      "category" : "Event",
-      "tags"     : "bahia",
-      "url"      : "/2005/10/03/evento-em-salvador",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Workshop de Jogos Digitais na Educação",
-      "category" : "Event",
-      "tags"     : "sbie, evento, open source",
-      "url"      : "/2005/09/30/workshop-de-jogos-digitais-na-educacao",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Gamecon",
-      "category" : "Event",
-      "tags"     : "gamecon, evento, rpg, sao paulo",
-      "url"      : "/2005/09/27/gamecon",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "SBGames 2005",
-      "category" : "Event",
-      "tags"     : "sbgames, evento, sao paulo",
-      "url"      : "/2005/09/27/sbgames-2005",
-      "author"   : ""
     } 
      
     ,
