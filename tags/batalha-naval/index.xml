@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>jogosdaqui - batalha-naval</title>
+ <link href="//tags/batalha-naval/index.xml" rel="self"/>
+ <link href="/tag/batalha-naval.html"/>
+ <updated>2019-01-16T10:05:18-02:00</updated>
+ <id>/tag/batalha-naval.html</id>
+ <author>
+   <name>jogosdaqui</name>
+ </author>
+ 
+ <entry>
+   <title>Ships N&#39; Battles</title>
+   <link href="//2019/01/16/ships-n-battles"/>
+   <updated>2019-01-16T10:00:00-02:00</updated>
+   <id>//2019/01/16/ships-n-battles</id>
+   <content type="html">&lt;p&gt;O game de batalha naval Ships N’ Battles da gaúcha &lt;a href=&quot;http://skahal.github.io/press/kit/index.html&quot;&gt;Skahal Studios&lt;/a&gt; possui mais de 500.000 downloads entre suas diversas plataformas. Além de ser uma releitura do clássico jogo de batalha naval para os dispositivos modernos ainda conta com multiplayer cross-platform, onde é possível travar batalhas entre dispositivos iOS, Android e Mac.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;Fácil de aprender, difícil de dominar. SnB é um jogo fácil de jogar, porém com seus níveis de dificuldade, mais as combinações de bônus e estratégia, você vai precisar aprender a usar as ferramentas corretas para ter sucesso e destruir seus inimigo. Um jogo muito mais dinâmico do que qualquer outro semelhante.&lt;/p&gt;
+
+&lt;h2 id=&quot;características&quot;&gt;Características&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;4 tipos de navios&lt;/li&gt;
+  &lt;li&gt;10 diferentes bônus&lt;/li&gt;
+  &lt;li&gt;4 níveis de dificuldade&lt;/li&gt;
+  &lt;li&gt;Modo acelerado no singleplayer&lt;/li&gt;
+  &lt;li&gt;Multiplayer cross-platform&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/8qVJPZkMaRc &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;plataformas&quot;&gt;Plataformas&lt;/h2&gt;
+&lt;p&gt;Disponível para:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/ships-n-battles-hd/id510480132?mt=8&quot;&gt;iOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.skahal.shipsnbattles&quot;&gt;Android&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/pt/app/ships-n-battles/id531527189?mt=12&quot;&gt;Mac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+</feed>
