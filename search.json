@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Magenta Arcade II",
+      "category" : "Game",
+      "tags"     : "long hat house, godot, arcade, shooter, indie, brasil, belo horizonte, mobile, press release",
+      "url"      : "/2025/10/13/magenta-arcade-2",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Fluffy Horde",
       "category" : "Game",
       "tags"     : "turtle juice, rts, puzzle, multiplayer, steam, windows, mac, linux, switch, press release",
@@ -5044,18 +5052,18 @@
     } ,
     
     {
-      "title"    : "Fencer Duel",
-      "category" : "Game",
-      "tags"     : "palmsoft tecnologia",
-      "url"      : "/2006/01/31/fencer-duel",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Shangai",
       "category" : "Game",
       "tags"     : "tabuleiro",
       "url"      : "/2006/01/31/shangai",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Fencer Duel",
+      "category" : "Game",
+      "tags"     : "palmsoft tecnologia",
+      "url"      : "/2006/01/31/fencer-duel",
       "author"   : ""
     } ,
     
