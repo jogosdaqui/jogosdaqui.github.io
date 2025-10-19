@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Fish Person Shooter",
+      "category" : "Game",
+      "tags"     : "nuntius games, shooter, fps, indie, surreal, humor, press release",
+      "url"      : "/2025/10/19/fish-person-shooter",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Magenta Arcade II",
       "category" : "Game",
       "tags"     : "long hat house, godot, arcade, shooter, indie, brasil, belo horizonte, mobile, press release",
@@ -4124,14 +4132,6 @@
     } ,
     
     {
-      "title"    : "Numbers of Gold",
-      "category" : "Game",
-      "tags"     : "ios, android, facebook, cupcake sweet entertainment, press release",
-      "url"      : "/2021/04/16/numbers-of-gold",
-      "author"   : "Diego Giacomelli"
-    } ,
-    
-    {
       "title"    : "World Crush Cup",
       "category" : "Game",
       "tags"     : "monsterbed game studio, futebol, esporte, press release",
@@ -4144,6 +4144,14 @@
       "category" : "Game",
       "tags"     : "imax games, esporte, futebol, tela interativa, press release",
       "url"      : "/2021/04/16/wall-soccer",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
+      "title"    : "Numbers of Gold",
+      "category" : "Game",
+      "tags"     : "ios, android, facebook, cupcake sweet entertainment, press release",
+      "url"      : "/2021/04/16/numbers-of-gold",
       "author"   : "Diego Giacomelli"
     } ,
     
@@ -4916,18 +4924,18 @@
     } ,
     
     {
-      "title"    : "Fighters of Caribbean",
-      "category" : "Game",
-      "tags"     : "palmsoft tecnologia",
-      "url"      : "/2006/03/24/fighters-of-caribbean",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Gladiarena",
       "category" : "Game",
       "tags"     : "palmsoft tecnologia",
       "url"      : "/2006/03/24/gladiarena",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Fighters of Caribbean",
+      "category" : "Game",
+      "tags"     : "palmsoft tecnologia",
+      "url"      : "/2006/03/24/fighters-of-caribbean",
       "author"   : ""
     } ,
     
