@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Vitrum",
+      "category" : "Game",
+      "tags"     : "9heads game studios, puzzle, plataforma, fps, indie, brasil",
+      "url"      : "/2025/10/20/vitrum",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Fish Person Shooter",
       "category" : "Game",
       "tags"     : "nuntius games, shooter, fps, indie, surreal, humor, press release",
@@ -5060,18 +5068,18 @@
     } ,
     
     {
-      "title"    : "Shangai",
-      "category" : "Game",
-      "tags"     : "tabuleiro",
-      "url"      : "/2006/01/31/shangai",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Fencer Duel",
       "category" : "Game",
       "tags"     : "palmsoft tecnologia",
       "url"      : "/2006/01/31/fencer-duel",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Shangai",
+      "category" : "Game",
+      "tags"     : "tabuleiro",
+      "url"      : "/2006/01/31/shangai",
       "author"   : ""
     } ,
     
@@ -5348,18 +5356,18 @@
     } ,
     
     {
-      "title"    : "Sudoku",
-      "category" : "Game",
-      "tags"     : "lumen technology, puzzle",
-      "url"      : "/2005/10/25/sudoku",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Golden West - Mexican Bullet",
       "category" : "Game",
       "tags"     : "",
       "url"      : "/2005/10/25/golden-west-mexican-bullet",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Sudoku",
+      "category" : "Game",
+      "tags"     : "lumen technology, puzzle",
+      "url"      : "/2005/10/25/sudoku",
       "author"   : ""
     } ,
     
