@@ -4100,9 +4100,17 @@
     
     
     {
+      "title"    : "Lux Ex – Legacy",
+      "category" : "Game",
+      "tags"     : "lux ex legacy, ilex games, shooter, arcade, bullet hell, indie, cyberpunk, retro, steam, experimental",
+      "url"      : "/2025/10/21/lux-ex-legacy",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Vitrum",
       "category" : "Game",
-      "tags"     : "9heads game studios, puzzle, plataforma, fps, indie, brasil",
+      "tags"     : "9heads game studios, puzzle, plataforma, fps, indie, steam",
       "url"      : "/2025/10/20/vitrum",
       "author"   : "Diego Giacomelli"
     } ,
