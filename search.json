@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Who Kills Who?",
+      "category" : "Game",
+      "tags"     : "who kills who, atari, retro, puzzle, arcade, indie, diego giacomelli, android, mobile",
+      "url"      : "/2025/10/24/who-kills-who",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Super Keepie Uppie Pro",
       "category" : "Game",
       "tags"     : "crazy minds game studio, arcade, futebol, android, mobile",
@@ -5068,18 +5076,18 @@
     } ,
     
     {
-      "title"    : "Faroeste",
-      "category" : "Game",
-      "tags"     : "devworks game technology, mega drive, master system",
-      "url"      : "/2006/02/03/faroeste",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Rally dos Sertões 2005",
       "category" : "Game",
       "tags"     : "mdev, corrida, mobile",
       "url"      : "/2006/02/03/rally-dos-sertoes-2005",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Faroeste",
+      "category" : "Game",
+      "tags"     : "devworks game technology, mega drive, master system",
+      "url"      : "/2006/02/03/faroeste",
       "author"   : ""
     } ,
     

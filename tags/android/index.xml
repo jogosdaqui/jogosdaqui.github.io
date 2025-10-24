@@ -3,11 +3,48 @@
  <title>jogosdaqui - android</title>
  <link href="//tags/android/index.xml" rel="self"/>
  <link href="/tag/android.html"/>
- <updated>2025-10-23T06:41:32-03:00</updated>
+ <updated>2025-10-24T11:52:20-03:00</updated>
  <id>/tag/android.html</id>
  <author>
    <name>jogosdaqui</name>
  </author>
+ 
+ <entry>
+   <title>Who Kills Who?</title>
+   <link href="//2025/10/24/who-kills-who"/>
+   <updated>2025-10-24T00:00:00-03:00</updated>
+   <id>//2025/10/24/who-kills-who</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Who Kills Who?&lt;/em&gt; é um jogo no estilo &lt;strong&gt;Atari 2600&lt;/strong&gt;, simples e direto, desenvolvido em apenas &lt;strong&gt;3 horas&lt;/strong&gt; durante a &lt;strong&gt;Trijam #154&lt;/strong&gt;.&lt;br /&gt;
+A proposta é tão minimalista quanto viciante: três cores — &lt;strong&gt;vermelho, verde e azul&lt;/strong&gt; — coexistem em tela, e cada uma tem o poder de eliminar outra.&lt;/p&gt;
+
+&lt;p&gt;Mas o jogador pode inverter as regras e decidir… quem mata quem.&lt;/p&gt;
+
+&lt;h2 id=&quot;um-ciclo-de-cores-e-caos-controlado&quot;&gt;Um ciclo de cores e caos controlado&lt;/h2&gt;
+
+&lt;p&gt;No início, a lógica é simples:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vermelho mata Verde&lt;/li&gt;
+  &lt;li&gt;Verde mata Azul&lt;/li&gt;
+  &lt;li&gt;Azul mata Vermelho&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O desafio começa quando o jogador altera essa ordem, criando um novo ciclo de caçadas.&lt;br /&gt;
+O resultado é uma dança estratégica de cores, movimento e ritmo, onde cada decisão muda o equilíbrio da partida.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/dpIJgO2fWDc &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;simples-rápido-e-direto&quot;&gt;Simples, rápido e direto&lt;/h2&gt;
+
+&lt;p&gt;O jogo mantém o visual retrô característico, com linhas e efeitos que lembram os clássicos do Atari, mas com uma pitada moderna no movimento e nas transições.&lt;br /&gt;
+É o tipo de experiência que cabe em qualquer pausa do dia, mas que prende a atenção por mais tempo do que parece.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Disponível gratuitamente para &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.diegogiacomelli.whokillswho&quot;&gt;Android&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Super Keepie Uppie Pro</title>
