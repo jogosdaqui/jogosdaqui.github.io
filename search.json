@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Soul Gambler",
+      "category" : "Game",
+      "tags"     : "ilex games, visual novel, aventura, rpg, comic, indie, steam",
+      "url"      : "/2025/10/26/soul-gambler",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Damned",
       "category" : "Game",
       "tags"     : "9heads game studios, horror, multiplayer, coop, survival, indie, steam",
@@ -5020,18 +5028,18 @@
     } ,
     
     {
-      "title"    : "Castle Ghost",
-      "category" : "Game",
-      "tags"     : "edward multimidia",
-      "url"      : "/2006/03/13/castle-ghost",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Aquadum",
       "category" : "Game",
       "tags"     : "decadium studios",
       "url"      : "/2006/03/13/aquadum",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Castle Ghost",
+      "category" : "Game",
+      "tags"     : "edward multimidia",
+      "url"      : "/2006/03/13/castle-ghost",
       "author"   : ""
     } ,
     
@@ -5084,18 +5092,18 @@
     } ,
     
     {
-      "title"    : "Rally dos Sertões 2005",
-      "category" : "Game",
-      "tags"     : "mdev, corrida, mobile",
-      "url"      : "/2006/02/03/rally-dos-sertoes-2005",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Faroeste",
       "category" : "Game",
       "tags"     : "devworks game technology, mega drive, master system",
       "url"      : "/2006/02/03/faroeste",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Rally dos Sertões 2005",
+      "category" : "Game",
+      "tags"     : "mdev, corrida, mobile",
+      "url"      : "/2006/02/03/rally-dos-sertoes-2005",
       "author"   : ""
     } ,
     
@@ -5132,18 +5140,18 @@
     } ,
     
     {
-      "title"    : "PalmSoft Drag Racer",
-      "category" : "Game",
-      "tags"     : "palmsoft tecnologia, mobile, corrida",
-      "url"      : "/2006/01/23/palmsoft-drag-racer-2",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "War of Malquidious",
       "category" : "Game",
       "tags"     : "palmsoft tecnologia, mobile, rpg",
       "url"      : "/2006/01/23/war-of-malquidious-2",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "PalmSoft Drag Racer",
+      "category" : "Game",
+      "tags"     : "palmsoft tecnologia, mobile, corrida",
+      "url"      : "/2006/01/23/palmsoft-drag-racer-2",
       "author"   : ""
     } ,
     
@@ -5580,18 +5588,18 @@
     } ,
     
     {
-      "title"    : "Cataclism",
-      "category" : "Game",
-      "tags"     : "",
-      "url"      : "/2005/10/06/cataclism",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Arena de Rodeio",
       "category" : "Game",
       "tags"     : "mra, press release, advergame",
       "url"      : "/2005/10/06/arena-de-rodeio",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Cataclism",
+      "category" : "Game",
+      "tags"     : "",
+      "url"      : "/2005/10/06/cataclism",
       "author"   : ""
     } ,
     
@@ -5676,6 +5684,14 @@
     } ,
     
     {
+      "title"    : "Cookie Chef",
+      "category" : "Game",
+      "tags"     : "windows",
+      "url"      : "/2005/09/23/cookie-chef",
+      "author"   : ""
+    } ,
+    
+    {
       "title"    : "Super Popcorn Machine",
       "category" : "Game",
       "tags"     : "nology, puzzle",
@@ -5704,22 +5720,6 @@
       "category" : "Game",
       "tags"     : "nology, windows, puzzle",
       "url"      : "/2005/09/23/hello",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Cookie Chef",
-      "category" : "Game",
-      "tags"     : "windows",
-      "url"      : "/2005/09/23/cookie-chef",
-      "author"   : ""
-    } ,
-    
-    {
-      "title"    : "Der Pferderennstall",
-      "category" : "Game",
-      "tags"     : "",
-      "url"      : "/2005/09/22/der-pferderennstall",
       "author"   : ""
     } ,
     
@@ -5760,6 +5760,14 @@
       "category" : "Game",
       "tags"     : "oniria entertainment",
       "url"      : "/2005/09/22/die-pferdebande",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Der Pferderennstall",
+      "category" : "Game",
+      "tags"     : "",
+      "url"      : "/2005/09/22/der-pferderennstall",
       "author"   : ""
     } ,
     
