@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "No Captain Allowed!",
+      "category" : "Game",
+      "tags"     : "9heads game studios, multiplayer, coop, party, arena, indie, steam",
+      "url"      : "/2025/10/27/no-captain-allowed",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Soul Gambler",
       "category" : "Game",
       "tags"     : "ilex games, visual novel, aventura, rpg, comic, indie, steam",
@@ -4188,14 +4196,6 @@
     } ,
     
     {
-      "title"    : "Numbers of Gold",
-      "category" : "Game",
-      "tags"     : "ios, android, facebook, cupcake sweet entertainment, press release",
-      "url"      : "/2021/04/16/numbers-of-gold",
-      "author"   : "Diego Giacomelli"
-    } ,
-    
-    {
       "title"    : "World Crush Cup",
       "category" : "Game",
       "tags"     : "monsterbed game studio, futebol, esporte, press release",
@@ -4208,6 +4208,14 @@
       "category" : "Game",
       "tags"     : "imax games, esporte, futebol, tela interativa, press release",
       "url"      : "/2021/04/16/wall-soccer",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
+      "title"    : "Numbers of Gold",
+      "category" : "Game",
+      "tags"     : "ios, android, facebook, cupcake sweet entertainment, press release",
+      "url"      : "/2021/04/16/numbers-of-gold",
       "author"   : "Diego Giacomelli"
     } ,
     
