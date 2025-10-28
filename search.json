@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Heart: Future Whispers",
+      "category" : "Game",
+      "tags"     : "nuntius games, baltared studio, deep one games, shooter, top down, ação, sci fi, futurista, indie, steam",
+      "url"      : "/2025/10/28/heart-future-whispers",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "No Captain Allowed!",
       "category" : "Game",
       "tags"     : "9heads game studios, multiplayer, coop, party, arena, indie, steam",
@@ -5012,19 +5020,19 @@
     } ,
     
     {
-      "title"    : "Coquetel",
-      "category" : "Game",
-      "tags"     : "mobile, delirus entertainment",
-      "url"      : "/2006/03/22/coquetel",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Fruzzle",
       "category" : "Game",
       "tags"     : "icon games, puzzle",
       "url"      : "/2006/03/22/fruzzle",
       "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
+      "title"    : "Coquetel",
+      "category" : "Game",
+      "tags"     : "mobile, delirus entertainment",
+      "url"      : "/2006/03/22/coquetel",
+      "author"   : ""
     } ,
     
     {
@@ -5148,18 +5156,18 @@
     } ,
     
     {
-      "title"    : "War of Malquidious",
-      "category" : "Game",
-      "tags"     : "palmsoft tecnologia, mobile, rpg",
-      "url"      : "/2006/01/23/war-of-malquidious-2",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "PalmSoft Drag Racer",
       "category" : "Game",
       "tags"     : "palmsoft tecnologia, mobile, corrida",
       "url"      : "/2006/01/23/palmsoft-drag-racer-2",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "War of Malquidious",
+      "category" : "Game",
+      "tags"     : "palmsoft tecnologia, mobile, rpg",
+      "url"      : "/2006/01/23/war-of-malquidious-2",
       "author"   : ""
     } ,
     
@@ -5196,18 +5204,18 @@
     } ,
     
     {
-      "title"    : "Bate-Rebate",
-      "category" : "Game",
-      "tags"     : "green land studios, sbt",
-      "url"      : "/2005/12/22/bate-rebate",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Dominó Chinês",
       "category" : "Game",
       "tags"     : "green land studios, sbt, tabuleiro",
       "url"      : "/2005/12/22/domino-chines",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Bate-Rebate",
+      "category" : "Game",
+      "tags"     : "green land studios, sbt",
+      "url"      : "/2005/12/22/bate-rebate",
       "author"   : ""
     } ,
     
@@ -5380,18 +5388,18 @@
     } ,
     
     {
-      "title"    : "Gold Hunter",
-      "category" : "Game",
-      "tags"     : "",
-      "url"      : "/2005/11/03/gold-hunter",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Ottomax",
       "category" : "Game",
       "tags"     : "insolita studios",
       "url"      : "/2005/11/03/ottomax",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Gold Hunter",
+      "category" : "Game",
+      "tags"     : "",
+      "url"      : "/2005/11/03/gold-hunter",
       "author"   : ""
     } ,
     
@@ -5460,6 +5468,14 @@
     } ,
     
     {
+      "title"    : "Animal Rage",
+      "category" : "Game",
+      "tags"     : "",
+      "url"      : "/2005/10/19/animal-rage",
+      "author"   : ""
+    } ,
+    
+    {
       "title"    : "Warbots",
       "category" : "Game",
       "tags"     : "delirus entertainment",
@@ -5484,14 +5500,6 @@
     } ,
     
     {
-      "title"    : "Animal Rage",
-      "category" : "Game",
-      "tags"     : "",
-      "url"      : "/2005/10/19/animal-rage",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Meu Big Brother",
       "category" : "Game",
       "tags"     : "reality show",
@@ -5508,14 +5516,6 @@
     } ,
     
     {
-      "title"    : "Die Ponyrancher",
-      "category" : "Game",
-      "tags"     : "preloud studios",
-      "url"      : "/2005/10/15/die-ponyrancher",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Riding Ground",
       "category" : "Game",
       "tags"     : "acao",
@@ -5524,10 +5524,26 @@
     } ,
     
     {
+      "title"    : "Die Ponyrancher",
+      "category" : "Game",
+      "tags"     : "preloud studios",
+      "url"      : "/2005/10/15/die-ponyrancher",
+      "author"   : ""
+    } ,
+    
+    {
       "title"    : "Molécula",
       "category" : "Game",
       "tags"     : "",
       "url"      : "/2005/10/14/molecula",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Crimson After Dusk",
+      "category" : "Game",
+      "tags"     : "palmsoft tecnologia, mobile",
+      "url"      : "/2005/10/13/crimson-after-dusk",
       "author"   : ""
     } ,
     
@@ -5548,14 +5564,6 @@
     } ,
     
     {
-      "title"    : "Crimson After Dusk",
-      "category" : "Game",
-      "tags"     : "palmsoft tecnologia, mobile",
-      "url"      : "/2005/10/13/crimson-after-dusk",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Banana Joe",
       "category" : "Game",
       "tags"     : "mobile",
@@ -5572,18 +5580,18 @@
     } ,
     
     {
-      "title"    : "R/C Racing",
-      "category" : "Game",
-      "tags"     : "mra, press release, advergame, corrida",
-      "url"      : "/2005/10/10/rc-racing",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Whiskeria Paradiso",
       "category" : "Game",
       "tags"     : "mobile",
       "url"      : "/2005/10/10/whiskeria-paradiso",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "R/C Racing",
+      "category" : "Game",
+      "tags"     : "mra, press release, advergame, corrida",
+      "url"      : "/2005/10/10/rc-racing",
       "author"   : ""
     } ,
     
@@ -5620,14 +5628,6 @@
     } ,
     
     {
-      "title"    : "Impacto Alpha",
-      "category" : "Game",
-      "tags"     : "oniria entertainment, shoot em up, tiro",
-      "url"      : "/2005/10/01/impacto-alpha",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Othello",
       "category" : "Game",
       "tags"     : "continuum, tabuleiro",
@@ -5636,10 +5636,10 @@
     } ,
     
     {
-      "title"    : "Smart Panda",
+      "title"    : "Impacto Alpha",
       "category" : "Game",
-      "tags"     : "leandro correia, infantil",
-      "url"      : "/2005/09/30/smart-panda",
+      "tags"     : "oniria entertainment, shoot em up, tiro",
+      "url"      : "/2005/10/01/impacto-alpha",
       "author"   : ""
     } ,
     
@@ -5648,6 +5648,14 @@
       "category" : "Game",
       "tags"     : "continuum, globo, televisao",
       "url"      : "/2005/09/30/no-limite",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Smart Panda",
+      "category" : "Game",
+      "tags"     : "leandro correia, infantil",
+      "url"      : "/2005/09/30/smart-panda",
       "author"   : ""
     } ,
     
