@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "CODE Bunny",
+      "category" : "Game",
+      "tags"     : "team seventh star, nuntius games, ação, plataforma, 2d, pixel art, chiptune, indie, steam",
+      "url"      : "/2025/11/01/code-bunny",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Damned 2",
       "category" : "Game",
       "tags"     : "9heads game studios, nuntius games, horror, multiplayer, coop, survival, assimetrico, indie, steam",
@@ -5044,19 +5052,19 @@
     } ,
     
     {
-      "title"    : "Fruzzle",
-      "category" : "Game",
-      "tags"     : "icon games, puzzle",
-      "url"      : "/2006/03/22/fruzzle",
-      "author"   : "Diego Giacomelli"
-    } ,
-    
-    {
       "title"    : "Coquetel",
       "category" : "Game",
       "tags"     : "mobile, delirus entertainment",
       "url"      : "/2006/03/22/coquetel",
       "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Fruzzle",
+      "category" : "Game",
+      "tags"     : "icon games, puzzle",
+      "url"      : "/2006/03/22/fruzzle",
+      "author"   : "Diego Giacomelli"
     } ,
     
     {
@@ -5228,18 +5236,18 @@
     } ,
     
     {
-      "title"    : "Dominó Chinês",
-      "category" : "Game",
-      "tags"     : "green land studios, sbt, tabuleiro",
-      "url"      : "/2005/12/22/domino-chines",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Bate-Rebate",
       "category" : "Game",
       "tags"     : "green land studios, sbt",
       "url"      : "/2005/12/22/bate-rebate",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Dominó Chinês",
+      "category" : "Game",
+      "tags"     : "green land studios, sbt, tabuleiro",
+      "url"      : "/2005/12/22/domino-chines",
       "author"   : ""
     } ,
     
@@ -5340,18 +5348,18 @@
     } ,
     
     {
-      "title"    : "Bola de Gude",
-      "category" : "Game",
-      "tags"     : "icon games",
-      "url"      : "/2005/11/21/bola-de-gude",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Nishi Aqua Fight",
       "category" : "Game",
       "tags"     : "z80 software, mobile, tiro",
       "url"      : "/2005/11/21/nishi-aqua-fight",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Bola de Gude",
+      "category" : "Game",
+      "tags"     : "icon games",
+      "url"      : "/2005/11/21/bola-de-gude",
       "author"   : ""
     } ,
     
