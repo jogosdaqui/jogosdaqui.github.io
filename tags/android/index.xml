@@ -3,11 +3,44 @@
  <title>jogosdaqui - android</title>
  <link href="//tags/android/index.xml" rel="self"/>
  <link href="/tag/android.html"/>
- <updated>2025-11-01T08:54:07-03:00</updated>
+ <updated>2025-11-02T11:07:11-03:00</updated>
  <id>/tag/android.html</id>
  <author>
    <name>jogosdaqui</name>
  </author>
+ 
+ <entry>
+   <title>Puzzlord</title>
+   <link href="//2025/11/02/puzzlord"/>
+   <updated>2025-11-02T00:00:00-03:00</updated>
+   <id>//2025/11/02/puzzlord</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Puzzlord&lt;/em&gt; é um &lt;strong&gt;jogo de palavras cruzadas&lt;/strong&gt; simples e divertido que desafia o jogador a encontrar palavras de diferentes categorias em um tempo limitado.&lt;/p&gt;
+
+&lt;h2 id=&quot;encontre-as-palavras&quot;&gt;Encontre as palavras&lt;/h2&gt;
+&lt;p&gt;O objetivo é localizar todas as palavras relacionadas ao tema da rodada, o mais rápido possível.&lt;br /&gt;
+As categorias vão desde &lt;strong&gt;animais&lt;/strong&gt;, &lt;strong&gt;filmes&lt;/strong&gt; e &lt;strong&gt;programação&lt;/strong&gt;, até &lt;strong&gt;astronomia&lt;/strong&gt;, &lt;strong&gt;ciência&lt;/strong&gt; e muito mais.&lt;br /&gt;
+Com três níveis de dificuldade, o jogo se adapta a diferentes perfis de jogadores.&lt;/p&gt;
+
+&lt;h2 id=&quot;feito-por-um-único-desenvolvedor&quot;&gt;Feito por um único desenvolvedor&lt;/h2&gt;
+&lt;p&gt;Sendo um projeto solo, todo o game design, programação e implementação foram feitos por Diego Giacomelli em &lt;strong&gt;Unity (C#)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/Zx5tULYKT9A &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;destaques&quot;&gt;Destaques&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;12 categorias de desafios.&lt;/li&gt;
+  &lt;li&gt;3 níveis de dificuldade.&lt;/li&gt;
+  &lt;li&gt;Jogabilidade rápida e intuitiva.&lt;/li&gt;
+  &lt;li&gt;Visual limpo e acessível.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Disponível gratuitamente para &lt;strong&gt;Android&lt;/strong&gt; na &lt;a href=&quot;https://play.google.com/store/apps/details?id=br.com.diegogiacomelli.puzzlord&quot;&gt;Google Play Store&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Who Kills Who?</title>
