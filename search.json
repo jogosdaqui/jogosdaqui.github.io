@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Adventure of Samsara",
+      "category" : "Game",
+      "tags"     : "ilex games, atari, metroidvania, rpg, plataforma, pixel art, aventura, indie, steam",
+      "url"      : "/2025/11/03/adventure-of-samsara",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Puzzlord",
       "category" : "Game",
       "tags"     : "diego giacomelli, puzzle, palavra cruzada, android, unity, indie",
@@ -5036,18 +5044,18 @@
     } ,
     
     {
-      "title"    : "Fighters of Caribbean",
-      "category" : "Game",
-      "tags"     : "palmsoft tecnologia",
-      "url"      : "/2006/03/24/fighters-of-caribbean",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Gladiarena",
       "category" : "Game",
       "tags"     : "palmsoft tecnologia",
       "url"      : "/2006/03/24/gladiarena",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Fighters of Caribbean",
+      "category" : "Game",
+      "tags"     : "palmsoft tecnologia",
+      "url"      : "/2006/03/24/fighters-of-caribbean",
       "author"   : ""
     } ,
     
@@ -5100,18 +5108,18 @@
     } ,
     
     {
-      "title"    : "A Ponte",
-      "category" : "Game",
-      "tags"     : "devworks game technology, mega drive, master system, press release",
-      "url"      : "/2006/03/08/a-ponte",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Xadrez",
       "category" : "Game",
       "tags"     : "tabuleiro",
       "url"      : "/2006/03/08/xadrez",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "A Ponte",
+      "category" : "Game",
+      "tags"     : "devworks game technology, mega drive, master system, press release",
+      "url"      : "/2006/03/08/a-ponte",
       "author"   : ""
     } ,
     
@@ -5148,18 +5156,18 @@
     } ,
     
     {
-      "title"    : "Faroeste",
-      "category" : "Game",
-      "tags"     : "devworks game technology, mega drive, master system",
-      "url"      : "/2006/02/03/faroeste",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Rally dos Sertões 2005",
       "category" : "Game",
       "tags"     : "mdev, corrida, mobile",
       "url"      : "/2006/02/03/rally-dos-sertoes-2005",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Faroeste",
+      "category" : "Game",
+      "tags"     : "devworks game technology, mega drive, master system",
+      "url"      : "/2006/02/03/faroeste",
       "author"   : ""
     } ,
     
@@ -5172,18 +5180,18 @@
     } ,
     
     {
-      "title"    : "Shangai",
-      "category" : "Game",
-      "tags"     : "tabuleiro",
-      "url"      : "/2006/01/31/shangai",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Fencer Duel",
       "category" : "Game",
       "tags"     : "palmsoft tecnologia",
       "url"      : "/2006/01/31/fencer-duel",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Shangai",
+      "category" : "Game",
+      "tags"     : "tabuleiro",
+      "url"      : "/2006/01/31/shangai",
       "author"   : ""
     } ,
     
@@ -5340,14 +5348,6 @@
     } ,
     
     {
-      "title"    : "Garatuja",
-      "category" : "Game",
-      "tags"     : "tilt",
-      "url"      : "/2005/11/23/garatuja",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Ryudragon",
       "category" : "Game",
       "tags"     : "decadium studios",
@@ -5356,10 +5356,10 @@
     } ,
     
     {
-      "title"    : "Nishi Aqua Fight",
+      "title"    : "Garatuja",
       "category" : "Game",
-      "tags"     : "z80 software, mobile, tiro",
-      "url"      : "/2005/11/21/nishi-aqua-fight",
+      "tags"     : "tilt",
+      "url"      : "/2005/11/23/garatuja",
       "author"   : ""
     } ,
     
@@ -5368,6 +5368,14 @@
       "category" : "Game",
       "tags"     : "icon games",
       "url"      : "/2005/11/21/bola-de-gude",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Nishi Aqua Fight",
+      "category" : "Game",
+      "tags"     : "z80 software, mobile, tiro",
+      "url"      : "/2005/11/21/nishi-aqua-fight",
       "author"   : ""
     } ,
     
@@ -5428,18 +5436,18 @@
     } ,
     
     {
-      "title"    : "Ottomax",
-      "category" : "Game",
-      "tags"     : "insolita studios",
-      "url"      : "/2005/11/03/ottomax",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Gold Hunter",
       "category" : "Game",
       "tags"     : "",
       "url"      : "/2005/11/03/gold-hunter",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Ottomax",
+      "category" : "Game",
+      "tags"     : "insolita studios",
+      "url"      : "/2005/11/03/ottomax",
       "author"   : ""
     } ,
     
@@ -5476,18 +5484,18 @@
     } ,
     
     {
-      "title"    : "CUBi",
-      "category" : "Game",
-      "tags"     : "lumen technology, mobile",
-      "url"      : "/2005/10/24/cubi",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Muralha",
       "category" : "Game",
       "tags"     : "",
       "url"      : "/2005/10/24/muralha",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "CUBi",
+      "category" : "Game",
+      "tags"     : "lumen technology, mobile",
+      "url"      : "/2005/10/24/cubi",
       "author"   : ""
     } ,
     
@@ -5540,14 +5548,6 @@
     } ,
     
     {
-      "title"    : "Meu Big Brother",
-      "category" : "Game",
-      "tags"     : "reality show",
-      "url"      : "/2005/10/18/meu-big-brother",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Rain of Fire",
       "category" : "Game",
       "tags"     : "",
@@ -5556,10 +5556,10 @@
     } ,
     
     {
-      "title"    : "Riding Ground",
+      "title"    : "Meu Big Brother",
       "category" : "Game",
-      "tags"     : "acao",
-      "url"      : "/2005/10/15/riding-ground",
+      "tags"     : "reality show",
+      "url"      : "/2005/10/18/meu-big-brother",
       "author"   : ""
     } ,
     
@@ -5568,6 +5568,14 @@
       "category" : "Game",
       "tags"     : "preloud studios",
       "url"      : "/2005/10/15/die-ponyrancher",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Riding Ground",
+      "category" : "Game",
+      "tags"     : "acao",
+      "url"      : "/2005/10/15/riding-ground",
       "author"   : ""
     } ,
     
@@ -5620,18 +5628,18 @@
     } ,
     
     {
-      "title"    : "Whiskeria Paradiso",
-      "category" : "Game",
-      "tags"     : "mobile",
-      "url"      : "/2005/10/10/whiskeria-paradiso",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "R/C Racing",
       "category" : "Game",
       "tags"     : "mra, press release, advergame, corrida",
       "url"      : "/2005/10/10/rc-racing",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Whiskeria Paradiso",
+      "category" : "Game",
+      "tags"     : "mobile",
+      "url"      : "/2005/10/10/whiskeria-paradiso",
       "author"   : ""
     } ,
     
@@ -5668,18 +5676,18 @@
     } ,
     
     {
-      "title"    : "Othello",
-      "category" : "Game",
-      "tags"     : "continuum, tabuleiro",
-      "url"      : "/2005/10/01/othello",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Impacto Alpha",
       "category" : "Game",
       "tags"     : "oniria entertainment, shoot em up, tiro",
       "url"      : "/2005/10/01/impacto-alpha",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Othello",
+      "category" : "Game",
+      "tags"     : "continuum, tabuleiro",
+      "url"      : "/2005/10/01/othello",
       "author"   : ""
     } ,
     
@@ -5716,18 +5724,18 @@
     } ,
     
     {
-      "title"    : "Programa do Ratinho",
-      "category" : "Game",
-      "tags"     : "televisao",
-      "url"      : "/2005/09/27/programa-do-ratinho",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Roko-Loko no castelo do Ratozinger",
       "category" : "Game",
       "tags"     : "roko loko, sao paulo",
       "url"      : "/2005/09/27/roko-loko-no-castelo-do-ratozinger",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Programa do Ratinho",
+      "category" : "Game",
+      "tags"     : "televisao",
+      "url"      : "/2005/09/27/programa-do-ratinho",
       "author"   : ""
     } ,
     
