@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>jogosdaqui - building</title>
+ <link href="//tags/building/index.xml" rel="self"/>
+ <link href="/tag/building.html"/>
+ <updated>2025-11-06T06:18:17-03:00</updated>
+ <id>/tag/building.html</id>
+ <author>
+   <name>jogosdaqui</name>
+ </author>
+ 
+ <entry>
+   <title>TowerMancer</title>
+   <link href="//2025/11/06/towermancer"/>
+   <updated>2025-11-06T00:00:00-03:00</updated>
+   <id>//2025/11/06/towermancer</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;TowerMancer&lt;/em&gt; é um &lt;strong&gt;jogo de estratégia e construção de torres&lt;/strong&gt; desenvolvido e publicado pela &lt;strong&gt;Digital Synapsis&lt;/strong&gt;, que combina gerenciamento de recursos, desafios táticos e narrativa sobrenatural.&lt;br /&gt;
+Misturando elementos de simulação e fantasia sombria, o jogo convida o jogador a erguer uma torre mágica, enfrentar ameaças constantes e conquistar seu lugar na poderosa &lt;strong&gt;família Lich&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;construa-sua-torre-no-submundo&quot;&gt;Construa sua torre no submundo&lt;/h2&gt;
+
+&lt;p&gt;Como o mais jovem descendente da família Lich, você deve provar seu valor construindo uma torre que desafie os limites da magia e da morte.&lt;br /&gt;
+Cada cômodo é uma decisão estratégica: gerar recursos, treinar servos, fortalecer defesas ou expandir sua influência.&lt;br /&gt;
+Mas cuidado — o poder atrai inimigos, e as ameaças se tornam cada vez mais implacáveis.&lt;/p&gt;
+
+&lt;h2 id=&quot;mecânicas-e-modos-de-jogo&quot;&gt;Mecânicas e modos de jogo&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;15 níveis de campanha&lt;/strong&gt;, narrando a ascensão do TowerMancer e seu destino como arquimago do submundo.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;18 desafios extras&lt;/strong&gt;, que colocam suas habilidades à prova em contratos paralelos e cenários imprevisíveis.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dois modos de jogo&lt;/strong&gt; — &lt;strong&gt;Campanha&lt;/strong&gt; e &lt;strong&gt;Modo Aleatório&lt;/strong&gt;, para quem prefere liberdade total ou uma progressão estruturada.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Desbloqueáveis e aprimoramentos&lt;/strong&gt; que fortalecem suas chances de sobrevivência e eficiência na torre.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;
+        &lt;iframe src=&quot;https://www.youtube.com/embed/BOr3lnvAyVc &quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/center&gt;
+
+&lt;h2 id=&quot;uma-linhagem-de-necromantes&quot;&gt;Uma linhagem de necromantes&lt;/h2&gt;
+
+&lt;p&gt;Muito tempo atrás, &lt;strong&gt;The Lich&lt;/strong&gt;, o mago mais poderoso do submundo, encontrou o amor na fria presença da &lt;strong&gt;Lichmancer&lt;/strong&gt;, uma necromante capaz de comandar exércitos inteiros de mortos-vivos.&lt;br /&gt;
+Dessa união nasceram os &lt;strong&gt;Lesser Lichs&lt;/strong&gt;, cada um com sua própria paixão e propósito.&lt;br /&gt;
+Agora, você assume o papel do mais jovem deles — um aspirante movido pelo desejo de se tornar o lendário &lt;strong&gt;TowerMancer&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Disponível na &lt;a href=&quot;https://store.steampowered.com/app/1480440/TowerMancer/&quot;&gt;Steam&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>
