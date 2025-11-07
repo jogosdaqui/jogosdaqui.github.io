@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Lost Astronaut",
+      "category" : "Game",
+      "tags"     : "minicactus games, arcade, física, espaço, naves, 2d, precisão, indie, steam",
+      "url"      : "/2025/11/07/lost-astronaut",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "TowerMancer",
       "category" : "Game",
       "tags"     : "digital synapsis, estraegia, building, tower defense, necromancia, fantasia, indie, steam",
@@ -5116,14 +5124,6 @@
     } ,
     
     {
-      "title"    : "Aquadum",
-      "category" : "Game",
-      "tags"     : "decadium studios",
-      "url"      : "/2006/03/13/aquadum",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Castle Ghost",
       "category" : "Game",
       "tags"     : "edward multimidia",
@@ -5132,10 +5132,10 @@
     } ,
     
     {
-      "title"    : "Xadrez",
+      "title"    : "Aquadum",
       "category" : "Game",
-      "tags"     : "tabuleiro",
-      "url"      : "/2006/03/08/xadrez",
+      "tags"     : "decadium studios",
+      "url"      : "/2006/03/13/aquadum",
       "author"   : ""
     } ,
     
@@ -5144,6 +5144,14 @@
       "category" : "Game",
       "tags"     : "devworks game technology, mega drive, master system, press release",
       "url"      : "/2006/03/08/a-ponte",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Xadrez",
+      "category" : "Game",
+      "tags"     : "tabuleiro",
+      "url"      : "/2006/03/08/xadrez",
       "author"   : ""
     } ,
     
@@ -5228,18 +5236,18 @@
     } ,
     
     {
-      "title"    : "PalmSoft Drag Racer",
-      "category" : "Game",
-      "tags"     : "palmsoft tecnologia, mobile, corrida",
-      "url"      : "/2006/01/23/palmsoft-drag-racer-2",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "War of Malquidious",
       "category" : "Game",
       "tags"     : "palmsoft tecnologia, mobile, rpg",
       "url"      : "/2006/01/23/war-of-malquidious-2",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "PalmSoft Drag Racer",
+      "category" : "Game",
+      "tags"     : "palmsoft tecnologia, mobile, corrida",
+      "url"      : "/2006/01/23/palmsoft-drag-racer-2",
       "author"   : ""
     } ,
     
@@ -5372,14 +5380,6 @@
     } ,
     
     {
-      "title"    : "Garatuja",
-      "category" : "Game",
-      "tags"     : "tilt",
-      "url"      : "/2005/11/23/garatuja",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Ryudragon",
       "category" : "Game",
       "tags"     : "decadium studios",
@@ -5388,10 +5388,10 @@
     } ,
     
     {
-      "title"    : "Nishi Aqua Fight",
+      "title"    : "Garatuja",
       "category" : "Game",
-      "tags"     : "z80 software, mobile, tiro",
-      "url"      : "/2005/11/21/nishi-aqua-fight",
+      "tags"     : "tilt",
+      "url"      : "/2005/11/23/garatuja",
       "author"   : ""
     } ,
     
@@ -5400,6 +5400,14 @@
       "category" : "Game",
       "tags"     : "icon games",
       "url"      : "/2005/11/21/bola-de-gude",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Nishi Aqua Fight",
+      "category" : "Game",
+      "tags"     : "z80 software, mobile, tiro",
+      "url"      : "/2005/11/21/nishi-aqua-fight",
       "author"   : ""
     } ,
     
@@ -5460,18 +5468,18 @@
     } ,
     
     {
-      "title"    : "Ottomax",
-      "category" : "Game",
-      "tags"     : "insolita studios",
-      "url"      : "/2005/11/03/ottomax",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Gold Hunter",
       "category" : "Game",
       "tags"     : "",
       "url"      : "/2005/11/03/gold-hunter",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Ottomax",
+      "category" : "Game",
+      "tags"     : "insolita studios",
+      "url"      : "/2005/11/03/ottomax",
       "author"   : ""
     } ,
     
@@ -5508,18 +5516,18 @@
     } ,
     
     {
-      "title"    : "CUBi",
-      "category" : "Game",
-      "tags"     : "lumen technology, mobile",
-      "url"      : "/2005/10/24/cubi",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Muralha",
       "category" : "Game",
       "tags"     : "",
       "url"      : "/2005/10/24/muralha",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "CUBi",
+      "category" : "Game",
+      "tags"     : "lumen technology, mobile",
+      "url"      : "/2005/10/24/cubi",
       "author"   : ""
     } ,
     
@@ -5572,14 +5580,6 @@
     } ,
     
     {
-      "title"    : "Meu Big Brother",
-      "category" : "Game",
-      "tags"     : "reality show",
-      "url"      : "/2005/10/18/meu-big-brother",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Rain of Fire",
       "category" : "Game",
       "tags"     : "",
@@ -5588,10 +5588,10 @@
     } ,
     
     {
-      "title"    : "Riding Ground",
+      "title"    : "Meu Big Brother",
       "category" : "Game",
-      "tags"     : "acao",
-      "url"      : "/2005/10/15/riding-ground",
+      "tags"     : "reality show",
+      "url"      : "/2005/10/18/meu-big-brother",
       "author"   : ""
     } ,
     
@@ -5600,6 +5600,14 @@
       "category" : "Game",
       "tags"     : "preloud studios",
       "url"      : "/2005/10/15/die-ponyrancher",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Riding Ground",
+      "category" : "Game",
+      "tags"     : "acao",
+      "url"      : "/2005/10/15/riding-ground",
       "author"   : ""
     } ,
     
@@ -5652,18 +5660,18 @@
     } ,
     
     {
-      "title"    : "Whiskeria Paradiso",
-      "category" : "Game",
-      "tags"     : "mobile",
-      "url"      : "/2005/10/10/whiskeria-paradiso",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "R/C Racing",
       "category" : "Game",
       "tags"     : "mra, press release, advergame, corrida",
       "url"      : "/2005/10/10/rc-racing",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Whiskeria Paradiso",
+      "category" : "Game",
+      "tags"     : "mobile",
+      "url"      : "/2005/10/10/whiskeria-paradiso",
       "author"   : ""
     } ,
     
@@ -5700,18 +5708,18 @@
     } ,
     
     {
-      "title"    : "Othello",
-      "category" : "Game",
-      "tags"     : "continuum, tabuleiro",
-      "url"      : "/2005/10/01/othello",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Impacto Alpha",
       "category" : "Game",
       "tags"     : "oniria entertainment, shoot em up, tiro",
       "url"      : "/2005/10/01/impacto-alpha",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Othello",
+      "category" : "Game",
+      "tags"     : "continuum, tabuleiro",
+      "url"      : "/2005/10/01/othello",
       "author"   : ""
     } ,
     
@@ -5748,18 +5756,18 @@
     } ,
     
     {
-      "title"    : "Programa do Ratinho",
-      "category" : "Game",
-      "tags"     : "televisao",
-      "url"      : "/2005/09/27/programa-do-ratinho",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Roko-Loko no castelo do Ratozinger",
       "category" : "Game",
       "tags"     : "roko loko, sao paulo",
       "url"      : "/2005/09/27/roko-loko-no-castelo-do-ratozinger",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Programa do Ratinho",
+      "category" : "Game",
+      "tags"     : "televisao",
+      "url"      : "/2005/09/27/programa-do-ratinho",
       "author"   : ""
     } ,
     
