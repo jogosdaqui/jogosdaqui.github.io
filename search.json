@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "VASARA Collection",
+      "category" : "Game",
+      "tags"     : "qubyte interactive, shootemup, arcade, retro, bullet hell, ação, japão, steam, ps4, psvita,, xbox, e, nintendoswitch.",
+      "url"      : "/2025/11/08/vasara-collection",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "Lost Astronaut",
       "category" : "Game",
       "tags"     : "minicactus games, arcade, física, espaço, naves, 2d, precisão, indie, steam",
@@ -4284,6 +4292,14 @@
     } ,
     
     {
+      "title"    : "Numbers of Gold",
+      "category" : "Game",
+      "tags"     : "ios, android, facebook, cupcake sweet entertainment, press release",
+      "url"      : "/2021/04/16/numbers-of-gold",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "World Crush Cup",
       "category" : "Game",
       "tags"     : "monsterbed game studio, futebol, esporte, press release",
@@ -4296,14 +4312,6 @@
       "category" : "Game",
       "tags"     : "imax games, esporte, futebol, tela interativa, press release",
       "url"      : "/2021/04/16/wall-soccer",
-      "author"   : "Diego Giacomelli"
-    } ,
-    
-    {
-      "title"    : "Numbers of Gold",
-      "category" : "Game",
-      "tags"     : "ios, android, facebook, cupcake sweet entertainment, press release",
-      "url"      : "/2021/04/16/numbers-of-gold",
       "author"   : "Diego Giacomelli"
     } ,
     
@@ -5124,18 +5132,18 @@
     } ,
     
     {
-      "title"    : "Castle Ghost",
-      "category" : "Game",
-      "tags"     : "edward multimidia",
-      "url"      : "/2006/03/13/castle-ghost",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Aquadum",
       "category" : "Game",
       "tags"     : "decadium studios",
       "url"      : "/2006/03/13/aquadum",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Castle Ghost",
+      "category" : "Game",
+      "tags"     : "edward multimidia",
+      "url"      : "/2006/03/13/castle-ghost",
       "author"   : ""
     } ,
     
@@ -5188,18 +5196,18 @@
     } ,
     
     {
-      "title"    : "Faroeste",
-      "category" : "Game",
-      "tags"     : "devworks game technology, mega drive, master system",
-      "url"      : "/2006/02/03/faroeste",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Rally dos Sertões 2005",
       "category" : "Game",
       "tags"     : "mdev, corrida, mobile",
       "url"      : "/2006/02/03/rally-dos-sertoes-2005",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Faroeste",
+      "category" : "Game",
+      "tags"     : "devworks game technology, mega drive, master system",
+      "url"      : "/2006/02/03/faroeste",
       "author"   : ""
     } ,
     
@@ -5236,18 +5244,18 @@
     } ,
     
     {
-      "title"    : "War of Malquidious",
-      "category" : "Game",
-      "tags"     : "palmsoft tecnologia, mobile, rpg",
-      "url"      : "/2006/01/23/war-of-malquidious-2",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "PalmSoft Drag Racer",
       "category" : "Game",
       "tags"     : "palmsoft tecnologia, mobile, corrida",
       "url"      : "/2006/01/23/palmsoft-drag-racer-2",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "War of Malquidious",
+      "category" : "Game",
+      "tags"     : "palmsoft tecnologia, mobile, rpg",
+      "url"      : "/2006/01/23/war-of-malquidious-2",
       "author"   : ""
     } ,
     
