@@ -4100,6 +4100,14 @@
     
     
     {
+      "title"    : "Puzzimals",
+      "category" : "Game",
+      "tags"     : "diego giacomelli, puzzle, casual, mobile, indie, android",
+      "url"      : "/2025/11/13/puzzimals",
+      "author"   : "Diego Giacomelli"
+    } ,
+    
+    {
       "title"    : "VASARA Collection",
       "category" : "Game",
       "tags"     : "qubyte interactive, shootemup, arcade, retro, bullet hell, ação, japão, steam, ps4, psvita,, xbox, e, nintendoswitch.",
@@ -5132,18 +5140,18 @@
     } ,
     
     {
-      "title"    : "Aquadum",
-      "category" : "Game",
-      "tags"     : "decadium studios",
-      "url"      : "/2006/03/13/aquadum",
-      "author"   : ""
-    } ,
-    
-    {
       "title"    : "Castle Ghost",
       "category" : "Game",
       "tags"     : "edward multimidia",
       "url"      : "/2006/03/13/castle-ghost",
+      "author"   : ""
+    } ,
+    
+    {
+      "title"    : "Aquadum",
+      "category" : "Game",
+      "tags"     : "decadium studios",
+      "url"      : "/2006/03/13/aquadum",
       "author"   : ""
     } ,
     
